@@ -1,4 +1,9 @@
-* "Why is this Useful?"
+---
+layout: post
+title:  Why Is This Useful?
+categories: [technology, feminism]
+---
+
 
 Last week I had a dissertation workshop where I presented a rough
 draft of my chapter on Social Annotation. I was feeling pretty
@@ -8,4 +13,10 @@ that aren't typical for projects in English studies. To give you an
 idea---I'm developing a digital annotation tool that has a multi-color
 highlighter for teaching purposes. I'm hoping that the colors will
 help students to engage their immediate and embodied responses to
-reading, prior to their articulation in language. 
+reading, prior to their articulation in language. ...
+neuroscience and technology
+disability studies
+
+
+my professor saying that i need to explain the utility of this
+tool. life go fuck yourself sir. 
