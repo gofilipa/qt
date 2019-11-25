@@ -4,23 +4,26 @@ title: About
 permalink: /about/
 ---
 
-<!---
-- what is this site
-- who am I
-- What is this project
-- read my prospectus
-- see my notes and other stuff
---> 
+[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
 
-This website holds my ideas toward a disseration called "Queer Tools."
-I keep a weekly [blog]() of my progress, drafts of my [prospectus]()
-and of chapters (forthcoming)
+This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
 
+## Features
 
+- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
+- Fully responsive and mobile optimized base theme
+- Sass/Coffeescript support using Jekyll 2.0
+- Free hosting on your GitHub Pages user site
+- All the SEO goodies comes in-built
+- Markdown blogging
+- Syntax highlighting using Pygments
+    - [Dracula syntax theme](https://draculatheme.com/) included
+- Disqus commenting
+- Google Analytics integration
+- Fuzzy search across blog posts
+- Pagination of posts works out-of-the-box.
+- Categorize posts out-of-the box
+- RSS Feed
+- In-built sitemap
 
-
-
-*** 
-
-This site is generated with [Jekyll](https://jekyllrb.com/) and uses the [Reverie](https://github.com/amitmerchant1990/reverie) theme modified by [Amit
-Merchant](https://www.amitmerchant.com).
+Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
