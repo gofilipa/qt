@@ -1,7 +1,10 @@
-* Propectus: Queer Tools
-Filipa Calado
+---
+layout: page
+title: Prospectus
+permalink: /prospectus/
+---
 
-** The Rise of Queer DH
+### The Rise of Queer DH
 Since the popularization of "distant reading," there has been much
 debate about what digital tools can do for the humanities, and
 literary studies in particular.[fn:1] Although many DH practitioners
@@ -24,8 +27,7 @@ which reimagines how various components of an operating system, such
 as interfaces, applications, and memory function unexpectedly within
 an ethos of queerness.
 
-** Experimentation, Exploration, Error
-
+### Experimentation, Exploration, Error
 Although the speculative nature of such projects troubles the
 positivist tendencies of mainstream DH, allowing critics to imagine
 the emergence of queered technological contexts where functionality
@@ -50,7 +52,7 @@ construction and legibility of queer embodiment and subjecthood. How
 do digital tools allow us to “encode” or “decode” queerness in texts
 that trouble the stability of a writing self?
  
-** Touching without Touching
+### Touching without Touching
 At stake throughout my project is the critic's relation to the object
 of study. Some DH practitioners have already proposed useful models
 for reading that emphasize the critic's role in analysis, such as
@@ -76,7 +78,7 @@ users must swipe, drag, and click their way. This reading method aims
 to expose what happens when we use digital media to engage with queer
 subjects.
 
-** Life Writing by Queer Authors
+### Life Writing by Queer Authors
 I mobilize the term "queer" as both method and matter, denoting not
 only a reading practice but also a textual corpus that features queer
 authors and subjects. This textual corpus in particular adds
@@ -106,8 +108,7 @@ and dynamic. An recurring concern throughout this analysis is the
 difficulty of using digital tools to "decode" or "encode" queer
 embodied experience.
 
-** Cyborgs
-
+### Cyborgs
 My project adopts the cyborg as a figure for queer embodiment that is
 assembled yet unseamed. Since Judith Butler's seminal troubling of
 gender in the early 90s, incoherences between sex, gender, and
@@ -134,8 +135,7 @@ interactions. Here, I speculate on how language marks us, triggers our
 emotions and memories to create aesthetic, affective reading
 experiences.
 
-** Toward Disability
-
+### Toward Disability
 My emphasis on queer relationality as a critical method for working
 with digital media naturally leads me to theorizing about the
 unexpected interactions humans have with their world. Here, I'm
@@ -163,8 +163,8 @@ facilitate the encoding of data about embodied experience? How might
 digital annotation tools visualize social reading as affective? And,
 finally, how do archival digitization efforts animate the past?
 
-** Chapter Descriptions
-*** How do these chapters fit together? --- overview of ideas
+### Chapter Descriptions
+
 Each chapter of this project takes up a different aspect of digital
 media to explore a facet of this central question: How do our current
 digital tools facilitate queer encounters with literature? This
@@ -187,7 +187,6 @@ chapters range over a variety of tools and areas of study, they are
 constrained by a investment to seek out queerness with our existing
 digital methodologies.
 
-*** Reading: How might we read by touching?
 The first chapter, "Reading: 'Touching without Touching,'" lays out
 what Digital Humanities methodologies might learn from queer
 theory. This chapter looks at specific reading practices by Eve
@@ -215,7 +214,6 @@ with these tools enlivens the reading process by allowing the reader
 to play, experiment, and imagine new connections to the textual
 object.
 
-*** Editing: How might we encode embodiment?
 The second chapter, "Editing: Encoding Embodiment," examines the
 instability of queer identity and subjecthood against the limitations
 and fixities of computational methods. How do the abstractions and
@@ -239,7 +237,6 @@ Life I Write to you in your Life/, to show how this problem endures
 over time and subject identities. This examination finds that queer
 experience is never fully legible, despite our tools.
 
-*** Teaching: How might we teach with emotions?
 The third chapter, "Teaching: Social Annotation," questions how
 digital annotation tools might facilitate embodied interactions with
 text. To begin to answer this question, I examine biological processes
@@ -266,7 +263,6 @@ Roland Barthes's /Roland Barthes by Roland Barthes/. I examine how
 annotation might harness cognition, affect, and embodiment as formal
 strategies in these texts.
 
-*** Archiving: How might we animate the past?
 The fourth chapter, "Archiving: Feeling Backward / Feed Forward,"
 explores queer temporality's connection to new media in order to
 disrupt typical notions of the archive. How do displacements across
@@ -297,9 +293,7 @@ archival preservation and animation in print, demonstrating how these
 authors write through enduring (im)possibilities of writing the self.
 
 
-*** TODO Read Sharpe, Kazanjian, Venus in Two Acts
-
-* Footnotes
+### Footnotes
 
 [fn:1] These theorists take different stances on whether DH tools
 facilitate a more objective, or what Franco Moretti calls

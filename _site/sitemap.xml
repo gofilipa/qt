@@ -38,10 +38,10 @@
 <loc>http://localhost:4000/qt/categories/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/qt/getting-started/</loc>
+<loc>http://localhost:4000/qt/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/qt/</loc>
+<loc>http://localhost:4000/qt/prospectus/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/qt/search/</loc>
