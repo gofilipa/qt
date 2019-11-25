@@ -13,8 +13,8 @@ permalink: /about/
 --> 
 
 This website holds my ideas toward a disseration called "Queer Tools."
-I keep a weekly blog of my progress, drafts of my [prospectus] and
-chapters (forthcoming)
+I keep a weekly [blog]() of my progress, drafts of my [prospectus]()
+and of chapters (forthcoming)
 
 
 
