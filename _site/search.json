@@ -3,7 +3,7 @@
     {
 
       "title"    : "Why Is This Useful?",
-      "url"      : "/reverie/explain-yourself/",
+      "url"      : "/qt/explain-yourself/",
       "category" : "technology, feminism",
       "date"     : "November 22, 2019"
     } ,
@@ -11,7 +11,7 @@
     {
 
       "title"    : "Code snippets in a blog post",
-      "url"      : "/reverie/code-snippets/",
+      "url"      : "/qt/code-snippets/",
       "category" : "HTML, Code",
       "date"     : "August 12, 2019"
     } ,
@@ -19,7 +19,7 @@
     {
 
       "title"    : "Sometimes, your post just stands for itself and doesn’t need a title. And that’s fine, too!",
-      "url"      : "/reverie/no-title-posts/",
+      "url"      : "/qt/no-title-posts/",
       "category" : "Miscellaneous",
       "date"     : "August  8, 2019"
     } ,
@@ -27,7 +27,7 @@
     {
 
       "title"    : "Some articles are just so short that we&#39;ve to make the footer stick",
-      "url"      : "/reverie/super-short-article/",
+      "url"      : "/qt/super-short-article/",
       "category" : "Miscellaneous",
       "date"     : "July 28, 2019"
     } ,
@@ -35,7 +35,7 @@
     {
 
       "title"    : "This post demonstrates post content styles",
-      "url"      : "/reverie/this-post-demonstrates-post-content-styles/",
+      "url"      : "/qt/this-post-demonstrates-post-content-styles/",
       "category" : "Miscellaneous",
       "date"     : "July 27, 2019"
     } ,
@@ -43,7 +43,7 @@
     {
 
       "title"    : "Some articles are just so long they deserve a really long title to see if things will break well",
-      "url"      : "/reverie/super-long-article/",
+      "url"      : "/qt/super-long-article/",
       "category" : "Miscellaneous",
       "date"     : "July 27, 2019"
     } ,
@@ -51,7 +51,7 @@
     {
 
       "title"    : "Introducing Reverie - A ridiculously elegant Jekyll theme",
-      "url"      : "/reverie/introducing-reverie-jekyll-theme/",
+      "url"      : "/qt/introducing-reverie-jekyll-theme/",
       "category" : "Miscellaneous, Jekyll",
       "date"     : "February 13, 2019"
     } 

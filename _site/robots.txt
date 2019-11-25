@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/reverie/sitemap.xml
+Sitemap: http://localhost:4000/qt/sitemap.xml
