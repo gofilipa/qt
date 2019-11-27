@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/qt/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/qt/" rel="alternate" type="text/html" /><updated>2019-11-25T00:32:04-05:00</updated><id>http://localhost:4000/qt/feed.xml</id><title type="html">Queer Tools</title><subtitle>Notes Toward a Dissertation</subtitle><author><name>Filipa Calado</name></author><entry><title type="html">Why Is This Useful?</title><link href="http://localhost:4000/qt/explain-yourself/" rel="alternate" type="text/html" title="Why Is This Useful?" /><published>2019-11-22T00:00:00-05:00</published><updated>2019-11-22T00:00:00-05:00</updated><id>http://localhost:4000/qt/explain-yourself</id><content type="html" xml:base="http://localhost:4000/qt/explain-yourself/">&lt;p&gt;Last week I had a dissertation workshop where I presented a rough
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/qt/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/qt/" rel="alternate" type="text/html" /><updated>2019-11-26T18:11:35-05:00</updated><id>http://localhost:4000/qt/feed.xml</id><title type="html">Queer Tools</title><subtitle>Notes Toward a Dissertation</subtitle><author><name>Filipa Calado</name></author><entry><title type="html">Why Is This Useful?</title><link href="http://localhost:4000/qt/explain-yourself/" rel="alternate" type="text/html" title="Why Is This Useful?" /><published>2019-11-22T00:00:00-05:00</published><updated>2019-11-22T00:00:00-05:00</updated><id>http://localhost:4000/qt/explain-yourself</id><content type="html" xml:base="http://localhost:4000/qt/explain-yourself/">&lt;p&gt;Last week I had a dissertation workshop where I presented a rough
 draft of my chapter on Social Annotation. I was feeling pretty
-vulnerable about it, not only is the draft in its infancy, but it also
+vulnerable about it. Not only is the draft in its infancy, but it also
 combines a few disciplines that aren’t typical for projects in English
 studies.&lt;/p&gt;
 
@@ -15,19 +15,18 @@ alternative kinds of annotation, particularly annotation that short
 circuits verbalized forms of response. My paper on this project (which
 will be fully drafted once I use the tool in the classroom)
 interweaves my narrative of the tool’s technical development with
-discourses on educational technology and neuroscience. Across these
-topics, I’m trying to show the ways that current annotation tools
-track or quantify student data, and how looking at reading from a
-neuroscientific lense, particularly from the perspective of embodied
-cognition, opens up the way we understand students’ engagement with
-text. To better display this engagement, I created the highlighter
-with really low color opacities that facilitates layering. I imagine
-that, in a social reading situation, different readers will highlight
-with different colors over the same piece of text. My idea is that the
-color-highlighter’s layering capability will create a kind of
-“heatmap” of the text, which manifests in new color combinations. This
-palimpsest of readings will (I hope) show student reactions in
-contrast.&lt;/p&gt;
+discourses on educational technology and neuroscience. I’m trying to
+show the ways that current annotation tools track or quantify student
+data, and how looking at reading from a neuroscientific lense,
+particularly from the perspective of embodied cognition, opens up the
+way we understand students’ engagement with text. To better display
+this engagement, I created the highlighter with really low color
+opacities that facilitates layering. I imagine that different readers
+will highlight with different colors over the same piece of text. My
+idea is that the color-highlighter’s layering capability will create a
+kind of “heatmap” of the text, which manifests in new color
+combinations. This palimpsest of readings will (I hope) show student
+reactions in contrast.&lt;/p&gt;
 
 &lt;p&gt;Most of the feedback I got from the group was really useful. There
 were comments about the structure, foregrounding the experimental
@@ -65,7 +64,7 @@ into?&lt;/p&gt;
 answer for the “why” is that if we [English scholars] don’t guide this
 conversation it will be guided for us, by the tech companies. If we
 [the educators] don’t think about how our tools work we will use them
-uncritically. Our students will become a source of data collection
+uncritically, and our students will become a source of data collection
 rather than aesthetic production. I have some language to this effect
 in the introduction, but I guess it’s understated. I also tend to
 assume that everybody thinks like me and already knows that edtech is
@@ -74,17 +73,17 @@ evil.&lt;/p&gt;
 &lt;p&gt;But then, afterward, I got to thinking about it. And how absurd it is
 that I was asked to defend the utility of my work. Nobody else in the
 workshop is being asked these questions—at least not that I have
-noticed. Only my project, which the sole technical project, has this
-burden. Why should I have to explain myself to traditional scholars,
-when my colleagues, who are doing great work on alternative archives,
-melancholia, music, composition studies, ventriloquisim, aren’t being
-asked to do the same?&lt;/p&gt;
+noticed. Only my project, the sole technical project, has this
+burden. Why should I have to explain myself, when my colleagues, who
+are mostly doing non traditional work on archives, melancholia, music,
+composition studies, ventriloquisim, aren’t being asked to do the
+same?&lt;/p&gt;
 
-&lt;p&gt;Even the majority of my classmates’ projects aren’t in any sense
-traditional. But there’s an implicit agreement in these projects are
-inherently important. The exploratory nature isn’t questioned. Why
-should I have to defend my decision to create a multi-color
-highlighter?&lt;/p&gt;</content><author><name>Filipa Calado</name></author><summary type="html">Last week I had a dissertation workshop where I presented a rough draft of my chapter on Social Annotation. I was feeling pretty vulnerable about it, not only is the draft in its infancy, but it also combines a few disciplines that aren’t typical for projects in English studies.</summary></entry><entry><title type="html">Code snippets in a blog post</title><link href="http://localhost:4000/qt/code-snippets/" rel="alternate" type="text/html" title="Code snippets in a blog post" /><published>2019-08-12T00:00:00-04:00</published><updated>2019-08-12T00:00:00-04:00</updated><id>http://localhost:4000/qt/code-snippets</id><content type="html" xml:base="http://localhost:4000/qt/code-snippets/">&lt;p&gt;This post demonstrate the use of code snippets in the theme. The code snippets are powered by &lt;a href=&quot;http://pygments.org/&quot;&gt;Pygments&lt;/a&gt; and the code theme that is been used in Reverie is called &lt;a href=&quot;https://draculatheme.com/&quot;&gt;Draula&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Even though the majority of my classmates’ projects aren’t
+“traditional,” there’s an implicit agreement that the exploratory
+nature of their scholarship is inherently important. Their choices
+about objects of study or methods aren’t questioned. Why should I have
+to explain my decisions? Why can’t I just tell you what I’m thinking?&lt;/p&gt;</content><author><name>Filipa Calado</name></author><summary type="html">Last week I had a dissertation workshop where I presented a rough draft of my chapter on Social Annotation. I was feeling pretty vulnerable about it. Not only is the draft in its infancy, but it also combines a few disciplines that aren’t typical for projects in English studies.</summary></entry><entry><title type="html">Code snippets in a blog post</title><link href="http://localhost:4000/qt/code-snippets/" rel="alternate" type="text/html" title="Code snippets in a blog post" /><published>2019-08-12T00:00:00-04:00</published><updated>2019-08-12T00:00:00-04:00</updated><id>http://localhost:4000/qt/code-snippets</id><content type="html" xml:base="http://localhost:4000/qt/code-snippets/">&lt;p&gt;This post demonstrate the use of code snippets in the theme. The code snippets are powered by &lt;a href=&quot;http://pygments.org/&quot;&gt;Pygments&lt;/a&gt; and the code theme that is been used in Reverie is called &lt;a href=&quot;https://draculatheme.com/&quot;&gt;Draula&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;This is a raw snippet:&lt;/p&gt;
 
