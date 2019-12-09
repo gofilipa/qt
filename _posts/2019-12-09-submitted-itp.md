@@ -4,7 +4,7 @@ title: Certificate Accomplished
 categories: [technology, digital annotation]
 ---
 
-Yesterday I finally submitted my final paper for the ITP (Interactive
+Yesterday I submitted my final paper for the ITP (Interactive
 Technology and Pedagogy) certificate program. I started working on
 this project in the spring of 2018, when I theorized the purpose of
 building and using a (digital) multi-color highlighter to teach
