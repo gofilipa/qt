@@ -11,7 +11,7 @@ and literary studies in particular.[fn:1] Although many DH
 practitioners have been careful to situate their methodologies within
 the context of humanistic study, there persists an idea that digital
 methods ought to verify, correct, or establish facts about literature
-and literary history, similarly to the qualitative social
+and literary history, similarly to the quantitative social
 sciences.[fn:2] However, within the broad field of "Digital
 Humanities," an emerging /Queer/ DH is upending this assumption. This
 recent work interrogates some of the ways that “queerness” might
