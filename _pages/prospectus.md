@@ -34,8 +34,6 @@ positivist tendencies of mainstream DH, allowing critics to imagine
 the emergence of queered technological contexts where functionality
 and productivity are not taken for granted, it overlooks the ways in
 which current technological systems and tools already contain elements
-
-
 of queerness and encourage queer encounters with text.[fn:3]
 "Queerness" in my project operates on three levels. First, on the
 level of subjectivity, signifying nonnormative sexualities, desires,
