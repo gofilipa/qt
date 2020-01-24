@@ -1,4 +1,101 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/qt/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/qt/" rel="alternate" type="text/html" /><updated>2019-12-13T10:27:15-05:00</updated><id>http://localhost:4000/qt/feed.xml</id><title type="html">Queer Tools</title><subtitle>Notes Toward a Dissertation</subtitle><author><name>Filipa Calado</name></author><entry><title type="html">Certificate Accomplished</title><link href="http://localhost:4000/qt/submitted-itp/" rel="alternate" type="text/html" title="Certificate Accomplished" /><published>2019-12-09T00:00:00-05:00</published><updated>2019-12-09T00:00:00-05:00</updated><id>http://localhost:4000/qt/submitted-itp</id><content type="html" xml:base="http://localhost:4000/qt/submitted-itp/">&lt;p&gt;Yesterday I submitted my final paper for the ITP (Interactive
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/qt/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/qt/" rel="alternate" type="text/html" /><updated>2020-01-24T11:26:52-05:00</updated><id>http://localhost:4000/qt/feed.xml</id><title type="html">Queer Tools</title><subtitle>Notes Toward a Dissertation</subtitle><author><name>Filipa Calado</name></author><entry><title type="html"></title><link href="http://localhost:4000/qt/2020-1-24-digital-research-institute/" rel="alternate" type="text/html" title="" /><published>2020-01-24T11:26:52-05:00</published><updated>2020-01-24T11:26:52-05:00</updated><id>http://localhost:4000/qt/2020-1-24-digital-research-institute</id><content type="html" xml:base="http://localhost:4000/qt/2020-1-24-digital-research-institute/">&lt;p&gt;The past few days we have been running our annual &lt;a href=&quot;https://gcdri.commons.gc.cuny.edu/&quot;&gt;Digital Research
+Institute&lt;/a&gt; at the Graduate Center
+Digital Initiatives. I’ve taught three sessions of python, and
+supported sessions on Text Analysis, as well as helping out in Command
+Line, Git/Github, and attended Mapping.&lt;/p&gt;
+
+&lt;p&gt;What I’ve found, or realized once again, is how much my approach
+toward data and method informs my interest in DH.&lt;/p&gt;
+
+&lt;p&gt;As I watched the Text Analysis workshop unfold, the most striking
+realization was the preconceptions and biases we bring into our
+inferences. We might make certain assumptions about the analysis in
+Natural Language Toolkit’s (NLTK) &lt;code class=&quot;highlighter-rouge&quot;&gt;similar()&lt;/code&gt; method, which measures
+what words are similar to any other word. In the analysis below, we
+see what words are associated to “love” across two different texts,
+&lt;em&gt;Moby Dick&lt;/em&gt; (text1) and &lt;em&gt;Sense And Sensibility&lt;/em&gt; (text2).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/love-similar.jpg&quot; alt=&quot;Finding words that are similar to &amp;quot;love&amp;quot; in *Moby Dick* and *Sense
+and Sensibility*&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;For Melville, love is associated with the strong natural forces,
+having to do with or brought on by nature (“sea,” “whale,” “fear”) and
+men, male bodies (“head,” “hand,” “him,” “me”). In Austen, the word
+love has associations with domestic life, family and specific people
+(“sister,” “mother,” “elinor,” “marianne”). Both Melville and Austen
+share “head” and “him,” though Austen also has “heart” (rather than
+“hand”) and “her.” The affect associated with love in Austen is
+“affection,” while in Melville, it’s “fear.”&lt;/p&gt;
+
+&lt;p&gt;I wonder how our analysis changes if the text is written by a
+woman. What kinds of conclusions can we draw? Presumably, that love
+for Austen is associated with family affection, and for Melville, with
+awe of nature.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;We do not do text analysis to answer a question. We do text analysis
+to arrive at the question.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;“text analysis is just playing with lists” (rafa)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The idea that stopwords have no meaning, so we remove them. of
+course they have meaning. They are moments of flight! from one
+resting place (noun) to the next. They should be called “go” words.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Lemmatize, remove stopwords: the more and more you simplify and
+regularize your data, the easier it is to see the relationships
+between them. Moretti: distance as a condition of knowledge.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Filipa Calado</name></author></entry><entry><title type="html">M– asks me some questions</title><link href="http://localhost:4000/qt/m-questions/" rel="alternate" type="text/html" title="M-- asks me some questions" /><published>2019-12-20T00:00:00-05:00</published><updated>2019-12-20T00:00:00-05:00</updated><id>http://localhost:4000/qt/m-questions</id><content type="html" xml:base="http://localhost:4000/qt/m-questions/">&lt;p&gt;Submitted my prospectus to the English office today. It’s been a long
+process—three months, three drafts, two reviews in Dissertation
+Workshop.&lt;/p&gt;
+
+&lt;p&gt;I changed the introduction, going more directly into Queer DH. I also
+narrowed down the focus of the main paragraphs after the intro:
+reading method, Life Writing, Cyborgs, and added a paragraph on
+“Queer,” used in three ways:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Queer Methods (reading practices, relationality—touching but not
+touching)- A reading method, searching for moments of misfitting.&lt;/li&gt;
+  &lt;li&gt;Queer Materiality (queer subjects, digital media)- At the level of
+the body and the computer, looking at the materiality of “mind” and
+“computation”. Close reading the man and the machine. A rubric for
+engagement, human-machine interactions, the cyborg.&lt;/li&gt;
+  &lt;li&gt;Queer Texts (life writing: memoir &amp;amp; journals, manuscripts)- Formal
+experiments of literature that engage experience and cognition as
+embodied processes, modes of perception that are
+enworlded. Figurations of the digital.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I also added a paragraph, “Toward Disability,” which elaborates the
+aesthetic encounter between reader and object, the logical conclusion
+of a queer relationality, my reading method. Here, I concretize my
+interest in “electronic editing schemas that mark elusive
+subjectivities, digital annotation tools that visualize affective
+responses to reading, and archival digitization efforts that animate
+the past.” I also added a paragraph introducting the chapter
+descriptions and tying together the threads around this central
+question: “How do our current digital tools facilitate queer
+encounters with literature?”&lt;/p&gt;
+
+&lt;p&gt;In a meeting last week, M– asked me some questions that helped me to
+whittle down my motives:&lt;/p&gt;
+
+&lt;p&gt;How would I summarize my project in one sentence?&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;About looking at ways that technology disrupts our expectations. How
+it prompts the incommensurable.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;What am I most interested in?&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The materiality of media, and of human bodies.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Filipa Calado</name></author><summary type="html">Submitted my prospectus to the English office today. It’s been a long process—three months, three drafts, two reviews in Dissertation Workshop.</summary></entry><entry><title type="html">Certificate Accomplished</title><link href="http://localhost:4000/qt/submitted-itp/" rel="alternate" type="text/html" title="Certificate Accomplished" /><published>2019-12-09T00:00:00-05:00</published><updated>2019-12-09T00:00:00-05:00</updated><id>http://localhost:4000/qt/submitted-itp</id><content type="html" xml:base="http://localhost:4000/qt/submitted-itp/">&lt;p&gt;Yesterday I submitted my final paper for the ITP (Interactive
 Technology and Pedagogy) certificate program. I started working on
 this project in the spring of 2018, when I theorized the purpose of
 building and using a (digital) multi-color highlighter to teach
@@ -44,29 +141,7 @@ tool is much too complex for my purposes, as I’m not interested in
 tagging, or even commenting at all. I only need &lt;a href=&quot;https://digitalfellows.commons.gc.cuny.edu/2019/10/10/toward-the-end-of-a-digital-project-reflections-on-starting-over/&quot;&gt;a minimal
 highlighter&lt;/a&gt;,
 a bare-bones highlighter. This kind of tool (I think) would
-short-circuit the attempts to track and quantify student performance.&lt;/p&gt;</content><author><name>Filipa Calado</name></author><summary type="html">Yesterday I submitted my final paper for the ITP (Interactive Technology and Pedagogy) certificate program. I started working on this project in the spring of 2018, when I theorized the purpose of building and using a (digital) multi-color highlighter to teach close-reading.</summary></entry><entry><title type="html">M– asks me some questions</title><link href="http://localhost:4000/qt/m-questions/" rel="alternate" type="text/html" title="M-- asks me some questions" /><published>2019-12-09T00:00:00-05:00</published><updated>2019-12-09T00:00:00-05:00</updated><id>http://localhost:4000/qt/m-questions</id><content type="html" xml:base="http://localhost:4000/qt/m-questions/">&lt;p&gt;M– asking me some questions at the meeting last week.&lt;/p&gt;
-
-&lt;p&gt;How would I summarize my project in one sentence?&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;About looking at ways that technology disrupts our expectations. How
-it prompts the incommensurable.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;What am I most interested in?&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;The materiality of media, and of human bodies.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I felt like I couldn’t answer these questions when they were put to
-me.&lt;/p&gt;
-
-&lt;p&gt;But now I get a sense of what I have to do with my introduction. Which
-I started to think out when J– suggested that I make a rubric of
-human-computer parallels.&lt;/p&gt;
-
-&lt;p&gt;A deconstruction of the man and the machine. Neurons and
-transistors. Also Boolean logic as the basis for machine language. The
-question is not whether man makes machine in his image, but&lt;/p&gt;</content><author><name>Filipa Calado</name></author><summary type="html">M– asking me some questions at the meeting last week.</summary></entry><entry><title type="html">Why Is This Useful?</title><link href="http://localhost:4000/qt/explain-yourself/" rel="alternate" type="text/html" title="Why Is This Useful?" /><published>2019-11-22T00:00:00-05:00</published><updated>2019-11-22T00:00:00-05:00</updated><id>http://localhost:4000/qt/explain-yourself</id><content type="html" xml:base="http://localhost:4000/qt/explain-yourself/">&lt;p&gt;Last week I had a dissertation workshop where I presented a rough
+short-circuit the attempts to track and quantify student performance.&lt;/p&gt;</content><author><name>Filipa Calado</name></author><summary type="html">Yesterday I submitted my final paper for the ITP (Interactive Technology and Pedagogy) certificate program. I started working on this project in the spring of 2018, when I theorized the purpose of building and using a (digital) multi-color highlighter to teach close-reading.</summary></entry><entry><title type="html">Why Is This Useful?</title><link href="http://localhost:4000/qt/explain-yourself/" rel="alternate" type="text/html" title="Why Is This Useful?" /><published>2019-11-22T00:00:00-05:00</published><updated>2019-11-22T00:00:00-05:00</updated><id>http://localhost:4000/qt/explain-yourself</id><content type="html" xml:base="http://localhost:4000/qt/explain-yourself/">&lt;p&gt;Last week I had a dissertation workshop where I presented a rough
 draft of my chapter on Social Annotation. I was feeling pretty
 vulnerable about it. Not only is the draft in its infancy, but it also
 combines a few disciplines that aren’t typical for projects in English
