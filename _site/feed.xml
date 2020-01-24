@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/qt/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/qt/" rel="alternate" type="text/html" /><updated>2020-01-24T11:36:23-05:00</updated><id>http://localhost:4000/qt/feed.xml</id><title type="html">Queer Tools</title><subtitle>Notes Toward a Dissertation</subtitle><author><name>Filipa Calado</name></author><entry><title type="html">Data &amp;amp; Abstraction, reflections from GCDRI</title><link href="http://localhost:4000/qt/digital-research-institute/" rel="alternate" type="text/html" title="Data &amp; Abstraction, reflections from GCDRI" /><published>2020-01-24T00:00:00-05:00</published><updated>2020-01-24T00:00:00-05:00</updated><id>http://localhost:4000/qt/digital-research-institute</id><content type="html" xml:base="http://localhost:4000/qt/digital-research-institute/">&lt;p&gt;The past few days we have been running our annual &lt;a href=&quot;https://gcdri.commons.gc.cuny.edu/&quot;&gt;Digital Research
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/qt/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/qt/" rel="alternate" type="text/html" /><updated>2020-01-24T18:37:23-05:00</updated><id>http://localhost:4000/qt/feed.xml</id><title type="html">Queer Tools</title><subtitle>Notes Toward a Dissertation</subtitle><author><name>Filipa Calado</name></author><entry><title type="html">Reflections from GC-DRI</title><link href="http://localhost:4000/qt/digital-research-institute/" rel="alternate" type="text/html" title="Reflections from GC-DRI" /><published>2020-01-24T00:00:00-05:00</published><updated>2020-01-24T00:00:00-05:00</updated><id>http://localhost:4000/qt/digital-research-institute</id><content type="html" xml:base="http://localhost:4000/qt/digital-research-institute/">&lt;p&gt;The past few days we have been running our annual &lt;a href=&quot;https://gcdri.commons.gc.cuny.edu/&quot;&gt;Digital Research
 Institute&lt;/a&gt; at the Graduate Center
 Digital Initiatives. I’ve taught three sessions of python, and
 supported sessions on Text Analysis, as well as helping out in Command
@@ -9,48 +9,78 @@ toward data and method informs my interest in DH.&lt;/p&gt;
 
 &lt;p&gt;As I watched the Text Analysis workshop unfold, the most striking
 realization was the preconceptions and biases we bring into our
-inferences. We might make certain assumptions about the analysis in
-Natural Language Toolkit’s (NLTK) &lt;code class=&quot;highlighter-rouge&quot;&gt;similar()&lt;/code&gt; method, which measures
-what words are similar to any other word. In the analysis below, we
-see what words are associated to “love” across two different texts,
-&lt;em&gt;Moby Dick&lt;/em&gt; (text1) and &lt;em&gt;Sense And Sensibility&lt;/em&gt; (text2).&lt;/p&gt;
+inferences. We might make certain assumptions about analysis. For
+example, in Natural Language Toolkit’s (NLTK) &lt;code class=&quot;highlighter-rouge&quot;&gt;similar()&lt;/code&gt; method, we
+measure what words are similar to any other word. In the analysis
+below, we see what words are associated to “love” across two different
+texts, &lt;em&gt;Moby Dick&lt;/em&gt; (text1) and &lt;em&gt;Sense And Sensibility&lt;/em&gt; (text2).&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;../images/love-similar.jpg&quot; alt=&quot;Finding words that are similar to &amp;quot;love&amp;quot; in *Moby Dick* and *Sense
 and Sensibility*&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;For Melville, love is associated with the strong natural forces,
-having to do with or brought on by nature (“sea,” “whale,” “fear”) and
-men, male bodies (“head,” “hand,” “him,” “me”). In Austen, the word
-love has associations with domestic life, family and specific people
-(“sister,” “mother,” “elinor,” “marianne”). Both Melville and Austen
-share “head” and “him,” though Austen also has “heart” (rather than
-“hand”) and “her.” The affect associated with love in Austen is
-“affection,” while in Melville, it’s “fear.”&lt;/p&gt;
+having to do with nature (“sea,” “whale,” “fear”) and men, male bodies
+(“head,” “hand,” “him,” “me”). In Austen, the word love has
+associations with domestic life, family and specific people (“sister,”
+“mother,” “elinor,” “marianne”). Both Melville and Austen share “head”
+and “him,” though Austen also has “heart” (while Melvill has “hand”)
+and “her.” In Austen, affect is associated with “affection,” while
+Melville associates it with “fear.”&lt;/p&gt;
 
-&lt;p&gt;I wonder how our analysis changes if the text is written by a
-woman. What kinds of conclusions can we draw? Presumably, that love
-for Austen is associated with family affection, and for Melville, with
-awe of nature.&lt;/p&gt;
+&lt;p&gt;I wonder how our analysis might change when we know the text is
+written by a woman. What kinds of conclusions are we tempted to draw?
+Presumably, that love for Austen is associated with familial
+affection, and for Melville, with awe of nature and man, and that
+these differences indicate gender differences. To be overly reductive:
+women find love in the home, and men out in the world.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;We do not do text analysis to answer a question. We do text analysis
-to arrive at the question.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;“text analysis is just playing with lists” (rafa)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The idea that stopwords have no meaning, so we remove them. of
-course they have meaning. They are moments of flight! from one
-resting place (noun) to the next. They should be called “go” words.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Lemmatize, remove stopwords: the more and more you simplify and
-regularize your data, the easier it is to see the relationships
-between them. Moretti: distance as a condition of knowledge.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Filipa Calado</name></author><summary type="html">The past few days we have been running our annual Digital Research Institute at the Graduate Center Digital Initiatives. I’ve taught three sessions of python, and supported sessions on Text Analysis, as well as helping out in Command Line, Git/Github, and attended Mapping.</summary></entry><entry><title type="html">M– asks me some questions</title><link href="http://localhost:4000/qt/m-questions/" rel="alternate" type="text/html" title="M-- asks me some questions" /><published>2019-12-20T00:00:00-05:00</published><updated>2019-12-20T00:00:00-05:00</updated><id>http://localhost:4000/qt/m-questions</id><content type="html" xml:base="http://localhost:4000/qt/m-questions/">&lt;p&gt;Submitted my prospectus to the English office today. It’s been a long
+&lt;p&gt;But this desire to draw conclusions isn’t the right approach, or at
+least it’s not the most interesting to me. I am not doing text
+analysis to answer a question. I am doing it to arrive at the
+question, which is a way to keep the literary conversation going (see
+Stephen Ramsay, &lt;em&gt;Algorithmic Criticism&lt;/em&gt;). During the session, Rafa
+said something that reinforced this idea, that “text analysis is just
+playing with lists.”  That idea of play is the space I want to stay
+in.&lt;/p&gt;
+
+&lt;p&gt;In the spirit of play, I’m thinking a lot about how we can try to
+queer or mess around with some of the reductions of “cleaning text.”
+Obviously, the more and more you clean your data, that you simplify
+and regularize strings, the easier it is to see the relationships
+between them (Moretti: “where &lt;em&gt;distance&lt;/em&gt; is a condition of
+&lt;em&gt;knowledge&lt;/em&gt;”). Lemmatizing words, stemming them, removing stopwords
+and punctuation, are ways of reducing the complexity of data in order
+to make comparisons between them and draw conclusions.&lt;/p&gt;
+
+&lt;p&gt;So I’m proposing that we take a closer look at some of the data that
+is often ignored in text analysis, which are “stopwords.” Stopwords
+are text that are commonly used and thought to be semantically void,
+such as articles and prepositions. I compiled a list of stopwords from
+one of my favorite texts,
+&lt;a href=&quot;http://gutenberg.net.au/ebooks02/0200331.txt&quot;&gt;&lt;em&gt;Orlando: A Biography&lt;/em&gt;&lt;/a&gt; by Virginia
+Woolf:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;['for', 'there', 'be', 'no', 'of', 'his', 'the', 'of', 'the',
+'did', 'to', 'it', 'was', 'in', 'the', 'of', 'at', 'the', 'of', 'a',
+'which', 'from', 'the', 'was', 'the', 'of', 'an', 'and', 'more', 'or',
+'the', 'of', 'for', 'the', 'and', 'a', 'or', 'of', 'the', 'on', 'a',
+'or', 'his', 'had', 'it', 'from', 'the', 'of', 'a', 'who', 'had',
+'up', 'under', 'the', 'in', 'the', 'of', 'and', 'now', 'it', 'in',
+'the', 'which', 'through', 'the', 'of', 'the', 'of', 'the', 'who',
+'had', 'him', 'had', 'in', 'of', 'and', 'and', 'by', 'and', 'they',
+'had', 'of', 'off', 'and', 'them', 'to', 'from', 'the', 'too', 'he',
+'he', 'was', 'only', 'and', 'too', 'to', 'with', 'them', 'in', 'or']
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Anyone who is familiar with &lt;em&gt;Orlando&lt;/em&gt; will notice the cadence of the
+first few sentences in these lines. I’m interested in how these words,
+often overlooked, can give us some insight into the movement of the
+text. Can prepositions help to suggest the energy or tone of a passage?
+How might they be compared to what William James describes in “Stream
+of Thought” as the the “moments of flight” between “images” or “resting places”
+(typically conveyed by nouns and adjectives)? I don’t know if this
+line of thinking will lead anywhere, but it seems like an interesting
+project.&lt;/p&gt;</content><author><name>Filipa Calado</name></author><summary type="html">The past few days we have been running our annual Digital Research Institute at the Graduate Center Digital Initiatives. I’ve taught three sessions of python, and supported sessions on Text Analysis, as well as helping out in Command Line, Git/Github, and attended Mapping.</summary></entry><entry><title type="html">M– asks me some questions</title><link href="http://localhost:4000/qt/m-questions/" rel="alternate" type="text/html" title="M-- asks me some questions" /><published>2019-12-20T00:00:00-05:00</published><updated>2019-12-20T00:00:00-05:00</updated><id>http://localhost:4000/qt/m-questions</id><content type="html" xml:base="http://localhost:4000/qt/m-questions/">&lt;p&gt;Submitted my prospectus to the English office today. It’s been a long
 process—three months, three drafts, two reviews in Dissertation
 Workshop.&lt;/p&gt;
 
