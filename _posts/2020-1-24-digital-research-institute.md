@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Data & Abstraction: reflections from GCDRI
-categories: [dissertation]
+title: Data & Abstraction, reflections from GCDRI
+categories: [methods, text-analysis, distant reading] 
 --- 
+
 
 The past few days we have been running our annual [Digital Research
 Institute](https://gcdri.commons.gc.cuny.edu/) at the Graduate Center
