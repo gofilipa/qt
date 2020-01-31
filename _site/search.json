@@ -2,6 +2,14 @@
   
     {
 
+      "title"    : "Application Week",
+      "url"      : "/qt/application-week/",
+      "category" : "queer media, disability, Sara Ahmed, Matt Kirschenbaum",
+      "date"     : "January 31, 2020"
+    } ,
+  
+    {
+
       "title"    : "Reflections from GC-DRI",
       "url"      : "/qt/digital-research-institute/",
       "category" : "methods, text analysis, distant reading, William James",
