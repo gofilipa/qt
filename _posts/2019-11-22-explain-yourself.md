@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Why Is This Useful?
-categories: [technology, feminism]
+categories: [technology, feminism, highlighter, use]
 ---
 
 

@@ -1,0 +1,109 @@
+This dissertation looks at new ways of reading queer bodies and
+experience within technological contexts. How do digital tools and
+platforms change the way we interact with affect (associated with
+queer experience) within texts? What about the digital allows us to
+create sensational reading experiences? In other words, how does media
+touch us, and how might we touch what we read?
+
+This chapter proposes a reading methodology that leverages the
+critic's relation to the text to open possibilities for interpretation
+and connections to the textual material. It explores the ways that
+reading practices across two different fields intertwine, and how this
+creates a new method for reading queer narratives in digital
+contexts. 
+
+** not overdetermining queer subjects
+In some queer theory and digital humanities runs a similar hesistation
+not to overdetermine the content of what we read. For queer theory,
+this hesitation pushes against the trend of locating pain in order to
+redeem it. This reading practice (also known as "suspicious reading")
+seeks to expose prohibition and repression, often with the goal of
+affirming queer subjects or recuperating their losses. Reading is
+oriented around revealing these aspects about queer experience---the
+pain and shame of the closet, for example---and turning those aspects
+into sites of political resistance, liberation, or pride.
+
+** Heather Love's /Feeling Backward/
+In resisting the temptations to redeem or console psychic suffering,
+Heather Love offers an alternative reading strategy,
+"feeling-backward." This strategy allows queer subjects to remain with
+their bad feelings. She focuses on feelings such as "nostalgia,
+regret, shame, despair, /ressentiment/, passivity escapism,
+self-hatred, withdrawal, bitterness, defeatism, and loneliness," which
+are tied to "the historical impossibility of same-sex desire" (4,
+emphasis original). She examines the burdened protagonists from famous
+modernist texts like Walter Pater's /The Renaissance: Studies in Art
+and Poetry/ (1873), Radclyffe Hall's /The Well of Loneliness/ (1928),
+Willa Cather's /My Ántonia/ (1918). Love argues that the shame and
+stigma experienced by these characters ought to be recognized rather
+than resolved. Instead of turning negative histories into sites of
+resistance or affirmation, these hurting characters ought to have
+full reign over their own darkness. And this darkness
+must be where the critic will meet them.
+
+As readers, identifying with literary subjects is considered
+risky. Identities are not stable across time and place, and acts of
+identification might collapse or overlook the complexity of queer
+experience. The nature of these texts makes identification
+difficult. Love expands: "As queer readers we tend to see ourselves as
+reaching back toward isolated figures in the queer past in order to
+rescue or save them. It is hard to know what to do with texts that
+resist our advances." (8) When identification is possible, it can be
+shattering. In "The Torment of Queer Literature," Kelly Caldwell
+explains the quandry of reading James Baldwin's /Giovanni's Room/ as a
+transgender woman: "what if the only available act of identification
+is one of stigma and shame? Embracing queerness is often embracing
+abjection. Sometimes identification is loss and despair. Sometimes
+identification isn’t even an option" (par. 4). Identifying with queer
+subjects pulls readers into spaces of loss and suffering. Even so, for
+many readers, the more redemptive or celebratory narratives offer no
+consolation. Caldwell explains the choice: "Either read a book like
+Giovanni’s Room at the risk of recognizing David’s denial and
+repression as my own, or read a book that celebrates queer lives and
+sex boldly and end up despising my own cowardice" (par. 17).
+
+Love proposes a way out of the quandry: "Rather than attempt to
+'overcome' identity, I want to suggest a mode of historiography that
+recognizes the inevitability of a 'play of recogniztions,' but that
+also sees these recognitions not as consoling but as shattering"
+(45). Reading, for Love, can enact a "play of recognitions," that is,
+a way of identifying, but not fully. Full identification would be a
+consolation, redemptive. Rather, Love looks to the ways that identity
+unsettles and dissolves.
+
+
+This mode of relationality does not presume a
+full connection between the critic and subject. In doing so, it opens
+up possibilities for understanding, recognition, play,
+experimentation.
+
+** data reduction / queer assimilation 
+For those that would argue that negative feelings are no longer
+relevant in today's world, Heather Love responds that the advent of
+assimilation, of popular acceptance, only creates more problems for a
+group that has come into being as abject. /(the corrolary for digital
+studies is the proliferation of data, of information, digitization)/
+Queer assimilation and apparent rise in acceptance across popular
+culture and mass media contradicts the reality of shame and stigma
+that everyday queers experience, a contradiction that breeds ever more
+shame: "Of course, same-sex desire is not as impossible as it used to
+be; as a result, the survival of feelings such as shame, isolation,
+and self-hatred into the post-Stonewall era is often the occasion for
+further feelings of shame. The embarrassment of owning such feelings,
+out of place as they are in a movement that takes pride as its
+watchword, is acute" (4). What do we do with these residual feelings
+of shame?
+
+How should queer criticism orient itself? Love shows that critics face
+a contradiction, brought on by the reality of negative feelings and
+psychic costs of being queer in a homophobic society. The narrative
+trajectory of queer progress runs counter to the residual pain of
+being queer. Criticism is stuck in the middle of this ambivalence,
+between affirming its pride and bemoaning its suffering: "We are not
+sure if we should explore the link between homosexuality and loss, or
+set about proving that it does not exist" (Love 3).
+
+* Works Cited
+Caldwell, Kelly. "The Torment of Queer Literature," /The Rumpus/. 2018.
+Love, Heather. /Feeling Backward: Loss and the Politics of Queer History/. 2009.
+
