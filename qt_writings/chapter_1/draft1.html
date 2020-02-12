@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2020-02-11 Tue 16:57 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Filipa  Calado" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2019 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org35fa7d8">0.1. not overdetermining queer subjects</a></li>
+<li><a href="#org567b5d3">0.2. Heather Love's <i>Feeling Backward</i></a>
+<ul>
+<li><a href="#org6e008d5">0.2.1. identification is risky</a></li>
+<li><a href="#orge202d2d">0.2.2. queerness is a failed project, which is why it's so tempting.</a></li>
+<li><a href="#orga3fa7eb">0.2.3. identifying, but not fully. HERE:</a></li>
+</ul>
+</li>
+<li><a href="#orge82e270">0.3. data reduction / queer assimilation</a></li>
+</ul>
+</li>
+<li><a href="#org71c2f89">1. Works Cited</a></div>
+</div>
+<p>
+This dissertation looks at new ways of reading queer bodies and
+experience within technological contexts. How do digital tools and
+platforms change the way we interact with affect (associated with
+queer experience) within texts? What about the digital allows us to
+create sensational reading experiences? In other words, how does media
+touch us, and how might we touch what we read?
+</p>
+
+<p>
+This chapter proposes a reading methodology that leverages the
+critic's relation to the text to open possibilities for interpretation
+and connections to the textual material. It explores the ways that
+reading practices across two different fields intertwine, and how this
+creates a new method for reading queer narratives in digital
+contexts. 
+</p>
+
+<div id="outline-container-org35fa7d8" class="outline-3">
+<h3 id="org35fa7d8"><span class="section-number-3">0.1</span> not overdetermining queer subjects</h3>
+<div class="outline-text-3" id="text-0-1">
+<p>
+In some queer theory and digital humanities runs a similar hesistation
+not to overdetermine the content of what we read. For queer theory,
+this hesitation pushes against the trend of locating or identifying
+with pain in order to redeem it or expose its workings. This reading
+practice (which has been called "suspicious reading" or "paranoid
+reading"<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>) seeks to expose prohibition and repression, often with
+the goal of affirming queer subjects or recuperating their
+losses. Reading is oriented around revealing these aspects about queer
+experience (the pain and shame of the closet, for example) and turning
+those aspects into sites of political resistance, liberation, or
+pride. [NEEDS A QUOTE, SEDGWICK, THAT EXPLAINS PARANOID READING]
+</p>
+</div>
+</div>
+
+<div id="outline-container-org567b5d3" class="outline-3">
+<h3 id="org567b5d3"><span class="section-number-3">0.2</span> Heather Love's <i>Feeling Backward</i></h3>
+<div class="outline-text-3" id="text-0-2">
+<p>
+In resisting the temptations to redeem or console psychic suffering,
+Heather Love offers an alternative reading strategy,
+"feeling-backward." This strategy opens a space for bad feelings
+without trying to recuscitate, justify, or transform them. She focuses
+on feelings such as "nostalgia, regret, shame, despair,
+<i>ressentiment</i>, passivity escapism, self-hatred, withdrawal,
+bitterness, defeatism, and loneliness," which, according to Love, are
+tied to "the historical impossibility of same-sex desire" (4, emphasis
+original). She examines the burdened protagonists from famous
+modernist texts like Walter Pater's <i>The Renaissance: Studies in Art
+and Poetry</i> (1873), Radclyffe Hall's <i>The Well of Loneliness</i> (1928),
+Willa Cather's <i>My Ántonia</i> (1918), and Sylvia Townsend Warner's
+<i>Summer Will Show</i>. Love argues that the shame and stigma experienced
+by these characters ought to be recognized rather than
+resolved. Instead of turning negative histories into sites of
+resistance or affirmation, these hurting characters might have full
+reign over their own darkness. And this darkness must be where the
+critic will meet them.
+</p>
+</div>
+
+<div id="outline-container-org6e008d5" class="outline-4">
+<h4 id="org6e008d5"><span class="section-number-4">0.2.1</span> identification is risky</h4>
+<div class="outline-text-4" id="text-0-2-1">
+<p>
+As readers, identifying with literary subjects is dangerous and
+seducticve. Identities within texts are not stable across time and
+place, and acts of identification might collapse or overlook the
+complexity of experience. For queer readers in particular,
+identification often emerges from a desire to recognize something that
+affirms queer experience in the present. Love describes queer critics,
+"Like demanding lovers [who] promise to rescue the past when in fact
+they dream of being rescued themselves" (33). Reading in this sense is
+a search for community, for similitude, a link between past and
+present. When identification is possible, however, it can be
+shattering. In "The Torment of Queer Literature," Kelly Caldwell
+explains the quandry of reading James Baldwin's <i>Giovanni's Room</i> as a
+transgender woman: "what if the only available act of identification
+is one of stigma and shame? Embracing queerness is often embracing
+abjection. Sometimes identification is loss and despair" (par. 4). For
+many readers, the more redemptive or celebratory narratives offer no
+consolation. Caldwell explains the choice: "Either read a book like
+Giovanni’s Room at the risk of recognizing David’s denial and
+repression as my own, or read a book that celebrates queer lives and
+sex boldly and end up despising my own cowardice" (par. 17).
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge202d2d" class="outline-4">
+<h4 id="orge202d2d"><span class="section-number-4">0.2.2</span> queerness is a failed project, which is why it's so tempting.</h4>
+<div class="outline-text-4" id="text-0-2-2">
+<p>
+The more hopeless and resistant queer subjects make for more tempting
+identifications. Love explains how these subjects remain beyond the
+reader's grasp: "As queer readers we tend to see ourselves as reaching
+back toward isolated figures in the queer past in order to rescue or
+save them. It is hard to know what to do with texts that resist our
+advances" (8). The reason that these subjects remain so unreachable
+has to do with the nature of queerness itself, which represents
+absence, loss, and failure. Love illustrates this quality by evoking a
+Greek myth, Orpheus and Eurydice, in which the lover botches his
+beloved's rescue by looking back at her as they exit the
+underworld. Love quotes from Maurice Blanchot's account of the story
+in "The Gaze of Orpheus," to describe what Orpheus searches for in the
+prohibited and doomed glance backward:
+</p>
+
+<blockquote>
+<p>
+"Not to look would be infidelity to the measureless, imprudent force
+of his movement, which does not want Eurydice in her daytime truth and
+in her everyday appeal, but wants her in her nocturnal obscurity, in
+her distance, with her closed body and sealed face&#x2014;wants to see her
+not when she is visible, but when she is invisible, and not as the
+intimacy of familiar life, but as the foreignness of what excludes all
+intimacy, and wants, not to make her live, but to have living in her
+the plenditude of death" (50).
+</p>
+</blockquote>
+
+<p>
+Orpheus's downfall is his desire for a glimpse at what cannot be
+grapsed, what remains beyond the light. This desire is not for
+"daytime truth" but for "noctural obscurity," which is always receding
+at the moment of pursuit. Like Eurydice, queerness emerges only to
+slip away, turning its face from the parched gaze. Can we be blamed
+for looking for that which cannot be grasped? No, because queerness
+has always been structured by that which is not, by what Love calls
+"impossible love" (24). She reminds us that "Queer history has been an
+education in absence" (50). In learning failure and loss, queer
+readers can only identify with what they have been taught to recognize
+as untouchable. Full identification, like Eurydice in the daylight, is
+prevented by design.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga3fa7eb" class="outline-4">
+<h4 id="orga3fa7eb"><span class="section-number-4">0.2.3</span> identifying, but not fully. HERE:</h4>
+<div class="outline-text-4" id="text-0-2-3">
+<p>
+Love proposes a way out of the quandry: "Rather than attempt to
+'overcome' identity, I want to suggest a mode of historiography that
+recognizes the inevitability of a 'play of recogniztions,' but that
+also sees these recognitions not as consoling but as shattering"
+(45). Reading, for Love, can enact a "play of recognitions," that is,
+a way of identifying, but not fully. Full identification would be a
+consolation, redemptive. Rather, Love looks to the ways that identity
+unsettles and dissolves.
+</p>
+
+
+<p>
+This mode of relationality does not presume a
+full connection between the critic and subject. In doing so, it opens
+up possibilities for understanding, recognition, play,
+experimentation.
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orge82e270" class="outline-3">
+<h3 id="orge82e270"><span class="section-number-3">0.3</span> data reduction / queer assimilation</h3>
+<div class="outline-text-3" id="text-0-3">
+<p>
+For those that would argue that negative feelings are no longer
+relevant in today's world, Heather Love responds that the advent of
+assimilation, of popular acceptance, only creates more problems for a
+group that has come into being as abject. <i>(the corrolary for digital
+studies is the proliferation of data, of information, digitization)</i>
+Queer assimilation and apparent rise in acceptance across popular
+culture and mass media contradicts the reality of shame and stigma
+that everyday queers experience, a contradiction that breeds ever more
+shame: "Of course, same-sex desire is not as impossible as it used to
+be; as a result, the survival of feelings such as shame, isolation,
+and self-hatred into the post-Stonewall era is often the occasion for
+further feelings of shame. The embarrassment of owning such feelings,
+out of place as they are in a movement that takes pride as its
+watchword, is acute" (4). What do we do with these residual feelings
+of shame?
+</p>
+
+<p>
+How should queer criticism orient itself? Love shows that critics face
+a contradiction, brought on by the reality of negative feelings and
+psychic costs of being queer in a homophobic society. The narrative
+trajectory of queer progress runs counter to the residual pain of
+being queer. Criticism is stuck in the middle of this ambivalence,
+between affirming its pride and bemoaning its suffering: "We are not
+sure if we should explore the link between homosexuality and loss, or
+set about proving that it does not exist" (Love 3).
+</p>
+</div>
+</div>
+
+<div id="outline-container-org71c2f89" class="outline-2">
+<h2 id="org71c2f89"><span class="section-number-2">1</span> Works Cited</h2>
+<div class="outline-text-2" id="text-1">
+<p>
+Caldwell, Kelly. "The Torment of Queer Literature," <i>The Rumpus</i>. 2018.
+Love, Heather. <i>Feeling Backward: Loss and the Politics of Queer History</i>. 2009.
+</p>
+</div>
+</div>
+<div id="footnotes">
+<h2 class="footnotes">Footnotes: </h2>
+<div id="text-footnotes">
+
+<div class="footdef"><sup><a id="fn.1" class="footnum" href="#fnr.1">1</a></sup> <div class="footpara"><p class="footpara">
+Rita Felski? and Eve Kosofsky Sedgwick. 
+</p></div></div>
+
+
+</div>
+</div></div>
+<div id="postamble" class="status">
+<p class="author">Author: Filipa  Calado</p>
+<p class="date">Created: 2020-02-11 Tue 16:57</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>

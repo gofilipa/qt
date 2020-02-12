@@ -28,19 +28,62 @@ to play, experiment, and imagine new connections to the textual
 object.
 
 
-** Queer modes of relationality (do not presume full connections):
+** Resisting overreading: queerness and data:
 This section explores how reading practices grapple with histories of
 queer pain and exclusion to open up new possibilities for
 interpretation based on feeling rather than redemption or closure. 
 
 *** Heather Love's "touching without touching"
-Identify love's issue with reading: it's about subjects who need their
-distance, need their free rein, lest they become part of a narrative
-of redemption or resolution. The job of the critic is not to resolve
-or redeem their pain. The job of the critic is to identify, but not
-fully. To create a play of recognitions.
+Love offers a model of "feeling backward" which is a way for critics
+to connect with queer subjects in a way that gives prevents
+overidentification. 
 
-What does this reading practice look like?
+What's most useful about Love's method is two things: 
+
+First, her rejection of "ideology critique" (23) in favor of
+identification; 
+
+Second, her insistence on the turn away, what cannot be grasped, what
+remains beyond the light. Queerness is a failed project, never fully
+manifested but in absence, pain, and loss. A project of failure. We
+want Eurydice "to have living in her the plenitude of death" (50).
+--> the queer experience as beyond our grasp---will eventually connect
+to data as always cooked.  
+
+For Love, identification is about finding the moment when the subject
+turns away: "Queer history has been an education in absence" (50.)
+
+This moment of turning away characterizes queerness as something raw,
+which cannot be captured. 
+
+
+*** Johanna Drucker's capta
+
+Drucker is more deliberately creative and speculative, and she’s self-conscious about the way she gathers data. She re-conceives “data”
+as “capta”, as captured, not given, then, turns graphical expressions
+into expressive metrics and graphics: coordinate lines have breaks and
+gaps, curves, bars, points, columns, are not discrete entities, but
+fuzzy, permeable, maybe broken. For example, in a bar graph of book
+publications/year, she warps the bars on the graph, making some of
+them fuzzy, wider, shorter, in an attempt to show that publication as
+a metric elides other information such as composition, editing,
+purchasing, etc. This is an implicit critique of Moretti’s own graph
+of publications by year, saying that publication date is only one step
+of a much larger temporal process of a book history, and that we
+cannot make many inferences from this single metric.
+
+
+*** Anzaldua's violence vs touch
+“In trying to become "objective," Western culture made "objects" of
+things and people when it distanced itself from them, thereby losing
+"touch" with them. This dichotomy is the root of all violence” (Gloria
+Anzaldua, Borderlands, 37). 
+
+*** Klein and D'Ignazio on emotion and data viz
+https://bookbook.pubpub.org/pub/8tjbs2x5
+
+
+** for multiplying potential connections
 
 
 ***  Kosofsky Sedgwick's "touching/feeling"

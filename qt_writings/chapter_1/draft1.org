@@ -14,68 +14,145 @@ contexts.
 
 ** not overdetermining queer subjects
 In some queer theory and digital humanities runs a similar hesistation
-not to overdetermine the content of what we read. For queer theory,
-this hesitation pushes against the trend of locating pain in order to
-redeem it. This reading practice (also known as "suspicious reading")
-seeks to expose prohibition and repression, often with the goal of
-affirming queer subjects or recuperating their losses. Reading is
-oriented around revealing these aspects about queer experience---the
-pain and shame of the closet, for example---and turning those aspects
-into sites of political resistance, liberation, or pride.
+not to overdetermine or overinterpret the content of what we read. For
+queer theory, this hesitation pushes against the trend of locating
+pain in order to redeem it or reveal its workings. This reading
+practice (which has been called "suspicious reading" or "paranoid
+reading"[fn:1]) seeks to expose the effects of homophobic prohibition
+and repression, often with the goal of affirming queer subjects or
+recuperating their losses. Reading is oriented around finding and
+exposing these aspects about queer experience (the pain and shame of
+the closet, for example) and turning those aspects into sites of
+political resistance, liberation, or pride. [NEEDS A QUOTE, SEDGWICK,
+THAT EXPLAINS PARANOID READING]
 
 ** Heather Love's /Feeling Backward/
-In resisting the temptations to redeem or console psychic suffering,
-Heather Love offers an alternative reading strategy,
-"feeling-backward." This strategy allows queer subjects to remain with
-their bad feelings. She focuses on feelings such as "nostalgia,
-regret, shame, despair, /ressentiment/, passivity escapism,
-self-hatred, withdrawal, bitterness, defeatism, and loneliness," which
-are tied to "the historical impossibility of same-sex desire" (4,
-emphasis original). She examines the burdened protagonists from famous
+In resisting the temptations to redeem or console psychic suffering by
+queer subjects, Heather Love offers an alternative reading strategy,
+"feeling-backward." This strategy opens a space for bad feelings
+without trying to recuscitate, justify, or transform them. She focuses
+on feelings such as "nostalgia, regret, shame, despair,
+/ressentiment/, passivity escapism, self-hatred, withdrawal,
+bitterness, defeatism, and loneliness," which, according to Love, are
+tied to "the historical impossibility of same-sex desire" (4, emphasis
+original). She examines the burdened protagonists from famous
 modernist texts like Walter Pater's /The Renaissance: Studies in Art
 and Poetry/ (1873), Radclyffe Hall's /The Well of Loneliness/ (1928),
-Willa Cather's /My Ántonia/ (1918). Love argues that the shame and
-stigma experienced by these characters ought to be recognized rather
-than resolved. Instead of turning negative histories into sites of
-resistance or affirmation, these hurting characters ought to have
-full reign over their own darkness. And this darkness
-must be where the critic will meet them.
+Willa Cather's /My Ántonia/ (1918), and Sylvia Townsend Warner's
+/Summer Will Show/ (1936). Love argues that the shame and stigma
+experienced by these characters ought to be recognized rather than
+resolved. Instead of turning negative histories into sites of
+resistance or affirmation, these hurting characters might have full
+reign over their own darkness. And this darkness must be where the
+critic will meet them.
 
-As readers, identifying with literary subjects is considered
-risky. Identities are not stable across time and place, and acts of
-identification might collapse or overlook the complexity of queer
-experience. The nature of these texts makes identification
-difficult. Love expands: "As queer readers we tend to see ourselves as
-reaching back toward isolated figures in the queer past in order to
-rescue or save them. It is hard to know what to do with texts that
-resist our advances." (8) When identification is possible, it can be
-shattering. In "The Torment of Queer Literature," Kelly Caldwell
-explains the quandry of reading James Baldwin's /Giovanni's Room/ as a
-transgender woman: "what if the only available act of identification
-is one of stigma and shame? Embracing queerness is often embracing
-abjection. Sometimes identification is loss and despair. Sometimes
-identification isn’t even an option" (par. 4). Identifying with queer
-subjects pulls readers into spaces of loss and suffering. Even so, for
-many readers, the more redemptive or celebratory narratives offer no
-consolation. Caldwell explains the choice: "Either read a book like
-Giovanni’s Room at the risk of recognizing David’s denial and
-repression as my own, or read a book that celebrates queer lives and
-sex boldly and end up despising my own cowardice" (par. 17).
+*** identification is risky
+As readers, identifying with literary subjects is both dangerous and
+seducticve. Identities within texts are not stable across time and
+place, and acts of identification might collapse or overlook the
+complexity of experience. For queer readers in particular,
+identification often emerges from a desire to recognize within the
+past something that affirms queer experience in the present. Love
+describes queer critics, "Like demanding lovers [who] promise to
+rescue the past when in fact they dream of being rescued themselves"
+(33). Reading in this sense is a search for reflection, community, or
+similitude, a link between past and present. When identification is
+possible, however, it can be shattering. In "The Torment of Queer
+Literature," Kelly Caldwell explains the quandry of reading James
+Baldwin's /Giovanni's Room/ as a transgender woman: "what if the only
+available act of identification is one of stigma and shame? Embracing
+queerness is often embracing abjection. Sometimes identification is
+loss and despair" (par. 4). Identification tends to center around
+these "bad feelings" which offer less fodder for political
+resistence. However, identification with more positive aspects of
+queer experience is hardly an alternative. For many readers, the more
+redemptive or celebratory narratives offer no consolation. The reader
+is stuck between recognizing their own pain or feeling guilty for not
+recognizing pleasure: "Either read a book like /Giovanni’s Room/ at
+the risk of recognizing David’s denial and repression as my own, or
+read a book that celebrates queer lives and sex boldly and end up
+despising my own cowardice" (par. 17).
 
-Love proposes a way out of the quandry: "Rather than attempt to
-'overcome' identity, I want to suggest a mode of historiography that
-recognizes the inevitability of a 'play of recogniztions,' but that
-also sees these recognitions not as consoling but as shattering"
-(45). Reading, for Love, can enact a "play of recognitions," that is,
-a way of identifying, but not fully. Full identification would be a
-consolation, redemptive. Rather, Love looks to the ways that identity
-unsettles and dissolves.
+*** queerness is a failed project, which is why it's so tempting.
+The more hopeless and resistant queer subjects make for more tempting
+identifications. Love explains how these subjects remain beyond the
+reader's grasp: "As queer readers we tend to see ourselves as reaching
+back toward isolated figures in the queer past in order to rescue or
+save them. It is hard to know what to do with texts that resist our
+advances" (8). The reason that these subjects remain so unreachable
+has to do with the nature of queerness itself, which represents
+absence, loss, and failure. Love illustrates this quality by evoking a
+Greek myth, Orpheus and Eurydice, in which the lover botches his
+beloved's rescue by looking back at her as they exit the
+underworld. Love quotes from Maurice Blanchot's account of the story
+in "The Gaze of Orpheus," to describe what Orpheus searches for in the
+prohibited and doomed glance backward:
 
+#+BEGIN_QUOTE 
+Not to look would be infidelity to the measureless, imprudent force
+of his movement, which does not want Eurydice in her daytime truth and
+in her everyday appeal, but wants her in her nocturnal obscurity, in
+her distance, with her closed body and sealed face---wants to see her
+not when she is visible, but when she is invisible, and not as the
+intimacy of familiar life, but as the foreignness of what excludes all
+intimacy, and wants, not to make her live, but to have living in her
+the plenditude of death. 50
+#+END_QUOTE 
 
-This mode of relationality does not presume a
-full connection between the critic and subject. In doing so, it opens
-up possibilities for understanding, recognition, play,
-experimentation.
+Orpheus's downfall is his desire for a glimpse at what cannot be
+grapsed, at what remains beyond the light. This desire is not for
+"daytime truth" but for "noctural obscurity," which is always receding
+at the moment of pursuit. Like Eurydice, queerness emerges only to
+slip away, turning its face from the parched gaze. Can we be blamed
+for looking for that which cannot be grasped? No, because queerness
+has always been structured by that which is not, by what Love calls
+"impossible love" (24). Not only is queerness projected to fail, it is
+a project of failure. Love reminds us that "Queer history has been an
+education in absence" (50). In learning failure and loss, queer
+readers can only identify with what they have been taught to recognize
+as untouchable. Full identification, like Eurydice in the daylight, is
+prevented by design.
+
+*** identifying, but not fully.
+Love proposes a method in which the goal is not to redeem queer
+subjects or resolve queer failure. Rather, the problem of
+identification is turned to a reading strategy: "I want to suggest a
+mode of historiography that recognizes the inevitability of a 'play of
+recogniztions,' but that also sees these recognitions not as consoling
+but as shattering" (45). Reading, for Love, can enact a "play of
+recognitions," which is a way of making fleeting connections that do
+not presume complete understanding. It is a way of identifying, but
+not fully. Full identification would attempt to wrench the subject
+from its suffering, and effectively transform it into something
+else. Rather that attempt to rescusitate it, Love looks to the ways
+that identity unsettles and dissolves subjectivity. She gives the
+example of Stephen Gordon from Radclyffe Hall's /The Well of
+Loneliness/. Once considered too depressing as a model of lesbianism,
+recent critics have cast Stephen Gordon as a transgender figure. Love
+resists this label, maintaining that Stephen is “beyond the reach of
+such redemptive narratives” (119). The question, for Love, is not
+whether Stephen is a pre-op FTM (Female-to-Male), but how Stephen’s
+existential negativity can be read as an embodied phenonmenon, as “a
+social experience insistently internalized and corporeal” (108).
+
+** Queerness and data
+As a mode of relationality, "Feeling Backward" not presume a full
+connection between the critic and subject, keeping the subject at arms
+length. It approaches queerness as something receding, even when the
+critic is perpetually in pursuit. This relationship between critic and
+textual subject evokes some of the attitudes that digital humaninists
+take toward their data. Critics such as Johanna Drucker and Lauren
+Klein are careful to qualify the nature of data as constructed,
+wrenched from the reality of lived experience, and necessarily reduced
+to fit whatever environs required by analysis. 
+
+*** Drucker's skewing the graphs
+
+*** Klein figuring absence
+
+** Moving to making new connections. 
+In denying full connections, this relationality opens up possibilities
+for understanding, recognition, play, experimentation.
 
 ** data reduction / queer assimilation 
 For those that would argue that negative feelings are no longer
@@ -107,3 +184,4 @@ set about proving that it does not exist" (Love 3).
 Caldwell, Kelly. "The Torment of Queer Literature," /The Rumpus/. 2018.
 Love, Heather. /Feeling Backward: Loss and the Politics of Queer History/. 2009.
 
+[fn:1] Rita Felski? and Eve Kosofsky Sedgwick. 
