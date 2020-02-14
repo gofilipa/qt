@@ -33,22 +33,10 @@ This section explores how reading practices grapple with histories of
 queer pain and exclusion to open up new possibilities for
 interpretation based on feeling rather than redemption or closure. 
 
-*** Heather Love's "touching without touching"
+*** Heather Love's queerness as failure, impossible
 Love offers a model of "feeling backward" which is a way for critics
-to connect with queer subjects in a way that gives prevents
-overidentification. 
-
-What's most useful about Love's method is two things: 
-
-First, her rejection of "ideology critique" (23) in favor of
-identification; 
-
-Second, her insistence on the turn away, what cannot be grasped, what
-remains beyond the light. Queerness is a failed project, never fully
-manifested but in absence, pain, and loss. A project of failure. We
-want Eurydice "to have living in her the plenitude of death" (50).
---> the queer experience as beyond our grasp---will eventually connect
-to data as always cooked.  
+to connect with queer subjects in a way that keeps objects out of the
+critic's reach. 
 
 For Love, identification is about finding the moment when the subject
 turns away: "Queer history has been an education in absence" (50.)
@@ -56,22 +44,17 @@ turns away: "Queer history has been an education in absence" (50.)
 This moment of turning away characterizes queerness as something raw,
 which cannot be captured. 
 
-
 *** Johanna Drucker's capta
 
-Drucker is more deliberately creative and speculative, and she’s self-conscious about the way she gathers data. She re-conceives “data”
-as “capta”, as captured, not given, then, turns graphical expressions
-into expressive metrics and graphics: coordinate lines have breaks and
-gaps, curves, bars, points, columns, are not discrete entities, but
-fuzzy, permeable, maybe broken. For example, in a bar graph of book
-publications/year, she warps the bars on the graph, making some of
-them fuzzy, wider, shorter, in an attempt to show that publication as
-a metric elides other information such as composition, editing,
-purchasing, etc. This is an implicit critique of Moretti’s own graph
-of publications by year, saying that publication date is only one step
-of a much larger temporal process of a book history, and that we
-cannot make many inferences from this single metric.
+Shows the reductions of data that are necessary for most graphical
+visualizations. Counters these with the concept of "capta" and
+graphical expressions that can gesture toward the messiness of
+experience. 
 
+*** Klein's figuring absence
+
+Lauren Klein finds a way to show what is not there in the data. Is
+this the same? 
 
 *** Anzaldua's violence vs touch
 “In trying to become "objective," Western culture made "objects" of

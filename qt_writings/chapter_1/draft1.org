@@ -148,6 +148,53 @@ to fit whatever environs required by analysis.
 
 *** Drucker's skewing the graphs
 
+Johanna Drucker argues that quantification techniques (such as
+visualizations in graphs and charts) actually misrepresent the data
+they are meant to convey. Drucker explains that, in order to place
+this data on a graph or chart, it undergoes a
+transformation. Complexity is reduced to whatever quality the
+visualization apparently requires. To illustrate this reduction,
+Drucker presents a chart displaying the amount of books published over
+several years. The chart appears to convey production during this
+specific time period[fn:2], but Drucker explains that publication date
+is an arbitrary metric for capturing production. She brings to the
+surface all the assumptions made in such a metric, for example, the
+limitations of "novel" as a genre and the connotations behind
+"published," which suggests date of appearance, but has no indication
+of composition, editing, review, distribution. Drucker reminds us that
+each piece of data carries with it the result of many interpretive
+decisions, which carry with them varying degrees of opacity. These
+interpretations ("reductions") are necessary in order to present
+complex concepts like book production as a bar on a chart. Drucker
+explains: "the graphical presentation of supposedly self-evident
+information (again, formulated in this example as “the number of
+novels published in a year”) conceals these complexities, and the
+interpretative factors that bring the numerics into being, under a
+guise of graphical legibility" (Drucker par. 23).
+
+To resist the reductions of "data," a term that connotes that which is
+"given," Drucker proposes "capta," to suggest the act of being taken
+and transformed. Drucker's "capta" is deliberately creative, turning
+graphical expressions into expressive metrics: components used for
+measurement, like lines or bars on a graph, break or are fuzzy and
+permeable. Objects are not discrete entities, but interact with the
+other objects in the visualization. For example, in a bar graph of
+book publications/year, she warps the bars on the graph, making some
+of them fuzzy, wider, shorter, in an attempt to show that publication
+as a metric elides other information such as composition, editing,
+purchasing, etc.
+
+This activity is a way of figuring elements that have been reduced,
+resolved, or ignored in traditional quantitative analysis. It evokes
+what Love says about queer subjectivity and experience being beyond
+the reaches of the critic. Drucker makes evident what is overlooked or
+assumed when dealing with complex subjects. She places those elements
+there, for all to see, in a way that muddles (rather than
+simplifies[fn:3]) the relationship between them. She does try to
+figure these elements, but not in a way that attempts to clarify or
+resolve their complexity. Rather, like Love, she works on the “image
+of exile, of refusal, even of failure” (Love 71).
+
 *** Klein figuring absence
 
 ** Moving to making new connections. 
@@ -184,4 +231,17 @@ set about proving that it does not exist" (Love 3).
 Caldwell, Kelly. "The Torment of Queer Literature," /The Rumpus/. 2018.
 Love, Heather. /Feeling Backward: Loss and the Politics of Queer History/. 2009.
 
+
+* Footnotes
+
 [fn:1] Rita Felski? and Eve Kosofsky Sedgwick. 
+
+[fn:2] Drucker implicitly refers to the first chapter from Franco
+Moretti's /Graphs, Maps, Trees/ (2007), throughout which Moretti
+graphs novels by their publication date between 1700 and 2000 and
+draws conclusions about the relationship between genre and generations
+of readers. 
+
+[fn:3] Moretti: "'Distant reading'... where distance is however not an
+obstacle but /a specific form of knowledge" (1).
+
