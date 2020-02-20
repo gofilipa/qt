@@ -12,6 +12,24 @@ reading practices across two different fields intertwine, and how this
 creates a new method for reading queer narratives in digital
 contexts. 
 
+** touch: a new way of reading: Sedgwick
+
+If digital humanists and queer theorists are going to find some common
+ground, they might as well start with /touch/. The root "digitus"
+comes from the Latin for finger or toe. Touch is driven by a desire
+for connection, for correlation, for linking one body to another. It
+is also a way of being impressed or in collision with another person
+or object. Queerness is similarly concerned with contact and desire,
+and more precisely with the desire for contact. Queer contact
+manifests not regular contact, it is a contact that opposes or even
+offends expectations. It is to the side of the acceptible.[fn:4] Both
+queer and digital are frames for engaging with the outside world. Both
+queer and digital are alternative ways of engaging with the
+environment. 
+
+Eve Sedgwick offers a reading method guided by touch. She's thinking
+about ways that critics can find new means of connection.
+
 ** not overdetermining queer subjects
 In some queer theory and digital humanities runs a similar hesistation
 not to overdetermine or overinterpret the content of what we read. For
@@ -26,7 +44,8 @@ the closet, for example) and turning those aspects into sites of
 political resistance, liberation, or pride. [NEEDS A QUOTE, SEDGWICK,
 THAT EXPLAINS PARANOID READING]
 
-** Heather Love's /Feeling Backward/
+** Queerness as untouchable
+*** Heather Love's /Feeling Backward/
 In resisting the temptations to redeem or console psychic suffering by
 queer subjects, Heather Love offers an alternative reading strategy,
 "feeling-backward." This strategy opens a space for bad feelings
@@ -135,6 +154,56 @@ whether Stephen is a pre-op FTM (Female-to-Male), but how Stephen’s
 existential negativity can be read as an embodied phenonmenon, as “a
 social experience insistently internalized and corporeal” (108).
 
+*** Critique of affirmation: Cvetkovitch 
+
+Attempts to affirm negative queer experience can be harmful. Ann
+Cvetkovitch's work on trauma studies provides an example of how this
+tendency can create further misunderstanding about suffering. In her
+book, /Archive of Feelings/, Cvetkovitch explores expressions of
+trauma within the public sphere. She asks how individuals might
+reclaim some of the most negative and traumatic feelings into
+something positive and theraputic: "I want to place moments of extreme
+trauma alongside moments of everyday emotional distress that are often
+the only sign that trauma's effects are still being felt” (3). She
+wrests trauma studies out of medical discourse and into public
+culture---turning something that is traditionally private and
+pathologized into something communitarian, an open, everyday "archive
+of feelings."
+
+Importantly, Cvetkovitch marshalls this reconfiguration of trauma to
+expand what we consider the 'archive'. She also makes some incisive
+points about the inability to fully portray suffering: "Because trauma
+can be unspeakable and unrepresentable and because it is marked by
+forgetting and dissociation, it often seems to leave behind no records
+at all" (7). Cvetkovitch explores alternative methods of figuring
+trauma, which are transformed when they enter the public sphere. She
+cites examples from public performances like rock shows or
+documentaries, in which the artists enact "moments of intense affect
+that are transformative or revealing” (26). 
+
+Although her focus on the affective and ephemeral dimension of
+performance opens up conceptions of the archive, Cvetkovitch perhaps
+goes too far when she suggests that these performances are redemptive
+or in some way compensate for traumatic experience. She indicates that
+such performances go so far as to alleviate psychological damage and
+suffering: “Imaginative work that may bear an oblique relation to the
+actual event of sexual abuse can ultimately be more ‘healing’ than an
+explicit rendering of the event” (94). Trauma is a real medical
+condition, with real consequences (death) for those who do not seek
+treatment or downplay its life-threatening effects. Critics should be
+careful in extending a definition of trauma that will end up hurting
+those who are affected by it. We do not need to move trauma strictly
+from the medical discourse in order to have a more communitarian,
+open, and public relationship to it. There are other ways to confront
+stigma which doesn’t attempt to redeem it, as Love explores with her
+notion of “Feeling Backward.”
+
+The step that Cvetkovitch takes with regard to trauma is interesting,
+however, for what it suggests about the role of the critic in
+analysis. The point isn't to find evidence of overcoming queer
+suffering, but to examine the ways that queerness is figured in
+abstraction. What does queerness look like, what can it do? 
+
 ** Queerness and data
 As a mode of relationality, "Feeling Backward" not presume a full
 connection between the critic and subject, keeping the subject at arms
@@ -233,6 +302,9 @@ Love, Heather. /Feeling Backward: Loss and the Politics of Queer History/. 2009.
 
 
 * Footnotes
+
+[fn:4] What is "queer"? How do we define "queer"? Queer is the feeling
+I get when I'm reading something that I'm not supposed to. 
 
 [fn:1] Rita Felski? and Eve Kosofsky Sedgwick. 
 

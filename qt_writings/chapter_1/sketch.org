@@ -28,10 +28,18 @@ to play, experiment, and imagine new connections to the textual
 object.
 
 
-** Resisting overreading: queerness and data:
+** a new way of thinking--guided by affect?
+*** touch, reading: Sedgwick's /Touching Feeling/
+
+Sedgwick offers a reading method guided by affect and touch. She's
+thinking about ways that critics can find new means of connection. 
+
+** Queerness as untouchable: Resisting overreading
 This section explores how reading practices grapple with histories of
 queer pain and exclusion to open up new possibilities for
-interpretation based on feeling rather than redemption or closure. 
+interpretation based on feeling rather than redemption or closure. It
+starts to draw out similarities on the ways that queer theorists and
+DH practitioners view the objects of their study. 
 
 *** Heather Love's queerness as failure, impossible
 Love offers a model of "feeling backward" which is a way for critics
@@ -44,6 +52,26 @@ turns away: "Queer history has been an education in absence" (50.)
 This moment of turning away characterizes queerness as something raw,
 which cannot be captured. 
 
+*** Ann Cvetkovitch's trauma is public, archives are affective. 
+
+Cvetkovitch shows how affirming queer negativity, in trying to
+recusitate bad feelings, can actually create more harm. 
+
+She is good at recognizing that some things cannot be figured, while
+expanding the archive
+
+Critique: the critic goes too far in making assumptions about the
+healing potential of public acts of queer trauma. The critic is not a
+psychologist, trauma still kills people, those traumatized need to
+seek treatment. 
+
+The point isn't heal or recuperate queer suffering, this can never be
+done through abstraction, not by the critic. The point is to examine
+the ways that queerness is figured through abstraction--I think? We do
+not say whether these things are healing. All we can deal with is the
+data that we are given.
+
+** Queerness and Data
 *** Johanna Drucker's capta
 
 Shows the reductions of data that are necessary for most graphical
@@ -51,6 +79,7 @@ visualizations. Counters these with the concept of "capta" and
 graphical expressions that can gesture toward the messiness of
 experience. 
 
+*** ????
 *** Klein's figuring absence
 
 Lauren Klein finds a way to show what is not there in the data. Is
