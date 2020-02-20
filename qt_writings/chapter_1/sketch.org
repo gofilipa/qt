@@ -31,8 +31,18 @@ object.
 ** a new way of thinking--guided by affect?
 *** touch, reading: Sedgwick's /Touching Feeling/
 
-Sedgwick offers a reading method guided by affect and touch. She's
-thinking about ways that critics can find new means of connection. 
+Touch is the first site of connection between the queer and the
+digital. 
+
+Sedgwick offers a reading method guided by affect and
+touch. She's thinking about ways that critics can find new means of
+connection.
+
+Anzaldua explains touch vs violence. “In trying to become "objective,"
+Western culture made "objects" of things and people when it distanced
+itself from them, thereby losing "touch" with them. This dichotomy is
+the root of all violence” (Gloria Anzaldua, Borderlands, 37).
+
 
 ** Queerness as untouchable: Resisting overreading
 This section explores how reading practices grapple with histories of
@@ -85,11 +95,6 @@ experience.
 Lauren Klein finds a way to show what is not there in the data. Is
 this the same? 
 
-*** Anzaldua's violence vs touch
-“In trying to become "objective," Western culture made "objects" of
-things and people when it distanced itself from them, thereby losing
-"touch" with them. This dichotomy is the root of all violence” (Gloria
-Anzaldua, Borderlands, 37). 
 
 *** Klein and D'Ignazio on emotion and data viz
 https://bookbook.pubpub.org/pub/8tjbs2x5

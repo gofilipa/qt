@@ -15,20 +15,40 @@ contexts.
 ** touch: a new way of reading: Sedgwick
 
 If digital humanists and queer theorists are going to find some common
-ground, they might as well start with /touch/. The root "digitus"
-comes from the Latin for finger or toe. Touch is driven by a desire
-for connection, for correlation, for linking one body to another. It
-is also a way of being impressed or in collision with another person
-or object. Queerness is similarly concerned with contact and desire,
-and more precisely with the desire for contact. Queer contact
-manifests not regular contact, it is a contact that opposes or even
-offends expectations. It is to the side of the acceptible.[fn:4] Both
-queer and digital are frames for engaging with the outside world. Both
-queer and digital are alternative ways of engaging with the
-environment. 
+ground, they might as well start with /touch/. The root of the word
+digital, "digitus," comes from the Latin word for finger or toe. Our
+digits extend forth, the furthest appendage which is still considered
+part of the coherent "body," as the first line of contact with the
+world. Touch is driven by a desire for connection, for correlation,
+for linking one "body" to another. It is also a way of being impressed
+or in collision with another person or object. Queerness is similarly
+concerned with contact and desire, and more precisely with the desire
+for contact. Queer contact connotes not traditional contact, but
+contact that opposes or even offends expectations. It is to the side
+of the acceptable, bounding the confines of the normative.[fn:4] Both
+queer and digital are out there, our frames for engaging with the
+outside world. Both queer and digital are alternative ways of engaging
+with the environment.
 
-Eve Sedgwick offers a reading method guided by touch. She's thinking
-about ways that critics can find new means of connection.
+Eve Kosofsky Sedgwick offers a reading method guided by touch. She's
+thinking about ways that critics might find new ways of connecting to
+literary objects. Touch offers for Sedgwick an evasion of "dualistic
+thought," that is, thinking in "binary" thought, where things are
+discrete and opposed. Sedgwick explains that "the sense of touch makes
+nonsense out of any dualistic understanding of agency and passivity;
+to touch is always already to reach out, to fondle, to heft, to tap,
+or to enfold" (13). Touch signifies a range of relations where power
+is not always reduced to opposition or oppression. Touch as a way for
+opening up how we relate to the outside world. 
+
+Touching can also be the antidote to exploitation. Gloria Anzaldua
+explains how touch restores connections between people and
+objects. For Anzaldua, separation is brutal: "In trying to become
+'objective,' Western culture made 'objects' of things and people when
+it distanced itself from them, thereby losing 'touch' with them. This
+dichotomy is the root of all violence" (37). The sundering of
+'objects' from our touch is the cause of our taking advantage of
+them. 
 
 ** not overdetermining queer subjects
 In some queer theory and digital humanities runs a similar hesistation
