@@ -1,5 +1,14 @@
 * Chapter One Brainstorm
 
+** Rough outline for chapter:
+- touch as a reading method: making & opening connections
+- queerness as untouchable: something we cannot fully grasp
+- data as unknowable: something we cannot fully grasp
+- abstraction as necessary in order to bring things into relation
+- the parallels between DH and Queer theorists, different reading
+styles; refocus on touch
+- my reading of /voyant-tools/ & /waves/?
+
 *** Pros Description: The first chapter, "Reading: 'Touching without
 Touching,'" lays out what Digital Humanities methodologies might learn
 from Queer Theory. This chapter looks at specific reading practices by
@@ -28,21 +37,15 @@ to play, experiment, and imagine new connections to the textual
 object.
 
 
-** a new way of thinking--guided by affect?
+** A new way of reading--guided by touch
 *** touch, reading: Sedgwick's /Touching Feeling/
 
 Touch is the first site of connection between the queer and the
 digital. 
 
-Sedgwick offers a reading method guided by affect and
-touch. She's thinking about ways that critics can find new means of
-connection.
+Anzaldua shows how touch is a way of preventing conflict.
 
-Anzaldua explains touch vs violence. “In trying to become "objective,"
-Western culture made "objects" of things and people when it distanced
-itself from them, thereby losing "touch" with them. This dichotomy is
-the root of all violence” (Gloria Anzaldua, Borderlands, 37).
-
+Sedgwick shows that touch is a way of multiplying connection. 
 
 ** Queerness as untouchable: Resisting overreading
 This section explores how reading practices grapple with histories of
@@ -81,7 +84,7 @@ the ways that queerness is figured through abstraction--I think? We do
 not say whether these things are healing. All we can deal with is the
 data that we are given.
 
-** Queerness and Data
+** Data as always cooked
 *** Johanna Drucker's capta
 
 Shows the reductions of data that are necessary for most graphical
@@ -89,21 +92,22 @@ visualizations. Counters these with the concept of "capta" and
 graphical expressions that can gesture toward the messiness of
 experience. 
 
-*** ????
-*** Klein's figuring absence
+*** Ted Underwood on studying models
 
-Lauren Klein finds a way to show what is not there in the data. Is
-this the same? 
+Ted Underwood puts forth a good understanding on quantification being
+no more more objective than words. [insert quote Sinclair that numbers
+are strings] Rather than using "distant reading" to ascertain "facts"
+about literary history, he's examining what models are really doing by
+themselves. His focus on "perspectival modeling" brings the computer
+process under scrutiny, as the object of study.
 
+However, there still exists a view that distant reading lacks the
+sensitivity of close reading. "Critics who want to sensitively
+describe the merits of a single work usually have no need for
+statistics" (xxi). 
 
-*** Klein and D'Ignazio on emotion and data viz
-https://bookbook.pubpub.org/pub/8tjbs2x5
-
-
-** for multiplying potential connections
-
-
-***  Kosofsky Sedgwick's "touching/feeling"
+** Abstraction: for multiplying potential connections
+*** Kosofsky Sedgwick's "touching/feeling"
 Eve Kosofsky Sedgwick has explained how /reading/ can be either
 liberatory or relational. Which is to say it can be a tool for closing
 or opening further readings. Sedgwick critiques Michel Foucault for
@@ -117,7 +121,13 @@ topos of depth or hiddenness, typically followed by a drama of
 exposure, that has been such a staple of critical work of the past
 four decades" (/Touching Feeling/, 8). 
 
+*** Klein's figuring absence
 
+Lauren Klein finds a way to show what is not there in the data. Is
+this the same? 
+
+*** Felski's "post-critical reading"
+    
 ** Digital reading methods (aware of the critic's role):
 Digital formats and interfaces facilitate queer encounters methods, an
 intimate process of engaging with literature on a computer, where
@@ -130,11 +140,7 @@ reflection,” by which the reader is able to feel her way through the
 text (18).
 
 *** Moretti & Underwood's "distant reading"
-*** Felski's "post-critical reading"
-
 *** Ramsay's "algorithmic criticism" 
-
-*** Drucker's "speculative computing"
 
 ** Digital projects based on text manipulation: 
 I find that the haptic and exploratory activity of working with these
@@ -144,6 +150,10 @@ experiment, and imagine new connections to the textual object.
 *** /Voyant-Tools/
 Jerome McGann "prosthetic extensions"
 Potential texts: Woolf's /Orlando/. 
+
+- Interweave a narrative about touch. Taking new materialist ideas but
+placing them within context of QPOC critiqe. Anzaldua and Bennet on
+touch and severing. Sarah Ahmed too. 
 
 *** /These Waves of Girls/
 Following narrative desire. The click of the mouse allows readers to

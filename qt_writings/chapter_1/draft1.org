@@ -12,45 +12,60 @@ reading practices across two different fields intertwine, and how this
 creates a new method for reading queer narratives in digital
 contexts. 
 
-** touch: a new way of reading: Sedgwick
+** Touch: a new way of reading: Sedgwick
 
 If digital humanists and queer theorists are going to find some common
-ground, they might as well start with /touch/. The root of the word
-digital, "digitus," comes from the Latin word for finger or toe. Our
-digits extend forth, the furthest appendage which is still considered
-part of the coherent "body," as the first line of contact with the
-world. Touch is driven by a desire for connection, for correlation,
-for linking one "body" to another. It is also a way of being impressed
-or in collision with another person or object. Queerness is similarly
-concerned with contact and desire, and more precisely with the desire
-for contact. Queer contact connotes not traditional contact, but
-contact that opposes or even offends expectations. It is to the side
-of the acceptable, bounding the confines of the normative.[fn:4] Both
-queer and digital are out there, our frames for engaging with the
-outside world. Both queer and digital are alternative ways of engaging
-with the environment.
+ground, they might as well start with /touch/. Touch is driven by a
+desire for connection, for correlation, for linking one "body" to
+another. The root of the word digital, "digitus," comes from the Latin
+word for finger or toe. Our digits extend forth, the furthest
+appendage still considered part of the coherent body, as the first
+line of contact with the world. Touch goes both ways; what I touch
+also touches me; one body impressed by or in collision with
+another. The sensation of touch often obscures this dual effect, and
+some bodies appear to desire touching rather than being
+touched. Queerness is similarly concerned with contact and desire, and
+more precisely with the desire for contact. Queer contact connotes not
+traditional contact, but contact that opposes or even offends
+expectations. It is to the side of the acceptable, bounding the
+confines of the normative.[fn:4] Both queer and digital are out there,
+our frames for engaging with the outside world. Both queer and digital
+are alternative ways of engaging with the environment.
 
-Eve Kosofsky Sedgwick offers a reading method guided by touch. She's
-thinking about ways that critics might find new ways of connecting to
-literary objects. Touch offers for Sedgwick an evasion of "dualistic
-thought," that is, thinking in "binary" thought, where things are
-discrete and opposed. Sedgwick explains that "the sense of touch makes
-nonsense out of any dualistic understanding of agency and passivity;
-to touch is always already to reach out, to fondle, to heft, to tap,
-or to enfold" (13). Touch signifies a range of relations where power
-is not always reduced to opposition or oppression. Touch as a way for
-opening up how we relate to the outside world. 
+Touch either keeps or recuperates the inherent connection between
+bodies. All things touch each other, something that heteronormativity
+tries to suppress. For things to not touch, to be severed or
+"objectified," moves them into a relation of violence. Gloria Anzaldua
+explains that separation is brutal: "In trying to become 'objective,'
+Western culture made 'objects' of things and people when it distanced
+itself from them, thereby losing 'touch' with them. This dichotomy is
+the root of all violence" (37). Losing touch is a prerequisite for
+exploitation. The sundering of "objects" from our touch primes us to
+take advantage of them. Colonial history is a case study in losing
+touch: "White America has only attended to the body of the earth in
+order to exploit it, never to succor it or to be nurtured in it"
+(68). Anzaldua's /mestiza/, birthed in the open wound of the border,
+"where the Third World grates against the first and bleeds," is an
+attempt to bring together what has been separated (3). Those who live
+on the border know better than anyone--divisions between bodies puts
+those bodies into conflict.
 
-Touching can also be the antidote to exploitation. Gloria Anzaldua
-explains how touch restores connections between people and
-objects. For Anzaldua, separation is brutal: "In trying to become
-'objective,' Western culture made 'objects' of things and people when
-it distanced itself from them, thereby losing 'touch' with them. This
-dichotomy is the root of all violence" (37). The sundering of
-'objects' from our touch is the cause of our taking advantage of
-them. 
+Touch offers myriad ways of relation. Eve Kosofsky Sedgwick offers
+touch as a way of connecting to objects that evades "dualistic
+thought," that is, in "binary" thought, where things are presumed to
+be discrete and opposed. Sedgwick explains that "the sense of touch
+makes nonsense out of any dualistic understanding of agency and
+passivity; to touch is always already to reach out, to fondle, to
+heft, to tap, or to enfold" (13). Touch is notable for what it manages
+to avoid---the upper hand, the either/or. Touch opens a range of
+relations where power is not always reduced to opposition. Touch opens
+relations to the outside world. There is more than one kind of touch.
 
-** not overdetermining queer subjects
+As an antidote, touch is not a naturally western mode of
+relation. Touch is queer. Touch can inflect the way we read and talk
+about what we read.
+
+** Queerness as untouchable 
 In some queer theory and digital humanities runs a similar hesistation
 not to overdetermine or overinterpret the content of what we read. For
 queer theory, this hesitation pushes against the trend of locating
@@ -64,7 +79,6 @@ the closet, for example) and turning those aspects into sites of
 political resistance, liberation, or pride. [NEEDS A QUOTE, SEDGWICK,
 THAT EXPLAINS PARANOID READING]
 
-** Queerness as untouchable
 *** Heather Love's /Feeling Backward/
 In resisting the temptations to redeem or console psychic suffering by
 queer subjects, Heather Love offers an alternative reading strategy,
@@ -224,16 +238,16 @@ analysis. The point isn't to find evidence of overcoming queer
 suffering, but to examine the ways that queerness is figured in
 abstraction. What does queerness look like, what can it do? 
 
-** Queerness and data
+** Data as cooked
 As a mode of relationality, "Feeling Backward" not presume a full
 connection between the critic and subject, keeping the subject at arms
 length. It approaches queerness as something receding, even when the
 critic is perpetually in pursuit. This relationship between critic and
 textual subject evokes some of the attitudes that digital humaninists
-take toward their data. Critics such as Johanna Drucker and Lauren
-Klein are careful to qualify the nature of data as constructed,
+take toward their data. Critics such as Johanna Drucker and Ted
+Underwood are careful to qualify the nature of data as constructed,
 wrenched from the reality of lived experience, and necessarily reduced
-to fit whatever environs required by analysis. 
+to fit whatever environs required by analysis.
 
 *** Drucker's skewing the graphs
 
@@ -284,13 +298,14 @@ figure these elements, but not in a way that attempts to clarify or
 resolve their complexity. Rather, like Love, she works on the “image
 of exile, of refusal, even of failure” (Love 71).
 
-*** Klein figuring absence
+*** Ted Underwood's models as object of study
 
-** Moving to making new connections. 
+
+** Abstraction: Moving to making new connections. 
 In denying full connections, this relationality opens up possibilities
 for understanding, recognition, play, experimentation.
 
-** data reduction / queer assimilation 
+** Misc: data reduction / queer assimilation 
 For those that would argue that negative feelings are no longer
 relevant in today's world, Heather Love responds that the advent of
 assimilation, of popular acceptance, only creates more problems for a

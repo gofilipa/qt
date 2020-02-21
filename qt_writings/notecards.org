@@ -82,6 +82,8 @@
   contemporary novel’s investment in sensorial embodiment awaits
   fuller treatment” (117).
 
+*** Underwood, Ted. *Distant Horizons*
+
 ** Networks
 *** Galloway, Alexander. *Protocol*, 2004. PDF.
 - Codes that append all data…controlling power lies in the technical
@@ -1445,7 +1447,7 @@ an worlds whose mis/fits are context- and interaction-dependant" (61).
   the discussion about sex. With AIDs, homosexuality becomes a lethal
   pathology.
 
-*** Cvetkovich, Ann. *An Archive of Feelings: Trauma, Sexuality, and Lesbian Public Cultures*. 2003.
+*** Cvetkovich, Ann. An Archive of Feelings: Trauma, Sexuality, and Lesbian Public Cultures. 2003.
 - Asks how we can reclaim some of the most negative and traumatic
   feelings/experiences into something positive and theraputic. This is
   about turning something that is traditionally private and
@@ -1473,15 +1475,7 @@ an worlds whose mis/fits are context- and interaction-dependant" (61).
           stigma which doesn’t minimize or sterilize it, as Love
           explores with her notion of “Feeling Backward.”
 
-*** David, L., Judith Halberstam, and Esteban Muñoz. "What’s Queer About Queer Studies Now?." *Social Text* 23.3–4 (2005): 1-17.
-- In a mainstream world, what's still queer? How do we carve out the
-  queer amid all this normalization?
-- Queer here becomes "a political metaphor with no referent."
-- Looks at intersectionality, global/diaspora, liberalism for queer
-  interventions.
-- --> could we add climate and technology/media?
-
-*** Sedgwick, Eve Kosofsky. "Shame, Theatricality, and Queer Performativity: Henry James’s The Art of the Novel" & "Paranoid Reading and Reparative Reading, or, You’re So Paranoid, You Probably Think This Essay Is About You" from *Touching Feeling: Affect, Pedagogy, Performativity*. 2003.
+*** Sedgwick, Eve Kosofsky. "Shame, Theatricality, and Queer Performativity: Henry James’s The Art of the Novel" & "Paranoid Reading and Reparative Reading, or, You’re So Paranoid, You Probably Think This Essay Is About You" from Touching Feeling: Affect, Pedagogy, Performativity. 2003.
 - S wants a critical method that gets outside the logic of
   repression/prohibition (Foucault) which guides much of suspicious
   reading. Her fear is that uncovering these histories will not reveal
@@ -1523,7 +1517,15 @@ an worlds whose mis/fits are context- and interaction-dependant" (61).
   contagiousness of shame is only facilitated by its anamorphic,
   protean susceptibility to new expressive grammars" (63).
 
-*** Muñoz, José. *Cruising Utopia: The Then and There of Queer Futurity*. 2009.
+*** David, L., Judith Halberstam, and Esteban Muñoz. "What’s Queer About Queer Studies Now?." Social Text 23.3–4 (2005): 1-17.
+- In a mainstream world, what's still queer? How do we carve out the
+  queer amid all this normalization?
+- Queer here becomes "a political metaphor with no referent."
+- Looks at intersectionality, global/diaspora, liberalism for queer
+  interventions.
+- --> could we add climate and technology/media?
+
+*** Muñoz, José. Cruising Utopia: The Then and There of Queer Futurity. 2009.
 - Present gay politics is either trapped within heteronormative
   agendas or the death drive. How do we get beyond the stagnancy of
   straight time and the negativity of anti-relationality? Munoz offers
@@ -1551,7 +1553,7 @@ an worlds whose mis/fits are context- and interaction-dependant" (61).
   sociality” (7). “Ecstatic time is signaled the moment one feels
   ecstasy…” (32).
 
-*** Love, Heather. *Feeling Backward: Loss and the Politics of Queer History*. 2009.
+*** Love, Heather. Feeling Backward: Loss and the Politics of Queer History. 2009.
 - Foucault’s reverse discourse turns the shame and pain of the closet
   into sites of resistance, pride and affirmation. But what about the
   aspects of queer negativity that cannot be resolved, recuperated, or
@@ -1581,7 +1583,31 @@ an worlds whose mis/fits are context- and interaction-dependant" (61).
       connections. Love here evokes Shaviro’s “contact-at-a-distance”
       and Pitts-Taylor’s discussion about mirror neurons.
 
-*** Caldwell, Kelly. "[The Torment of Queer Literature](https://therumpus.net/2018/06/the-torment-of-queer-literature/)," *The Rumpus*. 2018.
+*** Amin, Kadji. "Haunted by the 1990s: Queer theory's affective histories." WSQ: Women's Studies Quarterly:44.3 (2016): 173-189.
+- What counts as "queer"?
+- Identifying the queer is affective: it's about sensing a resonance
+  between the object and the feelings of queerness. "Queer" is always
+  haunted by its past.
+- What happens when Queer loses its transgressive charge? When it
+  becomes a response to political urgency rather than denoting
+  sexuality? It makes queer into something that must always be on the
+  move.
+- Rather than being open, multiple, polyvalent, searching, "queer"
+  should be seen as sticky, engaging with multiple pasts, bearing the
+  impression of its past affects. "I propose /attachment geneaology as
+  a method tha focuses on analytically queer forms of nonnormativity
+  that clash with /queer/'s current affective and political
+  connotations in order to excavate the historical attachments that
+  inform /queer/'s aversion to these particular objects... Attachment
+  geneaology begins with the experience of scholarly unease. For the
+  field of queer studies, an object that produces unease is one that
+  exposes, fragments, and reworks /queer/'s own affective histories"
+  (185).
+- --> but isn't this what people are already doing?
+- Praciticing "attachment geneaology", where we excavate our unease
+  with queer objects and elaborate feeling states.
+
+*** Caldwell, Kelly. "[The Torment of Queer Literature](https://therumpus.net/2018/06/the-torment-of-queer-literature/)," The Rumpus. 2018.
 - What if only identification possible is one of of shame, stigma and
   pain? Caldwell explores what we can do with the negative affects of
   identification and failure of recognition that occur when
@@ -1625,30 +1651,6 @@ an worlds whose mis/fits are context- and interaction-dependant" (61).
           something never fully here, something given to me daily by
           those who love and name me. It’s a room somewhere slowly
           filling up with light.”
-
-*** Amin, Kadji. "Haunted by the 1990s: Queer theory's affective histories." *WSQ: Women's Studies Quarterly* 44.3 (2016): 173-189.
-- What counts as "queer"?
-- Identifying the queer is affective: it's about sensing a resonance
-  between the object and the feelings of queerness. "Queer" is always
-  haunted by its past.
-- What happens when Queer loses its transgressive charge? When it
-  becomes a response to political urgency rather than denoting
-  sexuality? It makes queer into something that must always be on the
-  move.
-- Rather than being open, multiple, polyvalent, searching, "queer"
-  should be seen as sticky, engaging with multiple pasts, bearing the
-  impression of its past affects. "I propose /attachment geneaology as
-  a method tha focuses on analytically queer forms of nonnormativity
-  that clash with /queer/'s current affective and political
-  connotations in order to excavate the historical attachments that
-  inform /queer/'s aversion to these particular objects... Attachment
-  geneaology begins with the experience of scholarly unease. For the
-  field of queer studies, an object that produces unease is one that
-  exposes, fragments, and reworks /queer/'s own affective histories"
-  (185).
-- --> but isn't this what people are already doing?
-- Praciticing "attachment geneaology", where we excavate our unease
-  with queer objects and elaborate feeling states.
 
 ** Autobiography Theory
 *** Lejeune, Philippe, Annette Tomarken and Edward Tomarken. "Autobiography in the Third Person." /New Literary History/, Vol. 9, No 1, pp. 27-50. 
