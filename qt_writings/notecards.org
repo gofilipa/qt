@@ -83,7 +83,106 @@
   fuller treatment” (117).
 
 *** Underwood, Ted. *Distant Horizons*
+Much of literary history is invisible to us due to our blindness to
+large scales. Though it is no substitute for the sensitivity of close
+reading, Distant reading allows us to see larger patterns across
+centuries and periods.
 
+- Uses "perspectival modeling," which is a way of testing computer
+  models, or the results from computer modeling.
+    - "a model---a relation between variables---instead of a single axis
+      of measurement" (19).
+    - A bag-of-words representation... We represent each character by the
+      adjectives that modify them, the verbs they governm and so
+      on---excluding only words that explicitly name a gendered role like
+      /boyhood/ or /wife/. Then, we present characters, labeled with
+      grammatical gender, to a learning algorithm. The algorithm will
+      learn what it means to be 'masculine' or 'feminine' purely by
+      observing what men and women actually do in stories. The model
+      produced by the algorithm can make predictions about other
+      characters, previously unseen" (115). 
+
+- Quantitative methods are not anymore objective than close
+reading. But they are not as "sensitive" or "exacting" as close
+reading, and are mostly useful for long views. 
+    - "If we look with fresh eyes at contemporary quantitative methods, we
+      may notice that they are not distinguished by any aspiration to
+      objectivity. Machine learning, in particular, is causing public
+      scandal because it tends to be all too sensitive to subjective
+      contexts" (xiv).
+    - "machine learning tends to absorb assumptions latent in the evidence
+      it is trained on. By training models on evidence selected by
+      different people, we can crystallize different social perspectives
+      and compare them rigorously to each other... which I call
+      'perspectival modeling'" (xv).
+    - "Critics who want to sensitively describe the merits of a single
+      work usually have no need for statistics... Computational
+      analysis of a text is more flexible than it used to be, but it
+      is still quite crude compared to human reading; it helps mainly
+      with questions where evidence is simple too big to fit in a
+      single reader's memory" (xxi).
+    - "The imprecision of the human world is part of the reason why
+      numbers are so useful in social science: they allow researchers to
+      describe continua instead of sorting everything into discrete
+      categories" (20).
+
+- Repeatedly stresses that the point of quantitative methods is to
+  discover new scales of analysis, but he seems to be looking for an
+  overarching theory that will encapsulate literary
+  history. Quantitative methods seek to overcome a problem of
+  attention, of memory, in order to gain a large view. Here, human
+  memory is a hindrance, rather than a drive. The goal is rather to
+  multiply alternative readings. 
+    - Attention determines analysis, analysis determines knowledge,
+      knowledge determines disciplines, periodization (8).
+    - "The challenge is to find a perspective that makes the descriptions
+      preferred by eighteenth-, nineteenth-, and twentieth-century
+      scholars all congruent with each other" (32). 
+
+- His examination reveals, as he projected, that initial assumptions
+  will determine the the form of the result. In looking at the way gender
+  is characterized, or rather how models characterize gender, in
+  novels from the 18th century to today, he finds that results
+  reproduce some of the structuring assumptions from the outset. If
+  gender is binary, then the relation between male and female will be
+  one of opposition. 
+    - "explores the history of characterization, looking in particular at
+      the way fictional characters are shaped by implicit assumptions
+      about gender... how easy it would be to distinguish fictional women
+      from men, using only the things they are represented as doing in the
+      text. When first names and pronouns are set aside, can a model still
+      predict a characters grammatical gender?"  (xvii). 
+    - "while gender roles were becoming more flexible, the attention
+      actually devoted to women was declining" (114).
+    - His questions build in causality: "we can ask how strongly public
+      signs of gender shaped characterization in general. Were fictive
+      men quite different from fictive women, or were the differences
+      between characters unrelated to conventional signs of gender?"
+      (115). 
+    - "one possible conclusion would be that the structural positions of
+      masculine and feminine identity, vis-a-vis each other, have remained
+      very stable---while the actual content of masculinity and femninity
+      has been entirely mutable. It is also possible, of course, that this
+      chapter has discovered stable 'structural positions' only because it
+      explores gender, for the most part, as a binary opposition.... it
+      would also be possible to represent those changes as the /blurring/
+      of a boundary to produce a spectrum or as a /multiplication/ of
+      gender identities that made the binary opposition between masculine
+      and feminine increasingly irrelevant to characters' plural
+      roles" (140).
+          - --> the question then becomes, how can we do criticism
+            that doesn't reproduce our own assumptions? The answer is
+            that we cannot. But we can try to incorporate, as much as
+            possible, alternative reading methods. This happens only
+            through and play.
+
+- Distant reading allows us to see that fiction is more 'embodied'
+  than nonfiction: 
+    - "the novel steadily specialized in something that biography (and
+      other forms of nonfiction) could rarely provide: descriptions of
+      bodies, physical actions, and immediate sensory perceptions in a
+      precisely specified place and time" (26).
+  
 ** Networks
 *** Galloway, Alexander. *Protocol*, 2004. PDF.
 - Codes that append all data…controlling power lies in the technical
@@ -1525,7 +1624,7 @@ an worlds whose mis/fits are context- and interaction-dependant" (61).
   interventions.
 - --> could we add climate and technology/media?
 
-*** Muñoz, José. Cruising Utopia: The Then and There of Queer Futurity. 2009.
+*** Muñoz, José. /Cruising Utopia: The Then and There of Queer Futurity/. 2009.
 - Present gay politics is either trapped within heteronormative
   agendas or the death drive. How do we get beyond the stagnancy of
   straight time and the negativity of anti-relationality? Munoz offers
@@ -1582,6 +1681,56 @@ an worlds whose mis/fits are context- and interaction-dependant" (61).
     - There are queer modes of relationality that do not presume full
       connections. Love here evokes Shaviro’s “contact-at-a-distance”
       and Pitts-Taylor’s discussion about mirror neurons.
+
+*** Amin, Kadji, Amber Jamilla Musser, and Roy Pérez “Queer Form: Aesthetics, Race, and the Violences of the Social” ASAP/Journal, Volume 2, Number 2, May 2017, pp. 227-239.
+- Looking at the “division” between aesthetics vs social critique;
+  attempting to bring the social critique to aesthetics; and to
+  articulate how opacity can be a formal method.
+- Form understood as associated with queerness, queer experience, and
+  as a way to disrupt easy understanding. Form can be queer and queer
+  form can be opaque:
+    - “Form informs queerness, and queerness is best understood as a
+      series of relations to form, relations not limited to binary and
+      adversarial models of resistance and opposition” (228).
+    - “Queer form” emerges… as a name for the range of formal,
+      aesthetic, and sensuous strategies that make difference a little
+      less knowable, visible, and digestible. This special issue makes
+      a case for the value of indirection, opacity, and withholding as
+      queer strategies for minoritarian art producers” (235).
+    - “form focuses attention on how violence—homophobia, racism,
+      gentrification, capitalism, and colonialism, for instance—has
+      structured conditions of possibility in material and
+      epistemological ways” (232).
+- Queer form as obscuring, occluding: 
+    - “For our purposes, queer form means challenging the primacy of the
+      visual, which has too often been a site for pernicious power
+      relations… At their base, such operations of surveillance and
+      classification rely on the concept of immutable difference, on sharp
+      boundaries, and on the possibility of exhaustively knowing the
+      other…. We see queer form as an aesthetics that moves persistently
+      around the visual, thereby avoiding this flattening. To the extent
+      that form operates behind the scenes as ideological impulse and
+      materiality, queer formal practices can resist the dictates of
+      transparency normally required of non-normative subjects by
+      illuminating the unseen. In this way it not only troubles the
+      epistemic assurances of the visual regime, but it also asks how
+      shifting away from static visuality can circumnavigate questions of
+      objectification. A move toward the diffusely sensual, and away from
+      the linearity of visual gazing, articulates difference in terms that
+      are not about dominance or norms, but that underscore the importance
+      of thinking with other modes of knowing, theorizing, and
+      experiencing. Queer form is about other ways of understanding
+      relationships to power and relationships to being” (232-3)
+        - --> This is what is violent about analysis, the assumptions
+          that we make about others being fundamentally different and
+          fundamentally knowable.
+        - --> To me, this connects to what Love talks about queerness as
+          being a failed project, an impossibility, as something that
+          is always receding just as we are trying to glimpse it. This
+          connects to the way we think about quantitative data, data
+          analysis. Our data that we use in analysis is never going to
+          reflect the complexity of the real object. There is always a
+          reduction to be made.
 
 *** Amin, Kadji. "Haunted by the 1990s: Queer theory's affective histories." WSQ: Women's Studies Quarterly:44.3 (2016): 173-189.
 - What counts as "queer"?
@@ -1651,6 +1800,36 @@ an worlds whose mis/fits are context- and interaction-dependant" (61).
           something never fully here, something given to me daily by
           those who love and name me. It’s a room somewhere slowly
           filling up with light.”
+
+*** Fawaz, Ramzi and Shanté Paradigm Smalls, “QUEERS READ THIS! LGBTQ Literature Now” GLQ: A Journal of Lesbian and Gay Studies, 2018.
+- What do queers read now, or how do queers read now, that the AIDS
+  crisis is behind us and it’s been 25 years since Reparative Reading?
+  Would This Bridge Called My Back have been published now? The
+  article lays out a geneology of queer theory that starts with
+  Sedgwick’s reparative reading (focused on the local act of reading)
+  then goes into queer of color critique (focused on lived experience
+  and social critique), and then sets out a series of essays that
+  tries to combine both close reading and social critique.
+    - It offers repair as a reading method. Caring for and attending
+      to wounds. “To reorganize the lived pain and struggle of its
+      potential readers” (178). Building from Sedgwick’s Reparative
+      Reading --- how to ameliorate queer experience: “a practice
+      through which readers do something ameliorative with texts,
+      making them functional for the nourishing of queer life” (172).
+    - Queer reading is a lense not an object, which is tied to the
+      reader, “LGBTQ subjectivity”: “one of the field’s most ambitious
+      projects has been to reveal the distinct perspective of LGBTQ
+      subjectivity as potentially relevant for making sense of all
+      forms of cultural production, even those texts, objects, and
+      performances that do not appear to have any immediate relation
+      to nonnormative sexuality or desire” (171)
+- “*Form* — whether understood as the syntactical structure of a
+  specific sentence, techniques and devices used to give shape to
+  narratives, or the actual visual organization of words on a page —
+  can be understood as a kind of *evidence of how queerness is being
+  lived and inhabited* by different kinds of LGBTQ people at distinct
+  historical moments” (179). --> But is form really pointing to or
+  representing reality? Or is it an abstraction?
 
 ** Autobiography Theory
 *** Lejeune, Philippe, Annette Tomarken and Edward Tomarken. "Autobiography in the Third Person." /New Literary History/, Vol. 9, No 1, pp. 27-50. 

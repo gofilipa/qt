@@ -2,12 +2,24 @@
 
 ** Rough outline for chapter:
 - touch as a reading method: making & opening connections
+  - anzaldua and sedgwick on touch as connective and multiplying
 - queerness as untouchable: something we cannot fully grasp
+  - love and cvetkovitch on queer negativity
 - data as unknowable: something we cannot fully grasp
+  - drucker and underwood on studying cooked data
+- the illusion of critical detachment, we need bodies
+  - felski's affective method
+  - sedgwick on reparative reading
 - abstraction as necessary in order to bring things into relation
+  - sedgwick on generative shame
+  - klein on figuring what is absent
 - the parallels between DH and Queer theorists, different reading
 styles; refocus on touch
-- my reading of /voyant-tools/ & /waves/?
+  - feminist distant reading
+  - mcgann, ramsay on deformance, piper on close & distant. 
+  - example of queer theorist who is guided by
+    touching/feeling... affect theories? Munoz, Anzaldua, Ahmed... 
+- my reading of /voyant-tools/ & /waves/
 
 *** Pros Description: The first chapter, "Reading: 'Touching without
 Touching,'" lays out what Digital Humanities methodologies might learn
@@ -84,7 +96,7 @@ the ways that queerness is figured through abstraction--I think? We do
 not say whether these things are healing. All we can deal with is the
 data that we are given.
 
-** Data as always cooked
+** The problem: Data as always cooked
 *** Johanna Drucker's capta
 
 Shows the reductions of data that are necessary for most graphical
@@ -95,18 +107,20 @@ experience.
 *** Ted Underwood on studying models
 
 Ted Underwood puts forth a good understanding on quantification being
-no more more objective than words. [insert quote Sinclair that numbers
-are strings] Rather than using "distant reading" to ascertain "facts"
-about literary history, he's examining what models are really doing by
-themselves. His focus on "perspectival modeling" brings the computer
-process under scrutiny, as the object of study.
+no more more objective than words. Rather than using "distant reading"
+to ascertain "facts" about literary history, he's examining what
+models are doing when used by humans. His focus on "perspectival
+modeling" reveals how the computer process reproduces human
+assumptions.
 
-However, there still exists a view that distant reading lacks the
-sensitivity of close reading. "Critics who want to sensitively
-describe the merits of a single work usually have no need for
-statistics" (xxi). 
-
+** the illusion of critical detatchment --> bodies..
+*** within our frames of reference
+*** against reproducibility: Nan Z Da
+*** within our bodies
 ** Abstraction: for multiplying potential connections
+*** felski's post critical reading
+
+
 *** Kosofsky Sedgwick's "touching/feeling"
 Eve Kosofsky Sedgwick has explained how /reading/ can be either
 liberatory or relational. Which is to say it can be a tool for closing
@@ -126,21 +140,54 @@ four decades" (/Touching Feeling/, 8).
 Lauren Klein finds a way to show what is not there in the data. Is
 this the same? 
 
-*** Felski's "post-critical reading"
-    
 ** Digital reading methods (aware of the critic's role):
 Digital formats and interfaces facilitate queer encounters methods, an
 intimate process of engaging with literature on a computer, where
 users can manipulate and transform text.
-
+*** Feminist Distant Reading
 *** McGann's "prosthetic extension" 
 These tools work alongside the reader’s intuition, in what Jerome
 McGann calls a “prosthetic extension of that demand for critical
 reflection,” by which the reader is able to feel her way through the
 text (18).
 
-*** Moretti & Underwood's "distant reading"
 *** Ramsay's "algorithmic criticism" 
+
+*** Piper's bifocal reading and critic implication
+- Distant reading allows us to see that fiction is more 'embodied'
+  than nonfiction: 
+    - "the novel steadily specialized in something that biography (and
+      other forms of nonfiction) could rarely provide: descriptions of
+      bodies, physical actions, and immediate sensory perceptions in a
+      precisely specified place and time" (Underwood 26).
+
+*** Critique of Underwood's "sensitivity"
+
+Underwood overlooks the ways that distant reading can be a
+prosthesis. Claims that Quantitative are not as "sensitive" or
+"exacting" as close reading, and are mostly useful for long views. How
+can we approach distant reading as multiplying alternative readings?
+Rightly points out that human attention guides the scale of
+analysis. So we have to be very careful at the question we are posing,
+and the way that we interact with the computer.
+    - "Critics who want to sensitively describe the merits of a single
+      work usually have no need for statistics... Computational
+      analysis of a text is more flexible than it used to be, but it
+      is still quite crude compared to human reading; it helps mainly
+      with questions where evidence is simple too big to fit in a
+      single reader's memory" (xxi).
+- Repeatedly stresses that the point of quantitative methods is to
+  discover new scales of analysis, but he seems to be looking for an
+  overarching theory that will encapsulate literary
+  history. Quantitative methods seek to overcome a problem of
+  attention, of memory, in order to gain a large view. Here, human
+  memory is a hindrance, rather than a drive. The goal is rather to
+  multiply alternative readings. 
+    - Attention determines analysis, analysis determines knowledge,
+      knowledge determines disciplines, periodization (8).
+    - "The challenge is to find a perspective that makes the descriptions
+      preferred by eighteenth-, nineteenth-, and twentieth-century
+      scholars all congruent with each other" (32). 
 
 ** Digital projects based on text manipulation: 
 I find that the haptic and exploratory activity of working with these
@@ -162,3 +209,10 @@ move with the text, based on their own paths.
 *** what are some print texts that enact these principles of movement?
 - Alison Bechdel's "Are You My Mother": where every page is vibrating
 with reference. 
+
+** MISC
+*** incommensurability, numbers are just as ambiguous
+    - "The imprecision of the human world is part of the reason why
+      numbers are so useful in social science: they allow researchers to
+      describe continua instead of sorting everything into discrete
+      categories" (Underwood 20).
