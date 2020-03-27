@@ -113,6 +113,21 @@ models are doing when used by humans. His focus on "perspectival
 modeling" reveals how the computer process reproduces human
 assumptions.
 
+However, the results of the analysis are always baked into the start,
+ask Underwood's conclusions about gender reveal gender to be a binary
+and oppositional force.
+
+*** Bode and Klein on distant reading, statistical methods
+
+Katherine Bode's critique of Underwood points out that QLS methods
+incorporate hidden assumptions about the data, about what is
+findable. She offers a method that builds off the humanistic
+approaches in textual scholarship and bibliography, where the model is
+prior to computation. 
+
+Klein takes this a step further, with her topic modeling of AfAm
+newspapers, trying to visualize the invisible labor.
+
 ** the illusion of critical detatchment --> bodies..
 *** within our frames of reference
 *** against reproducibility: Nan Z Da

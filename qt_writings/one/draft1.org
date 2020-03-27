@@ -333,8 +333,7 @@ they govern and so on---excluding only words that explicitly name a
 gendered role like /boyhood/ or /wife/. Then, we present characters,
 labeled with grammatical gender, to a learning algorithm. The
 algorithm will learn what it means to be 'masculine' or 'feminine'
-purely by observing what men and women actually do in stories. The
-model produced by the algorithm can make predictions about other
+purely by observing what men and women actually do in stories. The model produced by the algorithm can make predictions about other
 characters, previously unseen. 115
 #+END_QUOTE
 
