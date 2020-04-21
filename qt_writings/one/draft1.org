@@ -65,6 +65,7 @@ As an antidote, touch is not a naturally western mode of
 relation. Touch is queer. Touch can inflect the way we read and talk
 about what we read.
 
+
 ** The problem: Queerness as untouchable 
 In some queer theory and digital humanities runs a similar hesistation
 not to overdetermine or overinterpret the content of what we read. For
@@ -238,6 +239,7 @@ analysis. The point isn't to find evidence of overcoming queer
 suffering, but to examine the ways that queerness is figured in
 abstraction. What does queerness look like, what can it do? 
 
+
 ** The problem: Data as cooked
 As a mode of relationality, "Feeling Backward" not presume a full
 connection between the critic and subject, keeping the subject at arms
@@ -391,23 +393,12 @@ or as a /multiplication/ of gender identities that made the binary
 opposition between masculine and feminine increasingly irrelevant to
 characters' plural roles" (140).
 
-*** TODO add klein and d'ignazio on the rhetoric of images
-** the illusion of critical detatchment --> bodies.
-*** within our frames of reference
-The question then becomes, how might we pursue criticism that does not
-reproduce our own assumptions? The answer is that we cannot. Indeed,
-the answer is that /we do not want to/. As any person who has been
-subjected to a minoritarian position already knows, we can never get
-totally outside our own frame of reference. Objectivity is a white
-illusion that colonizes the humanities. Our questions will always
-already determine the answers. And we wouldn't have it any other
-way. Why? because the supposition that some truth lies out there
-waiting to be revealed is at best tedious, at worst dangerous, and as
-Sedgwick points out, wouldn't do to solve the problems we have now:
-"Supposing we were ever so sure... what would we know then that we
-don't already know?" (123).  
 
-*** against reproducibility: Nan Z Da 
+** Critique of Reproducibility
+Scholars like Da, Underwood and Altschuler and Weimer who want something
+reproducible, this overlooks the performativity of engaging with texts
+online. 
+*** nan Z da on reproducibility
 In a controversial peice about text analysis, Nan Z. Da deems
 Computational Literary Studies (CLS) ineffective when her own
 experiments fail to reproduce or verify the results of her
@@ -421,7 +412,25 @@ act is not the object of my critique. The object of my critique is the
 insinuation in /reproducible/ that somehow these analyses exist by
 themselves, outside of the critic.
 
-*** illusion of emotional detachment 
+*** Ted Underwood on studying models
+
+Underwood from PMLA example. He only reproduces the gender
+binary. Interweave with what Sedgwick says about binaries.
+
+Ted Underwood puts forth a good understanding on quantification being
+no more more objective than words. Rather than using "distant reading"
+to ascertain "facts" about literary history, he's examining what
+models are doing when used by humans. His focus on "perspectival
+modeling" reveals how the computer process reproduces human
+assumptions.
+
+However, the results of the analysis are always baked into the start,
+ask Underwood's conclusions about gender reveal gender to be a binary
+and oppositional force.
+
+
+** For alternative readings: queer theory
+*** Felski's post critical reading: the illusion of emotional detachment 
 The reality is that we are stuck in these bodies of our thinking. Rita
 Felski describes how seemingly neutral and detatched critical stance
 belies an emotional disposition:
@@ -466,24 +475,6 @@ of all!" (/Data Feminism/, chapter 2). Not dots on a graph can be said
 to be removed from the predelictions of the creator and the generosity
 of the viewer.
 
-*** within our bodies
-This point bears repeating---we are always stuck within the bodies of
-our thinking. As such, we might as well turn to ourselves, to explore
-(rather than how things are in the world) how things are /to
-us/. Sedgwick points out that the problem is not one of knowledge, but
-one of movement. We can try to in-/corporate/, as much as possible,
-alternative reading methods that get at the unique experience of being
-a thinking/feeling human that is fiddling with these tools. We can, in
-other words, examine the possibilities of /touching/ what we read. And
-we can do so with digital tools for text analysis and machine
-learning.  However, there still exists a view that distant reading
-lacks the sensitivity of close reading. "Critics who want to
-sensitively describe the merits of a single work usually have no need
-for statistics" (xxi).
-
-** Abstraction: Moving to making new connections. 
-In denying full connections, this relationality opens up possibilities
-for understanding, recognition, play, experimentation.
 *** Felski & Sedgwick affective approaches
 
 Critics like Rita Felski and Eve Sedgwick adopt an alternative
@@ -555,7 +546,7 @@ not just a cognitive activity but an embodied mode of attentiveness
 that involves us in acts of sensing, perceiving, feeling, registering,
 and engaging” (176).
 
-*** sedgwick on generative shame
+*** Sedgwick on generative shame
 What if we read Henry James mobilizing shame as a creative resource?
   For many queer people, shame is a structuring force in their
   identity. But this doesn’t mean we need to be negative, we can look
@@ -575,25 +566,125 @@ What if we read Henry James mobilizing shame as a creative resource?
   contagiousness of shame is only facilitated by its anamorphic,
   protean susceptibility to new expressive grammars" (63).
 
-*** klein on figuring what is absent
-** interweaving different digital reading styles
-*** Feminist distant reading
+
+
+
+
+
+
+** Paralleling Queer & DHers looking for alternative readings
+*** Case in point: klein's figuring the absence
+Draw Klein and Hartman together---this is what I want to do for Queer
+texts. 
+
+
+** Performativity
+Digital formats and interfaces facilitate queer encounters methods, an
+intimate process of engaging with literature on a computer, where
+users can manipulate and transform text.
+*** Bode's materiality, critque of Underwood
+
+Katherine Bode's critique of Underwood points out that QLS methods
+incorporate hidden assumptions about the data, about what is
+findable. She offers a method that builds off the humanistic
+approaches in textual scholarship and bibliography, where the model is
+prior to computation. 
+
+*** Tanya Clement: discovery
+
+*** Against reproduction, for remediation/deformance 
+
 *** McGann's "prosthetic extension" 
 These tools work alongside the reader’s intuition, in what Jerome
 McGann calls a “prosthetic extension of that demand for critical
 reflection,” by which the reader is able to feel her way through the
 text (18).
 
-*** Ramsay's "algorithmic criticism" 
-*** Piper's bifocal reading and critic implication
-- Distant reading allows us to see that fiction is more 'embodied'
-  than nonfiction: 
-    - "the novel steadily specialized in something that biography (and
-      other forms of nonfiction) could rarely provide: descriptions of
-      bodies, physical actions, and immediate sensory perceptions in a
-      precisely specified place and time" (Underwood 26).
+*** Critique of Underwood's "sensitivity"
 
-** Misc: data reduction / queer assimilation 
+Underwood overlooks the ways that distant reading can be a
+prosthesis. Claims that Quantitative are not as "sensitive" or
+"exacting" as close reading, and are mostly useful for long views. How
+can we approach distant reading as multiplying alternative readings?
+Rightly points out that human attention guides the scale of
+analysis. So we have to be very careful at the question we are posing,
+and the way that we interact with the computer.
+    - "Critics who want to sensitively describe the merits of a single
+      work usually have no need for statistics... Computational
+      analysis of a text is more flexible than it used to be, but it
+      is still quite crude compared to human reading; it helps mainly
+      with questions where evidence is simple too big to fit in a
+      single reader's memory" (xxi).
+- Repeatedly stresses that the point of quantitative methods is to
+  discover new scales of analysis, but he seems to be looking for an
+  overarching theory that will encapsulate literary
+  history. Quantitative methods seek to overcome a problem of
+  attention, of memory, in order to gain a large view. Here, human
+  memory is a hindrance, rather than a drive. The goal is rather to
+  multiply alternative readings. 
+    - Attention determines analysis, analysis determines knowledge,
+      knowledge determines disciplines, periodization (8).
+    - "The challenge is to find a perspective that makes the descriptions
+      preferred by eighteenth-, nineteenth-, and twentieth-century
+      scholars all congruent with each other" (32). 
+
+
+** Vantanges
+
+*** Klein, Mandell, Caughie, Gaboury
+*** Against totalization
+*** The visible and the invisible, opting out 
+
+
+** Provisionality 
+
+*** Susan Brown's provisionality
+*** Julia Flander's work on Orlando
+*** Against stability 
+
+
+** Digital projects based on text manipulation: 
+I find that the haptic and exploratory activity of working with these
+tools enlivens the reading process by allowing the reader to play,
+experiment, and imagine new connections to the textual object.
+
+*** /Voyant-Tools/
+Jerome McGann "prosthetic extensions"
+Potential texts: Woolf's /Orlando/. 
+
+- Interweave a narrative about touch. Taking new materialist ideas but
+placing them within context of QPOC critiqe. Anzaldua and Bennet on
+touch and severing. Sarah Ahmed too. 
+
+*** /These Waves of Girls/
+Following narrative desire. The click of the mouse allows readers to
+move with the text, based on their own paths. 
+
+*** what are some print texts that enact these principles of movement?
+- Alison Bechdel's "Are You My Mother": where every page is vibrating
+with reference. 
+
+
+** MISC 
+
+
+
+*** within our bodies
+This point bears repeating---we are always stuck within the bodies of
+our thinking. As such, we might as well turn to ourselves, to explore
+(rather than how things are in the world) how things are /to
+us/. Sedgwick points out that the problem is not one of knowledge, but
+one of movement. We can try to in-/corporate/, as much as possible,
+alternative reading methods that get at the unique experience of being
+a thinking/feeling human that is fiddling with these tools. We can, in
+other words, examine the possibilities of /touching/ what we read. And
+we can do so with digital tools for text analysis and machine
+learning.  However, there still exists a view that distant reading
+lacks the sensitivity of close reading. "Critics who want to
+sensitively describe the merits of a single work usually have no need
+for statistics" (xxi).
+
+***  data reduction / queer assimilation 
 For those that would argue that negative feelings are no longer
 relevant in today's world, Heather Love responds that the advent of
 assimilation, of popular acceptance, only creates more problems for a
@@ -619,7 +710,7 @@ between affirming its pride and bemoaning its suffering: "We are not
 sure if we should explore the link between homosexuality and loss, or
 set about proving that it does not exist" (Love 3).
 
-** Misc Quotes
+*** Misc Quotes
 "how might activating emotion – leveraging it, rather than resisting
 emotion in data visualization – help us learn, remember, and
 communicate with data?" (Klein and D'Ignazio, /Data Feminism/,

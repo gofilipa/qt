@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2020-02-11 Tue 16:57 -->
+<!-- 2020-02-26 Wed 13:45 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>&lrm;</title>
@@ -233,18 +233,28 @@ for the JavaScript code in this tag.
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#org35fa7d8">0.1. not overdetermining queer subjects</a></li>
-<li><a href="#org567b5d3">0.2. Heather Love's <i>Feeling Backward</i></a>
+<li><a href="#orga0e44e9">0.1. Touch: a new way of reading: Sedgwick</a></li>
+<li><a href="#org6610ff3">0.2. Queerness as untouchable</a>
 <ul>
-<li><a href="#org6e008d5">0.2.1. identification is risky</a></li>
-<li><a href="#orge202d2d">0.2.2. queerness is a failed project, which is why it's so tempting.</a></li>
-<li><a href="#orga3fa7eb">0.2.3. identifying, but not fully. HERE:</a></li>
+<li><a href="#org8e2cca5">0.2.1. Heather Love's <i>Feeling Backward</i></a></li>
+<li><a href="#org332411b">0.2.2. identification is risky</a></li>
+<li><a href="#org8b853a6">0.2.3. queerness is a failed project, which is why it's so tempting.</a></li>
+<li><a href="#org3694c6a">0.2.4. identifying, but not fully.</a></li>
+<li><a href="#org8a8f34f">0.2.5. Critique of affirmation: Cvetkovitch</a></li>
 </ul>
 </li>
-<li><a href="#orge82e270">0.3. data reduction / queer assimilation</a></li>
+<li><a href="#orgd6c0dc3">0.3. Data as cooked</a>
+<ul>
+<li><a href="#orgf1f8d62">0.3.1. Drucker's skewing the graphs</a></li>
+<li><a href="#org198372f">0.3.2. Ted Underwood's models as object of study</a></li>
 </ul>
 </li>
-<li><a href="#org71c2f89">1. Works Cited</a></div>
+<li><a href="#orgbe966e7">0.4. on reproducibility: not trying to know but to feel.</a></li>
+<li><a href="#orgcc3a100">0.5. Abstraction: Moving to making new connections.</a></li>
+<li><a href="#org35087c1">0.6. Misc: data reduction / queer assimilation</a></li>
+</ul>
+</li>
+<li><a href="#orge59f3ae">1. Works Cited</a></div>
 </div>
 <p>
 This dissertation looks at new ways of reading queer bodies and
@@ -264,31 +274,95 @@ creates a new method for reading queer narratives in digital
 contexts. 
 </p>
 
-<div id="outline-container-org35fa7d8" class="outline-3">
-<h3 id="org35fa7d8"><span class="section-number-3">0.1</span> not overdetermining queer subjects</h3>
+<div id="outline-container-orga0e44e9" class="outline-3">
+<h3 id="orga0e44e9"><span class="section-number-3">0.1</span> Touch: a new way of reading: Sedgwick</h3>
 <div class="outline-text-3" id="text-0-1">
 <p>
-In some queer theory and digital humanities runs a similar hesistation
-not to overdetermine the content of what we read. For queer theory,
-this hesitation pushes against the trend of locating or identifying
-with pain in order to redeem it or expose its workings. This reading
-practice (which has been called "suspicious reading" or "paranoid
-reading"<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>) seeks to expose prohibition and repression, often with
-the goal of affirming queer subjects or recuperating their
-losses. Reading is oriented around revealing these aspects about queer
-experience (the pain and shame of the closet, for example) and turning
-those aspects into sites of political resistance, liberation, or
-pride. [NEEDS A QUOTE, SEDGWICK, THAT EXPLAINS PARANOID READING]
+If digital humanists and queer theorists are going to find some common
+ground, they might as well start with <i>touch</i>. Touch is driven by a
+desire for connection, for correlation, for linking one "body" to
+another. The root of the word digital, "digitus," comes from the Latin
+word for finger or toe. Our digits extend forth, the furthest
+appendage still considered part of the coherent body, as the first
+line of contact with the world. Touch goes both ways; what I touch
+also touches me; one body impressed by or in collision with
+another. The sensation of touch often obscures this dual effect, and
+some bodies appear to desire touching rather than being
+touched. Queerness is similarly concerned with contact and desire, and
+more precisely with the desire for contact. Queer contact connotes not
+traditional contact, but contact that opposes or even offends
+expectations. It is to the side of the acceptable, bounding the
+confines of the normative.<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup> Both queer and digital are out there,
+our frames for engaging with the outside world. Both queer and digital
+are alternative ways of engaging with the environment.
+</p>
+
+<p>
+Touch either keeps or recuperates the inherent connection between
+bodies. All things touch each other, something that heteronormativity
+tries to suppress. For things to not touch, to be severed or
+"objectified," moves them into a relation of violence. Gloria Anzaldua
+explains that separation is brutal: "In trying to become 'objective,'
+Western culture made 'objects' of things and people when it distanced
+itself from them, thereby losing 'touch' with them. This dichotomy is
+the root of all violence" (37). Losing touch is a prerequisite for
+exploitation. The sundering of "objects" from our touch primes us to
+take advantage of them. Colonial history is a case study in losing
+touch: "White America has only attended to the body of the earth in
+order to exploit it, never to succor it or to be nurtured in it"
+(68). Anzaldua's <i>mestiza</i>, birthed in the open wound of the border,
+"where the Third World grates against the first and bleeds," is an
+attempt to bring together what has been separated (3). Those who live
+on the border know better than anyone&#x2013;divisions between bodies puts
+those bodies into conflict.
+</p>
+
+<p>
+Touch offers myriad ways of relation. Eve Kosofsky Sedgwick offers
+touch as a way of connecting to objects that evades "dualistic
+thought," that is, in "binary" thought, where things are presumed to
+be discrete and opposed. Sedgwick explains that "the sense of touch
+makes nonsense out of any dualistic understanding of agency and
+passivity; to touch is always already to reach out, to fondle, to
+heft, to tap, or to enfold" (13). Touch is notable for what it manages
+to avoid&#x2014;the upper hand, the either/or. Touch opens a range of
+relations where power is not always reduced to opposition. Touch opens
+relations to the outside world. There is more than one kind of touch.
+</p>
+
+<p>
+As an antidote, touch is not a naturally western mode of
+relation. Touch is queer. Touch can inflect the way we read and talk
+about what we read.
 </p>
 </div>
 </div>
 
-<div id="outline-container-org567b5d3" class="outline-3">
-<h3 id="org567b5d3"><span class="section-number-3">0.2</span> Heather Love's <i>Feeling Backward</i></h3>
+<div id="outline-container-org6610ff3" class="outline-3">
+<h3 id="org6610ff3"><span class="section-number-3">0.2</span> Queerness as untouchable</h3>
 <div class="outline-text-3" id="text-0-2">
 <p>
-In resisting the temptations to redeem or console psychic suffering,
-Heather Love offers an alternative reading strategy,
+In some queer theory and digital humanities runs a similar hesistation
+not to overdetermine or overinterpret the content of what we read. For
+queer theory, this hesitation pushes against the trend of locating
+pain in order to redeem it or reveal its workings. This reading
+practice (which has been called "suspicious reading" or "paranoid
+reading"<sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup>) seeks to expose the effects of homophobic prohibition
+and repression, often with the goal of affirming queer subjects or
+recuperating their losses. Reading is oriented around finding and
+exposing these aspects about queer experience (the pain and shame of
+the closet, for example) and turning those aspects into sites of
+political resistance, liberation, or pride. [NEEDS A QUOTE, SEDGWICK,
+THAT EXPLAINS PARANOID READING]
+</p>
+</div>
+
+<div id="outline-container-org8e2cca5" class="outline-4">
+<h4 id="org8e2cca5"><span class="section-number-4">0.2.1</span> Heather Love's <i>Feeling Backward</i></h4>
+<div class="outline-text-4" id="text-0-2-1">
+<p>
+In resisting the temptations to redeem or console psychic suffering by
+queer subjects, Heather Love offers an alternative reading strategy,
 "feeling-backward." This strategy opens a space for bad feelings
 without trying to recuscitate, justify, or transform them. She focuses
 on feelings such as "nostalgia, regret, shame, despair,
@@ -299,46 +373,52 @@ original). She examines the burdened protagonists from famous
 modernist texts like Walter Pater's <i>The Renaissance: Studies in Art
 and Poetry</i> (1873), Radclyffe Hall's <i>The Well of Loneliness</i> (1928),
 Willa Cather's <i>My Ántonia</i> (1918), and Sylvia Townsend Warner's
-<i>Summer Will Show</i>. Love argues that the shame and stigma experienced
-by these characters ought to be recognized rather than
+<i>Summer Will Show</i> (1936). Love argues that the shame and stigma
+experienced by these characters ought to be recognized rather than
 resolved. Instead of turning negative histories into sites of
 resistance or affirmation, these hurting characters might have full
 reign over their own darkness. And this darkness must be where the
 critic will meet them.
 </p>
 </div>
+</div>
 
-<div id="outline-container-org6e008d5" class="outline-4">
-<h4 id="org6e008d5"><span class="section-number-4">0.2.1</span> identification is risky</h4>
-<div class="outline-text-4" id="text-0-2-1">
+<div id="outline-container-org332411b" class="outline-4">
+<h4 id="org332411b"><span class="section-number-4">0.2.2</span> identification is risky</h4>
+<div class="outline-text-4" id="text-0-2-2">
 <p>
-As readers, identifying with literary subjects is dangerous and
+As readers, identifying with literary subjects is both dangerous and
 seducticve. Identities within texts are not stable across time and
 place, and acts of identification might collapse or overlook the
 complexity of experience. For queer readers in particular,
-identification often emerges from a desire to recognize something that
-affirms queer experience in the present. Love describes queer critics,
-"Like demanding lovers [who] promise to rescue the past when in fact
-they dream of being rescued themselves" (33). Reading in this sense is
-a search for community, for similitude, a link between past and
-present. When identification is possible, however, it can be
-shattering. In "The Torment of Queer Literature," Kelly Caldwell
-explains the quandry of reading James Baldwin's <i>Giovanni's Room</i> as a
-transgender woman: "what if the only available act of identification
-is one of stigma and shame? Embracing queerness is often embracing
-abjection. Sometimes identification is loss and despair" (par. 4). For
-many readers, the more redemptive or celebratory narratives offer no
-consolation. Caldwell explains the choice: "Either read a book like
-Giovanni’s Room at the risk of recognizing David’s denial and
-repression as my own, or read a book that celebrates queer lives and
-sex boldly and end up despising my own cowardice" (par. 17).
+identification often emerges from a desire to recognize within the
+past something that affirms queer experience in the present. Love
+describes queer critics, "Like demanding lovers [who] promise to
+rescue the past when in fact they dream of being rescued themselves"
+(33). Reading in this sense is a search for reflection, community, or
+similitude, a link between past and present. When identification is
+possible, however, it can be shattering. In "The Torment of Queer
+Literature," Kelly Caldwell explains the quandry of reading James
+Baldwin's <i>Giovanni's Room</i> as a transgender woman: "what if the only
+available act of identification is one of stigma and shame? Embracing
+queerness is often embracing abjection. Sometimes identification is
+loss and despair" (par. 4). Identification tends to center around
+these "bad feelings" which offer less fodder for political
+resistence. However, identification with more positive aspects of
+queer experience is hardly an alternative. For many readers, the more
+redemptive or celebratory narratives offer no consolation. The reader
+is stuck between recognizing their own pain or feeling guilty for not
+recognizing pleasure: "Either read a book like <i>Giovanni’s Room</i> at
+the risk of recognizing David’s denial and repression as my own, or
+read a book that celebrates queer lives and sex boldly and end up
+despising my own cowardice" (par. 17).
 </p>
 </div>
 </div>
 
-<div id="outline-container-orge202d2d" class="outline-4">
-<h4 id="orge202d2d"><span class="section-number-4">0.2.2</span> queerness is a failed project, which is why it's so tempting.</h4>
-<div class="outline-text-4" id="text-0-2-2">
+<div id="outline-container-org8b853a6" class="outline-4">
+<h4 id="org8b853a6"><span class="section-number-4">0.2.3</span> queerness is a failed project, which is why it's so tempting.</h4>
+<div class="outline-text-4" id="text-0-2-3">
 <p>
 The more hopeless and resistant queer subjects make for more tempting
 identifications. Love explains how these subjects remain beyond the
@@ -357,26 +437,27 @@ prohibited and doomed glance backward:
 
 <blockquote>
 <p>
-"Not to look would be infidelity to the measureless, imprudent force
+Not to look would be infidelity to the measureless, imprudent force
 of his movement, which does not want Eurydice in her daytime truth and
 in her everyday appeal, but wants her in her nocturnal obscurity, in
 her distance, with her closed body and sealed face&#x2014;wants to see her
 not when she is visible, but when she is invisible, and not as the
 intimacy of familiar life, but as the foreignness of what excludes all
 intimacy, and wants, not to make her live, but to have living in her
-the plenditude of death" (50).
+the plenditude of death. 50
 </p>
 </blockquote>
 
 <p>
 Orpheus's downfall is his desire for a glimpse at what cannot be
-grapsed, what remains beyond the light. This desire is not for
+grapsed, at what remains beyond the light. This desire is not for
 "daytime truth" but for "noctural obscurity," which is always receding
 at the moment of pursuit. Like Eurydice, queerness emerges only to
 slip away, turning its face from the parched gaze. Can we be blamed
 for looking for that which cannot be grasped? No, because queerness
 has always been structured by that which is not, by what Love calls
-"impossible love" (24). She reminds us that "Queer history has been an
+"impossible love" (24). Not only is queerness projected to fail, it is
+a project of failure. Love reminds us that "Queer history has been an
 education in absence" (50). In learning failure and loss, queer
 readers can only identify with what they have been taught to recognize
 as untouchable. Full identification, like Eurydice in the daylight, is
@@ -385,34 +466,342 @@ prevented by design.
 </div>
 </div>
 
-<div id="outline-container-orga3fa7eb" class="outline-4">
-<h4 id="orga3fa7eb"><span class="section-number-4">0.2.3</span> identifying, but not fully. HERE:</h4>
-<div class="outline-text-4" id="text-0-2-3">
+<div id="outline-container-org3694c6a" class="outline-4">
+<h4 id="org3694c6a"><span class="section-number-4">0.2.4</span> identifying, but not fully.</h4>
+<div class="outline-text-4" id="text-0-2-4">
 <p>
-Love proposes a way out of the quandry: "Rather than attempt to
-'overcome' identity, I want to suggest a mode of historiography that
-recognizes the inevitability of a 'play of recogniztions,' but that
-also sees these recognitions not as consoling but as shattering"
-(45). Reading, for Love, can enact a "play of recognitions," that is,
-a way of identifying, but not fully. Full identification would be a
-consolation, redemptive. Rather, Love looks to the ways that identity
-unsettles and dissolves.
+Love proposes a method in which the goal is not to redeem queer
+subjects or resolve queer failure. Rather, the problem of
+identification is turned to a reading strategy: "I want to suggest a
+mode of historiography that recognizes the inevitability of a 'play of
+recogniztions,' but that also sees these recognitions not as consoling
+but as shattering" (45). Reading, for Love, can enact a "play of
+recognitions," which is a way of making fleeting connections that do
+not presume complete understanding. It is a way of identifying, but
+not fully. Full identification would attempt to wrench the subject
+from its suffering, and effectively transform it into something
+else. Rather that attempt to rescusitate it, Love looks to the ways
+that identity unsettles and dissolves subjectivity. She gives the
+example of Stephen Gordon from Radclyffe Hall's <i>The Well of
+Loneliness</i>. Once considered too depressing as a model of lesbianism,
+recent critics have cast Stephen Gordon as a transgender figure. Love
+resists this label, maintaining that Stephen is “beyond the reach of
+such redemptive narratives” (119). The question, for Love, is not
+whether Stephen is a pre-op FTM (Female-to-Male), but how Stephen’s
+existential negativity can be read as an embodied phenonmenon, as “a
+social experience insistently internalized and corporeal” (108).
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8a8f34f" class="outline-4">
+<h4 id="org8a8f34f"><span class="section-number-4">0.2.5</span> Critique of affirmation: Cvetkovitch</h4>
+<div class="outline-text-4" id="text-0-2-5">
+<p>
+Attempts to affirm negative queer experience can be harmful. Ann
+Cvetkovitch's work on trauma studies provides an example of how this
+tendency can create further misunderstanding about suffering. In her
+book, <i>Archive of Feelings</i>, Cvetkovitch explores expressions of
+trauma within the public sphere. She asks how individuals might
+reclaim some of the most negative and traumatic feelings into
+something positive and theraputic: "I want to place moments of extreme
+trauma alongside moments of everyday emotional distress that are often
+the only sign that trauma's effects are still being felt” (3). She
+wrests trauma studies out of medical discourse and into public
+culture&#x2014;turning something that is traditionally private and
+pathologized into something communitarian, an open, everyday "archive
+of feelings."
 </p>
 
+<p>
+Importantly, Cvetkovitch marshalls this reconfiguration of trauma to
+expand what we consider the 'archive'. She also makes some incisive
+points about the inability to fully portray suffering: "Because trauma
+can be unspeakable and unrepresentable and because it is marked by
+forgetting and dissociation, it often seems to leave behind no records
+at all" (7). Cvetkovitch explores alternative methods of figuring
+trauma, which are transformed when they enter the public sphere. She
+cites examples from public performances like rock shows or
+documentaries, in which the artists enact "moments of intense affect
+that are transformative or revealing” (26). 
+</p>
 
 <p>
-This mode of relationality does not presume a
-full connection between the critic and subject. In doing so, it opens
-up possibilities for understanding, recognition, play,
-experimentation.
+Although her focus on the affective and ephemeral dimension of
+performance opens up conceptions of the archive, Cvetkovitch perhaps
+goes too far when she suggests that these performances are redemptive
+or in some way compensate for traumatic experience. She indicates that
+such performances go so far as to alleviate psychological damage and
+suffering: “Imaginative work that may bear an oblique relation to the
+actual event of sexual abuse can ultimately be more ‘healing’ than an
+explicit rendering of the event” (94). Trauma is a real medical
+condition, with real consequences (death) for those who do not seek
+treatment or downplay its life-threatening effects. Critics should be
+careful in extending a definition of trauma that will end up hurting
+those who are affected by it. We do not need to move trauma strictly
+from the medical discourse in order to have a more communitarian,
+open, and public relationship to it. There are other ways to confront
+stigma which doesn’t attempt to redeem it, as Love explores with her
+notion of “Feeling Backward.”
+</p>
+
+<p>
+The step that Cvetkovitch takes with regard to trauma is interesting,
+however, for what it suggests about the role of the critic in
+analysis. The point isn't to find evidence of overcoming queer
+suffering, but to examine the ways that queerness is figured in
+abstraction. What does queerness look like, what can it do? 
 </p>
 </div>
 </div>
 </div>
 
-<div id="outline-container-orge82e270" class="outline-3">
-<h3 id="orge82e270"><span class="section-number-3">0.3</span> data reduction / queer assimilation</h3>
+<div id="outline-container-orgd6c0dc3" class="outline-3">
+<h3 id="orgd6c0dc3"><span class="section-number-3">0.3</span> Data as cooked</h3>
 <div class="outline-text-3" id="text-0-3">
+<p>
+As a mode of relationality, "Feeling Backward" not presume a full
+connection between the critic and subject, keeping the subject at arms
+length. It approaches queerness as something receding, even when the
+critic is perpetually in pursuit. This relationship between critic and
+textual subject evokes some of the attitudes that digital humaninists
+take toward their data. Critics such as Johanna Drucker and Ted
+Underwood are careful to qualify the nature of data as constructed,
+wrenched from the reality of lived experience, and necessarily reduced
+to fit whatever environs required by analysis.
+</p>
+</div>
+
+<div id="outline-container-orgf1f8d62" class="outline-4">
+<h4 id="orgf1f8d62"><span class="section-number-4">0.3.1</span> Drucker's skewing the graphs</h4>
+<div class="outline-text-4" id="text-0-3-1">
+<p>
+Johanna Drucker argues that quantification techniques (such as
+visualizations in graphs and charts) actually misrepresent the data
+they are meant to convey. Drucker explains that, in order to place
+this data on a graph or chart, it undergoes a
+transformation. Complexity is reduced to whatever quality the
+visualization apparently requires. To illustrate this reduction,
+Drucker presents a chart displaying the amount of books published over
+several years. The chart appears to convey production during this
+specific time period<sup><a id="fnr.3" class="footref" href="#fn.3">3</a></sup>, but Drucker explains that publication date
+is an arbitrary metric for capturing production. She brings to the
+surface all the assumptions made in such a metric, for example, the
+limitations of "novel" as a genre and the connotations behind
+"published," which suggests date of appearance, but has no indication
+of composition, editing, review, distribution. Drucker reminds us that
+each piece of data carries with it the result of many interpretive
+decisions, which carry with them varying degrees of opacity. These
+interpretations ("reductions") are necessary in order to present
+complex concepts like book production as a bar on a chart. Drucker
+explains: "the graphical presentation of supposedly self-evident
+information (again, formulated in this example as “the number of
+novels published in a year”) conceals these complexities, and the
+interpretative factors that bring the numerics into being, under a
+guise of graphical legibility" (Drucker par. 23).
+</p>
+
+<p>
+To resist the reductions of "data," a term that connotes that which is
+"given," Drucker proposes "capta," to suggest the act of being taken
+and transformed. Drucker's "capta" is deliberately creative, turning
+graphical expressions into expressive metrics: components used for
+measurement, like lines or bars on a graph, break or are fuzzy and
+permeable. Objects are not discrete entities, but interact with the
+other objects in the visualization. For example, in a bar graph of
+book publications/year, she warps the bars on the graph, making some
+of them fuzzy, wider, shorter, in an attempt to show that publication
+as a metric elides other information such as composition, editing,
+purchasing, etc.
+</p>
+
+<p>
+This activity is a way of figuring elements that have been reduced,
+resolved, or ignored in traditional quantitative analysis. It evokes
+what Love says about queer subjectivity and experience being beyond
+the reaches of the critic. Drucker makes evident what is overlooked or
+assumed when dealing with complex subjects. She places those elements
+there, for all to see, in a way that muddles (rather than
+simplifies<sup><a id="fnr.4" class="footref" href="#fn.4">4</a></sup>) the relationship between them. She does try to
+figure these elements, but not in a way that attempts to clarify or
+resolve their complexity. Rather, like Love, she works on the “image
+of exile, of refusal, even of failure” (Love 71).
+</p>
+</div>
+</div>
+
+<div id="outline-container-org198372f" class="outline-4">
+<h4 id="org198372f"><span class="section-number-4">0.3.2</span> Ted Underwood's models as object of study</h4>
+<div class="outline-text-4" id="text-0-3-2">
+<p>
+Ted Underwood and other literary critics doing Computational Literary
+Studies (CLS) approach their data with vastly different
+commitments. Underwood harnesses computational power and
+sophistication to glimpse the big picture of literary history, what he
+calls the "distant horizon" of literary trends across centuries. His
+argument convincingly begins with the observation that human
+capacities&#x2014;sight, attention, and memory&#x2014;preclude them from
+grasping the larger patterns of literary history over time
+periods. Distant reading, whereby "distance" implies abstraction, or
+the simplification of textual data into computable objects such as
+publication dates and genres, allows critics to make connections in
+apparent chaos, to draw a steady line of historical development
+through the swarm of overflowing information. According to Underwood,
+distant reading opens new scopes to literary analysis, which would
+otherwise be invisible to readers: "a single pair of eyes at ground
+level can't grasp the curve of the horizon" (x).
+</p>
+
+<p>
+Though to a much lesser degree than Drucker, Underwood similarly turns
+his computational method into an object of study. His research deploys
+machine learning, that is, computer programs "trained" by certain data
+sets to make predictions about other datasets. Underwood studies how
+"models," or calculations based on multiple variables, created by
+sample data can then be used to measure further data. One of his
+models measures the probability that computers can guess the sex of
+a fictional character based on the words associated with that
+character. Underwood explains how the test is configured:
+</p>
+
+<blockquote>
+<p>
+We represent each character by the adjectives that modify them, verbs
+they govern and so on&#x2014;excluding only words that explicitly name a
+gendered role like <i>boyhood</i> or <i>wife</i>. Then, we present characters,
+labeled with grammatical gender, to a learning algorithm. The
+algorithm will learn what it means to be 'masculine' or 'feminine'
+purely by observing what men and women actually do in stories. The
+model produced by the algorithm can make predictions about other
+characters, previously unseen. 115
+</p>
+</blockquote>
+
+<p>
+The computer takes in information about some (the more the better)
+books and studies that information in order to make predictions about
+other books. The resulting model, therefore, is always guided by its
+previous experience. Underwood rightly points out that such
+calculations cannot be taken as fact. Like humans, "machine learning
+tends to absorb assumptions latent in the evidence it is trained on"
+(xv). To Underwood, machine learning is no more "objective" than
+regualar analysis. This is why Underwood calls his work "perspectival
+modeling," where he studies how datasets reveal, not the truth of
+literary histroy, but the <i>approaches</i> of those who study it: "By
+training models on evidence selected by different people, we can
+crystallize different social perspectives and compare them rigorously
+to each other" (xv).
+</p>
+
+<p>
+The results of the analysis is baked into the process, something that
+Underwood understands and accepts as part of the obstacles toward his
+distant horizon. In looking at the way gender is characterized, or
+rather how perspectival models characterize gender, in novels from the
+18th century to the 21st, he finds that the results reproduce some of
+the structuring assumptions from the outset. His examination of gender
+characterization finds that "while gender roles were becoming more
+flexible, the attention actually devoted to women was declining"
+(114). The analysis points to a steady overapping of words used to
+describe men and women over time, shown as a convergence on the graph
+between words previously associated with women, such as "heart," which
+begin to intersect with words typically assoicated with men, like
+"passion," toward the middle of the 20th century. However, while the
+categories of "masculine" and "feminine" words are progressively
+blurred over time, the actual number of female <i>characters</i>
+declines. Underwood explains this drop could be due to several
+reasons, one of which is the simple fact that the practice of writing
+"gentrified" through the 20th century, when writing became
+acknowledged and pursued as a male occupation (137). His analysis
+shows that men tend to write more about men, while women write equally
+about men and women. With less women writing, the amount of female
+characters therefore declines. This explains how Underwood's seemingly
+paradoxical conclusion, that gender roles become more flexible while
+the actual prevalence of women dissapates from fiction, might be
+possible. But Underwood also admits that another factor&#x2014;the
+assumption of gender as a binary category&#x2014;might very well be guiding
+his results: "One possible conclusion would be that the structural
+positions of masculine and feminine identity, vis-'a-vis each other,
+have remained very stable&#x2014;while the actual content of masculinity
+and femninity has been entirely mutable" (140). Viewing gender as a
+binary construction perpetuates the structural categories of
+male/female in a way that is at odds with the actual content of such
+categorie. In other words, if gender is binary, then it stands to
+reason that the relation between male and female will be one of
+opposition. Underwood proposes that one way around this confining
+structure of binary gender would be to refigure gender "as a spectrum
+or as a <i>multiplication</i> of gender identities that made the binary
+opposition between masculine and feminine increasingly irrelevant to
+characters' plural roles" (140).
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgbe966e7" class="outline-3">
+<h3 id="orgbe966e7"><span class="section-number-3">0.4</span> on reproducibility: not trying to know but to feel.</h3>
+<div class="outline-text-3" id="text-0-4">
+<p>
+The question then becomes, how might we pursue criticism that does not
+reproduce our own assumptions? The answer is that we cannot. Indeed,
+the answer is that <i>we do not want to</i>. As any person who has been
+subjected to a minoritarian position already knows, we can never get
+totally outside our own frame of reference. Objectivity is a white
+illusion that colonizes the humanities. Our questions will always
+already determine the answers. And we wouldn't have it any other
+way. Why? because the supposition that some truth lies out there
+waiting to be revealed is at best tedious, at worst dangerous, and as
+Sedgwick points out, wouldn't do to solve the problems we have now:
+"Supposing we were ever so sure&#x2026; what would we know then that we
+don't already know?" (123).  
+</p>
+
+<p>
+In a controversial peice about text analysis, Nan Z. Da deems
+Computational Literary Studies (CLS) ineffective when her own
+experiments fail to reproduce or verify the results of her
+colleagues. Her emphasis on the “reproducible” in CLS extends one of
+distant reading early champion's originating call for a “falsifiable
+criticism”: both advocate for a methodology that is as reliable and
+verifiable as the social sciences. I understand that Da uses
+"reproducible" to mean analyses that can be copied and rerun by other
+scholars in order to test the original result. This (though boring)
+act is not the object of my critique. The object of my critique is the
+insinuation in <i>reproducible</i> that somehow these analyses exist by
+themselves, outside of the critic.
+</p>
+
+<p>
+The reality is that we are stuck in this situation, in these bodies of
+our thinking, we might as well turn the question back on ourselves, to
+explore (rather than how things are in the world) how things are to
+us. Sedgwick points out that the problem is not one of knowledge, but
+one of movement. We <i>can</i> try to in-<i>corporate</i>, as much as possible,
+alternative reading methods that get at the unique experience of being
+a thinking/feeling human that is fiddling with these tools. We can, in
+other words, examine the possibilities of <i>touching</i> what we read. And
+we can do so with digital tools for text analysis and machine
+learning.  However, there still exists a view that distant reading
+lacks the sensitivity of close reading. "Critics who want to
+sensitively describe the merits of a single work usually have no need
+for statistics" (xxi).
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcc3a100" class="outline-3">
+<h3 id="orgcc3a100"><span class="section-number-3">0.5</span> Abstraction: Moving to making new connections.</h3>
+<div class="outline-text-3" id="text-0-5">
+<p>
+In denying full connections, this relationality opens up possibilities
+for understanding, recognition, play, experimentation.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org35087c1" class="outline-3">
+<h3 id="org35087c1"><span class="section-number-3">0.6</span> Misc: data reduction / queer assimilation</h3>
+<div class="outline-text-3" id="text-0-6">
 <p>
 For those that would argue that negative feelings are no longer
 relevant in today's world, Heather Love responds that the advent of
@@ -444,8 +833,8 @@ set about proving that it does not exist" (Love 3).
 </div>
 </div>
 
-<div id="outline-container-org71c2f89" class="outline-2">
-<h2 id="org71c2f89"><span class="section-number-2">1</span> Works Cited</h2>
+<div id="outline-container-orge59f3ae" class="outline-2">
+<h2 id="orge59f3ae"><span class="section-number-2">1</span> Works Cited</h2>
 <div class="outline-text-2" id="text-1">
 <p>
 Caldwell, Kelly. "The Torment of Queer Literature," <i>The Rumpus</i>. 2018.
@@ -458,7 +847,25 @@ Love, Heather. <i>Feeling Backward: Loss and the Politics of Queer History</i>. 
 <div id="text-footnotes">
 
 <div class="footdef"><sup><a id="fn.1" class="footnum" href="#fnr.1">1</a></sup> <div class="footpara"><p class="footpara">
+What is "queer"? How do we define "queer"? Queer is the feeling
+I get when I'm reading something that I'm not supposed to. 
+</p></div></div>
+
+<div class="footdef"><sup><a id="fn.2" class="footnum" href="#fnr.2">2</a></sup> <div class="footpara"><p class="footpara">
 Rita Felski? and Eve Kosofsky Sedgwick. 
+</p></div></div>
+
+<div class="footdef"><sup><a id="fn.3" class="footnum" href="#fnr.3">3</a></sup> <div class="footpara"><p class="footpara">
+Drucker implicitly refers to the first chapter from Franco
+Moretti's <i>Graphs, Maps, Trees</i> (2007), throughout which Moretti
+graphs novels by their publication date between 1700 and 2000 and
+draws conclusions about the relationship between genre and generations
+of readers. 
+</p></div></div>
+
+<div class="footdef"><sup><a id="fn.4" class="footnum" href="#fnr.4">4</a></sup> <div class="footpara"><p class="footpara">
+Moretti: "'Distant reading'&#x2026; where distance is however not an
+obstacle but /a specific form of knowledge" (1).
 </p></div></div>
 
 
@@ -466,7 +873,7 @@ Rita Felski? and Eve Kosofsky Sedgwick.
 </div></div>
 <div id="postamble" class="status">
 <p class="author">Author: Filipa  Calado</p>
-<p class="date">Created: 2020-02-11 Tue 16:57</p>
+<p class="date">Created: 2020-02-26 Wed 13:45</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
