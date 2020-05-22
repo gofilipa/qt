@@ -2,6 +2,30 @@
   
     {
 
+      "title"    : "Untouchable Queerness",
+      "url"      : "/qt/the-untouchable/",
+      "category" : "dissertation, queer of color critique",
+      "date"     : "May 22, 2020"
+    } ,
+  
+    {
+
+      "title"    : "Feminist Army II",
+      "url"      : "/qt/feminist-army-II/",
+      "category" : "dissertation, performance",
+      "date"     : "March 27, 2020"
+    } ,
+  
+    {
+
+      "title"    : "Feminist Army",
+      "url"      : "/qt/feminist-army/",
+      "category" : "dissertation, distant reading, methods, feminism",
+      "date"     : "February 28, 2020"
+    } ,
+  
+    {
+
       "title"    : "Queerness as Data",
       "url"      : "/qt/queer-data/",
       "category" : "dissertation, data, identification, Love, Drucker",
