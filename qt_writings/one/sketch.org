@@ -4,17 +4,20 @@
 - touch as a reading method: making & opening connections
   - anzaldua and sedgwick on touch as connective and multiplying
 - queerness as untouchable: something we cannot fully grasp
-  - love and cvetkovitch on queer negativity
+  - paranoid/suspicious reading 
+  - dangers of replication, recovery 
+  - on being untouchable, estranged 
+  - the incommensurable 
+  - example: /confessions of the fox/ 
+- solution is abstraction, formalization, opacity:
+  - queerness as emergent, surfacing, optical
+  - interweaving QOC critique
+  - queer form: opacity as a value
+  - abstraction as necessary in order to bring things into relation
 - data as unknowable: something we cannot fully grasp
   - drucker and underwood on studying cooked data
 - against reproducibility
   - Da, Underwood and Altschuler and Weimer
-- For alternative readings: queer theory offers
-  - awareness of critical detatchment opens up our engagement with capta
-  - felski's affective method
-  - sedgwick on reparative reading
-  - sedgwick on generative shame: 
-  - abstraction as necessary in order to bring things into relation
 - Feminst/Queer DHers doing something similar
   - klein on figuring what is absent
 - Performance as a reading method
@@ -24,7 +27,7 @@
 - Vantages, the view
   - Klein, Mandell, Caughie, Gaboury
   - against totalization
-  - the visible and the invisible, opting out
+  - the visible and the invisible, opting out, the null value
 - Provisionality / Ephemerality
   - Susan Brown, Julia Flanders
   - against stability
@@ -61,6 +64,9 @@ object.
 
 
 ** A new way of reading--guided by touch
+- Touch is the first connection between queerness and the digital.
+- Queerness can be defined as /a desire for touch/. 
+
 *** touch, reading: Anzaldua and Sedgwick
 
 Touch is the first site of connection between the queer and the
@@ -72,9 +78,56 @@ Sedgwick shows that touch is a way of multiplying connection.
 
 
 ** Queerness as untouchable: Resisting overreading
-This section explores how reading practices grapple with histories of
-queer pain and exclusion to open up new possibilities for
-interpretation based on feeling rather than redemption or closure. 
+-  Paraonoia only delivers results that are imaginable within the
+current knowledge structures. We see the harm of paranoia in biology
+and history, in the project to recover slave history. Recovery and
+science create a system that predetermines the results. 
+- this is related to queerness, which is a desire for touch, a desire
+cannot be satisfied, redeemed, violated. There is something ineffable,
+inaccessible, inviolable in queerness. The state of queerness is
+incommensurable. 
+
+*** Sedgwick on paranoid v reparative reading 
+paranoia predetermines the answers we get from inquiry. 
+*** the useless project of recovery: lowe
+The analogy with the historian's plight in recovering an archive of
+slavery where none is present: 
+
+Recovery as a paradox -- What does recovery mean within the limits of
+something that authorizes what and how we know? Either we affirm a
+recovered presence of enslaved people OR We emancipate and redeem
+them, thereby submitting them to our dominance.
+- "in privileging recovery one risks reproducing the very forms
+of violent erasure that are the signature of the regime of liberal
+freedom" (98).
+- Liberal freedom rationalizes slavery (90). The right to
+property. Defining the human also defines the other. Social contract
+justifies war for land and property. Land taken by colonizers is
+described to be vacant (93). Free labor that is coerced (97). 
+- “The persistence of unfreedom belying the narratives of progress”
+(86-7). 
+
+So instead, we ought “to study the archeology of knowledge through
+which the archive subjects and governs precisely by means of
+instruments that absent the humanity of the enslaved” (87). 
+- Instead of looking for “the way it really was” for slaves in the
+  middle passage, looking to interpret how the desire to record,
+  measure, list forecloses the claims of rationality toward presenting
+  the truth of captivity, enslavement, torture (88).
+
+Do not move toward recovery, but question What does it mean to
+supplement forgetting with new narratives? 
+- "Yet in privileging recovery one risks reproducing the very forms
+of violent erasure that are the signature of the regime of liberal
+freedom. Therefore, I do not move immediately toward recovery or
+recuperation but, rather, pause to reflect on what it means to
+supplement forgetting with new narratives of affirmation and
+presence. Hesitation, rather than rushing to recover what has been
+lost, need not be understood as inaction or postponement, or as a
+thwarting of the wish to provide for a future world. Rather, it halts
+the desire for recognition by the present social order and staves off
+the compulsion to make visible within current epistemological
+orthodoxy" (98).
 
 *** Heather Love's queerness as failure, impossible
 Love offers a model of "feeling backward" which is a way for critics
@@ -100,6 +153,141 @@ point is to examine the ways that queerness is figured through
 abstraction--I think? We do not say whether these things are
 healing. All we can deal with is the data that we are given.
 
+*** ofelia schutte and the incommensurable
+
+Lowe -- how recovery efforts underwrite the ethics of liberalism
+
+
+** abstraction, formalization, opacity: Queer Form
+- there is something ineffable, inaccessible, inviolable in
+queerness. The construction of the queer subject is opaque. Formal
+experiments to present a self that is multiple, fragmented,
+unreachable. We can only play with the pieces.
+- The harm of paranoia comes from a subject/object divide, where one
+takes control/dominance over the other. But what if we found
+alternative ways of making connections? This involves play and
+speculation. It involves /formalizing what cannot be touched/ into a
+touchable format. Playing with vantages, provisionality, performance!
+
+
+And the emergent quality is visible in form, in opacity, in
+abstraction of queerness and queer experience. 
+
+*** reparative reading is active
+knowledge as /active/, as performative, opens up
+the critical process to one that is mobile and and speculative rather
+than suspicious. Moreover, it draws attention to the ways that
+knowledge is embodied, with all the surprises and discoveries that
+embodiment entails. 
+
+The question then becomes, how might we pursue criticism that does not
+reproduce our own assumptions? 
+
+Eve Kosofsky Sedgwick has explained how /reading/ can be either
+liberatory or relational. Which is to say it can be a tool for closing
+or opening further readings. Sedgwick critiques Michel Foucault for
+contributing to a model of "suspicious reading:" an approach that
+mines a text for what is hidden, latent, or just beneath the
+surface. Foucault's "repressive hypothesis" posits that discourse on
+sexuality has been 
+
+"I have tried in this project to explore some of the ways around the
+topos of depth or hiddenness, typically followed by a drama of
+exposure, that has been such a staple of critical work of the past
+four decades" (/Touching Feeling/, 8). 
+
+*** scott's evidence of experience
+talking about different ways of seeing
+
+*** queerness as emergent (munoz)
+*** hartman, lowe, arondekar on recuperating absence
+
+"The critical challenge is to imagine a practice of archival reading
+that incites relationships between the seductions of recovery and the
+occlusions such retrieval mandates. By this I mean to say: What if the
+recuperative gesture return us to a space of absence? How then does
+one restore absence to itself? Put simply, can an empty archive also
+be full?" (1). 
+
+Hartmen's "critical fabulation"
+
+
+The archivist must work within the discrepancy between reality and the
+historical record. Hartman's goal is "to expose and exploit the
+incommensurability between the experience of the enslaved and the
+fictions of history... the requirements of narrative, the stuff of
+subjects and plots and ends" ("Venus" 10).
+- "This double gesture can be described as straining against the
+  limits of the archive to write a cultural history of the captive,
+  and, at the same time, enacting the impossibility of representing
+  the lives of the captives precisely through the process of
+  narration" ("Venus" 11).
+*** QOC critique and aesthetics
+
+
+
+POC theorists have shown us how subjectivity is never quite
+attainable.
+
+Amber Musser's "surface aesthetics": Reading the "surface" to present
+a self that is plural and opaque, inaccessible and excessive.
+  - Writing on photographs of Billy Holiday. How these show a
+    "surfacea esthetics" that "highlights the mutability of the flesh
+    rather than interiority" (par. 11).
+  - "we can understand surface as the underside of the
+    scientific/pornographic drive toward locating knowledge in an
+    “objective” image" (par. 2)
+
+An image of Billy Holiday "shows us surface aesthetics in its emphasis
+on shine" (par. 1).
+  - "many of the elements that shine—--pearls, eye shadow, and
+    lipstick--—decorate or cover Harris’s body. They alter its surface and
+    also make a spectacle of these superficial alterations. Taken
+    together these attributes emphasize the ways that surface hints at
+    the pleasures of opacity" (par. 2)
+  - "Shine also complicates matters because of the way that it is
+    imbricated in representations of blackness...Shine distracts from
+    the mandate of transparency and mobilizes hypervisibility—-the
+    cover of surface—-so that interiorities remain opaque... so that
+    blackness is spectacular, but not knowable" (par. 3).
+  - "these versions of self-portraiture go beyond mere representation
+    and mark *creative forms of expressivity that reveal forms of self
+    that exceed capture*...The force of Billie #21, then, emerges in
+    our recognition that the photograph is explicitly not revealing
+    Harris’s interiority, but that it instead illuminates the
+    possibility of reading Harris as a plural self both in relation to
+    Holiday through his performance of citation and in relation to the
+    otherness of himself that he summons" (par. 6)
+
+*** Alternative readings, speculation is necessary
+David Kazanjian, “Scenes of Speculation,” Social Text 33:4 (2015),
+77-84.
+
+“I was initially frustrated by the relentless quotidiana of the
+archives” (78). One way to deal with this is to read for descriptive
+content, who what when where why. Another way would be to read it as a
+theoretical document, “that speculate upon its own conjectures”
+(79). Helps us to complicate liberal conceptions of freedom, the
+progress from slavery to freedom, citizenship is desirable,
+etc. “Speculative thought” 
+
+The letter is “sounding its way”: Alliteration, Drawing from biblical
+and oral literacy
+
+The charge of “overreading” -- the idea that we are attributing a
+contemporary meaning to a historical text. This presumes a strict
+separation between historically contextualized reading and ahistorical
+reading, saying that we can read as if we are in the same situation as the writer.  Kazanjian calls for overreading “for scenes of speculation”  When we make historicist readings, we end up “making theoretical claims about the who in question, claims that imply or assert a theory of the subject”, in which they have a self-conscious will or desire (81). Every historicist reading is implies a level of imposition by the reader. 
+
+Kazanjian suggests that we attend less to the wills, desires, and
+voices of historical subjects and more to the textual traces which invite speculative work.  “Unfinished recovery [of the archives] is the very condition of possibility for their ongoing interpretation” (83). 
+→ what are we trying to solve? 
+
+*** Toward a Queer Form
+Writing the self is connected to form. Always. The form is
+multiple. The form makes subjectivity opaque, but in the act of
+abstraction, making it opaque, we can touch it and play around with
+it. 
 
 ** The problem: Data as always cooked
 *** Johanna Drucker's capta
@@ -116,55 +304,74 @@ bakes results into analysis.
 
 
 ** Critique of Reproducibility: Nan Z Da, Underwood, Altschuler and Weimer
-Scholars like Da, Underwood and Altschuler and Weimer who want something
-reproducible (this overlooks the performativity of engaging with texts
-online).
+The criterion of reproducibility is deployed as a benchmark for
+reviewing and assessing the efficacy of digital quantitative
+methods. Besides Underwood, scholars like Nan Z. Da, Sari Altschuler
+and David Weimer, despite their vastly different commitments and
+methods, similarly place value on reproducibility.
+
+(This overlooks the performativity of engaging with texts
+online.)
  
 *** Nan Z Da on Reproducibility 
-*** Ted Underwood on studying models
 
-Underwood from PMLA example. He only reproduces the gender
-binary. Interweave with what Sedgwick says about binaries.
+Nan Z Da makes the overall case that statistical methods are at odds
+with the project of literary criticism, that quantification and
+interpretation are "mismatched."
 
-Ted Underwood puts forth a good understanding on quantification being
-no more more objective than words. Rather than using "distant reading"
-to ascertain "facts" about literary history, he's examining what
-models are doing when used by humans. His focus on "perspectival
-modeling" reveals how the computer process reproduces human
-assumptions.
+Among her points, the most telling concerns "reproducibility," for it
+reveals an ultimately conservative investment in interpretive work as
+something objectively, factually, effectively true. 
 
-However, the results of the analysis are always baked into the start,
-ask Underwood's conclusions about gender reveal gender to be a binary
-and oppositional force.
+The value on the reproducible suggests that interpretation can be
+universalized, indicating other investments that diminish the project
+of literary criticism. 
 
+*** Altschuler and Weimar
 
-** For alternative readings: queer theory
-The question then becomes, how might we pursue criticism that does not
-reproduce our own assumptions?
+they call to overturn the "unproblematic translatability of
+information between the senses" while maintaining that reproduction is
+the highest value. They argue to "texture the humanities", pointing
+out that much of DH prioritizes the visual over other senses --
+"privilege sight as the sense through which knowledge is accessible"
+(74). Rightly so, they argue, “The textured DH we call for here
+acknowledges that we cannot study knowledge only abstractly, apart
+from the senses, and that we cannot study literature, art, and history
+without including the history of embodied experiences” (74-75).
+- “Touch This Page! uses 3-D printed facsimiles of raised-letter text to inspire reflection on the assumptions most people make about which senses are involved in reading” (82).
 
-*** Felski's and Sedgwick
-Eve Kosofsky Sedgwick has explained how /reading/ can be either
-liberatory or relational. Which is to say it can be a tool for closing
-or opening further readings. Sedgwick critiques Michel Foucault for
-contributing to a model of "suspicious reading:" an approach that
-mines a text for what is hidden, latent, or just beneath the
-surface. Foucault's "repressive hypothesis" posits that discourse on
-sexuality has been 
+But they stray too far when they place reproduction over
+remediation/deformance. They state their aims: “to expand the sensory
+accessibility of archives for all users and to do so through the
+digital reproduction---rather than the translation---of tactile
+knowledge” (76). Case example of the perfect reproduction:
+- A scenario where “users... can download a visual copy with
+descriptive data, engage with the text in virtual reality, and create
+their own textured facsimile. This technology once more makes possible
+the tactile reading experiences for which this volume was designed and
+promises library patrons a richer engagement with touch than most
+archives can currently provide---even in person (85-86). 
 
-"I have tried in this project to explore some of the ways around the
-topos of depth or hiddenness, typically followed by a drama of
-exposure, that has been such a staple of critical work of the past
-four decades" (/Touching Feeling/, 8). 
+The use case scenario makes the assumption that a reproduction is the
+ideal form of textuality, despite their asserted aims for "diversity
+of embodied experiences":
+- “we must avoid tilting after the fiction of some ideal digital surrogate---like a virtual reality system that would flawlessly mimic original objects---lest we become digital Pierre Menards, expending extensive energy to improve our reproductions to discover, at last, that only the original perfects represents itself… Instead, we envision in our tactile futures multiple strategies that could not only open up access to varied experiences---past and present---but also diversity the ways embodied experiences structure our digital worlds” (86).
+- in order to open up “multiple strategies” and diversity embodied experiences, we need a theory of text that is capacious enough to accept variation and transmediation. 
+- This argument overlooks deformance is a
+solution: the ways that creating new texts, paratexts, creates new
+objects of knowledge. It overlooks the performative, ala McGann,
+Clement.
 
-*** Sedgwick on generative shame
-*** Saidiya Hartman on Speculation in the face of absence
-*** Alternative readings, speculation is necessary
+In this view, digital becomes a means of optimization, efficiency,
+total knowledge and understanding.
 
-
+    
 ** Paralleling Queer & DHers looking for alternative readings
 *** Case in point: klein's figuring the absence
 Draw Klein and Hartman together---this is what I want to do for Queer
 texts. 
+
+The example of Black studies and Black DH as a way forward for Queer. 
 
 
 ** Performativity
@@ -222,6 +429,7 @@ and the way that we interact with the computer.
 *** Klein, Mandell, Caughie, Gaboury
 *** Against totalization
 *** The visible and the invisible, opting out 
+jacob gaboury
 
 
 ** Provisionality 

@@ -1337,6 +1337,10 @@ an worlds whose mis/fits are context- and interaction-dependant" (61).
       materializes what she’s thinking; she signifies it with her
       body. In a certain way she inscribes what she’s saying" (881).
 
+*** Showalter, Elaine. “Feminist Criticism in the Wilderness.”
+      Critical Inquiry, vol. 8, no. 2, 1981, pp. 179–205. JSTOR,
+      www.jstor.org/stable/1343159. Accessed 21 May 2020.
+
 *** Rich, Adrienne. "When We Dead Awaken: Writing as Revision." 1979.
 - A coming to consciousness for women is a re-vision --- a critical
   mode of seeing with fresh eyes what has always been circumscribed by
@@ -1682,55 +1686,79 @@ an worlds whose mis/fits are context- and interaction-dependant" (61).
       connections. Love here evokes Shaviro’s “contact-at-a-distance”
       and Pitts-Taylor’s discussion about mirror neurons.
 
-*** Amin, Kadji, Amber Jamilla Musser, and Roy Pérez “Queer Form: Aesthetics, Race, and the Violences of the Social” ASAP/Journal, Volume 2, Number 2, May 2017, pp. 227-239.
-- Looking at the “division” between aesthetics vs social critique;
-  attempting to bring the social critique to aesthetics; and to
-  articulate how opacity can be a formal method.
-- Form understood as associated with queerness, queer experience, and
-  as a way to disrupt easy understanding. Form can be queer and queer
-  form can be opaque:
-    - “Form informs queerness, and queerness is best understood as a
-      series of relations to form, relations not limited to binary and
-      adversarial models of resistance and opposition” (228).
-    - “Queer form” emerges… as a name for the range of formal,
-      aesthetic, and sensuous strategies that make difference a little
-      less knowable, visible, and digestible. This special issue makes
-      a case for the value of indirection, opacity, and withholding as
-      queer strategies for minoritarian art producers” (235).
-    - “form focuses attention on how violence—homophobia, racism,
-      gentrification, capitalism, and colonialism, for instance—has
-      structured conditions of possibility in material and
-      epistemological ways” (232).
-- Queer form as obscuring, occluding: 
-    - “For our purposes, queer form means challenging the primacy of the
-      visual, which has too often been a site for pernicious power
-      relations… At their base, such operations of surveillance and
-      classification rely on the concept of immutable difference, on sharp
-      boundaries, and on the possibility of exhaustively knowing the
-      other…. We see queer form as an aesthetics that moves persistently
-      around the visual, thereby avoiding this flattening. To the extent
-      that form operates behind the scenes as ideological impulse and
-      materiality, queer formal practices can resist the dictates of
-      transparency normally required of non-normative subjects by
-      illuminating the unseen. In this way it not only troubles the
-      epistemic assurances of the visual regime, but it also asks how
-      shifting away from static visuality can circumnavigate questions of
-      objectification. A move toward the diffusely sensual, and away from
-      the linearity of visual gazing, articulates difference in terms that
-      are not about dominance or norms, but that underscore the importance
-      of thinking with other modes of knowing, theorizing, and
-      experiencing. Queer form is about other ways of understanding
-      relationships to power and relationships to being” (232-3)
-        - --> This is what is violent about analysis, the assumptions
-          that we make about others being fundamentally different and
-          fundamentally knowable.
-        - --> To me, this connects to what Love talks about queerness as
-          being a failed project, an impossibility, as something that
-          is always receding just as we are trying to glimpse it. This
-          connects to the way we think about quantitative data, data
-          analysis. Our data that we use in analysis is never going to
-          reflect the complexity of the real object. There is always a
-          reduction to be made.
+*** Love, Heather. “TRUTH AND CONSEQUENCES: ON PARANOID READING AND
+      REPARATIVE READING.” Criticism, vol. 52, no. 2, 2010,
+      pp. 235–241. JSTOR, www.jstor.org/stable/23131405
+
+*** Ahmed, Sara. The Cultural Politics of Emotion. Edinburgh University Press, 2014. JSTOR,
+      www.jstor.org/stable/10.3366/j.ctt1g09x4q.
+
+Emotions are what allow us to view subjects as objects. They create an
+illusion of the surface.
+
+- "I explore how emotions work to shape the ‘surfaces’ of individual
+and collective bodies... My analysis proceeds by reading texts that
+circulate in the public domain, which work by aligning subjects with
+collectives by attributing ‘others’ as the ‘source’ of our feelings"
+(1).
+  - "In critiquing this model, I am joining sociologists and anthropologists who
+  have argued that emotions should not be regarded as psychological states, but
+  as social and cultural practices" (9).
+- "It is significant that the word ‘passion’ and the word ‘passive’
+share the same root in the Latin word for ‘suffering’ (passio). To be
+passive is to be enacted upon, as a negation that is already felt as
+suffering. The fear of passivity is tied to the fear of emotionality,
+in which weakness is defined in terms of a tendency to be shaped by
+others... The association between passion and passivity is
+instructive. It works as a reminder of how ‘emotion’ has been viewed
+as ‘beneath’ the faculties of thought and reason" (2-3).
+- "Emotions are intentional in the sense
+that they are ‘about’ something: they involve a direction or
+orientation towards an object (Parkinson 1995: 8). The ‘aboutness’ of
+emotions means they involve a stance on the world, or a way of
+apprehending the world" (7).
+  - "It is not that the bear is fearsome, ‘on its own’, as it were. It
+  is fearsome to someone or somebody. So fear is not in the child, let
+  alone in the bear, but is a matter of how child and bear come into
+  contact" (7).
+- "In this book, I offer an analysis of affective economies, where
+feelings do not reside in subjects or objects, but are produced as
+effects of circulation (see Chapter 2). The circulation of objects
+allows us to think about the ‘sociality’ of emotion" (8).
+- "In my model of sociality of emotions, I suggest
+that emotions create the very effect of the surfaces and boundaries
+that allow us to distinguish an inside and an outside in the first
+place. So emotions are not simply something ‘I’ or ‘we’ have. Rather,
+it is through emotions, or how we respond to objects and others, that
+surfaces or boundaries are made: the ‘I’ and the ‘we’ are shaped by,
+and even take the shape of, contact with others...I will show how the
+surfaces of collective as well as individual bodies take shape through
+such impressions" (10).
+  - "In suggesting that emotions create the very effect
+  of an inside and an outside, I am not then simply claiming that
+  emotions are psychological and social, individual and collective. My
+  model refuses the abbreviation of the ‘and’. Rather, I suggest that
+  /emotions are crucial to the very constitution of the psychic and
+  the social as objects/, a process which suggests that /the
+  ‘objectivity’ of the psychic and social is an effect rather than a
+  cause/. In other words, emotions are not ‘in’ either the individual
+  or the social, but produce the very surfaces and boundaries that
+  allow the individual and the social to be delineated as if they are
+  objects" (10).
+- "The circulation of objects of emotion involves the transformation
+  of others into objects of feeling" (11).
+
+Chapters:
+- "pain creates the very impression of a bodily surface" (15).
+- "feelings of injury get transformed into hatred for others" (15).
+- "The following four chapters work to refine and develop these concepts
+about emotions in embodiment and language, showing how fear, disgust,
+shame and love work as different kinds of orientations towards objects
+and others, which shape individual as well as collective bodies" (15).
+
+Chapter 7: "Queer Feelings"
+Considers the importance of emotions to queer theory. 
+
 
 *** Amin, Kadji. "Haunted by the 1990s: Queer theory's affective histories." WSQ: Women's Studies Quarterly:44.3 (2016): 173-189.
 - What counts as "queer"?
@@ -1831,6 +1859,230 @@ an worlds whose mis/fits are context- and interaction-dependant" (61).
   historical moments” (179). --> But is form really pointing to or
   representing reality? Or is it an abstraction?
 
+** QOC Critique
+*** Amin, Kadji, Amber Jamilla Musser, and Roy Pérez “Queer Form: Aesthetics, Race, and the Violences of the Social” ASAP/Journal, Volume 2, Number 2, May 2017, pp. 227-239.
+- Looking at the “division” between aesthetics vs social critique;
+  attempting to bring the social critique to aesthetics; and to
+  articulate how opacity can be a formal method.
+- Form understood as associated with queerness, queer experience, and
+  as a way to disrupt easy understanding. Form can be queer and queer
+  form can be opaque:
+    - “Form informs queerness, and queerness is best understood as a
+      series of relations to form, relations not limited to binary and
+      adversarial models of resistance and opposition” (228).
+    - “Queer form” emerges… as a name for the range of formal,
+      aesthetic, and sensuous strategies that make difference a little
+      less knowable, visible, and digestible. This special issue makes
+      a case for the value of indirection, opacity, and withholding as
+      queer strategies for minoritarian art producers” (235).
+    - “form focuses attention on how violence—homophobia, racism,
+      gentrification, capitalism, and colonialism, for instance—has
+      structured conditions of possibility in material and
+      epistemological ways” (232).
+- Queer form as obscuring, occluding: 
+    - “For our purposes, queer form means challenging the primacy of the
+      visual, which has too often been a site for pernicious power
+      relations… At their base, such operations of surveillance and
+      classification rely on the concept of immutable difference, on sharp
+      boundaries, and on the possibility of exhaustively knowing the
+      other…. We see queer form as an aesthetics that moves persistently
+      around the visual, thereby avoiding this flattening. To the extent
+      that form operates behind the scenes as ideological impulse and
+      materiality, queer formal practices can resist the dictates of
+      transparency normally required of non-normative subjects by
+      illuminating the unseen. In this way it not only troubles the
+      epistemic assurances of the visual regime, but it also asks how
+      shifting away from static visuality can circumnavigate questions of
+      objectification. A move toward the diffusely sensual, and away from
+      the linearity of visual gazing, articulates difference in terms that
+      are not about dominance or norms, but that underscore the importance
+      of thinking with other modes of knowing, theorizing, and
+      experiencing. Queer form is about other ways of understanding
+      relationships to power and relationships to being” (232-3)
+        - --> This is what is violent about analysis, the assumptions
+          that we make about others being fundamentally different and
+          fundamentally knowable.
+        - --> To me, this connects to what Love talks about queerness as
+          being a failed project, an impossibility, as something that
+          is always receding just as we are trying to glimpse it. This
+          connects to the way we think about quantitative data, data
+          analysis. Our data that we use in analysis is never going to
+          reflect the complexity of the real object. There is always a
+          reduction to be made.
+
+*** Musser, Amber Jamilla. “Surface-Becoming: Lyle Ashton Harris and
+  Brown Jouissance.” Women & Performance,
+  vol. 28,. no. 1. via.hypothes.is,
+  https://www.womenandperformance.org/bonus-articles-1/28-1-harris. Accessed
+  6 May 2020.
+
+- Reading the "surface" to present a self that is plural and opaque,
+  inaccessible and excessive.
+  - "Harris’s citation of Holiday is... about black femininity and
+    understanding the way it functions as a space of otherness within
+    Harris’s formulation of selfhood" (par. 7).
+  - "What Harris’s citation of Holiday shows us, on the other hand, is
+    the ways in which black femininity is always fluid, always
+    shifting and never quite attainable. In its impermanence, the
+    transformation that Harris enacts is not sincere because it does
+    not have depth, but surface in that it relies on and highlights
+    the mutability of the flesh rather than interiority. This position
+    enlarges what we understand as black femininity. It also,
+    importantly, gives us a way to understand citation as a mode of
+    inhabitation that shifts the dimensions of selfhood. One does not
+    become, but rather one sits alongside the other in citation. This
+    alongsideness, in turn, makes it impossible to think of Harris’s
+    self-portrait as displaying a sovereign self. Instead, Billie #21
+    shows us Holiday and Harris in relation, as a plural self"
+    (par. 11).
+- An image of Billy Holiday "shows us surface aesthetics in its
+  emphasis on shine" (par. 1). 
+  - "many of the elements that shine—--pearls, eye shadow, and
+    lipstick--—decorate or cover Harris’s body. They alter its surface and
+    also make a spectacle of these superficial alterations. Taken
+    together these attributes emphasize the ways that surface hints at
+    the pleasures of opacity" (par. 2)
+  - "Shine also complicates matters because of the way that it is
+    imbricated in representations of blackness. Krista A. Thompson
+    (2015) argues that the popularity of shine in black diasporic art
+    has to do with its ability to thwart intimacy. Shine distracts
+    from the mandate of transparency and mobilizes hypervisibility—-the
+    cover of surface—-so that interiorities remain opaque. Thompson
+    argues that shine enables an “un-visibility,” so that blackness is
+    spectacular, but not knowable" (par. 3).
+  - "Un-visibility is what happens when we turn commodification and
+    objectification on its head... Shine plays joyfully with the idea
+    of the body as body while rejecting the demand to present anything
+    other than surface" (par. 3).
+- Surface is an alternative to objective, essence.
+  - "we can understand surface as the underside of the
+    scientific/pornographic drive toward locating knowledge in an
+    “objective” image" (par. 2)
+  - drawing from Anne Anlin Cheng, "This means that surface offers the
+    possibility of doubleness, troubling transparency and the idea of
+    authenticity. In this way, surface complicates categorization
+    because it confounds ideas of what knowledge is, where it lies,
+    and how we can apprehend it" (par. 2). 
+- Surface as indicator of excess, breaker of subject coherence:
+  - "Holiday is iconic; her voice famously layers pain and
+    yearning. Billie #21 indexes these histories of wounded fleshiness
+    even as it allows us to imagine an inhabitation that exists in
+    excess of them, an excess in the voice, an excess of selfhood that
+    cannot be fully subsumed by her iconicity and public self. But, it
+    is important to remember that the excess that we do witness is
+    performed by Harris" (par. 4).
+  - "these versions of self-portraiture go beyond mere representation
+    and mark *creative forms of expressivity that reveal forms of self
+    that exceed capture*...The force of Billie #21, then, emerges in
+    our recognition that the photograph is explicitly not revealing
+    Harris’s interiority, but that it instead illuminates the
+    possibility of reading Harris as a plural self both in relation to
+    Holiday through his performance of citation and in relation to the
+    otherness of himself that he summons" (par. 6)
+  - this performance of surface works against Butler's coherence of
+    performance:
+    -  "Harris as Holiday is but one momentary surface that we contend
+      with. In this way, Harris’s vision of the citational self works
+      to reveal the spaces of otherness within the self" (par. 5).
+  - "Denise Ferreira da Silva (2013) to argue that the sexual female
+    racialized body presents a particular form of disruptive
+    excess. This body is excessive because it inhabits the space of
+    desiring even as it emerges from a structure that presumptively
+    negates access to desire and interiority. This form of
+    inhabitation has no mode of expression within the realm of the
+    linguistic, however. She describes this “preposed excess” as “the
+    violence that is desire itself and the desire that is violence,
+    not subjected to the rules of Colonial and Patriarchal
+    (re)production” (52)" (par. 9).
+- brown jouissance:
+  - " In brown jouissance’s emphasis on the mobility of flesh, we are
+    given an opportunity to tap into its creative potential. Flesh
+    moves; it is always in motion. Its mobility gives us ways to
+    imagine otherwise because it emphasizes the contingency and
+    liquidity of the world. This is to say that it reminds us that
+    flesh is produced on a sea voyage in the waves that separate
+    continents and countries. It is in the violence of the whip that
+    extracts blood, which renders people closer to animals than
+    humans" (18).
+  - " Brown jouissance... show[s] us that flesh’s excess produces
+    alternate epistemologies while also allowing us to pay attention
+    to the violence that produces flesh. We see this in Harris’s
+    redirection of sympathy or empathy for Holiday into a meditation
+    on hunger and selfhood. The excess of brown jouissance is what
+    violence produces and cannot incorporate. In the case of /Billie
+    #21/, sticking with the surface--–through the use of Polaroid and
+    shine–--illuminates the possibilities of imaging a self whose
+    interiority we do not have plumb, but who still generates creative
+    possibilities for resisting the mandate of sovereign subjectivity"
+    (par. 23).
+
+*** Schutte, Ofelia. “Cultural Alterity: Cross-Cultural
+Communication and Feminist Theory in North-South Contexts.” Hypatia,
+vol. 13, no. 2, 1998, pp. 53–72. www.jstor.org/stable/3810637.
+
+*** Hartman, Saidiya. "Venus in Two Acts." Small Axe, vol. 12 no. 2,
+    2008, p. 1-14. Project MUSE muse.jhu.edu/article/241115.
+
+Hartman here looks at the problem of what to do with an absent
+archive. Not only absence in the form of evidence, that the literal
+records are missing, but also in the tools of expression, in language
+that cannot approximate the reality of experience, and in the
+discourse that dictates silence. A condition also known as the
+"violence of the archive," she describes the archive as a "death
+sentence," because it only records the subject in the terms of their
+objectification, in "a display of the violated body, an inventory of
+property" (2). She seeks to recuperate (without recovering) the lives
+of these subjects. To write about them in a way that does not do more
+damage, but draws attention to the ways that their lives have been
+delineated while inviting possibility for living. To create in the
+mode of "critical fabulation" (11).
+
+The violence of the archive: 
+- "The archive of slavery rests upon a founding violence. This
+  violence determines, regulates and organizes the kinds of statements
+  that can be made about slavery and as well it creates subjects and
+  objects of power" (10).
+
+She examines the history of Venus, the unnamed slave woman who appears
+variously throughout the "official" record. From this history, Hartman
+concludes that there is no way forward with recovery. She turns to
+consider a series of paradoxical questions:
+- “how does one rewrite the chronicle of a death foretold and
+  anticipated, as a collective biography of dead subjects, as a
+  counter-history of the human, as the practice of freedom?” (3).
+- "how does one recuperate lives entangled with and impossible to
+  differentiate from the terrible utterances that condemned them to
+  death, the account books that identified them as units of value, the
+  invoices that claimed them as property, and the banal chronicles
+  that stripped them of human features?" (3)
+- “How can narrative embody life in words and at the same time respect
+  what we cannot Know?” (3).
+- “How does one revisit the scene of subjection without replicating
+  the grammar of violence?” (4).
+- “If it is no longer sufficient to expose the scandal, then how might
+  it be possible to generate a different set of descriptions from this
+  archive?" (7).
+
+The archivest of slavery comes up against the incommensurability
+between reality and the historical record, the archivist must endeavor
+to engage this incommensurability: "to expose and exploit the
+incommensurability between the experience of the enslaved and the
+fictions of history, by which I mean the requirements of narrative,
+the stuff of subjects and plots and ends" (10).
+- "This double gesture can be described as straining against the
+  limits of the archive to write a cultural history of the captive,
+  and, at the same time, enacting the impossibility of representing
+  the lives of the captives precisely through the process of
+  narration" (11).
+
+In the scarcity of material (not one autobiographical account of a
+female survives), most of what we have left are numbers. Can we then
+fill the void with stories? 
+- "Loss gives rise to longing, and in these circumstances, it would
+  not be far-fetched to consider stories as a form of compensation or
+  even as reparations, perhaps the only kind we will ever receive"
+  (4).
+ 
 ** Autobiography Theory
 *** Lejeune, Philippe, Annette Tomarken and Edward Tomarken. "Autobiography in the Third Person." /New Literary History/, Vol. 9, No 1, pp. 27-50. 
 - "Every speaker bears within him two polarities, that of sender and

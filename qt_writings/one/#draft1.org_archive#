@@ -1,0 +1,86 @@
+#    -*- mode: org -*-
+
+
+Archived entries from file /Users/filipacalado/Desktop/qt/qt_writings/one/draft1.org
+
+
+* nan Z da on reproducibility
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2020-04-28 Tue 15:23
+  :ARCHIVE_FILE: ~/Desktop/qt/qt_writings/one/draft1.org
+  :ARCHIVE_OLPATH: one/Critique of Reproducibility
+  :ARCHIVE_CATEGORY: draft1
+  :END:
+In a controversial peice about text analysis, Nan Z. Da critiques
+Computational Literary Studies (CLS) for its irrelevance to literary
+criticism. Da explains that results from quantification do one of two
+things: they either affirm what is already obvious or they present
+conclusions that are inaccurate. Of her many gripes with quantitative
+methods, which include "technical problems, logical fallacies, and
+conceptual flaws," her central concern is the fundamental "mismatch"
+of scientific methods to humanistic inquiry, both of which have
+opposing "natures" (601). Meant for reading in abundance, tradign
+"speed for accuracy, and coverage for nuance," Quantitativ methods are
+inappropriately applied to literary interpretation (620). According to
+Da, "we must use them in accordance with their true functions” (620).
+
+One point in Da's essay crystallizes her ultimately conservative
+investment that aligns her with theorists who have vastly different
+methods and perspectives. Here she establishes the criterion of
+reproducibility, which suggests an objective at odds with humanistic
+endeavor. To verify the results of a Topic Modelling experiment, Da
+attempting to replicate the model on her own machine. Because the
+reproduction fails, she denigrates the whole process: "if the method
+were effective, someone with comparable training should be able to use
+the same parameters to get basically the same results"
+(628-629). However, "topic modeling is like a kaleidoscope that turns
+out something entirely different with the slightest tweaking”
+(629). Her emphasis on the “reproducible” in CLS extends one of
+distant reading early champion's originating call for a “falsifiable
+criticism”: both advocate for a methodology that is as reliable and
+verifiable as the social sciences[fn:5]. The interesting detail in her
+critique is the insinuation in /reproducible/ that somehow analysis is
+something that can exist outside of human performance/activity/error.
+
+
+Archived entries from file /Users/filipacalado/Desktop/qt/qt_writings/one/draft1.org
+
+
+* nan Z da on reproducibility
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2020-04-28 Tue 15:23
+  :ARCHIVE_FILE: ~/Desktop/qt/qt_writings/one/draft1.org
+  :ARCHIVE_OLPATH: one/Critique of Reproducibility
+  :ARCHIVE_CATEGORY: draft1
+  :END:
+In a controversial peice about text analysis, Nan Z. Da critiques
+Computational Literary Studies (CLS) for its irrelevance to literary
+criticism. Da explains that results from quantification do one of two
+things: they either affirm what is already obvious or they present
+conclusions that are inaccurate. Of her many gripes with quantitative
+methods, which include "technical problems, logical fallacies, and
+conceptual flaws," her central concern is the fundamental "mismatch"
+of scientific methods to humanistic inquiry, both of which have
+opposing "natures" (601). Meant for reading in abundance, tradign
+"speed for accuracy, and coverage for nuance," Quantitativ methods are
+inappropriately applied to literary interpretation (620). According to
+Da, "we must use them in accordance with their true functions” (620).
+
+One point in Da's essay crystallizes her ultimately conservative
+investment that aligns her with theorists who have vastly different
+methods and perspectives. Here she establishes the criterion of
+reproducibility, which suggests an objective at odds with humanistic
+endeavor. To verify the results of a Topic Modelling experiment, Da
+attempting to replicate the model on her own machine. Because the
+reproduction fails, she denigrates the whole process: "if the method
+were effective, someone with comparable training should be able to use
+the same parameters to get basically the same results"
+(628-629). However, "topic modeling is like a kaleidoscope that turns
+out something entirely different with the slightest tweaking”
+(629). Her emphasis on the “reproducible” in CLS extends one of
+distant reading early champion's originating call for a “falsifiable
+criticism”: both advocate for a methodology that is as reliable and
+verifiable as the social sciences[fn:5]. The interesting detail in her
+critique is the insinuation in /reproducible/ that somehow analysis is
+something that can exist outside of human performance/activity/error.
+
