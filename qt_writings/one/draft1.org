@@ -1,11 +1,12 @@
 * one
 
+**** chapter summary 
 This dissertation looks at /new ways of reading queer bodies/ and
 experience within technological contexts. How do digital tools and
 platforms change the way we interact with affect (associated with
 queer experience and embodiment) within texts? What about the digital
 allows us to create /sensational/ reading experiences? In other words,
-how does media touch queerness, and how might queerness touch the
+how do media touch queerness, and how might queerness touch the
 reader?
 
 This chapter proposes a reading methodology that leverages the
@@ -15,57 +16,209 @@ the ways that reading practices across two different fields (digital
 humanities and queer theory) intertwine, and how this creates a new
 method for reading queer narratives in digital contexts.
 
+First, queerness is established as something that can only be touched
+at a distance. It is defined as a desire for touch (digital touch), a
+desire that cannot be satisfied, redeemed, or recovered. This impulse
+to satisfy, redeem, or recover queerness is observed in “paranoid” or
+“suspicious” reading practices, which seek to answer or discover the
+“hidden” meaning within text. These practices attempt to answer
+questions, but do so in a way that constrains inquiry, because
+paranoia only delivers the results that are /imaginable/ within
+current the knowledge structures. To avoid reproducing these knowledge
+structures, we must look to strategies that do not assume full
+connections, like /feeling backward/ and /queer form/. We value
+abstraction, which is necessary for bringing things into relation, and
+opacity, which keeps the unknowable nature of queer experience and
+identity somewhat in tact. We look at /Confessions of the Fox/, /These
+Waves of Girls/, /Borderlands/. 
 
-** Touch: a new way of reading: Sedgwick & Anzaldua
+Second, we examine a similar impulse in DH---and a parallel across the
+status of queerness and data, which cannot be captured in their raw
+forms. The history of computing and media shows how tools were built
+in ways that are not neutral, and we find DH practitioners doing work
+that is critical of digital methods. Looking at the example of DH from
+the position of queerness we see more clearly the necessity of
+opacity, formalization, and abstraction as reading methods, and the
+real danger of reproducibility and totalization, a byproduct of
+paranoia. We find parallels between queer critics and feminist DHers,
+who are doing something similar; we interweave Saidiya Hartman and
+Lauren Klein.
 
+Third, we propose three values for queer DH, which is: novelty (the
+performative), vantages (the visual), and provisionality (the
+ontological). We see these examples in /voyant-tools/, /these waves
+of girls/, and /the orlando project/(?). 
+
+
+** Touch: a way of reading: Rosenberg, Fischer, Munoz, Anzaldua
+
+**** touch as the intersection between queer and digital
 If digital humanists and queer theorists are going to find some common
-ground, they might as well start with /touch/. Touch is driven by a
-desire for connection, for correlation, for linking one "body" to
-another. The root of the word digital, "digitus," comes from the Latin
-word for finger or toe. Our digits extend forth, the furthest
-appendage still part of the coherent body, the first line of contact
-with the world. Touch goes both ways; what I touch also touches me;
-one body impressed by or in collision with another. The sensation of
-touch often obscures this dual effect, and some bodies appear to
-desire touching rather than being touched. (quote from Leslie
-Finburg or Cherrie Moraga?)
+ground, they might start with /touch/. The root of the word digital,
+"digitus," comes from the Latin word for finger or toe. Within the
+context of electronic media, "digital" refers to a counting system
+based on ten digits. Digital computation runs on data in the form of
+these numerical digits, even though computer language, at the most
+rudimentary level, is based on a binary counting system, on ones and
+zeroes. With present technology, the associations between touch and
+the digital have expanded from numerical computation to include the
+haptic connections we make with media in the form of mice, keyboards,
+and touch screens. 
 
-Queerness is similarly concerned with contact and desire, and more
-precisely with /the desire for contact/.[fn:1] Queer contact connotes not
-traditional contact, but contact that opposes or even offends
-expectations. It is to the side of the acceptable, breaking the
-confines of the normative. Both queer and digital are out there,
-our frames for engaging with the outside world. Both queer and digital
-are alternative ways of engaging with the environment.
+**** queerness and the frustration of touch: confessions
+To touch something, the digits extend, the furtherest appendage still
+part of the coherent body, and establish contact. Touch is related to
+queerness through desire---the desire for touching---which is often
+frustrated by normative expectations. For queer subjects, the desire
+to touch has always been a frought experience. In /The Confessions of
+the Fox/ by Jordy Rosenberg, the main character displays this troubled
+relationship to touch. Based in eighteenth century London, this story
+follows Jack Sheppard, a young transgender male making his way as a
+wily thief through corrupt and dirty London. In the time before the
+pathologization of nonnormative sexual and gender identities, Sheppard
+struggles to articulate his difference, what he calls his
+"/Something/," from the rest of London society: "This something that
+set him apart from other coves [men]. Something that had caus'd him to
+dress his own chest in taut bandages... pinching at his ribs,
+throttling his every Breath to a forced shallow bird-sipping of the
+air" (33). The difficulty with self-identification and categorization
+extends from the main character to the narrative's genre, which
+unfolds as historical fiction overlaid with contemporary
+memoir. Sheppard's story is discovered in the present day by Dr. Voth,
+a rueful academic, also transgender, who immediately realizes the
+significance of Sheppard's manuscript for the historical record. Voth
+proceeds to annotate the document with relevant references and
+increasingly, his own anecdotes tangential to the narrative. In one
+scene, Sheppard is having a romantic moment with his lover, Bess Khan,
+a bi-racial prostitute who initiates Jack into the London underground
+society of rogues, when Voth relates his own story about his former
+lover from the early days of their relationship:
 
-Touch either keeps or recuperates the inherent connection between
-bodies. All things touch each other, something that heteronormativity
-tries to suppress. For things to not touch, to be severed or
-"objectified," moves them into a relation of violence. Gloria Anzaldua
-explains that separation is brutal: "In trying to become 'objective,'
-Western culture made 'objects' of things and people when it distanced
-itself from them, thereby losing 'touch' with them. This dichotomy is
-the root of all violence" (37). Losing touch is a prerequisite for
-exploitation. The sundering of "objects" from our touch primes us to
-take advantage of them. Colonial history is a case study in losing
-touch: "White America has only attended to the body of the earth in
-order to exploit it, never to succor it or to be nurtured in it"
-(68). Anzaldua's /mestiza/, birthed in the open wound of the border,
-"where the Third World grates against the first and bleeds," is an
-attempt to bring together what has been separated (3). Those who live
-on the border know better than anyone--divisions between bodies puts
-those bodies into conflict.
+#+BEGIN_QUOTE
+She opened her legs a bit, twitched them open, really. I caught my
+breath, audibly.
+
+"Oh my god," she said, "you're such a lesbian."
+
+She didn't mean it cruelly. And she didn't mean that I wasn't passing
+as a cis-man, either. Although, since according to her we'd fucked the
+night before, she knew exactly how un-cis I was. 
+
+She meant that she saw something about the quality of my desire: that
+/I could feel her even before I touched her/ [my emphasis]. And that
+this was part of what it meant to be---or to have been, before my tits
+became property of the California Municipal Waste Department---a
+lesbian. That a woman moving in your line of sight could have an
+effect that was total, atmospheric. /That you could be hesitant,
+incapable, and not particularly interested in establishing a line
+between touching and seeing./ That you would indulge a dead love, dead
+in the eyes of the world, and valueless. A love that choked and
+burdened the mind, that might even be the very foundation of
+melancholy and despair. But, oh Reader, looking at a woman you really
+get a feel for the way that fire is a phenomenon of touch. And my
+point is, if you have every been a lesbian, you will not even have to
+touch a woman to know that. (169)
+#+END_QUOTE
+
+Here, desire is characterised not by the search for satisfaction, or
+the success of establishing connection, but by the sensual fullness of
+a lack. The experience of desire, of craving, wanting, needing to
+touch the desired object, stimulates the imagination and amplifies
+sensations that would otherwise be replaced with more "direct" modes
+of contact. Demonstrating this distinction between imaginary and the
+real contact, Dr. Voth's lover refers to him as a "lesbian," despite
+his having already transitioned to a male gender identity. The term
+fits because it signals not a gender identity but a /mode of being/
+that is more concerned with the visible, which portends the potential
+of connection, rather than verifiable contact. With regard to desire,
+the difference hinges on the role of the imagination in activating
+certain sensors and receptors that cannot be accessed in the "real,"
+actualized world. Here, fancy takes on the connotations of the
+fanciful; desire grows in the realm of the imagination. But this does
+not mean the sensations resulting from this desire are any less
+palpable and sensual; on the contrary, such a desire heightens and
+indeed maximizes physical experience. This mode of desiring is what
+characterizes queerness in the text: a desire for something that,
+because it cannot or will not be fulfilled, amplifies the fullness of
+that desire. Touch, or the lack of touch, defines a peculiarly queer
+experience in the novel. 
+
+Queerness is concerned with contact and desire, and more precisely
+with /the desire for contact/. A desire that opposes or offends
+expectations, queerness manifests as an affective relation between the
+subject and desired object. Kadji Amin defines queer as "fundamentally
+affective... a matter of sensing a resonance between one's object of
+study and the inchoate cluster of feelings that inhabit and animate
+the term queer" (173).
+
+ It is to the side of the acceptable, breaking the
+confines of the normative. Both queer and digital are out there, our
+frames for engaging with the outside world. Both queer and digital are
+alternative ways of engaging with the environment
+
+**** touch severs, divides subj/obj: waves
+This leads us to the main problem with touch: it goes both ways. What
+I touch also touches me; one body impressed by or in collision with
+another. Eve Kosofsjy Sedgwick explains that "the sense of touch makes
+nonsense out of any dualistic understanding of agency and passivity;
+to touch is always already to reach out, to fondle, to heft, to tap,
+or to enfold" (13). Touch engages a range of relations where power is
+not always reduced to opposition. The sensation of touch often
+obscures this dual effect. Some bodies appear to desire touching
+rather than being touched; sometimes, the desire for touch does not
+seek contact, but the fullness of desiring.  it is bidirectional,
+reveals a subject/object divide.
+
+
+Another text, wildly different in form, carries a similar message
+about frustrated desire constituting queerness.... 
+.
+
+**** Touch reconciles -- anzaldua, sedgwick, munoz
+Touch reconciles the inherent connection between bodies, something
+that heteronormativity tries to suppress. For things to not touch, to
+be severed or "objectified," moves them into a relation of
+violence. Gloria Anzaldua explains that separation is brutal: "In
+trying to become 'objective,' Western culture made 'objects' of things
+and people when it distanced itself from them, thereby losing 'touch'
+with them. This dichotomy is the root of all violence" (37). Losing
+touch is a prerequisite for exploitation. The sundering of "objects"
+from our touch primes us to take advantage of them. Colonial history
+is a case study in losing touch: "White America has only attended to
+the body of the earth in order to exploit it, never to succor it or to
+be nurtured in it" (68). Anzaldua's /mestiza/, birthed in the open
+wound of the border, "where the Third World grates against the first
+and bleeds," is an attempt to bring together what has been separated
+(3). Those who live on the border know better than anyone--divisions
+between bodies puts those bodies into conflict.
 
 Touch offers myriad ways of relation. Eve Kosofsky Sedgwick offers
 touch as a way of connecting to objects that evades "dualistic
 thought," that is, in "binary" thought, where things are presumed to
-be discrete and opposed. Sedgwick explains that "the sense of touch
-makes nonsense out of any dualistic understanding of agency and
-passivity; to touch is always already to reach out, to fondle, to
-heft, to tap, or to enfold" (13). Touch is notable for what it manages
-to avoid---the upper hand, the either/or. Touch opens a range of
-relations where power is not always reduced to opposition. Touch opens
-relations to the outside world. There is more than one kind of touch.
+be discrete and opposed. 
+
+*** TODO /Cruising Utopia/: queerness is desire for the not here
+
+Muñoz re-articulates queerness as something "not yet here” (/Cruising
+Utopia/ 1) It is not only as projection into the future but also as
+projection of a certain futurity into and onto the present and the
+past.
+
+"Queerness is a structuring and educated mode of desiring that allows
+us to see and feel beyond the quagmire of the present... Queerness is
+a longing that propels us onward, beyond romances of the negative and
+toiling in the present. Queerness is that thing that lets us feel that
+this world is not enough, that indeed something is missing"
+(/Cruising Utopia/ 1).
+
+
+Queerness, Muñoz argues, is a “horizon of being” (Husserl 1991) that can be glimpsed in utopian bonds, affiliations, designs, and gestures that exist within the present, “a type of affective excess that presents the enabling force of a forward-dawning futurity” (23).
+The crucial dialectical articulation of the “no longer conscious” with the “not yet”: Muñoz archives what has been lost, and what we are continuing to lose, in the long, sad shift from the sexually revolutionary energies of the fifties and sixties to their neoliberal neutralization.
+
+*** TODO /Confessions/: desire being about hesitating touch:
+
+ 
+*** TODO /Waves/: queerness (story) is frustrating closure... 
 
 
 ** queerness as untouchable 
@@ -101,7 +254,7 @@ United States; that gay men and drug users are held cheap where they
 aren't actively hated" (123). Her friend counters this suspicion,
 pointing out that knowledge of conspiracy doesn't achieve anything on
 its own: "Supposing we were ever sure of all those things---what would
-we know then that we don't already know?"  (123). Merely knowing that
+we know then that we don't already know?" (123). Merely knowing that
 something is true, revealing the presence of systematic oppression,
 injustice, discrimination, does nothing. As Sedgwick explains,
 knowledge of a problem is not enough to "enjoin that person to any
@@ -121,77 +274,128 @@ differently from the heroic, 'liberatory,' inescapably dualistic
 righteousness of hunting down and attacking prohibition/repression in
 all its chameleonic guises" (10).
 
-*** paranoia and replication (haraway)
+*** paranoia and replication (the sciences)
 
-The impulse for paranoid reading emerges from a mode of inquiry that
-is more "scientific" than humanistic, though it appears in much of
-literary studies and historiography. Though she is more famous for her
-figuration of the "cyborg," Donna Haraway's work on primatology offers
-an excellent critique of this impulse within her articulation of a new
-mode of feminist science that de-naturalizes the "natural." Haraway's
-research on primates reveals the ways in which assumptions and
-preconceptions from the (white male) subject affect the objects of
-study. She examines how scientists bring their own investments to bear
-even in the seemingly benign questions they might ask, or qualities
-they isolate as areas of interest. For example, she exposes how
-primatologists workin with the goal of studying social structures in
-the field often impose their own social structures in their
-"observations." The narratives often turn around observations of male
-dominance and female receptivity. Feminist scientists attempt to
-revise such narratives by emphasizing organization and cooperation
-among primate communities: "revisionists have stressed matrifocal
-groups, long-term social cooperation rather than short-term
-spectacular aggression, flexible process rather than strict structure”
+In order to understand the ways that the paranoid impulse harm and
+constrain inquiry, it is useful to view it at work in scientific
+disciplines and for the purpose of historiography.
+
+Some strains of scientific inquiry, in particular, shows us how
+paranoia enacts a self-replicating mechanic. Though it appears in much
+of literary studies, the impulse that drives paranoid reading is
+borrowed from a critical viewpoint in scientific inquiry that assumes
+a detached observer. Critiques of this position, particularly in Donna
+Haraway's work on primatology, attempt to articulate a new mode of
+feminist science that de-naturalizes the "natural." Haraway's research
+on primates reveals the ways in which assumptions and preconceptions
+from the (white, male) subject inflect the object of study. She
+examines how scientists bring their own investments to bear even in
+the seemingly benign questions they might ask, or qualities they
+isolate, as areas of interest. For example, primatologists working
+with the goal of studying social structures in the field often impose
+their own social structures by turning their assumptions of male
+dominance into "observations." Feminist scientists attempt to revise
+such narratives by emphasizing organization and cooperation among
+primate communities: "revisionists have stressed matrifocal groups,
+long-term social cooperation rather than short-term spectacular
+aggression, flexible process rather than strict structure”
 (19). Pointing out that, “Women know very well that knowledge from the
 natural sciences has been used in the interests of our domination and
 not our liberation," Harwaway asserts that such revision is about
 empowering the subjugated, reconceiving “female receptivity” as
-“female choice” (8). The creation of a subject/object split not only
+"female choice" (8). The creation of a subject/object split
 /reproduces/ and legitimizes hierarchies of domination.
 
-*** paranoia and recovery (lowe and hartman)
+Oftentimes, new tools can obscure the ways that we replicate our own
+assumptions. The advent of photography in the mid-nineteenth century
+allowed subjects to codify their prejudices as science, for example,
+in the pictures of American slaves taken by Louis Agassiz
+in 1850. These daguerrotypes, a pioneering practice in photography
+that uses light-sensitive chemicals on silver plates, show how the
+impulse for scientific classification impacts the quality and kind of
+knowledge that results. Agassiz, a Swiss anthropologist, came to the
+United States to study the physical differences between European
+whites and African blacks, by examining the shape and character of
+their heads and torsos, similar to contemporary studies in physionomy
+and phrenology that analyzed the exterior form of the human
+body. Agassiz's goal was to amass evidence to support his theory, that
+mankind had been separately created and whites and blacks were in fact
+different species (Wallis 40). Using photography for anthropoligical
+purposes, and organizing photographs to support a classification
+system, Agassiz's work demonstrates how the apparent "objectivity" of
+the photograph can mask the highly subjective motives for
+classification. Writing about the photographs, which were exhibited by
+the Amon Carter Museum in 1992, Brian Wallis explains that such images
+were organized to suggest divisions between "self and other, healthy
+and diseased, normal and pathological," with the insidious effect of
+"mask[ing] its subjective distortions in the guise of logic and
+organization" (Wallis 47, 54-55). The problem, Wallis points out, is
+the realism of the photographic tool obscures the ways that subjects
+harness it to solidify their preconceptions---"Strengthened by the
+seeming transparency of photographic realism, these categories and the
+divisions between them soon took on the authority of natural 'facts.'
+Supplying either too much or too little information, photographs soon
+muddied the easy distinctions between subjective knowledge and what
+was called "objective." (47-48). The more seeminly transparent the
+tool, the easier it is to wrangle it toward proving "self-evident"
+truths.
 
-There is another dimension to this aversion to paranoid reading. Not
-only does paranoid reading tend to replicate the assumptions of the
-reader, but it blocks out other forms of knowledge. This is especially
-evident in the work of recovery, in the impulse to find "hidden" or
-"forgotten" meaning in textual and archival material. Recovery works
-by a self-legitimizing and perpetuating logic that attempts to render
-what has been left out, disregarded, or misunderstood within the logic
-of dominance. It is Jacques Derrida's /archive fever/, or the desire
-for legibility, under the auspices of the ruler, which animates the
-endless search for origins. It is, in Haraway's words, a search for
-the "one code that translates all meaning perfectly, the central dogma
-of phallogocentrism" (/Simians, Cyborgs, and Women/ 176).
+In this case, the apparent fidelity of the photographic tool to record
+"nature" in fact obscures the ways that using the tool only reinforces
+a preconceived notion of "nature." Wallis explains that, "Supplying
+either too much or too little information, photographs soon muddied
+the easy distinctions between subjective knowledge and what was called
+'objective' (48). The photographs reinforce the ways that scientific
+tools, which appear to capture "reality," can be harnessed and
+manipulated toward the observer's purpose. 
+
+*** paranoia and recovery (historiography)
+
+Not only does paranoid inquiry tend to replicate the assumptions of
+the observer, but it blocks out other forms of knowledge. This is
+especially evident in the work of historical recovery, in the impulse
+to find "hidden" or "forgotten" meaning in textual and archival
+material. Recovery works by a self-legitimizing and perpetuating logic
+that attempts to render what has been left out, disregarded, or
+misunderstood within the logic of dominance. It is Jacques Derrida's
+/archive fever/, or the desire for legibility, under the auspices of
+the ruler, which animates the endless search for origins. It is, in
+Haraway's words, a search for the "one code that translates all
+meaning perfectly, the central dogma of phallogocentrism" (/Simians,
+Cyborgs, and Women/ 176).
 
 The stakes of recovery work are uniquely stark in the history of the
 Black Atlantic, where researchers must work to square the growth of an
 inhuman practice within a historical narrative of progress and
 liberalization. A tradition that rationalizes slavery with the right
-to property, that justifies war through the social contract. Scholars
-Lisa Lowe and Saidiya Hartman point out that the central paradox of
-studying the archive of slavery is the structuring conditions of
-recovery. In her essay "History Hesitant," Lowe explains that because
-recovery work necessarily occurs within the limits of the authorizing
-power, it always subjects itself to that power. Rather that work uner
-these conditions, historians of enslaved experience ought to examine
-this confining structure, "the archeology of knowledge through which
-the archive subjects and governs precisely by means of instruments
-that absent the humanity of the enslaved” (87). Researchers might
-examine, for example, how "the slave trader’s desire to record,
-measure, list, and account" weigh up against "rationalist claims to
-produce truth or meaning about the terrors of captivity, enslavement,
-or torture" (88). Saidiya Hartman similarly turns to the question of
-epistemology: - “If it is no longer sufficient to expose
-the scandal, then how might it be possible to generate a different set
-of descriptions from this archive?" (7).
+to property, that justifies war through the social contract. Black
+Atlantic scholars Lisa Lowe and Saidiya Hartman point out that the
+central paradox of studying the archive of slavery is the structuring
+condition of recovery. In her essay "History Hesitant," Lowe explains
+that because recovery work necessarily occurs within the limits of the
+authorizing power, it always subjects itself to that power. Rather
+that work under these conditions, historians of enslaved experience
+ought to examine this confining structure, "the archeology of
+knowledge through which the archive subjects and governs precisely by
+means of instruments that absent the humanity of the enslaved”
+(87). Researchers might examine, for example, how "the slave trader’s
+desire to record, measure, list, and account" weigh up against
+"rationalist claims to produce truth or meaning about the terrors of
+captivity, enslavement, or torture" (88). Saidiya Hartman similarly
+turns to the question of epistemology as the crux of the recovery
+work: “If it is no longer sufficient to expose the scandal, then how
+might it be possible to generate a different set of descriptions from
+this archive?" (7).
 
-Hartman writes caustically about the impossibility of telling stories
-that have been left out of the record. Not only that we can never
-recover these stories (they are lost to time) but we can not
+Hartman's central problem is what to do with an absent archive. She
+leaves us the paradox of recovery work: "How does one revisit the
+scene of subjection without replicating the grammar of violence?"
+(4). Hartman writes caustically about the impossibility of telling
+stories that have been left out of the record. Not only that we can
+never recover these stories (they are lost to time) but we can not
 approximate them with our current tools, with language. In "Venus in
 Two Acts," Hartman tells the story of Black Venus, the unnamed slave
-woman who appears variously throughout the "offical" record: 
+woman who appears variously throughout the "offical" record:
 
 #+BEGIN_QUOTE
 we could have as easily encountered her in a ship’s ledger in the
@@ -212,29 +416,58 @@ condition known as the "violence of the archive," which denotes not
 only absence as a form of evidence, in that the physical records are
 missing, but also in the tools of expression, in language that cannot
 approximate the reality of experience, and in the audible discourse
-that dictates silence. Hartman's central problem is what to do with an
-absent archive. She leaves us the paradox of recovery work: "How does
-one revisit the scene of subjection without replicating the grammar of
-violence?" (4).
+that dictates silence.
+
+*** affective strategies, hestitation, restraint
+
+Within the dominant culture, recovery means authorizing the structures
+of knowledge that give rise to injustice in the first place. So what
+do we do now? There are affects associated with this kind of
+impasse. We hold ourselves back, restraint, avoidance. Lowe explains
+that
+
+#+BEGIN_QUOTE
+Hesitation, rather than rushing to recover what has been
+lost, need not be understood as inaction or postponement, or as a
+thwarting of the wish to provide for a future world. Rather, it halts
+the desire for recognition by the present social order and staves off
+the compulsion to make visible within current epistemological
+orthodoxy. 98
+#+END_QUOTE
+
+Feelings of hesitation, doubt, dissapointment are ways of protecting
+the archive of slavery from further exploitation.
+
+To sum up: one solution to paranoid impulses involves is critical
+awareness, the ability to access the affects that come between you and
+the object of study. 
+
+*** estrangement as central to queerness
+“Editor’s Introduction”: Queering Archives, Intimate Tracings, 2015:
+The estrangement that continually happens with dealing with
+queerness. Estrangement from yourself, the materials, and others.
+
+“Estrangement” --- the torment of queer literature -- the pain of not
+identification but of not identifying. Of reading the text and finding
+and not finding yourself in the pages.
 
 *** Heather Love's /Feeling Backward/
-Similarly to Sedgwick, Heather Love offers a reading strategy that
-acknowledges queer experience, particularly suffering, as
-unconsoleable. In resisting the temptations to redeem psychic
-suffering by queer subjects, Heather Love offers a strategy called
-"feeling-backward." This strategy opens a space for bad feelings
-without trying to recuscitate, justify, or transform them. She focuses
-on feelings such as "nostalgia, regret, shame, despair,
-/ressentiment/, passivity escapism, self-hatred, withdrawal,
-bitterness, defeatism, and loneliness," which, according to Love, are
-tied to "the historical impossibility of same-sex desire" (4, emphasis
-original). She examines the burdened protagonists from famous
-modernist texts like Walter Pater's /The Renaissance: Studies in Art
-and Poetry/ (1873), Radclyffe Hall's /The Well of Loneliness/ (1928),
-Willa Cather's /My Ántonia/ (1918), and Sylvia Townsend Warner's
-/Summer Will Show/ (1936). Love argues that the shame and stigma
-experienced by these characters ought to be recognized rather than
-resolved. Instead of turning negative histories into sites of
+Heather Love offers a reading strategy that acknowledges queer
+experience, particularly suffering, as unconsoleable. In resisting the
+temptations to redeem psychic suffering by queer subjects, Heather
+Love offers a strategy called "feeling-backward." This strategy opens
+a space for bad feelings without trying to recuscitate, justify, or
+transform them. She focuses on feelings such as "nostalgia, regret,
+shame, despair, /ressentiment/, passivity escapism, self-hatred,
+withdrawal, bitterness, defeatism, and loneliness," which, according
+to Love, are tied to "the historical impossibility of same-sex desire"
+(4, emphasis original). She examines the burdened protagonists from
+famous modernist texts like Walter Pater's /The Renaissance: Studies
+in Art and Poetry/ (1873), Radclyffe Hall's /The Well of Loneliness/
+(1928), Willa Cather's /My Ántonia/ (1918), and Sylvia Townsend
+Warner's /Summer Will Show/ (1936). Love argues that the shame and
+stigma experienced by these characters ought to be recognized rather
+than resolved. Instead of turning negative histories into sites of
 resistance or affirmation, these hurting characters might have full
 reign over their own darkness. And this darkness must be where the
 critic will meet them.
@@ -265,14 +498,6 @@ recognizing pleasure: "Either read a book like /Giovanni’s Room/ at
 the risk of recognizing David’s denial and repression as my own, or
 read a book that celebrates queer lives and sex boldly and end up
 despising my own cowardice" (par. 17).
-
-*** estrangement as central to queerness
-“Editor’s Introduction”: Queering Archives, Intimate Tracings, 2015:
-The estrangement that continually happens with dealing with
-queerness. Estrangement from yourself, the materials, and others.
-“Estrangement” --- the torment of queer literature -- the pain of not
-identification but of not identifying. Of reading the text and finding
-and not finding yourself in the pages.
 
 *** queerness is a failed project, which is why it's so tempting.
 The more hopeless and resistant queer subjects make for more tempting
@@ -444,7 +669,6 @@ one restore absence to itself? Put simply, can an empty archive also
 be full?" (1). 
 
 Hartmen's "critical fabulation"
-
 
 The archivist must work within the discrepancy between reality and the
 historical record. Hartman's goal is "to expose and exploit the
@@ -1005,7 +1229,12 @@ chapter 2)
 
 * Works Cited
 Caldwell, Kelly. "The Torment of Queer Literature," /The Rumpus/. 2018.
-Love, Heather. /Feeling Backward: Loss and the Politics of Queer History/. 2009.
+Love, Heather. /Feeling Backward: Loss and the Politics of Queer
+History/. 2009.
+
+Wallis, Brian. “Black Bodies, White Science: Louis Agassiz's Slave
+Daguerreotypes.” /American Art/, vol. 9, no. 2, 1995, pp. 39–61. JSTOR,
+www.jstor.org/stable/3109184.
 
 
 * commands
@@ -1028,17 +1257,7 @@ and opposition” (228).
 Communication and Feminist Theory in North-South Contexts.” Hypatia,
 vol. 13, no. 2, 1998, pp. 53–72. www.jstor.org/stable/3810637.
 
-[fn:1] Queer theorists who define "queer" by desire: For Kadji Amin,
-queer is an affective attachment. It's about sensing a resonance
-between the object and the feeling of queerness. "I propose
-/attachment geneaology/ as a method tha focuses on analytically queer
-forms of nonnormativity that clash with /queer/'s current affective
-and political connotations in order to excavate the historical
-attachments that inform /queer/'s aversion to these particular
-objects... Attachment geneaology begins with the experience of
-scholarly unease. For the field of queer studies, an object that
-produces unease is one that exposes, fragments, and reworks /queer/'s
-own affective histories" (185). Amin, Kadji. "Haunted by the 1990s:
+[fn:1] Amin, Kadji. "Haunted by the 1990s:
 Queer theory's affective histories." WSQ: Women's Studies
 Quarterly:44.3 (2016): 173-189.
 

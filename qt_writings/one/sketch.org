@@ -2,7 +2,7 @@
 
 ** Rough outline for chapter:
 - touch as a reading method: making & opening connections
-  - anzaldua and sedgwick on touch as connective and multiplying
+  - touch as an intersection for queerness and DH
 - queerness as untouchable: something we cannot fully grasp
   - paranoid/suspicious reading 
   - dangers of replication, recovery 
@@ -89,45 +89,22 @@ incommensurable.
 
 *** Sedgwick on paranoid v reparative reading 
 paranoia predetermines the answers we get from inquiry. 
+
+*** paranoia and replication
+paranoia is more part of a scientific/historical impulse, which effectively
+reproduces the dominant knowledge structures. 
+
+the issue with scientific tools like photography and observation is
+that they tend to only replicate the observer's position. 
+
 *** the useless project of recovery: lowe
 The analogy with the historian's plight in recovering an archive of
-slavery where none is present: 
+slavery where none is present. 
 
-Recovery as a paradox -- What does recovery mean within the limits of
-something that authorizes what and how we know? Either we affirm a
-recovered presence of enslaved people OR We emancipate and redeem
-them, thereby submitting them to our dominance.
-- "in privileging recovery one risks reproducing the very forms
-of violent erasure that are the signature of the regime of liberal
-freedom" (98).
-- Liberal freedom rationalizes slavery (90). The right to
-property. Defining the human also defines the other. Social contract
-justifies war for land and property. Land taken by colonizers is
-described to be vacant (93). Free labor that is coerced (97). 
-- “The persistence of unfreedom belying the narratives of progress”
-(86-7). 
+Recovery is impossible within the terms (language) of the dominant
+culture. One solution is hesitation.
 
-So instead, we ought “to study the archeology of knowledge through
-which the archive subjects and governs precisely by means of
-instruments that absent the humanity of the enslaved” (87). 
-- Instead of looking for “the way it really was” for slaves in the
-  middle passage, looking to interpret how the desire to record,
-  measure, list forecloses the claims of rationality toward presenting
-  the truth of captivity, enslavement, torture (88).
-
-Do not move toward recovery, but question What does it mean to
-supplement forgetting with new narratives? 
-- "Yet in privileging recovery one risks reproducing the very forms
-of violent erasure that are the signature of the regime of liberal
-freedom. Therefore, I do not move immediately toward recovery or
-recuperation but, rather, pause to reflect on what it means to
-supplement forgetting with new narratives of affirmation and
-presence. Hesitation, rather than rushing to recover what has been
-lost, need not be understood as inaction or postponement, or as a
-thwarting of the wish to provide for a future world. Rather, it halts
-the desire for recognition by the present social order and staves off
-the compulsion to make visible within current epistemological
-orthodoxy" (98).
+the solution to paranoia is critical distance, awareness. 
 
 *** Heather Love's queerness as failure, impossible
 Love offers a model of "feeling backward" which is a way for critics
@@ -154,8 +131,6 @@ abstraction--I think? We do not say whether these things are
 healing. All we can deal with is the data that we are given.
 
 *** ofelia schutte and the incommensurable
-
-Lowe -- how recovery efforts underwrite the ethics of liberalism
 
 
 ** abstraction, formalization, opacity: Queer Form
@@ -289,7 +264,33 @@ multiple. The form makes subjectivity opaque, but in the act of
 abstraction, making it opaque, we can touch it and play around with
 it. 
 
+
 ** The problem: Data as always cooked
+*** history of computing shows non-neutrality of tools
+
+**** Rosenzweig, Roy. “Wizards, Bureaucrats, Warriors, and Hackers:
+Writing the History of the Internet.” The American Historical Review,
+vol. 103, no. 5, 1998, pp. 1530–1552. JSTOR,
+www.jstor.org/stable/2649970.
+
+“The rise of the Net needs to be rooted in the 1960s-in both the
+"closed world" of the Cold War and the open and decentralized world of
+the antiwar movement and the counterculture. Understanding these dual
+origins enables us to better understand current controversies over
+whether the Internet will be "open" or "closed"-over whether the Net
+will foster democratic dialogue or centralized hierarchy, community or
+capitalism, or some mixture of both” (1531). 
+- Packet switching networks to counteract against the division and
+decentralization that a nuclear strike could create. 
+
+“By spotlighting ARPA, Norberg and O'Neill emphasize what Hafner and Lyon sometimes obscure-the close connection of all ARPA computer funding to military concerns. Calling their concluding chapter "Serving the Department of Defense and Nation," they celebrate rather than downplay that link. They point out, for example, that ARPA only set up the IPTO in 1962 in response to pressure from the Kennedy administration for improved military command and control systems.16 Computers, it was widely believed, would make it possible to "control greater amounts of information and to present it in more effective ways to aid decision making” (1535).
+Bob Kahn creating TCP/IP and “internetting” in order to connect different kinds of networks like satellites and radios.
+“Computers created the technological possibility of the Cold War and shaped computer technology” (1538). 
+“By placing the rise of the Internet within the 1960s-as-counterculture and the 1960s of the antiwar movement, Crocker and the Haubens suggest an alternative contextual frame to that emphasized by Edwards, who puts the rise of digital computing (and implicitly the Internet) solely within the Establishment 1960s of the Vietnam War and the Cold War.” (1545).
+“Ironically, while the Department of Defense had very different goals in mind-and often tried to implement them by, for example, restricting access to the APRANET or to what it could be used for-its willingness to embrace the open technical standards embodied in TCP/IP inadvertently sparked the creation of a remarkably open system” (1549)
+“By the 1980s (and especially by the 1990s), moreover, many of the people who had celebrated the freedom and openness of networks and personal computers had also undergone a transformation that made them inclined to accept this privatiza- tion. The affection of many "Netizens" for free speech and freedom from control had also come to embrace a love for free markets. The liberationism of the many early computer and network enthusiasts had been transformed into libertarianism.” (1550)
+“Web search companies, which are seen as the portals to the Internet, are busily gobbling each other up or being acquired by larger media conglomerates. Bill Gates's Microsoft Corporation has a pretty good chance of controlling not only all of the personal computers from which people access the Internet but also the browsers through which they read pages on the World Wide Web. And Intel Corporation is poised to be the manufacturer of choice for the chips at the heart of those computers.” (1551)
+
 *** Johanna Drucker's capta
 
 Shows the reductions of data that are necessary for most graphical
@@ -467,3 +468,10 @@ with reference.
       numbers are so useful in social science: they allow researchers to
       describe continua instead of sorting everything into discrete
       categories" (Underwood 20).
+
+*** race and technology
+- Lisa Nakamura, “Race In/For Cyberspace: Identity Tourism and Racial
+      Passing on the Internet” in Works and Days, Volume 13, Nos. 1 &
+      2, 181-193, 1995. [Available as a .pdf on course Group site.]
+
+
