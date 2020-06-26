@@ -1,13 +1,12 @@
 * one
 
 **** chapter summary 
-This dissertation looks at /new ways of reading queer bodies/ and
-experience within technological contexts. How do digital tools and
-platforms change the way we interact with affect (associated with
+This dissertation looks at new ways of reading /queer bodies/ and
+/queer experience/ within technological contexts. How do digital tools
+and platforms change the way we interact with affect (associated with
 queer experience and embodiment) within texts? What about the digital
-allows us to create /sensational/ reading experiences? In other words,
-how do media touch queerness, and how might queerness touch the
-reader?
+allows us to activate /sensational/ reading experiences? In other
+words, how does digital media interface with queerness?
 
 This chapter proposes a reading methodology that leverages the
 critic's relationship to the text to open possibilities for
@@ -39,7 +38,7 @@ in ways that are not neutral, and we find DH practitioners doing work
 that is critical of digital methods. Looking at the example of DH from
 the position of queerness we see more clearly the necessity of
 opacity, formalization, and abstraction as reading methods, and the
-real danger of reproducibility and totalization, a byproduct of
+real danger of reproducibility and totalization, byproducts of
 paranoia. We find parallels between queer critics and feminist DHers,
 who are doing something similar; we interweave Saidiya Hartman and
 Lauren Klein.
@@ -49,50 +48,90 @@ performative), vantages (the visual), and provisionality (the
 ontological). We see these examples in /voyant-tools/, /these waves
 of girls/, and /the orlando project/(?). 
 
-
 ** Touch: a way of reading: Rosenberg, Fischer, Munoz, Anzaldua
+*** touch intersects queer and digital, abstracting sense
 
-**** touch as the intersection between queer and digital
 If digital humanists and queer theorists are going to find some common
-ground, they might start with /touch/. The root of the word digital,
-"digitus," comes from the Latin word for finger or toe. Within the
-context of electronic media, "digital" refers to a counting system
-based on ten digits. Digital computation runs on data in the form of
-these numerical digits, even though computer language, at the most
-rudimentary level, is based on a binary counting system, on ones and
-zeroes. With present technology, the associations between touch and
-the digital have expanded from numerical computation to include the
-haptic connections we make with media in the form of mice, keyboards,
-and touch screens. 
+ground, they might start with /touch/. Touch is a means of interfacing
+with the world, a mode of encounter between subject and object that
+relates to encounters with both digital media and queer
+subjectivity. The root of the word digital, "digitus," comes from the
+Latin word for finger or toe, and within the context of electronic
+media, it refers to a counting system based on ten
+digits[fn:1]. Associations between the digital and touch expand from
+numerical computation to include the haptic connections made through
+the intermediaries of mice, keyboards, and touch screens. To touch
+something, the digits extend, the furtherest appendage still part of
+the coherent body, and establish contact. Touch relates to queerness
+through the desire for touching that which is untouchable. It
+signifies a lack of access to the source of its desire.
 
-**** queerness and the frustration of touch: confessions
-To touch something, the digits extend, the furtherest appendage still
-part of the coherent body, and establish contact. Touch is related to
-queerness through desire---the desire for touching---which is often
-frustrated by normative expectations. For queer subjects, the desire
-to touch has always been a frought experience. In /The Confessions of
-the Fox/ by Jordy Rosenberg, the main character displays this troubled
-relationship to touch. Based in eighteenth century London, this story
-follows Jack Sheppard, a young transgender male making his way as a
-wily thief through corrupt and dirty London. In the time before the
-pathologization of nonnormative sexual and gender identities, Sheppard
-struggles to articulate his difference, what he calls his
-"/Something/," from the rest of London society: "This something that
-set him apart from other coves [men]. Something that had caus'd him to
-dress his own chest in taut bandages... pinching at his ribs,
-throttling his every Breath to a forced shallow bird-sipping of the
-air" (33). The difficulty with self-identification and categorization
-extends from the main character to the narrative's genre, which
-unfolds as historical fiction overlaid with contemporary
-memoir. Sheppard's story is discovered in the present day by Dr. Voth,
-a rueful academic, also transgender, who immediately realizes the
-significance of Sheppard's manuscript for the historical record. Voth
-proceeds to annotate the document with relevant references and
-increasingly, his own anecdotes tangential to the narrative. In one
-scene, Sheppard is having a romantic moment with his lover, Bess Khan,
-a bi-racial prostitute who initiates Jack into the London underground
-society of rogues, when Voth relates his own story about his former
-lover from the early days of their relationship:
+As a method of knowing based on feeling, touch can amplify sensation
+beyond the readily sensible. A complicated thesis about touch which
+this chapter will unpack: At the intersection of queerness and the
+digital, touch operates by abstracting its object through the
+intermediary of the sensible. This process of abstraction compensates
+for the core condition of queerness, which is untouchable, unknowable,
+and inexpressible. By transforming the inaccessible source into new
+forms, /queer forms/, queerness is exponentially sensualized and
+engaging. Within digital queer literary materials, touch is a /reading
+method/ that works by abstracting the senses to provide more
+possibilities for connection.
+
+First, let us begin with this condition of queerness as being
+untouchable. José Esteban Muñoz articulates queerness as something
+"not yet here” (/Cruising Utopia/ 1). Rather than signify a
+forward-looking, or future-oriented desire, "not yet here" signals to
+a futurity established within the present. Munoz explains:
+
+#+BEGIN_QUOTE
+Queerness is a structuring and educated mode of desiring that allows
+us to see and feel beyond the quagmire of the present... Queerness is
+a longing that propels us onward, beyond romances of the negative and
+toiling in the present. Queerness is that thing that lets us feel that
+this world is not enough, that indeed something is missing. /Cruising Utopia/ 1
+#+END_QUOTE
+
+First and foremost, queerness is defined as being about desire, it is
+a "longing that propels us onward." The ontological nature of
+queerness is founded in a lack, in a vaccum. This vaccum comes from
+the political and social environment that attempts to erase the
+existence of minorty subjects, particularly queer people of
+color. Even as LGBT groups appear to gain more visibily and acceptance
+within the intitution of marriage, and the military and workplaces,
+Munoz points out that such gains are trapped within the limiting
+normative time of the present. [Queerness is being wrenched within
+heteronormative agendas----IE the 2020 surpreme court decision that
+protects queer people bc it protects straight people]. 
+
+**** /confessions/: queerness and the denial of touch
+This feeling of the world being "not enough" is what activates the
+full sensorium of queer affects. This works through the denial,
+deferral, or frustration of touch. For queer subjects, the desire to
+touch has always been a frought experience. In /The Confessions of the
+Fox/ by Jordy Rosenberg, the main character displays how a troubled
+relationship to touch indicates a complex subjectivity. Based in
+eighteenth century London, this story follows Jack Sheppard, a young
+transgender male making his way as a wily thief through corrupt and
+dirty London underground. In the time before the pathologization of
+nonnormative sexual and gender identities, Sheppard struggles to
+articulate his difference, what he calls his "/Something/," from the
+rest of London society: "This something that set him apart from other
+coves [men]. Something that had caus'd him to dress his own chest in
+taut bandages... pinching at his ribs, throttling his every Breath to
+a forced shallow bird-sipping of the air" (33). The difficulty with
+self-identification and categorization extends from the main character
+to the narrative's genre, which unfolds as historical fiction overlaid
+with contemporary memoir. Sheppard's story is discovered in the
+present day by Dr. Voth, a rueful academic, also transgender, who
+immediately realizes the significance of Sheppard's manuscript for the
+historical record. Voth proceeds to annotate the document with
+relevant references and increasingly, his own anecdotes tangential to
+the narrative. In one scene, Sheppard is having a romantic moment with
+his lover, Bess Khan, a bi-racial prostitute who initiates Jack into
+the London underground society of rogues, when Voth relates his own
+story about his former lover from the early days of their
+relationship:
 
 #+BEGIN_QUOTE
 She opened her legs a bit, twitched them open, really. I caught my
@@ -109,9 +148,9 @@ She meant that she saw something about the quality of my desire: that
 this was part of what it meant to be---or to have been, before my tits
 became property of the California Municipal Waste Department---a
 lesbian. That a woman moving in your line of sight could have an
-effect that was total, atmospheric. /That you could be hesitant,
+effect that was total, atmospheric. That you could be hesitant,
 incapable, and not particularly interested in establishing a line
-between touching and seeing./ That you would indulge a dead love, dead
+between touching and seeing. That you would indulge a dead love, dead
 in the eyes of the world, and valueless. A love that choked and
 burdened the mind, that might even be the very foundation of
 melancholy and despair. But, oh Reader, looking at a woman you really
@@ -120,46 +159,163 @@ point is, if you have every been a lesbian, you will not even have to
 touch a woman to know that. (169)
 #+END_QUOTE
 
-Here, desire is characterised not by the search for satisfaction, or
-the success of establishing connection, but by the sensual fullness of
-a lack. The experience of desire, of craving, wanting, needing to
-touch the desired object, stimulates the imagination and amplifies
-sensations that would otherwise be replaced with more "direct" modes
-of contact. Demonstrating this distinction between imaginary and the
-real contact, Dr. Voth's lover refers to him as a "lesbian," despite
-his having already transitioned to a male gender identity. The term
-fits because it signals not a gender identity but a /mode of being/
-that is more concerned with the visible, which portends the potential
-of connection, rather than verifiable contact. With regard to desire,
-the difference hinges on the role of the imagination in activating
-certain sensors and receptors that cannot be accessed in the "real,"
-actualized world. Here, fancy takes on the connotations of the
-fanciful; desire grows in the realm of the imagination. But this does
-not mean the sensations resulting from this desire are any less
-palpable and sensual; on the contrary, such a desire heightens and
-indeed maximizes physical experience. This mode of desiring is what
-characterizes queerness in the text: a desire for something that,
-because it cannot or will not be fulfilled, amplifies the fullness of
-that desire. Touch, or the lack of touch, defines a peculiarly queer
-experience in the novel. 
+The desire for touching is often frustrated by normative
+expectations. Here, desire is characterised not by the search for
+satisfaction, or the success of establishing connection, but by the
+sensual fullness of a lack. The experience of desire, of craving,
+wanting, needing to touch the desired object, stimulates the
+imagination and amplifies sensations that would otherwise be replaced
+with more "direct" modes of contact. Bringing this distinction between
+imaginary and real contact to the realm of identity, Dr. Voth's lover
+refers to him as a "lesbian," despite his having already transitioned
+to a male gender identity. The term fits because it signals not a
+gender identity but a /mode of being/ that is more concerned with the
+visible, which portends the potential of connection, rather than
+verifiable contact. With regard to desire, the difference hinges on
+the role of the imagination in activating certain sensors and
+receptors that cannot be accessed in the "real," actualized
+world. Here, fancy takes on the connotations of the fanciful; desire
+grows in the realm of the imagination. But this does not mean the
+sensations resulting from this desire are any less palpable and
+sensual; on the contrary, such a desire heightens and indeed maximizes
+physical experience. This mode of desiring is what characterizes
+queerness in the text: a desire for something that, because it cannot
+or will not be fulfilled, amplifies the fullness of that
+desire. Touch, or the lack of touch, defines a peculiarly queer
+experience in the novel.
 
 Queerness is concerned with contact and desire, and more precisely
-with /the desire for contact/. A desire that opposes or offends
-expectations, queerness manifests as an affective relation between the
-subject and desired object. Kadji Amin defines queer as "fundamentally
-affective... a matter of sensing a resonance between one's object of
-study and the inchoate cluster of feelings that inhabit and animate
-the term queer" (173).
+with /the desire for contact/. Another text, wildly different in form,
+carries a similar message about frustrated desire constituting
+queerness..,....
 
- It is to the side of the acceptable, breaking the
-confines of the normative. Both queer and digital are out there, our
-frames for engaging with the outside world. Both queer and digital are
-alternative ways of engaging with the environment
+**** /Waves/: queerness (story) is frustrating closure, eluding touch
 
-**** touch severs, divides subj/obj: waves
+Touch is also a way of navigating through digital objects. One salient
+example of navigation by touch comes from hypertext, which is a text
+format that links pages or "nodes" within an associative
+structure. /These Waves of Girls/, a hypertext novella by Caitlin
+Fisher, is an autobiographical account of Caitlin Fisher's sexual
+coming-of-age. The narrative unfolds in a series of vignettes
+connected to each other by associative hyperlinks, that recount
+Fischer's adolescent experiences with men and women when she was
+growing up in England. Despite winning the 2001 Electronic Literature
+Award, this hypertext draws much criticism for its form that precludes
+a straightforward reading experience. Through the profusion of
+hyperlinks, which connect one node to the next, hypertext can
+frustrate the reader’s desire for narrative coherence, temporal and
+causal relations. The relatively comfortable and conventional reading
+practice of turning the pages in a codex dissolves in the distracting
+and technical complexity of a narrative that requires what Espen
+Aarseth calls “untrivial effort” to traverse (1). An empirical study
+on reader responses to the fragmentation of narrative structure finds
+that the “heavy cognitive demands of the interfaces used by
+hyper-writers” on the reader" lead to reader frustration,
+dissapointment, and low engagement (Pope “Where do we Go from Here?”
+75). Speaking on /Waves/ in particular, James Pope argues that the use
+of hyperlinks “present[s] a baffling range of choices for movement
+which actually led to a stifling of movement altogether”
+(“Significance”). Joining Pope, Anja Rau criticizes the overabundance
+of options for movement within the hypertext, as well as its poor
+design and lack of significant markers. She comes to the similar
+conclusion that these elements diminish the reader’s absorption in the
+narrative.
+
+[![Watch the video](./videos/erotic.mp4)]
+
+"DARE" > [arrow] > [arrow] > "I liked girls..." > "the lover" > "Only one of us is 15..." > "Jerk off…"
+
+
+I want to draw attention to this disorienting feeling of reading this
+text. Episodes do not have a discernible chronology or
+progression. They are non-linear, and clicking on the links is
+disruptive to any sense of coherence. There’s a desire for narrative
+coherence and closure, which is continually frustrated by the work’s
+form. Yet, in another sense, the fragmentary structure of the
+narrative is exactly what constitutes its appeal, as it compels the
+reader to chase an elusive understanding of sexuality. The text
+continually defies the reader’s expectations about the narrator. In
+the repeatedly linked node, aptly titled “erotic,” the ticker reads
+“and it was the most erotic year of my life” across the screen in
+ticker tape (“And it was...”). This node is reached through two
+different sources, both of which feature sexual episodes between the
+narrator and men. In a novella that largely consists of stories about
+the narrator’s sexual histories and fantasies with other women, this
+node is unexpected. It checks the reader’s expectations about the
+narrator’s homosexuality against the possibility that she is more
+satisfied with men. There are other moments in the text that also
+create a similar dissonance from the associations between links. One
+of these associations occurs in the last node of the “beam routine”
+episode, when the narrator is about to perform her beam routine to
+sexually placate the man that she brought home. The link reads “I
+don’t want to have sex,” and it leads the reader to an episode about
+her experience with a woman:
+
+#+BEGIN_QUOTE
+I’m in bed with Jennie Winchester and I realize she want me to undo
+her pants. She needs to be home by 11:00 and needs to leave my place
+by 10:45. I’m kissing her but opening my eyes at intervals to catch
+the clock. At exactly 10:43 I unbutton her Levis and shove my hand
+inside, barely undoing the zipper. “I’m in bed...”  
+#+END_QUOTE
+
+Now the reader experiences a previous node from a new link that casts
+its former meaning into doubt. Is the narrator watching the clock
+because she wants to make the most of her time with Jennie, or is she
+counting the minutes until she is free of Jennie’s presence? What
+before seemed straightforward now appears to support alternate
+readings. 
+
+The reader’s frustration in navigating through /Waves/ relates to the
+work’s central theme of narration as seduction, which reinforces an
+approach toward queerness as something elusive, a process that will
+never be complete. Narration as seduction works by piquing the
+reader's interest in the story, propelling her through hyperlinks
+across the various nodes, and repeatedly frustrating her desire for
+closure or resolution. The reader’s continually thwarted desire for
+narrative coherence enacts the themes of sexual discovery and
+seduction that the narrator experiences within the space of the story.
+
+**** Queerness deferred
+
+In /Confessions/, denying touch is a way of stimulating the senses. In
+/Waves/, pursuing touch eludes closure or satisfaction. The condition
+of being continually frustrated, or purposefully denied, thwarted, or
+suspended gestures at an affect that is central to the experience of
+queerness.
+
+ 
+** queerness as untouchable 
+Queerness is about a desire for touch, a desire that goes
+unsatisfied. The dimensions of touch open up when we consider that
+touch is dual.... 
+
+But there is a problem with touch as it applies to queer bodies. 
+
+Some
+bodies do not want to be touched (feinberg), and other bodies, even
+through touch, do not get through to us (hartman?). Experience and
+subjectivity of minoritarian subjects are incommensurable: vestiges of
+meaning are lost in translation[fn:2]; or experiences struggle to be
+captured or expressed in form [fn:3]. In short, for queer bodies,
+there is a dual impulse, a desire to touch and be touched that
+coexists with the inability for touch to satisfy, provide redemption,
+or avoid violation.
+
+Respecting the right not to be touched, some queer theorists pursue
+critical methods that prevent overidentification or overanalysis. They
+resist reading practices, which have been called "suspicious reading"
+or "paranoid reading"[fn:4], that seek to expose the effects of
+homophobic prohibition and repression with the goal of affirming queer
+subjects or recuperating their losses. Paranoid or suspicious reading
+is oriented around finding and exposing the pain and shame of the
+closet in order to turn them into sites of political resistance,
+liberation, or pride.
+
+**** touch severs, divides subj/obj
 This leads us to the main problem with touch: it goes both ways. What
 I touch also touches me; one body impressed by or in collision with
-another. Eve Kosofsjy Sedgwick explains that "the sense of touch makes
+another. Eve Kosofsky Sedgwick explains that "the sense of touch makes
 nonsense out of any dualistic understanding of agency and passivity;
 to touch is always already to reach out, to fondle, to heft, to tap,
 or to enfold" (13). Touch engages a range of relations where power is
@@ -168,11 +324,6 @@ obscures this dual effect. Some bodies appear to desire touching
 rather than being touched; sometimes, the desire for touch does not
 seek contact, but the fullness of desiring.  it is bidirectional,
 reveals a subject/object divide.
-
-
-Another text, wildly different in form, carries a similar message
-about frustrated desire constituting queerness.... 
-.
 
 **** Touch reconciles -- anzaldua, sedgwick, munoz
 Touch reconciles the inherent connection between bodies, something
@@ -196,52 +347,6 @@ Touch offers myriad ways of relation. Eve Kosofsky Sedgwick offers
 touch as a way of connecting to objects that evades "dualistic
 thought," that is, in "binary" thought, where things are presumed to
 be discrete and opposed. 
-
-*** TODO /Cruising Utopia/: queerness is desire for the not here
-
-Muñoz re-articulates queerness as something "not yet here” (/Cruising
-Utopia/ 1) It is not only as projection into the future but also as
-projection of a certain futurity into and onto the present and the
-past.
-
-"Queerness is a structuring and educated mode of desiring that allows
-us to see and feel beyond the quagmire of the present... Queerness is
-a longing that propels us onward, beyond romances of the negative and
-toiling in the present. Queerness is that thing that lets us feel that
-this world is not enough, that indeed something is missing"
-(/Cruising Utopia/ 1).
-
-
-Queerness, Muñoz argues, is a “horizon of being” (Husserl 1991) that can be glimpsed in utopian bonds, affiliations, designs, and gestures that exist within the present, “a type of affective excess that presents the enabling force of a forward-dawning futurity” (23).
-The crucial dialectical articulation of the “no longer conscious” with the “not yet”: Muñoz archives what has been lost, and what we are continuing to lose, in the long, sad shift from the sexually revolutionary energies of the fifties and sixties to their neoliberal neutralization.
-
-*** TODO /Confessions/: desire being about hesitating touch:
-
- 
-*** TODO /Waves/: queerness (story) is frustrating closure... 
-
-
-** queerness as untouchable 
-But there is a problem with touch as it applies to queer bodies. Some
-bodies do not want to be touched (feinberg), and other bodies, even
-through touch, do not get through to us (hartman?). Experience and
-subjectivity of minoritarian subjects are incommensurable: vestiges of
-meaning are lost in translation[fn:6]; or experiences struggle to be
-captured or expressed in form [fn:7]. In short, for queer bodies,
-there is a dual impulse, a desire to touch and be touched that
-coexists with the inability for touch to satisfy, provide redemption,
-or avoid violation.
-
-Respecting the right not to be touched, some queer theorists pursue
-critical methods that prevent overidentification or overanalysis. They
-resist reading practices, which have been called "suspicious reading"
-or "paranoid reading"[fn:2], that seek to expose the effects of
-homophobic prohibition and repression with the goal of affirming queer
-subjects or recuperating their losses. Paranoid or suspicious reading
-is oriented around finding and exposing the pain and shame of the
-closet in order to turn them into sites of political resistance,
-liberation, or pride.
-
 *** Sedgwick's paranoid/suspicious reading
 
 Such reading practices determine and constrain the ways that readers
@@ -348,6 +453,15 @@ the easy distinctions between subjective knowledge and what was called
 'objective' (48). The photographs reinforce the ways that scientific
 tools, which appear to capture "reality," can be harnessed and
 manipulated toward the observer's purpose. 
+
+*** TODO add quote about tyranny of visual
+This is what is violent about analysis, the assumptions that we make about others being fundamentally different and fundamentally knowable. 
+- The tyranny of the visual: “At their base, such operations of
+  surveillance and classification rely on the concept of immutable
+  difference, on sharp boundaries, and on the possibility of
+  exhaustively knowing the other” (Amin, Kadji, Amber Jamilla Musser,
+  and Roy Pérez “Queer Form: Aesthetics, Race, and the Violences of
+  the Social” ASAP/Journal, Volume 2, Number 2, May 2017, pp. 232).
 
 *** paranoia and recovery (historiography)
 
@@ -621,7 +735,6 @@ abstraction. What does queerness look like, what can it do?
 
 
 ** abstraction, formalization, opacity: Queer 
-
 *** reparative reading is active
 
 We might explore, with Sedgwick, "forms of thought that would not be
@@ -689,7 +802,170 @@ multiple. The form makes subjectivity opaque, but in the act of
 abstraction, making it opaque, we can touch it and play around with
 it. 
 
-Opacity as value (Amin, Musser)Opacity as a value (Amin, Musser)
+Opacity as value (Amin, Musser)
+
+“For our purposes, queer form means challenging the primacy of the
+visual, which has too often been a site for pernicious power
+relations… At their base, such operations of surveillance and
+classification rely on the concept of immutable difference, on sharp
+boundaries, and on the possibility of exhaustively knowing the
+other…. We see queer form as an aesthetics that moves persistently
+around the visual, thereby avoiding this flattening. To the extent
+that form operates behind the scenes as ideological impulse and
+materiality, queer formal practices can resist the dictates of
+transparency normally required of non-normative subjects by
+illuminating the unseen. In this way it not only troubles the
+epistemic assurances of the visual regime, but it also asks how
+shifting away from static visuality can circumnavigate questions of
+objectification. A move toward the diffusely sensual, and away from
+the linearity of visual gazing, articulates difference in terms that
+are not about dominance or norms, but that underscore the importance
+of thinking with other modes of knowing, theorizing, and
+experiencing. Queer form is about other ways of understanding
+relationships to power and relationships to being” (Amin, Musser,
+Perez 232-3)
+
+Form understood as associated with queerness, queer experience, and as a way to disrupt easy understanding. Form can be queer and queer form can be opaque: 
+“Form informs queerness, and queerness is best understood as a series of relations to form, relations not limited to binary and adversarial models of resistance and opposition” (228).
+“Queer form” emerges… as a name for the range of formal, aesthetic, and sensuous strategies that make difference a little less knowable, visible, and digestible. This special issue makes a case for the value of indirection, opacity, and withholding as queer strategies for minoritarian art producers” (235).
+ “form focuses attention on how violence—homophobia, racism, gentrification, capitalism, and colonialism, for instance—has structured conditions of possibility in material and epistemological ways” (232).
+touch as an intersection for queerness and DH, both highly sensual
+in that they abstract from the source
+
+**** Waves form: critics on the form opening possibilities for reading
+
+The reader’s experience of frustration and desire in navigating
+through the story mirrors the themes of sexual frustration and desire
+within the story. The electronic format of the story is what allows
+this theme to surface, for me. As I follow this disorienting
+narrative, I similarly enter into cycles of desire and
+frustration. This affective reaction is only possible through a
+displacement---a formal displacement that uses electronic media to
+re-organize, re-structure and display the story in the way we
+encounter it.
+
+Larry McCaffery, the fiction judge who awarded Fisher the ELO prize,
+praises the hyperfiction’s use of fragmentation to present anecdotes,
+bits of story and meditations in a way that liberates the story’s
+potential: "Fisher creates an interconnected web of branching,
+narrative possibilities" (“Comments”). Rather than feel paralyzed by
+the variety of options, McCafferty regards such options as liberating
+the traditionally pre-determined text into something more malleable,
+and therefore, more relatable, to the reader. Jessica Laccetti also
+lauds Waves’ indeterminate reading experience, saying that it cannot
+have defined beginnings, section divisions, or endings. Each time the
+reader sits down and opens this hypertext, it is different; depending
+on the chosen order of node, the reader will derive new meaning from
+that reading. She argues that, “as the narrative sequencing changes,
+so does our understanding of reading” (180). By constantly rearranging
+the order of its nodes, hyperfictions like Waves creates new, unique
+narratives, “enabl[ing] numerous possibilities for beginnings and,
+therefore, sequentialities” (Laccetti 180).
+
+Roland Barthes offers a theory about the reader’s affective response
+to the text that illuminates how hypertext may use linking as a
+narrative strategy to engage, rather than dissuade, the reader. In The
+Pleasure of the Text, Barthes describes two ways that texts provoke
+reactions by appealing to the reader’s “readerly” or “writerly”
+faculties. The text may stimulate pleasure or bliss in the reader
+depending on the degree to which its language disrupts his reading
+experience. On the one hand, the text of pleasure, or the “readerly”
+text, is “the text that contents, fills, grants euphoria; the text
+that comes from culture and does not break with it, is linked to a
+comfortable practice of reading” (all italics original; 14).  The text
+of bliss, the “writerly” text, on the other hand, is one “that imposes
+a state of loss, the text that discomforts (perhaps to the point of a
+certain boredom), unsettles the reader’s historical, cultural,
+psychological assumptions, the consistency of his tastes, values,
+memories, brings to a crisis his relation with language” (14). The
+important difference here is the extent to which the text stimulates
+affects that actively push the reader away or disrupt his reading. The
+text of pleasure operates according to the principles of narrative
+suspense that drive traditional stories, like cause and effect, while
+the text of bliss negates these principles: “what pleasure wants is
+the site of loss, the seam, the cut, the deflation, the dissolve which
+seizes the subject in the midst of bliss” (Barthes 7). In other words,
+the text of bliss is an interruption of the comfortable reading
+experience that emphasizes the reader’s position as a
+subject. According to Barthes, the text of bliss is a positive
+experience for the reader insofar as he enjoys this interruption: “the
+subject gains access to bliss by the cohabitation of languages working
+side by side: the text… is a sanctioned babel” (4). Barthes
+description here applies nicely to the structure of hypertext fiction,
+in which different texts are embedded quite literally side by side in
+the form of hyperlinks: insofar as the reader “sanctions” these texts,
+he will experience them as texts of bliss.
+
+ From its table of contents, the novella foregrounds the reader’s
+agency in navigating through its fragmentary structure, where the
+reader encounters a navigation page that lists eight main sections, or
+chapters, of the narrative. These sections are named “kissing girls,”
+“school tales,” “I want her,” “city,” “country,” “she was warned,”
+“dare,” and “her collections.” When the reader pans over each chapter
+title, a textual blurb appears containing an excerpt from that
+chapter, which often draw from a sexual episode that stimulate
+reader's interest in that chapter, enticing her onward. For example,
+the excerpt for “I want her” presents an erotic moment between the
+narrator and one of her lovers, Jennie.:
+
+#+BEGIN_QUOTE
+I’m in bed with Jennie Winchester and I realize she want me to undo
+her pants. She needs to be home by 11:00 and needs to leave my place
+by 10:45. I’m kissing her but opening my eyes at intervals to catch
+the clock. At exactly 10:43 I unbutton her Levis and shove my hand
+inside, barely undoing the zipper. “I’m in bed...”
+#+END_QUOTE
+
+The narrator severs the excerpt at a moment of climax, tempting the
+reader to click through to the next node. Another section heading,
+“dare,” displays a similar strategy: “Fay Devlin and I are playing
+spin the bottle. She spins, but she trembles. By the time we get to
+Truth or Dare, I have my lips on her nipple and I’ve made her do the
+asking” (“These Waves of Girls…”). These excerpts establish the
+reader’s agency and the novel’s fragmentary structure from the outset
+of the novella. Because the chapters are unnumbered, the reader must
+determine how to proceed through the sections of the novella by making
+decisions about which to read first. These previews function to entice
+the reader to click through to read the rest of that section. And
+while the table of contents hints at the existence of an underlying
+structure to the narrative, that structure also reveals itself to be
+founded on fragments. In this way, the reader’s first encounter with
+the text portends that she may never get the whole story, yet
+encourages her onward.
+
+In fact, as this semblance of narrative organization all but
+disappears beyond the table of contents, it becomes increasingly clear
+that the reader fully controls the order of nodes. After progressing
+from the navigation page, the reader’s options multiply exponentially,
+and these options compete for the reader’s selection. In order to
+proceed through the text, the reader is forced to decide from the
+abundance of choices. On this particular node, reached from the “I
+want her” chapter title on the table of contents, hyperlinks run up
+and down the left side of the screen and populate the main
+text. Clicking through the first link in the main text, “Jennie,” the
+reader reaches a node with nine links. Again, how does she choose to
+proceed among these links? According to Barthes, the text of bliss
+wants to be read: “the text you write must prove to me that it desires
+me” (6). In deciding between the links that vie for her attention, the
+reader may follow her own impulsivity (she may simply click on the
+first link she sees, as she did on the previous page) or her interest
+in the word being linked. The node tells a story about Jennie and
+Tracey engaging in adolescent sexual exploits at summer camp. The
+links on this page include “been to that campground,” “It's grade 10,”
+“in my head I imagine a desperate love triangle,” “her hand under my
+shirt,” “the s l o w movements of Jennie's fingers,” “a dyke -- I know
+it -- but she won't do anything about it -- can't -- frozen,” “Close
+the lights,” “We try not to move too much, too loudly,” and “attended
+camp” (“Jennie only attended…”). At every node, the text proves again
+and again that it desires her. The reader may decide to read through
+this page, or read only a portion of the page, and interrupt her
+progress to click on a link. Or the reader may forgo reading this page
+altogether, and follow another link to a wholly new page. Either way,
+she makes a decision in order to proceed, and her decision determines
+the order of each node’s appearance. The text of bliss wants to be
+read, and the reader must decide how. By assembling the node into a
+specific order, the reader organizes the text of bliss according to
+the unique path that she chooses.
 
 
 ** in DH: data is cooked
@@ -717,7 +993,7 @@ transformation. Complexity is reduced to whatever quality the
 visualization apparently requires. To illustrate this reduction,
 Drucker presents a chart displaying the amount of books published over
 several years. The chart appears to convey production during this
-specific time period[fn:3], but Drucker explains that publication date
+specific time period[fn:5], but Drucker explains that publication date
 is an arbitrary metric for capturing production. She brings to the
 surface all the assumptions made in such a metric, for example, the
 limitations of "novel" as a genre and the connotations behind
@@ -751,7 +1027,7 @@ what Love says about queer subjectivity and experience being beyond
 the reaches of the critic. Drucker makes evident what is overlooked or
 assumed when dealing with complex subjects. She places those elements
 there, for all to see, in a way that muddles (rather than
-simplifies[fn:4]) the relationship between them. She does try to
+simplifies[fn:6]) the relationship between them. She does try to
 figure these elements, but not in a way that attempts to clarify or
 resolve their complexity. Rather, like Love, she works on the “image
 of exile, of refusal, even of failure” (Love 71).
@@ -885,7 +1161,7 @@ out something entirely different with the slightest tweaking”
 (629). Her emphasis on the “reproducible” in CLS extends one of
 distant reading early champion's originating call for a “falsifiable
 criticism”: both advocate for a methodology that is as reliable and
-verifiable as the social sciences[fn:5]. The interesting detail in her
+verifiable as the social sciences[fn:7]. The interesting detail in her
 critique is the insinuation in /reproducible/ that somehow analysis is
 something that can exist outside of human performance/activity/error.
 
@@ -1178,8 +1454,13 @@ with reference.
 ** MISC 
 
 
-
-*** within our bodies
+*** Defining queer, Amin on historicizing through affect
+queerness manifests as an affective relation between the
+subject and desired object. Kadji Amin defines queer as "fundamentally
+affective... a matter of sensing a resonance between one's object of
+study and the inchoate cluster of feelings that inhabit and animate
+the term queer" (173).
+*** Reading touching: within our bodies
 This point bears repeating---we are always stuck within the bodies of
 our thinking. As such, we might as well turn to ourselves, to explore
 (rather than how things are in the world) how things are /to
@@ -1232,6 +1513,10 @@ Caldwell, Kelly. "The Torment of Queer Literature," /The Rumpus/. 2018.
 Love, Heather. /Feeling Backward: Loss and the Politics of Queer
 History/. 2009.
 
+Pope, James. "Where do we Go from Here? Reader’s Responses to Hypertext Fiction:
+Narrative Structures, Reading Pleasure and the Impact of Interface Design." Convergence 16.1 (2010): 75-94. Print.
+
+
 Wallis, Brian. “Black Bodies, White Science: Louis Agassiz's Slave
 Daguerreotypes.” /American Art/, vol. 9, no. 2, 1995, pp. 39–61. JSTOR,
 www.jstor.org/stable/3109184.
@@ -1239,40 +1524,41 @@ www.jstor.org/stable/3109184.
 
 * commands
 c-c c-x f => create a new footnote
-c-u c-c c-x f then select s => sort footnotes
+c-u c-c c-x f then select s => renumber footnotes
 
 block quotes: #+BEGIN_QUOTE & #+END_QUOTE
 
-
 * Footnotes
 
-[fn:7] Amin, Kadji, Amber Jamilla Musser, and Roy Pérez “Queer Form:
+[fn:1] Digital computation runs on data in the form of these numerical
+digits, even though computer language, at the most rudimentary level,
+is based on a binary counting system, on ones and zeroes. (quote or
+citation to Code: the hidden language of computer hardware and
+software)
+
+[fn:2] Schutte, Ofelia. “Cultural Alterity: Cross-Cultural
+Communication and Feminist Theory in North-South Contexts.” Hypatia,
+vol. 13, no. 2, 1998, pp. 53–72. www.jstor.org/stable/3810637.
+
+[fn:3] Amin, Kadji, Amber Jamilla Musser, and Roy Pérez “Queer Form:
 Aesthetics, Race, and the Violences of the Social” ASAP/Journal,
 Volume 2, Number 2, May 2017, pp. 227-239: “Form informs queerness,
 and queerness is best understood as a series of relations to form,
 relations not limited to binary and adversarial models of resistance
-and opposition” (228). 
+and opposition” (228).
 
-[fn:6] Schutte, Ofelia. “Cultural Alterity: Cross-Cultural
-Communication and Feminist Theory in North-South Contexts.” Hypatia,
-vol. 13, no. 2, 1998, pp. 53–72. www.jstor.org/stable/3810637.
+[fn:4] Rita Felski? and Eve Kosofsky Sedgwick.
 
-[fn:1] Amin, Kadji. "Haunted by the 1990s:
-Queer theory's affective histories." WSQ: Women's Studies
-Quarterly:44.3 (2016): 173-189.
-
-[fn:2] Rita Felski? and Eve Kosofsky Sedgwick.
-
-[fn:3] Drucker implicitly refers to the first chapter from Franco
+[fn:5] Drucker implicitly refers to the first chapter from Franco
 Moretti's /Graphs, Maps, Trees/ (2007), throughout which Moretti
 graphs novels by their publication date between 1700 and 2000 and
 draws conclusions about the relationship between genre and generations
 of readers.
 
-[fn:4] Moretti: "'Distant reading'... where distance is however not an
+[fn:6] Moretti: "'Distant reading'... where distance is however not an
 obstacle but /a specific form of knowledge" (1).
 
-[fn:5] According to Franco Moretti: “Testing” literary interpretations
+[fn:7] According to Franco Moretti: “Testing” literary interpretations
 be the same process as in scientific disciplines -- demanding that
 interpretations are “coherent, univocal, and complete,” and are tested
 against “data” that appears to contradict it (/Signs/ 21). “The day
@@ -1281,5 +1567,9 @@ element in the following way,’ to replace it with the much more
 prosaic, ‘the following interpretation is impossible for such and such
 a reason,’ it will have taken a huge step forward on the road of
 methodological solidity” (/Signs/ 22).
+
+[fn:8] Amin, Kadji. "Haunted by the 1990s:
+Queer theory's affective histories." WSQ: Women's Studies
+Quarterly:44.3 (2016): 173-189.
 
 

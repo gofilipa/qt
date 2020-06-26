@@ -1,9 +1,9 @@
 * Chapter One Brainstorm
 
 ** Rough outline for chapter:
-- touch as a reading method: making & opening connections
+- touch as a reading method: abstracting the senses for connection
   - touch as an intersection for queerness and DH
-- queerness as untouchable: something we cannot fully grasp
+- the state of queerness as untouchable, not fully grasped
   - paranoid/suspicious reading 
   - dangers of replication, recovery 
   - on being untouchable, estranged 
@@ -63,14 +63,19 @@ to play, experiment, and imagine new connections to the textual
 object.
 
 
-** A new way of reading--guided by touch
-- Touch is the first connection between queerness and the digital.
-- Queerness can be defined as /a desire for touch/. 
+** A new way of reading--guided by touch 
 
 *** touch, reading: Anzaldua and Sedgwick
 
 Touch is the first site of connection between the queer and the
-digital. 
+digital. Digital and Queer both abstract that which is untouchable
+into sensual forms. 
+
+Queerness can be defined as /a desire for touch/ that is
+frustrated. Yet in being frustration, it opens other avenues of
+connection (Confessions).  
+
+The digital shows how frustration works at the level of narrative (Waves).
 
 Anzaldua shows how touch is a way of preventing conflict.
 
