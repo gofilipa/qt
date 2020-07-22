@@ -1,10 +1,12 @@
 * Chapter One Brainstorm
 
 ** Rough outline for chapter:
-- touch as a reading method: abstracting the senses for connection
-  - touch as an intersection for queerness and DH
-- the state of queerness as untouchable, not fully grasped
-  - paranoid/suspicious reading 
+- touch as a reading method: abstracting & amplifying the senses
+  - queerness is not yet here, activating the senses. 
+- the state of queerness as desiring touch but untouchable
+  - disidentity emerges in the clash of affects
+  - incommensurability is central to queer dis-ID
+  - paranoia attempts to resolve incommensurability 
   - dangers of replication, recovery 
   - on being untouchable, estranged 
   - the incommensurable 
@@ -63,211 +65,144 @@ to play, experiment, and imagine new connections to the textual
 object.
 
 
-** A new way of reading--guided by touch 
+** intro to touch as reading method 
+This section establishes the condition of being continually thwarted,
+frustrated, eluded, as an affect of suspension or displacement that is
+central to the experience of queerness, an affect called the
+"untouchable."
 
-*** touch, reading: Anzaldua and Sedgwick
+*** touch intersects queer and digital, abstracting sense
+At the intersection of queerness and the digital, touch operates by
+abstracting its object through the intermediary of the sensible. This
+process of abstraction compensates for the core condition of
+queerness, which is untouchable, unknowable, and inexpressible.
 
-Touch is the first site of connection between the queer and the
-digital. Digital and Queer both abstract that which is untouchable
-into sensual forms. 
+*** /Waves/: queerness (story) is frustrating closure, eluding touch
+The reader’s confusion in navigating through /Waves/ relates to the
+work’s central theme of narration as seduction, piquing the reader's
+interest in the story, propelling her through hyperlinks across the
+various nodes, and repeatedly frustrating her desire for closure or
+resolution, in a way that reinforces an approach toward queerness as
+something elusive, a process that will never be complete.
+ 
+*** Munoz's queerness as lack
+Because queerness is "not yet here," it calls for something else,
+expanding sensibility of feeling to include sensations beyond the
+immediate, the readily sensible.
 
-Queerness can be defined as /a desire for touch/ that is
-frustrated. Yet in being frustration, it opens other avenues of
-connection (Confessions).  
-
-The digital shows how frustration works at the level of narrative (Waves).
-
-Anzaldua shows how touch is a way of preventing conflict.
-
-Sedgwick shows that touch is a way of multiplying connection. 
+*** /confessions/: queerness and the denial of touch
+In /Confessions/, maintaining the gap between sight and touch
+stimulates the senses beyond what's possible within normative
+expectations of sexual desire.
 
 
-** Queerness as untouchable: Resisting overreading
--  Paraonoia only delivers results that are imaginable within the
-current knowledge structures. We see the harm of paranoia in biology
-and history, in the project to recover slave history. Recovery and
-science create a system that predetermines the results. 
-- this is related to queerness, which is a desire for touch, a desire
-cannot be satisfied, redeemed, violated. There is something ineffable,
-inaccessible, inviolable in queerness. The state of queerness is
-incommensurable. 
+** the problem: queerness as untouchable, overreading
+This section deconstructs the state of queerness as being
+untouchable. We cannot capture, grasp, or access queerness, and we
+look into methods of reading that try to ascertain truth or verify
+facts. We conclude here that the proper position is hesitation,
+restraint---touching at a distance.
 
-*** Sedgwick on paranoid v reparative reading 
-paranoia predetermines the answers we get from inquiry. 
+*** TODO draft estrangement as central to queerness
+“Editor’s Introduction”: Queering Archives, Intimate Tracings, 2015:
+The estrangement that continually happens with dealing with
+queerness. Estrangement from yourself, the materials, and others.
 
-*** paranoia and replication
-paranoia is more part of a scientific/historical impulse, which effectively
-reproduces the dominant knowledge structures. 
+“Estrangement” --- the torment of queer literature -- the pain of not
+identification but of not identifying. Of reading the text and finding
+and not finding yourself in the pages.
 
-the issue with scientific tools like photography and observation is
-that they tend to only replicate the observer's position. 
+*** TODO refine DisID points to the incommensurable: schutte 
+Minority subjects struggle to be read into majoritarian systems of
+identification, and rather experience disidentification, which
+manifests as a choque, a collision of feelings, revealing an
+incommensurable element, which cannot be resolved or verified.
 
-*** the useless project of recovery: lowe
-The analogy with the historian's plight in recovering an archive of
-slavery where none is present. 
+*** TODO draft reading tries to resolve incommens: Amin & Musser
+The illusion that we can gain sufficient knowledge into queer
+experience, that such experiences are “commensurable,” drives certain
+reading practices that critics describe as “paranoid” or “suspicious.
 
-Recovery is impossible within the terms (language) of the dominant
-culture. One solution is hesitation.
+*** TODO revise paraonoia: sedgwick
+Paranoid reading practices deliver results that are imaginable within
+given knowledge structures, and close out other opportunities for
+analysis.
 
-the solution to paranoia is critical distance, awareness. 
+*** TODO draft Scott & Kazanjian on overreading
+the way that literary critics approach vision vs other fields
+
+*** Paranoia and replication: haraway
+We find parallels in epistemological methods from disciplines of
+science (anthro) in which paranoia replicates assumptions. 
+
+*** TODO add Barad on replication / representationalism
+Barad makes a point about sciences being driven by replication. My
+inquiry intersects with feminist scientific efforts
+
+*** TODO refine paranoia and recovery: hartmann
+For the historian of slavery, recovery is impossible within the terms
+(language) of the dominant culture---schutte's incommensurability:
+language cannot approximate the reality of experience.
 
 *** Heather Love's queerness as failure, impossible
+For Love, identification is about finding the moment when the subject
+turns away: "Queer history has been an education in absence" (50.)
+This moment of turning away characterizes queerness as something raw,
+which cannot be captured.
+
+*** TODO revise hesitation, critical distance is necessary: lowe
+To avoid paranoid methods we develop a critical distance, we turn to
+the ways that "touch" can be distanced. 
+
+*** TODO revise the dimensions of touch: anzaldua
+The challenge is to regain touch without resolving it, to touch
+without presuming full connections.
+    
+*** TODO refine /feeling backward/ as touching at a distance
 Love offers a model of "feeling backward" which is a way for critics
 to connect with queer subjects in a way that keeps objects out of the
-critic's reach. For Love, identification is about finding the moment
-when the subject turns away: "Queer history has been an education in
-absence" (50.) This moment of turning away characterizes queerness as
-something raw, which cannot be captured.
-
-*** Ann Cvetkovitch's trauma is public, archives are affective. 
-
-Cvetkovitch shows how affirming queer negativity, in trying to
-recusitate bad feelings, can actually create more harm. She is good at
-recognizing that some things cannot be figured, while expanding the
-archive
-
-Critique: the critic goes too far in making assumptions about the
-healing potential of public acts of queer trauma. The critic is not a
-psychologist, trauma still kills people, those traumatized need to
-seek treatment. The point isn't heal or recuperate queer suffering,
-this can never be done through abstraction, not by the critic. The
-point is to examine the ways that queerness is figured through
-abstraction--I think? We do not say whether these things are
-healing. All we can deal with is the data that we are given.
-
-*** ofelia schutte and the incommensurable
+critic's reach. 
 
 
-** abstraction, formalization, opacity: Queer Form
-- there is something ineffable, inaccessible, inviolable in
-queerness. The construction of the queer subject is opaque. Formal
-experiments to present a self that is multiple, fragmented,
-unreachable. We can only play with the pieces.
-- The harm of paranoia comes from a subject/object divide, where one
+** solution: abstraction, formalization, opacity
+The harm of paranoia comes from a subject/object divide, where one
 takes control/dominance over the other. But what if we found
 alternative ways of making connections? This involves play and
 speculation. It involves /formalizing what cannot be touched/ into a
 touchable format. Playing with vantages, provisionality, performance!
 
+*** TODO refine reparative reading is active
+looking at reading as reparative opens up the way we understand
+epistemology as about movement and performance, rather than
+knowledge. 
 
-And the emergent quality is visible in form, in opacity, in
-abstraction of queerness and queer experience. 
+*** TODO cut Waves on movement
+As I follow this disorienting narrative, I similarly enter into cycles
+of desire and frustration. This affective reaction is only possible
+through the formal structure of the narrative. 
 
-*** reparative reading is active
-knowledge as /active/, as performative, opens up
-the critical process to one that is mobile and and speculative rather
-than suspicious. Moreover, it draws attention to the ways that
-knowledge is embodied, with all the surprises and discoveries that
-embodiment entails. 
-
-The question then becomes, how might we pursue criticism that does not
-reproduce our own assumptions? 
-
-Eve Kosofsky Sedgwick has explained how /reading/ can be either
-liberatory or relational. Which is to say it can be a tool for closing
-or opening further readings. Sedgwick critiques Michel Foucault for
-contributing to a model of "suspicious reading:" an approach that
-mines a text for what is hidden, latent, or just beneath the
-surface. Foucault's "repressive hypothesis" posits that discourse on
-sexuality has been 
-
-"I have tried in this project to explore some of the ways around the
-topos of depth or hiddenness, typically followed by a drama of
-exposure, that has been such a staple of critical work of the past
-four decades" (/Touching Feeling/, 8). 
-
-*** scott's evidence of experience
-talking about different ways of seeing
-
-*** queerness as emergent (munoz)
-*** hartman, lowe, arondekar on recuperating absence
-
-"The critical challenge is to imagine a practice of archival reading
-that incites relationships between the seductions of recovery and the
-occlusions such retrieval mandates. By this I mean to say: What if the
-recuperative gesture return us to a space of absence? How then does
-one restore absence to itself? Put simply, can an empty archive also
-be full?" (1). 
-
-Hartmen's "critical fabulation"
-
-
-The archivist must work within the discrepancy between reality and the
-historical record. Hartman's goal is "to expose and exploit the
-incommensurability between the experience of the enslaved and the
-fictions of history... the requirements of narrative, the stuff of
-subjects and plots and ends" ("Venus" 10).
-- "This double gesture can be described as straining against the
-  limits of the archive to write a cultural history of the captive,
-  and, at the same time, enacting the impossibility of representing
-  the lives of the captives precisely through the process of
-  narration" ("Venus" 11).
-*** QOC critique and aesthetics
-
-
-
+*** TODO draft QPOC on opacity, recuperating absence
+Hartmen's "critical fabulation" & Amber Musser's "surface aesthetics":
 POC theorists have shown us how subjectivity is never quite
-attainable.
+attainable, exists on a surface level. 
 
-Amber Musser's "surface aesthetics": Reading the "surface" to present
-a self that is plural and opaque, inaccessible and excessive.
-  - Writing on photographs of Billy Holiday. How these show a
-    "surfacea esthetics" that "highlights the mutability of the flesh
-    rather than interiority" (par. 11).
-  - "we can understand surface as the underside of the
-    scientific/pornographic drive toward locating knowledge in an
-    “objective” image" (par. 2)
+*** TODO add Confessions on opacity
+the marbled page as an example of what cannot be said. Formal
+experiments to present a self that is multiple, fragmented,
+unreachable. We can only play with the pieces.
+*** TODO revise invisibility is good, allows queers avoid being seen
+As disidentified, queer subjects remain outside of the confines of the
+visible. To gain visibility within the dominant system only reproduces
+visibility within the terms of that system. 
 
-An image of Billy Holiday "shows us surface aesthetics in its emphasis
-on shine" (par. 1).
-  - "many of the elements that shine—--pearls, eye shadow, and
-    lipstick--—decorate or cover Harris’s body. They alter its surface and
-    also make a spectacle of these superficial alterations. Taken
-    together these attributes emphasize the ways that surface hints at
-    the pleasures of opacity" (par. 2)
-  - "Shine also complicates matters because of the way that it is
-    imbricated in representations of blackness...Shine distracts from
-    the mandate of transparency and mobilizes hypervisibility—-the
-    cover of surface—-so that interiorities remain opaque... so that
-    blackness is spectacular, but not knowable" (par. 3).
-  - "these versions of self-portraiture go beyond mere representation
-    and mark *creative forms of expressivity that reveal forms of self
-    that exceed capture*...The force of Billie #21, then, emerges in
-    our recognition that the photograph is explicitly not revealing
-    Harris’s interiority, but that it instead illuminates the
-    possibility of reading Harris as a plural self both in relation to
-    Holiday through his performance of citation and in relation to the
-    otherness of himself that he summons" (par. 6)
-
-*** Alternative readings, speculation is necessary
-David Kazanjian, “Scenes of Speculation,” Social Text 33:4 (2015),
-77-84.
-
-“I was initially frustrated by the relentless quotidiana of the
-archives” (78). One way to deal with this is to read for descriptive
-content, who what when where why. Another way would be to read it as a
-theoretical document, “that speculate upon its own conjectures”
-(79). Helps us to complicate liberal conceptions of freedom, the
-progress from slavery to freedom, citizenship is desirable,
-etc. “Speculative thought” 
-
-The letter is “sounding its way”: Alliteration, Drawing from biblical
-and oral literacy
-
-The charge of “overreading” -- the idea that we are attributing a
-contemporary meaning to a historical text. This presumes a strict
-separation between historically contextualized reading and ahistorical
-reading, saying that we can read as if we are in the same situation as the writer.  Kazanjian calls for overreading “for scenes of speculation”  When we make historicist readings, we end up “making theoretical claims about the who in question, claims that imply or assert a theory of the subject”, in which they have a self-conscious will or desire (81). Every historicist reading is implies a level of imposition by the reader. 
-
-Kazanjian suggests that we attend less to the wills, desires, and
-voices of historical subjects and more to the textual traces which invite speculative work.  “Unfinished recovery [of the archives] is the very condition of possibility for their ongoing interpretation” (83). 
-→ what are we trying to solve? 
-
-*** Toward a Queer Form
+*** TODO draft Toward a Queer Form
 Writing the self is connected to form. Always. The form is
 multiple. The form makes subjectivity opaque, but in the act of
 abstraction, making it opaque, we can touch it and play around with
 it. 
+
+*** TODO draft Frontera on vitality
+the book as living and structured -- we are touching an abstraction
 
 
 ** The problem: Data as always cooked
