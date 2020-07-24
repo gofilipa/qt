@@ -49,7 +49,8 @@ ontological). We see these examples in /voyant-tools/, /these waves
 of girls/, and /the orlando project/(?). 
 
 
-** intro touch via Rosenberg, Fischer, Munoz, Anzaldua
+
+** intro touch via Rosenberg, Fischer, Anzaldua
 *** touch intersects queer and digital, abstracting sense
 
 If digital humanists and queer theorists are going to find some common
@@ -286,6 +287,7 @@ possible within normative expectations of sexual desire. The condition
 of being continually thwarted gestures at an affect of suspension or
 displacement that is central to the experience of queerness, an affect
 that we will now explore in depth, which we call the "untouchable.
+
 
 
 ** the problem: queerness as untouchable 
@@ -1016,6 +1018,7 @@ existential negativity can be read as an embodied phenonmenon, as “a
 social experience insistently internalized and corporeal” (108).
 
 
+
 ** solutions: abstraction, formalization, opacity
 *** TODO refine reparative reading is active
    
@@ -1350,7 +1353,39 @@ it is alive, infused with spirit. I talk to it; it talks to me. (66-67
 #+END_QUOTE
 
 
-** in DH: raw data is untouchable u
+
+** on reproducible criticism
+*** TODO add history of computing shows non-neutrality of tools
+The way that computers are build/made is to perpetuate whiteness, the
+status quo. 
+**** Rosenzweig, Roy. “Wizards, Bureaucrats, Warriors, and Hackers:
+Writing the History of the Internet.” The American Historical Review,
+vol. 103, no. 5, 1998, pp. 1530–1552. JSTOR,
+www.jstor.org/stable/2649970.
+
+“The rise of the Net needs to be rooted in the 1960s-in both the
+"closed world" of the Cold War and the open and decentralized world of
+the antiwar movement and the counterculture. Understanding these dual
+origins enables us to better understand current controversies over
+whether the Internet will be "open" or "closed"-over whether the Net
+will foster democratic dialogue or centralized hierarchy, community or
+capitalism, or some mixture of both” (1531). 
+- Packet switching networks to counteract against the division and
+decentralization that a nuclear strike could create. 
+
+“By spotlighting ARPA, Norberg and O'Neill emphasize what Hafner and Lyon sometimes obscure-the close connection of all ARPA computer funding to military concerns. Calling their concluding chapter "Serving the Department of Defense and Nation," they celebrate rather than downplay that link. They point out, for example, that ARPA only set up the IPTO in 1962 in response to pressure from the Kennedy administration for improved military command and control systems.16 Computers, it was widely believed, would make it possible to "control greater amounts of information and to present it in more effective ways to aid decision making” (1535).
+Bob Kahn creating TCP/IP and “internetting” in order to connect different kinds of networks like satellites and radios.
+“Computers created the technological possibility of the Cold War and shaped computer technology” (1538). 
+“By placing the rise of the Internet within the 1960s-as-counterculture and the 1960s of the antiwar movement, Crocker and the Haubens suggest an alternative contextual frame to that emphasized by Edwards, who puts the rise of digital computing (and implicitly the Internet) solely within the Establishment 1960s of the Vietnam War and the Cold War.” (1545).
+“Ironically, while the Department of Defense had very different goals in mind-and often tried to implement them by, for example, restricting access to the APRANET or to what it could be used for-its willingness to embrace the open technical standards embodied in TCP/IP inadvertently sparked the creation of a remarkably open system” (1549)
+“By the 1980s (and especially by the 1990s), moreover, many of the people who had celebrated the freedom and openness of networks and personal computers had also undergone a transformation that made them inclined to accept this privatiza- tion. The affection of many "Netizens" for free speech and freedom from control had also come to embrace a love for free markets. The liberationism of the many early computer and network enthusiasts had been transformed into libertarianism.” (1550)
+“Web search companies, which are seen as the portals to the Internet, are busily gobbling each other up or being acquired by larger media conglomerates. Bill Gates's Microsoft Corporation has a pretty good chance of controlling not only all of the personal computers from which people access the Internet but also the browsers through which they read pages on the World Wide Web. And Intel Corporation is poised to be the manufacturer of choice for the chips at the heart of those computers.” (1551)
+    
+**** Ruha Benjamin & Alondra Nelson on surveillance?
+Nelson and Benjamin both talk about how the digital is predisposed toward presenting whiteness as invisible, universal, disembodied. (this follows from conceptions of the posthuman which prioritize intelligence over embodiment). Whiteness does not hold weight, it is not marked per se. Blackness is what stands out, gets marked, gets computed according to arbitrary metrics. It is computed to be poorer, more criminal, less qualified. 
+
+*** TODO revise Underwood's models as object of study
+
 As a mode of relationality, "Feeling Backward" not presume a full
 connection between the critic and subject, keeping the subject at arms
 length. It approaches queerness as something receding, even when the
@@ -1364,57 +1399,6 @@ wrenched from the reality of lived experience, and necessarily reduced
 to fit whatever environs required by analysis. Even if they are
 careful about approaching data as constructed, however, they take
 vastly different routes in handling the results of their analysis.
-
-*** Drucker's skewing the graphs
-
-Johanna Drucker argues that quantification techniques (such as
-visualizations in graphs and charts) actually misrepresent the data
-they are meant to convey. Drucker explains that, in order to place
-this data on a graph or chart, it undergoes a
-transformation. Complexity is reduced to whatever quality the
-visualization apparently requires. To illustrate this reduction,
-Drucker presents a chart displaying the amount of books published over
-several years. The chart appears to convey production during this
-specific time period[fn:5], but Drucker explains that publication date
-is an arbitrary metric for capturing production. She brings to the
-surface all the assumptions made in such a metric, for example, the
-limitations of "novel" as a genre and the connotations behind
-"published," which suggests date of appearance, but has no indication
-of composition, editing, review, distribution. Drucker reminds us that
-each piece of data carries with it the result of many interpretive
-decisions, which carry with them varying degrees of opacity. These
-interpretations ("reductions") are necessary in order to present
-complex concepts like book production as a bar on a chart. Drucker
-explains: "the graphical presentation of supposedly self-evident
-information (again, formulated in this example as “the number of
-novels published in a year”) conceals these complexities, and the
-interpretative factors that bring the numerics into being, under a
-guise of graphical legibility" (Drucker par. 23).
-
-To resist the reductions of "data," a term that connotes that which is
-"given," Drucker proposes "capta," to suggest the act of being taken
-and transformed. Drucker's "capta" is deliberately creative, turning
-graphical expressions into expressive metrics: components used for
-measurement, like lines or bars on a graph, break or are fuzzy and
-permeable. Objects are not discrete entities, but interact with the
-other objects in the visualization. For example, in a bar graph of
-book publications/year, she warps the bars on the graph, making some
-of them fuzzy, wider, shorter, in an attempt to show that publication
-as a metric elides other information such as composition, editing,
-purchasing, etc.
-
-This activity is a way of figuring elements that have been reduced,
-resolved, or ignored in traditional quantitative analysis. It evokes
-what Love says about queer subjectivity and experience being beyond
-the reaches of the critic. Drucker makes evident what is overlooked or
-assumed when dealing with complex subjects. She places those elements
-there, for all to see, in a way that muddles (rather than
-simplifies[fn:6]) the relationship between them. She does try to
-figure these elements, but not in a way that attempts to clarify or
-resolve their complexity. Rather, like Love, she works on the “image
-of exile, of refusal, even of failure” (Love 71).
-
-*** Ted Underwood's models as object of study
 
 Ted Underwood and other literary critics doing Computational Literary
 Studies (CLS) approach their data with vastly different
@@ -1507,14 +1491,14 @@ or as a /multiplication/ of gender identities that made the binary
 opposition between masculine and feminine increasingly irrelevant to
 characters' plural roles" (140).
 
-*** Critique of reproducibility
+**** TODO add Mandell on gender as social construction
+*** TODO revise nan Z da on reproducibility
 The criterion of reproducibility is deployed as a benchmark for
 reviewing and assessing the efficacy of digital quantitative
 methods. Despite their vastly different committments and methods,
 scholars like Underwood can be compared to Nan Z. Da, Sari Altschuler
 and David Weimer for the ways they place value on reproducibility.
 
-*** nan Z da on reproducibility
 In a controversial peice about text analysis, Nan Z. Da critiques
 Computational Literary Studies (CLS) for its irrelevance to literary
 criticism. Da explains that results from quantification do one of two
@@ -1554,7 +1538,7 @@ same experiences and investments. Moreover, it suggests that there is
 a /correct/ answer to literary critical questions, as if literature is
 a problem that needs to be solved.
 
-*** Altschuler and Weimar
+*** TODO draft Altschuler and Weimar
 
 This notion extends to digital humanist practitioners. 
 
@@ -1594,14 +1578,67 @@ Clement.
 In this view, digital becomes a means of optimization, efficiency,
 total knowledge and understanding.
 
+*** TODO refine Drucker's skewing the graphs
+
+Johanna Drucker argues that quantification techniques (such as
+visualizations in graphs and charts) actually misrepresent the data
+they are meant to convey. Drucker explains that, in order to place
+this data on a graph or chart, it undergoes a
+transformation. Complexity is reduced to whatever quality the
+visualization apparently requires. To illustrate this reduction,
+Drucker presents a chart displaying the amount of books published over
+several years. The chart appears to convey production during this
+specific time period[fn:5], but Drucker explains that publication date
+is an arbitrary metric for capturing production. She brings to the
+surface all the assumptions made in such a metric, for example, the
+limitations of "novel" as a genre and the connotations behind
+"published," which suggests date of appearance, but has no indication
+of composition, editing, review, distribution. Drucker reminds us that
+each piece of data carries with it the result of many interpretive
+decisions, which carry with them varying degrees of opacity. These
+interpretations ("reductions") are necessary in order to present
+complex concepts like book production as a bar on a chart. Drucker
+explains: "the graphical presentation of supposedly self-evident
+information (again, formulated in this example as “the number of
+novels published in a year”) conceals these complexities, and the
+interpretative factors that bring the numerics into being, under a
+guise of graphical legibility" (Drucker par. 23).
+
+To resist the reductions of "data," a term that connotes that which is
+"given," Drucker proposes "capta," to suggest the act of being taken
+and transformed. Drucker's "capta" is deliberately creative, turning
+graphical expressions into expressive metrics: components used for
+measurement, like lines or bars on a graph, break or are fuzzy and
+permeable. Objects are not discrete entities, but interact with the
+other objects in the visualization. For example, in a bar graph of
+book publications/year, she warps the bars on the graph, making some
+of them fuzzy, wider, shorter, in an attempt to show that publication
+as a metric elides other information such as composition, editing,
+purchasing, etc.
+
+This activity is a way of figuring elements that have been reduced,
+resolved, or ignored in traditional quantitative analysis. It evokes
+what Love says about queer subjectivity and experience being beyond
+the reaches of the critic. Drucker makes evident what is overlooked or
+assumed when dealing with complex subjects. She places those elements
+there, for all to see, in a way that muddles (rather than
+simplifies[fn:6]) the relationship between them. She does try to
+figure these elements, but not in a way that attempts to clarify or
+resolve their complexity. Rather, like Love, she works on the “image
+of exile, of refusal, even of failure” (Love 71).
+ 
+
+*** TODO add the intersection btw queer & digit
+The "desire for touching," without being able to fully touch, as the
+definition of queerness, is also where the digital and queer
+intersect. Digital media creates the illusion that we have access to
+data, to information, but all we have access to is a *formalized*
+relationship to that data. We encounter the digital object through
+mediation, through an interface, mice, GUIs, keyboards, etc.
 
 
-** Paralleling Queer & DHers looking for alternative readings
-*** Case in point: klein's figuring the absence
-Draw Klein and Hartman together---this is what I want to do for Queer
-texts. 
 
-** Performativity
+** TODO Value: Performativity/Movement
 Digital formats and interfaces facilitate queer encounters methods, an
 intimate process of engaging with literature on a computer, where
 users can manipulate and transform text.
@@ -1656,39 +1693,20 @@ a formal displacement that uses electronic media to re-organize,
 re-structure and display the story in the way we encounter it.
       
 
-** Vantanges
+
+** TODO Value: Vantanges/Opacity
 *** Klein, Mandell, Caughie, Gaboury
 *** Against totalization
 *** The visible and the invisible, opting out 
 
     
-** Provisionality 
+
+** TODO Value: Provisionality/Indeterminacy
 
 *** Susan Brown's provisionality
 *** Julia Flander's work on Orlando
 *** Against stability 
 
-
-** Digital projects based on text manipulation: 
-I find that the haptic and exploratory activity of working with these
-tools enlivens the reading process by allowing the reader to play,
-experiment, and imagine new connections to the textual object.
-
-*** /Voyant-Tools/
-Jerome McGann "prosthetic extensions"
-Potential texts: Woolf's /Orlando/. 
-
-- Interweave a narrative about touch. Taking new materialist ideas but
-placing them within context of QPOC critiqe. Anzaldua and Bennet on
-touch and severing. Sarah Ahmed too. 
-
-*** /These Waves of Girls/
-Following narrative desire. The click of the mouse allows readers to
-move with the text, based on their own paths. 
-
-*** what are some print texts that enact these principles of movement?
-- Alison Bechdel's "Are You My Mother": where every page is vibrating
-with reference. 
 
 
 ** MISC 
@@ -1821,6 +1839,22 @@ emotion in data visualization – help us learn, remember, and
 communicate with data?" (Klein and D'Ignazio, /Data Feminism/,
 chapter 2)
 
+*** /Voyant-Tools/
+Jerome McGann "prosthetic extensions"
+Potential texts: Woolf's /Orlando/. 
+
+- Interweave a narrative about touch. Taking new materialist ideas but
+placing them within context of QPOC critiqe. Anzaldua and Bennet on
+touch and severing. Sarah Ahmed too. 
+
+*** /These Waves of Girls/
+Following narrative desire. The click of the mouse allows readers to
+move with the text, based on their own paths. 
+
+*** what are some print texts that enact these principles of movement?
+- Alison Bechdel's "Are You My Mother": where every page is vibrating
+with reference. 
+
 
 * Works Cited
 Caldwell, Kelly. "The Torment of Queer Literature," /The Rumpus/. 2018.
@@ -1841,6 +1875,7 @@ c-c c-x f => create a new footnote
 c-u c-c c-x f then select s => renumber footnotes
 
 block quotes: #+BEGIN_QUOTE & #+END_QUOTE
+
 
 * Footnotes
 

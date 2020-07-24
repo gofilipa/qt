@@ -1,0 +1,44 @@
+7.24.2020
+
+When tried to run `bundle exec Jekyll serve` got the errors:
+
+rubyzip-2.0.0 requires ruby version >= 2.4, which is incompatible with the current version, ruby 2.3.7p456
+
+So I realized I needed to update my ruby. First I decided to use rbenv (which is a ruby environment manager(?) that's recommended on many forums for managing ruby installs). On this page https://wilsonmar.github.io/ruby-on-apple-mac-osx/ I found the relevant commands to install using rbenv. This is all in the terminal, and the hashtags indicate my comments (not things to type!!) and the dollar signs indicate things to type:
+
+# first get ruby version
+$ ruby --version
+
+# then install ruby 2.7.1 using rbenv
+# if don't have rbenv, type $ brew install rbenv
+$ rbenv install 2.7.1
+
+# wait a while for it to install, then make it global
+$ rbenv global 2.7.1
+
+# check version again
+$ ruby --version 
+
+# still getting the 2.3 version, very annoying
+# so figuring out where ruby lives on my Mac
+$ which ruby 
+
+# returns usr/local/bin --- the default 2.3 version
+# so we need to change the path, to make sure ruby finds the correct place
+# ruby 2.7 exists. It's `/usr/local/opt/ruby/bin`, so we add this to PATH
+$ echo 'export PATH="/usr/local/opt/ruby/bin:$PATH"' >> ~/.bash_profile
+
+# now we close and restart our terminal, checking ruby version
+$ ruby --version
+
+# ruby 2.7.1p83
+# We did it!
+
+
+Some other links that may be useful.
+
+A simple looking tutorial for installing ruby: 
+https://stackify.com/install-ruby-on-your-mac-everything-you-need-to-get-going/
+
+Probably could have also done this:
+https://github.com/rubygems/bundler/issues/6865

@@ -2,40 +2,30 @@
 
 ** Rough outline for chapter:
 - touch as a reading method: abstracting & amplifying the senses
-  - queerness is not yet here, activating the senses. 
-- the state of queerness as desiring touch but untouchable
-  - disidentity emerges in the clash of affects
-  - incommensurability is central to queer dis-ID
-  - paranoia attempts to resolve incommensurability 
-  - dangers of replication, recovery 
-  - on being untouchable, estranged 
-  - the incommensurable 
-  - example: /confessions of the fox/ 
-- solution is abstraction, formalization, opacity:
-  - queerness as emergent, surfacing, optical
-  - interweaving QOC critique
-  - queer form: opacity as a value
-  - abstraction as necessary in order to bring things into relation
-- data as unknowable: something we cannot fully grasp
-  - drucker and underwood on studying cooked data
-- against reproducibility
-  - Da, Underwood and Altschuler and Weimer
-- Feminst/Queer DHers doing something similar
-  - klein on figuring what is absent
-- Performance as a reading method
+  - queerness is not yet here, or lack activates the senses
+- the state of queerness being "untouchable"
+  - incommensurability is central to queer identity & experience
+  - paranoid critical methods attempt to resolve incommensurability 
+  - self-replicating/recovery criticism perpetuates assumptions
+  - readings: /confessions of the fox/, /waves/, /la frontera/ 
+- Abstracting, formalizing, making opaque:
+  - queer forms & values necessary to  bring things into relation
+  - hinting opacity, performance, abstraction, provisionality 
+- in DH, raw data as unknowable: something we cannot fully grasp
+  - tools are not neutral, analyses are not "objective"
+  - value of reproducible in DH mirrors paranoia
+  - Da, Underwood and Altschuler and Weimer, Drucker
+- Performance/movement as a reading method
   - bode and clement: materiality and discovery
   - against reproduction, for remediation/deformance
   - debt to mcgann, ramsay on deformance, piper on cl
-- Vantages, the view
+- Vantages/Opacity, the view
   - Klein, Mandell, Caughie, Gaboury
   - against totalization
   - the visible and the invisible, opting out, the null value
-- Provisionality / Ephemerality
-  - Susan Brown, Julia Flanders
-  - against stability
-- example of queer theorist who is guided by
-    touching/feeling... affect theories? Munoz, Anzaldua, Ahmed... 
-- my reading of /voyant-tools/ & /waves/
+- Provisionality/Indeterminacy
+  + Susan Brown, Julia Flanders
+  + against stability
 
 *** Pros Description: The first chapter, "Reading: 'Touching without
 Touching,'" lays out what Digital Humanities methodologies might learn
@@ -156,9 +146,9 @@ the ways that "touch" can be distanced.
 
 *** TODO revise the dimensions of touch: anzaldua
 The challenge is to regain touch without resolving it, to touch
-without presuming full connections.
+without presuming full connections
     
-*** TODO refine /feeling backward/ as touching at a distance
+*** TODO refine /feeling backward/, touching at a distance 
 Love offers a model of "feeling backward" which is a way for critics
 to connect with queer subjects in a way that keeps objects out of the
 critic's reach. 
@@ -176,7 +166,7 @@ looking at reading as reparative opens up the way we understand
 epistemology as about movement and performance, rather than
 knowledge. 
 
-*** TODO cut Waves on movement
+*** TODO cut Waves on movement/performance/ ./
 As I follow this disorienting narrative, I similarly enter into cycles
 of desire and frustration. This affective reaction is only possible
 through the formal structure of the narrative. 
@@ -201,13 +191,17 @@ multiple. The form makes subjectivity opaque, but in the act of
 abstraction, making it opaque, we can touch it and play around with
 it. 
 
-*** TODO draft Frontera on vitality
+*** TODO draft Frontera on vitality to deformance?
 the book as living and structured -- we are touching an abstraction
 
+--> signposting: will see the equivalent of touching distantly in
+deformance.
 
-** The problem: Data as always cooked
-*** history of computing shows non-neutrality of tools
 
+** on reproducible criticism
+*** TODO add history of computing shows non-neutrality of tools
+The way that computers are build/made is to perpetuate whiteness, the
+status quo. 
 **** Rosenzweig, Roy. “Wizards, Bureaucrats, Warriors, and Hackers:
 Writing the History of the Internet.” The American Historical Review,
 vol. 103, no. 5, 1998, pp. 1530–1552. JSTOR,
@@ -230,92 +224,38 @@ Bob Kahn creating TCP/IP and “internetting” in order to connect different ki
 “Ironically, while the Department of Defense had very different goals in mind-and often tried to implement them by, for example, restricting access to the APRANET or to what it could be used for-its willingness to embrace the open technical standards embodied in TCP/IP inadvertently sparked the creation of a remarkably open system” (1549)
 “By the 1980s (and especially by the 1990s), moreover, many of the people who had celebrated the freedom and openness of networks and personal computers had also undergone a transformation that made them inclined to accept this privatiza- tion. The affection of many "Netizens" for free speech and freedom from control had also come to embrace a love for free markets. The liberationism of the many early computer and network enthusiasts had been transformed into libertarianism.” (1550)
 “Web search companies, which are seen as the portals to the Internet, are busily gobbling each other up or being acquired by larger media conglomerates. Bill Gates's Microsoft Corporation has a pretty good chance of controlling not only all of the personal computers from which people access the Internet but also the browsers through which they read pages on the World Wide Web. And Intel Corporation is poised to be the manufacturer of choice for the chips at the heart of those computers.” (1551)
-
-*** Johanna Drucker's capta
-
-Shows the reductions of data that are necessary for most graphical
-visualizations. Counters these with the concept of "capta" and
-graphical expressions that can gesture toward the messiness of
-experience. 
-
-*** Case in point: Ted Underwood
-
-Ted Underwood is a case in point of how the critic's entanglement
-bakes results into analysis. 
-
-
-** Critique of Reproducibility: Nan Z Da, Underwood, Altschuler and Weimer
-The criterion of reproducibility is deployed as a benchmark for
-reviewing and assessing the efficacy of digital quantitative
-methods. Besides Underwood, scholars like Nan Z. Da, Sari Altschuler
-and David Weimer, despite their vastly different commitments and
-methods, similarly place value on reproducibility.
-
-(This overlooks the performativity of engaging with texts
-online.)
- 
-*** Nan Z Da on Reproducibility 
-
-Nan Z Da makes the overall case that statistical methods are at odds
-with the project of literary criticism, that quantification and
-interpretation are "mismatched."
-
-Among her points, the most telling concerns "reproducibility," for it
-reveals an ultimately conservative investment in interpretive work as
-something objectively, factually, effectively true. 
-
-The value on the reproducible suggests that interpretation can be
-universalized, indicating other investments that diminish the project
-of literary criticism. 
-
-*** Altschuler and Weimar
-
-they call to overturn the "unproblematic translatability of
-information between the senses" while maintaining that reproduction is
-the highest value. They argue to "texture the humanities", pointing
-out that much of DH prioritizes the visual over other senses --
-"privilege sight as the sense through which knowledge is accessible"
-(74). Rightly so, they argue, “The textured DH we call for here
-acknowledges that we cannot study knowledge only abstractly, apart
-from the senses, and that we cannot study literature, art, and history
-without including the history of embodied experiences” (74-75).
-- “Touch This Page! uses 3-D printed facsimiles of raised-letter text to inspire reflection on the assumptions most people make about which senses are involved in reading” (82).
-
-But they stray too far when they place reproduction over
-remediation/deformance. They state their aims: “to expand the sensory
-accessibility of archives for all users and to do so through the
-digital reproduction---rather than the translation---of tactile
-knowledge” (76). Case example of the perfect reproduction:
-- A scenario where “users... can download a visual copy with
-descriptive data, engage with the text in virtual reality, and create
-their own textured facsimile. This technology once more makes possible
-the tactile reading experiences for which this volume was designed and
-promises library patrons a richer engagement with touch than most
-archives can currently provide---even in person (85-86). 
-
-The use case scenario makes the assumption that a reproduction is the
-ideal form of textuality, despite their asserted aims for "diversity
-of embodied experiences":
-- “we must avoid tilting after the fiction of some ideal digital surrogate---like a virtual reality system that would flawlessly mimic original objects---lest we become digital Pierre Menards, expending extensive energy to improve our reproductions to discover, at last, that only the original perfects represents itself… Instead, we envision in our tactile futures multiple strategies that could not only open up access to varied experiences---past and present---but also diversity the ways embodied experiences structure our digital worlds” (86).
-- in order to open up “multiple strategies” and diversity embodied experiences, we need a theory of text that is capacious enough to accept variation and transmediation. 
-- This argument overlooks deformance is a
-solution: the ways that creating new texts, paratexts, creates new
-objects of knowledge. It overlooks the performative, ala McGann,
-Clement.
-
-In this view, digital becomes a means of optimization, efficiency,
-total knowledge and understanding.
-
     
-** Paralleling Queer & DHers looking for alternative readings
-*** Case in point: klein's figuring the absence
-Draw Klein and Hartman together---this is what I want to do for Queer
-texts. 
+**** Ruha Benjamin & Alondra Nelson on surveillance?
+Nelson and Benjamin both talk about how the digital is predisposed toward presenting whiteness as invisible, universal, disembodied. (this follows from conceptions of the posthuman which prioritize intelligence over embodiment). Whiteness does not hold weight, it is not marked per se. Blackness is what stands out, gets marked, gets computed according to arbitrary metrics. It is computed to be poorer, more criminal, less qualified. 
 
-The example of Black studies and Black DH as a way forward for Queer. 
+*** TODO refine Underwood reproduces assumptions about binary gender
+Assuming gender as a binary concept will create relationships of
+opposition, a case in point of how the critic's entanglement
+bakes results into analysis. 
+**** TODO add Mandell on gender as social construction
+*** TODO refine Nan Z Da on Reproducibility 
+Reproducibility as a benchmark for quantitative methods enacts some of
+the same harms as paranoid reading. Da's point on "reproducibility"
+reveals an ultimately conservative investment in interpretive work as
+something objectively, factually, effectively true.
+*** TODO draft Altschuler and Weimar
+They call to overturn the "unproblematic translatability of
+information between the senses," valuing reproduction
+over remediation/deformance. In this view, digital becomes a means of
+optimization, efficiency, total knowledge and understanding.
+*** TODO refine Drucker's skewing the metrics
+Drucker warps graphical metrics to suggest indeterminacy. 
+
+*** TODO add the intersection btw queer & digit
+The "desire for touching," without being able to fully touch, as the
+definition of queerness, is also where the digital and queer
+intersect. Digital media creates the illusion that we have access to
+data, to information, but all we have access to is a *formalized*
+relationship to that data. We encounter the digital object through
+mediation, through an interface, mice, GUIs, keyboards, etc.
 
 
-** Performativity
+** TODO draft Value: Performativity
 Digital formats and interfaces facilitate queer encounters methods, an
 intimate process of engaging with literature on a computer, where
 users can manipulate and transform text.
@@ -365,7 +305,7 @@ and the way that we interact with the computer.
       scholars all congruent with each other" (32). 
 
 
-** Vantanges
+** TODO draft Value: Vantanges
 
 *** Klein, Mandell, Caughie, Gaboury
 *** Against totalization
@@ -373,7 +313,7 @@ and the way that we interact with the computer.
 jacob gaboury
 
 
-** Provisionality 
+** TODO Value: Provisionality 
 
 *** Susan Brown's provisionality
 *** Julia Flander's work on Orlando
