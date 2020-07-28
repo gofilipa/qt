@@ -1373,13 +1373,45 @@ capitalism, or some mixture of both” (1531).
 - Packet switching networks to counteract against the division and
 decentralization that a nuclear strike could create. 
 
-“By spotlighting ARPA, Norberg and O'Neill emphasize what Hafner and Lyon sometimes obscure-the close connection of all ARPA computer funding to military concerns. Calling their concluding chapter "Serving the Department of Defense and Nation," they celebrate rather than downplay that link. They point out, for example, that ARPA only set up the IPTO in 1962 in response to pressure from the Kennedy administration for improved military command and control systems.16 Computers, it was widely believed, would make it possible to "control greater amounts of information and to present it in more effective ways to aid decision making” (1535).
-Bob Kahn creating TCP/IP and “internetting” in order to connect different kinds of networks like satellites and radios.
-“Computers created the technological possibility of the Cold War and shaped computer technology” (1538). 
-“By placing the rise of the Internet within the 1960s-as-counterculture and the 1960s of the antiwar movement, Crocker and the Haubens suggest an alternative contextual frame to that emphasized by Edwards, who puts the rise of digital computing (and implicitly the Internet) solely within the Establishment 1960s of the Vietnam War and the Cold War.” (1545).
-“Ironically, while the Department of Defense had very different goals in mind-and often tried to implement them by, for example, restricting access to the APRANET or to what it could be used for-its willingness to embrace the open technical standards embodied in TCP/IP inadvertently sparked the creation of a remarkably open system” (1549)
-“By the 1980s (and especially by the 1990s), moreover, many of the people who had celebrated the freedom and openness of networks and personal computers had also undergone a transformation that made them inclined to accept this privatiza- tion. The affection of many "Netizens" for free speech and freedom from control had also come to embrace a love for free markets. The liberationism of the many early computer and network enthusiasts had been transformed into libertarianism.” (1550)
-“Web search companies, which are seen as the portals to the Internet, are busily gobbling each other up or being acquired by larger media conglomerates. Bill Gates's Microsoft Corporation has a pretty good chance of controlling not only all of the personal computers from which people access the Internet but also the browsers through which they read pages on the World Wide Web. And Intel Corporation is poised to be the manufacturer of choice for the chips at the heart of those computers.” (1551)
+“By spotlighting ARPA, Norberg and O'Neill emphasize what Hafner and
+Lyon sometimes obscure-the close connection of all ARPA computer
+funding to military concerns. Calling their concluding chapter
+"Serving the Department of Defense and Nation," they celebrate rather
+than downplay that link. They point out, for example, that ARPA only
+set up the IPTO in 1962 in response to pressure from the Kennedy
+administration for improved military command and control systems.16
+Computers, it was widely believed, would make it possible to "control
+greater amounts of information and to present it in more effective
+ways to aid decision making” (1535).  Bob Kahn creating TCP/IP and
+“internetting” in order to connect different kinds of networks like
+satellites and radios.  “Computers created the technological
+possibility of the Cold War and shaped computer technology” (1538).
+“By placing the rise of the Internet within the
+1960s-as-counterculture and the 1960s of the antiwar movement, Crocker
+and the Haubens suggest an alternative contextual frame to that
+emphasized by Edwards, who puts the rise of digital computing (and
+implicitly the Internet) solely within the Establishment 1960s of the
+Vietnam War and the Cold War.” (1545).  “Ironically, while the
+Department of Defense had very different goals in mind-and often tried
+to implement them by, for example, restricting access to the APRANET
+or to what it could be used for-its willingness to embrace the open
+technical standards embodied in TCP/IP inadvertently sparked the
+creation of a remarkably open system” (1549) “By the 1980s (and
+especially by the 1990s), moreover, many of the people who had
+celebrated the freedom and openness of networks and personal computers
+had also undergone a transformation that made them inclined to accept
+this privatiza- tion. The affection of many "Netizens" for free speech
+and freedom from control had also come to embrace a love for free
+markets. The liberationism of the many early computer and network
+enthusiasts had been transformed into libertarianism.” (1550) “Web
+search companies, which are seen as the portals to the Internet, are
+busily gobbling each other up or being acquired by larger media
+conglomerates. Bill Gates's Microsoft Corporation has a pretty good
+chance of controlling not only all of the personal computers from
+which people access the Internet but also the browsers through which
+they read pages on the World Wide Web. And Intel Corporation is poised
+to be the manufacturer of choice for the chips at the heart of those
+computers.” (1551)
     
 **** Ruha Benjamin & Alondra Nelson on surveillance?
 Nelson and Benjamin both talk about how the digital is predisposed toward presenting whiteness as invisible, universal, disembodied. (this follows from conceptions of the posthuman which prioritize intelligence over embodiment). Whiteness does not hold weight, it is not marked per se. Blackness is what stands out, gets marked, gets computed according to arbitrary metrics. It is computed to be poorer, more criminal, less qualified. 
@@ -1627,7 +1659,6 @@ figure these elements, but not in a way that attempts to clarify or
 resolve their complexity. Rather, like Love, she works on the “image
 of exile, of refusal, even of failure” (Love 71).
  
-
 *** TODO add the intersection btw queer & digit
 The "desire for touching," without being able to fully touch, as the
 definition of queerness, is also where the digital and queer
@@ -1639,54 +1670,143 @@ mediation, through an interface, mice, GUIs, keyboards, etc.
 
 
 ** TODO Value: Performativity/Movement
-Digital formats and interfaces facilitate queer encounters methods, an
-intimate process of engaging with literature on a computer, where
-users can manipulate and transform text.
+
+*** The value of alterneity over reproduction: performance
+In the section on reproducibility, I discuss how Underwood's analysis
+on gender differences reproduces his assumptions about gender dynamics
+as dichotomous, which he readily admits: "this chapter has discovered
+stable 'structural positions' only because it explores gender, for the
+most part, as a binary opposition" (/Distant Horizons/ 140). The
+question then becomes, how can we move beyond reproducing assumptions
+in our analysis?  The answer is to shift the objective of analysis
+from the the reproducible to the alternative. The first value that
+this reading method proposes is that of /performance/. This value
+points to the active qualities of critical analysis, emphasizing
+materiality and sensitivity, movement and discovery. When reading is
+performative, the process is more important than the product. To
+demonstrate this value in practice, I turn to the work of Katherine
+Bode and Tanya Clement, both of whom have deep investments with
+traditions of textual scholarship, particularly the scholarship of
+Jerome McGann, that has influenced early experiments with digital
+humanities in English departments. Although their approaches vary in
+their specific topics, methods, and results, they are connected in an
+investment for, in the words of McGann, "imagining what we don't know"
+(82).
+
+*** Critique of Underwood's "sensitivity"---a focus on attention
+Underwood overlooks the ways that quantitative literary analysis, or
+distant reading, enables "sensitive" readings of textual
+material. According to him, such methods are less useful for studying
+a single text in depth and more useful for taking a long view of
+larger corpora. He sets up an opposition between computer and human
+reading: "Computational analysis of a text is more flexible than it
+used to be, but it is still quite crude compared to human reading; it
+helps mainly with questions where evidence is simply too big to fit in
+a single reader's memory" (xxi). Underwood is right to point out that
+a computer cannot draw inferences like a human can. However, his
+emphasis on the role of memory opens up the ways that computers can
+enhance human reading of smaller texts. What the computer properly
+does is arrange a set of data--of any size--for human
+consumption. This involves processing datasets into new formats that
+can than be scrutinzed by a human reader. Underwood's goal, which is
+"to find a perspective that makes the descriptions preferred by
+eighteenth-, nineteenth-, and twentieth-century scholars all congruent
+with each other," shows one potential objective for such reading
+(/Distant Horizons/ 32). But there is more than one objective for
+using quantitative methods regarding memory, and that is by
+approaching memory, specifically human attention spans, as a drive,
+rather than a hindrance. The computer can arrange text in a way that
+harnesses the attention span of the reader.
+
+*** Tanya Clement & Jerome McGann: performance --> discovery
+Tanya Clement and Jerome McGann have written on how electronic
+environments facilitate active experiences with text. Their analyses
+draw attention to the ways that the reading process engages with the
+situatedness of time, space, and textual objects that are entangled
+within a complicated network of production and reception. Such a
+reading process yields unexpected and alternative interpretive
+possibilities. Clement's textual scholarship works with sound to
+develop an hermeneutics that incorporates praxis, visualization,
+embodiment, and play, toward a theory of performantive criticism. She
+often questions how working with audio allows us to reconsider the
+ways we approach electronic text. In one project, she explores how
+visualizations of audio information can influence analysis. She puts
+forth a theory of “play” in which the critic "performs" the work, much
+like the way that musicians interpret a musical score. Clement makes
+the analogy between musical scores and quantitative visualizations to
+emphasize how both "create another level of abstraction with which the
+interpreter engages" ("Distant Listening par. 7). These visualizations
+use the audio analysis tool ProseVis to create dynamic spaces for the
+reader to interact with a digitzed object. Using ProseVis, the reader
+can navigate through the visualizations and manipulate the metrics for
+analysis, in this case, the prosodic elements of Gertrude Stein's
+poetry. Clement draws out the comparison between musical scores and
+visualizations to emphasize the performative qualities of
+analysis. She begins by describing the qualities of a musical score:
+
+#+BEGIN_QUOTE
+[I]t is read, but it is also meant to be played, to be spatialized in
+time and embodied by voices (or instruments) within a certain physical
+and hermeneutical context. I am arguing the same is true of
+computational visualizations of text. One 'reads' a visualization, but
+to 'play' the visualisation is to engage the spatialized
+interpretation of that visualisation as an embodied reader in a
+situated context within a specific hermeneutical framework. "Distant
+Listening" par. 10
+#+END_QUOTE
+
+Like a musical score, which "point[s] toward many possible
+interpretive 'results' or readings," visualizaions can provide a
+starting ground for different pathways of analysis ("Distant
+Listening" par. 12). Clement's scholarship on audio visualization
+magnifies the importance of performance as an element in analysis. 
+
+McGann's work on textual scholarshop similarly draws attention to the
+effect of performance on interpretation, or performance /as/
+interpretation, according to McGann. Along with Lisa Samuels, McGann
+coins the concept of "deformance," which describes any activity that
+distorts, disorders, or re-assembles literary texts to discover new
+insights about its formal significance and meaning. They offer the
+example of reading a poem backward, where “the critical and
+interpretive question is not 'What does the poem mean?' but 'How do we
+release or expose this poem’s possibilities for meaning?'"
+(108). Deformance works by estranging the reader from her familiarity
+of the text, and relies on the the volitality of meaning of particular
+words that depend upon a multitude of factors, from antecedent
+readings and pathways through that text, to the significance of
+immanent elements such as typography and blank spaces, all of which
+the reader can only process a limited amount. Digital tools might work
+alongside this volatile potential for meaning, what McGann calls the
+text's "quantum poetics." He explains that, “Aesthetic space is
+organized like quantum space, where the ‘identity’ of the elements
+making up the space are perceived to shift and change, even reverse
+themselves, when measures of attention move across discrete quantum
+levels” (183). McGann speculates that engaging with texts on a
+computer could be as intimate a process as engaging with them on
+paper, with the additional ability of manipulating and transforming
+them in virtually infinite ways. Ideally, the tool should work as a
+“prosthetic extension of that demand for critical reflection,” with
+which the reader is able to feel her way through the text (18).
+
+Clement and McGann's approaches facilitate a reading method that uses
+computational tools in the aid of discovery. Human attention spans,
+rather than represent the hurdle for computational methods to
+overcome, offer an opportunity for re-imagining analysis as a process
+deforming what we pay attention to. The unique affordance of digital
+environments, according to McGann and Clement, is that they allow for
+numerable interventions upon the textual object. The emphasis shifts
+from viewing text as something stable and self-evident to something
+dynamic and subject to different readings. As Clement explains: “A
+model of textuality that represents text as a spatial and temporal
+phenomenon might allow for interactions and representations in a
+digital environment that, rather than insisting on fixity, foreground
+principles of emergence” ("Rationale" 34).
+
 *** Bode's materiality, critque of Underwood
 
-Katherine Bode's critique of Underwood points out that QLS methods
-incorporate hidden assumptions about the data, about what is
-findable. She offers a method that builds off the humanistic
+Katherine Bode's offers a method that builds off the humanistic
 approaches in textual scholarship and bibliography, where the model is
-prior to computation. 
-
-*** Tanya Clement: discovery
-
-*** Against reproduction, for remediation/deformance 
-
-*** McGann's "prosthetic extension" 
-These tools work alongside the reader’s intuition, in what Jerome
-McGann calls a “prosthetic extension of that demand for critical
-reflection,” by which the reader is able to feel her way through the
-text (18).
-
-*** Critique of Underwood's "sensitivity"
-
-Underwood overlooks the ways that distant reading can be a
-prosthesis. Claims that Quantitative are not as "sensitive" or
-"exacting" as close reading, and are mostly useful for long views. How
-can we approach distant reading as multiplying alternative readings?
-Rightly points out that human attention guides the scale of
-analysis. So we have to be very careful at the question we are posing,
-and the way that we interact with the computer.
-    - "Critics who want to sensitively describe the merits of a single
-      work usually have no need for statistics... Computational
-      analysis of a text is more flexible than it used to be, but it
-      is still quite crude compared to human reading; it helps mainly
-      with questions where evidence is simple too big to fit in a
-      single reader's memory" (xxi).
-- Repeatedly stresses that the point of quantitative methods is to
-  discover new scales of analysis, but he seems to be looking for an
-  overarching theory that will encapsulate literary
-  history. Quantitative methods seek to overcome a problem of
-  attention, of memory, in order to gain a large view. Here, human
-  memory is a hindrance, rather than a drive. The goal is rather to
-  multiply alternative readings. 
-    - Attention determines analysis, analysis determines knowledge,
-      knowledge determines disciplines, periodization (8).
-    - "The challenge is to find a perspective that makes the descriptions
-      preferred by eighteenth-, nineteenth-, and twentieth-century
-      scholars all congruent with each other" (32). 
+prior to computation.
 
 *** Waves displacement -- media
 a formal displacement that uses electronic media to re-organize,

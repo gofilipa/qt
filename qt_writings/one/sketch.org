@@ -259,6 +259,12 @@ mediation, through an interface, mice, GUIs, keyboards, etc.
 Digital formats and interfaces facilitate queer encounters methods, an
 intimate process of engaging with literature on a computer, where
 users can manipulate and transform text.
+
+
+*** Critique of Underwood's "sensitivity"
+Distant reading can be sensitive, harnessing the attention span of
+the reader to present new pathways through text. 
+
 *** Bode's materiality, critque of Underwood
 
 Katherine Bode's critique of Underwood points out that QLS methods
@@ -276,33 +282,11 @@ These tools work alongside the reader’s intuition, in what Jerome
 McGann calls a “prosthetic extension of that demand for critical
 reflection,” by which the reader is able to feel her way through the
 text (18).
-*** Critique of Underwood's "sensitivity"
 
-Underwood overlooks the ways that distant reading can be a
-prosthesis. Claims that Quantitative are not as "sensitive" or
-"exacting" as close reading, and are mostly useful for long views. How
-can we approach distant reading as multiplying alternative readings?
-Rightly points out that human attention guides the scale of
-analysis. So we have to be very careful at the question we are posing,
-and the way that we interact with the computer.
-    - "Critics who want to sensitively describe the merits of a single
-      work usually have no need for statistics... Computational
-      analysis of a text is more flexible than it used to be, but it
-      is still quite crude compared to human reading; it helps mainly
-      with questions where evidence is simple too big to fit in a
-      single reader's memory" (xxi).
-- Repeatedly stresses that the point of quantitative methods is to
-  discover new scales of analysis, but he seems to be looking for an
-  overarching theory that will encapsulate literary
-  history. Quantitative methods seek to overcome a problem of
-  attention, of memory, in order to gain a large view. Here, human
-  memory is a hindrance, rather than a drive. The goal is rather to
-  multiply alternative readings. 
-    - Attention determines analysis, analysis determines knowledge,
-      knowledge determines disciplines, periodization (8).
-    - "The challenge is to find a perspective that makes the descriptions
-      preferred by eighteenth-, nineteenth-, and twentieth-century
-      scholars all congruent with each other" (32). 
+*** Waves displacement -- media
+a formal displacement that uses electronic media to re-organize,
+re-structure and display the story in the way we encounter it.
+      
 
 
 ** TODO draft Value: Vantanges

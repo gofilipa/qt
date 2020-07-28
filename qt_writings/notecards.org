@@ -1,5 +1,134 @@
 * Digital Methods and Textualitites
 ** Methods 
+*** Clement, Tanya. "Distant Listening or Playing Visualisations
+Pleasantly with the Eyes and Ears." Digital Studies/le Champ
+Numérique, 3(2). DOI: http://doi.org/10.16995/dscn.236
+
+In this essay Tanya Clement explores what visualization has to offer
+hermeneutics. She puts forth a theory of “play” in which the critic,
+performs so to speak the work in a way that opens up interpretive
+possibilities. Clement makes an analogy between musical scores and
+visualization---both are attempts to at once abstract and concretize
+elements from the text as part of a larger interpretive experience.
+- “it is read, but it is also meant to be played, to be spatialized in
+  time and embodied by voices (or instruments) within a certain
+  physical and hermeneutical context. I am arguing the same is true of
+  computational visualizations of text. One ‘reads’ a visualization,
+  but to ‘play the visualisation is to engage the spatialized
+  interpretation of that visualisation as an embodied reader in a
+  situated context within a specific hermeneutical framework”
+  (par. 10).
+- “Instead of reading the a two-dimensional visualisation as the
+  inevitable result (or complete representation) of data analysis, we
+  learn to read visualisations as musical scores, as signposts
+  pointing toward many possible interpretive ‘results’ or readings”
+  (par. 12).
+- “musical and computational transpositions create another level of
+  abstraction with which the interpreter engages" (par. 7).
+- "Ultimately, visualisations are not the end product, nor is the data
+  where the inquiry begins. The traditions reflected in a
+  computational visualisation are always part of a hermeneutic
+  framework that is also always part of a history of technological and
+  methodological remediations" ("Distant Listening" par.22).
+
+*** Clement, Tanya. “A Rationale of Audio Text.” Digital Humanities Quarterly, vol. 10, no. 2, 2016. Word Count: 10,470.
+In what ways does working with audio bring us to reconsider the ways
+we approach electronic text? Takes up McGann and McKenzie’s ideas
+about material, social, and institutional contexts that resist the
+notion of an ideal or Ur text, and applies it to audio-texts.
+
+- "I introduce a tool called ARLO that we have been developing in the
+  High Performance Sound Technologies for Access and Scholarship
+  (HiPSTAS) project (http://www.hipstas.org) for accessing and
+  analyzing sound collections alongside new standards being proposed
+  for the development of audio visual (AV) metadata and content
+  models. The discussion concludes by considering what these
+  interventions tell us about how a rationale of audio textuality
+  helps us rethink rationales of text in digital environments"
+  (par. 1).
+- “three aspects of textuality that could be foregrounded through
+  event-centric content and discovery models: collective
+  intentionality, emergent performativity, and indexical
+  performativity” (31).
+- “A model of textuality that represents text as a spatial and
+  temporal phenomenon might allow for interactions and representations
+  in a digital environment that, rather than insisting on fixity,
+  foreground principles of emergence” (34).
+- “What if all entities were modeled as dynamic events? Would notions
+  of collective intentionality, emergence, and indexical
+  performativity foreground our searches and shape what we are able to
+  find? Text is central to the Humanities, but as the editor of this
+  special issue notes, “digitization remediates all analog sources
+  into a common binary format,” a situation which serves as an
+  invitation to think through these remediations towards the
+  development of future information systems that will continue to
+  shape new and different rationales of text” (44)
+
+*** Clement, Tanya. “Knowledge Representation and Digital Scholarly Editions in Theory and Practice.” Journal of the Text Encoding Initiative 1, no. 1 (June 2011). http://jtei.revues.org/203.
+
+- Abstract: “In Transition: Selected Poems by the Baroness Elsa von
+  Freytag-Loringhoven is a publicly available scholarly edition of
+  twelve unpublished poems written by Freytag-Loringhoven between 1923
+  and 1927. This edition provides access to a textual performance of
+  her creative work in a digital environment.... One aspect of
+  textual performance theory I am exploring within In Transition
+  concerns the social text network...  these networks in a digital
+  edition foreground the situated 1920s history of these texts as well
+  as the real-time, situated electronic reading environment. The
+  argument of a digital edition like In Transition is formed as much
+  by the underlying theory of text as it is by its content and the
+  particular application or form it takes. This discussion employs the
+  language of knowledge representation in computation (through terms
+  like domain, ontology, and logic) in order to situate this scholarly
+  edition within two existing frameworks: theories of knowledge
+  representation in computation and theories of scholarly textual
+  editing" ("Knowledge Representation" par. 1).
+
+- "a text in performance comprises multiple versions in manuscript and
+  print, various notes and letters and comments of contemporaries or
+  current readers, plus the element of performance, which entails
+  time, space, and a collaborative audience” ("Knowledge
+  Representation" par. 3).
+
+- “the Baroness’s manuscripts often do not correspond to a sequence
+  that manifests the teleological evolution of a poem. In some cases,
+  the extant manuscripts show little evidence of a clear, creative
+  evolutionary path within a text. Indeed, the Baroness’s manuscripts
+  often manifest experiments on a theme, making one version’s
+  relationship to another an example of alternative choices rather
+  than a system of rough drafts leading to final versions” "Knowledge
+  Representation" (par. 5).
+
+- “with this work we imagine what is possible in creating a singularly
+  digital text environment that requires the reader to ask, how does
+  this environment work? How is it constructed? What new and
+  traditional modes of textuality are at play and at risk here?”
+  ("Knowledge Representation" par. 25).
+
+*** Clement, Tanya, David Tcheng, Loretta Auvil, Boris Capitanu, Joao
+  Barbosa, Distant Listening to Gertrude Stein’s ‘Melanctha’: Using
+  Similarity Analysis in a Discovery Paradigm to Analyze Prosody and
+  Author Influence, Literary and Linguistic Computing, Volume 28,
+  Issue 4, December 2013, Pages 582–602,
+  https://doi.org/10.1093/llc/fqt040
+
+- Abstract: “Used here to describe the investigation of significant
+  sound or prosodic patterns within the context of a system that can
+  translate these patterns into comparative visualizations across
+  texts, the term ‘distant listening’ is used provocatively to suggest
+  that readers might interpret prosodic patterns as ‘noise’ (or
+  seemingly unintelligible information) with close reading
+  practices. In this study, we show that these same patterns appear
+  coherent and discoverable within ProseVis, a visualization tool that
+  supports these hermeneutics within a discovery-based paradigm that
+  allows for new ways of making meaning. … In the second part of this
+  discussion, we consider how changing similarity metric calculations
+  through the inclusion and exclusion of certain prosodic features
+  (such as tone and stress) and algorithmic parameters (such as the
+  window size of sounds and weighting power) can facilitate the
+  discovery of previously unidentifiable author-similarity patterns”
+  (par. 1).
+
 *** Moretti, Franco. *Graphs, Maps, Trees: Abstract Models for Literary History*. 2007. Print.
 - Moretti supports a positivist agenda for literary criticism. He
   ascribes an objective status to visualizations, as if they aren’t
@@ -23,6 +152,18 @@
 - How would speculation and potentiality play into a feminist
   project/reading?
 
+*** Drucker, Johanna. "Humanities Approaches to Graphical Display." *DHQ: Digital Humanities Quarterly*. 2011. Web.
+- Drucker argues that data visualization tools and techniques
+  naturalize and flatten things that are actually complex and
+  ambiguous. She proposes that we switch “data” (given) for “capta”
+  (taken), to emphasize how all information has been constructed,
+  pre-cooked (never raw). She proposes that we skew and blur and
+  disrupt the neatness of our graphs and charts.
+- But isn’t this just turning criticism into poetry? Don’t we need
+  something stronger, clearer,more delineated?
+- What is the role is clarity and “realist” or “natural” constructions
+  of knowledge?
+
 *** Ramsay, Stephen. *Reading Machines: Toward an Algorithmic Criticism*. 2011. Print.
 - Ramsay positions himself as a moderate, saying that computers are
   merely tools, part of a more expansive subjective process, of
@@ -38,18 +179,6 @@
   uber-objective tool? Like code/software has no biases or
   idiosyncrasies? What about examining the way that these processes
   encode subjectivity?
-
-*** Drucker, Johanna. "Humanities Approaches to Graphical Display." *DHQ: Digital Humanities Quarterly*. 2011. Web.
-- Drucker argues that data visualization tools and techniques
-  naturalize and flatten things that are actually complex and
-  ambiguous. She proposes that we switch “data” (given) for “capta”
-  (taken), to emphasize how all information has been constructed,
-  pre-cooked (never raw). She proposes that we skew and blur and
-  disrupt the neatness of our graphs and charts.
-- But isn’t this just turning criticism into poetry? Don’t we need
-  something stronger, clearer,more delineated?
-- What is the role is clarity and “realist” or “natural” constructions
-  of knowledge?
 
 *** Felski, Rita. *The Limits of Critique.* 2015. PDF.
 - Felski usefully talks about reading as an affective
@@ -119,7 +248,7 @@ reading, and are mostly useful for long views.
       work usually have no need for statistics... Computational
       analysis of a text is more flexible than it used to be, but it
       is still quite crude compared to human reading; it helps mainly
-      with questions where evidence is simple too big to fit in a
+      with questions where evidence is simply too big to fit in a
       single reader's memory" (xxi).
     - "The imprecision of the human world is part of the reason why
       numbers are so useful in social science: they allow researchers to
