@@ -1670,28 +1670,103 @@ mediation, through an interface, mice, GUIs, keyboards, etc.
 
 
 ** TODO Value: Performativity/Movement
-
 *** The value of alterneity over reproduction: performance
 In the section on reproducibility, I discuss how Underwood's analysis
 on gender differences reproduces his assumptions about gender dynamics
-as dichotomous, which he readily admits: "this chapter has discovered
+as oppositional, which he readily admits: "this chapter has discovered
 stable 'structural positions' only because it explores gender, for the
 most part, as a binary opposition" (/Distant Horizons/ 140). The
 question then becomes, how can we move beyond reproducing assumptions
-in our analysis?  The answer is to shift the objective of analysis
-from the the reproducible to the alternative. The first value that
-this reading method proposes is that of /performance/. This value
-points to the active qualities of critical analysis, emphasizing
-materiality and sensitivity, movement and discovery. When reading is
-performative, the process is more important than the product. To
-demonstrate this value in practice, I turn to the work of Katherine
-Bode and Tanya Clement, both of whom have deep investments with
-traditions of textual scholarship, particularly the scholarship of
-Jerome McGann, that has influenced early experiments with digital
-humanities in English departments. Although their approaches vary in
-their specific topics, methods, and results, they are connected in an
-investment for, in the words of McGann, "imagining what we don't know"
-(82).
+in our analysis? The answer is to shift the objective of analysis from
+the the reproducible to the alternative. The first value that this
+reading method proposes is that of /performance/. This value points to
+the active qualities of critical analysis, emphasizing materiality and
+sensitivity, movement and discovery. When reading is performative, the
+process is more important than the product. To demonstrate this value
+in practice, I turn to the work of Katherine Bode and Tanya Clement,
+both of whom have deep investments with traditions of textual
+scholarship, particularly the scholarship of Jerome McGann, that has
+influenced early experiments with digital humanities in English
+departments. Although their approaches vary in their specific topics,
+methods, and results, they are connected in an investment for, in the
+words of McGann, "imagining what we don't know" (82).
+
+*** Bode's materiality, critque of Underwood
+--> bode emphasizes how inquiry implicates the researcher, who
+generates at the same time that she analyzes data. Instead of looking
+at what is being reproduced, look at how human engagement has
+entangled with and created the object of analysis.
+
+Katherine Bode offers a method that builds off the humanistic
+approaches in textual scholarship and bibliography. Her work explores
+the boundary between the humanities and social sciences in order to
+reframe analysis as performative. Bode argues against the trend of
+representationalism, "the idea that a knowing human agent symbolically
+expresses – or represents – some thing-in-the-world (that thing is
+unchanged by that expression, and that expression is more available or
+apprehensible to the subject than the thing itself)--in digital
+literary studies ("Data Beyond Representation" par. 2). Pushing
+against this assumption of representation in computational modelling,
+she explains that "entities don’t pre-exist engagements but are
+generated in an ongoing or emergent way, by those intra-actions"
+("Data Beyond Represenation" par. 2). This is not to say that one can
+refrain from implication with the object of study. Rather, a
+performative approach assumes such implication to be the starting
+point of analysis: "all inquiries create boundaries (or cuts) in a
+complex reality that can be organised in other ways; and all such
+boundary-making practices are inevitably biased at the same time as
+they are a condition of inquiry" (Data Beyond Representation
+par. 16). The point, for Bode, is to examine "how... we inscribe the
+boundaries we often presume to represent" ("Data Beyond Representation
+par 11.)
+
+Her current project, /Reading at the Interface/, examines the ways
+that Australian literature has been characterized by various
+"paratexts," or "writings about literature." The project explores
+alternative understandings of Australian literature across various
+platforms, including academic journals, newspapers, /Goodreads/, and
+/Librarything/.
+
+
+"In mining /Goodreads/, for instance, using a list of works defined by
+an academic bibliography, I’m not interested in representing
+discussion of “Australian literature” on Goodreads so much as in
+materialising that platform in ways that cannot be separated from my
+categories of analysis" (Data Beyond Representation par. 19).
+
+
+
+
+
+For Bode, what statisticians value as “representativeness” or
+“reproducibility” isn’t as important (within a humanities context) as
+the materiality of the apparatus. Rather than attempt to secure a
+factual or objective status of the data, we should double down on the
+idiosyncracies of our tools. Accordingly, Bode suggests that we
+approach literary databases in performative terms, taking a
+self-conscious appraisal of the tools of analysis, as "effects of
+material-semiotic engagements" ("Data Beyond Representation" 15).
+- "at present, discussion of “representativeness” and
+  “reproducibility” are bound up together, with the implication that
+  if we can represent something accurately enough the results of
+  analysis will be reproducible. Foregrounding the apparatus, by
+  contrast, recognises that our knowledge making practices, as Karen
+  Barad puts it, “contribute to, and are part of, the phenomena we
+  describe”" (Bode "Data Beyond Representation, par. 26).
+
+"I’m exploring what it might mean to conceive of literary databases as
+apparatuses, in the sense the term is used in various scientific
+disciplines, particularly physics. There, an apparatus is a specific
+material configuration, including of physicists, wherein certain
+properties become determinate, while others are excluded. One can’t
+measure light as a particle and a wave using the same apparatus; but
+that doesn’t mean that light is not one thing when it is measured as
+the other. Although it must be said that the phenomena explored in
+digital literary studies are much more diverse than those for which
+apparatuses in physics are developed, I wonder if shifting to a
+conception of measurements as effects of particular material
+arrangements might help us to reframe some key debates in our field."
+(Bode "Data Beyond Representation, par. 24).
 
 *** Critique of Underwood's "sensitivity"---a focus on attention
 Underwood overlooks the ways that quantitative literary analysis, or
@@ -1802,19 +1877,14 @@ phenomenon might allow for interactions and representations in a
 digital environment that, rather than insisting on fixity, foreground
 principles of emergence” ("Rationale" 34).
 
-*** Bode's materiality, critque of Underwood
-
-Katherine Bode's offers a method that builds off the humanistic
-approaches in textual scholarship and bibliography, where the model is
-prior to computation.
-
-*** Waves displacement -- media
-a formal displacement that uses electronic media to re-organize,
-re-structure and display the story in the way we encounter it.
-      
-
 
 ** TODO Value: Vantanges/Opacity
+
+Begin the QLS work by examining gaps and biases: “quantitative
+literary studies should begin by trying, as much as possible, to
+consider the nature of ontological gaps and epistemological biases in
+its evidence” (Bode "Model Away Bias" 97).
+
 *** Klein, Mandell, Caughie, Gaboury
 *** Against totalization
 *** The visible and the invisible, opting out 

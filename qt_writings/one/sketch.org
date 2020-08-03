@@ -256,41 +256,29 @@ mediation, through an interface, mice, GUIs, keyboards, etc.
 
 
 ** TODO draft Value: Performativity
-Digital formats and interfaces facilitate queer encounters methods, an
-intimate process of engaging with literature on a computer, where
-users can manipulate and transform text.
+--> Digital formats and interfaces facilitate an intimate process of
+engaging with literature on a computer, where users can unlock the
+dynamicity of texts. This performative elements allows unique and
+alternative reading paths. 
 
+*** the value of alterneity over reproduction: performance
+We move away from the reproducible to the performative, exploring
+active elements of analysis, the sensible engagement between critic
+and text
+
+*** Bode's materiality, critque of Underwood
+Bode emphasizes attention to the apparatus. 
 
 *** Critique of Underwood's "sensitivity"
 Distant reading can be sensitive, harnessing the attention span of
 the reader to present new pathways through text. 
 
-*** Bode's materiality, critque of Underwood
-
-Katherine Bode's critique of Underwood points out that QLS methods
-incorporate hidden assumptions about the data, about what is
-findable. She offers a method that builds off the humanistic
-approaches in textual scholarship and bibliography, where the model is
-prior to computation. 
-
 *** Tanya Clement: discovery
-
-*** Against reproduction, for remediation/deformance 
-
-*** McGann's "prosthetic extension" 
-These tools work alongside the reader’s intuition, in what Jerome
-McGann calls a “prosthetic extension of that demand for critical
-reflection,” by which the reader is able to feel her way through the
-text (18).
-
-*** Waves displacement -- media
-a formal displacement that uses electronic media to re-organize,
-re-structure and display the story in the way we encounter it.
-      
+                
 
 
 ** TODO draft Value: Vantanges
-
+case in point: /Voyant-Tools/
 *** Klein, Mandell, Caughie, Gaboury
 *** Against totalization
 *** The visible and the invisible, opting out 
@@ -298,9 +286,9 @@ jacob gaboury
 
 
 ** TODO Value: Provisionality 
-
+case in point: some text encoding?
 *** Susan Brown's provisionality
-*** Julia Flander's work on Orlando
+*** Julia Flander's work on Orlando 
 *** Against stability 
 
 

@@ -1,5 +1,134 @@
 * Digital Methods and Textualitites
 ** Methods 
+*** Bode, Katherine. “Data beyond representation: From computational
+modelling to performative materiality.” MLA Convention, Seattle, 10
+January 2020. https://katherinebode.wordpress.com/home/mla-convention-2020/
+
+Bode approaches quantitative analysis as performative, and takes a
+self-conscious appraisal of the tools of analysis. Her work interferes
+at the boundary of the humanities and social sciences, trying to draw
+ever more distinctions between their methods and approach. What
+statisticians value as “representativeness” or “reproducibility” isn’t
+as important (within a humanities context) as the materiality of the
+apparatus. Rather than attempt to secure a factual or objective status
+of the data, we should double down on the idiosyncracies of our
+tools. According to Bode, we should “approach literary databases… in
+performative terms” and our analyses of them as “effects of
+material-semiotic engagements”.
+
+- “This project aims to progress a central insight of cultural
+  criticism: that meaning is not carried by texts but produced in
+  situated interactions between readers, texts and
+  contexts. Conceptually, the project works at the intersection of
+  human reading and computer modeling to resist their common
+  opposition and explore how digital forms and methods might progress
+  critical agendas of the humanities, and vice versa. This theoretical
+  investigation occurs alongside – enables and is enabled by – a
+  data-rich one. Using massively expanded digital evidence of
+  reception of Australian literature (in academic journals, newspapers
+  and social media book reviewing platforms such as GoodReads and
+  LibraryThing), the project explores reading and modeling in terms of
+  emerging and intersecting assemblages of human and nonhuman
+  actors ("Reading at the Interface").
+- For my current, /Reading at the Interface/ database, I’m interested
+  in how different collections of paratexts (or writings about
+  literature) might materialise or constitute different versions of
+  “Australian literature”" (par. 14).
+- "at present, discussion of “representativeness” and
+  “reproducibility” are bound up together, with the implication that
+  if we can represent something accurately enough the results of
+  analysis will be reproducible. Foregrounding the apparatus, by
+  contrast, recognises that our knowledge making practices, as Karen
+  Barad puts it, “contribute to, and are part of, the phenomena we
+  describe”" (par. 26).
+
+Performativity: Modeling scholarly editions 
+- “In the book I wrote with the Australian Newspaper Fiction Database,
+  I proposed responding to this situation by modelling our databases
+  on scholarly editions. With some exceptions, scholarly editors also
+  don’t use the language of performativity. But a scholarly edition
+  doesn’t represent a literary work (or, I suggested, a literary
+  system); rather, it intervenes in – simultaneously transforming and
+  engaging with – a complex unfolding event" (par. 23). 
+
+"More recently, however, just as Mandell argues that digital scholarly
+environments shouldn’t be conceived as fixed, I now wonder if the
+framework of the scholarly edition is rather too bound by print
+conventions. As a consequence, in Reading at the Interface, I’m
+exploring what it might mean to conceive of literary databases as
+apparatuses, in the sense the term is used in various scientific
+disciplines, particularly physics. There, an apparatus is a specific
+material configuration, including of physicists, wherein certain
+properties become determinate, while others are excluded. One can’t
+measure light as a particle and a wave using the same apparatus; but
+that doesn’t mean that light is not one thing when it is measured as
+the other. Although it must be said that the phenomena explored in
+digital literary studies are much more diverse than those for which
+apparatuses in physics are developed, I wonder if shifting to a
+conception of measurements as effects of particular material
+arrangements might help us to reframe some key debates in our field."
+(Bode "Data Beyond Representation, par. 24).
+
+*** Bode, Katherine. ‘Why You Can’t Model Away Bias,’ Modern Language
+Quarterly (2020) 81 (1): 95–124.
+
+Bode brings the discourse of textual scholarship, bibliography
+studies, scholarly editing into conversations about quantitative
+literary studies. There’s an attention to form, ethics, modeling in
+these areas of inquiry which make them more self aware of how they are
+transforming “data” prior to analysis.  Bode’s position is that QLS
+ought to begin by considering the types of gaps and biases in
+evidence. She wants critics to incorporate analyses from textual
+studies prior to running statistical tests. We should build QLS out of
+these areas of humanistic inquiry that center interpretation. There
+are certain processes in statistical analysis that maintain bias and
+unknown assumptions: sampling and comparison do not get an accurate
+picture if what we are searching for is unfindable or harder to find. 
+
+Responding to Ted Underwood’s Distant Horizons. Critique on
+“perspectival modeling” as ignoring ethical issues that persist with
+scale.
+- “Underwood’s proposal to replace data modeling with sampling and
+  comparison, alone or in concert with perspectival modeling, is
+  ultimately inseparable from his view of the literary past as a
+  single system of interlocking parts. But the literary past, and
+  (quantitative) literary studies, are spaces of highly differentiated
+  knowledges, opportunities, constraints, resources, and
+  possibilities, and these must be considered in any arguments about,
+  or propositions for the future of, the discipline” (116).
+
+Describes a disagreement between quantitative literary critics about
+the role of analysis and historicization of datasets prior to
+statistical analysis. Bode’s position is that QLS ought to begin by
+considering the types of gaps and biases in evidence. She wants
+critics to incorporate analyses from textual studies prior to running
+statistical tests.
+- “quantitative literary studies should begin by trying, as much as
+  possible, to consider the nature of ontological gaps and
+  epistemological biases in its evidence” (97).
+
+
+The model precedes the computation: “A dataset of digital texts is not
+simply found – or extracted, harvested, downloaded, mined, and so on –
+prior to being modeled using computational methods; rather, modeling
+is the means by which literary concepts and artefacts are both made
+computable and computed” (100).
+
+
+*** Bode, Katherine.  “The Equivalence of ‘Close’ and ‘Distant’
+Reading; or, Toward a New Object for Data-Rich Literary History.” MLQ
+78.1 (2017): 77-106.
+
+Critiques “distant reading” (ala Moretti & Jockers) for the way it reduces and dehistoricizes literary data. Distant reading, in this sense, actually resembles close reading, which builds out of New Critical attention to text as data, which neglects textual scholarship. In its place, Bode proposes the “scholarly edition” as a unit of analysis. Distant and Close reading make the same assumptions. What we need is not a new method, but a new object. 
+
+- “What Jockers actually shows is the capacity of his computational
+  method (a combination of stylistic analysis, topic modeling, and
+  network analysis) to predict whether a particular work (or rather, a
+  “bag of words” from that work [134]) was by a man or woman, from a
+  particular decade, of a particular genre, or by an author of a
+  particular nationality, from a corpus defined according to those
+  parameters” (88).
+
 *** Clement, Tanya. "Distant Listening or Playing Visualisations
 Pleasantly with the Eyes and Ears." Digital Studies/le Champ
 Numérique, 3(2). DOI: http://doi.org/10.16995/dscn.236
