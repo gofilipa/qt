@@ -81,6 +81,9 @@
 <loc>http://localhost:4000/qt/chapter_1/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/qt/chapter_1/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/qt/getting-started/</loc>
 </url>
 <url>
@@ -105,13 +108,5 @@
 <url>
 <loc>http://localhost:4000/qt/qt_writings/feedback/F.Calado%20prospectus%20review.pdf</loc>
 <lastmod>2020-01-14T02:42:05+00:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/qt/qt_writings/one/draft1.html</loc>
-<lastmod>2020-08-03T14:40:05+01:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/qt/qt_writings/one/draft1.pdf</loc>
-<lastmod>2020-04-21T20:39:12+01:00</lastmod>
 </url>
 </urlset>

@@ -1,3 +1,9 @@
+---
+Layout: page
+title: Chapter 1
+permalink: /chapter_1/
+---
+
 * one
 
 **** chapter summary 
@@ -93,6 +99,10 @@ matrix of touch. Within digital queer literary materials, touch is a
 alternative possibilities for contact.
 
 *** /Waves/: queerness (story) is frustrating closure, eluding touch
+- > revise: because we do not have a sense of cause and effect, we
+struggle to square the narrator's motives, and her success, across the
+story
+
 Two examples will serve to demonstrate that queerness is concerned
 with touch and desire, and more precisely with /the desire for
 touching/ which is continually frustrated. Though one example comes
@@ -125,33 +135,32 @@ argues that the use of hyperlinks “present[s] a baffling range of
 choices for movement which actually led to a stifling of movement
 altogether” (“Significance”).
 
-[![Watch the video](./videos/erotic.mp4)]
+![Watch the video](./videos/erotic.gif)
 
 "DARE" > [arrow] > [arrow] > "I liked girls..." > "the lover" > "Only one of us is 15..." > "Jerk off…"
 
 I want to draw attention to this disorienting feeling of reading this
 text. Episodes do not have a discernible chronology or
 progression. They are non-linear, and clicking on the links is
-disruptive to any sense of coherence. The expectation for narrative
-coherence and closure is continually frustrated by the work’s
-form. Yet, in another sense, the fragmentary structure of the
-narrative is exactly what constitutes its appeal, as it compels the
-reader to chase an elusive understanding of sexuality. In particular,
-the text continually defies the reader’s expectations about the
-narrator. In the repeatedly linked node, aptly titled “erotic,” we see
-“and it was the most erotic year of my life” march across the screen
-in ticker tape (“And it was...”). This node is reached through two
-different sources, both of which feature sexual episodes between the
-narrator and men. **In a novella that largely consists of stories
-about the narrator’s sexual histories and fantasies with other women,
-this node is unexpected. It checks the reader’s expectations about the
-narrator’s homosexuality. There are other moments in the text that
-also create a similar dissonance from the associations between
-links. One of these associations occurs in the last node of the “beam
-routine” episode, when the narrator is about to perform her beam
-routine to sexually placate the man that she brought home. The link
-reads “I don’t want to have sex,” and it leads the reader to an
-episode about her experience with a woman:
+disruptive to any sense of coherence. The desire for narrative closure
+is continually frustrated by the work’s form. Yet, in another sense,
+the fragmentary structure of the narrative is exactly what constitutes
+its appeal, as it compels the reader to chase an elusive understanding
+of sexuality. In particular, the text continually defies the reader’s
+expectations about the narrator. In the repeatedly linked node, aptly
+titled “erotic,” we see “and it was the most erotic year of my life”
+march across the screen in ticker tape (“And it was...”). This node is
+reached through two different sources, both of which feature sexual
+episodes between the narrator and men. **In a novella that largely
+consists of stories about the narrator’s sexual histories and
+fantasies with other women, this node is unexpected. It checks the
+reader’s expectations about the narrator’s homosexuality. There are
+other moments in the text that also create a similar dissonance from
+the associations between links. One of these associations occurs in
+the last node of the “beam routine” episode, when the narrator is
+about to perform her beam routine to sexually placate the man that she
+brought home. The link reads “I don’t want to have sex,” and it leads
+the reader to an episode about her experience with a woman:
 
 #+BEGIN_QUOTE
 I’m in bed with Jennie Winchester and I realize she want me to undo
@@ -168,13 +177,11 @@ counting down the minutes until Jennie has to leave? What before
 seemed straightforward now appears to support alternate readings. The
 reader’s confusion in navigating through /Waves/ relates to the work’s
 central theme of narration as seduction, which reinforces an approach
-toward queerness as something elusive, a process that will never be
-complete. Narration as seduction works by piquing the reader's
-interest in the story, propelling her through hyperlinks across the
-various nodes, and repeatedly frustrating her desire for closure or
-resolution. The reader’s continually thwarted desire for narrative
-coherence enacts the themes of sexual discovery and seduction that the
-narrator experiences within the space of the story.
+toward queerness as something elusive, a condition that will never be
+fully intelligible. Narration as seduction works by piquing the
+reader's interest in the story, propelling her through hyperlinks
+across the various nodes, and repeatedly frustrating her desire for
+closure or resolution.
  
 *** Munoz's queerness as lack
 

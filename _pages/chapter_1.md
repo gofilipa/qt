@@ -1,7 +1,7 @@
 ---
-Layout: page
-title: Chapter 1
+layout: page
 permalink: /chapter_1/
+title: Chapter 1
 ---
 
 one
@@ -131,7 +131,7 @@ traverse (1). Speaking on *Waves*, James Pope argues that the use of
 hyperlinks "present\[s\] a baffling range of choices for movement which
 actually led to a stifling of movement altogether" ("Significance").
 
-\[!\[Watch the video\](./videos/erotic.mp4)\]
+![Watch the video](../qt_writings/one/videos/erotic.gif)
 
 \"DARE\" \> \[arrow\] \> \[arrow\] \> \"I liked girls...\" \> \"the
 lover\" \> \"Only one of us is 15...\" \> \"Jerk off...\"
