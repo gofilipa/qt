@@ -50,69 +50,80 @@ of girls/, and /the orlando project/(?).
 
 
 
-** intro touch via Rosenberg, Fischer, Anzaldua
+** Queerness, the Digital & Touch
 *** touch intersects queer and digital, abstracting sense
 
 If digital humanists and queer theorists are going to find some common
-ground, they might start with /touch/. Touch is a means of interfacing
-with the world, a mode of encounter between subject and object that
-applies to both digital media and queer subjects. The root of the word
-digital, "digitus," comes from the Latin word for finger or toe, and
-within the context of electronic media, it refers to a counting system
-based on ten digits[fn:1]. Associations between the digital and touch
-expand from numerical computation to include the haptic connections
-made through the intermediaries of mice, keyboards, and touch
-screens. To touch something, the digits extend, the furtherest
-appendage still part of the coherent body, and establish
-contact. Touch relates to queerness through the desire for touching
-that which is untouchable. It indexes a lack of access to the source
-of its desire.
+ground, they might start with /touch/. In the context of digital and
+queer, touch is a phenomenon of access. It offers a means of
+interfacing with the world, a mode of encounter between subject and
+object that applies to both digital media and queer subjects. The root
+of the word digital, "digitus," comes from the Latin word for finger
+or toe, and within the context of electronic media, it refers to a
+counting system based on ten digits[fn:1]. Associations between the
+digital and touch evolve from numerical computation to include the
+haptic connections made through the intermediaries of mice, keyboards,
+and touch screens. To touch something, the digits extend, the
+furtherest appendage of the coherent body, and establish
+contact. Moving to the context of queerness, touch indicates a core
+condition of desire and its frustration. Specifically, touch implies a
+desire for that which is precluded by heteronormative expectations,
+for that which is untouchable. The queer subject desires legibility,
+but they cannot achive it within the terms of dominant culture. At the
+intersection of the digital and queerness, touch, or the desire for
+touch, indexes this fumbling, this phenomenon of access.
 
-As a method of knowing based on feeling, touch can amplify sensation
-beyond the readily sensible. A complicated thesis about touch which
-this chapter will unpack: At the intersection of queerness and the
-digital, touch operates by abstracting its object through the
-intermediary of the sensible. This process of abstraction compensates
-for the core condition of queerness, which is untouchable, unknowable,
-and inexpressible. By transforming the inaccessible source into new
-forms, /queer forms/, queerness is exponentially sensualized and
-engaging. Within digital queer literary materials, touch is a /reading
-method/ that works by abstracting the senses to provide alternative
-possibilities for connection.
+Touch is also a means of knowing based on feeling. To compensate for
+its lack of access, touch amplifies sensation beyond the readily
+sensible. A complicated thesis about touch which this chapter will
+unpack: touch operates by abstracting its object through the
+intermediary of the sensible. This process of abstraction counters the
+core condition of queerness, which is unknowable and inexpressible,
+and of digital media, which is a formalization of the
+inexpressible. By transforming the inaccessible source into new forms,
+/queer forms/, queerness is sensualized and engaging. Through layers
+of abstraction and formalization, computational media can be handled
+and manipulated.
+
+This examination supposes that these parallels between digital media
+and queerness might coalesce into a reading method. This reading
+method engages queer subject matter with digital media through the
+matrix of touch. Within digital queer literary materials, touch is a
+/reading method/ that works by abstracting the senses to provide
+alternative possibilities for contact.
 
 *** /Waves/: queerness (story) is frustrating closure, eluding touch
-Queerness is concerned with touch and desire, and more precisely with
-/the desire for touching/. One example text figures touching as desire
-quite literally, with touch being a means of pursuing desire. This
-"hypertext," which is an electronic text format that links "nodes" or
-pages within an associative structure, enacts desire by tempting the
-reader through the various episodes of the story in order to achieve
-narrative closure. /These Waves of Girls/, by Caitlin Fisher, is an
-autobiographical account of the author's sexual coming-of-age. The
-narrative unfolds in a series of vignettes connected to each other by
-associative hyperlinks, which recount Fischer's adolescent experiences
-with men and women when she was growing up in England. Despite winning
-the 2001 Electronic Literature Organization Award, this "hypertext
-novella" draws much criticism for a formal structure precludes a
-straightforward reading experience. Through the profusion of
-hyperlinks, which connect one node to the next in ways that disrupt
-temporal and causal relations, this hypertext frustrates the reader’s
-desire for narrative coherence. The relatively comfortable and
-conventional reading practice of turning the pages in a traditional
-codex dissolves in the distracting and technical complexity of a
-narrative that requires what Espen Aarseth calls “untrivial effort” to
-traverse (1). An empirical study on reader responses to the
-fragmentation of narrative structure finds that the “heavy cognitive
-demands of the interfaces used by hyper-writers" lead to reader
-frustration, dissapointment, and low engagement (Pope “Where do we Go
-from Here?”  75). Speaking on /Waves/ in particular, James Pope argues
-that the use of hyperlinks “present[s] a baffling range of choices for
-movement which actually led to a stifling of movement altogether”
-(“Significance”). Joining Pope, Anja Rau criticizes the overabundance
-of options for movement within the hypertext, as well as its poor
-design and lack of significant markers. She comes to the similar
-conclusion that these elements diminish the reader’s absorption in the
-narrative.
+Two examples will serve to demonstrate that queerness is concerned
+with touch and desire, and more precisely with /the desire for
+touching/ which is continually frustrated. Though one example comes
+from a digital source and the other from print, both draw on
+aesthetics that amplify a peculiarly digital aesthetic, what I will
+elaborate as /queer form/, which takes a self-consicous and critical
+stance torward the source material. This is to say that the physical
+format of these sources /matter/, but that's not the point.
+
+The first text, entitled /These Waves of Girls/ by Caitlin Fisher,
+figures touching as desire quite literally, with touch being the means
+of pursuing desire. This "hypertext," an electronic text format that
+links "nodes" or pages within an associative structure, enacts desire
+by tempting the reader through the various episodes of the story in
+order to achieve narrative closure. /Waves/ is an autobiographical
+account of the author's sexual coming-of-age, which unfolds in a
+series of vignettes connected to each other by associative hyperlinks
+that recount Fischer's adolescent experiences with men and
+women. Despite winning the 2001 Electronic Literature Organization
+Award, this "hypertext novella" draws much criticism for a formal
+structure precludes a straightforward reading experience. Through the
+profusion of hyperlinks, which connect one node to the next in ways
+that disrupt temporal and causal relations, this hypertext frustrates
+the reader’s desire for narrative coherence. The relatively
+comfortable and conventional reading practice of turning the pages in
+a traditional codex dissolves in the distracting and technical
+complexity of a narrative that requires what Espen Aarseth calls
+“untrivial effort” to traverse (1). Speaking on /Waves/, James Pope
+argues that the use of hyperlinks “present[s] a baffling range of
+choices for movement which actually led to a stifling of movement
+altogether” (“Significance”).
 
 [![Watch the video](./videos/erotic.mp4)]
 
