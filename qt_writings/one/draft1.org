@@ -1,9 +1,3 @@
----
-Layout: page
-title: Chapter 1
-permalink: /chapter_1/
----
-
 * one
 
 **** chapter summary 
@@ -100,38 +94,37 @@ alternative possibilities for contact.
 
 *** /Waves/: queerness (story) is frustrating closure, eluding touch
 - > revise: because we do not have a sense of cause and effect, we
-struggle to square the narrator's motives, and her success, across the
-story
+struggle to square the narrator's motives, and how to interpret her
+successes, aross the story.
 
 Two examples will serve to demonstrate that queerness is concerned
 with touch and desire, and more precisely with /the desire for
-touching/ which is continually frustrated. Though one example comes
-from a digital source and the other from print, both draw on
-aesthetics that amplify a peculiarly digital aesthetic, what I will
-elaborate as /queer form/, which takes a self-consicous and critical
-stance torward the source material. This is to say that the physical
-format of these sources /matter/, but that's not the point.
+touching/ which is continually frustrated. Both examples draw from a
+digital aesthetic, which I will elaborate as /queer form/, though one
+is from a digital source and the other from print. /Queer form/ is
+characterized by a self-consicous and critical stance torward the
+source material: although the physical format of these sources
+/matter/, for queer form, this is not the point.
 
 The first text, entitled /These Waves of Girls/ by Caitlin Fisher,
 figures touching as desire quite literally, with touch being the means
 of pursuing desire. This "hypertext," an electronic text format that
 links "nodes" or pages within an associative structure, enacts desire
-by tempting the reader through the various episodes of the story in
-order to achieve narrative closure. /Waves/ is an autobiographical
-account of the author's sexual coming-of-age, which unfolds in a
-series of vignettes connected to each other by associative hyperlinks
-that recount Fischer's adolescent experiences with men and
-women. Despite winning the 2001 Electronic Literature Organization
-Award, this "hypertext novella" draws much criticism for a formal
-structure precludes a straightforward reading experience. Through the
-profusion of hyperlinks, which connect one node to the next in ways
-that disrupt temporal and causal relations, this hypertext frustrates
-the reader’s desire for narrative coherence. The relatively
-comfortable and conventional reading practice of turning the pages in
-a traditional codex dissolves in the distracting and technical
-complexity of a narrative that requires what Espen Aarseth calls
-“untrivial effort” to traverse (1). Speaking on /Waves/, James Pope
-argues that the use of hyperlinks “present[s] a baffling range of
+by tempting the reader to click through the various episodes of the
+story in order to achieve narrative closure. /Waves/ is an
+autobiographical account of the author's sexual coming-of-age, which
+unfolds in a series of interconnected vignettes that recount Fischer's
+adolescent experiences with men and women. Despite winning the 2001
+Electronic Literature Organization Award, this "hypertext novella"
+draws much criticism for a formal structure precludes a
+straightforward reading experience. Through the profusion of
+hyperlinks, which connect one node to the next in ways that disrupt
+temporal and causal relations, this hypertext frustrates the reader’s
+desire for narrative coherence. The relatively comfortable and
+conventional reading practice of turning the pages in a traditional
+codex dissolves in the distracting and technical complexity of a
+narrative that requires effort to traverse. Speaking on /Waves/, James
+Pope argues that the use of hyperlinks “present[s] a baffling range of
 choices for movement which actually led to a stifling of movement
 altogether” (“Significance”).
 
@@ -139,7 +132,7 @@ altogether” (“Significance”).
 
 "DARE" > [arrow] > [arrow] > "I liked girls..." > "the lover" > "Only one of us is 15..." > "Jerk off…"
 
-I want to draw attention to this disorienting feeling of reading this
+I want to draw attention to the disorienting feeling of reading this
 text. Episodes do not have a discernible chronology or
 progression. They are non-linear, and clicking on the links is
 disruptive to any sense of coherence. The desire for narrative closure
@@ -147,20 +140,23 @@ is continually frustrated by the work’s form. Yet, in another sense,
 the fragmentary structure of the narrative is exactly what constitutes
 its appeal, as it compels the reader to chase an elusive understanding
 of sexuality. In particular, the text continually defies the reader’s
-expectations about the narrator. In the repeatedly linked node, aptly
-titled “erotic,” we see “and it was the most erotic year of my life”
-march across the screen in ticker tape (“And it was...”). This node is
-reached through two different sources, both of which feature sexual
-episodes between the narrator and men. **In a novella that largely
-consists of stories about the narrator’s sexual histories and
-fantasies with other women, this node is unexpected. It checks the
-reader’s expectations about the narrator’s homosexuality. There are
-other moments in the text that also create a similar dissonance from
-the associations between links. One of these associations occurs in
+expectations about the narrator's motives. In the repeatedly linked
+node, aptly titled “erotic,” we see “and it was the most erotic year
+of my life” march across the screen in ticker tape (“And it
+was...”). This node is reached through two different sources, both of
+which feature sexual episodes between the narrator and men. In a
+novella that largely consists of stories about the narrator’s sexual
+history and fantasies with other women, this node is unusual. It
+checks the reader’s expectations about the narrator’s sexual
+desire. The lack of a coherent narrative arc disrupts the relationship
+between cause and effect, scrambling the reader's sense of the main
+character's motives. Other moments in the text create a similar
+dissonance from the associations between links, a dissonance that
+brings the reader to question the narrative momentum. One occurs in
 the last node of the “beam routine” episode, when the narrator is
-about to perform her beam routine to sexually placate the man that she
-brought home. The link reads “I don’t want to have sex,” and it leads
-the reader to an episode about her experience with a woman:
+about to perform gymnastics to placate the man that she brought
+home. The link reads “I don’t want to have sex,” and it leads the
+reader back to a familiar episode about "Jennie Winchester":
 
 #+BEGIN_QUOTE
 I’m in bed with Jennie Winchester and I realize she want me to undo
@@ -170,15 +166,16 @@ the clock. At exactly 10:43 I unbutton her Levis and shove my hand
 inside, barely undoing the zipper. “I’m in bed...”  
 #+END_QUOTE
 
-Now the reader experiences a previous node from a new link that casts
-its former meaning into doubt. Is the narrator watching the clock
-because she wants to make the most of her time with Jennie, or is she
-counting down the minutes until Jennie has to leave? What before
-seemed straightforward now appears to support alternate readings. The
-reader’s confusion in navigating through /Waves/ relates to the work’s
-central theme of narration as seduction, which reinforces an approach
-toward queerness as something elusive, a condition that will never be
-fully intelligible. Narration as seduction works by piquing the
+Now the reader experiences this familiar node in a new way that casts
+its former meaning into doubt. Why is the narrator watching the clock?
+Does she want to make the most of her time with Jennie, or is she
+counting down the minutes until she has to leave? Because the
+character's desires have been scrambled by the freeform structure of
+episodes, they are not legible to the reader. What seemed
+straightforward now appears to support alternate readings. The
+reader’s confusion in navigating through /Waves/ reinforces queerness
+as something elusive, a condition that will never be fully
+intelligible. The narration works as a seduction by piquing the
 reader's interest in the story, propelling her through hyperlinks
 across the various nodes, and repeatedly frustrating her desire for
 closure or resolution.
@@ -190,7 +187,7 @@ experience of queerness as displacement, a feeling of a lack, that
 creates a space for emergent affects. José Esteban Muñoz articulates
 queerness as something "not yet here” (/Cruising Utopia/ 1). Rather
 than signify a forward-looking, or future-oriented desire, "not yet
-here" suggests a futurity engaged within the present. Munoz explains:
+here" indicates a futurity engaged within the present. Munoz explains:
 
 #+BEGIN_QUOTE
 Queerness is /a structuring and educated mode of desiring/ that allows
