@@ -92,10 +92,7 @@ matrix of touch. Within digital queer literary materials, touch is a
 /reading method/ that works by abstracting the senses to provide
 alternative possibilities for contact.
 
-*** /Waves/: queerness (story) is frustrating closure, eluding touch
-- > revise: because we do not have a sense of cause and effect, we
-struggle to square the narrator's motives, and how to interpret her
-successes, aross the story.
+*** /Waves/: queerness frustrates closure, eludes touch
 
 Two examples will serve to demonstrate that queerness is concerned
 with touch and desire, and more precisely with /the desire for
@@ -128,7 +125,7 @@ Pope argues that the use of hyperlinks “present[s] a baffling range of
 choices for movement which actually led to a stifling of movement
 altogether” (“Significance”).
 
-![Watch the video](./videos/erotic.gif)
+![Watch the video](../qt_writings/one/videos/erotic.gif)
 
 "DARE" > [arrow] > [arrow] > "I liked girls..." > "the lover" > "Only one of us is 15..." > "Jerk off…"
 
@@ -180,70 +177,31 @@ reader's interest in the story, propelling her through hyperlinks
 across the various nodes, and repeatedly frustrating her desire for
 closure or resolution.
  
-*** Munoz's queerness as lack
-
-My argument builds off queer theorists who have isolated a core
-experience of queerness as displacement, a feeling of a lack, that
-creates a space for emergent affects. José Esteban Muñoz articulates
-queerness as something "not yet here” (/Cruising Utopia/ 1). Rather
-than signify a forward-looking, or future-oriented desire, "not yet
-here" indicates a futurity engaged within the present. Munoz explains:
-
-#+BEGIN_QUOTE
-Queerness is /a structuring and educated mode of desiring/ that allows
-us to see and feel beyond the quagmire of the present... Queerness is
-/a longing/ that propels us onward, beyond romances of the negative
-and toiling in the present. Queerness is that thing that lets us feel
-that this world is not enough, that indeed /something is
-missing/. Emphasis mine, /Cruising Utopia/ 1
-#+END_QUOTE
-
-Queerness is defined as being about desire, a "longing that propels us
-onward." The ontological nature of queerness is founded in a lack, in
-a vacuum. This vacuum results from the political and social
-environment that attempts to erase the existence of minorty subjects,
-particularly queer people of color. Even as LGBT groups appear to gain
-more visibily and acceptance within the intitution of marriage, and
-the military and workplaces, Munoz points out that such gains are
-trapped within the limiting, normative time of the present. [Queerness
-is being wrenched within heteronormative agendas----IE the 2020
-surpreme court decision that protects queer desire bc it protects
-straight desire].
-
-That queerness being founded in a lack points to a peculiar quality of
-queerness that has to do with emergence. Because queerness is "not yet
-here," it calls for something else, for something that "allows us to
-see and feel beyond the quagmire of the present." In other words,
-queerness expands a sensibility of feeling to include sensations
-beyond the immediate, the readily sensible. 
-
-*** /confessions/: queerness and the denial of touch
-This feeling of the world being "not enough" is what activates the
-full sensorium of queer affects. This works through the denial,
-deferral, or frustration of touch. For queer subjects, the desire to
-touch has always been a frought experience. In /The Confessions of the
-Fox/ by Jordy Rosenberg, the main character displays how a troubled
-relationship to touch constitutes subjectivity. Set in eighteenth
-century London, this story follows Jack Sheppard, a young transgender
-male making his way as a wily thief through the London society. In the
-time before the pathologization of nonnormative sexual and gender
-identities, Sheppard struggles to articulate his difference, what he
-calls his "/Something/," from the rest of London society: "This
-something that set him apart from other coves [men]. Something that
-had caus'd him to dress his own chest in taut bandages... pinching at
-his ribs, throttling his every Breath to a forced shallow bird-sipping
-of the air" (33). The difficulty with self-identification and
-categorization extends from the main character to the narrative's
+*** /Confessions/: queerness and the denial of touch
+This frustration of desire is what activates the full sensorium of
+queer affects. For queer subjects, desire has always been a frought
+experience. In my second example, /The Confessions of the Fox/ by
+Jordy Rosenberg, the main character exhibits a troubled relationship
+to touch that constitutes subjectivity. Set in eighteenth century
+London, this story follows Jack Sheppard, a young transgender male
+making his way as a wily thief. In the time before the pathologization
+of nonnormative sexual and gender identities, Sheppard struggles to
+articulate his difference, what he calls his "/Something/," from the
+rest of London society: "This something that set him apart from other
+coves [men]. Something that had caus'd him to dress his own chest in
+taut bandages... pinching at his ribs, throttling his every Breath to
+a forced shallow bird-sipping of the air" (33). The difficulty with
+self-categorization extends from the main character to the narrative's
 genre, which unfolds as historical fiction overlaid with contemporary
-memoir. Sheppard's story is discovered in the present day by Dr. Voth,
-a rueful academic, also transgender, who immediately realizes the
-significance of Sheppard's manuscript for the historical record. Voth
-proceeds to annotate the document with relevant references and
-increasingly, his own anecdotes tangential to the narrative. In one
-scene, Sheppard is having a romantic moment with his lover, Bess Khan,
-a bi-racial prostitute who initiates Jack into the London underground
-society of "rogues," when Voth relates his own story about his former
-lover:
+fictional memoir. Sheppard's story is discovered in the present day by
+Dr. Voth, a rueful academic, who is also transgender. Voth immediately
+recognizes the significance of Sheppard's manuscript for the
+historical record, and he proceeds to annotate the document with
+relevant references and increasingly, his own tangential anecdotes. In
+one scene of the manuscript, Sheppard is having a romantic moment with
+his lover, Bess Khan, a bi-racial prostitute who initiates Jack into
+the London underground society of "rogues," when Voth relates his own
+story about his former lover:
 
 #+BEGIN_QUOTE
 She opened her legs a bit, twitched them open, really. I caught my
@@ -268,7 +226,7 @@ burdened the mind, that might even be the very foundation of
 melancholy and despair. But, oh Reader, looking at a woman you really
 get a feel for the way that fire is a phenomenon of touch. And my
 point is, if you have every been a lesbian, you will not even have to
-touch a woman to know that. (169)
+touch a woman to know that. 169
 #+END_QUOTE
 
 Here, desire is characterised not by the search for satisfaction, or
@@ -280,64 +238,100 @@ contact. Associating this distinction between imaginary and real
 contact to the realm of identity, Dr. Voth's lover refers to him as a
 "lesbian," despite his having already transitioned to a male gender
 identity. The term fits because it signals not a gender identity but a
-/mode of being/ that is more concerned with the visible, which
-portends the potential of connection, rather than verifiable
-contact. With regard to desire, the difference hinges on the role of
-the imagination in activating certain sensors and receptors that
-cannot be accessed in the "real," actualized world. Here, fancy takes
-on the connotations of the fanciful; desire grows in the
-imagination. But this does not mean the sensations resulting from this
-desire are any less palpable and sensual; on the contrary, such a
-desire heightens and indeed maximizes physical experience. This mode
-of desiring is what characterizes queerness in the text: a desire for
-something that, because it cannot or will not be fulfilled, amplifies
-the fullness of that desire. Touch, or the lack of touch, defines a
-peculiarly queer subjectivity in the novel.
+/mode of being/ that is more concerned with the potential of
+connection rather than verifiable contact. With regard to desire, the
+difference hinges on the role of the imagination in activating certain
+sensors and receptors that cannot be accessed in the "real,"
+actualized world. Voth's fancy in seeing his lover augments with
+connotations of the fanciful; his desire grows in the imagination. But
+this does not mean the sensations resulting from this desire are any
+less palpable and sensual; on the contrary, such a desire maximizes
+physical experience---it is a desire for something that, because it
+cannot or will not be fulfilled, amplifies the fullness of that
+desire. This mode of desiring is what characterizes queerness in the
+text. Here, touch, or the lack of touch, defines a peculiarly queer
+subjectivity.
+
+*** Munoz's queerness as lack that creates space for emergence
 
 In both /Waves/ and /Confessions/, queerness is constituted by a
-troubled relationship to touch. In /Waves/, frustrating touch eludes
-satisfaction and complicates sexuality. In /Confessions/, maintaining
-the gap between sight and touch stimulates the senses beyond what's
-possible within normative expectations of sexual desire. The condition
-of being continually thwarted gestures at an affect of suspension or
-displacement that is central to the experience of queerness, an affect
-that we will now explore in depth, which we call the "untouchable.
+troubled relationship to touch, reinforcing queerness as something
+that cannot be grasped or is beyond grasp. In /Waves/, touch is the
+continually frustrated means for traversing the narrative; clicking
+her way though the nodes, the reader fails to grasp the arc of the
+story or the intentions of the narrator. In /Confessions/, denying
+touch casts queer identity as something beyond
+categorization. Maintaining the gap between sight and touch stimulates
+the senses beyond what's possible within normative expectations of
+sexual desire. This condition of inaccessibility gestures at an affect
+of suspension or displacement that is central to the experience of
+queerness, an affect that we call the "untouchable," which we now
+explore in depth.
 
+The idea of the "untouchable" builds off queer theorists who have
+isolated a queer experience of displacement, estrangement, or a
+feeling of a lack that creates a space for emergent affects. This
+experience derives from the political and social environment that
+attempts to erase the existence of minorty subjects, particularly
+queer people of color. Even as LGBT groups appear to gain more
+visibily and acceptance within the intitution of marriage, and the
+military and workplaces, such gains are trapped within the limiting,
+normative time of the present. Accordingly, José Esteban Muñoz defines
+queerness as being about desire, a "longing that propels us onward,"
+for what is "not yet here." Muñoz explains:
+
+#+BEGIN_QUOTE
+Queerness is /a structuring and educated mode of desiring/ that allows
+us to see and feel beyond the quagmire of the present... Queerness is
+a longing that propels us onward, beyond romances of the negative and
+toiling in the present. Queerness is that thing that lets us feel that
+this world is not enough, that indeed something is missing. Emphasis
+mine, /Cruising Utopia/ 1
+#+END_QUOTE
+
+The ontological nature of queerness is founded in a lack, in a
+vacuum. Rather than strive that missing thing, or a forward-looking,
+future-oriented desire, "not yet here" indicates a quality situated
+within the present. Because queerness is "not yet here," it calls for
+something else, for something that "allows us to see and feel beyond
+the quagmire of the present," opening a space for emergent affects. In
+other words, queerness expands a sensibility of feeling to include
+sensations beyond the immediate, the readily sensible.
+
+**** TODO homonormativity: add supreme court decision 
+[Queerness is being wrenched within heteronormative agendas----IE the
+2020 surpreme court decision that protects queer desire bc it protects
+straight desire].
 
 
 ** the problem: queerness as untouchable 
-*** TODO draft estrangement as central to queerness
-“Editor’s Introduction”: Queering Archives, Intimate Tracings, 2015:
-The estrangement that continually happens with dealing with
-queerness. Estrangement from yourself, the materials, and others.
-
-“Estrangement” --- the torment of queer literature -- the pain of not
-identification but of not identifying. Of reading the text and finding
-and not finding yourself in the pages.
-
 *** TODO reorg disidentification is a clash of affects
-Queerness is untouchable. By this I mean that queer subjects cannot be
-accessed or known in the same way that majority subjects are within
-dominant culture. As readers, identifying with literary subjects is
-both dangerous and seducticve. Identities within texts are not stable
-across time and place, and acts of identification might collapse or
-overlook the complexity of experience. For queer readers in
-particular, identification often emerges from a desire to recognize
-within the past something that affirms queer experience in the
-present. Heather Love describes queer critics, "Like demanding lovers
-[who] promise to rescue the past when in fact they dream of being
-rescued themselves" (33). Reading in this sense is a search for
-reflection, community, or similitude, a link between past and
-present. This chapter borrows a theory of identity developed by Queer
-Theorists from mostly Latinx backgrounds and traditions, particularly
-Muñoz, Gloria Anzaldúa, and Ofelia Schutte. The work of these
-theorists, as well as that of Chela Sandoval, Norma Alarcón and Audre
-Lorde, all radical feminists of color, coalesce around a paradigm of
-identity formation that Muñoz describes as "identities-in-difference"
-(/Disidentifications/ 6). Muñoz's identities-in-difference marshalls
-theories of difference that center moments of failed interpellation,
-misfitting, and unbelonging as the core materials of identity
-formation.
+To understand how this emergence works, it is necessary to fully
+unpack this condition of queerness being "untouchable" with regard to
+literary analysis. By "untouchable," I mean that queer subjects cannot
+be accessed or known in the same way that majority subjects are within
+dominant culture. This condition applies specifically to queer
+subjects and themes in literature. Identities within texts are not
+stable across time and place, and as readers, we tend to make acts of
+identification that collapse or overlook the complexity of
+experience. For queer readers in particular, identification often
+emerges from a desire to recognize within the past something that
+affirms queer experience in the present. Heather Love describes queer
+critics, "Like demanding lovers [who] promise to rescue the past when
+in fact they dream of being rescued themselves" (33). Reading in this
+sense is a search for reflection, community, or similitude, a link
+between past and present.
+
+To explore the condition of "untouchability," this chapter borrows a
+theory of identity developed by Queer Theorists from mostly Latinx
+backgrounds and traditions, particularly Muñoz, Gloria Anzaldúa, and
+Ofelia Schutte. The work of these theorists, as well as that of Chela
+Sandoval, Norma Alarcón and Audre Lorde, all radical feminists of
+color, coalesce around a paradigm of identity formation that Muñoz
+describes as "identities-in-difference" (/Disidentifications/
+6). Muñoz's identities-in-difference marshalls theories of difference
+that center moments of failed interpellation, misfitting, and
+unbelonging as the core materials of identity formation.
 
 Due to the effects of what Muñoz calls the "cultural logics of
 heteronormativity, white supremacy, and misogyny," queer people of
@@ -516,6 +510,21 @@ others being fundamentally different and fundamentally knowable.
 In Haraway's words, a search for the "one code that translates all
 meaning perfectly, the central dogma of phallogocentrism" (Simians,
 Cyborgs, and Women 176).
+
+**** Arondekar, A., Cvetkovich, A., Hanhardt, CB, Kunzel, R., Nyong’O, T.,
+Rodríguez, JM, & Stryker, S. (2015). Queering archives: A roundtable
+discussion. Radical History Review, 2015(122),
+211-232. http://dx.doi.org/10.1215/01636545-2849630 Retrieved from
+https://escholarship.org/uc/item/7z19h7rg
+
+This roundtable discusses the "archival turn" in queer studies, and
+questions the methods, subjects, investments of queer archival
+studies. 
+
+Tavia Nyong'O: "I have never really deviated from the formative
+impression Foucault gave that what I should expect from the archive is
+the estrangement of myself and others, or that I could call that
+estrangement queer" (216). 
 
 *** TODO revise paranoia: sedgwick
 -> smooth transition from incommensurability to paranoia. 
@@ -838,6 +847,7 @@ of discovery followed by the of denouement of the conclusion, one
 immediately senses the full dramatic repertoire of critical
 inquiry. 
 
+[move to section on the digital]
 And the illusion of reason as being devoid of emotion is not limited
 to verbal discourse. It also pervades--perhaps even more
 insidiously---the apparently objective reprsentations data
@@ -1035,6 +1045,8 @@ social experience insistently internalized and corporeal” (108).
 
 
 ** solutions: abstraction, formalization, opacity
+**** TODO add Munoz's point on the ecstatic, rounding out the point
+from the previous section on queerness as being "not yet here" 
 *** TODO refine reparative reading is active
    
 We might explore, with Sedgwick, "forms of thought that would not be

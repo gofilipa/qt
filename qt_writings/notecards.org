@@ -1914,6 +1914,17 @@ an worlds whose mis/fits are context- and interaction-dependant" (61).
   sociality” (7). “Ecstatic time is signaled the moment one feels
   ecstasy…” (32).
 
+Chapter 4 "Gesture, Ephemera, and Queer Feeling"
+
+"When the historian of queer experience attempts to document a queer
+past, there is often a gatekeeper, representing a straight present,
+who will labor to invalidate the historical fact of queer lives ---
+present, past, and future. Queerness is rarely complemented by
+evidence, or at least by traditional understandings of the term. The
+key to queering evidence, and by that I mean the ways in which we
+prove queerness and read queerness, is by suturing it to the concept
+of ephemera" (65).
+
 *** Love, Heather. Feeling Backward: Loss and the Politics of Queer History. 2009.
 - Foucault’s reverse discourse turns the shame and pain of the closet
   into sites of resistance, pride and affirmation. But what about the
@@ -2449,6 +2460,54 @@ fill the void with stories?
   even as reparations, perhaps the only kind we will ever receive"
   (4).
  
+** Archives
+*** Arondekar, A., Cvetkovich, A., Hanhardt, CB, Kunzel, R., Nyong’O, T.,
+Rodríguez, JM, & Stryker, S. (2015). Queering archives: A roundtable
+discussion. Radical History Review, 2015(122),
+211-232. http://dx.doi.org/10.1215/01636545-2849630 Retrieved from
+https://escholarship.org/uc/item/7z19h7rg
+
+This roundtable discusses the "archival turn" in queer studies, and
+questions the methods, subjects, investments of queer archival
+studies. 
+
+Tavia Nyong'O: "I have never really deviated from the formative
+impression Foucault gave that what I should expect from the archive is
+the estrangement of myself and others, or that I could call that
+estrangement queer" (216).  
+
+"The incommensurable for Muñoz points to differences that cannot be
+subsumed under a single term (much as queer ephemerality cannot be
+fully appropriated to the logic of the archive) but that can
+nevertheless be shared out. The incommensurable points to the spaces
+between us, across which we touch and are touched. It sounds a little
+poetic, but that is my preferred image for how queer activism and art
+can encounter each other without becoming each other" (226).
+
+
+From “Editor’s Introduction”:
+
+"The business of knowing is unsteady": 
+- "Fragments of information float unfixed — historically unraveled —
+  and we form archives when we pull the fragments into the orbit of
+  efforts to know. Yet the business of knowing is unsteady, as
+  scholars of sexuality and gender have amply demonstrated.  Between
+  the fraught and necessary practices historicization, anachronism,
+  interpretation, bias, and partial readings that propel historical
+  scholarship, archival fragments fall in and out of the frame of an
+  easily perceptible knowledge" (1).
+
+The archive is the site of a tension between "intimate tracing" and
+"historical unravelling"
+- "This tension of knowledge production in the archive — this
+  dialectical drama of intimate tracing and historical unraveling — is
+  what produces the archive as a compelling time and space for
+  witnessing the mechanics of queer knowledge production" (2).
+
+- "the profile of the queer archive as a site for the repetitive,
+radical defamiliarization of knowledge" (introduction, 7) 
+
+
 ** Autobiography Theory
 *** Lejeune, Philippe, Annette Tomarken and Edward Tomarken. "Autobiography in the Third Person." /New Literary History/, Vol. 9, No 1, pp. 27-50. 
 - "Every speaker bears within him two polarities, that of sender and
