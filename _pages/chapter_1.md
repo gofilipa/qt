@@ -130,7 +130,7 @@ Speaking on *Waves*, James Pope argues that the use of hyperlinks
 "present\[s\] a baffling range of choices for movement which actually
 led to a stifling of movement altogether" ("Significance").
 
-!\[Watch the video\](../qt~writings~/one/videos/erotic.gif)
+!\[Watch the video\](../qt_writings/one/videos/erotic.gif)
 
 \"DARE\" \> \[arrow\] \> \[arrow\] \> \"I liked girls...\" \> \"the
 lover\" \> \"Only one of us is 15...\" \> \"Jerk off...\"
