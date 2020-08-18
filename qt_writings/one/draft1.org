@@ -48,60 +48,57 @@ performative), vantages (the visual), and provisionality (the
 ontological). We see these examples in /voyant-tools/, /these waves
 of girls/, and /the orlando project/(?). 
 
-
-
 ** Queerness, the Digital & Touch
 *** touch intersects queer and digital, abstracting sense
 
 If digital humanists and queer theorists are going to find some common
-ground, they might start with /touch/. In the context of digital and
-queer, touch is a phenomenon of access. It offers a means of
-interfacing with the world, a mode of encounter between subject and
-object that applies to both digital media and queer subjects. The root
-of the word digital, "digitus," comes from the Latin word for finger
-or toe, and within the context of electronic media, it refers to a
+ground, they might start with /touch/. Touch is a means of interfacing
+with the world, an encounter between subject and object, which signals
+a problem of access that applies to both electronic media and queer
+subjectivity. The root of the word digital, "digitus," comes from the
+Latin word for finger or toe, and in electronic media, it refers to a
 counting system based on ten digits[fn:1]. Associations between the
 digital and touch evolve from numerical computation to include the
 haptic connections made through the intermediaries of mice, keyboards,
-and touch screens. To touch something, the digits extend, the
-furtherest appendage of the coherent body, and establish
-contact. Moving to the context of queerness, touch indicates a core
-condition of desire and its frustration. Specifically, touch implies a
-desire for that which is precluded by heteronormative expectations,
-for that which is untouchable. The queer subject desires legibility,
-but they cannot achive it within the terms of dominant culture. At the
-intersection of the digital and queerness, touch, or the desire for
-touch, indexes this fumbling, this phenomenon of access.
+and touch screens. Crucially, these intermediaries of digital media
+demonstrate that humans can only engage with data at a remove. Through
+layers of abstraction and formalization, computational media can be
+handled and manipulated. Moving to the context of queerness, touch
+similarly points to a phenomenon of access. Like digital media, queer
+subjectivity is a raw content that cannot be known or engaged with
+directly, because queerness is not legible within the framework of
+heteronormativity. The expectation of heteronormativity precludes
+access to queer subjectivity. At the intersection of the digital and
+queerness, then, the phenomenon of touch indexes this problem of
+access.
 
-Touch is also a means of knowing based on feeling. To compensate for
-its lack of access, touch amplifies sensation beyond the readily
+This examination assumes that both queerness and data are untouchable
+except through the intermediary of abstraction. And it supposes that
+the parallels between data and queer subjectivity might coalesce into
+a reading method, which engages queer subject matter with digital
+media through the matrix of touch. Touch offers a means of knowing
+based on feeling that amplifies sensation beyond the readily
 sensible. A complicated thesis about touch which this chapter will
 unpack: touch operates by abstracting its object through the
-intermediary of the sensible. This process of abstraction counters the
-core condition of queerness, which is unknowable and inexpressible,
-and of digital media, which is a formalization of the
-inexpressible. By transforming the inaccessible source into new forms,
-/queer forms/, queerness is sensualized and engaging. Through layers
-of abstraction and formalization, computational media can be handled
-and manipulated.
-
-This examination supposes that these parallels between digital media
-and queerness might coalesce into a reading method. This reading
-method engages queer subject matter with digital media through the
-matrix of touch. Within digital queer literary materials, touch is a
-/reading method/ that works by abstracting the senses to provide
-alternative possibilities for contact.
+intermediary of the sensible. This process of abstraction compensates
+for the core condition of queerness, which is unknowable, and of
+digital media, which is a formalization of the inexpressible. In
+transforming inaccessible data into new form, /queer forms/, that run
+parallel and at times converge with digital aesthetics, queerness can
+be sensualized and engaging. Touch is an orientation around reading
+that works by abstracting the senses to provide alternative
+possibilities and pathways for sensation.
 
 *** /Waves/: queerness frustrates closure, eludes touch
 
 Two examples will serve to demonstrate that queerness is concerned
-with touch and desire, and more precisely with /the desire for
-touching/ which is continually frustrated. Both examples draw from a
-digital aesthetic, which I will elaborate as /queer form/, though one
-is from a digital source and the other from print. /Queer form/ is
-characterized by a self-consicous and critical stance torward the
-source material: although the physical format of these sources
-/matter/, for queer form, this is not the point.
+with touch, and more precisely, with /the desire for touching/ which
+is continually frustrated. Both examples draw from a digital
+aesthetic, which I will elaborate as /queer form/, though one is from
+a digital source and the other from print. Although the physical
+format of these sources matter, this is not my point. Rather, the
+relevant characteristics of queer form center on a self-consicous and
+critical stance about its own abstraction.
 
 The first text, entitled /These Waves of Girls/ by Caitlin Fisher,
 figures touching as desire quite literally, with touch being the means
@@ -110,98 +107,90 @@ links "nodes" or pages within an associative structure, enacts desire
 by tempting the reader to click through the various episodes of the
 story in order to achieve narrative closure. /Waves/ is an
 autobiographical account of the author's sexual coming-of-age, which
-unfolds in a series of interconnected vignettes that recount Fischer's
+unfolds in a series of interconnected vignettes that recount Fisher's
 adolescent experiences with men and women. Despite winning the 2001
 Electronic Literature Organization Award, this "hypertext novella"
-draws much criticism for a formal structure precludes a
+draws much criticism for a formal structure complicates a
 straightforward reading experience. Through the profusion of
 hyperlinks, which connect one node to the next in ways that disrupt
 temporal and causal relations, this hypertext frustrates the reader’s
 desire for narrative coherence. The relatively comfortable and
 conventional reading practice of turning the pages in a traditional
 codex dissolves in the distracting and technical complexity of a
-narrative that requires effort to traverse. Speaking on /Waves/, James
-Pope argues that the use of hyperlinks “present[s] a baffling range of
-choices for movement which actually led to a stifling of movement
-altogether” (“Significance”).
+narrative that requires effort to traverse. One critic argues that the
+use of hyperlinks “present[s] a baffling range of choices for movement
+which actually led to a stifling of movement altogether” (Pope,
+“Significance”).
 
-![Watch the video](../qt_writings/one/videos/erotic.gif)
+!["DARE" > "I liked girls..." > "the lover" > "Only one of us is
+15..." > "Jerk off…"](../qt_writings/one/videos/erotic.gif)
 
-"DARE" > [arrow] > [arrow] > "I liked girls..." > "the lover" > "Only one of us is 15..." > "Jerk off…"
-
-I want to draw attention to the disorienting feeling of reading this
-text. Episodes do not have a discernible chronology or
-progression. They are non-linear, and clicking on the links is
-disruptive to any sense of coherence. The desire for narrative closure
-is continually frustrated by the work’s form. Yet, in another sense,
-the fragmentary structure of the narrative is exactly what constitutes
-its appeal, as it compels the reader to chase an elusive understanding
-of sexuality. In particular, the text continually defies the reader’s
-expectations about the narrator's motives. In the repeatedly linked
-node, aptly titled “erotic,” we see “and it was the most erotic year
-of my life” march across the screen in ticker tape (“And it
-was...”). This node is reached through two different sources, both of
-which feature sexual episodes between the narrator and men. In a
-novella that largely consists of stories about the narrator’s sexual
-history and fantasies with other women, this node is unusual. It
-checks the reader’s expectations about the narrator’s sexual
-desire. The lack of a coherent narrative arc disrupts the relationship
-between cause and effect, scrambling the reader's sense of the main
-character's motives. Other moments in the text create a similar
-dissonance from the associations between links, a dissonance that
-brings the reader to question the narrative momentum. One occurs in
-the last node of the “beam routine” episode, when the narrator is
-about to perform gymnastics to placate the man that she brought
-home. The link reads “I don’t want to have sex,” and it leads the
-reader back to a familiar episode about "Jennie Winchester":
+The disorienting feeling of reading this text is an effect of its
+queer form. Episodes do not have a discernible chronology or
+progression, and clicking on the links between nodes disrupts any
+sense of coherence. While the desire for narrative closure is
+continually frustrated by the work's form, in another sense, this
+fragmentary structure exactly constitutes its appeal, for it compels
+the reader to chase an elusive understanding of sexuality. The text
+continually defies the reader’s expectations about the narrator's
+motives. In one repeatedly linked node, aptly titled “erotic,” we see
+“and it was the most erotic year of my life” march across the screen
+like ticker tape (“And it was...”). This node is accessed through two
+different sources, both featuring sexual episodes between the narrator
+and men. In a novella that largely consists of stories about the
+narrator’s sexual history and fantasies with other women, these nodes
+are unusual, checking the reader’s expectations about the narrator’s
+identity and desire. The accumulation of seemingly capricious sexual
+episodes disrupts the relationship between cause and effect,
+scrambling the reader's sense of direction across the text. Other
+moments in the text create a similar dissonance from the associations
+the narrator's motives. One occurs in the last node of the “beam
+routine” episode, when the narrator is about to perform gymnastics to
+placate a man that she brought home. The link reads “I don’t want to
+have sex,” and it leads the reader back to a familiar episode about
+"Jennie Winchester":
 
 #+BEGIN_QUOTE
-I’m in bed with Jennie Winchester and I realize she want me to undo
+I’m in bed with Jennie Winchester and I realize she wants me to undo
 her pants. She needs to be home by 11:00 and needs to leave my place
 by 10:45. I’m kissing her but opening my eyes at intervals to catch
 the clock. At exactly 10:43 I unbutton her Levis and shove my hand
-inside, barely undoing the zipper. “I’m in bed...”  
+inside, barely undoing the zipper. “I’m in bed...”
 #+END_QUOTE
 
 Now the reader experiences this familiar node in a new way that casts
-its former meaning into doubt. Why is the narrator watching the clock?
-Does she want to make the most of her time with Jennie, or is she
-counting down the minutes until she has to leave? Because the
-character's desires have been scrambled by the freeform structure of
-episodes, they are not legible to the reader. What seemed
-straightforward now appears to support alternate readings. The
-reader’s confusion in navigating through /Waves/ reinforces queerness
-as something elusive, a condition that will never be fully
-intelligible. The narration works as a seduction by piquing the
-reader's interest in the story, propelling her through hyperlinks
-across the various nodes, and repeatedly frustrating her desire for
-closure or resolution.
- 
+its former meaning into doubt. Why is this episode linked from the
+phrase, "I don't want to have sex"? Why is the narrator watching the
+clock? What at first seems straightforward now appears to support
+alternate readings because the character's desires have been muddled
+by the unpredictable connections between episodes. The reader’s
+confusion in navigating through /Waves/ reinforces queerness as
+something elusive, a condition that is not fully intelligible.
+
 *** /Confessions/: queerness and the denial of touch
-This frustration of desire is what activates the full sensorium of
-queer affects. For queer subjects, desire has always been a frought
-experience. In my second example, /The Confessions of the Fox/ by
-Jordy Rosenberg, the main character exhibits a troubled relationship
-to touch that constitutes subjectivity. Set in eighteenth century
-London, this story follows Jack Sheppard, a young transgender male
-making his way as a wily thief. In the time before the pathologization
-of nonnormative sexual and gender identities, Sheppard struggles to
-articulate his difference, what he calls his "/Something/," from the
-rest of London society: "This something that set him apart from other
-coves [men]. Something that had caus'd him to dress his own chest in
-taut bandages... pinching at his ribs, throttling his every Breath to
-a forced shallow bird-sipping of the air" (33). The difficulty with
-self-categorization extends from the main character to the narrative's
-genre, which unfolds as historical fiction overlaid with contemporary
-fictional memoir. Sheppard's story is discovered in the present day by
-Dr. Voth, a rueful academic, who is also transgender. Voth immediately
-recognizes the significance of Sheppard's manuscript for the
-historical record, and he proceeds to annotate the document with
-relevant references and increasingly, his own tangential anecdotes. In
-one scene of the manuscript, Sheppard is having a romantic moment with
-his lover, Bess Khan, a bi-racial prostitute who initiates Jack into
-the London underground society of "rogues," when Voth relates his own
-story about his former lover:
+The frustration of touch activates a sensorium of queer affects. For
+queer subjects, touch and the desire for touching has always been a
+frought experience. In my second example, /The Confessions of the Fox/
+by Jordy Rosenberg, the main character exhibits a troubled
+relationship to touch which in part constitutes his subjectivity. Set
+in eighteenth century London, this story follows Jack Sheppard, a
+young transgender male as a wily thief amid a group of "rogues."
+Before the official pathologization of nonnormative desires and
+identities, Sheppard struggles to articulate his difference, what he
+calls his "/Something/," from the rest of London: "This something that
+set him apart from other coves [men]. Something that had caus'd him to
+dress his own chest in taut bandages... pinching at his ribs,
+throttling his every Breath to a forced shallow bird-sipping of the
+air" (33). The hesitance toward self-identification extends from the
+main character to the narrative's genre, which unfolds as historical
+fiction overlaid with contemporary fictional memoir. Sheppard's story
+is discovered in the present day by Dr. Voth, a rueful academic who is
+also transgender. Voth immediately recognizes the historical
+significance of Sheppard's manuscript, and he proceeds to annotate the
+document with relevant references and increasingly, his own tangential
+anecdotes. In one scene of the manuscript, Sheppard is having a
+romantic moment when Voth relates his own episode about a former
+lover:
 
 #+BEGIN_QUOTE
 She opened her legs a bit, twitched them open, really. I caught my
@@ -214,19 +203,18 @@ as a cis-man, either. Although, since according to her we'd fucked the
 night before, she knew exactly how un-cis I was. 
 
 She meant that she saw something about the quality of my desire: that
-/I could feel her even before I touched her/ [my emphasis]. And that
-this was part of what it meant to be---or to have been, before my tits
-became property of the California Municipal Waste Department---a
-lesbian. That a woman moving in your line of sight could have an
-effect that was total, atmospheric. That you could be hesitant,
-incapable, and not particularly interested in establishing a line
-between touching and seeing. That you would indulge a dead love, dead
-in the eyes of the world, and valueless. A love that choked and
-burdened the mind, that might even be the very foundation of
-melancholy and despair. But, oh Reader, looking at a woman you really
-get a feel for the way that fire is a phenomenon of touch. And my
-point is, if you have every been a lesbian, you will not even have to
-touch a woman to know that. 169
+I could feel her even before I touched her. And that this was part of
+what it meant to be---or to have been, before my tits became property
+of the California Municipal Waste Department---a lesbian. That a woman
+moving in your line of sight could have an effect that was total,
+atmospheric. That you could be hesitant, incapable, and not
+particularly interested in establishing a line between touching and
+seeing. That you would indulge a dead love, dead in the eyes of the
+world, and valueless. A love that choked and burdened the mind, that
+might even be the very foundation of melancholy and despair. But, oh
+Reader, looking at a woman you really get a feel for the way that fire
+is a phenomenon of touch. And my point is, if you have every been a
+lesbian, you will not even have to touch a woman to know that. 169
 #+END_QUOTE
 
 Here, desire is characterised not by the search for satisfaction, or
@@ -234,19 +222,19 @@ the success of establishing contact, but by the sensual fullness of a
 lack. The experience of desire, of craving, wanting, needing to touch
 the desired object stimulates the imagination and amplifies sensations
 that would otherwise be replaced with more "direct" modes of
-contact. Associating this distinction between imaginary and real
-contact to the realm of identity, Dr. Voth's lover refers to him as a
-"lesbian," despite his having already transitioned to a male gender
-identity. The term fits because it signals not a gender identity but a
-/mode of being/ that is more concerned with the potential of
-connection rather than verifiable contact. With regard to desire, the
-difference hinges on the role of the imagination in activating certain
-sensors and receptors that cannot be accessed in the "real,"
-actualized world. Voth's fancy in seeing his lover augments with
-connotations of the fanciful; his desire grows in the imagination. But
-this does not mean the sensations resulting from this desire are any
-less palpable and sensual; on the contrary, such a desire maximizes
-physical experience---it is a desire for something that, because it
+contact. The lover's reference to Dr. Voth as "such a lesbian" brings
+this distinction about physical and imaginary contact to the realm of
+identity, reinforcing the interplay between imaginary and real when it
+comes to touch. Though Dr. Voth is not a lesbian, the term fits
+because it signals not a gender or sexual identity but a sensuality
+that is more concerned with the potential of connection rather than
+verifiable contact. The appellation hinges on the role of the
+imagination in activating certain sensations--"total,"
+"atmospheric"---that supercede those in the actualized
+world. Therefore, Dr. Voth's visual fancy takes on connotations of the
+fanciful. But this does not mean the sensations resulting from this
+desire are any less palpable. On the contrary, such a desire maximizes
+physical experience: it is a desire for something that, because it
 cannot or will not be fulfilled, amplifies the fullness of that
 desire. This mode of desiring is what characterizes queerness in the
 text. Here, touch, or the lack of touch, defines a peculiarly queer
@@ -257,7 +245,7 @@ subjectivity.
 In both /Waves/ and /Confessions/, queerness is constituted by a
 troubled relationship to touch, reinforcing queerness as something
 that cannot be grasped or is beyond grasp. In /Waves/, touch is the
-continually frustrated means for traversing the narrative; clicking
+continually frustrated means for traversing the narrative: clicking
 her way though the nodes, the reader fails to grasp the arc of the
 story or the intentions of the narrator. In /Confessions/, denying
 touch casts queer identity as something beyond
@@ -265,7 +253,7 @@ categorization. Maintaining the gap between sight and touch stimulates
 the senses beyond what's possible within normative expectations of
 sexual desire. This condition of inaccessibility gestures at an affect
 of suspension or displacement that is central to the experience of
-queerness, an affect that we call the "untouchable," which we now
+queerness, an affect that I call the "untouchable," which we now
 explore in depth.
 
 The idea of the "untouchable" builds off queer theorists who have
@@ -274,11 +262,10 @@ feeling of a lack that creates a space for emergent affects. This
 experience derives from the political and social environment that
 attempts to erase the existence of minorty subjects, particularly
 queer people of color. Even as LGBT groups appear to gain more
-visibily and acceptance within the intitution of marriage, and the
-military and workplaces, such gains are trapped within the limiting,
-normative time of the present. Accordingly, José Esteban Muñoz defines
-queerness as being about desire, a "longing that propels us onward,"
-for what is "not yet here." Muñoz explains:
+visibily and acceptance, such gains are trapped within the limiting,
+normative time of the present. In response to this, José Esteban Muñoz
+defines queerness as a desire, a "longing that propels us onward," for
+what is "not yet here." Muñoz explains:
 
 #+BEGIN_QUOTE
 Queerness is /a structuring and educated mode of desiring/ that allows
@@ -291,47 +278,47 @@ mine, /Cruising Utopia/ 1
 
 The ontological nature of queerness is founded in a lack, in a
 vacuum. Rather than strive that missing thing, or a forward-looking,
-future-oriented desire, "not yet here" indicates a quality situated
-within the present. Because queerness is "not yet here," it calls for
-something else, for something that "allows us to see and feel beyond
-the quagmire of the present," opening a space for emergent affects. In
-other words, queerness expands a sensibility of feeling to include
-sensations beyond the immediate, the readily sensible.
-
-**** TODO homonormativity: add supreme court decision 
-[Queerness is being wrenched within heteronormative agendas----IE the
-2020 surpreme court decision that protects queer desire bc it protects
-straight desire].
+future-oriented desire, "not yet here" indicates an emanant quality
+situated within the present. Because queerness is "not yet here," it
+calls for something else, for something that "allows us to see and
+feel beyond the quagmire of the present," opening a space for emergent
+affects. In other words, queerness expands a sensibility of feeling to
+include sensations beyond the immediate, the readily sensible.
 
 
 ** the problem: queerness as untouchable 
-*** TODO reorg disidentification is a clash of affects
-To understand how this emergence works, it is necessary to fully
-unpack this condition of queerness being "untouchable" with regard to
-literary analysis. By "untouchable," I mean that queer subjects cannot
-be accessed or known in the same way that majority subjects are within
-dominant culture. This condition applies specifically to queer
-subjects and themes in literature. Identities within texts are not
-stable across time and place, and as readers, we tend to make acts of
-identification that collapse or overlook the complexity of
-experience. For queer readers in particular, identification often
-emerges from a desire to recognize within the past something that
+*** toward a reading method of the untouchable 
+This chapter will unpack this condition of queerness being
+"untouchable" with regard to literary analysis. By "untouchable," I
+mean that queer subjects cannot be accessed or known in the same way
+that majority subjects are within dominant culture. This condition of
+queerness being 'untouchable' influences our approach as readers and
+critics toward queer texts, themes, and subjects. Identities within
+texts are not stable across time and place, and as readers, we tend to
+make acts of identification that collapse or overlook the complexity
+of experience. For queer readers in particular, identification can
+emerge from a desire to recognize within the past something that
 affirms queer experience in the present. Heather Love describes queer
 critics, "Like demanding lovers [who] promise to rescue the past when
-in fact they dream of being rescued themselves" (33). Reading in this
-sense is a search for reflection, community, or similitude, a link
-between past and present.
+in fact they dream of being rescued themselves" (33). This chapter
+explores potential positions or orientations around queerness. To this
+end, it proposes a reading method that enables queerness to be
+grasped, but at a distance.
 
-To explore the condition of "untouchability," this chapter borrows a
-theory of identity developed by Queer Theorists from mostly Latinx
-backgrounds and traditions, particularly Muñoz, Gloria Anzaldúa, and
-Ofelia Schutte. The work of these theorists, as well as that of Chela
-Sandoval, Norma Alarcón and Audre Lorde, all radical feminists of
-color, coalesce around a paradigm of identity formation that Muñoz
-describes as "identities-in-difference" (/Disidentifications/
-6). Muñoz's identities-in-difference marshalls theories of difference
-that center moments of failed interpellation, misfitting, and
-unbelonging as the core materials of identity formation.
+*** disidentification points to incommensurability
+This chapter draws the condition of "untouchability" from a theory of
+identity developed by Queer Theorists from mostly Latinx backgrounds
+and traditions, particularly Muñoz, Gloria Anzaldúa, and Ofelia
+Schutte. The work of these theorists, which itself draws from the
+thinking of Chela Sandoval, Norma Alarcón and Audre Lorde, all radical
+feminists of color, coalesces around a paradigm of identity formation
+that Muñoz generalizes as "identities-in-difference"
+(/Disidentifications/ 6). Muñoz's identities-in-difference marshalls
+theories of difference that center moments of failed interpellation,
+misfitting, and unbelonging as the core materials of identity
+formation. This paradigm of identity formation sets up our
+understanding of how affect provides the ground to remagine reading as
+situated within the reader's embodied relationship to the text.
 
 Due to the effects of what Muñoz calls the "cultural logics of
 heteronormativity, white supremacy, and misogyny," queer people of
@@ -388,55 +375,51 @@ the risk of recognizing David’s denial and repression as my own, or
 read a book that celebrates queer lives and sex boldly and end up
 despising my own cowardice" (par. 17).
 
-**** Anzaldua's choque is a manifestation of incommensurability 
-This sensation of opposing affects has been well explored by queer
-Chicana Theorists Gloria Anzaldúa and Cherríe Moraga. Anzaldúa's
-figure of /la mestiza/, or mixed woman, drawn from Mexican philosopher
-Jose Vasconcelos's promotion of "una raza mestiza" [the mixed race],
-emphasizes hybridity as a structuring component of identity. Mestizaje
-is the experience of being mixed, at the intersection of two opposing
-forces, "Cradled in one culture, sandwiched between two cultures,"
-being able to contain dualities, such as male/female, English/Spanish,
-American/Mexican (78 in old). Mestiza consciousness, for Anzaldúa, is
-a tolerance for ambiguity, for existing in the middle space. This
+This sensation of opposing affects and the shattering of identity has
+been well explored by queer Chicana Theorists Gloria Anzaldúa and
+Cherríe Moraga. Anzaldúa's figure of /la mestiza/, or mixed woman,
+drawn from Mexican philosopher Jose Vasconcelos's promotion of "una
+raza mestiza" [the mixed race], emphasizes hybridity as a structuring
+component of identity. Mestizaje is the experience of being mixed, at
+the intersection of two opposing forces, "Cradled in one culture,
+sandwiched between two cultures," being able to contain dualities,
+such as male/female, English/Spanish, American/Mexican (78). Mestiza
+consciousness, for Anzaldúa, is a tolerance for ambiguity, for
+existing in the middle space that contains dualities. This
 consciousness is characterized by what Anzaldúa calls the experience
-of /el choque/: "The coming together of two self-consistent but
-habitually incompatible frames of referencee causes /un choque/, a
-cultural collision" (78 in old book). The affective experience of /el
-choque/ or the /shock/ consists of a bodily phenomenon where the
+of /el choque/ or the shock: "The coming together of two
+self-consistent but habitually incompatible frames of referencee
+causes /un choque/, a cultural collision" (78). The affective
+experience of /el choque/ consists of a bodily phenomenon where the
 subject receives multiple opposing messages that incite a physical
 upheaval. Anzaldúa explains that "the clash of voices results in
 mental and emotional states of perplexity... The mestiza's dual or
-multiple personality is plagued by psychic restlessness" (78 in old
-book). This physical upheaval is the ground from which the mestiza
-builds identity: "The new mestiza copes by developing a tolerance for
+multiple personality is plagued by psychic restlessness" (78). This
+physical upheaval is the ground from which the mestiza builds
+identity: "The new mestiza copes by developing a tolerance for
 contradictions, a tolerance for ambiguity. She learns to be an Indian
 in Mexican culture, to be Mexican from an Anglo point of view.  She
-learns to juggle cultures" (79 in old book).
+learns to juggle cultures" (79).
 
-**** Disidentification points to the incommensurable: schutte
-The disjunction that occurs in acts of queer disidentification results
-from the condition of queer identity being ultimately inaccessible, or
-"untouchable." Queer identity is untouchable because experience and
-subjectivity of minoritarian subjects are incommensurable. Latina
-feminist philosopher Ofelia Schutte poses the concept of the
-"incommensurable" to explore the question of cross-cultural
-communication between dominant and subaltern subjects. Writing
-specifically about communication between native English and Spanish
-speakers, Schutte wonders how subjects from different cultures might
-achieve effective conversation. She finds that they cannot, as "no two
-cultures or languages can be perfectly transparent to each other"
-(56). There will always be something lost in translation, "a residue
-of meaning that will not be reached in cross-cultural endeavors"
-(56). This residue is what she calls the "incommensurable," a vestige
-of communication that fails to transfer between subaltern and dominant
-subjects. Schutte draws from feminist postcolonial and
-poststructuralist concepts of alterity and difference to present a
+The choque experienced in acts of queer disidentification points to a
+core condition of queerness that is incommensurable. Latina feminist
+philosopher Ofelia Schutte poses the concept of the "incommensurable"
+to theorize cross-cultural communication between dominant and
+subaltern subjects. Writing specifically about communication between
+native English and Spanish speakers, Schutte wonders how subjects from
+different cultures might achieve effective conversation. She finds
+that they cannot, as "no two cultures or languages can be perfectly
+transparent to each other" (56). There is something lost in
+translation, "a residue of meaning that will not be reached in
+cross-cultural endeavors" (56). This vestige of communication that
+fails to transfer between subaltern and dominant subjects is what she
+calls the incommensurable. Schutte draws from feminist postcolonial
+and poststructuralist concepts of alterity and difference to present a
 view of subjectivity in which "the other is that person or experience
 which makes it possible for the self to recognize its own limited
 horizons in the light of asymmetrically given relations marked by
 sexual, social, cultural, or other differences" (54). The effect of
-"incommensurability," then, is not to try to grasp or translate the
+incommensurability, then, is not to try to grasp or translate the
 vestige of lost meaning, but to recognize that gap as a space that
 constitutes subjectivity. It is to "look at nodes in a linguistic
 interchange or a conversation in which the other's speech, or some
@@ -447,15 +430,15 @@ meaning seems to slip by and elude us. By paying attention to the
 awkward and even bizarre moments of misunderstanding, we find the
 materials for constructing new dis(identity).
 
-Getting in touch with the /choque/ is a great challenge for minority
-subjects, and an even greater challenge for cross-cultural
-communication. Cherríe Moraga points out that "it is not really
-difference the oppressor fears so much as similarity" (La Guera,
-30). The minority subject contains incommensurable elements that are
-not legible by dominant society. These elements are not only
-neglected, but avoided by society, because confronting the "stranger
-within" is a psychologically painful process. Schutte goes into detail
-to explain how the incommensurable operates in conversation:
+As Cherríe Moraga points out, "it is not really difference the
+oppressor fears so much as similarity" (La Guera, 30). Although the
+feeling of incommensurability is central to queer experience, it can
+be accessible to majority groups. Getting in touch with the /choque/,
+however, is a great challenge for minority subjects, and an even
+greater challenge for those of dominant cultures. For those who can
+avoid it, there is an aversion to confront the "stranger within."
+Schutte goes into detail to explain how the incommensurable slips from
+view:
 
 #+BEGIN_QUOTE
 In cross-cultural communication, each speaker may "say" something that
@@ -469,93 +452,64 @@ cultural translatability of the signifiers for coherence from one set
 of cultural presuppositions to the other. 62
 #+END_QUOTE
 
-As Muñoz points out, "The fiction of identity is one that is accessed
-with relative ease by most majoritarian subjects"
-(/Disidentifications/ 5). Subjects from dominant society can avoid
-entirely engaging in minority discourse. Schutte explains that "The
+For majority subjects, confronting the incommensurable is difficult
+because it requires them to step temporarily into the place of the
+other, "that person or experience which makes it possible for the
+self to recognize its own limited horizons in the light of
+asymmetrically given relations marked by sexual, social, cultural, or
+other differences" (Schutte 54). Subjects from dominant society opt to
+avoid engaging in minority discourse. Schutte explains that "The
 speaker from the dominant culture is basically saying: communicate
 with me entirely on the terms I expect; beyond this, I am not
-interested" (62). Confronting the incommensurable is difficult because
-it requires them to step temporarily into the place of the "other",
-"that person or experience which makes it possible for the self to
-recognize its own limited horizons in the light of asymmetrically
-given relations marked by sexual, social, cultural, or other
-differences" (Schutte 54).
+interested" (62).
 
-The feeling of incommensurability---of something missing,
-misunderstood, or misfitting---is central to queer experience.
+Muñoz reminds us that "The fiction of identity is one that is accessed
+with relative ease by most majoritarian subjects"
+(/Disidentifications/ 5).
 
-*** TODO draft reading practices try to resolve incommens: Amin & Musser
-The illusion that we can gain sufficient knowledge into queer
-experience, that such experiences are “commensurable,” drives certain
-reading practices that critics describe as “paranoid” or “suspicious.
-
-if reality/experience/communication is incommensurable, what does this
-mean about our relationship to knowledge? 
-
+*** TODO draft reading practices try to resolve incommens: sedgwick
 The reality of incommensurability points to ways that knowledge will
-always be flawed, never complete, never self-evident. As a result, the
-illusion that we can gain sufficient knowledge into queer experience,
-that such experiences are “commensurable,” drives certain reading
-practices that critics describe as “paranoid” or “suspicious.” This is
-what is violent about analysis, the assumptions that we make about
-others being fundamentally different and fundamentally knowable.
-- The tyranny of the visual: “At their base, such operations of
-  surveillance and classification rely on the concept of immutable
-  difference, on sharp boundaries, and on the possibility of
-  exhaustively knowing the other” (Amin, Kadji, Amber Jamilla Musser,
-  and Roy Pérez “Queer Form: Aesthetics, Race, and the Violences of
-  the Social” ASAP/Journal, Volume 2, Number 2, May 2017, pp. 232).
-
-In Haraway's words, a search for the "one code that translates all
-meaning perfectly, the central dogma of phallogocentrism" (Simians,
-Cyborgs, and Women 176).
-
-**** Arondekar, A., Cvetkovich, A., Hanhardt, CB, Kunzel, R., Nyong’O, T.,
-Rodríguez, JM, & Stryker, S. (2015). Queering archives: A roundtable
-discussion. Radical History Review, 2015(122),
-211-232. http://dx.doi.org/10.1215/01636545-2849630 Retrieved from
-https://escholarship.org/uc/item/7z19h7rg
-
-This roundtable discusses the "archival turn" in queer studies, and
-questions the methods, subjects, investments of queer archival
-studies. 
-
-Tavia Nyong'O: "I have never really deviated from the formative
-impression Foucault gave that what I should expect from the archive is
-the estrangement of myself and others, or that I could call that
-estrangement queer" (216). 
-
-*** TODO revise paranoia: sedgwick
--> smooth transition from incommensurability to paranoia. 
+always be flawed, never complete, and never self-evident. When
+confronted with the unknown, however, the impulse is to find ways of
+resolving it. The illusion that we can gain sufficient knowledge into
+queer experience, that such experiences are "commensurable," drives
+certain reading practices that critics describe as "paranoid" or
+"suspicious." Here, the assumption that knowledge is knowable masks a
+deeper investment in knowledge as a goal in and of itself. This
+reading practice not only assumes queer experience and subjectivity to
+be fundamentally accessible, but bases an entire program of analysis
+on revealing it. Kadji Amin, Amber Jamilla Musser, and Roy Pérez
+explain that paranoid impulses "rely on the concept of immutable
+difference, on sharp boundaries, and on the possibility of
+exhaustively knowing the other" (232).
 
 Paranoid reading practices deliver results that are imaginable within
-given knowledge structures. To illustrate this effect, Sedgwick
-relates a conversation between herself and a friend during few years
-of the AIDS crisis, when speculation about the government's complicity
-in spreading the virus is rampant. At the time, Sedgwick wonders
-whether "the lives of African Americans are worthless in the eyes of
-the United States; that gay men and drug users are held cheap where
-they aren't actively hated" (123). Her friend counters this suspicion,
-pointing out that knowledge of conspiracy doesn't achieve anything on
-its own: "Supposing we were ever sure of all those things---what would
-we know then that we don't already know?" (123). Merely knowing that
-something is true, revealing the presence of systematic oppression,
-injustice, discrimination, does nothing. As Sedgwick explains,
-knowledge of a problem is not enough to "enjoin that person to any
-specific train of epistemological or narrative consequences"
-(123). Moreover, a paranoid or suspicious stance blocks out other
-possibilities for relation to the text. Paranoia often only affirms
-itself; reflecting and replicating itself in every surface, giving too
-much power to the act of exposure. The work of paranoia is never done,
-"for all its vaunted suspicion, [paranoia] acts as though its work
-would be accomplished if only it could finally, this time, somehow get
-its story truly known" (141). Like many other theorists, Sedgwick
-wonders what is the point of continually trying to reveal, unravel,
-deconstruct the injustices of the past. She searches for "some ways of
-understanding human desire that might be quite to the side of
-prohibition and repression, that might hence be structured quite
-differently from the heroic, 'liberatory,' inescapably dualistic
+given knowledge structures. To illustrate this effect, Eve Kosofsky
+Sedgwick relates a conversation between herself and a friend during
+few years of the AIDS crisis, when speculation about the government's
+complicity in spreading the virus is rampant. At the time, Sedgwick
+wonders whether "the lives of African Americans are worthless in the
+eyes of the United States; that gay men and drug users are held cheap
+where they aren't actively hated" (123). Her friend counters this
+suspicion, pointing out that knowledge of conspiracy doesn't achieve
+anything on its own: "Supposing we were ever sure of all those
+things---what would we know then that we don't already know?"
+(123). Merely knowing that something is true, revealing the presence
+of systematic oppression, injustice, discrimination, does nothing. As
+Sedgwick explains, knowledge of a problem is not enough to "enjoin
+that person to any specific train of epistemological or narrative
+consequences" (123). Moreover, a paranoid or suspicious stance blocks
+out other possibilities for relation to the text. Paranoia often only
+affirms itself; reflecting and replicating itself in every surface,
+giving too much power to the act of exposure. The work of paranoia is
+never done, "for all its vaunted suspicion, [paranoia] acts as though
+its work would be accomplished if only it could finally, this time,
+somehow get its story truly known" (141). Like many other theorists,
+Sedgwick wonders what is the point of continually trying to reveal,
+unravel, deconstruct the injustices of the past. She searches for
+"some ways of understanding human desire that might be quite to the
+side of prohibition and repression, that might hence be structured
+quite differently from the heroic, 'liberatory,' inescapably dualistic
 righteousness of hunting down and attacking prohibition/repression in
 all its chameleonic guises" (10).
 
@@ -579,6 +533,10 @@ Kazanjian suggests that we attend less to the wills, desires, and
 voices of historical subjects and more to the textual traces which invite speculative work.  “Unfinished recovery [of the archives] is the very condition of possibility for their ongoing interpretation” (83). 
 → what are we trying to solve? 
 *** paranoia and replication: haraway
+
+ It is, in Donna Haraway's words, a search for the "one code
+that translates all meaning perfectly, the central dogma of
+phallogocentrism" (/Simians, Cyborgs, and Women/ 176).
 
 In order to understand the ways that the paranoid impulse harm and
 constrain inquiry, it is useful to view it at work in scientific
@@ -1074,6 +1032,10 @@ than suspicious. Moreover, it draws attention to the ways that
 knowledge is embodied, with all the surprises and discoveries that
 embodiment entails. 
 *** TODO cut Waves on movement
+The narration works as a seduction by piquing the reader's interest in
+the story, propelling her through hyperlinks across the various nodes,
+and repeatedly frustrating her desire for closure or resolution.
+ 
 
 The reader’s experience of frustration and desire in navigating
 through the story mirrors the themes of sexual frustration and desire
@@ -1928,6 +1890,26 @@ its evidence” (Bode "Model Away Bias" 97).
 
 ** MISC 
 
+**** homonormativity: add supreme court decision 
+[Queerness is being wrenched within heteronormative agendas----IE the
+2020 surpreme court decision that protects queer desire bc it protects
+straight desire].
+
+**** queerness as estrangment
+Arondekar, A., Cvetkovich, A., Hanhardt, CB, Kunzel, R., Nyong’O, T.,
+Rodríguez, JM, & Stryker, S. (2015). Queering archives: A roundtable
+discussion. Radical History Review, 2015(122),
+211-232. http://dx.doi.org/10.1215/01636545-2849630 Retrieved from
+https://escholarship.org/uc/item/7z19h7rg
+
+This roundtable discusses the "archival turn" in queer studies, and
+questions the methods, subjects, investments of queer archival
+studies. 
+
+Tavia Nyong'O: "I have never really deviated from the formative
+impression Foucault gave that what I should expect from the archive is
+the estrangement of myself and others, or that I could call that
+estrangement queer" (216). 
 
 *** Defining queer, Amin on historicizing through affect
 queerness manifests as an affective relation between the
@@ -2096,11 +2078,10 @@ block quotes: #+BEGIN_QUOTE & #+END_QUOTE
 
 * Footnotes
 
-[fn:1] Digital computation runs on data in the form of these numerical
-digits, even though computer language, at the most rudimentary level,
-is based on a binary counting system, on ones and zeroes. (quote or
-citation to Code: the hidden language of computer hardware and
-software OR Sadie Plant's /Zeroes and Ones/)
+[fn:1] Although digital computation runs on data in the form of these
+numerical digits, computer language, at the most rudimentary level, is
+based on a binary counting system, on ones and zeroes. (citation to
+Sadie Plant's /Zeroes and Ones/)
 
 [fn:2] Schutte, Ofelia. “Cultural Alterity: Cross-Cultural
 Communication and Feminist Theory in North-South Contexts.” Hypatia,
