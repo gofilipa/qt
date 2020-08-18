@@ -1,4 +1,8 @@
-
+---
+layout: page
+permalink: /chapter_1/
+title: Chapter 1
+---
 
 chapter summary
 ===
