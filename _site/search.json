@@ -2,6 +2,14 @@
   
     {
 
+      "title"    : "Feedback on Chapter One Intro",
+      "url"      : "/qt/feedback-chap1/",
+      "category" : "dissertation workshop, feedback, revision",
+      "date"     : "September 17, 2020"
+    } ,
+  
+    {
+
       "title"    : "Zooming out of Chapter One",
       "url"      : "/qt/zooming-out-of-chapter-one/",
       "category" : "dissertation, org-mode, revision",
