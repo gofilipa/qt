@@ -1,0 +1,197 @@
+* Chapter One Introduction: Feedback
+
+** chapter overview
+
+The purpose of this chapter is to draw attention to the parallels
+between the ways that we only have access to /data/ and /queerness/ as
+formalizations, and how such queer forms suggest a new way of reading.
+    - we encounter the digital object through mediation---interface,
+      keyboards, coding languages. It is the same with queerness,
+      which is expressed in the formal and aesthetic experiments of
+      queer writers.
+
+The introduction kicks off this mediation on the intersection of the
+digital and queerness, by elaborating on this idea of /touch/. I draw
+a parallel between what Rosenberg is doing with touch, refusing direct
+contact to activate a fuller sensorium, and Fisher who frustrates
+touch as a means of traversing/grasping the narrative. Both put touch
+at a remove, deferring it. 
+
+In the rest of the chapter, I look at other critical methods from
+science and historiography as examples of how the results of inquiry
+are always predetermined by the existing knowledge structures. 
+    - this is why we turn to affect and aesthetics as reading methods.
+
+The embodied experience of engaging with digitized texts gets us out
+of the self-replicating loop.  
+
+    ---> this is about playing with formalizations to find something
+    new?
+
+This work has been done by Chicanx, POC theorists, scholars who turn
+to intuition and speculation as critical methods: Hartman, Lowe,
+Anzaldua. 
+
+I draw parallels between these and feminist DHers, emphasizing three
+values for "queer DH":
+- opacity (perspective)
+- dynamicity (performance)
+- provisionality (ephemerality)
+
+
+** in preparation of review...
+
+Defining 'queer' --- 
+
+- queer experience is inaccessible. It is therefore always deferred,
+  in the vein of Munoz's "queer as a structural/educated mode of
+  desiring ... not yet here."
+
+- the affective/subjective experience of being queer is inaccessible
+  by structures of knowledge that reconsolidate queerness into
+  digestible and knowable categories.
+
+
+** Undercommons writing group - August 20, 2020
+
+**** draw out what I mean by "subjectivity" --- and "subjectivity cannot
+be accessed"
+- do not feel responsible for defining subjectivity, you can point to
+  "social constructs," "socially constructed norms",
+  "heteronormativity", "social discourse")
+- is queer a subjectivity or /an embodiment/? 
+
+---> being queer, or the foundational experience of queerness that I
+want to emphasize, is the /affective/ experience. This affective
+experience is the basis for subjectivity that is inaccessible, because
+it points to a choque, a clash of affects, the incommensurability of
+minoritarian experience. 
+
+My view of the subject as being inaccessible is based on Judith
+Butler's discussion of the incompleteness and instability of subject
+formation: "Where there is an 'I' who utters or speaks and thereby
+produces an effect in discourse, there is first a discourse which
+precedes and enables that 'I' and forms in language the constraining
+trajectory of its will. Thus there is no 'I' who stands /behind/
+discourse and executes its volition or will /through/ discourse. On
+the contrary, the 'I' only comes into being through being called,
+named, interpellated (to use the Althusserian term), and this
+discursive constitution takes place prior to the 'I'... the
+impossibility of a full recognition, that is, of ever fully inhabiting
+the name by which one's social identity is inaugurated and mobilized,
+implies the instability and incompleteness of subject-formation"
+("Critically Queer," 18).
+- There is no subjectivity, or if there is, it escapes
+  inscription/interpellation. What is inscribed/interpellated is a
+  produced by a discourse that enables and structures the "I". As a
+  result, this subject can never be fully known--"the impossibility of
+  a full recognition."
+- The emphais I want to make about subject formation -- the "I" -- is
+  a kind of formalization: what Butler calls a "citation," of a
+  reiterated action that precedes and overtakes the position of the
+  "subject." There is a structuring power that determines the
+  constitution of the "I." 
+
+--> queer subjects and technology are cultural constructs that can
+only be accessed as constructs. This draws from 
+
+Foucault on "the very production of sexuality": "Sexuality must not be
+thought of as a kind of natural given which power tries to hold in
+check, or an an obscure domain which knowledge tries to gradually
+uncover. It is the name that can be given to a historical construct:
+not a furtive reality that is difficult to grasp, but a great surface
+network in which the stimulation of bodies, the intensification of
+pleasures, the incitement to discourse, the formation of special
+knowledges, the strengthening of controls and resistances, are linked
+to one another, in accordance with a few major strategies of knowledge
+and power" (105-106).
+
+
+**** is subjectivity produced by touch, or prior to touch? Jacob's point
+on the problem of embodiment.  
+    - Bulter would say that bodies don't exist prior to touch. Social
+      norms produce the homosexual for its own reconsolidation. 
+    - Foucault says that homosexuals become a species as a result of
+      the disciplines.
+
+In /bodies that matter/, Butler makes the point that the body’s
+materiality is discursive, that the “sexed body” is discursively
+constructed. 
+
+We cannot speak outside the powers that structure speech. Subjects are
+always interpellated by the discourse prior to citing it. Like
+protocol, discourse determines all connections; in gender, the subject
+only comes into intelligibility through the matrix of gender. The only
+freedom that is possible resides within this power of discourse,
+resignifying it, perhaps through parody or impersonation. The
+performance of resignification is a political act. We see this in the
+word “queer” which has been re-appropriated---something that signified
+abjectness now means defiance.
+
+Here, Butler is looking for the “exploit”, the way out of the system
+by using the system’s own rules. Using language and repetition to
+resignify what sexuality and proper sexual relations are.  “What would
+it mean to cite a law to produce it differently?”: What’s most
+interesting to me is how Butler subscribes to the power system of that
+which she wants to overturn. She and Foucault (and early Sedgwick) are
+still firmly within this system. They do not want to go beyond sexual
+categories/definitions, but to use it to their own purposes. This is
+analogous to a group of readings in my Digital Studies list, the
+Networks readings. Some of the group want to subvert the network
+within the confines of that network. Others want to completely,
+thinkers like later Sedgwick, Heather Love and Jose Munoz who look for
+a way out of this system.
+
+
+**** incorporate more theory. Claim Munoz earlier, just state it, don't
+defend it. 
+
+
+**** make a clear connection between embodiment and touch. 
+
+**** define/extrapolate/footenote terms:
+Access (par.1): By "access" I mean knowledge, the notion that we can
+exhaustively know the subject (queer subjects & technology) beyond
+their cultural construction.
+
+queerness (the experience of queerness) is inaccessible because
+dominant structures of knowledge reconsolidate raw queerness into
+something structured, transformed.
+
+Subjectivity (par.1):
+
+Data (par.1): My approach toward data draws attention to the different
+levels of materiality, what Kirschenbaum calls "formal" and "forensic"
+levels of materiality. The formal level is what can be seen and
+interacted with on a computer screen, such as the interface, icons,
+and windows. The forensic is the level of the nanoscale, what cannot
+be seen, which is the hard encoding in the drives, the electronic
+activity in circuits and chips. Kirschenbaum explains that "Whereas
+forensic materiality rests upon the potential for individualization
+inherent in matter, a digital environment is an abstract projection
+supported and sustained by its capacity to propagate the illusion (or
+call it a working model) of immaterial behavior: identification
+without ambiguity, transmission without loss, repetition without
+originality" (/Mechanisms: New Media and the Forensic Imagination/
+11).
+
+
+Abstraction (par.2):
+
+digital media, which is a formalization of the inexpressible (par.2):
+
+
+**** my notes: add more media archaeology at the end, connect to QT
+The point I make here about Fisher is how the structure of the
+narrative prevents any real grasp of the narrator's intentions,
+motives, characterization. There is no coherent subject here. 
+
+This is on the level of narrative, there is also a deeper sense that
+things are disjunctive or incoherent on the level of media. 
+How does the internet transfer these files to your computer? Through
+TCP/IP. 
+
+Talk about the ways that code determine all communication / and
+subject formation. 
+
+

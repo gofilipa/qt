@@ -3,7 +3,8 @@ layout: page
 permalink: /chapter_1/
 title: Chapter 1
 ---
-<script src="https://hypothes.is/embed.js" async></script>
+
+<script src="https://hypothes.is/embed.js" async></script> 
 
 chapter summary
 ===
@@ -119,11 +120,11 @@ perform gymnastics to placate a man that she brought home. The link
 reads "I don't want to have sex," and it leads the reader back to a
 familiar episode about \"Jennie Winchester\":
 
-    I'm in bed with Jennie Winchester and I realize she wants me to 
-    undo her pants. She needs to be home by 11:00 and needs to leave 
-    my place by 10:45. I'm kissing her but opening my eyes at intervals 
-    to catch the clock. At exactly 10:43 I unbutton her Levis and shove 
-    my hand inside, barely undoing the zipper. "I'm in bed..."
+> I'm in bed with Jennie Winchester and I realize she wants me to undo
+> her pants. She needs to be home by 11:00 and needs to leave my place
+> by 10:45. I'm kissing her but opening my eyes at intervals to catch
+> the clock. At exactly 10:43 I unbutton her Levis and shove my hand
+> inside, barely undoing the zipper. "I'm in bed..."
 
 Now the reader experiences this familiar node in a new way that casts
 its former meaning into doubt. Why is this episode linked from the
@@ -157,25 +158,28 @@ references and increasingly, his own tangential anecdotes. In one scene
 of the manuscript, Sheppard is having a romantic moment when Voth
 relates his own episode about a former lover:
 
-    She opened her legs a bit, twitched them open, really. I caught my
-    breath, audibly.
-    "Oh my god," she said, "you're such a lesbian."
-    She didn\'t mean it cruelly. And she didn\'t mean that I wasn\'t
-    passing as a cis-man, either. Although, since according to her we\'d
-    fucked the night before, she knew exactly how un-cis I was.
-    She meant that she saw something about the quality of my desire: that
-    I could feel her even before I touched her. And that this was part of
-    what it meant to be---or to have been, before my tits became property
-    of the California Municipal Waste Department---a lesbian. That a woman
-    moving in your line of sight could have an effect that was total,
-    atmospheric. That you could be hesitant, incapable, and not
-    particularly interested in establishing a line between touching and
-    seeing. That you would indulge a dead love, dead in the eyes of the
-    world, and valueless. A love that choked and burdened the mind, that
-    might even be the very foundation of melancholy and despair. But, oh
-    Reader, looking at a woman you really get a feel for the way that fire
-    is a phenomenon of touch. And my point is, if you have every been a
-    lesbian, you will not even have to touch a woman to know that. 169
+> She opened her legs a bit, twitched them open, really. I caught my
+> breath, audibly.
+>
+> \"Oh my god,\" she said, \"you\'re such a lesbian.\"
+>
+> She didn\'t mean it cruelly. And she didn\'t mean that I wasn\'t
+> passing as a cis-man, either. Although, since according to her we\'d
+> fucked the night before, she knew exactly how un-cis I was.
+>
+> She meant that she saw something about the quality of my desire: that
+> I could feel her even before I touched her. And that this was part of
+> what it meant to be---or to have been, before my tits became property
+> of the California Municipal Waste Department---a lesbian. That a woman
+> moving in your line of sight could have an effect that was total,
+> atmospheric. That you could be hesitant, incapable, and not
+> particularly interested in establishing a line between touching and
+> seeing. That you would indulge a dead love, dead in the eyes of the
+> world, and valueless. A love that choked and burdened the mind, that
+> might even be the very foundation of melancholy and despair. But, oh
+> Reader, looking at a woman you really get a feel for the way that fire
+> is a phenomenon of touch. And my point is, if you have every been a
+> lesbian, you will not even have to touch a woman to know that. 169
 
 Here, desire is characterised not by the search for satisfaction, or the
 success of establishing contact, but by the sensual fullness of a lack.
@@ -198,6 +202,8 @@ for something that, because it cannot or will not be fulfilled,
 amplifies the fullness of that desire. This mode of desiring is what
 characterizes queerness in the text. Here, touch, or the lack of touch,
 defines a peculiarly queer subjectivity.
+
+### Munoz\'s queerness as lack that creates space for emergence
 
 In both *Waves* and *Confessions*, queerness is constituted by a
 troubled relationship to touch, reinforcing queerness as something that
@@ -223,12 +229,12 @@ response to this, José Esteban Muñoz defines queerness as a desire, a
 \"longing that propels us onward,\" for what is \"not yet here.\" Muñoz
 explains:
 
-    Queerness is *a structuring and educated mode of desiring* that allows
-    us to see and feel beyond the quagmire of the present... Queerness is
-    a longing that propels us onward, beyond romances of the negative and
-    toiling in the present. Queerness is that thing that lets us feel that
-    this world is not enough, that indeed something is missing. Emphasis
-    mine, *Cruising Utopia* 1
+> Queerness is *a structuring and educated mode of desiring* that allows
+> us to see and feel beyond the quagmire of the present... Queerness is
+> a longing that propels us onward, beyond romances of the negative and
+> toiling in the present. Queerness is that thing that lets us feel that
+> this world is not enough, that indeed something is missing. Emphasis
+> mine, *Cruising Utopia* 1
 
 The ontological nature of queerness is founded in a lack, in a vacuum.
 Rather than strive that missing thing, or a forward-looking,
