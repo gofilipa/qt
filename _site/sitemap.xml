@@ -98,4 +98,16 @@
 <url>
 <loc>http://localhost:4000/qt/page3/</loc>
 </url>
+<url>
+<loc>http://localhost:4000/qt/qt_writings/exports/prospectus.html</loc>
+<lastmod>2019-09-13T03:28:52+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/qt/qt_writings/feedback/F.Calado%20prospectus%20review.pdf</loc>
+<lastmod>2020-01-14T02:42:05+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/qt/qt_writings/one/draft1.html</loc>
+<lastmod>2020-08-10T16:21:33+01:00</lastmod>
+</url>
 </urlset>

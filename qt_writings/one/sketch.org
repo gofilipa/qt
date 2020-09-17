@@ -1,0 +1,335 @@
+* Chapter One Brainstorm
+
+** Rough outline for chapter:
+- touch as a reading method: abstracting & amplifying the senses
+  - queerness is not yet here, or lack activates the senses
+- the state of queerness being "untouchable"
+  - incommensurability is central to queer identity & experience
+  - paranoid critical methods attempt to resolve incommensurability 
+  - self-replicating/recovery criticism perpetuates assumptions
+  - readings: /confessions of the fox/, /waves/, /la frontera/ 
+- Abstracting, formalizing, making opaque:
+  - queer forms & values necessary to  bring things into relation
+  - hinting opacity, performance, abstraction, provisionality 
+- in DH, raw data as unknowable: something we cannot fully grasp
+  - tools are not neutral, analyses are not "objective"
+  - value of reproducible in DH mirrors paranoia
+  - Da, Underwood and Altschuler and Weimer, Drucker
+- Performance/movement as a reading method
+  - bode and clement: materiality and discovery
+- Vantages/Opacity, the view
+  - Klein, Mandell, Caughie, Gaboury
+  - against totalization
+  - the visible and the invisible, opting out, the null value
+- Provisionality/Indeterminacy
+  + Susan Brown, Julia Flanders
+  + against stability
+
+*** Pros Description: The first chapter, "Reading: 'Touching without
+Touching,'" lays out what Digital Humanities methodologies might learn
+from Queer Theory. This chapter looks at specific reading practices by
+Eve Kosofsky Sedgwick and Heather Love, which question the proper
+relationship of the critic to the object of study. Sedgwick's ideas
+about "touching/feeling" and Love's notion of "touching without
+touching" pose queer modes of relationality that do not presume full
+connections as prerequisite for analysis. This chapter engages these
+techniques with various critical methods from the Digital Humanities,
+including distant, surface, and post-critical reading, and
+deformative, algorithmic, and speculative criticism. I pay particular
+attention to how digital formats and interfaces might facilitate queer
+critical methods, and I speculate on the intimate process of engaging
+with literature on a computer, where users can manipulate and
+transform text in virtually infinite and unique ways. Comparing three
+very different kinds of digital projects based on text manipulation,
+including the text analysis web application /Voyant-Tools/, the text
+encoding archive, /Women Writers Online/, and a hypertext novella by
+Caitlin Fischer, /These Waves of Girls/, I explain how these tools
+work alongside the reader’s intuition, in what Jerome McGann calls a
+“prosthetic extension of that demand for critical reflection,” by
+which the reader is able to feel her way through the text (18). In
+particular, I find that the haptic and exploratory activity of working
+with these tools enlivens the reading process by allowing the reader
+to play, experiment, and imagine new connections to the textual
+object.
+
+
+** intro to touch as reading method 
+This section establishes the condition of being continually thwarted,
+frustrated, eluded, as an affect of suspension or displacement that is
+central to the experience of queerness, an affect called the
+"untouchable."
+
+*** touch intersects queer and digital, abstracting sense
+At the intersection of queerness and the digital, touch operates by
+abstracting its object through the intermediary of the sensible. This
+process of abstraction compensates for the core condition of
+queerness, which is untouchable, unknowable, and inexpressible.
+
+*** /Waves/: queerness (story) is frustrating closure, eluding touch
+The reader’s confusion in navigating through /Waves/ relates to the
+work’s central theme of narration as seduction, piquing the reader's
+interest in the story, propelling her through hyperlinks across the
+various nodes, and repeatedly frustrating her desire for closure or
+resolution, in a way that reinforces an approach toward queerness as
+something elusive, a process that will never be complete.
+ 
+*** Munoz's queerness as lack
+Because queerness is "not yet here," it calls for something else,
+expanding sensibility of feeling to include sensations beyond the
+immediate, the readily sensible.
+
+*** /confessions/: queerness and the denial of touch
+In /Confessions/, maintaining the gap between sight and touch
+stimulates the senses beyond what's possible within normative
+expectations of sexual desire.
+
+
+** the problem: queerness as untouchable, overreading
+- This section deconstructs the state of queerness as being
+  untouchable. Disidentification brings on a class of affects which
+  point to the element of incommensurability.
+- We need to approach the incommensurable as something that cannot be
+  complete.
+- The perspective that knowledge can be complete is driven by
+  paranoia, and has analogues in history and science. We cannot
+  capture, grasp, or access queerness, and we look into methods of
+  reading that try to ascertain truth or verify facts.
+- We conclude here that the proper position is hesitation,
+  restraint. An awareness of the need for hesitation, while also
+  embracing embodiment. The challenge is to regain touch without
+  resolving it. 
+- How do we touch without presuming full connections? We see
+  Anzaldua's standing at both sides at once, and Love's touching at a
+  distance.
+
+*** toward a reading method of the untouchable
+This chapter will unpack a reading method that approaches queerness as
+being "untouchable."
+
+*** DisID points to the incommensurable: schutte 
+Minority subjects struggle to be read into majoritarian systems of
+identification, and rather experience disidentification, which
+manifests as a choque, a collision of feelings, revealing an
+incommensurable element, which cannot be resolved or verified.
+
+*** TODO draft reading tries to resolve incommens: Amin & Musser
+The illusion that we can gain sufficient knowledge into queer
+experience, that such experiences are “commensurable,” drives certain
+reading practices that critics describe as “paranoid” or “suspicious.
+
+Visibility is a trap -- violence?
+
+*** TODO revise paraonoia: sedgwick
+Paranoid reading practices deliver results that are imaginable within
+given knowledge structures, and close out other opportunities for
+analysis.
+
+*** TODO draft Scott & Kazanjian on overreading
+the way that literary critics approach vision vs other fields
+
+*** Paranoia and replication: haraway
+We find parallels in epistemological methods from disciplines of
+science (anthro) in which paranoia replicates assumptions. 
+
+*** TODO add Barad on replication / representationalism
+Barad makes a point about sciences being driven by replication. My
+inquiry intersects with feminist scientific efforts
+
+*** TODO refine paranoia and recovery: hartmann
+For the historian of slavery, recovery is impossible within the terms
+(language) of the dominant culture---schutte's incommensurability:
+language cannot approximate the reality of experience.
+
+*** Heather Love's queerness as failure, impossible
+For Love, identification is about finding the moment when the subject
+turns away: "Queer history has been an education in absence" (50.)
+This moment of turning away characterizes queerness as something raw,
+which cannot be captured.
+
+*** TODO revise hesitation, critical distance is necessary: lowe
+To avoid paranoid methods we develop a critical distance, we turn to
+the ways that "touch" can be distanced. 
+
+*** TODO revise the dimensions of touch: anzaldua
+The challenge is to regain touch without resolving it, to touch
+without presuming full connections
+    
+*** TODO refine /feeling backward/, touching at a distance 
+Love offers a model of "feeling backward" which is a way for critics
+to connect with queer subjects in a way that keeps objects out of the
+critic's reach. 
+
+
+** solution: abstraction, formalization, opacity
+The harm of paranoia comes from a subject/object divide, where one
+takes control/dominance over the other. But what if we found
+alternative ways of making connections? This involves play and
+speculation. It involves /formalizing what cannot be touched/ into a
+touchable format. Playing with vantages, provisionality, performance!
+
+*** TODO refine reparative reading is active
+looking at reading as reparative opens up the way we understand
+epistemology as about movement and performance, rather than
+knowledge. 
+
+*** TODO cut Waves on movement/performance/ ./
+As I follow this disorienting narrative, I similarly enter into cycles
+of desire and frustration. This affective reaction is only possible
+through the formal structure of the narrative. 
+
+*** TODO draft QPOC on opacity, recuperating absence
+Hartmen's "critical fabulation" & Amber Musser's "surface aesthetics":
+POC theorists have shown us how subjectivity is never quite
+attainable, exists on a surface level. 
+
+*** TODO add Confessions on opacity
+the marbled page as an example of what cannot be said. Formal
+experiments to present a self that is multiple, fragmented,
+unreachable. We can only play with the pieces.
+*** TODO revise invisibility is good, allows queers avoid being seen
+As disidentified, queer subjects remain outside of the confines of the
+visible. To gain visibility within the dominant system only reproduces
+visibility within the terms of that system. 
+
+*** TODO draft Toward a Queer Form
+Writing the self is connected to form. Always. The form is
+multiple. The form makes subjectivity opaque, but in the act of
+abstraction, making it opaque, we can touch it and play around with
+it. 
+
+*** TODO draft Frontera on vitality to deformance?
+the book as living and structured -- we are touching an abstraction
+
+--> signposting: will see the equivalent of touching distantly in
+deformance.
+
+
+** on reproducible criticism
+*** TODO add history of computing shows non-neutrality of tools
+The way that computers are build/made is to perpetuate whiteness, the
+status quo. 
+**** Rosenzweig, Roy. “Wizards, Bureaucrats, Warriors, and Hackers:
+Writing the History of the Internet.” The American Historical Review,
+vol. 103, no. 5, 1998, pp. 1530–1552. JSTOR,
+www.jstor.org/stable/2649970.
+
+“The rise of the Net needs to be rooted in the 1960s-in both the
+"closed world" of the Cold War and the open and decentralized world of
+the antiwar movement and the counterculture. Understanding these dual
+origins enables us to better understand current controversies over
+whether the Internet will be "open" or "closed"-over whether the Net
+will foster democratic dialogue or centralized hierarchy, community or
+capitalism, or some mixture of both” (1531). 
+- Packet switching networks to counteract against the division and
+decentralization that a nuclear strike could create. 
+
+“By spotlighting ARPA, Norberg and O'Neill emphasize what Hafner and Lyon sometimes obscure-the close connection of all ARPA computer funding to military concerns. Calling their concluding chapter "Serving the Department of Defense and Nation," they celebrate rather than downplay that link. They point out, for example, that ARPA only set up the IPTO in 1962 in response to pressure from the Kennedy administration for improved military command and control systems.16 Computers, it was widely believed, would make it possible to "control greater amounts of information and to present it in more effective ways to aid decision making” (1535).
+Bob Kahn creating TCP/IP and “internetting” in order to connect different kinds of networks like satellites and radios.
+“Computers created the technological possibility of the Cold War and shaped computer technology” (1538). 
+“By placing the rise of the Internet within the 1960s-as-counterculture and the 1960s of the antiwar movement, Crocker and the Haubens suggest an alternative contextual frame to that emphasized by Edwards, who puts the rise of digital computing (and implicitly the Internet) solely within the Establishment 1960s of the Vietnam War and the Cold War.” (1545).
+“Ironically, while the Department of Defense had very different goals in mind-and often tried to implement them by, for example, restricting access to the APRANET or to what it could be used for-its willingness to embrace the open technical standards embodied in TCP/IP inadvertently sparked the creation of a remarkably open system” (1549)
+“By the 1980s (and especially by the 1990s), moreover, many of the people who had celebrated the freedom and openness of networks and personal computers had also undergone a transformation that made them inclined to accept this privatiza- tion. The affection of many "Netizens" for free speech and freedom from control had also come to embrace a love for free markets. The liberationism of the many early computer and network enthusiasts had been transformed into libertarianism.” (1550)
+“Web search companies, which are seen as the portals to the Internet, are busily gobbling each other up or being acquired by larger media conglomerates. Bill Gates's Microsoft Corporation has a pretty good chance of controlling not only all of the personal computers from which people access the Internet but also the browsers through which they read pages on the World Wide Web. And Intel Corporation is poised to be the manufacturer of choice for the chips at the heart of those computers.” (1551)
+    
+**** Ruha Benjamin & Alondra Nelson on surveillance?
+Nelson and Benjamin both talk about how the digital is predisposed toward presenting whiteness as invisible, universal, disembodied. (this follows from conceptions of the posthuman which prioritize intelligence over embodiment). Whiteness does not hold weight, it is not marked per se. Blackness is what stands out, gets marked, gets computed according to arbitrary metrics. It is computed to be poorer, more criminal, less qualified. 
+
+*** TODO refine Underwood reproduces assumptions about binary gender
+Assuming gender as a binary concept will create relationships of
+opposition, a case in point of how the critic's entanglement
+bakes results into analysis. 
+**** TODO add Mandell on gender as social construction
+*** TODO refine Nan Z Da on Reproducibility 
+Reproducibility as a benchmark for quantitative methods enacts some of
+the same harms as paranoid reading. Da's point on "reproducibility"
+reveals an ultimately conservative investment in interpretive work as
+something objectively, factually, effectively true.
+*** TODO draft Altschuler and Weimar
+They call to overturn the "unproblematic translatability of
+information between the senses," valuing reproduction
+over remediation/deformance. In this view, digital becomes a means of
+optimization, efficiency, total knowledge and understanding.
+*** TODO refine Drucker's skewing the metrics
+Drucker warps graphical metrics to suggest indeterminacy. 
+
+*** TODO add the intersection btw queer & digit
+The "desire for touching," without being able to fully touch, as the
+definition of queerness, is also where the digital and queer
+intersect. Digital media creates the illusion that we have access to
+data, to information, but all we have access to is a *formalized*
+relationship to that data. We encounter the digital object through
+mediation, through an interface, mice, GUIs, keyboards, etc.
+
+
+** TODO draft Value: Performativity
+--> Digital formats and interfaces facilitate an intimate process of
+engaging with literature on a computer, where users can unlock the
+dynamicity of texts. This performative elements allows unique and
+alternative reading paths. 
+
+*** the value of alterneity over reproduction: performance
+We move away from the reproducible to the performative, exploring
+active elements of analysis, the sensible engagement between critic
+and text
+
+*** Bode's materiality, critque of Underwood
+Bode emphasizes attention to the apparatus. 
+
+*** Critique of Underwood's "sensitivity"
+Distant reading can be sensitive, harnessing the attention span of
+the reader to present new pathways through text. 
+
+*** Tanya Clement: discovery
+                
+
+
+** TODO draft Value: Vantanges
+case in point: /Voyant-Tools/
+*** Klein, Mandell, Caughie, Gaboury
+*** Against totalization
+*** The visible and the invisible, opting out 
+jacob gaboury
+
+
+** TODO Value: Provisionality 
+case in point: some text encoding?
+*** Susan Brown's provisionality
+*** Julia Flander's work on Orlando 
+*** Against stability 
+
+
+** Digital projects based on text manipulation: 
+I find that the haptic and exploratory activity of working with these
+tools enlivens the reading process by allowing the reader to play,
+experiment, and imagine new connections to the textual object.
+
+*** /Voyant-Tools/
+Jerome McGann "prosthetic extensions"
+Potential texts: Woolf's /Orlando/. 
+
+- Interweave a narrative about touch. Taking new materialist ideas but
+placing them within context of QPOC critiqe. Anzaldua and Bennet on
+touch and severing. Sarah Ahmed too. 
+
+*** /These Waves of Girls/
+Following narrative desire. The click of the mouse allows readers to
+move with the text, based on their own paths. 
+
+*** what are some print texts that enact these principles of movement?
+- Alison Bechdel's "Are You My Mother": where every page is vibrating
+with reference. 
+
+
+** MISC
+*** incommensurability, numbers are just as ambiguous
+    - "The imprecision of the human world is part of the reason why
+      numbers are so useful in social science: they allow researchers to
+      describe continua instead of sorting everything into discrete
+      categories" (Underwood 20).
+
+*** race and technology
+- Lisa Nakamura, “Race In/For Cyberspace: Identity Tourism and Racial
+      Passing on the Internet” in Works and Days, Volume 13, Nos. 1 &
+      2, 181-193, 1995. [Available as a .pdf on course Group site.]
+
+
