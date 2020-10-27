@@ -86,21 +86,18 @@ expectations of sexual desire.
 
 ** the problem: queerness as untouchable, overreading
 - This section deconstructs the state of queerness as being
-  untouchable. Disidentification brings on a class of affects which
-  point to the element of incommensurability.
-- We need to approach the incommensurable as something that cannot be
-  complete.
-- The perspective that knowledge can be complete is driven by
-  paranoia, and has analogues in history and science. We cannot
-  capture, grasp, or access queerness, and we look into methods of
-  reading that try to ascertain truth or verify facts.
-- We conclude here that the proper position is hesitation,
-  restraint. An awareness of the need for hesitation, while also
-  embracing embodiment. The challenge is to regain touch without
-  resolving it. 
-- How do we touch without presuming full connections? We see
-  Anzaldua's standing at both sides at once, and Love's touching at a
-  distance.
+  untouchable. 
+
+Disidentification brings on a class of affects which point to the
+element of incommensurability. We need to approach the incommensurable
+as something that cannot be complete.
+
+We conclude here that the proper position is hesitation, restraint. An
+awareness of the need for hesitation, while also embracing
+embodiment. The challenge is to regain touch without resolving it.
+
+How do we touch without presuming full connections? We see Anzaldua's
+standing at both sides at once, and Love's touching at a distance.
 
 *** toward a reading method of the untouchable
 This chapter will unpack a reading method that approaches queerness as
@@ -112,7 +109,7 @@ identification, and rather experience disidentification, which
 manifests as a choque, a collision of feelings, revealing an
 incommensurable element, which cannot be resolved or verified.
 
-*** TODO draft reading tries to resolve incommens: Amin & Musser
+*** TODO draft reading tries to resolve incommens
 The illusion that we can gain sufficient knowledge into queer
 experience, that such experiences are “commensurable,” drives certain
 reading practices that critics describe as “paranoid” or “suspicious.
@@ -205,50 +202,40 @@ deformance.
 
 
 ** on reproducible criticism
-*** TODO add history of computing shows non-neutrality of tools
-The way that computers are build/made is to perpetuate whiteness, the
-status quo. 
-**** Rosenzweig, Roy. “Wizards, Bureaucrats, Warriors, and Hackers:
-Writing the History of the Internet.” The American Historical Review,
-vol. 103, no. 5, 1998, pp. 1530–1552. JSTOR,
-www.jstor.org/stable/2649970.
+This section sets up the conversation about how digital methods
+evacuate complexity and difference, by going into the history of
+technological development and revealing the assumptions and values
+encoded into the technology.
 
-“The rise of the Net needs to be rooted in the 1960s-in both the
-"closed world" of the Cold War and the open and decentralized world of
-the antiwar movement and the counterculture. Understanding these dual
-origins enables us to better understand current controversies over
-whether the Internet will be "open" or "closed"-over whether the Net
-will foster democratic dialogue or centralized hierarchy, community or
-capitalism, or some mixture of both” (1531). 
-- Packet switching networks to counteract against the division and
-decentralization that a nuclear strike could create. 
+*** contextualize development of digital tech
+The internet, a technology credited with democratizing information,
+communication, access, actually arose from a national security
+consideration, to improve military communication. 
 
-“By spotlighting ARPA, Norberg and O'Neill emphasize what Hafner and Lyon sometimes obscure-the close connection of all ARPA computer funding to military concerns. Calling their concluding chapter "Serving the Department of Defense and Nation," they celebrate rather than downplay that link. They point out, for example, that ARPA only set up the IPTO in 1962 in response to pressure from the Kennedy administration for improved military command and control systems.16 Computers, it was widely believed, would make it possible to "control greater amounts of information and to present it in more effective ways to aid decision making” (1535).
-Bob Kahn creating TCP/IP and “internetting” in order to connect different kinds of networks like satellites and radios.
-“Computers created the technological possibility of the Cold War and shaped computer technology” (1538). 
-“By placing the rise of the Internet within the 1960s-as-counterculture and the 1960s of the antiwar movement, Crocker and the Haubens suggest an alternative contextual frame to that emphasized by Edwards, who puts the rise of digital computing (and implicitly the Internet) solely within the Establishment 1960s of the Vietnam War and the Cold War.” (1545).
-“Ironically, while the Department of Defense had very different goals in mind-and often tried to implement them by, for example, restricting access to the APRANET or to what it could be used for-its willingness to embrace the open technical standards embodied in TCP/IP inadvertently sparked the creation of a remarkably open system” (1549)
-“By the 1980s (and especially by the 1990s), moreover, many of the people who had celebrated the freedom and openness of networks and personal computers had also undergone a transformation that made them inclined to accept this privatiza- tion. The affection of many "Netizens" for free speech and freedom from control had also come to embrace a love for free markets. The liberationism of the many early computer and network enthusiasts had been transformed into libertarianism.” (1550)
-“Web search companies, which are seen as the portals to the Internet, are busily gobbling each other up or being acquired by larger media conglomerates. Bill Gates's Microsoft Corporation has a pretty good chance of controlling not only all of the personal computers from which people access the Internet but also the browsers through which they read pages on the World Wide Web. And Intel Corporation is poised to be the manufacturer of choice for the chips at the heart of those computers.” (1551)
-    
-**** Ruha Benjamin & Alondra Nelson on surveillance?
-Nelson and Benjamin both talk about how the digital is predisposed toward presenting whiteness as invisible, universal, disembodied. (this follows from conceptions of the posthuman which prioritize intelligence over embodiment). Whiteness does not hold weight, it is not marked per se. Blackness is what stands out, gets marked, gets computed according to arbitrary metrics. It is computed to be poorer, more criminal, less qualified. 
+Operating systems, which make possible the running of computers are
+built by white men and display their cultural values in emphasis on
+modularity, transparency, etc. 
+
+Today, the development of surveillance tech furthers this, presenting
+whiteness as something invisible, universal, disembodied. 
 
 *** TODO refine Underwood reproduces assumptions about binary gender
 Assuming gender as a binary concept will create relationships of
 opposition, a case in point of how the critic's entanglement
-bakes results into analysis. 
-**** TODO add Mandell on gender as social construction
+bakes results into analysis.
+
 *** TODO refine Nan Z Da on Reproducibility 
 Reproducibility as a benchmark for quantitative methods enacts some of
 the same harms as paranoid reading. Da's point on "reproducibility"
 reveals an ultimately conservative investment in interpretive work as
 something objectively, factually, effectively true.
+
 *** TODO draft Altschuler and Weimar
 They call to overturn the "unproblematic translatability of
 information between the senses," valuing reproduction
 over remediation/deformance. In this view, digital becomes a means of
 optimization, efficiency, total knowledge and understanding.
+
 *** TODO refine Drucker's skewing the metrics
 Drucker warps graphical metrics to suggest indeterminacy. 
 

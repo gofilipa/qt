@@ -934,6 +934,230 @@ dynamic nature of gender identities?”
   sexuality in the modernist era. They ended up with a storm cloud,
   showing clusters of different gender traits over time.
 
+** Critical Race
+*** Tara McPherson’s “U.S. Operating Systems at Mid-Century: The
+  Intertwining of Race and UNIX," Race After The Internet, ed. Lisa
+Nakamura and Peter A. Chow-White. Routledge, 2012. 
+
+Draws a parallel narrative between mid-twentieth century so called
+liberal progressivist movements---race relations and technological
+innovations leading up to the Operating System UNIX. She finds
+similarities in the two, that both adhere to certain values which work
+to cordone off parts of the system into distinct units. Does a deep
+reading of UNIX philosophy, isolating concepts like modularity,
+simplicity, transparency, and showing how these work to collapse or
+erase complexity and context from computational systems. Just as overt
+racism of the early 20th century becomes contained and perpetuated
+through neoliberal plurualism, so do complex early machines become
+compartmentalized and modularized in the development of the UNIX
+operating system and it's children. The philosophy of UNIX systems
+works across the social system to partition and compartmentalize
+difference.
+
+Tara McPherson’s “U.S. Operating Systems at Mid-Century”
+- "I suggest that these two moments cut from time are deeply
+  interdependent. In fact, they co-constitute one another, comprising
+  not independent slices of history but, instead, related and useful
+  lenses into the shifting epistemological registers driving U.S. and
+  global culture in the 1960s and after. Both exist as operating
+  systems of a sort, and we might understand them to be mutually
+  reinforcing" (23).
+- "As we delve into the intricacies of UNIX and the data structures it
+  embraces, race in America recedes far from our line of vision and
+  inquiry" (23).
+- "what if this very incompatibility is itself part and parcel of the
+  organization of knowledge production that operating systems like
+  UNIX helped to disseminate around the world? Might we ask if there
+  is not something particular to the very forms of electronic culture
+  that seems to encourage just such a movement, a movement that
+  partitions race off from the specificity of media forms?... might we
+  argue that the very structures of digital computation develop at
+  least in part to cordon off race and to contain it?" (24).
+- "Certain modes of racial visibility and knowing coincide or dovetail
+  with specific ways of organizing data" (24).
+- "lenticular lenses", where "The viewer can rotate the card to see
+  any single image, but the lens itself makes seeing the images
+  together very difficult, even as it conjoins them at a structural
+  level...serves to secure our understandings of race in very narrow
+  registers, fixating on sameness or difference while forestalling
+  connection and interrelation" (24-25).
+- "A lenticular logic is a covert racial logic... A lenticular logic
+  is a logic of the fragment or the chunk, a way of seeing the world
+  as discrete modules or nodes, a mode that suppresses relation and
+  context. As such, the lenticular also manages and controls
+  complexity" (25).  --> (how does this engage with the discussion on
+  Haraway's Situated Knowledges, on her championing the partial as
+  objective?)
+- "Rule of Simplicity: Design for simplicity; add complexity only
+  where you must.... Rule of Transparency: Design for visibility to
+  make inspection and debugging easier... Rule of Representation: Fold
+  knowledge into data so program logic can be stupid and robust" (26).
+- We "see at work here the basic contours of a lenticular approach to
+  the world, an approach which separates object from context, cause
+  from effect" (27). --> this is the place where modularity fails to
+  account for context. Modularity needs a critical awareness of its
+  own tools. Being modular in itself isn't bad, as long as you are
+  aware of the ways that modularity creates limitations/reductions of
+  data.
+- "For instance, if the first half of the twentieth century laid bare
+  its racial logics, from "Whites Only" signage to the brutalities of
+  lynching, the second half increasingly hides its racial "kernel,"
+  burying it below a shell of neoliberal pluralism" (29).
+- "we might also understand the emergence of identity politics in the
+  1960s as a kind of social and political embrace of modularity and
+  encapsulation, a mode of partitioning that turned away from the
+  broader forms of alliance-based and globally inflected political
+  practice that characterized both labor politics and anti-racist
+  organizing in the 1930s and 1940s.5 While identity politics produced
+  concrete gains in the world, particularly in terms of civil rights,
+  we are also now coming to understand the degree to which these
+  movements curtailed and shortcircuited more radical forms of
+  political praxis, reducing struggle to fairly discrete parameters"
+  (30).
+- "Many of these shifts were enacted in the name of liberalism, aimed at
+  distancing the overt racism of the past even as they contained and
+  cordoned off progressive radicalism. The emergence of covert racism
+  and its rhetoric of colorblindness are not so much intentional as
+  systemic" (30).
+- "we cannot read the logics of these systems and networks solely at
+  the level of our screens. Capital is now fully organized under the
+  sign of modularity. It operates via the algorithm and the database,
+  via and processing. Our screens are cover stories, disguising deeply
+  divided forms of both machine and human labor. We focus exclusively
+  on them increas ingly to our peril" (34).
+- "We must develop common languages that link the study of code and
+  culture . We must historicize and politicize code studies. And,
+  because digital media were born as much of the Civil Rights era as
+  of the Cold War era (and of course these eras are one and the same),
+  our investigations must incorporate race from the outset,
+  understanding and theorizing its function as a "ghost in the digital
+  machine"" (34).
+
+*** Nelson, Alondra. “Future Texts.” Social Text 71, Vol. 20, No. 2,
+  Summer 2002.
+
+Talks about the way that blackness is constructed in media, which is anti-technology, anti-progress, because the popular notions of the digital elide anything embodied or marked as other. 
+
+“Blackness in particular, is the anti-avatar of digital life. Blackness gets constructed as always oppositional to technologically driven chronicles of progress” (1).
+→ the ideal of technology is to do away with the flesh, with the inconveniences of the flesh. 
+
+“In the future the body won’t bother us any longer” (2). 
+→ this idea from the posthuman, from the development of cybernetics, which extends the prioritization of rationality in the human. The mind over body, the mind that eventually won’t need a body. Which of course elides the ways that information is always embodied, is always situated. 
+
+Promoting the invisibility, universality, bodilessness of the digital requires the othering of embodied differences. See Nakamura. 
+
+*** Ruha Benjamin, Race After Technology: Abolitionist Tools for the New Jim Code, Polity Press, 2019. 
+
+Talks about how technologies carry through historical prejudices about blackness. Current society perpetuates racism by transforming it into ever new tools, in this case, data gathering and surveillance, machine learning. 
+technology extends racism and anti-Black violence, a paradigm she calls “the New Jim Code”: “the employment of new technologies that reflect and reproduce existing inequities but that are promoted and perceived as more objective or progressive than the discriminatory systems of a previous era” (5-6).
+
+“Far from coming upon a sinister story of racist programmers scheming in the dark corners of the web, we will find that the desire for objectivity, efficiency, profitability, and progress fuels
+the pursuit of technical fixes across many different social arenas. Oh, if only there were a way to
+slay centuries of racial demons with a social justice bat! But, as we will see, the road to inequity
+is paved with technical fixes” (7).
+“The animating force of the New Jim Code is that tech designers encode judgments into technical systems but claim that the racist results of their designs are entirely exterior to the encoding process” (11-12). 
+
+“This field guide explores not only how emerging technologies hide, speed up, or reinforce racism, but also how race itself is a kind of technology – one designed to separate, stratify, and sanctify the many forms of injustice experienced by members of racialized groups, but one that people routinely reimagine and redeploy to their own ends” (19).
+
+This is meant as an extension of New Jim Crow, which argues that current society perpetuates racism by criminalizing it, war on drugs, mass incarceration. It diverts racist action into new forms. The newest form of this diversion is technology. 
+
+“Invisibility, with regard to Whiteness, offers immunity. To be unmarked by race allows you to reap the benefits but escape responsibility for your role in an unjust system” (2).
+
+“With emerging technologies we might assume that racial bias will be more scientifically rooted out. Yet, rather than challenging or overcoming the cycles of inequity, technical fixes too often reinforce and even deepen the status quo” (3).
+
+“the language of “progress” is too easily weaponized against those who suffer most under oppressive systems” (4).
+
+“These tech advances are sold as morally superior because they purport to rise above human bias, even though they could not exist without data produced through histories of exclusion and discrimination” (5).
+
+“The animating force of the New Jim Code is that tech designers encode judgments into technical systems but claim that the racist results of their designs are entirely exterior to the encoding process” (6). 
+→ are tools good or bad in themselves? I have believed in the past that tools can be used in good or bad ways. That it was about agency, activity, discovery, performance. But it seems that tools themselves contain biases. What is the role of human agency in using biased tools? 
+
+“this text presents a case for understanding race itself as a kind of tool – one designed to stratify and sanctify social injustice as part of the architecture of everyday life” (9).
+
+“The view that “technology is a neutral tool” ignores how race also functions like a tool, structuring whose literal voice gets embodied in AI. In celebrating diversity, tokenistic approaches to tech development fail to acknowledge how the White aesthetic colors AI. The “blandness” of Whiteness that some of my students brought up when discussing their names is treated by programmers as normal, universal, and appealing” (15).
+    → white people want tech to make them invisible. The opposite impulse has to employ the body, prioritize the marked body. Make the body hypervisible and open to vulnerability.
+
+→ Wendy Chun’s image of the window. The screen goes both ways. You are already being seen when you use technology.  
+
+“Thin description” --- like surface reading, because we are all judged by appearances. 23-24.
+“If the New Jim Code seeks to penetrate all areas of life, extracting data, producing hierarchies, and predicting futures, thin description exercises a much needed discretion, pushing back against the all-knowing, extractive, monopolizing practices of coded inequity” (24).
+
+*** Simone Browne, Dark Matters: On the Surveillance of
+Blackness. Duke University Press, 2015. 
+
+“the conditions of blackness as a key site through which surveillance is practiced, narrated, and resisted” 
+“For this study, I look to Pamela Z’s multimedia project on travel and security, Baggage Allowance; Adrian Piper’s What It’s Like, What It Is #3; Caryl Phillips’s epistolary story “The Cargo Rap” on prisons, politics, and slavery; and Hank Willis Thomas’s commentary on branding and the afterlife of slavery in his B®anded series. Part of the argument presented here is that with certain acts of cultural production we can find performances of freedom and suggestions of alternatives to ways of living under a routinized surveillance” (6). 
+
+“The concept of dark matter might bring to mind opacity, the color
+black, limitlessness and the limitations imposed on blackness, the
+dark, antimatter, that which is not optically available, black holes,
+the Big Bang theory, and other concerns of cosmology where dark matter
+is that nonluminous component of the universe that is said to exist
+but cannot be observed, cannot be re- created in laboratory
+conditions. Its distribution cannot be measured; its properties cannot
+be determined; and so it remains undetectable. The gravitational pull
+of this unseen matter is said to move galaxies… In her essay “Black
+(W)holes and the Geometry of Black Female Sexuality,” Evelyn Hammonds
+takes up the astrophysics of black holes found in Michele Wallace’s
+discussion of the negation of black creative genius to say that if “we
+can detect the presence of a black hole by its effects on the region
+of space where it is located,” where, unseen, its energy distorts and
+disrupts that around it, from that understanding we can then use this
+theorizing as a way to “develop reading strategies that allow us to
+make visible the distorting and productive effects” of black female
+sexualities in particular, and blackness in general.19 Taking up
+blackness in surveillance studies in this way, as rather unperceived
+yet producing a productive disruption of that around it, Dark Matters
+names the surveillance of blackness as often unperceivable within the
+study of surveillance, all the while blackness being that nonnameable
+matter that matters the racialized disciplinary society. It is from
+this insight that I situate Dark Matters as a black diasporic,
+archival, historical, and contemporary study that locates blackness as
+a key site through which surveillance is practiced, narrated, and
+enacted” (9).  
+
+-> So we have a paradigm of optics here, that allows us to see how the
+whiteness and blackness engage visibly. Whiteness is the assumed
+universal, unmarked and in that sense invisible (Nelson). Blackness is
+also invisible, in the sense that it’s not readily perceived, but it’s
+visible in its distortions, how it affects the objects surrounding
+it. The tasks is to “develop reading strategies that allow us to make
+visible the distorting and productive effects” of blackness (Browne
+9). On cameras: “technology privileges whiteness, or at least
+lightness, in its use of lighting and in the ways in which certain
+bodies are lit and measured in the enrollment process” (Browne 113) →
+how are both whiteness and blackness invisible, to whom, under what
+conditions? How are they operating?
+
+Racializing surveillance: “my use of the term “racializing surveillance” signals those moments when enactments of surveillance reify boundaries, borders, and bodies along racial lines, and where the outcome is often discriminatory treatment of those who are negatively racialized by such surveillance” (16).
+
+Sousveillance: ““sousveillance” as a way of naming an active inversion of the power relations that surveillance entails. Sousveillance, for Mann, is acts of “observing and recording by an entity not in a position of power or authority over the subject of the veillance,” often done through the use of handheld or wearable cameras”55 (19).
+“I use the term “dark sousveillance” as a way to situate the tactics
+employed to render one’s self out of sight, and strategies used in the flight to freedom from slavery as necessarily ones of undersight. Using this model, but imagining Mann’s Veillance Plane as operating in three dimensions, I plot dark sousveillance as an imaginative place from which to mobilize a critique of racializing surveillance, a critique that takes form in antisurveillance, countersurveillance, and other freedom practices” (21).
+
+With runaway slaves, “how black performative practices and creative acts (fiddling, songs, and dancing) also functioned as sousveillance acts and were employed by people as a way to escape and resist enslavement, and in so being were freedom acts” (22).    
+
+B®anding Blackness: Biometric Technology and the Surveillance of Blackness [read in full]
+“branding during transatlantic slavery as a marking, making, and marketing of blackness as commodity… the history of branding in transatlantic slavery anticipates the “social sorting” outcomes that Lyon’s work alerts us to regarding some contemporary surveillance practices, including passports, identification documents, or credit bureau databases. … contemporary
+biometric information technologies and their applications: the fingerprint data template technology and retina scans where the human body, or parts and pieces of it, are digitized for automation, identification, and verification purposes” (26).
+
+“Biometric information technology, or biometrics, in its simplest form, is a means of body measurement that is put to use to allow the body, or parts and pieces and performances of the human body, to function as identification” (91).
+
+“Can the epidermal racial schema that Fanon makes plain be found in some contemporary biometric information technologies—the iris scanners and fingerprint readers that are said to secure borders and protect a collective “us” from identity fraud and personal data theft?” (92).
+
+“Blackness for Sale was a necessary counterframing to concurrent net.art in that it critiqued the commodification of blackness and the ways that colonial narratives are reproduced through Internet interfaces: “While watching what many were doing with net.art, I didn’t really see net artists dealing with this intersection of commerce and race. I really wanted to comment on this odd Euro colonialist narrative that exists on the web and black peoples’ position within that narrative. I mean, there are browsers called Explorer and Navigator that take you to explore the Amazon or trade in the ebay. It’s all just too blatant to ignore” (106).
+
+“I suggest here that we come to think of the concept of digital epidermalization when we consider what happens when certain bodies are rendered as digitized code, or at least when attempts are made to render some bodies as digitized code… facial recognition, iris and retinal scans, hand geometry, fingerprint templates, vascular patterns, gait and other kinesthetic recognition, and, increasingly, DNA.” (109).
+“Epidermalization—the imposition of race on the body” (113).
+
+Facial recognition stems from craniometry & phrenology: “With Li, Zhou, and Geng’s study quoted above, we can see that pseudo- scientific discourse of racial difference forms the theoretical basis from which to develop a facial computational model that could qualify (and mathematically quantify) difference to allow for identity authentification…. Some advances in biometric information technology are organized around the idea of digital epidermalization.” (112-113).
+On cameras: “technology privileges whiteness, or at least lightness, in its use of lighting and in the ways in which certain bodies are lit and measured in the enrollment process” (Browne 113).
+
+Branded: “The words “Pistol,” “Bullet,” and “Picking” are the only ones that are capitalized in this image, signaling the link between the labor of slavery (picking cotton) and its violent aftermath (firearm- related homicide), and the ways in which black death is capitalized upon (picking caskets). Debt (reparations for slavery, credit card debt) underwrites Thomas’s remaking of MasterCard’s Priceless campaign. With B®anded comes Thomas’s interrogation of advertising and the commodification of blackness, urban violence, and the transatlantic slave trade” (124).
+“When asked about the intent behind his B®anded series, Thomas has said that he was “interested in the way that black men are the most feared and revered bodies in the world in this weird way” and that he was “trying to figure out why that was and what that was about, and the relationship to slavery and commodity, which is commerce, culture, cotton, and that body type.”116” (125).
+“blackness is pitched “as a way to cash in on street cool or urban icon”” (125).
+
+
 * Theories of Perception
 ** Thinking/Feeling: Philosophy
 *** Hume, David. *An Enquiry Concerning Human Understanding*, 1748.
@@ -1447,7 +1671,7 @@ an worlds whose mis/fits are context- and interaction-dependant" (61).
     we make of other minds, both fictional and real ones—all of them
     acts of representation” (234).
 
-** Thinking/Feeling: The Posthuman
+** Thinking/Feeling: The Posthuman & Feminist Science
 *** Turing, Alan. "Computing Machinery and Intelligence". 1950.
 - Turing's text asks whether computers can perform thinking, function
   in a way that imitates thought, not whether computers can "think" in
@@ -1463,7 +1687,65 @@ an worlds whose mis/fits are context- and interaction-dependant" (61).
   building and programming computers are often surprised---they are
   not quite sure what is going on inside the machine.
 
-*** Haraway, Donna. "A Cyborg Manifesto", in *Simians, Cyborgs and Women: The Reinvention of Nature* 1990.
+*** Haraway, Donna. "Situated Knowledges: The Science Question in Feminism and the
+Privilege of Partial Perspective," Feminist Studies, Vol. 14, No. 3
+(Autumn, 1988), pp. 575-599. http://www.jstor.org/stable/3178066
+
+The notion of situated knowledges is an effort to think outside the
+duality of objectivity-relativism that is both ineffective and harmful
+for feminist purposes. Situated knowledges is thus thought to be "a
+strong tool" (578) that preserves claims to objectivity but without
+performing "the god trick" (a "view from above, from nowhere" (589) is
+a perspective that under the guise of neutrality, or nowhere (but
+embracing all), hides a very specific position (male, white,
+heterosexual, human) and thus makes this position universal).
+- "objectivity turns out to be about particular and specific
+  embodiment... only partial perspective promises objective vision."
+  (58-3)
+
+Situated Knowledges are well-aware of how standpoints are constructed
+and how contingent they are, but it does not accept one of the
+consequences that it is simply all a matter of opinion.
+- "I would like a doctrine of embodied objectivity that accommodates
+  paradoxical and critical feminist science projects: Feminist
+  objectivity means quite simply situated knowledge" (581).
+- "I am arguing for politics and epistemologies of location,
+  positioning, and situating,w here partialitya nd not universalityi s
+  the condition of being heard to make rational knowledge claims"
+  (589).
+
+The notion of situated knowledges is further developed by Haraway via
+a metaphor of vision. The "god trick" is about enacting "a conquering
+gaze from nowhere" (581). This gaze is claimed to be immaterial while
+materializing what it embraces (particularly how bodies matter: which
+bodies have which meanings, which bodies are deprived of meaning, and
+how bodies (and meanings) materialize), it is claimed to have the
+capacity to see, but is itself unseen, "to represent while escaping
+representation" (581). This gaze also erases the semiotic-material
+conditions that enable vision (for example technologies of vision and
+how they were developed). The vision (as a metaphor) that Haraway
+proposes is embodied, partial, and accountable/answerable for what one
+sees and how one organizes what one sees: "Vision is always a question
+of the power to see – and perhaps of the violence implicit in our
+visualizing practices. With whose blood were my eyes crafted?" (585).
+- "I would like to suggesth ow our insistingm etaphoricallyo n the
+  particularitya nd embodimento f all vision (althoughn ot necessarily
+  organic embodiment and including technological mediation), and not
+  giving in to the tempting myths of vision as a route to
+  disembodimenta nd second-birthinga llows us to construct a usable,
+  but not an innocent, doctrine of objectivity... objectivity turns
+  out to be about particular and specific embodiment" (582).
+- "all eyes, including our own organic ones, are active perceptual
+  systems, buildingo n translationsa nd specific wayso f seeing, that
+  is, ways of life. There is no unmediated photograph or passive
+  camera obscura in scientific accounts of bodies and machines; there
+  are only highly specific visual possibilities, each with a
+  wonderfully detailed, active, partial way of organizing worlds"
+  (583).
+
+*** Haraway, Donna. "A Cyborg Manifesto", in *Simians, Cyborgs and
+Women: The Reinvention of Nature* 1990.
+
 - Haraway is a primatologist critical of empirical methods. In earlier
   chapters of the book, she talks a lot about how social structures
   are imposed through purportedly objective observations. She talks
@@ -1491,6 +1773,59 @@ an worlds whose mis/fits are context- and interaction-dependant" (61).
               communicatino toward the heterogenous. We need to revel
               in and mine the differences instead of flatten or
               resolve them.
+
+*** Scott, Joan W. "The Evidence of Experience," Critical Inquiry, Vol. 17, No. 4
+(Summer, 1991), pp. 773-797. https://www.jstor.org/stable/1343743
+
+Responds to "historians of difference" who are using experience for
+evidence rather than thinking about how experience is shaped.
+- "When experience is taken as the origin of knowledge, the vision of
+  the individual subject (the person who had the experience or the
+  historian who recounts it) becomes the bedrock of evi- dence on
+  which explanation is built. Questions about the constructed nature
+  of experience, about how subjects are constituted as different in
+  the first place, about how one's vision is structured-about language
+  (or discourse) and history-are left aside. The evidence of
+  experience then becomes evidence for the fact of difference, rather
+  than a way of explor- ing how difference is established, how it
+  operates, how and in what ways it constitutes subjects who see and
+  act in the world" (777). 
+
+Scott talks about representation, about looking at experience, at the
+vision, the optical effects, for what they suggest. The beautiful
+reading of Samuel Delany’s vision of the “millions of gay men” the
+fantastical projection (rather than real identity) that suggests a
+political consciousness.
+- "The project making experience visible precludes critical
+  examination of the workings of the ideological system itself, its
+  categories of representation (homosexual/heterosexual, man/woman,
+  black/white as fixed immutable identities), its premises about what
+  these categories mean and how they operate, and of its notions of
+  subjects, origin, and cause...  In these stories homosexuality is
+  presented as a repressed desire (experience denied), made to seem
+  invisible, abnormal, and silenced by a "society" that legislates
+  heterosexuality as the only normal practice. Because this kind
+  (homosexual) desire cannot ultimately be repressed-because
+  experience is there--it invents institutions to accommodate
+  itself. These institutions are unacknowledged but not invisible;
+  indeed, it is the possibility that they can be seen that threatens
+  order and ultimately overcomes repression. Resistance and agency are
+  presented as driven by uncontainable desire; emancipation is a
+  teleological story in which desire ultimately overcomes social
+  control and becomes visible" (778).
+- "Making visible the experience of a different group exposes the
+  existence of repressive mechanisms, but not their inner workings or
+  logics; we know that difference exists, but we don't understand it
+  as relationally constituted. For that we need to attend to the
+  historical processes that, through discourse, position subjects and
+  produce their experiences. It is not individuals who have
+  experience, but subjects who are constituted through expeience"
+  (779).
+
+For literary critics, experience is always mediated. We never take a
+text as referential---there is rhetoric and form. Historiography here
+is about modes of seeing.
+
 
 *** Powers, Richard. *Galatea 2.2* 1995.
 - The novel follows a writer's residency at a college, where he is
@@ -1723,10 +2058,9 @@ an worlds whose mis/fits are context- and interaction-dependant" (61).
 - Makes the general argument that body’s materiality is discursive,
   that the “sexed body” is discursively constructed. Materiality is
   something that emerges from repetition, a kind of performance
-  whereby the powers that be are signified and re-signified
-  endlessly---each act cites whatever social power or understanding
-  about sex. Butler then insists that repetition is the way out of
-  this significatory circle.
+  whereby meaning is signified and re-signified endlessly---each act
+  cites whatever social power or understanding about sex. Butler then
+  insists that repetition is the way out of this significatory circle.
 - We cannot speak outside the powers that structure speech. Subjects
   are always interpellated by the discourse prior to citing it. Like
   protocol, discourse determines all connections; in gender, the
