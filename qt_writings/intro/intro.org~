@@ -9,16 +9,6 @@ subjects/affects/embodiments within texts? What about the digital
 allows us to activate /sensational/ reading experiences? In simpler
 words, how does digital media interface with queerness?
 
-This chapter proposes a reading methodology that leverages the
-critic's relationship to the text to open possibilities for
-interpretation and connections to the textual material. It explores
-the ways that reading practices across two different fields (digital
-humanities and queer theory) intertwine, and how this creates a new
-method for reading queer narratives in digital contexts. The burden of
-the chapter is to describe how queerness and data are mediated, and
-can/should be engaged critically as constructions, formalizations,
-that draw attention to their own mediation.
-
 First, queerness is established as something that can only be touched
 "at a distance," because the queer subject cannot be redeemed or
 recovered. This impulse to satisfy, redeem, or recover queerness is
@@ -36,24 +26,21 @@ unknowable nature of queer experience and identity somewhat in
 tact. We look at /Confessions of the Fox/, /These Waves of Girls/,
 /Borderlands/.
 
-Second, we examine a similar impulse in DH---and a parallel across the
-status of queerness and data, which cannot be captured in their raw
-forms. The history of computing and media shows how tools were built
-in ways that are not neutral, and we find DH practitioners doing work
-that is critical of digital methods. Looking at the example of DH from
-the position of queerness we see more clearly the necessity of
-opacity, formalization, and abstraction as reading methods, and the
-real danger of reproducibility and totalization, byproducts of
-paranoia. We find parallels between queer critics and feminist DHers,
-who are doing something similar; we interweave Saidiya Hartman and
-Lauren Klein.
+The history of computing and media shows how tools were built in ways
+that are not neutral, and we find DH practitioners doing work that is
+critical of digital methods. Looking at the example of DH from the
+position of queerness we see more clearly the necessity of opacity,
+formalization, and abstraction as reading methods, and the real danger
+of reproducibility and totalization, byproducts of paranoia. We find
+parallels between queer critics and feminist DHers, who are doing
+something similar; we interweave Saidiya Hartman and Lauren Klein.
 
-Third, we propose three values for queer DH, which is: novelty (the
+Finally, we propose three values for queer DH, which is: novelty (the
 performative), vantages (the visual), and provisionality (the
-ontological). We see these examples in /voyant-tools/, /these waves
-of girls/, and /the orlando project/(?). 
+ontological). We see these examples in /these waves of girls/, and
+/the confessions of the fox/.
 
-**** feedback on intro to chap 1 from diss workshop
+**** feedback on intro from diss workshop
 The three heavy footnotes in the beginning, are tripping people up, a
 bit overwhelming. Work on spreading this out. In doing so, luxuriate
 in the idea of how digital etymology relates to the idea of touch.
@@ -133,7 +120,7 @@ More readings:
 - will narratology help me clarify some of the terms on page 6, on the
   close readings of /Waves/? Mieke Bal perhaps.
 
-**** revision plan for section II
+**** plan for problem section p
 ***** Outline of this section: 
     
     (1) defines queerness as affective--the untouchable; 
@@ -182,7 +169,33 @@ embodiment. The challenge is to regain touch without resolving it.
 How do we touch without presuming full connections? We see Anzaldua's
 standing at both sides at once, and Love's touching at a distance.
 
+**** plan for historical section
 
+- Who is important to the field and why? 
+
+- What is the main quality about technology that my critique brings
+  out? It is reproducibility, simplification, standardization? Pick
+  one and then decide how to shore it up. 
+    - The argumentation of the historical context needs to be
+      smoother. You begin talking about how data is organized, then
+      move to how data is selected for input. What is the main
+      argument you're trying to bring across with this historical
+      section?
+    - What from this will go in the first chapter?
+- Engage the discussion on race and gender. Are these treated the
+  same by the technology? Do they intersect? *Build the bridge* for
+  people to understand the connection between race and gender.  
+- Sketch out the *fantasy of the falsifiable*
+- Define terms:
+  - reproducibility
+  - operating systems
+  - race relations
+
+History of the Internet:
+- Is it necessary to go into the history of the internet here? Can
+  this point go in a footnote or another chapter?
+- In my discusson on freedom & control, what is the trade off between
+  standardization and freedom? Make this more evident.
 
 
 ** I: Queerness, the Digital & Touch
@@ -425,6 +438,152 @@ queerness, an affect that I call the "untouchable," which we now
 explore in depth.
 
 
+** [floating!] technological context
+*** history of computing shows non-neutrality of tools
+
+Before I turn to current examples of distant reading, it is useful to
+contextualize the technological development of digital tools in the
+latter 20th century. This contextualization reveals how the intentions
+guiding technological development contradicts common understandings
+about new information technology being progressive, democratic, or
+"free". In fact, many of these tools were created with conservative
+intentions and perpetuate cultural assumptions that elide complexity
+and difference. In what follows, I will briefly trace the development
+of networking and software technologies from the 1960s through the end
+of the 20th century, then turn to the "surveillance" technology of the
+last two decades, highlighting how more recent technology maintains
+some of the crucial assumptions from the last century. This
+contextulization, however brief, will help to situate the ways that
+digital humanists today approach the use of digital tools in their
+research methodologies.
+
+First, the development of the internet, which is a global network of
+interconnected computers, is often credited for "democratizing" access
+to information. Early networks like Usenet, developed in 1979,
+popularized online message boards, file-sharing, and eventually
+e-mail. Built from ideals of open exchange and user agency in "an
+effort to break down modes of exclusion," the network was developed by
+people who wanted to communicate horizontally, practice improvisation
+and "hacking." (Rosenweig, "Wizards, Bureaucrats..., 1549). Moving to
+1989, Tim Berners-Lee, a computer scientist at the European
+Organization for Nuclear Research (CERN), proposed the development of
+a distributed information system that would eventually become the
+World Wide Web.[fn:7] While working at CERN, Berners-Lee identified
+personnel access to the latest information across the center as a
+major problem for the organization’s workflow, lamenting that
+“Information is constantly being lost… often, the information has been
+recorded, it just cannot be found." Berners Lee saw information and
+people, the connection between human bodies with bodies of text, as
+the problem. He proposed a new resource for orienting researchers that
+was accessible, flexible, and emendable, initiating work on the
+Hypertext Transfer Protocol (HTTP) that would eventually become
+integral to creating the World Wide Web.
+
+These positive narratives about Usenet and the World Wide Web dominate
+the history of internet. Less acknowledged is how networking
+technologies largely support a structure of control over its users. To
+begin with, the internet's early development was funded by two
+Department of Defense projects, the RAND corporation (then a Cold War
+think-tank), and ARPANET (the Advanced Research Projects Agency
+Network), which later became the Defense Advanced Research Projects
+Agency (DARPA). These US military stakeholders wanted to preserve
+command and control in the case of a catastrophic nuclear
+event,[fn:8] and reasoned that a distributed network would create
+national communication contingency.[fn:9] The RAND Corporation fist
+theorized the distributed network, and ARPANET formalized the new
+technology of packet switching, which is a method of grouping data
+into small packets that can be later reassembled at the final
+destination. In order to send information along the network, data has
+to be appended with protocols, or codes like HTTP, which impose
+structures on data to make connections possible.  As Alexander
+Galloway points out, whether users know it or not, they
+"accept... universal standardization in order to facilitate the freer
+and more democratic medium” (147).[fn:10] The trade-off between access
+and standardization, freedom and control, is often invisible to the
+end user, who isn't aware of the packets that are constantly passing
+through their computer. Wendy Chun uses the image of a window to
+illustrate the two way direction of information traffic, how using the
+internet is also always being used by it. She warns: “If you believe
+that your communications are private, it is because software
+corporations, as they relentlessly code and circulate you, tell you
+that you are behind, and not in front of, the window” (22).[fn:11]
+
+Major developments in technology also perpetuate racial
+assumptions. Moving from networking technologies to software
+development, Tara McPherson explores the parallels between the
+Operating Systems and race relations, to show how the development of
+computer software betrays hegemonic assumptions about whiteness and
+elisions of difference.[fn:12] She focuses on the key moment of 1960s
+United States, when Operating Systems, which is the foundational
+software that supports a computer's programs and basic functioning,
+developed alongside civil rights discourses. Her research focuses on
+how "the organization of information and capital" in OS development
+resonates in the struggles for racial justice: "Many of these shifts
+were enacted in the name of liberalism, aimed at distancing the overt
+racism of the past even as they contained and cordoned off progressive
+radicalism" (30). McPherson deconstructs the UNIX operating system
+which includes a hierarchical file system, a command line interpreter
+(the Terminal on Mac or Command Prompt on Windows), and a variety of
+software programs that are designed to work in tandem. McPherson
+points out that UNIX-based Operating Systems (like Mac and Linux) are
+distinguished by the ways that they partition and simplify complex
+processes into discrete components, similar to the ways that identity
+politics cordones off parts of the (social and technological) system
+into distinct units. While this cordoning was productive for the
+promotion of civil rights, it also, according to McPherson, "curtailed
+and short-circuited more radical forms of political praxis, reducing
+struggle to fairly discrete parameters" (30).
+
+Crystallizing the intersection between Operating Systems and race
+relations, McPherson asserts that "Certain modes of racial visibility
+and knowing coincide or dovetail with specific ways of organizing
+data" (24). McPherson emphasizes the "rules" of UNIX philosophy, which
+lay out how UNIX's development prioritized the organization and
+simplification of data processing:
+#+BEGIN_QUOTE
+Rule of Simplicity: Design for simplicity; add complexity only where
+you must. Rule of Parsimony: Write a big program only when it is clear
+by demonstration that nothing else will do. Rule of Transparency:
+Design for visibility to make inspection and debugging easier... Rule
+of Representation: Fold knowledge into data so program logic can be
+stupid and robust. 26
+#+END_QUOTE
+The rules of "Simplicity" and "Parsimony" ensure that programs will be
+composed of small, interlocking parts that can be easily updated and
+transported to newer versions. The rule of "Transparency" flattens
+nuance and ambiguity, making program components as legible as
+possible. The rule of "Representation," particularly the suggestion to
+"Fold knowledge into data" reduces the complexity of raw data, so that
+it can be easily input into multiple processes. According to
+McPherson, all of these rules work together to shore up the central
+design theory of "modularity,"[fn:13] which stipulates that components
+are self-contained and interoperable, so they can be independently
+created, modified, and replaced without affecting the whole system.
+
+The role of control in creating the internet and the emphasis on data
+reduction in developing operating stystems leave their legacies on
+21st century digital technology, where race becomes collapsed into
+data. Echoing McPherson, Ruha Benjamin asserts that technology
+reproduces social inequities under the guise of objectivity and
+progressivism.[fn:14] Turning to technology, Benjamin explores how
+innovations in Artificial Intelligence and algorithmic computing
+extend racist paradigms into ever new tools, particularly in data
+gathering and surveillance. The creators of these new technologies
+mark, track, and quantify blackness, for example, in databases for
+healthcare or financial services that associate "black names" with
+criminality (Benjamin 5). With each update, technology is continually
+promoted as efficient and progressive in a way that masks how it
+exploits data about its subjects. Benjamin explains, "we are told that
+how tech sees “difference” is a more objective reflection of reality
+than if a mere human produced the same results... bias enters through
+the backdoor of design optimization in which the humans who create the
+algorithms are hidden from view" (5-6). As she points out, "the road
+to inequity is paved with technical fixes” (7). Like the creators of
+UNIX, the creators of such tools and algorithms operate under
+assumptions of white universality that inevitably marks blackness as
+"other."
+
+
 ** II: the problem: queerness as untouchable 
 *** the untouchable and identity formation 
 The idea of the "untouchable" builds off queer theorists who have
@@ -544,7 +703,7 @@ In Muñoz's experience watching Capote, disidentification emerges in
 the space between the opposing sensations of pleasure and terror. This
 sensation of opposing affects and the shattering of identity has been
 well explored by queer Chicana Theorist Gloria Anzaldúa. For Anzaldúa,
-the figure of /la mestiza/[fn:7] denotes the experience of being
+the figure of /la mestiza/[fn:15] denotes the experience of being
 mixed, at the intersection of two opposing forces. The
 mestiza----"[c]radled in one culture, sandwiched between two
 cultures"---has the capacity to contain dualities, such as
@@ -1492,7 +1651,7 @@ provide redemption, or avoid violation. Respecting the right not to be
 touched, some queer theorists pursue critical methods that prevent
 overidentification or overanalysis. They resist reading practices,
 which have been called "suspicious reading" or "paranoid
-reading"[fn:8], that seek to expose the effects of homophobic
+reading"[fn:16], that seek to expose the effects of homophobic
 prohibition and repression with the goal of affirming queer subjects
 or recuperating their losses. Paranoid or suspicious reading is
 oriented around finding and exposing the pain and shame of the closet
@@ -1550,682 +1709,7 @@ it is alive, infused with spirit. I talk to it; it talks to me. (66-67
 
 
 
-** IV: on reproducible criticism
-*** history of computing shows non-neutrality of tools
-
-Before I turn to current examples of distant reading, it is useful to
-contextualize the technological development of digital tools in the
-latter 20th century. This contextualization reveals how the intentions
-guiding technological development contradicts common understandings
-about new information technology being progressive and democratic. In
-fact, many of these tools were created with conservative intentions
-and carry cultural assumptions that perpetuate white hegemony to elide
-complexity and difference. In what follows, I will briefly trace the
-development of networking and software technologies from the 1960s
-through the end of the 20th century, then turn to the "surveillance"
-technology of the last two decades, highlighting how more recent
-technology maintains some of the crucial assumptions from the last
-century. This contextulization, however brief, will help to situate
-the ways that digital humanists today approach the use of digital
-tools in their research methodologies.
-
-First, the development of the internet, which is a global network of
-interconnected computer servers and clients, is often credited for
-"democratizing" access to information. Early networks like Usenet,
-developed in 1979, popularized the useage of online message boards. As
-a forum for open conversation, file-sharing, and eventually e-mail,
-Usenet builds from ideals of open exchange and user agency. The
-network was developed by users who wanted to communicate horizontally,
-practice improvisation and "hacking." Roy Rosenweig describes Usenet
-as "an effort to break down modes of exclusion" (Rosenweig, "Wizards,
-Bureaucrats..., 1549). Moving to 1989, Tim Berners-Lee proposed the
-development of a distributed information system that would eventually
-become the World Wide Web.[fn:9] While working at the European
-Organization for Nuclear Research (CERN), Berners-Lee identified
-access to the latest information across the center as a major problem
-for the organization’s workflow. He proposed a new resource for
-orienting researchers that is widely accessible, flexible, and
-emendable. This system developed for physicists at CERN would
-eventually become the World Wide Web.
-
-These positive narratives about Usenet and the World Wide Web dominate
-the history of internet. Less acknowledged is how networking
-technologies emerged through the efforts of US military stakeholders
-which wanted to preserve command and control in the case of a
-catastrophic nuclear event.[fn:10] The idea of a distributed network
-initially arose to create national communication contingencies in the
-event of a disruption of central chain of command.[fn:11] The early
-technological development of the internet was funded by two Department
-of Defense projects, the RAND corporation (a Cold War think-tank), and
-ARPANET (the Advanced Research Projects Agency Network), which later
-became the Defense Advanced Research Projects Agency (DARPA). While
-the RAND Corporation theorized a solution to loss of centralized
-communication in the form of a distributed network, ARPANET formalized
-the new technology of packet switching, which is a method of grouping
-data into small packets that can be later reassembled at the final
-destination. By enabling a distributed network to maintain a chain of
-command, packet switching technology offered a reliable contingency
-for national communication in the event of a nuclear strike.
-
-Not only did major developments in technology arise from conservative
-and militaristic prerogatives, they also perpetuated more subtle
-cultural assumptions. Moving from networking technologies to software
-development, Tara McPherson explores the parallels between the
-Operating Systems and social systems, particularly race relations, to
-show how the development of computer software betrays cultural
-assumptions.[fn:12] She focuses on the key moment of 1960s United States,
-when Operating Systems, which is the foundational software the
-supports a computer's basic programs and functions, developed apart
-from (but alongside to) civil rights discourses. Her research focuses
-on how these two movements, "the organization of information and
-capital" and "the struggles for racial justice," resonate: "Many of
-these shifts were enacted in the name of liberalism, aimed at
-distancing the overt racism of the past even as they contained and
-cordoned off progressive radicalism" (30). McPherson deconstructs the
-UNIX operating system, which is the OS that underlies Mac OS and
-Linux, and has major similarities to Windows. The core characterisitcs
-of a UNIX system include a hierarchical file system, a command line
-interpreter (like the Terminal on Mac or Command Prompt on Windows),
-and a variety of software programs that are designed to work in
-tandem. McPherson points out that UNIX-based Operating Systems are
-distinguished by the ways that they partition and simplify complex
-processes into discrete components. She finds that both UNIX systems
-and identity politics work to cordone off parts of the (social and
-technological) system into distinct units. While this cordoning was
-productive for certain goals, like identity politics for the promotion
-of civil rights, it also "curtailed and short-circuited more radical
-forms of political praxis, reducing struggle to fairly discrete
-parameters" (30).
-
-Much like race relations in the 60s, the philosophy of UNIX systems
-worked across the social system to partition and compartmentalize
-difference. McPherson emphasizes the "rules" of UNIX philosophy, which
-lay out how UNIX's development prioritized the organization and
-simplification of data processing:
-
-#+BEGIN_QUOTE
-Rule of Simplicity: Design for simplicity; add complexity only where
-you must. Rule of Parsimony: Write a big program only when it is clear
-by demonstration that nothing else will do. Rule of Transparency:
-Design for visibility to make inspection and debugging easier... Rule
-of Representation: Fold knowledge into data so program logic can be
-stupid and robust. 26
-#+END_QUOTE
-
-The rules of "Simplicity" and "Parsimony" ensure that programs will be
-composed of small, interlocking parts that can be easily updated and
-transported to newer versions. The rule of "Transparency" gets rid of
-nuance and ambiguity, making program components as legible as
-possible. The rule of "Representation," particularly the suggestion to
-"Fold knowledge into data" reduces the complexity of raw data, so that
-it can be easily input into multiple processes. According to
-McPherson, all of these rules work together to shore up the central
-design theory of "modularity,"[fn:13] which stipulates that components
-are self-contained and interoperable, so they can be independently
-created, modified, and replaced without affecting the whole
-system. McPherson draws the comparision from computational modularity
-to hegemonic assumptions of whiteness underlying the growth of
-neoliberal pluralism in the second half of the 20th century. Similar
-to the ways that UNIX uses modularity to collapse complexity or erase
-context from its design, neoliberal pluralism in the 1960s seeks to
-partition and compartmentalize social groups. Crystallizing the
-intersection between Operating Systems and race relations, McPherson
-asserts that "Certain modes of racial visibility and knowing coincide
-or dovetail with specific ways of organizing data" (24). 
-
-This approach toward data as something that needs to be simplified and
-compartmentalized persists in more recent technological developments,
-where race literally becomes collapsed as data. Digital black studies
-scholar Ruha Benjamin asserts that technology reproduces social
-inequities under the guise of objectivity and progressivism.[fn:14]
-Benjamin's work explores how technology perpetuates racism by
-transforming it into ever new tools, particularly in data gathering
-and surveillance, where blackness is marked, quantified, and
-tracked. Her work extends Michelle Alexander's ideas from her seminal
-book, /The New Jim Crow/ (2010), which argues that current society
-perpetuates racist violence and segregation by criminalizing race
-through the war on drugs and mass incarceration. Benjamin's work
-explores how racist paradigms are reincorporated into new technology,
-much of which purports progress: "the desire for objectivity,
-efficiency, profitability, and progress fuels the pursuit of technical
-fixes across many different social arenas... the road to inequity is
-paved with technical fixes” (7).
-
---> where do I want to go with this? I want to show how digital tools
-are not neutral, that they carry social assumptions which evacuate or
-flatten their subjects into data. 
-
-*** Underwood's models as object of study
-
-Let us now turn to computational methods, seeing how they bear out
-some of the legacies (collapsing of data) from the above technological
-narratives. Practitioners of "distant reading," a critical method at
-the intersection of Literary Studies and Data Science, use
-quantitative analysis to study works of literature. This process
-involves deploying computer programs to clean, categorize, and count
-elements in textual data, and is often followed by interpretive
-analysis, where the critic engages the results of quantification from
-a humanities lense. More often than not, distant reading is combined
-with close reading methods, as crtics will use the results of
-quantitative analysis to identify key moments from the text that merit
-closer attention.[fn:15]
-
-According to its practitioners, distant reading is most useful for the
-ways it allows connections to emerge between and among texts. Critics
-who do this work often are responding the problem of scale and human
-attention, because distant reading allows them to manage the thousands
-of books in literary history without actually reading these texts. One
-prominent proponent of these methods, Ted Underwood,[fn:16] harnesses the
-power of quantification and machine learning to glimpse what he calls
-the "distant horizon" of literary trends across centuries. His
-argument convincingly begins with the observation that human
-capacities of sight, attention, and memory preclude them from grasping
-the larger patterns of literary history across time. Distant reading,
-whereby "distance" means abstraction, or the simplification of textual
-data into computable objects such as publication dates and genres,
-allows critics to see connections amid the swarm of overflowing
-information.
-
-Not only does Underwood's method allow relationships betwen texts can
-emerge because they have been collapsed into data points, but he also
-explores the ways that human assumptions can be measured in the
-resulting models. Underwood is careful to point out the subjective
-nature of his method, "perspectival modelling," turning it into an
-object of study. His method deploys machine learning, or programs
-"trained" by certain data sets to create models that can then make
-predictions on other datasets. In other words, Underwood tests a
-program created by a sampling of data by using it to analyze more
-data. ["Since learning algorithms rely on examples rather than fixed
-definitions, they can be used to model the tacit assumptions shared by
-particular communities of production or reception... allowing scholars
-to survey culture from specific vantage points" ("Machine Learning and
-Human Perspective" 93).] One of his models measures the probability
-that it can "guess" the sex of a fictional character based on the
-words associated with that character, part of his project that
-examining gender roles in novels from the 18th century to the 21st
-century. Underwood explains how the test is configured:
-
-#+BEGIN_QUOTE 
-We represent each character by the adjectives that modify them, verbs
-they govern and so on---excluding only words that explicitly name a
-gendered role like /boyhood/ or /wife/. Then, we present characters,
-labeled with grammatical gender, to a learning algorithm. The
-algorithm will learn what it means to be 'masculine' or 'feminine'
-purely by observing what men and women actually do in stories. The
-model produced by the algorithm can make predictions about other
-characters, previously unseen. /Distant Horizons/ 115
-#+END_QUOTE
-
-In simplest terms, the program studies some given information in order
-to make predictions about more information. As a consequence, the
-resulting output is always guided by its input. Underwood rightly
-points out that such calculations cannot be taken as objective, which
-is why he calls this work "perspectival modeling." These models
-reveal, not the truth of literary histroy, but the approaches and
-choices made by those who create the models: "Machine learning
-algorithms are actually bad at being objective and rather good at
-absorbing human perspectives implicit in the evidence used to train
-them" ("Machine Learning and Human Perspective" 92). This model finds
-that that, over time, gender roles in novels become more flexible
-while the actual number of female characters declines (/Distant
-Horizons/ 114). His analysis points to a steady overlapping of words
-traditionally associated with women, such as "heart," with words
-typically assoicated with men, like "passion," toward the middle of
-the 20th century. Underwood explains this drop could be due to several
-reasons, one of which is the simple fact that the practice of writing
-became more commonly pursued as a male occupation in the middle of the
-20th century(/Distant Horizons/ 137). This fact, coupled with the
-tendency of men to write more about men than women, explains why less
-women writing would led to a decline in female characters. This
-explains how Underwood's seemingly paradoxical conclusion, that gender
-roles become more flexible while the actual prevalence of women
-dissapates from fiction, might be possible.
-
-However, Underwood's approach imposes a structure that determines the
-result. In other project on gender in novels, he measures the
-"transformations" of gender "as we move from one period or perspective
-to another" ("Machine Learnig and Human Perspective" 93). In order to
-make the connections appear across time, simplification is necessary:
-
-#+BEGIN_QUOTE
-I recognize that gender theorists will be frustrated by the binary
-structure of the diagram. To be sure, this binary has folded back on
-itself, in order to acknowledge that social systems look different
-from different positions in the system. But the diagram does still
-reduce the complex reality of gender identification to two public
-roles: men and women. I needed a simple picture, frankly, in order to
-explain how a quantitative model can be said to represent a
-perspective. "Machine Learning" 98
-#+END_QUOTE
-
-Underwood admits that he needs a "simple" model in order to bring into
-relation the dynamics of gender (See Fig. 2).[fn:17] However, he
-underestimates the extent to which his initial assumptions determine
-the final result. Although he admits that, perhaps he finds a
-structural tension between gender, only "because [he] explores gender,
-for the most part, as a binary opposition" (/Distant Horizons 140)) he
-neglects to consider how the collapsing of gender into a single graph
-perpetuates the structural categories of male/female in a way that is
-at odds with the actual content of such a category.[fn:21] Moreover,
-the issue is not just with the assumptions at the outset which
-reproduces the result, but with the guiding question of the entire
-project, which is not about deconstructing gender, but about reifying
-it. Asking a machine to replicate the conscription of gender for the
-purpose of seeing how male and female roles in novels change over time
-only creates a model of gender that is "simple" enough to be computed
-by the system. How does simplifying the concept of gender contribute
-to our study of it? Why should humanists seek to automate the
-conscription of gender norms? The results of this kind of analysis
-will only be as good as the questions we ask.
-
-[[./img/Underwood.png]]
-
-*** TODO revise nan Z da on reproducibility
-
-[Da's piece discusses how quantitative methods are anathema to
-literary studies]
-
-The criterion of reproducibility is deployed as a benchmark for
-reviewing and assessing the efficacy of digital quantitative
-methods. Despite their vastly different committments and methods,
-scholars like Underwood can be compared to Nan Z. Da for the ways they
-place value on reproducibility.
-
-In a controversial peice about text analysis, Da critiques
-Computational Literary Studies (CLS) for its irrelevance to literary
-criticism. Da explains that results from quantification do one of two
-things: they either affirm what is already obvious or they present
-conclusions that are inaccurate. Of her many gripes with quantitative
-methods, which include "technical problems, logical fallacies, and
-conceptual flaws," her central concern is the fundamental "mismatch"
-of scientific methods to humanistic inquiry, both of which have
-opposing "natures" (601). Meant for reading in abundance, trading
-"speed for accuracy, and coverage for nuance," Quantitativ methods are
-inappropriately applied to literary interpretation (620). According to
-Da, "we must use them in accordance with their true functions” (620).
-
-[Da emphasizes reproducibility as a criterion for effective analysis]
-
-One point in Da's essay crystallizes her ultimately conservative
-investment that aligns her with theorists who have vastly different
-methods and perspectives. Here she establishes the criterion of
-reproducibility, which suggests an objective at odds with humanistic
-endeavor. To verify the results of a Topic Modelling experiment, Da
-attempts to replicate the model on her own machine. Because the
-reproduction fails, she denigrates the whole process: "if the method
-were effective, someone with comparable training should be able to use
-the same parameters to get basically the same results"
-(628-629). However, "topic modeling is like a kaleidoscope that turns
-out something entirely different with the slightest tweaking”
-(629). Her emphasis on the “reproducible” in CLS extends one of
-distant reading early champion's originating call for a “falsifiable
-criticism”: both advocate for a methodology that is as reliable and
-verifiable as the social sciences[fn:18]. The interesting detail in her
-critique is the insinuation in /reproducible/ that somehow analysis is
-something that can exist outside of human performance/activity/error.
-
-[--> we do not want to reproduce the results form our analysis, as if
-we can find the single answer and repeat it ad infinitum.]
-
-The reproducible indicates a slippery slope. By characterizing
-literary criticism as something that can be verified, that can be
-copied and reproduced ad infinitum, it assumes that interpretive
-conditions can be universalized, that subjects bring with them the
-same experiences and investments. Moreover, it suggests that there is
-a /correct/ answer to literary critical questions, as if literature is
-a problem that needs to be solved.
-
---> both Da and Underwood use computation in ways that constrain
-    novelty: Da & Underwood show two sides of reproducibility:
-    Underwood how the critic reproduces our assumptions in the
-    questions, and Da in the method. 
-
-*** TODO refine Drucker's skewing the graphs
-
-[Drucker explains how quantification makes reductions on data]
-
-is careful to qualify the nature of data as constructed, undergoing
-necesary reduction to fit whatever parameters required by analysis.
-
-Johanna Drucker argues that quantification techniques (such as
-visualizations in graphs and charts) actually misrepresent the data
-they are meant to convey. Drucker explains that, in order to place
-this data on a graph or chart, it undergoes a
-transformation. Complexity is reduced to whatever quality the
-visualization apparently requires. To illustrate this reduction,
-Drucker presents a chart displaying the amount of books published over
-several years. The chart appears to convey production during this
-specific time period[fn:19], but Drucker explains that publication date
-is an arbitrary metric for capturing production. She brings to the
-surface all the assumptions made in such a metric, for example, the
-limitations of "novel" as a genre and the connotations behind
-"published," which suggests date of appearance, but has no indication
-of composition, editing, review, distribution. Drucker reminds us that
-each piece of data carries with it the result of many interpretive
-decisions, which carry with them varying degrees of opacity. These
-interpretations ("reductions") are necessary in order to present
-complex concepts like book production as a bar on a chart. Drucker
-explains: "the graphical presentation of supposedly self-evident
-information (again, formulated in this example as “the number of
-novels published in a year”) conceals these complexities, and the
-interpretative factors that bring the numerics into being, under a
-guise of graphical legibility" (Drucker par. 23).
-
-[emphasizing 'capta' as creative]
-
-To resist the reductions of "data," a term that connotes that which is
-"given," Drucker proposes "capta," to suggest the act of being taken
-and transformed. Drucker's "capta" is deliberately creative, turning
-graphical expressions into expressive metrics: components used for
-measurement, like lines or bars on a graph, break or are fuzzy and
-permeable. Objects are not discrete entities, but interact with the
-other objects in the visualization. For example, in a bar graph of
-book publications/year, she warps the bars on the graph, making some
-of them fuzzy, wider, shorter, in an attempt to show that publication
-as a metric elides other information such as composition, editing,
-purchasing, etc.
-
-[Drucker's method emphasizes what has been overlooked, assumed. The
-next step, which I want to take here, is to show how paying attention
-to the assumptions (deconstructing) is a return to embodiment. Allows
-us back into the concept of touching---mirrored in the queer form
-section]
-
-This activity is a way of figuring elements that have been reduced,
-resolved, or ignored in traditional quantitative analysis. It evokes
-what Love says about queer subjectivity and experience being beyond
-the reaches of the critic. Drucker makes evident what is overlooked or
-assumed when dealing with complex subjects. She places those elements
-there, for all to see, in a way that muddles (rather than
-simplifies[fn:20]) the relationship between them. She does try to
-figure these elements, but not in a way that attempts to clarify or
-resolve their complexity. Rather, like Love, she works on the “image
-of exile, of refusal, even of failure” (Love 71).
-
-**** TODO add Mandell on gender as social construction
- 
-*** TODO add the intersection btw queer & digit
-The "desire for touching," without being able to fully touch, as the
-definition of queerness, is also where the digital and queer
-intersect. Digital media creates the illusion that we have access to
-data, to information, but all we have access to is a *formalized*
-relationship to that data. We encounter the digital object through
-mediation, through an interface, mice, GUIs, keyboards, etc.
-
-
-
-
-** V: Value: Performativity/Movement
-*** The value of alterneity over reproduction: performance
-In the section on reproducibility, I discuss how Underwood's analysis
-on gender differences reproduces his assumptions about gender dynamics
-as oppositional, which he readily admits: "this chapter has discovered
-stable 'structural positions' only because it explores gender, for the
-most part, as a binary opposition" (/Distant Horizons/ 140). The
-question then becomes, how can we move beyond reproducing assumptions
-in our analysis? The answer is to shift the objective of analysis from
-the the reproducible to the alternative. The first value that this
-reading method proposes is that of /performance/. This value points to
-the active qualities of critical analysis, emphasizing materiality and
-sensitivity, movement and discovery. When reading is performative, the
-process is more important than the product. To demonstrate this value
-in practice, I turn to the work of Katherine Bode and Tanya Clement,
-both of whom have deep investments with traditions of textual
-scholarship, particularly the scholarship of Jerome McGann, that has
-influenced early experiments with digital humanities in English
-departments. Although their approaches vary in their specific topics,
-methods, and results, they are connected in an investment for, in the
-words of McGann, "imagining what we don't know" (82).
-
-*** Bode's materiality, critque of Underwood
---> bode emphasizes how inquiry implicates the researcher, who
-generates at the same time that she analyzes data. Instead of looking
-at what is being reproduced, look at how human engagement has
-entangled with and created the object of analysis.
-
-Katherine Bode offers a method that builds off the humanistic
-approaches in textual scholarship and bibliography. Her work explores
-the boundary between the humanities and social sciences in order to
-reframe analysis as performative. Bode argues against the trend of
-representationalism, "the idea that a knowing human agent symbolically
-expresses – or represents – some thing-in-the-world (that thing is
-unchanged by that expression, and that expression is more available or
-apprehensible to the subject than the thing itself)--in digital
-literary studies ("Data Beyond Representation" par. 2). Pushing
-against this assumption of representation in computational modelling,
-she explains that "entities don’t pre-exist engagements but are
-generated in an ongoing or emergent way, by those intra-actions"
-("Data Beyond Represenation" par. 2). This is not to say that one can
-refrain from implication with the object of study. Rather, a
-performative approach assumes such implication to be the starting
-point of analysis: "all inquiries create boundaries (or cuts) in a
-complex reality that can be organised in other ways; and all such
-boundary-making practices are inevitably biased at the same time as
-they are a condition of inquiry" (Data Beyond Representation
-par. 16). The point, for Bode, is to examine "how... we inscribe the
-boundaries we often presume to represent" ("Data Beyond Representation
-par 11.)
-
-Her current project, /Reading at the Interface/, examines the ways
-that Australian literature has been characterized by various
-"paratexts," or "writings about literature." The project explores
-alternative understandings of Australian literature across various
-platforms, including academic journals, newspapers, /Goodreads/, and
-/Librarything/.
-
-
-"In mining /Goodreads/, for instance, using a list of works defined by
-an academic bibliography, I’m not interested in representing
-discussion of “Australian literature” on Goodreads so much as in
-materialising that platform in ways that cannot be separated from my
-categories of analysis" (Data Beyond Representation par. 19).
-
-
-
-
-
-For Bode, what statisticians value as “representativeness” or
-“reproducibility” isn’t as important (within a humanities context) as
-the materiality of the apparatus. Rather than attempt to secure a
-factual or objective status of the data, we should double down on the
-idiosyncracies of our tools. Accordingly, Bode suggests that we
-approach literary databases in performative terms, taking a
-self-conscious appraisal of the tools of analysis, as "effects of
-material-semiotic engagements" ("Data Beyond Representation" 15).
-- "at present, discussion of “representativeness” and
-  “reproducibility” are bound up together, with the implication that
-  if we can represent something accurately enough the results of
-  analysis will be reproducible. Foregrounding the apparatus, by
-  contrast, recognises that our knowledge making practices, as Karen
-  Barad puts it, “contribute to, and are part of, the phenomena we
-  describe”" (Bode "Data Beyond Representation, par. 26).
-
-"I’m exploring what it might mean to conceive of literary databases as
-apparatuses, in the sense the term is used in various scientific
-disciplines, particularly physics. There, an apparatus is a specific
-material configuration, including of physicists, wherein certain
-properties become determinate, while others are excluded. One can’t
-measure light as a particle and a wave using the same apparatus; but
-that doesn’t mean that light is not one thing when it is measured as
-the other. Although it must be said that the phenomena explored in
-digital literary studies are much more diverse than those for which
-apparatuses in physics are developed, I wonder if shifting to a
-conception of measurements as effects of particular material
-arrangements might help us to reframe some key debates in our field."
-(Bode "Data Beyond Representation, par. 24).
-
-*** Critique of Underwood's "sensitivity"---a focus on attention
-Underwood overlooks the ways that quantitative literary analysis, or
-distant reading, enables "sensitive" readings of textual
-material. According to him, such methods are less useful for studying
-a single text in depth and more useful for taking a long view of
-larger corpora. He sets up an opposition between computer and human
-reading: "Computational analysis of a text is more flexible than it
-used to be, but it is still quite crude compared to human reading; it
-helps mainly with questions where evidence is simply too big to fit in
-a single reader's memory" (xxi). Underwood is right to point out that
-a computer cannot draw inferences like a human can. However, his
-emphasis on the role of memory opens up the ways that computers can
-enhance human reading of smaller texts. What the computer properly
-does is arrange a set of data--of any size--for human
-consumption. This involves processing datasets into new formats that
-can than be scrutinzed by a human reader. Underwood's goal, which is
-"to find a perspective that makes the descriptions preferred by
-eighteenth-, nineteenth-, and twentieth-century scholars all congruent
-with each other," shows one potential objective for such reading
-(/Distant Horizons/ 32). But there is more than one objective for
-using quantitative methods regarding memory, and that is by
-approaching memory, specifically human attention spans, as a drive,
-rather than a hindrance. The computer can arrange text in a way that
-harnesses the attention span of the reader.
-
-*** Altschuler and Weimar on reproducibility
-
---> reproducing something perfectly overlooks the ways that all
-digital objects are unique, differentiated. Theory of textual
-criticism which shows how ther are more interesting things to do then
-create a digital "copy texte". 
-
-This notion extends to digital humanist practitioners. 
-
-they call to overturn the "unproblematic translatability of
-information between the senses" while maintaining that reproduction is
-the highest value. They argue to "texture the humanities", pointing
-out that much of DH prioritizes the visual over other senses --
-"privilege sight as the sense through which knowledge is accessible"
-(74). Rightly so, they argue, “The textured DH we call for here
-acknowledges that we cannot study knowledge only abstractly, apart
-from the senses, and that we cannot study literature, art, and history
-without including the history of embodied experiences” (74-75).
-- “Touch This Page! uses 3-D printed facsimiles of raised-letter text
-  to inspire reflection on the assumptions most people make about
-  which senses are involved in reading” (82).
-
-But they elide the one interesting trajectory when they place
-reproduction over remediation/deformance. They state their aims: “to
-expand the sensory accessibility of archives for all users and to do
-so through the digital reproduction---rather than the translation---of
-tactile knowledge” (76). Case example of the perfect reproduction:
-- A scenario where “users... can download a visual copy with
-descriptive data, engage with the text in virtual reality, and create
-their own textured facsimile. This technology once more makes possible
-the tactile reading experiences for which this volume was designed and
-promises library patrons a richer engagement with touch than most
-archives can currently provide---even in person (85-86). 
-
-The use case scenario makes the assumption that a reproduction is the
-ideal form of textuality, despite their asserted aims for "diversity
-of embodied experiences":
-- “we must avoid tilting after the fiction of some ideal digital
-  surrogate---like a virtual reality system that would flawlessly
-  mimic original objects---lest we become digital Pierre Menards,
-  expending extensive energy to improve our reproductions to discover,
-  at last, that only the original perfects represents itself… Instead,
-  we envision in our tactile futures multiple strategies that could
-  not only open up access to varied experiences---past and
-  present---but also diversity the ways embodied experiences structure
-  our digital worlds” (86).
-- in order to open up “multiple strategies” and diversity embodied
-  experiences, we need a theory of text that is capacious enough to
-  accept variation and transmediation.
-- This argument overlooks deformance is a solution: the ways that
-  creating new texts, paratexts, creates new objects of knowledge. It
-  overlooks the performative, ala McGann, Clement.
-
-In this view, digital becomes a means of optimization, efficiency,
-total knowledge and understanding.
-*** Tanya Clement & Jerome McGann: performance --> discovery
-Tanya Clement and Jerome McGann have written on how electronic
-environments facilitate active experiences with text. Their analyses
-draw attention to the ways that the reading process engages with the
-situatedness of time, space, and textual objects that are entangled
-within a complicated network of production and reception. Such a
-reading process yields unexpected and alternative interpretive
-possibilities. Clement's textual scholarship works with sound to
-develop an hermeneutics that incorporates praxis, visualization,
-embodiment, and play, toward a theory of performantive criticism. She
-often questions how working with audio allows us to reconsider the
-ways we approach electronic text. In one project, she explores how
-visualizations of audio information can influence analysis. She puts
-forth a theory of “play” in which the critic "performs" the work, much
-like the way that musicians interpret a musical score. Clement makes
-the analogy between musical scores and quantitative visualizations to
-emphasize how both "create another level of abstraction with which the
-interpreter engages" ("Distant Listening par. 7). These visualizations
-use the audio analysis tool ProseVis to create dynamic spaces for the
-reader to interact with a digitzed object. Using ProseVis, the reader
-can navigate through the visualizations and manipulate the metrics for
-analysis, in this case, the prosodic elements of Gertrude Stein's
-poetry. Clement draws out the comparison between musical scores and
-visualizations to emphasize the performative qualities of
-analysis. She begins by describing the qualities of a musical score:
-
-#+BEGIN_QUOTE
-[I]t is read, but it is also meant to be played, to be spatialized in
-time and embodied by voices (or instruments) within a certain physical
-and hermeneutical context. I am arguing the same is true of
-computational visualizations of text. One 'reads' a visualization, but
-to 'play' the visualisation is to engage the spatialized
-interpretation of that visualisation as an embodied reader in a
-situated context within a specific hermeneutical framework. "Distant
-Listening" par. 10
-#+END_QUOTE
-
-Like a musical score, which "point[s] toward many possible
-interpretive 'results' or readings," visualizaions can provide a
-starting ground for different pathways of analysis ("Distant
-Listening" par. 12). Clement's scholarship on audio visualization
-magnifies the importance of performance as an element in analysis. 
-
-McGann's work on textual scholarshop similarly draws attention to the
-effect of performance on interpretation, or performance /as/
-interpretation, according to McGann. Along with Lisa Samuels, McGann
-coins the concept of "deformance," which describes any activity that
-distorts, disorders, or re-assembles literary texts to discover new
-insights about its formal significance and meaning. They offer the
-example of reading a poem backward, where “the critical and
-interpretive question is not 'What does the poem mean?' but 'How do we
-release or expose this poem’s possibilities for meaning?'"
-(108). Deformance works by estranging the reader from her familiarity
-of the text, and relies on the the volitality of meaning of particular
-words that depend upon a multitude of factors, from antecedent
-readings and pathways through that text, to the significance of
-immanent elements such as typography and blank spaces, all of which
-the reader can only process a limited amount. Digital tools might work
-alongside this volatile potential for meaning, what McGann calls the
-text's "quantum poetics." He explains that, “Aesthetic space is
-organized like quantum space, where the ‘identity’ of the elements
-making up the space are perceived to shift and change, even reverse
-themselves, when measures of attention move across discrete quantum
-levels” (183). McGann speculates that engaging with texts on a
-computer could be as intimate a process as engaging with them on
-paper, with the additional ability of manipulating and transforming
-them in virtually infinite ways. Ideally, the tool should work as a
-“prosthetic extension of that demand for critical reflection,” with
-which the reader is able to feel her way through the text (18).
-
-Clement and McGann's approaches facilitate a reading method that uses
-computational tools in the aid of discovery. Human attention spans,
-rather than represent the hurdle for computational methods to
-overcome, offer an opportunity for re-imagining analysis as a process
-deforming what we pay attention to. The unique affordance of digital
-environments, according to McGann and Clement, is that they allow for
-numerable interventions upon the textual object. The emphasis shifts
-from viewing text as something stable and self-evident to something
-dynamic and subject to different readings. As Clement explains: “A
-model of textuality that represents text as a spatial and temporal
-phenomenon might allow for interactions and representations in a
-digital environment that, rather than insisting on fixity, foreground
-principles of emergence” ("Rationale" 34).
-
-
-
-** VI: Value: Vantanges/Opacity
-
-Begin the QLS work by examining gaps and biases: “quantitative
-literary studies should begin by trying, as much as possible, to
-consider the nature of ontological gaps and epistemological biases in
-its evidence” (Bode "Model Away Bias" 97).
+** Vantanges/Opacity
 
 *** Klein, Mandell, Caughie, Gaboury
 [Klein and D'Ignazio on the impossibility of neutral visualizations]
@@ -2243,20 +1727,11 @@ of all!" (/Data Feminism/, chapter 2). Not dots on a graph can be said
 to be removed from the predelictions of the creator and the generosity
 of the viewer.
 
+*** Interweave with Saidiya Hartmann?
 *** Against totalization
 *** The visible and the invisible, opting out 
 
     
-
-
-** VII: Value: Provisionality/Indeterminacy
-
-*** Susan Brown's provisionality
-*** Julia Flander's work on Orlando
-*** Against stability 
-
-
-
 
 
 
@@ -2436,20 +1911,6 @@ boundaries, and on the possibility of exhaustively knowing the other"
 (232).
 
 
-* Works Cited
-Caldwell, Kelly. "The Torment of Queer Literature," /The Rumpus/. 2018.
-Love, Heather. /Feeling Backward: Loss and the Politics of Queer
-History/. 2009.
-
-Pope, James. "Where do we Go from Here? Reader’s Responses to Hypertext Fiction:
-Narrative Structures, Reading Pleasure and the Impact of Interface Design." Convergence 16.1 (2010): 75-94. Print.
-
-
-Wallis, Brian. “Black Bodies, White Science: Louis Agassiz's Slave
-Daguerreotypes.” /American Art/, vol. 9, no. 2, 1995, pp. 39–61. JSTOR,
-www.jstor.org/stable/3109184.
-
-
 * commands
 c-c c-x f => create a new footnote
 c-u c-c c-x f then select s => renumber footnotes
@@ -2457,8 +1918,6 @@ c-u c-c c-x f then select s => renumber footnotes
 block quotes: #+BEGIN_QUOTE & #+END_QUOTE
 
 * Footnotes
-
-[fn:21] Add a quote here from Laura Mandell on F/M categories?
 
 [fn:1] By "access" I mean knowledge, the notion that we can
 exhaustively know the subject (queer subjects & technology) beyond a
@@ -2524,21 +1983,15 @@ of immaterial behavior: identification without ambiguity, transmission
 without loss, repetition without originality" (/Mechanisms: New Media
 and the Forensic Imagination/, 11).
 
-[fn:7] Anzaldúa draws the figure of the /mestiza/, or mixed woman,
-from Mexican philosopher José Vasconcelos's promotion of "una raza
-mestiza" [the mixed race].
-
-[fn:8] Rita Felski? and Eve Kosofsky Sedgwick.
-
-[fn:9] Berners-Lee, Tim. “Information Management: A Proposal.” CERN (1989).
+[fn:7] Berners-Lee, Tim. “Information Management: A Proposal.” CERN (1989).
 Tim Be
 
-[fn:10] For more information about computer technology helped develop
+[fn:8] For more information about computer technology helped develop
 the discourse of centralized command and control, see Paul N. Edwards,
 /The Closed World: Completers and the Politics of Discourse in Cold
 War America/ (Cambridge, Mass., 1996).
 
-[fn:11] Stephen J. Lukasik, the deputy director of DARPA, explains
+[fn:9] Stephen J. Lukasik, the deputy director of DARPA, explains
 that the goal of creating new network technologies included: "to meet
 the needs of military command and control against nuclear
 threats... and improve military tactical and management decision
@@ -2546,57 +1999,20 @@ making. Lukasik, Stephen J. (2011). "Why the Arpanet Was Built". IEEE
 Annals of the History of Computing. 33 (3): 4–20. Bruce Sterling,
 "Short History of the Internet," 1993
 
-[fn:12] Tara McPherson’s “U.S. Operating Systems at Mid-Century: The
-Intertwining of Race and UNIX," Race After The Internet, ed. Lisa
-Nakamura and Peter A. Chow-White. Routledge, 2012.
+[fn:10] Galloway, Alexander. *Protocol*, 2004.
 
-[fn:13] Potentially revise and deepen this section by linking to Barad
-& Haraway on situated knowledges and feminist science: Being modular
-in itself isn't bad, as long as you are aware of the ways that
-modularity creates limitations/reductions of data. Modularity needs a
-critical awareness of its own tools.
+[fn:11] Chun, Wendy, /Control and Freedom: Power and Paranoia in the
+Age of Fiber Optics,/ 2006. Print.
 
-[fn:14] Ruha Benjamin, Race After Technology: Abolitionist Tools for the New
-Jim Code, Polity Press, 2019.
+[fn:12] DEFINITION NOT FOUND.
 
-[fn:15] Andrew Piper's methodology, which he calls "bifocal" reading,
-demonstrates how distant and close reading are used together, with
-distant reading providing the context or framework that guides close
-reading"“We are no longer using our own judgments as benchmarks... but
-explicitly constructing the context through which something is seen as
-significant (and the means through which significance is
-assessed).... It interweaves subjectivity with objects” (Piper,
-Andrew. Enumerations: Data and Literary Study, 2018, 17).
+[fn:13] DEFINITION NOT FOUND.
 
-[fn:16] Underwood, Ted. /Distant Horizons/, 2019.; Underwood,
-Ted. “Machine Learning and Human Perspective.” PMLA, Vol. 35 No. 1,
-January 2020, pp. 92-109.
+[fn:14] DEFINITION NOT FOUND.
 
-[fn:17] He measures the "gendering of words used in characterization"
-("Machine Learning and Human Perspective" 95), that is, gender
-portrayed in novels by women and in novels by men. The verticle axis
-visualizes the representation of words by women, and the horizontal by
-men, with positive numbers signifying overrepresentation of these
-terms. So terms on the top right are words that are used often by men
-and women writers, and terms in the upper left and lower right are
-ones used most often by women and men, respectively.
+[fn:15] Anzaldúa draws the figure of the /mestiza/, or mixed woman,
+from Mexican philosopher José Vasconcelos's promotion of "una raza
+mestiza" [the mixed race].
 
-[fn:18] According to Franco Moretti: “Testing” literary interpretations
-be the same process as in scientific disciplines -- demanding that
-interpretations are “coherent, univocal, and complete,” and are tested
-against “data” that appears to contradict it (/Signs/ 21). “The day
-criticism gives up its battle cry ‘it is possible to interpret this
-element in the following way,’ to replace it with the much more
-prosaic, ‘the following interpretation is impossible for such and such
-a reason,’ it will have taken a huge step forward on the road of
-methodological solidity” (/Signs/ 22).
-
-[fn:19] Drucker implicitly refers to the first chapter from Franco
-Moretti's /Graphs, Maps, Trees/ (2007), throughout which Moretti
-graphs novels by their publication date between 1700 and 2000 and
-draws conclusions about the relationship between genre and generations
-of readers.
-
-[fn:20] Moretti: "'Distant reading'... where distance is however not an
-obstacle but /a specific form of knowledge" (1).
+[fn:16] Rita Felski? and Eve Kosofsky Sedgwick.
 

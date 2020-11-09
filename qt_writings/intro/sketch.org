@@ -1,0 +1,295 @@
+** Rough outline for chapter:
+- touch as a reading method: abstracting & amplifying the senses
+  - queerness is not yet here, or lack activates the senses
+- the state of queerness being "untouchable"
+  - incommensurability is central to queer identity & experience
+  - paranoid critical methods attempt to resolve incommensurability 
+  - self-replicating/recovery criticism perpetuates assumptions
+  - readings: /confessions of the fox/, /waves/, /la frontera/ 
+- Abstracting, formalizing, making opaque:
+  - queer forms & values necessary to  bring things into relation
+  - hinting opacity, performance, abstraction, provisionality 
+- in DH, raw data as unknowable: something we cannot fully grasp
+  - tools are not neutral, analyses are not "objective"
+  - value of reproducible in DH mirrors paranoia
+  - Da, Underwood and Altschuler and Weimer, Drucker
+- Performance/movement as a reading method
+  - bode and clement: materiality and discovery
+- Vantages/Opacity, the view
+  - Klein, Mandell, Caughie, Gaboury
+  - against totalization
+  - the visible and the invisible, opting out, the null value
+- Provisionality/Indeterminacy
+  + Susan Brown, Julia Flanders
+  + against stability
+
+*** 9.2.20: Overview for diss workshop
+Touching,'" lays out what Digital Humanities methodologies might learn
+from Queer Theory. This chapter looks at specific reading practices by
+Eve Kosofsky Sedgwick and Heather Love, which question the proper
+relationship of the critic to the object of study. Sedgwick's ideas
+about "touching/feeling" and Love's notion of "touching without
+touching" pose queer modes of relationality that do not presume full
+connections as prerequisite for analysis. This chapter engages these
+techniques with various critical methods from the Digital Humanities,
+including distant, surface, and post-critical reading, and
+deformative, algorithmic, and speculative criticism. I pay particular
+attention to how digital formats and interfaces might facilitate queer
+critical methods, and I speculate on the intimate process of engaging
+with literature on a computer, where users can manipulate and
+transform text in virtually infinite and unique ways. Comparing three
+very different kinds of digital projects based on text manipulation,
+including the text analysis web application /Voyant-Tools/, the text
+encoding archive, /Women Writers Online/, and a hypertext novella by
+Caitlin Fischer, /These Waves of Girls/, I explain how these tools
+work alongside the reader’s intuition, in what Jerome McGann calls a
+“prosthetic extension of that demand for critical reflection,” by
+which the reader is able to feel her way through the text (18). In
+particular, I find that the haptic and exploratory activity of working
+with these tools enlivens the reading process by allowing the reader
+to play, experiment, and imagine new connections to the textual
+object.
+
+*** 11.4.20: Overview for diss Workshop
+
+This chapter--- at the most basic level--- is *an exploration of
+distant reading methods*, and how distant reading methodology can
+*function within a queer studies ethic*. Not even function, but how
+they can align and do mutually reinforcing work. 
+
+I begin by looking into the *parallels in the way that queerness and
+data are treated*, in how they are both highly constructed,
+"structured" according to dominant cultural assumptions. A lot of this
+is because they are handled discursively. 
+
+    - for queer theory, also because of the attempts to "redeem" or
+      "resolve" queer experience & suffering. (I'm still working on
+      the of this section, bringing the two into alignment).
+
+    - for digital humanities, and this is the part that I sent you,
+      which is a critique of certain strains of distant reading. This
+      section is basically to say that some practitioners are not
+      being critical enough about their data and methods. 
+
+Then, the solution I propose---to approach these concepts from an
+affective standpoint. To pay attention to the body, embodiment, touch,
+sensation. (which will later come out in emphasis on speculation,
+play, etc in distant reading)
+
+The bulk of the chapter looks at distant reading that is aware of its
+methodology. I propose some examples that emphasize *performativity*,
+*opacity*, and *provisionality*. 
+
+    - Performance: this is using *distant reading in a speculative way*,
+      to where the process is more important than the
+      product. Visualizations are supposed to be "played" rather than
+      "explained".
+        - To demonstrate this value in practice, I turn to the work of
+          Katherine Bode and Tanya Clement, building off Jerome
+          McGann, "imagining what we don't know". Also builds of
+          Barad's ideas of quantum entanglement to discuss how critics
+          are entangled with their objects of study.
+
+    - Views/Opacities: about using distant reading to find what has
+      been ignored/silenced. Looking specifically for the gaps in the
+      record, what Klein calls "the image of absence". Looking at ways
+      that categories co-constitute each other. Richard Jean So:
+      Whiteness is only coherent when you compare it to blackness.
+
+    - Provisionality: (not really relevant to distant reading, more in
+      other methods like text encoding). The idea that metadata/tags
+      must make room for the provisional, the shifting. 
+
+
+VERY BRIEFLY: this section emphasizes that we need to be critical
+    of distant reading tools for the way they reduce/transform
+    data. This introspection will lead to more interesting
+    interventions.
+
+
+** intro to touch as reading method 
+This section establishes the condition of being continually thwarted,
+frustrated, eluded, as an affect of suspension or displacement that is
+central to the experience of queerness, an affect called the
+"untouchable."
+
+*** touch intersects queer and digital, abstracting sense
+At the intersection of queerness and the digital, touch operates by
+abstracting its object through the intermediary of the sensible. This
+process of abstraction compensates for the core condition of
+queerness, which is untouchable, unknowable, and inexpressible.
+
+*** /Waves/: queerness (story) is frustrating closure, eluding touch
+The reader’s confusion in navigating through /Waves/ relates to the
+work’s central theme of narration as seduction, piquing the reader's
+interest in the story, propelling her through hyperlinks across the
+various nodes, and repeatedly frustrating her desire for closure or
+resolution, in a way that reinforces an approach toward queerness as
+something elusive, a process that will never be complete.
+ 
+*** Munoz's queerness as lack
+Because queerness is "not yet here," it calls for something else,
+expanding sensibility of feeling to include sensations beyond the
+immediate, the readily sensible.
+
+*** /confessions/: queerness and the denial of touch
+In /Confessions/, maintaining the gap between sight and touch
+stimulates the senses beyond what's possible within normative
+expectations of sexual desire.
+
+
+** the problem: queerness as untouchable, overreading
+- This section deconstructs the state of queerness as being
+  untouchable. 
+
+Disidentification brings on a class of affects which point to the
+element of incommensurability. We need to approach the incommensurable
+as something that cannot be complete.
+
+We conclude here that the proper position is hesitation, restraint. An
+awareness of the need for hesitation, while also embracing
+embodiment. The challenge is to regain touch without resolving it.
+
+How do we touch without presuming full connections? We see Anzaldua's
+standing at both sides at once, and Love's touching at a distance.
+
+*** toward a reading method of the untouchable
+This chapter will unpack a reading method that approaches queerness as
+being "untouchable."
+
+*** DisID points to the incommensurable: schutte 
+Minority subjects struggle to be read into majoritarian systems of
+identification, and rather experience disidentification, which
+manifests as a choque, a collision of feelings, revealing an
+incommensurable element, which cannot be resolved or verified.
+
+*** TODO draft reading tries to resolve incommens
+The illusion that we can gain sufficient knowledge into queer
+experience, that such experiences are “commensurable,” drives certain
+reading practices that critics describe as “paranoid” or “suspicious.
+
+Visibility is a trap -- violence?
+
+*** TODO revise paraonoia: sedgwick
+Paranoid reading practices deliver results that are imaginable within
+given knowledge structures, and close out other opportunities for
+analysis.
+
+*** TODO draft Scott & Kazanjian on overreading
+the way that literary critics approach vision vs other fields
+
+*** Paranoia and replication: haraway
+We find parallels in epistemological methods from disciplines of
+science (anthro) in which paranoia replicates assumptions. 
+
+*** TODO add Barad on replication / representationalism
+Barad makes a point about sciences being driven by replication. My
+inquiry intersects with feminist scientific efforts
+
+*** TODO refine paranoia and recovery: hartmann
+For the historian of slavery, recovery is impossible within the terms
+(language) of the dominant culture---schutte's incommensurability:
+language cannot approximate the reality of experience.
+
+*** Heather Love's queerness as failure, impossible
+For Love, identification is about finding the moment when the subject
+turns away: "Queer history has been an education in absence" (50.)
+This moment of turning away characterizes queerness as something raw,
+which cannot be captured.
+
+*** TODO revise hesitation, critical distance is necessary: lowe
+To avoid paranoid methods we develop a critical distance, we turn to
+the ways that "touch" can be distanced. 
+
+*** TODO revise the dimensions of touch: anzaldua
+The challenge is to regain touch without resolving it, to touch
+without presuming full connections
+    
+*** TODO refine /feeling backward/, touching at a distance 
+Love offers a model of "feeling backward" which is a way for critics
+to connect with queer subjects in a way that keeps objects out of the
+critic's reach. 
+
+
+** solution: abstraction, formalization, opacity
+The harm of paranoia comes from a subject/object divide, where one
+takes control/dominance over the other. But what if we found
+alternative ways of making connections? This involves play and
+speculation. It involves /formalizing what cannot be touched/ into a
+touchable format. Playing with vantages, provisionality, performance!
+
+*** TODO refine reparative reading is active
+looking at reading as reparative opens up the way we understand
+epistemology as about movement and performance, rather than
+knowledge. 
+
+*** TODO cut Waves on movement/performance/ ./
+As I follow this disorienting narrative, I similarly enter into cycles
+of desire and frustration. This affective reaction is only possible
+through the formal structure of the narrative. 
+
+*** TODO draft QPOC on opacity, recuperating absence
+Hartmen's "critical fabulation" & Amber Musser's "surface aesthetics":
+POC theorists have shown us how subjectivity is never quite
+attainable, exists on a surface level. 
+
+*** TODO add Confessions on opacity
+the marbled page as an example of what cannot be said. Formal
+experiments to present a self that is multiple, fragmented,
+unreachable. We can only play with the pieces.
+*** TODO revise invisibility is good, allows queers avoid being seen
+As disidentified, queer subjects remain outside of the confines of the
+visible. To gain visibility within the dominant system only reproduces
+visibility within the terms of that system. 
+
+*** TODO draft Toward a Queer Form
+Writing the self is connected to form. Always. The form is
+multiple. The form makes subjectivity opaque, but in the act of
+abstraction, making it opaque, we can touch it and play around with
+it. 
+
+*** TODO draft Frontera on vitality to deformance?
+the book as living and structured -- we are touching an abstraction
+
+--> signposting: will see the equivalent of touching distantly in
+deformance.
+
+
+** on reproducible criticism
+This section sets up the conversation about how digital methods
+evacuate complexity and difference, by going into the history of
+technological development and revealing the assumptions and values
+encoded into the technology. It then takes a critical look at some
+examples of distant reading to see how they simmilarly perpetuate
+their users' assumptions. This practice is contrasted with
+DH practitioners like Drucker who deliberately skew metrics and
+equivocate the results from analysis.
+
+The argument is that some distant reading practitioners do not take a
+critical enough stance toward their data and methods. That they
+overlook the ways that they collapse their data into whatever best
+fits their needs, that they make reductions and transformations.
+
+*** contextualize development of digital tech
+This section presents a narrative of technological history that
+emphasizes how innovations come out of cultural assumptions and are
+more about perpetuating current systems of control than reaching
+toward new ones.
+
+The internet is more about control than freedom. A technology credited
+with democratizing information, communication, and access actually
+arose from a national security consideration, to improve military
+communication. Since then, the internet stealthily works to
+standardize communication and expose its users to data gathering.
+
+Operating systems, which make possible the running of computers, are
+built by white men and display their cultural values in the ways that
+they want to simplify complex problems.  
+
+Today, the development of surveillance tech furthers this legacy,
+presenting blackness as something marked or other to whiteness. 
+
+*** Underwood reproduces assumptions about binary gender
+Assuming gender as a binary concept will create relationships of
+opposition, a case in point of how the critic's entanglement
+bakes results into analysis.

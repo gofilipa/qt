@@ -114,7 +114,6 @@ prior to being modeled using computational methods; rather, modeling
 is the means by which literary concepts and artefacts are both made
 computable and computed” (100).
 
-
 *** Bode, Katherine.  “The Equivalence of ‘Close’ and ‘Distant’
 Reading; or, Toward a New Object for Data-Rich Literary History.” MLQ
 78.1 (2017): 77-106.
@@ -293,28 +292,107 @@ notion of an ideal or Ur text, and applies it to audio-texts.
 - What is the role is clarity and “realist” or “natural” constructions
   of knowledge?
 
-*** Ramsay, Stephen. *Reading Machines: Toward an Algorithmic Criticism*. 2011. Print.
-- Ramsay positions himself as a moderate, saying that computers are
-  merely tools, part of a more expansive subjective process, of
-  hermeneutics. His ideas here agree nicely with Drucker’s in Speclab.
-- What’s particularly useful about Ramsay is his opposing of
-  humanistic endeavor against scientific inquiry. This specifies how
-  observation is a phenomenal, subjective experience, and is
-  antithetical to the motives and processes of scientific inquiry, the
-  scientific method. Ramsay allows us to understand how empirics(?)
-  can be subsumed within a humanistic frame, which does not attempt to
-  ascertain “truth” but only “potentiality”.
-- Like Drucker, isn't Ramsay speaks as if the computer is this
-  uber-objective tool? Like code/software has no biases or
-  idiosyncrasies? What about examining the way that these processes
-  encode subjectivity?
-
 *** Felski, Rita. *The Limits of Critique.* 2015. PDF.
 - Felski usefully talks about reading as an affective
   orientation. It’s not about the way that we read, but about the way
   that we position ourselves and our desires around texts. She warns
   that suspicious attitudes toward texts foreclose the possibility for
   new readings, new thoughts.
+
+*** Mandell, Laura. “Gender and Cultural Analytics: Finding or Making
+  Stereotypes?” Debates in Digital Humanities 2019. Edited by Matthew
+  K. Gold and Lauren Klein. University of Minnesota Press, 2019.
+
+The categories “male” and “female” are discursively, socially
+constituted, and quantitative analysis essentializes and generalizes
+them. This doesn’t mean we should avoid doing quantitative
+analysis. It means we need to historicize the gender categories, and
+dynamicize the results of analysis. Computers are malleable and pliant
+tools for this kind of analysis.
+
+“Dynamically reading, generating, and analyzing numbers are essential
+to making interpretive quantification possible and thus to exploring
+how the M/F binary is constituted in any given historical moment. This
+chapter examines two instances of gender analysis, performed via
+stylometry, word-frequency analysis, and topic modeling, that veer
+toward naïve empiricism because they take the distinction between M/F
+to be transparent. Imbuing cultural analytics with feminist theory, I
+argue here, shows us that we can animate numerical processes rather
+than fixing their results as stereotype.”
+
+“Computer screens as opposed to stereotyped pages easily afford the
+fluid exploration of parameters and taxonomies, through which many
+sorts of experiments can be tested: interactive visualizations can
+give us not objective answers rooted in aggressively reductive
+oppositions, but parallax, multiple perspectives for viewing a very
+complex reality. In analyzing gender, the computational analysis of
+culture should never be understood as an objective observer measuring
+an inert reality. Rather, it should be understood as a means of
+counting people counting.”
+
+“Feminist cultural critics might be tempted to simply walk away from
+cultural analytics altogether rather than engage with what I call
+“M/F”—that is, the conflation of gender with sex and the
+naturalization of a culturally constructed binary opposition. But
+walking away is a bad idea.”
+
+“we must remain attentive to where and how computational data
+analytics crosses the line into naïve empiricism—often unwittingly—by
+presenting conclusions about “male” and “female” modes of thinking and
+writing as if the M/F terms were simple pointers to an unproblematic
+reality, transparently referential and not discursively constituted.”
+
+“My argument in this chapter is that, in some quantitative cultural
+analyses, the category of gender has been biologized, binarized, and
+essentialized in a trend that I call “stereotyping,” with an eye on
+the historical and material practice of
+stereo-typography. Stereotyping as a material practice was invented
+before the printing process became industrialized (1725 in England,
+1735 in France). It froze pages made from movable type into
+unalterable plates of textual data for reprinting and was adopted
+early on by the French printing house known as Didot (Hodgson
+15–18). The term for “stereotype” in French is cliché.Here, I show how
+data-mining techniques are sometimes used to produce clichés. But my
+goal is less to dismiss quantification than it is to argue that,
+insofar as the results of data mining are movable and manipulable,
+cultural analytics can serve us well in historicizing gender
+categories. Examining the gender problem in quantitative analysis
+reveals both opportunities afforded by digital media and how we might
+miss them.”
+
+Reproducibility as the way we judge something as objective: “The
+criterion of scientific objectivity is reproducibility.”
+
+“Are there feedback loops built into data? Has it been collected,
+sorted, and even produced according to the categories M/F? It is to
+answer those questions, in the case of text-mining novels, that I now
+turn” Weaves in Drucker’s discussion on capta, Liu’s discussion on
+human-machine entanglement.
+
+Looking and gender through genre, comparing Wollenstonecraft, Godwin,
+Johnson across genres. Finds more similarity in genre than gender, and
+finds a space to speculate on the assumptions of gender in
+analysis. Uses the dynamicity of computers to study gender.
+ 
+“Insofar as one pins a genre to a gender, then a woman writing in a
+Latinate style (essays, criticism) or a man writing a Jacobin
+sentimental novel is writing in drag.”
+
+“Anyone can adopt gendered modes of behavior, just as anyone can write
+in genres stereotypically labeled M/F… gender approaches nearly to the
+definition of genre.”
+
+“Whereas in the case of gender, we think of imitating its forms as
+“passing” or “drag,” in the case of genre, unless it is a case of
+parody, we think of it as, well, writing. In composing her two
+Vindications, Wollstonecraft is not imitating an essay writer; she is
+writing essays.”
+ 
+“stylometry will only become a valuable tool of literary criticism if
+we admit that categories such as gender are being constructed both by
+the measurer and the measured. Once this process is accepted, we might
+then be able to use stylometry to experiment with new taxonomies of
+gender”
 
 *** Piper, Andrew. *Enumerations: Data and Literary Study*, 2018. Print.
 - This shows how distant and close reading can be used together ---
@@ -339,6 +417,22 @@ notion of an ideal or Ur text, and applies it to audio-texts.
   emotional state to one of perceptual encounter. This sense of the
   contemporary novel’s investment in sensorial embodiment awaits
   fuller treatment” (117).
+
+*** Ramsay, Stephen. *Reading Machines: Toward an Algorithmic Criticism*. 2011. Print.
+- Ramsay positions himself as a moderate, saying that computers are
+  merely tools, part of a more expansive subjective process, of
+  hermeneutics. His ideas here agree nicely with Drucker’s in Speclab.
+- What’s particularly useful about Ramsay is his opposing of
+  humanistic endeavor against scientific inquiry. This specifies how
+  observation is a phenomenal, subjective experience, and is
+  antithetical to the motives and processes of scientific inquiry, the
+  scientific method. Ramsay allows us to understand how empirics(?)
+  can be subsumed within a humanistic frame, which does not attempt to
+  ascertain “truth” but only “potentiality”.
+- Like Drucker, isn't Ramsay speaks as if the computer is this
+  uber-objective tool? Like code/software has no biases or
+  idiosyncrasies? What about examining the way that these processes
+  encode subjectivity?
 
 *** Underwood, Ted. *Distant Horizons*
 Much of literary history is invisible to us due to our blindness to
@@ -441,6 +535,48 @@ reading, and are mostly useful for long views.
       bodies, physical actions, and immediate sensory perceptions in a
       precisely specified place and time" (26).
   
+*** Underwood, Ted. “Machine Learning and Human Perspective.”  PMLA,
+      Vol. 35 No. 1, January 2020, pp. 92-109.  
+
+Abstract: Numbers appear to have limited value for literary study,
+since our discipline is usually more concerned with exploring
+differences of interpretation than with describing the objective
+features of literary works. But it may be time to reexamine the
+assumption that numbers are useful only for objective
+description. Machine learning algorithms are actually bad at being
+objective and rather good at absorbing human perspectives implicit in
+the evidence used to train them. To dramatize perspectival uses of
+machine learning, I train models of genre on groups of books
+categorized by historical actors who range from Edwardian advertisers
+to contemporary librarians. Comparing the perspectives implicit in
+their choices casts new light on received histories of
+genre. Scientific romance and science fiction—whose shifting names
+have often suggested a fractured history—turn out to be more stable
+across two centuries than the genre we call fantasy. (TU).
+
+Underwood aims to measure the "transformations" of gender "as we move
+from one period or perspective to another" ("Machine Learnig and Human
+Perspective" 93)
+
+→ Underwood plays out the warning of Sedgwick about the way that
+binaries work. His analysis of gender reproduces gender as a binary
+system. We reproduce our assumptions. This is a sense that reproducing
+is stale, not novel, doesn’t keep the conversation going.  “Each axis
+is, in short, a model of a particular perspective on gender” (94).
+
+“we find words that men tend to apply to men and that women tend to
+apply to women… we have a group of words that men use in describing
+men and that women use in describing women” (94)
+
+“Instead of trying to define gender, this diagram models a contrast
+between two perspectives on the topic… I needed a simple picture,
+frankly, in order to explain how a quantitative model can be said to
+represent a perspective” (98).
+
+→ reduction is the place where ethics start to infiltrate
+motives. Underwood is not trying to distinguish, he’s trying to
+simplify.
+
 ** Networks
 *** Galloway, Alexander. *Protocol*, 2004. PDF.
 - Codes that append all data…controlling power lies in the technical
@@ -1048,45 +1184,108 @@ Promoting the invisibility, universality, bodilessness of the digital requires t
 
 *** Ruha Benjamin, Race After Technology: Abolitionist Tools for the New Jim Code, Polity Press, 2019. 
 
-Talks about how technologies carry through historical prejudices about blackness. Current society perpetuates racism by transforming it into ever new tools, in this case, data gathering and surveillance, machine learning. 
-technology extends racism and anti-Black violence, a paradigm she calls “the New Jim Code”: “the employment of new technologies that reflect and reproduce existing inequities but that are promoted and perceived as more objective or progressive than the discriminatory systems of a previous era” (5-6).
+Talks about how technologies carry through historical prejudices about
+blackness. Current society perpetuates racism by transforming it into
+ever new tools, in this case, data gathering and surveillance, machine
+learning.
 
-“Far from coming upon a sinister story of racist programmers scheming in the dark corners of the web, we will find that the desire for objectivity, efficiency, profitability, and progress fuels
-the pursuit of technical fixes across many different social arenas. Oh, if only there were a way to
-slay centuries of racial demons with a social justice bat! But, as we will see, the road to inequity
-is paved with technical fixes” (7).
-“The animating force of the New Jim Code is that tech designers encode judgments into technical systems but claim that the racist results of their designs are entirely exterior to the encoding process” (11-12). 
+technology extends racism and anti-Black violence, a paradigm she
+calls “the New Jim Code”: “the employment of new technologies that
+reflect and reproduce existing inequities but that are promoted and
+perceived as more objective or progressive than the discriminatory
+systems of a previous era” (5-6).
 
-“This field guide explores not only how emerging technologies hide, speed up, or reinforce racism, but also how race itself is a kind of technology – one designed to separate, stratify, and sanctify the many forms of injustice experienced by members of racialized groups, but one that people routinely reimagine and redeploy to their own ends” (19).
+“Far from coming upon a sinister story of racist programmers scheming
+in the dark corners of the web, we will find that the desire for
+objectivity, efficiency, profitability, and progress fuels the pursuit
+of technical fixes across many different social arenas. Oh, if only
+there were a way to slay centuries of racial demons with a social
+justice bat! But, as we will see, the road to inequity is paved with
+technical fixes” (7).  
 
-This is meant as an extension of New Jim Crow, which argues that current society perpetuates racism by criminalizing it, war on drugs, mass incarceration. It diverts racist action into new forms. The newest form of this diversion is technology. 
+“The animating force of the New Jim Code is that tech designers encode
+judgments into technical systems but claim that the racist results of
+their designs are entirely exterior to the encoding process” (11-12).
 
-“Invisibility, with regard to Whiteness, offers immunity. To be unmarked by race allows you to reap the benefits but escape responsibility for your role in an unjust system” (2).
+“This field guide explores not only how emerging technologies hide,
+speed up, or reinforce racism, but also how race itself is a kind of
+technology – one designed to separate, stratify, and sanctify the many
+forms of injustice experienced by members of racialized groups, but
+one that people routinely reimagine and redeploy to their own ends”
+(19).
 
-“With emerging technologies we might assume that racial bias will be more scientifically rooted out. Yet, rather than challenging or overcoming the cycles of inequity, technical fixes too often reinforce and even deepen the status quo” (3).
+This is meant as an extension of New Jim Crow, which argues that
+current society perpetuates racism by criminalizing it, war on drugs,
+mass incarceration. It diverts racist action into new forms. The
+newest form of this diversion is technology.
 
-“the language of “progress” is too easily weaponized against those who suffer most under oppressive systems” (4).
+“Invisibility, with regard to Whiteness, offers immunity. To be
+unmarked by race allows you to reap the benefits but escape
+responsibility for your role in an unjust system” (2).
 
-“These tech advances are sold as morally superior because they purport to rise above human bias, even though they could not exist without data produced through histories of exclusion and discrimination” (5).
+“With emerging technologies we might assume that racial bias will be
+more scientifically rooted out. Yet, rather than challenging or
+overcoming the cycles of inequity, technical fixes too often reinforce
+and even deepen the status quo” (3).
 
-“The animating force of the New Jim Code is that tech designers encode judgments into technical systems but claim that the racist results of their designs are entirely exterior to the encoding process” (6). 
-→ are tools good or bad in themselves? I have believed in the past that tools can be used in good or bad ways. That it was about agency, activity, discovery, performance. But it seems that tools themselves contain biases. What is the role of human agency in using biased tools? 
+“the language of “progress” is too easily weaponized against those who
+suffer most under oppressive systems” (4).
 
-“this text presents a case for understanding race itself as a kind of tool – one designed to stratify and sanctify social injustice as part of the architecture of everyday life” (9).
+“These tech advances are sold as morally superior because they purport
+to rise above human bias, even though they could not exist without
+data produced through histories of exclusion and discrimination” (5).
 
-“The view that “technology is a neutral tool” ignores how race also functions like a tool, structuring whose literal voice gets embodied in AI. In celebrating diversity, tokenistic approaches to tech development fail to acknowledge how the White aesthetic colors AI. The “blandness” of Whiteness that some of my students brought up when discussing their names is treated by programmers as normal, universal, and appealing” (15).
-    → white people want tech to make them invisible. The opposite impulse has to employ the body, prioritize the marked body. Make the body hypervisible and open to vulnerability.
+“The animating force of the New Jim Code is that tech designers encode
+judgments into technical systems but claim that the racist results of
+their designs are entirely exterior to the encoding process” (6).  
 
-→ Wendy Chun’s image of the window. The screen goes both ways. You are already being seen when you use technology.  
+→ are tools good or bad in themselves? I have believed in the past that
+tools can be used in good or bad ways. That it was about agency,
+activity, discovery, performance. But it seems that tools themselves
+contain biases. What is the role of human agency in using biased
+tools?
 
-“Thin description” --- like surface reading, because we are all judged by appearances. 23-24.
-“If the New Jim Code seeks to penetrate all areas of life, extracting data, producing hierarchies, and predicting futures, thin description exercises a much needed discretion, pushing back against the all-knowing, extractive, monopolizing practices of coded inequity” (24).
+“this text presents a case for understanding race itself as a kind of
+tool – one designed to stratify and sanctify social injustice as part
+of the architecture of everyday life” (9).g
+
+“The view that “technology is a neutral tool” ignores how race also
+functions like a tool, structuring whose literal voice gets embodied
+in AI. In celebrating diversity, tokenistic approaches to tech
+development fail to acknowledge how the White aesthetic colors AI. The
+“blandness” of Whiteness that some of my students brought up when
+discussing their names is treated by programmers as normal, universal,
+and appealing” (15).
+
+-> white people want tech to make them invisible. The opposite impulse
+has to employ the body, prioritize the marked body. Make the body
+hypervisible and open to vulnerability.
+
+→ Wendy Chun’s image of the window. The screen goes both ways. You are
+already being seen when you use technology.
+
+“Thin description” --- like surface reading, because we are all judged
+by appearances. 23-24.  
+
+“If the New Jim Code seeks to penetrate all areas of life, extracting
+data, producing hierarchies, and predicting futures, thin description
+exercises a much needed discretion, pushing back against the
+all-knowing, extractive, monopolizing practices of coded inequity”
+(24).
 
 *** Simone Browne, Dark Matters: On the Surveillance of
 Blackness. Duke University Press, 2015. 
 
-“the conditions of blackness as a key site through which surveillance is practiced, narrated, and resisted” 
-“For this study, I look to Pamela Z’s multimedia project on travel and security, Baggage Allowance; Adrian Piper’s What It’s Like, What It Is #3; Caryl Phillips’s epistolary story “The Cargo Rap” on prisons, politics, and slavery; and Hank Willis Thomas’s commentary on branding and the afterlife of slavery in his B®anded series. Part of the argument presented here is that with certain acts of cultural production we can find performances of freedom and suggestions of alternatives to ways of living under a routinized surveillance” (6). 
+“the conditions of blackness as a key site through which surveillance
+is practiced, narrated, and resisted” “For this study, I look to
+Pamela Z’s multimedia project on travel and security, Baggage
+Allowance; Adrian Piper’s What It’s Like, What It Is #3; Caryl
+Phillips’s epistolary story “The Cargo Rap” on prisons, politics, and
+slavery; and Hank Willis Thomas’s commentary on branding and the
+afterlife of slavery in his B®anded series. Part of the argument
+presented here is that with certain acts of cultural production we can
+find performances of freedom and suggestions of alternatives to ways
+of living under a routinized surveillance” (6).
 
 “The concept of dark matter might bring to mind opacity, the color
 black, limitlessness and the limitations imposed on blackness, the
@@ -1123,39 +1322,137 @@ also invisible, in the sense that it’s not readily perceived, but it’s
 visible in its distortions, how it affects the objects surrounding
 it. The tasks is to “develop reading strategies that allow us to make
 visible the distorting and productive effects” of blackness (Browne
-9). On cameras: “technology privileges whiteness, or at least
-lightness, in its use of lighting and in the ways in which certain
-bodies are lit and measured in the enrollment process” (Browne 113) →
-how are both whiteness and blackness invisible, to whom, under what
-conditions? How are they operating?
+9). 
 
-Racializing surveillance: “my use of the term “racializing surveillance” signals those moments when enactments of surveillance reify boundaries, borders, and bodies along racial lines, and where the outcome is often discriminatory treatment of those who are negatively racialized by such surveillance” (16).
+Racializing surveillance: “my use of the term “racializing
+surveillance” signals those moments when enactments of surveillance
+reify boundaries, borders, and bodies along racial lines, and where
+the outcome is often discriminatory treatment of those who are
+negatively racialized by such surveillance” (16).
 
-Sousveillance: ““sousveillance” as a way of naming an active inversion of the power relations that surveillance entails. Sousveillance, for Mann, is acts of “observing and recording by an entity not in a position of power or authority over the subject of the veillance,” often done through the use of handheld or wearable cameras”55 (19).
+Sousveillance: ““sousveillance” as a way of naming an active inversion
+of the power relations that surveillance entails. Sousveillance, for
+Mann, is acts of “observing and recording by an entity not in a
+position of power or authority over the subject of the veillance,”
+often done through the use of handheld or wearable cameras”55 (19).
 “I use the term “dark sousveillance” as a way to situate the tactics
-employed to render one’s self out of sight, and strategies used in the flight to freedom from slavery as necessarily ones of undersight. Using this model, but imagining Mann’s Veillance Plane as operating in three dimensions, I plot dark sousveillance as an imaginative place from which to mobilize a critique of racializing surveillance, a critique that takes form in antisurveillance, countersurveillance, and other freedom practices” (21).
+employed to render one’s self out of sight, and strategies used in the
+flight to freedom from slavery as necessarily ones of
+undersight. Using this model, but imagining Mann’s Veillance Plane as
+operating in three dimensions, I plot dark sousveillance as an
+imaginative place from which to mobilize a critique of racializing
+surveillance, a critique that takes form in antisurveillance,
+countersurveillance, and other freedom practices” (21).
 
-With runaway slaves, “how black performative practices and creative acts (fiddling, songs, and dancing) also functioned as sousveillance acts and were employed by people as a way to escape and resist enslavement, and in so being were freedom acts” (22).    
+With runaway slaves, “how black performative practices and creative
+acts (fiddling, songs, and dancing) also functioned as sousveillance
+acts and were employed by people as a way to escape and resist
+enslavement, and in so being were freedom acts” (22).
 
-B®anding Blackness: Biometric Technology and the Surveillance of Blackness [read in full]
-“branding during transatlantic slavery as a marking, making, and marketing of blackness as commodity… the history of branding in transatlantic slavery anticipates the “social sorting” outcomes that Lyon’s work alerts us to regarding some contemporary surveillance practices, including passports, identification documents, or credit bureau databases. … contemporary
-biometric information technologies and their applications: the fingerprint data template technology and retina scans where the human body, or parts and pieces of it, are digitized for automation, identification, and verification purposes” (26).
+B®anding Blackness: Biometric Technology and the Surveillance of
+Blackness [read in full] “branding during transatlantic slavery as a
+marking, making, and marketing of blackness as commodity… the history
+of branding in transatlantic slavery anticipates the “social sorting”
+outcomes that Lyon’s work alerts us to regarding some contemporary
+surveillance practices, including passports, identification documents,
+or credit bureau databases. … contemporary biometric information
+technologies and their applications: the fingerprint data template
+technology and retina scans where the human body, or parts and pieces
+of it, are digitized for automation, identification, and verification
+purposes” (26).
 
-“Biometric information technology, or biometrics, in its simplest form, is a means of body measurement that is put to use to allow the body, or parts and pieces and performances of the human body, to function as identification” (91).
+“Biometric information technology, or biometrics, in its simplest
+form, is a means of body measurement that is put to use to allow the
+body, or parts and pieces and performances of the human body, to
+function as identification” (91).
 
-“Can the epidermal racial schema that Fanon makes plain be found in some contemporary biometric information technologies—the iris scanners and fingerprint readers that are said to secure borders and protect a collective “us” from identity fraud and personal data theft?” (92).
+“Can the epidermal racial schema that Fanon makes plain be found in
+some contemporary biometric information technologies—the iris scanners
+and fingerprint readers that are said to secure borders and protect a
+collective “us” from identity fraud and personal data theft?” (92).
 
-“Blackness for Sale was a necessary counterframing to concurrent net.art in that it critiqued the commodification of blackness and the ways that colonial narratives are reproduced through Internet interfaces: “While watching what many were doing with net.art, I didn’t really see net artists dealing with this intersection of commerce and race. I really wanted to comment on this odd Euro colonialist narrative that exists on the web and black peoples’ position within that narrative. I mean, there are browsers called Explorer and Navigator that take you to explore the Amazon or trade in the ebay. It’s all just too blatant to ignore” (106).
+“Blackness for Sale was a necessary counterframing to concurrent
+net.art in that it critiqued the commodification of blackness and the
+ways that colonial narratives are reproduced through Internet
+interfaces: “While watching what many were doing with net.art, I
+didn’t really see net artists dealing with this intersection of
+commerce and race. I really wanted to comment on this odd Euro
+colonialist narrative that exists on the web and black peoples’
+position within that narrative. I mean, there are browsers called
+Explorer and Navigator that take you to explore the Amazon or trade in
+the ebay. It’s all just too blatant to ignore” (106).
 
-“I suggest here that we come to think of the concept of digital epidermalization when we consider what happens when certain bodies are rendered as digitized code, or at least when attempts are made to render some bodies as digitized code… facial recognition, iris and retinal scans, hand geometry, fingerprint templates, vascular patterns, gait and other kinesthetic recognition, and, increasingly, DNA.” (109).
-“Epidermalization—the imposition of race on the body” (113).
+“I suggest here that we come to think of the concept of digital
+epidermalization when we consider what happens when certain bodies are
+rendered as digitized code, or at least when attempts are made to
+render some bodies as digitized code… facial recognition, iris and
+retinal scans, hand geometry, fingerprint templates, vascular
+patterns, gait and other kinesthetic recognition, and, increasingly,
+DNA.” (109).  “Epidermalization—the imposition of race on the body”
+(113).
 
-Facial recognition stems from craniometry & phrenology: “With Li, Zhou, and Geng’s study quoted above, we can see that pseudo- scientific discourse of racial difference forms the theoretical basis from which to develop a facial computational model that could qualify (and mathematically quantify) difference to allow for identity authentification…. Some advances in biometric information technology are organized around the idea of digital epidermalization.” (112-113).
-On cameras: “technology privileges whiteness, or at least lightness, in its use of lighting and in the ways in which certain bodies are lit and measured in the enrollment process” (Browne 113).
+Facial recognition stems from craniometry & phrenology: “With Li,
+Zhou, and Geng’s study quoted above, we can see that pseudo-
+scientific discourse of racial difference forms the theoretical basis
+from which to develop a facial computational model that could qualify
+(and mathematically quantify) difference to allow for identity
+authentification…. Some advances in biometric information technology
+are organized around the idea of digital epidermalization.” (112-113).
 
-Branded: “The words “Pistol,” “Bullet,” and “Picking” are the only ones that are capitalized in this image, signaling the link between the labor of slavery (picking cotton) and its violent aftermath (firearm- related homicide), and the ways in which black death is capitalized upon (picking caskets). Debt (reparations for slavery, credit card debt) underwrites Thomas’s remaking of MasterCard’s Priceless campaign. With B®anded comes Thomas’s interrogation of advertising and the commodification of blackness, urban violence, and the transatlantic slave trade” (124).
-“When asked about the intent behind his B®anded series, Thomas has said that he was “interested in the way that black men are the most feared and revered bodies in the world in this weird way” and that he was “trying to figure out why that was and what that was about, and the relationship to slavery and commodity, which is commerce, culture, cotton, and that body type.”116” (125).
-“blackness is pitched “as a way to cash in on street cool or urban icon”” (125).
+On cameras: “technology privileges whiteness, or at least lightness,
+in its use of lighting and in the ways in which certain bodies are lit
+and measured in the enrollment process” (Browne 113).
+
+Branded: “The words “Pistol,” “Bullet,” and “Picking” are the only
+ones that are capitalized in this image, signaling the link between
+the labor of slavery (picking cotton) and its violent aftermath
+(firearm- related homicide), and the ways in which black death is
+capitalized upon (picking caskets). Debt (reparations for slavery,
+credit card debt) underwrites Thomas’s remaking of MasterCard’s
+Priceless campaign. With B®anded comes Thomas’s interrogation of
+advertising and the commodification of blackness, urban violence, and
+the transatlantic slave trade” (124).  
+
+“When asked about the intent behind his B®anded series, Thomas has
+said that he was “interested in the way that black men are the most
+feared and revered bodies in the world in this weird way” and that he
+was “trying to figure out why that was and what that was about, and
+the relationship to slavery and commodity, which is commerce, culture,
+cotton, and that body type.”116” (125).  
+
+“blackness is pitched “as a way to cash in on street cool or urban
+icon”” (125).
+
+*** Johnson, Jessica Marie; “Markup Bodies: Black [Life] Studies and
+Slavery [Death] Studies at the Digital Crossroads”. Social Text 1
+December 2018; 36 (4 (137)): 57–79. doi:
+https://doi.org/10.1215/01642472-7145658“
+
+in this article I question the stability of what has been or can be
+categorized as data, the uses the idea of data has been put to, and the stakes underlying data’s implicit claim to stability or objectivity” (58).
+
+“Black digital practice is the revelation that black subjects have
+themselves taken up science, data, and coding, in other words, have commodified themselves and digitized and mediated their own black freedom dreams, in order to hack their way into systems (whether modernity, science, or the West), thus living where they were ‘never meant to survive.’” (59).
+
+“From blogs and journals built on fourth-generation hypertext markup
+language (HTML) guided by cascading style sheets (CSS) to databases using extensible markup language (XML) and standard query language (SQL), scholars using digital tools mark up the bodies and requantify the lives of people of African descent” (59).
+
+“There is nothing neutral, even in a digital environment, about doing
+histories of slavery, and technology has not made the realities of bondage any more palatable or easier to discuss across audiences or platforms. Exploring these anxieties in analog and digital form exposes an unsettled relationship among data, slavery’s archive, and the impulse to commodify black life… The legacy of commodifying black bodies and truncating black life infuses and informs digital design and execution” (60).
+
+“In slaving conventions along the African coast, in slave traders’
+desire to transform women and youth into units of measurement, in the symbolic and reproductive labor enslaved African women would be forced to perform, compilers of slave ship manifests participated in the transmutation of black flesh into integers and fractions” (65).
+
+“Operating in the interstices between listservs and blogging
+platforms, social media users have exploded nineteenth-century codes of race and eighteenth-century denominations of color, defying naturalized assumptions of race, sexuality, gender, and gender presentation through promiscuous use of avatars, changing pseudonyms and nicknames and even deleting or reviving user accounts at will… From the personal to the political, from the embodied to the spiritual, from the human to the community, black digital practice charts a path against the drive for data. It curates the mourning, dissembles against the plantation impulse, and, in the break, absconds” (69-70).
+
+“Black digital practice offers a corrective. It attends to black
+subjects who scream in spite, because, and in defiance of their own ritual murder. Black digital practice requires researchers to witness and remark on the marked and unmarked bodies, the ones that defy computation, and finds ways to hold the null values up to the light” (70-71).
+
+“As a digital humanist, I witness something happening in digital media, social media, online activism, and hashtag activism that hearkens back in time to screams in the archive, jokes in the face of death, to black cultural production and acts of resistance. “History,” Saidiya Hartman writes, “is how the secular world attends to the dead.” Histories of slavery offer digital humanists a cautionary tale, a lesson in the kind of death dealing that happens when enumerating, commodifying, and calculating bodies becomes naturalized. Doing truly embodied and data-rich histories of slavery requires similarly remixing conceptual, discursive, and archival geographies, with deliberate, pained intimacy, and, likely, some violence. But black digital practice challenges slavery scholars and digital humanists to feel this pain and infuse their work with a methodology and praxis that centers the descendants of the enslaved, grapples with the uncomfortable, messy, and unquantifiable, and in doing so, refuses disposability” (71).
+
+
+
 
 
 * Theories of Perception
