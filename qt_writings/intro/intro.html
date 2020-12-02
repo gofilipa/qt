@@ -1,0 +1,3078 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2020-11-30 Mon 22:13 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Filipa  Calado" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2019 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#orgd2962d8">1. one</a>
+<ul>
+<li>
+<ul>
+<li><a href="#org535a106">1.0.1. revision notes</a></li>
+</ul>
+</li>
+<li><a href="#org5102695">1.1. I: Queerness, the Digital &amp; Touch</a>
+<ul>
+<li><a href="#org64047a8">1.1.1. touch intersects queer and digital, abstracting sense</a></li>
+<li><a href="#org8180f51">1.1.2. <i>Waves</i>: queerness frustrates closure, eludes touch</a></li>
+<li><a href="#orgaf3c6a5">1.1.3. <i>Confessions</i>: queerness and the denial of touch</a></li>
+<li><a href="#org25df8ca">1.1.4. queerness &amp; digital intersect on this desire for touch</a></li>
+</ul>
+</li>
+<li><a href="#orgc0cbf6f">1.2. [floating!] technological context</a>
+<ul>
+<li><a href="#org2baec83">1.2.1. history of computing shows non-neutrality of tools</a></li>
+</ul>
+</li>
+<li><a href="#org6b85a20">1.3. II: the problem: queerness as untouchable</a>
+<ul>
+<li><a href="#org53df307">1.3.1. the untouchable and identity formation</a></li>
+<li><a href="#orgc21729a">1.3.2. disidentification pOintsx to incommensurable affect</a></li>
+<li><a href="#org4077772">1.3.3. paranoia attempts to resolve incommens: sedgwick</a></li>
+<li><a href="#org4b7107f">1.3.4. <span class="todo TODO">TODO</span> clean replication, representation: haraway</a></li>
+<li><a href="#org85784bb">1.3.5. <span class="todo TODO">TODO</span> add Barad on replication / representationalism</a></li>
+<li><a href="#org96193c3">1.3.6. <span class="todo TODO">TODO</span> revise paranoia and recovery, hartman on limits of language</a></li>
+<li><a href="#org2d72194">1.3.7. <span class="todo TODO">TODO</span> cut/revise post-critical reading: sedgwick &amp; felski</a></li>
+<li><a href="#org650ab09">1.3.8. <span class="todo TODO">TODO</span> revise hesitation, critical distance is necessary: Lowe</a></li>
+<li><a href="#org46ad1f0">1.3.9. <span class="todo TODO">TODO</span> refine <i>feeling backward</i> as touching at a distance</a></li>
+</ul>
+</li>
+<li><a href="#org4baf8b1">1.4. III: solutions: abstraction, formalization, opacity</a>
+<ul>
+<li><a href="#orgb28860c">1.4.1. <span class="todo TODO">TODO</span> refine reparative reading is active</a></li>
+<li><a href="#org7e8ad6e">1.4.2. <span class="todo TODO">TODO</span> cut Waves on movement</a></li>
+<li><a href="#orgcf3a4d0">1.4.3. <span class="todo TODO">TODO</span> draft QPOC on opacity, recuperating absence</a></li>
+<li><a href="#org734cc7b">1.4.4. <span class="todo TODO">TODO</span> add Confessions on opacity</a></li>
+<li><a href="#orge29a1ce">1.4.5. <span class="todo TODO">TODO</span> revise invisibility is good, allows queers avoid being seen</a></li>
+<li><a href="#org9d89368">1.4.6. <span class="todo TODO">TODO</span> draft Toward a Queer Form</a></li>
+<li><a href="#orgf0d9fac">1.4.7. <span class="todo TODO">TODO</span> draft Butler on movement/contact/touch</a></li>
+<li><a href="#org1cb6ce2">1.4.8. <span class="todo TODO">TODO</span> draft the dimensions of touch: anzaldua</a></li>
+<li><a href="#orgd03bde8">1.4.9. <span class="todo TODO">TODO</span> draft Frontera on vitality</a></li>
+</ul>
+</li>
+<li><a href="#org11dfeee">1.5. Vantanges/Opacity</a>
+<ul>
+<li><a href="#orgadcbcab">1.5.1. Klein, Mandell, Caughie, Gaboury</a></li>
+<li><a href="#org3579360">1.5.2. Interweave with Saidiya Hartmann?</a></li>
+<li><a href="#org9070d07">1.5.3. Against totalization</a></li>
+<li><a href="#orgc6a0dc1">1.5.4. The visible and the invisible, opting out</a></li>
+</ul>
+</li>
+<li><a href="#orgb335dab">1.6. MISC</a>
+<ul>
+<li><a href="#org340b7fd">1.6.1. Altschuler and Weimar on reproducibility</a></li>
+<li><a href="#orge4b48db">1.6.2. Defining queer, Amin on historicizing through affect</a></li>
+<li><a href="#org1306d95">1.6.3. Reading touching: within our bodies</a></li>
+<li><a href="#org4ba44e7">1.6.4. data reduction / queer assimilation</a></li>
+<li><a href="#org59c4c7d">1.6.5. Critique of affirmation: Cvetkovitch</a></li>
+<li><a href="#org17c3fd2">1.6.6. Munoz's disidentification quotes</a></li>
+<li><a href="#orga504eb5">1.6.7. Misc Quotes</a></li>
+<li><a href="#orgcdcee9d">1.6.8. <i>Voyant-Tools</i></a></li>
+<li><a href="#org387efaf">1.6.9. <i>These Waves of Girls</i></a></li>
+<li><a href="#orgf74ccd3">1.6.10. what are some print texts that enact these principles of movement?</a></li>
+<li><a href="#orgf2328d6">1.6.11. What, do you imagine that I would take so much trouble and so much</a></li>
+<li><a href="#orge4e053d">1.6.12. Kadji Amin, Amber Jamilla Musser, and Roy Pérez explain that paranoid</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#orgb84d3ed">2. commands</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgd2962d8" class="outline-2">
+<h2 id="orgd2962d8"><span class="section-number-2">1</span> one</h2>
+<div class="outline-text-2" id="text-1">
+</div>
+<div id="outline-container-org535a106" class="outline-4">
+<h4 id="org535a106"><span class="section-number-4">1.0.1</span> revision notes</h4>
+<div class="outline-text-4" id="text-1-0-1">
+</div>
+<ol class="org-ol">
+<li><a id="org6019fcc"></a>chapter summary<br />
+<div class="outline-text-5" id="text-1-0-1-1">
+<p>
+This dissertation looks at new ways of reading <i>queer bodies</i> and
+<i>queer subjectivity</i> within technological contexts. How do digital
+tools and platforms change the way we interact with queer
+subjects/affects/embodiments within texts? What about the digital
+allows us to activate <i>sensational</i> reading experiences? In simpler
+words, how does digital media interface with queerness?
+</p>
+
+<p>
+This chapter proposes a reading methodology that leverages the
+critic's relationship to the text to open possibilities for
+interpretation and connections to the textual material. It explores
+the ways that reading practices across two different fields (digital
+humanities and queer theory) intertwine, and how this creates a new
+method for reading queer narratives in digital contexts.
+</p>
+
+<p>
+First, queerness is established as something that can only be touched
+"at a distance," because the queer subject cannot be redeemed or
+recovered. This impulse to satisfy, redeem, or recover queerness is
+observed in “paranoid” or “suspicious” reading practices, which seek
+to answer or discover the “hidden” meaning within text. These
+practices attempt to answer questions, but do so in a way that
+constrains inquiry, because paranoia only delivers the results that
+are <i>imaginable</i> within current the knowledge structures. To avoid
+reproducing these knowledge structures, we must look to strategies
+that do not assume full connections, look to queer affects, like
+<i>queerness as not yet here</i>, <i>touching/feeling</i>, <i>feeling
+backward</i>. We value abstraction, or <i>queer form</i>, which is necessary
+for bringing things into relation, and opacity, which keeps the
+unknowable nature of queer experience and identity somewhat in
+tact. We look at <i>Confessions of the Fox</i>, <i>These Waves of Girls</i>,
+<i>Borderlands</i>.
+</p>
+
+<p>
+The history of computing and media shows how tools were built in ways
+that are not neutral, and we find DH practitioners doing work that is
+critical of digital methods. Looking at the example of DH from the
+position of queerness we see more clearly the necessity of opacity,
+formalization, and abstraction as reading methods, and the real danger
+of reproducibility and totalization, byproducts of paranoia. We find
+parallels between queer critics and feminist DHers, who are doing
+something similar; we interweave Saidiya Hartman and Lauren Klein.
+</p>
+
+<p>
+Finally, we propose three values for queer DH, which is: novelty (the
+performative), vantages (the visual), and provisionality (the
+ontological). We see these examples in <i>these waves of girls</i>, and
+<i>the confessions of the fox</i>.
+</p>
+</div>
+</li>
+
+<li><a id="orgcaf3422"></a>feedback on intro from diss workshop<br />
+<div class="outline-text-5" id="text-1-0-1-2">
+<p>
+The three heavy footnotes in the beginning, are tripping people up, a
+bit overwhelming. Work on spreading this out. In doing so, luxuriate
+in the idea of how digital etymology relates to the idea of touch.
+</p>
+
+<p>
+clarify specific terms/concepts: 
+</p>
+<ul class="org-ul">
+<li>Who is <b><b>Matt Kirschenbaum</b></b>? Characterize him a little bit for
+outsiders. Situate myself in relation to him. Also consider taking
+out or reducing the footnote on materiality, because it's tripping
+people up.</li>
+<li>Explain why I am choosing this word <b><b>formalization</b></b> to describe a
+construct. What does this term do that "construct" cannot do?
+Another sentence on what I mean here.</li>
+<li>What Queer theory am I using, at <b><b>reconsolidation</b></b>. The
+abstraction of the queer subject. (related to the issue of
+positioning myself w/ regard to queer theory: The ways that queer
+subjectivity is constructed differently in early poststructrualism,
+as opposed to affect theory. Affect theory tries to bring the body
+back, thinking to Sara Ahmed vs Foucault). In addition to defining
+my position/sources, also consider how "queer" can be reclaimed by
+those it is meant to oppress (Butler, 'Critically Queer').</li>
+<li><b><b>the sensual fullness of a lack</b></b>: see butler on beauvoir and
+irigaray, two women together as a double lack, in gender
+trouble. <i>When our two lips touch</i>, Irigaray</li>
+<li>see how <b><b>haptic</b></b> is being deployed in other disciplines.</li>
+<li>what do I mean by <b><b>touch as abstraction</b></b> on page 3? The physical
+experience of touch may be an abstraction, or abstracted, but it is
+not experienced as such. Jacob: "Touch often registers as painful
+immediacy". See Ann Cvetkovitch's writing on Stone Butch Blues.</li>
+<li>on page 3, I'm making sweeping claims about the <b><b>Queer
+Subject</b></b>. Is there a single queer subject, a queer subjectivity? Do
+the narrators demonstrate this? If so, what is that kind of queer?</li>
+</ul>
+
+<p>
+More broadly: 
+</p>
+<ul class="org-ul">
+<li>how does the digital relate to the <b><b>body</b></b>? how does it change the
+body? how does queerness do this? &#x2013;&gt; Butler's points about how a
+body doesn't come into being until contact in <i>Bodies that Matter</i>.</li>
+<li>what am I doing with <b><b>touch more broadly</b></b>? why is this chapter
+about touch?</li>
+<li>emphasize that I'm doing this <b><b>new thing</b></b>, this new field. DH can
+help us theorize the queer; and queer can help us understand the
+Digital.</li>
+<li>clarify the relationship between <b><b>removal, touch, and grasp</b></b>. How
+are these distinct?</li>
+</ul>
+
+<p>
+In close readings, <b><b>the various registers of touch</b></b> are at odds.  
+</p>
+<ul class="org-ul">
+<li>I start the chapter by saying that queer and the digital are related
+through touch, then I assert that it is a troubled relationship to
+touch. Make it clear at the start that I'm thinking about touch as a
+complicated activity/phenomenon, not touch as always making
+contact.</li>
+<li>How the implications of touch are slightly different or opposite to
+each other across the close readings. One is frustrated touch and
+one touch opens up. Establish the connection between the two.</li>
+<li>There's a tension between literal touch (touching the text) and
+figurative touch (touch as a trope, touch via sight). Emphasize and
+distinguish the difference between touch as a figure within the text
+and as a means of engaging without the text. Additionally, on the
+literal side, how is this touch (clicking through) different from
+turning the page?</li>
+<li>revise the close reading of <i>waves</i> to include analysis of the beam
+routine. How is touch operating? there is no touch in this scene.</li>
+<li>the paradox of touch: the untouchable is good &#x2014; it is a paradox. 
+<ul class="org-ul">
+<li>the paradox of touch: touching w/o touching</li>
+</ul></li>
+</ul>
+
+<p>
+Revise close-reading of <i>Waves</i>
+</p>
+<ul class="org-ul">
+<li>people found it confusing regarding "touch" and doesn't cohere as
+nicely as <i>Confessions</i> with my chapter argument.</li>
+<li>emphasize dynamics of the beam routine, the not touching in that
+episode paralleling the not touching of <i>Confessions</i>.</li>
+<li>explain clearly the removal between reader and text not only in the
+level of narrative form but also in the materiality of the substance
+of the story, the codes and computation.</li>
+</ul>
+
+<p>
+More readings:
+</p>
+<ul class="org-ul">
+<li>on Munoz &#x2013;&gt; also think about Raymond Williams, and structures of
+feelings which will help you elaborate on emergence.</li>
+<li>will narratology help me clarify some of the terms on page 6, on the
+close readings of <i>Waves</i>? Mieke Bal perhaps.</li>
+</ul>
+</div>
+</li>
+
+<li><a id="org72f375e"></a>plan for problem section p<br />
+<ol class="org-ol">
+<li><a id="orgbc2387d"></a>Outline of this section:<br />
+<div class="outline-text-6" id="text-1-0-1-3-1">
+<p>
+(1) defines queerness as affective&#x2013;the untouchable; 
+</p>
+
+<p>
+(2) explores paranoid reading across disciplines as the failure of
+discourse;
+</p>
+
+<p>
+(3) explores how criticism needs the body &amp; affect; 
+</p>
+
+<p>
+(4) proposes a solution to "touching w/o touching," distance.
+</p>
+</div>
+</li>
+
+<li><a id="org10a838b"></a>(1) queer subjectivity based on affect, the untouchable<br />
+<div class="outline-text-6" id="text-1-0-1-3-2">
+<p>
+We are building an understanding of queer subjectivity that is based
+on affect. In the experience of disidentification (Munoz), there is an
+feeling of a choque (Anzaldua), a clash of affects, an embodied
+experience. That experience contains an element of the incommensurable
+(Schutte), a gap. This gap is what is untouchable about queer
+experience (Cvetkovitch). It is an affective experience that exceeds
+language and discourse.
+</p>
+
+<p>
+We are looking for alternative modes of analysis which allow us to
+deal with the incommensurable elements of queerness.
+</p>
+</div>
+</li>
+
+<li><a id="org22f2d7c"></a>(2) paranoid reading<br />
+<div class="outline-text-6" id="text-1-0-1-3-3">
+<p>
+The perspective of paranoia shows us the pitfalls of discursive
+methods.      
+</p>
+
+<p>
+The perspective of paranoia has analogues in history and science.
+</p>
+
+<p>
+We deconstruct methods of reading that try to ascertain truth or
+verify facts.
+</p>
+</div>
+</li>
+
+<li><a id="org8a2c3e1"></a>(3) criticism needs affect &amp; embodiment (hesitation)<br />
+<div class="outline-text-6" id="text-1-0-1-3-4">
+<p>
+We cannot capture, grasp, or access queerness by discursive means, we
+must turn to affect.
+</p>
+
+<p>
+We conclude here that the proper position is hesitation, restraint. An
+awareness of the need for hesitation, while also embracing
+embodiment. The challenge is to regain touch without resolving it.
+</p>
+</div>
+</li>
+
+<li><a id="org25e2439"></a>(4) touching at a distance<br />
+<div class="outline-text-6" id="text-1-0-1-3-5">
+<p>
+How do we touch without presuming full connections? We see Anzaldua's
+standing at both sides at once, and Love's touching at a distance.
+</p>
+</div>
+</li>
+</ol>
+</li>
+
+<li><a id="org5baeff3"></a>plan for historical section<br />
+<div class="outline-text-5" id="text-1-0-1-4">
+<ul class="org-ul">
+<li>Who is important to the field and why?</li>
+
+<li>What is the main quality about technology that my critique brings
+out? It is reproducibility, simplification, standardization? Pick
+one and then decide how to shore it up. 
+<ul class="org-ul">
+<li>The argumentation of the historical context needs to be
+smoother. You begin talking about how data is organized, then
+move to how data is selected for input. What is the main
+argument you're trying to bring across with this historical
+section?</li>
+<li>What from this will go in the first chapter?</li>
+</ul></li>
+<li>Engage the discussion on race and gender. Are these treated the
+same by the technology? Do they intersect? <b>Build the bridge</b> for
+people to understand the connection between race and gender.</li>
+<li>Sketch out the <b>fantasy of the falsifiable</b></li>
+<li>Define terms:
+<ul class="org-ul">
+<li>reproducibility</li>
+<li>operating systems</li>
+<li>race relations</li>
+</ul></li>
+</ul>
+
+<p>
+History of the Internet:
+</p>
+<ul class="org-ul">
+<li>Is it necessary to go into the history of the internet here? Can
+this point go in a footnote or another chapter?</li>
+<li>In my discusson on freedom &amp; control, what is the trade off between
+standardization and freedom? Make this more evident.</li>
+</ul>
+</div>
+</li>
+</ol>
+</div>
+
+
+<div id="outline-container-org5102695" class="outline-3">
+<h3 id="org5102695"><span class="section-number-3">1.1</span> I: Queerness, the Digital &amp; Touch</h3>
+<div class="outline-text-3" id="text-1-1">
+<p>
+No sooner have I written this than it strikes me as an avowal of the
+imaginary; I should have uttered it as a dreamy speech which seeks to
+know why I resist or I desire; unfortunately I am condemned to
+assertion: we lack in French [and perhaps in every language] a
+grammatical mode which would speak lightly [our conditional is much
+too heavy], not intellectual doubt, but the value which strives to
+convert itself into theory.
+</p>
+<ul class="org-ul">
+<li>Roland Barthes, <i>Roland Barthes by Roland Barthes</i>, 55.</li>
+</ul>
+</div>
+
+<div id="outline-container-org64047a8" class="outline-4">
+<h4 id="org64047a8"><span class="section-number-4">1.1.1</span> touch intersects queer and digital, abstracting sense</h4>
+<div class="outline-text-4" id="text-1-1-1">
+<p>
+If digital humanists and queer theorists are going to find some common
+ground, they might start with <i>touch</i>. Touch is a means of interfacing
+with the world, an encounter between subject and object, which signals
+a problem of access<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup> that applies to both electronic media and
+queer subjectivity. Associations between the digital<sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup> and touch
+expand from numerical computation (the ten "digits" of the hand) to
+signify the haptic connections made through the intermediaries of
+mice, keyboards, and touch screens. Crucially, these intermediaries
+demonstrate that humans engage with electronic data at a remove,
+through layers of computation, abstraction, formalization<sup><a id="fnr.3" class="footref" href="#fn.3">3</a></sup>. New
+Media theorist Matt Kirschenbaum explains that “[d]igital inscription
+is a form of displacement. Its fundamental characteristic is to remove
+digital objects from the channels of direct human intervention”
+(<i>Mechanisms: New Media and the Forensic Imagination</i> 86). Moving to
+the context of queerness, touch similarly points to a problem of
+access. Like digital media, queer subjectivity has been theorized as
+legible by and through the framework of formalization&#x2013;specifically,
+through a heteronormative power structure that delineates the queer
+subject for the purpose of reconsolidation. As queer theorists like
+Judith Butler have shown, subjectivity is constructed through
+discursive and performative processes:<sup><a id="fnr.4" class="footref" href="#fn.4">4</a></sup> "Where there is an 'I'
+who utters or speaks and thereby produces an effect in discourse,
+there is first a discourse which precedes and enables that 'I' and
+forms in language the constraining trajectory of its will"
+("Critically Queer" 18). At the intersection of the digital and
+queerness, then, the phenomenon of touch indexes our grasp of the
+subject as a construct, a formalization.
+</p>
+
+<p>
+This examination harnesses the formal qualities of both queer
+subjectivity and digital media. It supposes that the parallels between
+data and queer subjectivity might coalesce into an approach toward
+reading, which engages queer subject matter and digital media through
+the matrix of touch. Touch is an approach toward reading that provides
+alternative possibilities and pathways for sensation. My reading will
+demonstrate how touch offers a means of knowing based on feeling,
+which works by abstracting sensation beyond the readily sensible. This
+process of abstraction compensates for the constructed nature of queer
+subjectivity by exploring queerness as emergent<sup><a id="fnr.5" class="footref" href="#fn.5">5</a></sup> within digital
+media. My readings will surface new forms, <i>queer forms</i>, that evoke
+digital materialities and aesthetics as formalizations of the
+immaterial.<sup><a id="fnr.6" class="footref" href="#fn.6">6</a></sup>
+</p>
+</div>
+
+<ol class="org-ol">
+<li><a id="orgdf6ae59"></a>Margot's point about queerness of two strains<br />
+<div class="outline-text-5" id="text-1-1-1-1">
+<p>
+Margot says that in the first paragraph I'm drawing from canonical
+post-structural definition of queerness, which is produced
+discursively/performatively, where queerness is abstract and purely
+discursive. Soon after, however, I move into queerness as affect,
+which emphasizes the body's materiality, how subjects come into
+existence through contact.
+</p>
+
+<p>
+In this paragraph I am trying to prove that queerness is concerned
+with touch. How is queerness concerned with touch? Because queerness
+is something that we cannot touch directly. It is something that can
+only be sensualized, abstracted, mediated. So it's important for me to
+point out that queer subjectivity is something that has been talked
+about as discursive, then there's been a move toward affect. It is
+this move toward the affective queerness as a formalization which I
+will be focusing on. I need to replace the reference to foucault with
+an emphasis of Butler/Ahmed on the body.
+</p>
+</div>
+</li>
+</ol>
+</div>
+
+<div id="outline-container-org8180f51" class="outline-4">
+<h4 id="org8180f51"><span class="section-number-4">1.1.2</span> <i>Waves</i>: queerness frustrates closure, eludes touch</h4>
+<div class="outline-text-4" id="text-1-1-2">
+<p>
+Two close-readings will serve to demonstrate that queerness is
+concerned with touch, and more precisely, with <i>a desire for touch</i>
+that is continually frustrated. Though one is from a digital source
+and the other from print, both examples demonstrate a self-conscious
+and critical stance about its own form, a key component of what I will
+later elaborate as <i>queer form</i>.
+</p>
+
+<p>
+The first text, entitled <i>These Waves of Girls</i> by Caitlin Fisher,
+figures touching as desire quite literally, with touch being the means
+of pursuing desire. This "hypertext," an electronic text format that
+links "nodes" or pages within an associative structure, enacts desire
+by tempting the reader to click through the various episodes of the
+story in order to achieve narrative closure. <i>Waves</i> is an
+autobiographical account of the author's sexual coming-of-age, which
+unfolds in a series of interconnected vignettes that recount Fisher's
+adolescent experiences with men and women. Despite winning the 2001
+Electronic Literature Organization Award, this "hypertext novella"
+draws criticism for a formal structure that complicates a
+straightforward reading experience. Through the profusion of
+hyperlinks, which connect one node to the next in ways that disrupt
+temporal and causal relations, this hypertext frustrates the reader’s
+desire for narrative coherence. One critic argues that the
+use of hyperlinks “present[s] a baffling range of choices for movement
+which actually led to a stifling of movement altogether” (Pope,
+“Significance”).
+</p>
+
+<p>
+!["DARE" &gt; "I liked girls&#x2026;" &gt; "the lover" &gt; "Only one of us is
+15&#x2026;" &gt; "Jerk off…"](../qt<sub>writings</sub>/one/videos/erotic.gif)
+</p>
+
+<p>
+The disorienting feeling of reading this text is an effect of its
+form.  The conventional reading practice of turning the pages in a
+codex dissolves in the distracting and technical complexity of a
+narrative that requires effort to traverse. Episodes do not have a
+discernible chronology or progression, and clicking on the links
+between nodes disrupts any sense of coherence. While the desire for
+narrative closure is continually frustrated by the work's form, in
+another sense, this fragmentary structure exactly constitutes its
+appeal, for it compels the reader to chase an elusive understanding of
+sexuality, as the text continually defies the reader’s expectations
+about the narrator's motives. In one repeatedly linked node, aptly
+titled “erotic,” the words “and it was the most erotic year of my
+life” march across the screen like ticker tape (“And it was&#x2026;”). This
+node is accessed through two different sources, both featuring sexual
+episodes between the narrator and men. In a novella that largely
+consists of stories about the narrator’s sexual history and fantasies
+with other women, these nodes are unusual, checking the reader’s
+expectations about the narrator’s identity and desire. The
+accumulation of seemingly capricious sexual episodes disrupts the
+relationship between cause and effect, scrambling the reader's sense
+of direction across the text. Other moments in the text create a
+similar dissonance from the associations the narrator's motives. One
+occurs in the last node of the “beam routine” episode, when the
+narrator is about to perform gymnastics to placate a man that she
+brought home. The link reads “I don’t want to have sex,” and it leads
+the reader back to a familiar episode about "Jennie Winchester":
+</p>
+
+<blockquote>
+<p>
+I’m in bed with Jennie Winchester and I realize she wants me to undo
+her pants. She needs to be home by 11:00 and needs to leave my place
+by 10:45. I’m kissing her but opening my eyes at intervals to catch
+the clock. At exactly 10:43 I unbutton her Levis and shove my hand
+inside, barely undoing the zipper. “I’m in bed&#x2026;”
+</p>
+</blockquote>
+
+<p>
+As the reader familiarizes herself with the events of the story, she
+is always losing context. Now the reader experiences this familiar
+node in a new way that casts its former meaning into doubt. What is
+the connection between this episode and the phrase, "I don't want to
+have sex"? Why is the narrator watching the clock? Because the
+character's desires have been muddled by the unpredictable connections
+between episodes, what at first seems straightforward now appears to
+support alternate readings. The reader’s confusion in navigating
+through <i>Waves</i>, in re-interpreting fragments that had been previously
+integrated, reinforces queer identity as something elusive, a
+condition that is not fully intelligible. Clicking (<i>touching</i>) her
+way through the narrative, the reader is repeatedly reminded of her
+removal from the distance from the narrator.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgaf3c6a5" class="outline-4">
+<h4 id="orgaf3c6a5"><span class="section-number-4">1.1.3</span> <i>Confessions</i>: queerness and the denial of touch</h4>
+<div class="outline-text-4" id="text-1-1-3">
+<p>
+For queer subjects, touch and the desire for touching has always been
+a frought experience, which can in turn activates a sensorium of
+affects. In my second example, <i>The Confessions of the Fox</i> by Jordy
+Rosenberg, the main character exhibits a troubled relationship to
+touch which partly constitutes his subjectivity. Beginning in
+eighteenth century London, this story follows Jack Sheppard, a young
+transgender male as a wily thief amid a group of "rogues."  Before the
+official pathologization of nonnormative desires and identities,
+Sheppard struggles to articulate his difference, what he calls his
+"<i>Something</i>:" "This something that set him apart from other coves
+[men]. Something that had caus'd him to dress his own chest in taut
+bandages&#x2026; pinching at his ribs, throttling his every Breath to a
+forced shallow bird-sipping of the air" (33). The hesitance toward
+self-identification extends from the main character to the narrative's
+genre, which unfolds as historical fiction overlaid with contemporary
+fictional memoir. Sheppard's story is discovered in the present day
+United States by Dr. Voth, a rueful academic who is also
+transgender. Voth, who immediately recognizes the historical
+significance of Sheppard's manuscript, proceeds to annotate the
+document with relevant references and increasingly, his own tangential
+anecdotes. In one scene of the manuscript, Sheppard is having a
+romantic moment when Voth relates his own episode about a former
+lover:
+</p>
+
+<blockquote>
+<p>
+She opened her legs a bit, twitched them open, really. I caught my
+breath, audibly.
+</p>
+
+<p>
+"Oh my god," she said, "you're such a lesbian."
+</p>
+
+<p>
+She didn't mean it cruelly. And she didn't mean that I wasn't passing
+as a cis-man, either. Although, since according to her we'd fucked the
+night before, she knew exactly how un-cis I was. 
+</p>
+
+<p>
+She meant that she saw something about the quality of my desire: that
+I could feel her even before I touched her. And that this was part of
+what it meant to be&#x2014;or to have been, before my tits became property
+of the California Municipal Waste Department&#x2014;a lesbian. That a woman
+moving in your line of sight could have an effect that was total,
+atmospheric. That you could be hesitant, incapable, and not
+particularly interested in establishing a line between touching and
+seeing. That you would indulge a dead love, dead in the eyes of the
+world, and valueless. A love that choked and burdened the mind, that
+might even be the very foundation of melancholy and despair. But, oh
+Reader, looking at a woman you really get a feel for the way that fire
+is a phenomenon of touch. And my point is, if you have every been a
+lesbian, you will not even have to touch a woman to know that. 169
+</p>
+</blockquote>
+
+<p>
+Here, desire is characterised not by the search for satisfaction, or
+the success of establishing contact, but by the sensual fullness of a
+lack. The experience of desire, of craving, wanting, needing to touch
+the desired object stimulates the imagination and amplifies sensations
+that would otherwise be replaced with more "direct" modes of
+contact. The lover's reference to Dr. Voth as "such a lesbian" brings
+this distinction about physical and imaginary contact to the realm of
+identity, reinforcing the interplay between imaginary and real when it
+comes to touch. Though Dr. Voth is not a lesbian, the term fits
+because it signals not a gender or sexual identity but a sensuality
+that is more concerned with the potential of connection rather than
+verifiable contact. The appellation hinges on the role of the
+imagination in activating certain sensations&#x2013;"total,"
+"atmospheric"&#x2014;that supercede those in the actualized
+world. Therefore, Dr. Voth's visual fancy takes on connotations of the
+fanciful. But this does not mean the sensations resulting from this
+desire are any less palpable. On the contrary, such a desire maximizes
+physical experience: it is a desire for something that, because it
+cannot or will not be fulfilled, amplifies the fullness of that
+desire. This mode of desiring is what characterizes queerness in the
+text. Here, touch, or the lack of touch, defines a peculiarly queer
+subjectivity.
+</p>
+
+<p>
+In both <i>Waves</i> and <i>Confessions</i>, queerness is constituted by a
+troubled relationship to touch, reinforcing queerness as something
+that cannot be grasped or is beyond grasp. In <i>Waves</i>, touch is the
+continually frustrated means for traversing the narrative: clicking
+her way though the nodes, the reader fails to grasp the arc of the
+story or the intentions of the narrator. In <i>Confessions</i>, denying
+touch casts queer identity as something beyond
+categorization. Maintaining the gap between sight and touch stimulates
+the senses beyond what's possible within normative expectations of
+sexual desire. This condition of inaccessibility gestures at an affect
+of suspension or displacement that is central to the experience of
+queerness, an affect that I call the "untouchable," which we now
+explore in depth.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org25df8ca" class="outline-4">
+<h4 id="org25df8ca"><span class="section-number-4">1.1.4</span> queerness &amp; digital intersect on this desire for touch</h4>
+<div class="outline-text-4" id="text-1-1-4">
+<p>
+The "desire for touching," without being able to fully touch, as the
+definition of queerness, is also where the digital and queer
+intersect. Digital media creates the illusion that we have access to
+data, to information, but all we have access to is a <b>formalized</b>
+relationship to that data. We encounter the digital object through
+mediation, through an interface, mice, GUIs, keyboards, etc.
+</p>
+</div>
+</div>
+</div>
+
+
+<div id="outline-container-orgc0cbf6f" class="outline-3">
+<h3 id="orgc0cbf6f"><span class="section-number-3">1.2</span> [floating!] technological context</h3>
+<div class="outline-text-3" id="text-1-2">
+</div>
+<div id="outline-container-org2baec83" class="outline-4">
+<h4 id="org2baec83"><span class="section-number-4">1.2.1</span> history of computing shows non-neutrality of tools</h4>
+<div class="outline-text-4" id="text-1-2-1">
+<p>
+Before I turn to current examples of distant reading, it is useful to
+contextualize the technological development of digital tools in the
+latter 20th century. This contextualization reveals how the intentions
+guiding technological development contradicts common understandings
+about new information technology being progressive, democratic, or
+"free". In fact, many of these tools were created with conservative
+intentions and perpetuate cultural assumptions that elide complexity
+and difference. In what follows, I will briefly trace the development
+of networking and software technologies from the 1960s through the end
+of the 20th century, then turn to the "surveillance" technology of the
+last two decades, highlighting how more recent technology maintains
+some of the crucial assumptions from the last century. This
+contextulization, however brief, will help to situate the ways that
+digital humanists today approach the use of digital tools in their
+research methodologies.
+</p>
+
+<p>
+First, the development of the internet, which is a global network of
+interconnected computers, is often credited for "democratizing" access
+to information. Early networks like Usenet, developed in 1979,
+popularized online message boards, file-sharing, and eventually
+e-mail. Built from ideals of open exchange and user agency in "an
+effort to break down modes of exclusion," the network was developed by
+people who wanted to communicate horizontally, practice improvisation
+and "hacking." (Rosenweig, "Wizards, Bureaucrats&#x2026;, 1549). Moving to
+1989, Tim Berners-Lee, a computer scientist at the European
+Organization for Nuclear Research (CERN), proposed the development of
+a distributed information system that would eventually become the
+World Wide Web.<sup><a id="fnr.7" class="footref" href="#fn.7">7</a></sup> While working at CERN, Berners-Lee identified
+personnel access to the latest information across the center as a
+major problem for the organization’s workflow, lamenting that
+“Information is constantly being lost… often, the information has been
+recorded, it just cannot be found." Berners Lee saw information and
+people, the connection between human bodies with bodies of text, as
+the problem. He proposed a new resource for orienting researchers that
+was accessible, flexible, and emendable, initiating work on the
+Hypertext Transfer Protocol (HTTP) that would eventually become
+integral to creating the World Wide Web.
+</p>
+
+<p>
+These positive narratives about Usenet and the World Wide Web dominate
+the history of internet. Less acknowledged is how networking
+technologies largely support a structure of control over its users. To
+begin with, the internet's early development was funded by two
+Department of Defense projects, the RAND corporation (then a Cold War
+think-tank), and ARPANET (the Advanced Research Projects Agency
+Network), which later became the Defense Advanced Research Projects
+Agency (DARPA). These US military stakeholders wanted to preserve
+command and control in the case of a catastrophic nuclear
+event,<sup><a id="fnr.8" class="footref" href="#fn.8">8</a></sup> and reasoned that a distributed network would create
+national communication contingency.<sup><a id="fnr.9" class="footref" href="#fn.9">9</a></sup> The RAND Corporation fist
+theorized the distributed network, and ARPANET formalized the new
+technology of packet switching, which is a method of grouping data
+into small packets that can be later reassembled at the final
+destination. In order to send information along the network, data has
+to be appended with protocols, or codes like HTTP, which impose
+structures on data to make connections possible.  As Alexander
+Galloway points out, whether users know it or not, they
+"accept&#x2026; universal standardization in order to facilitate the freer
+and more democratic medium” (147).<sup><a id="fnr.10" class="footref" href="#fn.10">10</a></sup> The trade-off between access
+and standardization, freedom and control, is often invisible to the
+end user, who isn't aware of the packets that are constantly passing
+through their computer. Wendy Chun uses the image of a window to
+illustrate the two way direction of information traffic, how using the
+internet is also always being used by it. She warns: “If you believe
+that your communications are private, it is because software
+corporations, as they relentlessly code and circulate you, tell you
+that you are behind, and not in front of, the window” (22).<sup><a id="fnr.11" class="footref" href="#fn.11">11</a></sup>
+</p>
+
+<p>
+Major developments in technology also perpetuate racial
+assumptions. Moving from networking technologies to software
+development, Tara McPherson explores the parallels between the
+Operating Systems and race relations, to show how the development of
+computer software betrays hegemonic assumptions about whiteness and
+elisions of difference.<sup><a id="fnr.12" class="footref" href="#fn.12">12</a></sup> She focuses on the key moment of 1960s
+United States, when Operating Systems, which is the foundational
+software that supports a computer's programs and basic functioning,
+developed alongside civil rights discourses. Her research focuses on
+how "the organization of information and capital" in OS development
+resonates in the struggles for racial justice: "Many of these shifts
+were enacted in the name of liberalism, aimed at distancing the overt
+racism of the past even as they contained and cordoned off progressive
+radicalism" (30). McPherson deconstructs the UNIX operating system
+which includes a hierarchical file system, a command line interpreter
+(the Terminal on Mac or Command Prompt on Windows), and a variety of
+software programs that are designed to work in tandem. McPherson
+points out that UNIX-based Operating Systems (like Mac and Linux) are
+distinguished by the ways that they partition and simplify complex
+processes into discrete components, similar to the ways that identity
+politics cordones off parts of the (social and technological) system
+into distinct units. While this cordoning was productive for the
+promotion of civil rights, it also, according to McPherson, "curtailed
+and short-circuited more radical forms of political praxis, reducing
+struggle to fairly discrete parameters" (30).
+</p>
+
+<p>
+Crystallizing the intersection between Operating Systems and race
+relations, McPherson asserts that "Certain modes of racial visibility
+and knowing coincide or dovetail with specific ways of organizing
+data" (24). McPherson emphasizes the "rules" of UNIX philosophy, which
+lay out how UNIX's development prioritized the organization and
+simplification of data processing:
+</p>
+<blockquote>
+<p>
+Rule of Simplicity: Design for simplicity; add complexity only where
+you must. Rule of Parsimony: Write a big program only when it is clear
+by demonstration that nothing else will do. Rule of Transparency:
+Design for visibility to make inspection and debugging easier&#x2026; Rule
+of Representation: Fold knowledge into data so program logic can be
+stupid and robust. 26
+</p>
+</blockquote>
+<p>
+The rules of "Simplicity" and "Parsimony" ensure that programs will be
+composed of small, interlocking parts that can be easily updated and
+transported to newer versions. The rule of "Transparency" flattens
+nuance and ambiguity, making program components as legible as
+possible. The rule of "Representation," particularly the suggestion to
+"Fold knowledge into data" reduces the complexity of raw data, so that
+it can be easily input into multiple processes. According to
+McPherson, all of these rules work together to shore up the central
+design theory of "modularity,"<sup><a id="fnr.13" class="footref" href="#fn.13">13</a></sup> which stipulates that components
+are self-contained and interoperable, so they can be independently
+created, modified, and replaced without affecting the whole system.
+</p>
+
+<p>
+The role of control in creating the internet and the emphasis on data
+reduction in developing operating stystems leave their legacies on
+21st century digital technology, where race becomes collapsed into
+data. Echoing McPherson, Ruha Benjamin asserts that technology
+reproduces social inequities under the guise of objectivity and
+progressivism.<sup><a id="fnr.14" class="footref" href="#fn.14">14</a></sup> Turning to technology, Benjamin explores how
+innovations in Artificial Intelligence and algorithmic computing
+extend racist paradigms into ever new tools, particularly in data
+gathering and surveillance. The creators of these new technologies
+mark, track, and quantify blackness, for example, in databases for
+healthcare or financial services that associate "black names" with
+criminality (Benjamin 5). With each update, technology is continually
+promoted as efficient and progressive in a way that masks how it
+exploits data about its subjects. Benjamin explains, "we are told that
+how tech sees “difference” is a more objective reflection of reality
+than if a mere human produced the same results&#x2026; bias enters through
+the backdoor of design optimization in which the humans who create the
+algorithms are hidden from view" (5-6). As she points out, "the road
+to inequity is paved with technical fixes” (7). Like the creators of
+UNIX, the creators of such tools and algorithms operate under
+assumptions of white universality that inevitably marks blackness as
+"other."
+</p>
+</div>
+</div>
+</div>
+
+
+<div id="outline-container-org6b85a20" class="outline-3">
+<h3 id="org6b85a20"><span class="section-number-3">1.3</span> II: the problem: queerness as untouchable</h3>
+<div class="outline-text-3" id="text-1-3">
+</div>
+<div id="outline-container-org53df307" class="outline-4">
+<h4 id="org53df307"><span class="section-number-4">1.3.1</span> the untouchable and identity formation</h4>
+<div class="outline-text-4" id="text-1-3-1">
+<p>
+The idea of the "untouchable" builds off queer theorists who have
+isolated a queer experience of displacement, estrangement, or a
+feeling of a lack that creates a space for emergent affects. This
+experience derives from the political and social environment that
+attempts to erase the existence of minorty subjects, particularly
+queer people of color. Even as LGBT groups appear to gain more
+visibily and acceptance, such gains are trapped within the limiting,
+normative time of the present (citation to munoz). 
+</p>
+
+<p>
+[expand this idea about normativization of queerness, with reference
+to Bostock v. Clayton County&#x2014;the major opinion bans discrimination
+on the grounds of "sex discrimination"&#x2013;i.e. queers have this
+protection because straights have it. This is not expanding our
+protection of desire to include queer forms of love, it is just
+extending an antiquated view. The dissent by Alito is on the grounds
+of "sex," which does not cover sexual orientation or gender ID, and by
+Kavanaugh on the constraints of the court, who cannot legislate new
+law but can only judge prior law. I agree with Alito &amp; Kavanaugh, as
+they point to the pitfalls of heteronormativity, though I am happy
+with the result.]
+</p>
+
+<p>
+This chapter explores potential positions or orientations around
+queerness. It begins by establishing queer subjectivity on the basis
+of affect, and unpacks a core condition of queerness as "untouchable."
+By "untouchable," I mean that queer identity is constituted through a
+sensation of a lack, through the sensation of absence, contour,
+boundary, edge, exclusion. This is opposed to majority
+subject-formation, wherein "[t]he fiction of identity is one that is
+accessed with relative ease" (Muñoz <i>Disidentifications</i> 5). In what
+follows, I locate "untouchability" in the affective experiences that
+constitute subjectivity, experiences that isolate moments of
+strangeness, disjunction, irony, ambivalence, and chaos. These
+affective experiences center on a quality of incommensurability that
+is the defining condition of untouchability [and will later become the
+criterion of touching without touching]. This foundational quality of
+the incommensurable, which makes queerness "untouchable," influences
+our approach <i>as critics</i> toward queer texts, themes, and
+subjects. For queer readers in particular, there is a desire to
+recognize within the past something that affirms queer experience in
+the present, making acts of identification that collapse or overlook
+the complexity of experience. Heather Love describes queer critics,
+"Like demanding lovers [who] promise to rescue the past when in fact
+they dream of being rescued themselves" (33). This chapter proposes a
+reading method that enables queerness to be grasped, but at a
+distance. The attention to affect provides the ground to remagine
+reading as situated within the reader's embodied relationship to the
+text.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc21729a" class="outline-4">
+<h4 id="orgc21729a"><span class="section-number-4">1.3.2</span> disidentification pOintsx to incommensurable affect</h4>
+<div class="outline-text-4" id="text-1-3-2">
+<p>
+This chapter unpacks the condition of "the untouchable" from theories
+of identity and communication developed by Queer Theorists from Latinx
+backgrounds and traditions, including Muñoz, Ofelia Schutte, and
+Gloria Anzaldúa. My approach toward subjectivity is based on a
+paradigm of identity formation that Muñoz generalizes as
+"identities-in-difference" (<i>Disidentifications</i> 6). Muñoz's
+identities-in-difference marshalls theories of difference from Chicanx
+theorists Norma Alarcón's idea of "differential consciousness" and
+Chela Sandova's concept of emergent identities-in-difference, which
+center moments of failed interpellation as the core materials of
+subject formation. Muñoz's work on identity offers a space for
+prioritizing the role of affect in subject formation.
+</p>
+
+<p>
+According to Muñoz, queer subjectivity grows from an affective
+experience that he describes as "disidentification." Disidentification
+describes how minority subjects negotiate identity in a cultural
+sphere that disregards their existence. Due to "cultural logics of
+heteronormativity, white supremacy, and misogyny," queer people of
+color have been placed outside majority ideas about race, sexuality,
+gender, and class, that constitute dominant society
+(<i>Disidentifications</i> 5). As a result, minority experience is defined
+by a gap in identification, where subjectivity emerges in the failure
+to adhere to social expectations. Within this gap, dominant
+signfications of identity are not totally inaccessible to minority
+subjects. Rather, they are accessed according to a process of
+"disidentification," where subjects find alternative pathways of
+connection to that which remains beyond their grasp. These moments are
+fleeting sensations of finding oneself attracted to something that is
+inappropriate, "<i>to read onesself</i> and one's own life narrative in a
+moment, object, or subject that is not culturally coded to 'connect'
+with the disidentifying subject" (<i>Disidentifications</i> 12; my
+italics). Muñoz offers his own formative experience of
+disidentification from a childhood memory of watching Truman Capote on
+TV:
+</p>
+
+<blockquote>
+<p>
+I remember, for instance, seeing an amazingly queeny Truman Capote
+describe the work of fellow writer Jack Kerouac as not writing but,
+instead, typing. I am certain that my pre-out consciousness was
+completely terrified by the swishy spectacle of Capote's
+performance. But I also remember feeling a deep pleasure in hearing
+Capote make language, in "getting" the fantastic bitchiness of his
+quip [&#x2026;] I can locate that experience of suburban spectatorship as
+having a disidentificatory impact on me. Capote's performance was as
+exhilarating as it was terrifying. <i>Disidentifications</i> 4
+</p>
+</blockquote>
+
+<p>
+This memory is distinguished by a powerful disjunction between
+opposite feelings, which consitutes identity from ambivalent
+affects. The exhilaration that Muñoz feels when he understands
+Capote's dig is compounded by the surprise of catching its "fanstastic
+bitchiness." But this upheaval is attended by another feeling, a fear
+of recognition, which is a foundational affect for queer
+subjectivity. Kelly Caldwell, a poet and academic, explains in "The
+Torment of Queer Literature" that "embracing queerness is often
+embracing abjection" (par. 4). She describes her disidentificatory
+experience reading James Baldwin's novel <i>Giovanni's Room</i> as a
+transgender woman, with "the risk of recognizing David’s denial and
+repression as my own" (par. 17). Caldwell wonders, "what if the only
+available act of identification is one of stigma and shame? [&#x2026;]
+Sometimes identification is loss and despair" (par. 4). For Caldwell,
+the process of "reading oneself&#x2026; in a moment, object, or subject
+that is not culturally coded" is self-shattering.
+</p>
+
+<p>
+In Muñoz's experience watching Capote, disidentification emerges in
+the space between the opposing sensations of pleasure and terror. This
+sensation of opposing affects and the shattering of identity has been
+well explored by queer Chicana Theorist Gloria Anzaldúa. For Anzaldúa,
+the figure of <i>la mestiza</i><sup><a id="fnr.15" class="footref" href="#fn.15">15</a></sup> denotes the experience of being
+mixed, at the intersection of two opposing forces. The
+mestiza-&#x2014;"[c]radled in one culture, sandwiched between two
+cultures"&#x2014;has the capacity to contain dualities, such as
+male/female, English/Spanish, American/Mexican (78). Mestiza
+consciousness is about hybridity, holding a tolerance for ambiguity,
+for existing in the middle space that contains dualities. This
+consciousness manifests in what Anzaldúa describes as the experience
+of <i>el choque</i>, or the shock: "The coming together of two
+self-consistent but habitually incompatible frames of reference"
+(78). The affective experience of <i>el choque</i>," a cultural collision,"
+consists of a bodily phenomenon where the subject receives multiple
+opposing messages that incite a physical upheaval (78). The choque
+occurs at the intersection of cultures, and also within culture:
+"Through our mothers, the culture gave us mixed messages: <i>No voy a
+dejar que ningun pelado desgraciado maltrate a mis hijos</i>. And in the
+next breath it would say, <i>La-mujer tiene que hacer lo que le diga el
+hombre</i>" (40). The clash of "mixed messages" results in mental and
+emotional states of confusion and despair: "The mestiza's dual or
+multiple personality is plagued by psychic restlessness" (78). It is
+an embodied experience of physical and pyschic unsettlement that is a
+basis for identity formation. 
+</p>
+
+<p>
+The choque experienced in acts of queer disidentification points to a
+core quality of queerness that is incommensurable. Latina feminist
+philosopher Ofelia Schutte's modeling of cross-cultural
+communication isolates a quality that is useful for understanding the
+productive effects of the choque. Schutte, who draws from feminist
+postcolonial and poststructuralist concepts of alterity and
+difference, writes about communication between native English and
+Spanish speakers. Her goal is to explore how subjects from different
+cultures might achieve effective conversation, "to communicate with
+'the other' who is culturally different from oneself"
+(53). Communication begins with the assumption that "no two cultures
+or languages can be perfectly transparent to each other" (56). There
+is something lost in translation, "a residue of meaning that will not
+be reached in cross-cultural endeavors" (56). This vestige of
+communication that fails to transfer between subaltern and dominant
+subjects is what she calls the incommensurable element. Schutte goes
+into detail to explain how the incommensurable emerges in
+conversation:
+</p>
+
+<blockquote>
+<p>
+In cross-cultural communication, each speaker may "say" something that
+falls on the side of the "unsaid" for a culturally differentiated
+interlocutor. Such gaps in communication may cause one speaker's
+discourse to appear incoherent or insufficiently organized. To the
+culturally dominant speaker, the subaltern speaker's discourse may
+appear to be a string of fragmented observations rather than a unified
+whole. The actual problem may not be incoherence but the lack of
+cultural translatability of the signifiers for coherence from one set
+of cultural presuppositions to the other. 62
+</p>
+</blockquote>
+
+<p>
+The question of how to speak to those different from us allows one to
+productively think through how queer subjects integrate their own
+difference from society.
+</p>
+
+<p>
+The point of isolating incommensurability is not to try to grasp or
+translate the vestige of lost meaning, but to recognize that gap as a
+space that constitutes subjectivity. We need to recongize this
+incommensurability because it is a gap that opens up space for
+emergent affects. Schutte's model emphasizes the productive effects of
+attending to these gaps and ellisions. She encourages attention to the
+ways in which "the other's speech, or some aspect of it, resonates in
+me as a kind of strangeness, as a kind of displacement of the usual
+expectation" (56). Schutte proposes that one embrace the strangeness
+of communication, locating the moments where meaning seems to slip by
+and elude us. By paying attention to the awkward and even bizarre
+moments of misunderstanding, we find the materials for constructing
+new dis(identity).
+</p>
+
+<p>
+We are looking for alternative modes of analysis which allow us to
+deal with the incommensurable elements of queerness.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4077772" class="outline-4">
+<h4 id="org4077772"><span class="section-number-4">1.3.3</span> paranoia attempts to resolve incommens: sedgwick</h4>
+<div class="outline-text-4" id="text-1-3-3">
+<p>
+The goal here is to preserve the incommensurable in analysis. We want
+to give full rein to the elements that escape and elude
+understanding. We must first look at methods that attempt to resolve
+incommensurability, and see how they reduce or flatten the complexity
+of queer subjectivity &amp; experience.
+</p>
+
+<p>
+The reality of incommensurability points to ways that understanding
+will always be flawed, never complete, and never self-evident. The
+illusion that we can gain sufficient understanding about queer
+experience, that such experiences are "commensurable," drives certain
+reading practices that critics describe as "paranoid" or "suspicious."
+This reading practice assumes experience and subjectivity to be
+fundamentally accessible. Here, the reading method pursues knowledge
+as a goal in and of itself. To illustrate this effect, Eve Kosofsky
+Sedgwick relates a conversation between herself and a friend during
+few years of the AIDS crisis, when speculation about the government's
+complicity in spreading the virus is rampant. At the time, Sedgwick
+wonders whether "the lives of African Americans are worthless in the
+eyes of the United States; that gay men and drug users are held cheap
+where they aren't actively hated" (123). Her friend counters this
+suspicion, pointing out that knowledge of conspiracy doesn't achieve
+anything on its own: "Supposing we were ever sure of all those
+things&#x2014;what would we know then that we don't already know?"
+(123). Merely knowing that something is true, revealing the presence
+of systematic oppression, injustice, discrimination, does nothing. As
+Sedgwick explains, knowledge of a problem is not enough to "enjoin
+that person to any specific train of epistemological or narrative
+consequences" (123). Moreover, a paranoid or suspicious stance blocks
+out other possibilities for relation to the text. Paranoia often only
+affirms itself; reflecting and replicating itself in every surface,
+giving too much power to the act of exposure. The work of paranoia is
+never done, "for all its vaunted suspicion, [paranoia] acts as though
+its work would be accomplished if only it could finally, this time,
+somehow get its story truly known" (141). Like many other theorists,
+Sedgwick wonders what is the point of continually trying to reveal,
+unravel, deconstruct the injustices of the past. She searches for
+"some ways of understanding human desire that might be quite to the
+side of prohibition and repression, that might hence be structured
+quite differently from the heroic, 'liberatory,' inescapably dualistic
+righteousness of hunting down and attacking prohibition/repression in
+all its chameleonic guises" (10).
+</p>
+
+<p>
+Paranoid reading practices deliver results that are imaginable within
+given knowledge structures.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4b7107f" class="outline-4">
+<h4 id="org4b7107f"><span class="section-number-4">1.3.4</span> <span class="todo TODO">TODO</span> clean replication, representation: haraway</h4>
+<div class="outline-text-4" id="text-1-3-4">
+<p>
+To examine the way that paranoid reading works, it is useful to
+explore its workings in other disciplines. There is a lot we can learn
+from history and science, in particular, about the ways that paranoid
+reading collapses complexity and perpetuates established forms of
+knowledge. Historicist literary scholar David Kazanjian explains how
+the charge of "overreading," or the accusation that critics attribute
+contemporary meaning to a historical text, presumes a strict
+separation between historically contextualized reading and ahistorical
+reading. Kazanjian points out that those who level this accusation
+assume that so-called "historical" perspectives are accessible, "as if
+one inhabited the same historical scene as the text one is reading"
+("Scenes of Speculation," 80). Similar assumptions are made in
+science, which in particular, demonstrate how paranoia enacts a
+self-replicating mechanic. Though it appears in much of literary
+studies, the impulse that drives paranoid reading is borrowed from a
+critical viewpoint in scientific inquiry that assumes a detached
+observer. Critiques of this position, particularly in Donna Haraway's
+work on primatology, attempt to articulate a new mode of feminist
+science that de-naturalizes the "natural." Haraway's research on
+primates reveals the ways in which assumptions and preconceptions from
+the (white, male) subject inflect the object of study. She examines
+how scientists bring their own investments to bear even in the
+seemingly benign questions they might ask, or qualities they isolate,
+as areas of interest. For example, primatologists working with the
+goal of studying social structures in the field often impose their own
+social structures by turning their assumptions of male dominance into
+"observations." Feminist scientists attempt to revise such narratives
+by emphasizing organization and cooperation among primate communities:
+"revisionists have stressed matrifocal groups, long-term social
+cooperation rather than short-term spectacular aggression, flexible
+process rather than strict structure” (19). Pointing out that, “Women
+know very well that knowledge from the natural sciences has been used
+in the interests of our domination and not our liberation," Harwaway
+asserts that such revision is about empowering the subjugated,
+reconceiving “female receptivity” as "female choice" (8). The creation
+of a subject/object split <i>reproduces</i> and legitimizes hierarchies of
+domination.
+</p>
+
+<p>
+Donna Haraway's words, a search for the "one code that translates all
+meaning perfectly, the central dogma of phallogocentrism" (<i>Simians,
+Cyborgs, and Women</i> 176).
+</p>
+</div>
+</div>
+
+<div id="outline-container-org85784bb" class="outline-4">
+<h4 id="org85784bb"><span class="section-number-4">1.3.5</span> <span class="todo TODO">TODO</span> add Barad on replication / representationalism</h4>
+<div class="outline-text-4" id="text-1-3-5">
+<p>
+Barad on representationalism. 
+</p>
+
+<p>
+Joan Scott: the way that literary critics approach vision vs other
+fields
+</p>
+
+<p>
+Scott, Joan. “The Evidence of Experience”:
+</p>
+<ul class="org-ul">
+<li>Using experience for evidence rather than thinking about how
+experience is shaped. Scott talks about representation, about
+looking at experience, at the vision, the optical effects, for what
+they suggest. The beautiful reading of Samuel Delany’s vision of the
+“millions of gay men” the fantastical projection (rather than real
+identity) that suggests a political consciousness. Historiography is
+about modes of seeing.</li>
+<li>Experience is always mediated for literary critics. We never take a</li>
+</ul>
+<p>
+text as referential&#x2014;there is rhetoric and form.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org96193c3" class="outline-4">
+<h4 id="org96193c3"><span class="section-number-4">1.3.6</span> <span class="todo TODO">TODO</span> revise paranoia and recovery, hartman on limits of language</h4>
+<div class="outline-text-4" id="text-1-3-6">
+<p>
+Not only does paranoid inquiry tend to replicate the assumptions of
+the observer, but it blocks out other forms of knowledge. This is
+especially evident in the work of historical recovery, in the impulse
+to find "hidden" or "forgotten" meaning in textual and archival
+material. Recovery works by a self-legitimizing and perpetuating logic
+that attempts to render what has been left out, disregarded, or
+misunderstood within the logic of dominance. It is Jacques Derrida's
+<i>archive fever</i>, or the desire for legibility, under the auspices of
+the ruler, which animates the endless search for origins. It is, in
+Haraway's words, a search for the "one code that translates all
+meaning perfectly, the central dogma of phallogocentrism" (<i>Simians,
+Cyborgs, and Women</i> 176).
+</p>
+
+<p>
+The stakes of recovery work are uniquely stark in the history of the
+Black Atlantic, where researchers must work to square the growth of an
+inhuman practice within a historical narrative of progress and
+liberalization. A tradition that rationalizes slavery with the right
+to property, that justifies war through the social contract. Black
+Atlantic scholars Lisa Lowe and Saidiya Hartman point out that the
+central paradox of studying the archive of slavery is the structuring
+condition of recovery. In her essay "History Hesitant," Lowe explains
+that because recovery work necessarily occurs within the limits of the
+authorizing power, it always subjects itself to that power. Rather
+that work under these conditions, historians of enslaved experience
+ought to examine this confining structure, "the archeology of
+knowledge through which the archive subjects and governs precisely by
+means of instruments that absent the humanity of the enslaved”
+(87). Researchers might examine, for example, how "the slave trader’s
+desire to record, measure, list, and account" weigh up against
+"rationalist claims to produce truth or meaning about the terrors of
+captivity, enslavement, or torture" (88). Saidiya Hartman similarly
+turns to the question of epistemology as the crux of the recovery
+work: “If it is no longer sufficient to expose the scandal, then how
+might it be possible to generate a different set of descriptions from
+this archive?" (7).
+</p>
+
+<p>
+Oftentimes, new tools can obscure the ways that we replicate our own
+assumptions. The advent of photography in the mid-nineteenth century
+allowed subjects to codify their prejudices as science, for example,
+in the pictures of American slaves taken by Louis Agassiz
+in 1850. These daguerrotypes, a pioneering practice in photography
+that uses light-sensitive chemicals on silver plates, show how the
+impulse for scientific classification impacts the quality and kind of
+knowledge that results. Agassiz, a Swiss anthropologist, came to the
+United States to study the physical differences between European
+whites and African blacks, by examining the shape and character of
+their heads and torsos, similar to contemporary studies in physionomy
+and phrenology that analyzed the exterior form of the human
+body. Agassiz's goal was to amass evidence to support his theory, that
+mankind had been separately created and whites and blacks were in fact
+different species (Wallis 40). Using photography for anthropoligical
+purposes, and organizing photographs to support a classification
+system, Agassiz's work demonstrates how the apparent "objectivity" of
+the photograph can mask the highly subjective motives for
+classification. Writing about the photographs, which were exhibited by
+the Amon Carter Museum in 1992, Brian Wallis explains that such images
+were organized to suggest divisions between "self and other, healthy
+and diseased, normal and pathological," with the insidious effect of
+"mask[ing] its subjective distortions in the guise of logic and
+organization" (Wallis 47, 54-55). The problem, Wallis points out, is
+the realism of the photographic tool obscures the ways that subjects
+harness it to solidify their preconceptions&#x2014;"Strengthened by the
+seeming transparency of photographic realism, these categories and the
+divisions between them soon took on the authority of natural 'facts.'
+Supplying either too much or too little information, photographs soon
+muddied the easy distinctions between subjective knowledge and what
+was called "objective." (47-48). The more seeminly transparent the
+tool, the easier it is to wrangle it toward proving "self-evident"
+truths.
+</p>
+
+<p>
+In this case, the apparent fidelity of the photographic tool to record
+"nature" in fact obscures the ways that using the tool only reinforces
+a preconceived notion of "nature." Wallis explains that, "Supplying
+either too much or too little information, photographs soon muddied
+the easy distinctions between subjective knowledge and what was called
+'objective' (48). The photographs reinforce the ways that scientific
+tools, which appear to capture "reality," can be harnessed and
+manipulated toward the observer's purpose.
+</p>
+
+<p>
+Hartman's central problem is what to do with an absent archive. She
+leaves us the paradox of recovery work: "How does one revisit the
+scene of subjection without replicating the grammar of violence?"
+(4). Hartman writes caustically about the impossibility of telling
+stories that have been left out of the record. Not only that we can
+never recover these stories (they are lost to time) but we can not
+approximate them with our current tools, with language. In "Venus in
+Two Acts," Hartman tells the story of Black Venus, the unnamed slave
+woman who appears variously throughout the "offical" record:
+</p>
+
+<blockquote>
+<p>
+we could have as easily encountered her in a ship’s ledger in the
+tally of debits; or in an overseer’s journal—&#x2013;“last night I laid with
+Dido on the ground”; or as an amorous bed-fellow with a purse so
+elastic “that it will contain the largest thing any gentleman can
+present her with” in Harris’s List of Covent- Garden Ladies; or as the
+paramour in the narrative of a mercenary soldier in Surinam; or as a
+brothel owner in a traveler’s account of the prostitutes of Barbados;
+or as a minor character in a nineteenth-century pornographic novel. 1
+</p>
+</blockquote>
+
+<p>
+[TODO a better close reading of the above block quote, what are the
+figures here?]  
+</p>
+
+<p>
+What draws all these iterations of Venus together is their silence,
+"no one remembered her name or recorded the things she said, or
+observed that she refused to say anything at all" (2). The fact of
+silence cuts deeper than the failure of history but is part of the
+condition known as the "violence of the archive," which denotes not
+only absence as a form of evidence, in that the physical records are
+missing, but also in the tools of expression, in language that cannot
+approximate the reality of experience, and in the audible discourse
+that dictates silence.
+</p>
+
+<p>
+[end this section with a meditation on language not being enough. Now
+I should then turn to the question of embodiment. The body will show
+the way.]
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2d72194" class="outline-4">
+<h4 id="org2d72194"><span class="section-number-4">1.3.7</span> <span class="todo TODO">TODO</span> cut/revise post-critical reading: sedgwick &amp; felski</h4>
+<div class="outline-text-4" id="text-1-3-7">
+<p>
+Just as we are limited by language, cannot approximate, we are also
+stuck within the bodies of our thinking: emotion is inescapable in
+criticism, whether it is suspicious or not. We are attached to what we
+write about.
+</p>
+
+<p>
+Let's approach this attachment as an opportunity. The fact that we
+cannot be objective opens a window. 
+</p>
+</div>
+
+<ol class="org-ol">
+<li><a id="orgcfdb33b"></a>Felski on the illusion of emotional detachment:<br />
+<div class="outline-text-5" id="text-1-3-7-1">
+<p>
+The reality is that we are stuck in these bodies of our thinking. Rita
+Felski describes how seemingly neutral and detatched critical stance
+belies an emotional disposition:
+</p>
+
+<blockquote>
+<p>
+Scholars like to think that their claims stand or fall on the merits
+of their reasoning and the irresistible weight of their evidence, yet
+they also adopt a low-key affective tone that can bolster or
+drastically diminish their allure. Critical detachment, in this light,
+is not an absence of mood but one manifestation of it&#x2014;a certain
+orientation toward one's subject, a way of making one's argument
+matter. 6
+</p>
+</blockquote>
+
+<p>
+The "low-key affective tone" of scholarly discourse suggests that
+affect, and the feeling subject associated with it, has been left out
+of the critical process. However, appealing to the apparently
+unemotional does not succeed in removing emotion from argument&#x2014;this
+is impossible&#x2014;but it does reinforce the illusion that emotions don't
+belong in rational thought. Actually they do&#x2014;though the emotions of
+critical discourse are of a quality and degree that mask their own
+presence. Felski explains that, “Rather than an ascetic exercise in
+demystification, suspicious reading turns out to be a style of thought
+infused with a range of passions and pleasures, intense engagements
+and eager commitments” (9). One follows the exposition of the framing
+paradigms, the twists and turns of the driving question, the climax of
+of discovery followed by the of denouement of the conclusion, one
+immediately senses the full dramatic repertoire of critical
+inquiry. 
+</p>
+</div>
+</li>
+
+<li><a id="org3fd4895"></a>Felski &amp; Sedgwick affective approaches<br />
+<div class="outline-text-5" id="text-1-3-7-2">
+<p>
+Critics like Rita Felski and Eve Sedgwick adopt an alternative
+approach toward reading that exposes knowledge as derived from
+embodied experience. Felski talks about reading as an affective
+orientation, where readers position themselves and their desires
+around texts. Felski critiques the popular orientation in literary
+criticism centered on what Paul Riceour has called the “hermeneutics
+of suspicion”&#x2014;the desire to unmask and demystify the secrets of
+literary works. According to Felski, critics generally behave as if
+language is always withholding some truth, that the critic’s task is
+to reveal the unsaid or repressed. She identifies the affective modes
+of suspicion to include disenchantment, vigilance, paranoia. 
+</p>
+
+<p>
+Sedgwick makes a similar assertion about tendencies of "paranoid
+reading," though she bases her critique on Michele Foucault's
+repressive hypothesis from his <i>History of Sexuality, Vol. 1</i>, which
+approaches discussions on sex and sexuality through the lense of
+repression or prohibition. Rather than excavating the workings of the
+repressive hypothesis, Foucault is interested in the ways that
+discourse on sex has proliferated, in its multiplications that avoid
+censure while satisfying the desire for sexual discourse. Left with no
+place to go, discussion on sex simply continued to spread by
+transforming itself into palatable discourses such as Marxism,
+pyschoanalytic, libertarian, etc. By looking for the specter of
+sex/power dynamics in these discourses, Foucault seems to work outside
+the logic of the repressive hypothesis. But this is not the
+case. Sedgwick explains that, "the almost delirious promise of the
+book" is "the suggestion that there might be ways of thinking around
+[the repressive hypothesis]" (9). In fact, Sedgwick explains that
+Foucault's inquiry has been, from the start, structured by repression
+and prohibition. She finds that the "critical analysis of repression
+is itself inseparable from repression" (10). 
+</p>
+
+<p>
+Felski and Sedgwick see a dead end in militant reading practices. 
+</p>
+
+<p>
+Felski's nightmare: 
+Sedgwick's wish: 
+</p>
+
+<p>
+"How do we step outside the repressive hypothesis "to forms of thought
+that would not be structured by the question of prohibition in the
+first place?" (<i>Touching Feeling</i> 11).
+</p>
+
+<p>
+Speaking on Foucault's repressive hypothesis: "I knew what I wanted
+from it: some ways of understanding human desire that might be quite
+to the side of prohibition and repression, that might hence be
+structured quite differently from the heroic, 'liberatory',
+inescapably dualistic righteousness of hunting down and attacking
+prohibition/repression in all its chameleonic guises" (<i>Touching
+Feeling</i> 10).
+</p>
+
+<p>
+Felski shows how this suspicion toward texts forecloses other possible
+readings while providing no guarantee of rigorous or radical
+thought. Rather than adopt a suspicious attitude, Felski suggests that
+literary scholars try “postcritical reading," which looks to what the
+text suggests or makes possible. Felski wonders what if we allowed
+ourselves to be marked or struck by what we read. Then, rather than
+just be a cognitive activity, reading can become an “embodied mode of
+attentiveness that involves us in acts of sensing, perceiving,
+feeling, registering, and engaging” (176).
+</p>
+
+<p>
+Reading is about movement 
+</p>
+
+
+<p>
+Postcritical Reading &#x2014; "Reading, in this light, is a matter of
+attaching, collating, negotiating, assembling—of forging links between
+things that were previously unconnected”… “Reading, in this sense, is
+not just a cognitive activity but an embodied mode of attentiveness
+that involves us in acts of sensing, perceiving, feeling, registering,
+and engaging” (Felski 176).
+</p>
+</div>
+</li>
+
+<li><a id="orgfaf75c6"></a>Sedgwick on generative shame<br />
+<div class="outline-text-5" id="text-1-3-7-3">
+<p>
+What if we read Henry James mobilizing shame as a creative resource?
+  For many queer people, shame is a structuring force in their
+  identity. But this doesn’t mean we need to be negative, we can look
+  to the ways that shame unlocks creativity and productivity&#x2014;to the
+  ways that metaphors are made possible through shame. James’
+  “blushing”, “flushing” is linked to a fantasy of the skin being
+  entered, or touched by a hand. GLOVE, GAGE, GAGEURE…  We can reclaim
+  a negative affect of shame and approach it as a generative force.
+</p>
+<ul class="org-ul">
+<li>"Shame interests me politically, then, because it generates and
+legitimates the place of identity&#x2013;the question of identity&#x2013;at the
+origin of the impulse to the performative, but does so without
+giving that identity space the standing of an essence. It
+constitutes the as-to-be-constituted, which is also to say, as
+already there for the (necessary, productive) misconstrual and
+misrecognition. Shame&#x2013;living, as it does, on and in the face&#x2013;seems
+to be uniquely contagious from one person to another. And the
+contagiousness of shame is only facilitated by its anamorphic,
+protean susceptibility to new expressive grammars" (63).</li>
+</ul>
+</div>
+</li>
+</ol>
+</div>
+
+<div id="outline-container-org650ab09" class="outline-4">
+<h4 id="org650ab09"><span class="section-number-4">1.3.8</span> <span class="todo TODO">TODO</span> revise hesitation, critical distance is necessary: Lowe</h4>
+<div class="outline-text-4" id="text-1-3-8">
+<p>
+-&gt; To avoid paranoid methods we develop a critical distance, we turn to
+the ways that "touch" can be distanced. 
+</p>
+
+<p>
+Within the dominant culture, recovery means authorizing the structures
+of knowledge that give rise to injustice in the first place. So what
+do we do now? There are affects associated with this kind of
+impasse. We hold ourselves back, restraint, avoidance. Lowe explains
+that
+</p>
+
+<blockquote>
+<p>
+Hesitation, rather than rushing to recover what has been
+lost, need not be understood as inaction or postponement, or as a
+thwarting of the wish to provide for a future world. Rather, it halts
+the desire for recognition by the present social order and staves off
+the compulsion to make visible within current epistemological
+orthodoxy. 98
+</p>
+</blockquote>
+
+<p>
+Feelings of hesitation, doubt, dissapointment are ways of protecting
+the archive of slavery from further exploitation.
+</p>
+
+<p>
+To sum up: one solution to paranoid impulses involves is critical
+awareness, the ability to access the affects that come between you and
+the object of study. 
+</p>
+
+<p>
+The archivist must work within the discrepancy between reality and the
+historical record. Hartman's goal is "to expose and exploit the
+incommensurability between the experience of the enslaved and the
+fictions of history&#x2026; the requirements of narrative, the stuff of
+subjects and plots and ends" (10).
+</p>
+</div>
+</div>
+<div id="outline-container-org46ad1f0" class="outline-4">
+<h4 id="org46ad1f0"><span class="section-number-4">1.3.9</span> <span class="todo TODO">TODO</span> refine <i>feeling backward</i> as touching at a distance</h4>
+<div class="outline-text-4" id="text-1-3-9">
+<p>
+&#x2013;&gt; Love offers a model of "feeling backward" which is a way for critics
+to connect with queer subjects in a way that keeps objects out of the
+critic's reach. 
+</p>
+
+<p>
+Heather Love offers a reading strategy that acknowledges queer
+experience, particularly suffering, as unconsoleable. In resisting the
+temptations to redeem psychic suffering by queer subjects, Heather
+Love offers a strategy called "feeling-backward." This strategy opens
+a space for bad feelings without trying to recuscitate, justify, or
+transform them. She focuses on feelings such as "nostalgia, regret,
+shame, despair, <i>ressentiment</i>, passivity escapism, self-hatred,
+withdrawal, bitterness, defeatism, and loneliness," which, according
+to Love, are tied to "the historical impossibility of same-sex desire"
+(4, emphasis original). She examines the burdened protagonists from
+famous modernist texts like Walter Pater's <i>The Renaissance: Studies
+in Art and Poetry</i> (1873), Radclyffe Hall's <i>The Well of Loneliness</i>
+(1928), Willa Cather's <i>My Ántonia</i> (1918), and Sylvia Townsend
+Warner's <i>Summer Will Show</i> (1936). Love argues that the shame and
+stigma experienced by these characters ought to be recognized rather
+than resolved. Instead of turning negative histories into sites of
+resistance or affirmation, these hurting characters might have full
+reign over their own darkness. And this darkness must be where the
+critic will meet them.
+</p>
+
+<p>
+Love proposes a method in which the goal is not to redeem queer
+subjects or resolve queer failure. Rather, the problem of
+identification is turned to a reading strategy: "I want to suggest a
+mode of historiography that recognizes the inevitability of a 'play of
+recogniztions,' but that also sees these recognitions not as consoling
+but as shattering" (45). Reading, for Love, can enact a "play of
+recognitions," which is a way of making fleeting connections that do
+not presume complete understanding. It is a way of identifying, but
+not fully. Full identification would attempt to wrench the subject
+from its suffering, and effectively transform it into something
+else. Rather that attempt to rescusitate it, Love looks to the ways
+that identity unsettles and dissolves subjectivity. She gives the
+example of Stephen Gordon from Radclyffe Hall's <i>The Well of
+Loneliness</i>. Once considered too depressing as a model of lesbianism,
+recent critics have cast Stephen Gordon as a transgender figure. Love
+resists this label, maintaining that Stephen is “beyond the reach of
+such redemptive narratives” (119). The question, for Love, is not
+whether Stephen is a pre-op FTM (Female-to-Male), but how Stephen’s
+existential negativity can be read as an embodied phenonmenon, as “a
+social experience insistently internalized and corporeal” (108).
+</p>
+</div>
+
+
+
+<ol class="org-ol">
+<li><a id="org850c32d"></a><span class="todo TODO">TODO</span> organize queerness irrecoverable, but temptin g ID: Love<br />
+<div class="outline-text-5" id="text-1-3-9-1">
+<p>
+The more hopeless and resistant queer subjects make for more tempting
+identifications. Love explains how these subjects remain beyond the
+reader's grasp: "As queer readers we tend to see ourselves as reaching
+back toward isolated figures in the queer past in order to rescue or
+save them. It is hard to know what to do with texts that resist our
+advances" (8). The reason that these subjects remain so unreachable
+has to do with the nature of queerness itself, which represents
+absence, loss, and failure. Love illustrates this quality by evoking a
+Greek myth, Orpheus and Eurydice, in which the lover botches his
+beloved's rescue by looking back at her as they exit the
+underworld. Love quotes from Maurice Blanchot's account of the story
+in "The Gaze of Orpheus," to describe what Orpheus searches for in the
+prohibited and doomed glance backward:
+</p>
+
+<blockquote>
+<p>
+Not to look would be infidelity to the measureless, imprudent force
+of his movement, which does not want Eurydice in her daytime truth and
+in her everyday appeal, but wants her in her nocturnal obscurity, in
+her distance, with her closed body and sealed face&#x2014;wants to see her
+not when she is visible, but when she is invisible, and not as the
+intimacy of familiar life, but as the foreignness of what excludes all
+intimacy, and wants, not to make her live, but to have living in her
+the plenditude of death. 50
+</p>
+</blockquote>
+
+<p>
+Orpheus's downfall is his desire for a glimpse at what cannot be
+grapsed, at what remains beyond the light. This desire is not for
+"daytime truth" but for "noctural obscurity," which is always receding
+at the moment of pursuit. Like Eurydice, queerness emerges only to
+slip away, turning its face from the parched gaze. Can we be blamed
+for looking for that which cannot be grasped? No, because queerness
+has always been structured by that which is not, by what Love calls
+"impossible love" (24). Not only is queerness projected to fail, it is
+a project of failure. Love reminds us that "Queer history has been an
+education in absence" (50). In learning failure and loss, queer
+readers can only identify with what they have been taught to recognize
+as untouchable. Full identification, like Eurydice in the daylight, is
+prevented by design.
+</p>
+</div>
+</li>
+
+<li><a id="org187c19f"></a><span class="todo TODO">TODO</span> organize the untouchable Queer, Butler &amp; Cvetkovitch<br />
+<div class="outline-text-5" id="text-1-3-9-2">
+<p>
+[here begin to write about Cvetkovitch on Stone Butch Blues, and/or
+Butler on touching?]
+</p>
+</div>
+</li>
+</ol>
+</div>
+</div>
+
+
+<div id="outline-container-org4baf8b1" class="outline-3">
+<h3 id="org4baf8b1"><span class="section-number-3">1.4</span> III: solutions: abstraction, formalization, opacity</h3>
+<div class="outline-text-3" id="text-1-4">
+</div>
+<ol class="org-ol">
+<li><a id="org4744587"></a><span class="todo TODO">TODO</span> add Munoz's point on the ecstatic, rounding out the point<br />
+<div class="outline-text-5" id="text-1-4-0-1">
+<p>
+from the previous section on queerness as being "not yet here" 
+</p>
+</div>
+</li>
+</ol>
+<div id="outline-container-orgb28860c" class="outline-4">
+<h4 id="orgb28860c"><span class="section-number-4">1.4.1</span> <span class="todo TODO">TODO</span> refine reparative reading is active</h4>
+<div class="outline-text-4" id="text-1-4-1">
+<p>
+We might explore, with Sedgwick, "forms of thought that would not be
+structured by the question of prohibition" (11). Sedgwick points that
+that critical inquiry might work within a <i>reparative</i> methodology,
+which opens room for interpretive possibilities and attention to
+positive affects like love, gratitude, and affection. This method
+welcomes surprise of discovery over affirmation. It prioritizes "local
+theories and nonce taxonomies" over totalizing perspectives (145). We
+might approach criticism as having to do with <i>movement</i> rather than
+<i>knowledge</i>:
+</p>
+
+<blockquote>
+<p>
+[M]oving from the rather fixated question Is a particular piece of
+knowledge true, and how can we know? to further questions: What does
+knowledge <i>do</i>&#x2014;the pursuit of it, the having and exposing of it, the
+receiving again of knowledge of what one already knows? How, in short,
+is knowledge <i>performative</i>, and how best does one move among its
+causes and effects?" (my italics, 124)
+</p>
+</blockquote>
+
+<p>
+This reorienation of knowledge as <i>active</i>, as performative, opens up
+the critical process to one that is mobile and and speculative rather
+than suspicious. Moreover, it draws attention to the ways that
+knowledge is embodied, with all the surprises and discoveries that
+embodiment entails. 
+</p>
+</div>
+</div>
+<div id="outline-container-org7e8ad6e" class="outline-4">
+<h4 id="org7e8ad6e"><span class="section-number-4">1.4.2</span> <span class="todo TODO">TODO</span> cut Waves on movement</h4>
+<div class="outline-text-4" id="text-1-4-2">
+<p>
+The narration works as a seduction by piquing the reader's interest in
+the story, propelling her through hyperlinks across the various nodes,
+and repeatedly frustrating her desire for closure or resolution.
+</p>
+
+
+<p>
+The reader’s experience of frustration and desire in navigating
+through the story mirrors the themes of sexual frustration and desire
+within the story. The electronic format of the story is what allows
+this theme to surface, for me. As I follow this disorienting
+narrative, I similarly enter into cycles of desire and
+frustration. This affective reaction is only possible through a
+displacement&#x2014;a formal displacement that uses electronic media to
+re-organize, re-structure and display the story in the way we
+encounter it.
+</p>
+
+<p>
+Larry McCaffery, the fiction judge who awarded Fisher the ELO prize,
+praises the hyperfiction’s use of fragmentation to present anecdotes,
+bits of story and meditations in a way that liberates the story’s
+potential: "Fisher creates an interconnected web of branching,
+narrative possibilities" (“Comments”). Rather than feel paralyzed by
+the variety of options, McCafferty regards such options as liberating
+the traditionally pre-determined text into something more malleable,
+and therefore, more relatable, to the reader. Jessica Laccetti also
+lauds Waves’ indeterminate reading experience, saying that it cannot
+have defined beginnings, section divisions, or endings. Each time the
+reader sits down and opens this hypertext, it is different; depending
+on the chosen order of node, the reader will derive new meaning from
+that reading. She argues that, “as the narrative sequencing changes,
+so does our understanding of reading” (180). By constantly rearranging
+the order of its nodes, hyperfictions like Waves creates new, unique
+narratives, “enabl[ing] numerous possibilities for beginnings and,
+therefore, sequentialities” (Laccetti 180).
+</p>
+
+<p>
+Roland Barthes offers a theory about the reader’s affective response
+to the text that illuminates how hypertext may use linking as a
+narrative strategy to engage, rather than dissuade, the reader. In The
+Pleasure of the Text, Barthes describes two ways that texts provoke
+reactions by appealing to the reader’s “readerly” or “writerly”
+faculties. The text may stimulate pleasure or bliss in the reader
+depending on the degree to which its language disrupts his reading
+experience. On the one hand, the text of pleasure, or the “readerly”
+text, is “the text that contents, fills, grants euphoria; the text
+that comes from culture and does not break with it, is linked to a
+comfortable practice of reading” (all italics original; 14).  The text
+of bliss, the “writerly” text, on the other hand, is one “that imposes
+a state of loss, the text that discomforts (perhaps to the point of a
+certain boredom), unsettles the reader’s historical, cultural,
+psychological assumptions, the consistency of his tastes, values,
+memories, brings to a crisis his relation with language” (14). The
+important difference here is the extent to which the text stimulates
+affects that actively push the reader away or disrupt his reading. The
+text of pleasure operates according to the principles of narrative
+suspense that drive traditional stories, like cause and effect, while
+the text of bliss negates these principles: “what pleasure wants is
+the site of loss, the seam, the cut, the deflation, the dissolve which
+seizes the subject in the midst of bliss” (Barthes 7). In other words,
+the text of bliss is an interruption of the comfortable reading
+experience that emphasizes the reader’s position as a
+subject. According to Barthes, the text of bliss is a positive
+experience for the reader insofar as he enjoys this interruption: “the
+subject gains access to bliss by the cohabitation of languages working
+side by side: the text… is a sanctioned babel” (4). Barthes
+description here applies nicely to the structure of hypertext fiction,
+in which different texts are embedded quite literally side by side in
+the form of hyperlinks: insofar as the reader “sanctions” these texts,
+he will experience them as texts of bliss.
+</p>
+
+<p>
+ From its table of contents, the novella foregrounds the reader’s
+agency in navigating through its fragmentary structure, where the
+reader encounters a navigation page that lists eight main sections, or
+chapters, of the narrative. These sections are named “kissing girls,”
+“school tales,” “I want her,” “city,” “country,” “she was warned,”
+“dare,” and “her collections.” When the reader pans over each chapter
+title, a textual blurb appears containing an excerpt from that
+chapter, which often draw from a sexual episode that stimulate
+reader's interest in that chapter, enticing her onward. For example,
+the excerpt for “I want her” presents an erotic moment between the
+narrator and one of her lovers, Jennie.:
+</p>
+
+<blockquote>
+<p>
+I’m in bed with Jennie Winchester and I realize she want me to undo
+her pants. She needs to be home by 11:00 and needs to leave my place
+by 10:45. I’m kissing her but opening my eyes at intervals to catch
+the clock. At exactly 10:43 I unbutton her Levis and shove my hand
+inside, barely undoing the zipper. “I’m in bed&#x2026;”
+</p>
+</blockquote>
+
+<p>
+The narrator severs the excerpt at a moment of climax, tempting the
+reader to click through to the next node. Another section heading,
+“dare,” displays a similar strategy: “Fay Devlin and I are playing
+spin the bottle. She spins, but she trembles. By the time we get to
+Truth or Dare, I have my lips on her nipple and I’ve made her do the
+asking” (“These Waves of Girls…”). These excerpts establish the
+reader’s agency and the novel’s fragmentary structure from the outset
+of the novella. Because the chapters are unnumbered, the reader must
+determine how to proceed through the sections of the novella by making
+decisions about which to read first. These previews function to entice
+the reader to click through to read the rest of that section. And
+while the table of contents hints at the existence of an underlying
+structure to the narrative, that structure also reveals itself to be
+founded on fragments. In this way, the reader’s first encounter with
+the text portends that she may never get the whole story, yet
+encourages her onward.
+</p>
+
+<p>
+In fact, as this semblance of narrative organization all but
+disappears beyond the table of contents, it becomes increasingly clear
+that the reader fully controls the order of nodes. After progressing
+from the navigation page, the reader’s options multiply exponentially,
+and these options compete for the reader’s selection. In order to
+proceed through the text, the reader is forced to decide from the
+abundance of choices. On this particular node, reached from the “I
+want her” chapter title on the table of contents, hyperlinks run up
+and down the left side of the screen and populate the main
+text. Clicking through the first link in the main text, “Jennie,” the
+reader reaches a node with nine links. Again, how does she choose to
+proceed among these links? According to Barthes, the text of bliss
+wants to be read: “the text you write must prove to me that it desires
+me” (6). In deciding between the links that vie for her attention, the
+reader may follow her own impulsivity (she may simply click on the
+first link she sees, as she did on the previous page) or her interest
+in the word being linked. The node tells a story about Jennie and
+Tracey engaging in adolescent sexual exploits at summer camp. The
+links on this page include “been to that campground,” “It's grade 10,”
+“in my head I imagine a desperate love triangle,” “her hand under my
+shirt,” “the s l o w movements of Jennie's fingers,” “a dyke &#x2013; I know
+it &#x2013; but she won't do anything about it &#x2013; can't &#x2013; frozen,” “Close
+the lights,” “We try not to move too much, too loudly,” and “attended
+camp” (“Jennie only attended…”). At every node, the text proves again
+and again that it desires her. The reader may decide to read through
+this page, or read only a portion of the page, and interrupt her
+progress to click on a link. Or the reader may forgo reading this page
+altogether, and follow another link to a wholly new page. Either way,
+she makes a decision in order to proceed, and her decision determines
+the order of each node’s appearance. The text of bliss wants to be
+read, and the reader must decide how. By assembling the node into a
+specific order, the reader organizes the text of bliss according to
+the unique path that she chooses.
+</p>
+
+
+<p>
+Amin, Kadji, Amber Jamilla Musser, and Roy Pérez “Queer Form:
+Aesthetics, Race, and the Violences of the Social” ASAP/Journal,
+Volume 2, Number 2, May 2017, pp. 227-239: “Form informs queerness,
+and queerness is best understood as a series of relations to form,
+relations not limited to binary and adversarial models of resistance
+and opposition” (228).
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcf3a4d0" class="outline-4">
+<h4 id="orgcf3a4d0"><span class="section-number-4">1.4.3</span> <span class="todo TODO">TODO</span> draft QPOC on opacity, recuperating absence</h4>
+<div class="outline-text-4" id="text-1-4-3">
+<p>
+"The critical challenge is to imagine a practice of archival reading
+that incites relationships between the seductions of recovery and the
+occlusions such retrieval mandates. By this I mean to say: What if the
+recuperative gesture return us to a space of absence? How then does
+one restore absence to itself? Put simply, can an empty archive also
+be full?" (1). 
+</p>
+
+<p>
+Hartmen's "critical fabulation"
+</p>
+
+<p>
+The archivist must work within the discrepancy between reality and the
+historical record. Hartman's goal is "to expose and exploit the
+incommensurability between the experience of the enslaved and the
+fictions of history&#x2026; the requirements of narrative, the stuff of
+subjects and plots and ends" ("Venus" 10).
+</p>
+<ul class="org-ul">
+<li>"This double gesture can be described as straining against the
+limits of the archive to write a cultural history of the captive,
+and, at the same time, enacting the impossibility of representing
+the lives of the captives precisely through the process of
+narration" ("Venus" 11).</li>
+</ul>
+
+<p>
+Amber Musser's surface aesthetics: POC theorists have shown us how
+subjectivity is never quite attainable.
+</p>
+
+<p>
+Amber Musser's "surface aesthetics": Reading the "surface" to present
+a self that is plural and opaque, inaccessible and excessive.
+</p>
+<ul class="org-ul">
+<li>Writing on photographs of Billy Holiday. How these show a
+"surfacea esthetics" that "highlights the mutability of the flesh
+rather than interiority" (par. 11).</li>
+<li>"we can understand surface as the underside of the
+scientific/pornographic drive toward locating knowledge in an
+“objective” image" (par. 2)</li>
+</ul>
+
+<p>
+An image of Billy Holiday "shows us surface aesthetics in its emphasis
+on shine" (par. 1).
+</p>
+<ul class="org-ul">
+<li>"many of the elements that shine—&#x2013;pearls, eye shadow, and
+lipstick&#x2013;—decorate or cover Harris’s body. They alter its surface and
+also make a spectacle of these superficial alterations. Taken
+together these attributes emphasize the ways that surface hints at
+the pleasures of opacity" (par. 2)</li>
+<li>"Shine also complicates matters because of the way that it is
+imbricated in representations of blackness&#x2026;Shine distracts from
+the mandate of transparency and mobilizes hypervisibility—-the
+cover of surface—-so that interiorities remain opaque&#x2026; so that
+blackness is spectacular, but not knowable" (par. 3).</li>
+<li>"these versions of self-portraiture go beyond mere representation
+and mark <b>creative forms of expressivity that reveal forms of self
+that exceed capture</b>&#x2026;The force of Billie #21, then, emerges in
+our recognition that the photograph is explicitly not revealing
+Harris’s interiority, but that it instead illuminates the
+possibility of reading Harris as a plural self both in relation to
+Holiday through his performance of citation and in relation to the
+otherness of himself that he summons" (par. 6)</li>
+</ul>
+
+<p>
+Kazanjian, who works primarily with archival material, suggests that
+"we learn to read for scenes of speculation" rather than description
+(80).
+</p>
+<ul class="org-ul">
+<li>"All this suggests that the letter sounds its way toward making
+sense of what Liberia has proven to be, a sounding that draws, no
+doubt, on an oral and biblical literacy that was common among even
+the least formally educated black settlers. Read for such formal and
+textual elements, the letter offers us questions, asymmetries, and
+open ends; it provides no punctual emancipation or definitive
+return, but also no ultimate tragedy or decisive failure" (80).</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org734cc7b" class="outline-4">
+<h4 id="org734cc7b"><span class="section-number-4">1.4.4</span> <span class="todo TODO">TODO</span> add Confessions on opacity</h4>
+<div class="outline-text-4" id="text-1-4-4">
+<p>
+Missing pages &#x2014; the marbled page substitutes speculation for recovery which the corporation wants (to monetize the image of “abnormal” genitalia). But the narrator didn’t want to include it. The absence of the picture doesn’t point to a physical absence, but to the inability to articulate exactly what was there according to the structures of the time.
+</p>
+
+<p>
+This is like Klein's image of absence and Caughie's storm cloud, a refusal to engage with positivist impulse, but here it's taken to apply to alternative sexual identities. Some things, if already absent, are not meant to be “recovered”. They can just exist as an absence.
+</p>
+
+<p>
+There are stakes in here about archival work and knowledge and what can and cannot be said. There is a massive gap in our understanding of transbodies and sex and it cannot be articulated or understood so it simply comes across as absent. The missing page creates an economy of speculation.
+</p>
+
+<p>
+Relates to the inability of language to inform our understanding, because it becomes fixed&#x2014;Caughie’s Storm Cloud. Rather than fix or recover, this give the reader an opportunity for imagination.
+</p>
+
+<p>
+When they are trying to find a term for the way they are intimate: “I
+don’t give language to things that are beyond it” (93). Things that are beyond language&#x2026; Language is a limitation, a delimitation. It is a circumscription.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge29a1ce" class="outline-4">
+<h4 id="orge29a1ce"><span class="section-number-4">1.4.5</span> <span class="todo TODO">TODO</span> revise invisibility is good, allows queers avoid being seen</h4>
+<div class="outline-text-4" id="text-1-4-5">
+<p>
+As disidentified, queer subjects remain outside of the confines of the
+visible. To gain visibility within the dominant system only reproduces
+visibility within the terms of that system. This position has been
+articulated by critiques of feminism since the 70s and 80s, and later
+on, in critiques of LGBT+ equality movements. bell hooks explains that
+one of the main issues with the women's movement of the 70s and 80s
+was a lack of agreement about the goals of feminism. Feminists that
+advocate for "equality with men," miss the point of radical change
+altogether: "As long as&#x2026; any group defines liberation as gaining
+social equality with ruling class white men, they have a vested
+interest in the continued exploitation and oppression of others"
+(<i>Feminist Theory</i> 15). By prioritizing equal rights, such as access
+to employment, childcare, and social services, the women's movement
+asks to be included in the existing system that is already oppressing
+them. hooks is not saying that these aren't worthy or even necessary
+causes, but that the changes enacted by such measures will not be
+enough to raise the quality of life for oppressed and exploited
+peoples. This in particular is harmful for black women, who, as women
+of color, have the most to lose within the neoliberal ideology. hooks
+asserts that "Feminism is a struggle to end sexist
+oppression. Therefore, it is necessarily a struggle to eradicate the
+ideology of domination that permeates Western culture on various
+levels as well as a commitment to reorganizing society" (<i>Feminist
+Theory</i> 24). One of the major stakes in this chapter is to find ways
+of subverting, resisting, or opting out of hegemonic understandings of
+visibility as progress. This chapter will explore how being visible,
+accessible, <i>touchable</i> by the dominant power is being subjected to
+the terms of that power. At that point, it will be clear that
+queerness's status as untouchable works to enhance its political
+potential.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9d89368" class="outline-4">
+<h4 id="org9d89368"><span class="section-number-4">1.4.6</span> <span class="todo TODO">TODO</span> draft Toward a Queer Form</h4>
+<div class="outline-text-4" id="text-1-4-6">
+<p>
+Writing the self is connected to form. Always. The form is
+multiple. The form makes subjectivity opaque, but in the act of
+abstraction, making it opaque, we can touch it and play around with
+it. 
+</p>
+
+<p>
+Opacity as value (Amin, Musser)
+</p>
+
+<p>
+“For our purposes, queer form means challenging the primacy of the
+visual, which has too often been a site for pernicious power
+relations… At their base, such operations of surveillance and
+classification rely on the concept of immutable difference, on sharp
+boundaries, and on the possibility of exhaustively knowing the
+other…. We see queer form as an aesthetics that moves persistently
+around the visual, thereby avoiding this flattening. To the extent
+that form operates behind the scenes as ideological impulse and
+materiality, queer formal practices can resist the dictates of
+transparency normally required of non-normative subjects by
+illuminating the unseen. In this way it not only troubles the
+epistemic assurances of the visual regime, but it also asks how
+shifting away from static visuality can circumnavigate questions of
+objectification. A move toward the diffusely sensual, and away from
+the linearity of visual gazing, articulates difference in terms that
+are not about dominance or norms, but that underscore the importance
+of thinking with other modes of knowing, theorizing, and
+experiencing. Queer form is about other ways of understanding
+relationships to power and relationships to being” (Amin, Musser,
+Perez 232-3)
+</p>
+
+<p>
+Form understood as associated with queerness, queer experience, and as a way to disrupt easy understanding. Form can be queer and queer form can be opaque: 
+“Form informs queerness, and queerness is best understood as a series of relations to form, relations not limited to binary and adversarial models of resistance and opposition” (228).
+“Queer form” emerges… as a name for the range of formal, aesthetic, and sensuous strategies that make difference a little less knowable, visible, and digestible. This special issue makes a case for the value of indirection, opacity, and withholding as queer strategies for minoritarian art producers” (235).
+ “form focuses attention on how violence—homophobia, racism, gentrification, capitalism, and colonialism, for instance—has structured conditions of possibility in material and epistemological ways” (232).
+touch as an intersection for queerness and DH, both highly sensual
+in that they abstract from the source
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf0d9fac" class="outline-4">
+<h4 id="orgf0d9fac"><span class="section-number-4">1.4.7</span> <span class="todo TODO">TODO</span> draft Butler on movement/contact/touch</h4>
+</div>
+<div id="outline-container-org1cb6ce2" class="outline-4">
+<h4 id="org1cb6ce2"><span class="section-number-4">1.4.8</span> <span class="todo TODO">TODO</span> draft the dimensions of touch: anzaldua</h4>
+<div class="outline-text-4" id="text-1-4-8">
+<p>
+&#x2013;&gt; the challenge is to regain touch without resolving it&#x2013;overcoming
+impulse of subj/obj divides. how do we touch without presuming full
+connections? the answer is through abstraction, formalization,
+opacity&#x2026;
+</p>
+
+<p>
+Touch reconciles the inherent connection between bodies, something
+that heteronormativity tries to suppress. For things to not touch, to
+be severed or "objectified," moves them into a relation of
+violence. Gloria Anzaldua explains that separation is brutal: "In
+trying to become 'objective,' Western culture made 'objects' of things
+and people when it distanced itself from them, thereby losing 'touch'
+with them. This dichotomy is the root of all violence" (37). Losing
+touch is a prerequisite for exploitation. The sundering of "objects"
+from our touch primes us to take advantage of them. Colonial history
+is a case study in losing touch: "White America has only attended to
+the body of the earth in order to exploit it, never to succor it or to
+be nurtured in it" (68). Anzaldua's <i>mestiza</i>, birthed in the open
+wound of the border, "where the Third World grates against the first
+and bleeds," is an attempt to bring together what has been separated
+(3). Those who live on the border know better than anyone&#x2013;divisions
+between bodies puts those bodies into conflict.
+</p>
+
+<p>
+Touch offers myriad ways of relation. Eve Kosofsky Sedgwick offers
+touch as a way of connecting to objects that evades "dualistic
+thought," that is, in "binary" thought, where things are presumed to
+be discrete and opposed. 
+</p>
+
+<p>
+"But it is not enough to stand on the opposite river bank, shouting
+questions,. challenging patriarchal, white conventions.  A
+counterstance locks one into a duel of oppressor and oppressed; locked
+in mortal ,combat, like the cop and the criminal, both are reduced to
+a common denominator of violence&#x2026; At some point, on our way to a new
+consciousness, we will have to leave the opposite bank, the split
+between the two mortal combatants somehow healed so that we are on
+both shores at once and, at once, see through serpent and eagle eyes"
+(Anzaldúa 78-79 in old book).
+</p>
+
+<p>
+Confronting the incommensurable requires subjects to step temporarily
+into the place of the other, "that person or experience which makes it
+possible for the self to recognize its own limited horizons in the
+light of asymmetrically given relations marked by sexual, social,
+cultural, or other differences" (Schutte 54).
+</p>
+
+<p>
+This physical upheaval is the ground from which the mestiza builds
+identity: "The new mestiza copes by developing a tolerance for
+contradictions, a tolerance for ambiguity. She learns to be an Indian
+in Mexican culture, to be Mexican from an Anglo point of view. She
+learns to juggle cultures" (79).
+</p>
+
+<p>
+As Cherríe Moraga points out, "it is not really difference the
+oppressor fears so much as similarity" (La Guera, 30). Although the
+feeling of incommensurability is central to queer experience, it can
+be accessible to majority groups. Getting in touch with the <i>choque</i>,
+however, is a great challenge for minority subjects, and an even
+greater challenge for those of dominant cultures. For those who can
+avoid it, there is an aversion to confront the "stranger within."
+</p>
+
+<p>
+In short, for queer bodies, there is a dual impulse, a desire to touch
+and be touched that coexists with the inability for touch to satisfy,
+provide redemption, or avoid violation. Respecting the right not to be
+touched, some queer theorists pursue critical methods that prevent
+overidentification or overanalysis. They resist reading practices,
+which have been called "suspicious reading" or "paranoid
+reading"<sup><a id="fnr.16" class="footref" href="#fn.16">16</a></sup>, that seek to expose the effects of homophobic
+prohibition and repression with the goal of affirming queer subjects
+or recuperating their losses. Paranoid or suspicious reading is
+oriented around finding and exposing the pain and shame of the closet
+in order to turn them into sites of political resistance, liberation,
+or pride.
+</p>
+
+<p>
+This leads us to the main problem with touch: it goes both ways. What
+I touch also touches me; one body impressed by or in collision with
+another. Eve Kosofsky Sedgwick explains that "the sense of touch makes
+nonsense out of any dualistic understanding of agency and passivity;
+to touch is always already to reach out, to fondle, to heft, to tap,
+or to enfold" (13). Touch engages a range of relations where power is
+not always reduced to opposition. The sensation of touch often
+obscures this dual effect. Some bodies appear to desire touching
+rather than being touched; sometimes, the desire for touch does not
+seek contact, but the fullness of desiring.  it is bidirectional,
+reveals a subject/object divide.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd03bde8" class="outline-4">
+<h4 id="orgd03bde8"><span class="section-number-4">1.4.9</span> <span class="todo TODO">TODO</span> draft Frontera on vitality</h4>
+<div class="outline-text-4" id="text-1-4-9">
+<p>
+the book as living and structured
+</p>
+<blockquote>
+<p>
+In looking at this book that I’m almost finished writing, I see a
+mosaic pattern (Aztec-like) emerging, a weaving pattern, thin here,
+thick there. I see a preoccupation with the deep structure, the
+underlying structure, with the gesso underpainting that is red earth,
+black earth. I can see the deep structure, the scaffolding. If I can
+get the bone structure right, then putting flesh on it proceeds
+without too many hitches. The problem is that the bones often do not
+exist prior to the flesh, but are shaped after a vague and broad
+shadow of its form is discerned or uncovered during beginning, middle
+and final stages of the writing. Numerous overlays of paint, rough
+surfaces, smooth surfaces make me realize l am preoccupied with
+texture as well. Too, I see the barely contained color threatening to
+spill over the boundaries of the object it represents and into other
+"objects" and over the borders of the frame. I see a hybridization of
+metaphor, different species of ideas popping up here, popping up
+there, full of variations and seeming contradictions, though I believe
+in an ordered, structured universe where all phenomena are
+interrelated and imbued with spirit. This almost finished product
+seems an assemblage, a montage, a beaded work with several leitmotifs
+and with a central core, now appearing, now disappearing in a crazy
+dance. The whole thing has had a mind of its own, escaping me and
+insisting on putting together the pieces of its own puzzle with
+minimal direction hom my will. It is a rebellious, willful entity, a
+precocious girl-child forced to grow up too quickly, rough,
+unyielding, with pieces of feather sticking out here and there, fur,
+twigs, clay. My child, but not for much longer. This female being is
+angry, sad, joyful, is Coatlicue, dove, horse, serpent, cactus. Though
+it is a flawed thing&#x2014;a clumsy, complex, groping blind thing&#x2014;for me
+it is alive, infused with spirit. I talk to it; it talks to me. (66-67
+&amp; 88-89)
+</p>
+</blockquote>
+</div>
+</div>
+</div>
+
+
+
+
+<div id="outline-container-org11dfeee" class="outline-3">
+<h3 id="org11dfeee"><span class="section-number-3">1.5</span> Vantanges/Opacity</h3>
+<div class="outline-text-3" id="text-1-5">
+</div>
+<div id="outline-container-orgadcbcab" class="outline-4">
+<h4 id="orgadcbcab"><span class="section-number-4">1.5.1</span> Klein, Mandell, Caughie, Gaboury</h4>
+<div class="outline-text-4" id="text-1-5-1">
+<p>
+[Klein and D'Ignazio on the impossibility of neutral visualizations]
+And the illusion of reason as being devoid of emotion is not limited
+to verbal discourse. It also pervades&#x2013;perhaps even more
+insidiously&#x2014;the apparently objective reprsentations data
+visualization. Graphs, charts, and maps all contain persuasive
+elements that succeed through their invisibility, in the trust, for
+example, that the souces are truthfully represented in the
+visualization or the implied preference of some metrics over
+others. Lauren Klein and Catherine D'Ignazio point out that "so-called
+'neutral' visualizations that do not appear to have an editorial
+hand&#x2026; might even be the most perniciously persuasive visualizations
+of all!" (<i>Data Feminism</i>, chapter 2). Not dots on a graph can be said
+to be removed from the predelictions of the creator and the generosity
+of the viewer.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3579360" class="outline-4">
+<h4 id="org3579360"><span class="section-number-4">1.5.2</span> Interweave with Saidiya Hartmann?</h4>
+</div>
+<div id="outline-container-org9070d07" class="outline-4">
+<h4 id="org9070d07"><span class="section-number-4">1.5.3</span> Against totalization</h4>
+</div>
+<div id="outline-container-orgc6a0dc1" class="outline-4">
+<h4 id="orgc6a0dc1"><span class="section-number-4">1.5.4</span> The visible and the invisible, opting out</h4>
+</div>
+</div>
+
+
+
+
+
+<div id="outline-container-orgb335dab" class="outline-3">
+<h3 id="orgb335dab"><span class="section-number-3">1.6</span> MISC</h3>
+<div class="outline-text-3" id="text-1-6">
+</div>
+<ol class="org-ol">
+<li><a id="org9416640"></a>homonormativity: add supreme court decision<br />
+<div class="outline-text-5" id="text-1-6-0-1">
+<p>
+[Queerness is being wrenched within heteronormative agendas-&#x2014;IE the
+2020 surpreme court decision that protects queer desire bc it protects
+straight desire].
+</p>
+</div>
+</li>
+
+<li><a id="org160f3e2"></a>queerness as estrangment<br />
+<div class="outline-text-5" id="text-1-6-0-2">
+<p>
+Arondekar, A., Cvetkovich, A., Hanhardt, CB, Kunzel, R., Nyong’O, T.,
+Rodríguez, JM, &amp; Stryker, S. (2015). Queering archives: A roundtable
+discussion. Radical History Review, 2015(122),
+211-232. <a href="http://dx.doi.org/10.1215/01636545-2849630">http://dx.doi.org/10.1215/01636545-2849630</a> Retrieved from
+<a href="https://escholarship.org/uc/item/7z19h7rg">https://escholarship.org/uc/item/7z19h7rg</a>
+</p>
+
+<p>
+This roundtable discusses the "archival turn" in queer studies, and
+questions the methods, subjects, investments of queer archival
+studies. 
+</p>
+
+<p>
+Tavia Nyong'O: "I have never really deviated from the formative
+impression Foucault gave that what I should expect from the archive is
+the estrangement of myself and others, or that I could call that
+estrangement queer" (216). 
+</p>
+</div>
+</li>
+</ol>
+
+<div id="outline-container-org340b7fd" class="outline-4">
+<h4 id="org340b7fd"><span class="section-number-4">1.6.1</span> Altschuler and Weimar on reproducibility</h4>
+<div class="outline-text-4" id="text-1-6-1">
+<p>
+&#x2013;&gt; reproducing something perfectly overlooks the ways that all
+digital objects are unique, differentiated. Theory of textual
+criticism which shows how ther are more interesting things to do then
+create a digital "copy texte". 
+</p>
+
+<p>
+This notion extends to digital humanist practitioners. 
+</p>
+
+<p>
+they call to overturn the "unproblematic translatability of
+information between the senses" while maintaining that reproduction is
+the highest value. They argue to "texture the humanities", pointing
+out that much of DH prioritizes the visual over other senses &#x2013;
+"privilege sight as the sense through which knowledge is accessible"
+(74). Rightly so, they argue, “The textured DH we call for here
+acknowledges that we cannot study knowledge only abstractly, apart
+from the senses, and that we cannot study literature, art, and history
+without including the history of embodied experiences” (74-75).
+</p>
+<ul class="org-ul">
+<li>“Touch This Page! uses 3-D printed facsimiles of raised-letter text
+to inspire reflection on the assumptions most people make about
+which senses are involved in reading” (82).</li>
+</ul>
+
+<p>
+But they elide the one interesting trajectory when they place
+reproduction over remediation/deformance. They state their aims: “to
+expand the sensory accessibility of archives for all users and to do
+so through the digital reproduction&#x2014;rather than the translation&#x2014;of
+tactile knowledge” (76). Case example of the perfect reproduction:
+</p>
+<ul class="org-ul">
+<li>A scenario where “users&#x2026; can download a visual copy with</li>
+</ul>
+<p>
+descriptive data, engage with the text in virtual reality, and create
+their own textured facsimile. This technology once more makes possible
+the tactile reading experiences for which this volume was designed and
+promises library patrons a richer engagement with touch than most
+archives can currently provide&#x2014;even in person (85-86). 
+</p>
+
+<p>
+The use case scenario makes the assumption that a reproduction is the
+ideal form of textuality, despite their asserted aims for "diversity
+of embodied experiences":
+</p>
+<ul class="org-ul">
+<li>“we must avoid tilting after the fiction of some ideal digital
+surrogate&#x2014;like a virtual reality system that would flawlessly
+mimic original objects&#x2014;lest we become digital Pierre Menards,
+expending extensive energy to improve our reproductions to discover,
+at last, that only the original perfects represents itself… Instead,
+we envision in our tactile futures multiple strategies that could
+not only open up access to varied experiences&#x2014;past and
+present&#x2014;but also diversity the ways embodied experiences structure
+our digital worlds” (86).</li>
+<li>in order to open up “multiple strategies” and diversity embodied
+experiences, we need a theory of text that is capacious enough to
+accept variation and transmediation.</li>
+<li>This argument overlooks deformance is a solution: the ways that
+creating new texts, paratexts, creates new objects of knowledge. It
+overlooks the performative, ala McGann, Clement.</li>
+</ul>
+
+<p>
+In this view, digital becomes a means of optimization, efficiency,
+total knowledge and understanding.
+</p>
+</div>
+</div>
+<div id="outline-container-orge4b48db" class="outline-4">
+<h4 id="orge4b48db"><span class="section-number-4">1.6.2</span> Defining queer, Amin on historicizing through affect</h4>
+<div class="outline-text-4" id="text-1-6-2">
+<p>
+queerness manifests as an affective relation between the
+subject and desired object. Kadji Amin defines queer as "fundamentally
+affective&#x2026; a matter of sensing a resonance between one's object of
+study and the inchoate cluster of feelings that inhabit and animate
+the term queer" (173).
+</p>
+</div>
+</div>
+<div id="outline-container-org1306d95" class="outline-4">
+<h4 id="org1306d95"><span class="section-number-4">1.6.3</span> Reading touching: within our bodies</h4>
+<div class="outline-text-4" id="text-1-6-3">
+<p>
+This point bears repeating&#x2014;we are always stuck within the bodies of
+our thinking. As such, we might as well turn to ourselves, to explore
+(rather than how things are in the world) how things are <i>to
+us</i>. Sedgwick points out that the problem is not one of knowledge, but
+one of movement. We can try to in-<i>corporate</i>, as much as possible,
+alternative reading methods that get at the unique experience of being
+a thinking/feeling human that is fiddling with these tools. We can, in
+other words, examine the possibilities of <i>touching</i> what we read. And
+we can do so with digital tools for text analysis and machine
+learning.  However, there still exists a view that distant reading
+lacks the sensitivity of close reading. "Critics who want to
+sensitively describe the merits of a single work usually have no need
+for statistics" (xxi).
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4ba44e7" class="outline-4">
+<h4 id="org4ba44e7"><span class="section-number-4">1.6.4</span> data reduction / queer assimilation</h4>
+<div class="outline-text-4" id="text-1-6-4">
+<p>
+For those that would argue that negative feelings are no longer
+relevant in today's world, Heather Love responds that the advent of
+assimilation, of popular acceptance, only creates more problems for a
+group that has come into being as abject. <i>(the corrolary for digital
+studies is the proliferation of data, of information, digitization)</i>
+Queer assimilation and apparent rise in acceptance across popular
+culture and mass media contradicts the reality of shame and stigma
+that everyday queers experience, a contradiction that breeds ever more
+shame: "Of course, same-sex desire is not as impossible as it used to
+be; as a result, the survival of feelings such as shame, isolation,
+and self-hatred into the post-Stonewall era is often the occasion for
+further feelings of shame. The embarrassment of owning such feelings,
+out of place as they are in a movement that takes pride as its
+watchword, is acute" (4). What do we do with these residual feelings
+of shame?
+</p>
+
+<p>
+How should queer criticism orient itself? Love shows that critics face
+a contradiction, brought on by the reality of negative feelings and
+psychic costs of being queer in a homophobic society. The narrative
+trajectory of queer progress runs counter to the residual pain of
+being queer. Criticism is stuck in the middle of this ambivalence,
+between affirming its pride and bemoaning its suffering: "We are not
+sure if we should explore the link between homosexuality and loss, or
+set about proving that it does not exist" (Love 3).
+</p>
+</div>
+</div>
+
+<div id="outline-container-org59c4c7d" class="outline-4">
+<h4 id="org59c4c7d"><span class="section-number-4">1.6.5</span> Critique of affirmation: Cvetkovitch</h4>
+<div class="outline-text-4" id="text-1-6-5">
+<p>
+Attempts to affirm negative queer experience can be harmful. Ann
+Cvetkovitch's work on trauma studies provides an example of how this
+tendency can create further misunderstanding about suffering. In her
+book, <i>Archive of Feelings</i>, Cvetkovitch explores expressions of
+trauma within the public sphere. She asks how individuals might
+reclaim some of the most negative and traumatic feelings into
+something positive and theraputic: "I want to place moments of extreme
+trauma alongside moments of everyday emotional distress that are often
+the only sign that trauma's effects are still being felt” (3). She
+wrests trauma studies out of medical discourse and into public
+culture&#x2014;turning something that is traditionally private and
+pathologized into something communitarian, an open, everyday "archive
+of feelings."
+</p>
+
+<p>
+Importantly, Cvetkovitch marshalls this reconfiguration of trauma to
+expand what we consider the 'archive'. She also makes some incisive
+points about the inability to fully portray suffering: "Because trauma
+can be unspeakable and unrepresentable and because it is marked by
+forgetting and dissociation, it often seems to leave behind no records
+at all" (7). Cvetkovitch explores alternative methods of figuring
+trauma, which are transformed when they enter the public sphere. She
+cites examples from public performances like rock shows or
+documentaries, in which the artists enact "moments of intense affect
+that are transformative or revealing” (26). 
+</p>
+
+<p>
+Although her focus on the affective and ephemeral dimension of
+performance opens up conceptions of the archive, Cvetkovitch perhaps
+goes too far when she suggests that these performances are redemptive
+or in some way compensate for traumatic experience. She indicates that
+such performances go so far as to alleviate psychological damage and
+suffering: “Imaginative work that may bear an oblique relation to the
+actual event of sexual abuse can ultimately be more ‘healing’ than an
+explicit rendering of the event” (94). Trauma is a real medical
+condition, with real consequences (death) for those who do not seek
+treatment or downplay its life-threatening effects. Critics should be
+careful in extending a definition of trauma that will end up hurting
+those who are affected by it. We do not need to move trauma strictly
+from the medical discourse in order to have a more communitarian,
+open, and public relationship to it. There are other ways to confront
+stigma which doesn’t attempt to redeem it, as Love explores with her
+notion of “Feeling Backward.”
+</p>
+
+<p>
+The step that Cvetkovitch takes with regard to trauma is interesting,
+however, for what it suggests about the role of the critic in
+analysis. The point isn't to find evidence of overcoming queer
+suffering, but to examine the ways that queerness is figured in
+abstraction. What does queerness look like, what can it do? 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org17c3fd2" class="outline-4">
+<h4 id="org17c3fd2"><span class="section-number-4">1.6.6</span> Munoz's disidentification quotes</h4>
+<div class="outline-text-4" id="text-1-6-6">
+<p>
+"We desire it but we desire it with a difference"
+(<i>Disidentifications</i> 15).
+</p>
+
+<p>
+"Disidentification is about recycling and rethinking encoded
+meaning. The process of disidentification scrambles and reconstructs
+the encoded message of a cultural text in a fashion that both exposes
+the encoded message's universalizing and exlusionary machinations and
+recircuits its workings to account for, include, and empower minority
+identities and identifications. Thus disidentification is a step
+further than cracking open the code of the majority: it proceeds to
+use this code as raw material for representing a disempowered politics
+or positionality that has been rendered unthinkable by dominant
+culture" (<i>Disidentifications</i> 31).
+</p>
+
+<p>
+"The chapters that make up this study attempt to chart the ways
+in which identity is enacted by minority subjects who must work
+with/resist the conditions of (im)possibility that dominant culture
+generates. The cultural performers I am considering in this book must
+negotiate between a fixed identity disposition and the socially
+encoded roles that are available for such subjects"
+(<i>Disidentifications</i> 6). 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga504eb5" class="outline-4">
+<h4 id="orga504eb5"><span class="section-number-4">1.6.7</span> Misc Quotes</h4>
+<div class="outline-text-4" id="text-1-6-7">
+<p>
+"how might activating emotion – leveraging it, rather than resisting
+emotion in data visualization – help us learn, remember, and
+communicate with data?" (Klein and D'Ignazio, <i>Data Feminism</i>,
+chapter 2)
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcdcee9d" class="outline-4">
+<h4 id="orgcdcee9d"><span class="section-number-4">1.6.8</span> <i>Voyant-Tools</i></h4>
+<div class="outline-text-4" id="text-1-6-8">
+<p>
+Jerome McGann "prosthetic extensions"
+Potential texts: Woolf's <i>Orlando</i>. 
+</p>
+
+<ul class="org-ul">
+<li>Interweave a narrative about touch. Taking new materialist ideas but</li>
+</ul>
+<p>
+placing them within context of QPOC critiqe. Anzaldua and Bennet on
+touch and severing. Sarah Ahmed too. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org387efaf" class="outline-4">
+<h4 id="org387efaf"><span class="section-number-4">1.6.9</span> <i>These Waves of Girls</i></h4>
+<div class="outline-text-4" id="text-1-6-9">
+<p>
+Following narrative desire. The click of the mouse allows readers to
+move with the text, based on their own paths. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf74ccd3" class="outline-4">
+<h4 id="orgf74ccd3"><span class="section-number-4">1.6.10</span> what are some print texts that enact these principles of movement?</h4>
+<div class="outline-text-4" id="text-1-6-10">
+<ul class="org-ul">
+<li>Alison Bechdel's "Are You My Mother": where every page is vibrating</li>
+</ul>
+<p>
+with reference. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf2328d6" class="outline-4">
+<h4 id="orgf2328d6"><span class="section-number-4">1.6.11</span> What, do you imagine that I would take so much trouble and so much</h4>
+<div class="outline-text-4" id="text-1-6-11">
+<p>
+pleasure in writing, do you think that I would keep so persistently to my task, if I were not preparing — with a rather shaky hand — a labyrinth into which I can venture, in which I can move my discourse, opening up underground passages, forcing it to go far from itself, finding overhangs that reduce and deform its itinerary, in which I can lose myself and appear at last to eyes that I will never have to meet again. I am no doubt not the only one who writes in order to have no face. Do not ask who I am and do not ask me to remain the same: leave it to our bureaucrats and our police to see that our papers are in order. At least spare us their morality when we write.’
+</p>
+<ul class="org-ul">
+<li>Michel Foucault, <i>Archaeology of Knowledge</i>, 17.</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orge4e053d" class="outline-4">
+<h4 id="orge4e053d"><span class="section-number-4">1.6.12</span> Kadji Amin, Amber Jamilla Musser, and Roy Pérez explain that paranoid</h4>
+<div class="outline-text-4" id="text-1-6-12">
+<p>
+impulses "rely on the concept of immutable difference, on sharp
+boundaries, and on the possibility of exhaustively knowing the other"
+(232).
+</p>
+</div>
+</div>
+</div>
+</div>
+
+
+<div id="outline-container-orgb84d3ed" class="outline-2">
+<h2 id="orgb84d3ed"><span class="section-number-2">2</span> commands</h2>
+<div class="outline-text-2" id="text-2">
+<p>
+c-c c-x f =&gt; create a new footnote
+c-u c-c c-x f then select s =&gt; renumber footnotes
+</p>
+
+<p>
+block quotes: #+BEGIN<sub>QUOTE</sub> &amp; #+END<sub>QUOTE</sub>
+</p>
+</div>
+</div>
+<div id="footnotes">
+<h2 class="footnotes">Footnotes: </h2>
+<div id="text-footnotes">
+
+<div class="footdef"><sup><a id="fn.1" class="footnum" href="#fnr.1">1</a></sup> <div class="footpara"><p class="footpara">
+By "access" I mean knowledge, the notion that we can
+exhaustively know the subject (queer subjects &amp; technology) beyond a
+cultural construction.
+</p></div></div>
+
+<div class="footdef"><sup><a id="fn.2" class="footnum" href="#fnr.2">2</a></sup> <div class="footpara"><p class="footpara">
+The root of the word digital, "digitus," originally comes from
+the Latin word for finger or toe, and in electronic media, it refers
+to a counting system based on ten digits. Digital computation runs on
+numerical data called "bytes" which can take a value between 0 and
+255, although computer language, at the most rudimentary level, is
+based on "bits," a binary counting system that represents the polarity
+(North or South, translated into 0 or 1) of magnetic traces on a hard
+drive. (and include quote from Sadie Plant's <i>Zeroes and Ones</i>)
+</p></div></div>
+
+<div class="footdef"><sup><a id="fn.3" class="footnum" href="#fnr.3">3</a></sup> <div class="footpara"><p class="footpara">
+[to be expanded in depth later in the chapter] My approach
+toward data emphasizes the different levels of digital materiality,
+what Matt Kirschenbaum calls "formal" and "forensic" levels of
+materiality. The formal level is what can be seen and interacted with
+on a computer screen, such as the interface, icons, and windows. The
+forensic is the level of the nanoscale, what cannot be seen, which is
+the hard encoding and electronic activity in drives, circuits, and
+chips (Kirschenbaum, <i>Mechanisms: New Media and the Forensic
+Imagination</i> 11).
+</p></div></div>
+
+<div class="footdef"><sup><a id="fn.4" class="footnum" href="#fnr.4">4</a></sup> <div class="footpara"><p class="footpara">
+[to be expanded in depth later in the chapter] My understanding
+of Queer Subjectivity draws from Michel Foucault's theorizations of
+the constructedness of sexuality and Judith Butler's points about the
+incompleteness of subject formation. According to Foucault, "Sexuality
+must not be thought of as a kind of natural given which power tries to
+hold in check, or an an obscure domain which knowledge tries to
+gradually uncover. It is the name that can be given to a historical
+construct: not a furtive reality that is difficult to grasp, but a
+great surface network in which the stimulation of bodies, the
+intensification of pleasures, the incitement to discourse, the
+formation of special knowledges, the strengthening of controls and
+resistances, are linked to one another" (<i>History of Sexuality,
+Vol. 1</i> 105-106). Butler asserts that "the impossibility of a full
+recognition, that is, of ever fully inhabiting the name by which one's
+social identity is inaugurated and mobilized, implies the instability
+and incompleteness of subject-formation" ("Critically Queer,"
+18). [this note needs to work harder to link Foucault &amp; Butler]
+</p></div></div>
+
+<div class="footdef"><sup><a id="fn.5" class="footnum" href="#fnr.5">5</a></sup> <div class="footpara"><p class="footpara">
+[this footnote needs to be integrated to the main text?] José
+Esteban Muñoz defines queerness as "a structuring and educated mode of
+desiring that allows us to see and feel beyond the quagmire of the
+present&#x2026; Queerness is a longing that propels us onward, beyond
+romances of the negative and toiling in the present. Queerness is that
+thing that lets us feel that this world is not enough, that indeed
+something is missing" (<i>Cruising Utopia</i> 1). Muñoz here indicates an
+imminant quality about queerness, which is situated within the
+present. Because queerness is "not yet here," it calls for something
+else, for something that "allows us to see and feel beyond the
+quagmire of the present," opening a space for emergent affects. In
+other words, queerness expands a sensibility of feeling to include
+sensations beyond the immediate, the readily sensible.
+</p></div></div>
+
+<div class="footdef"><sup><a id="fn.6" class="footnum" href="#fnr.6">6</a></sup> <div class="footpara"><p class="footpara">
+Data, at the fundamental level, is a series of optically
+invisible (but very physical) traces on a magnetized surface, which
+assume virtual form on the screen. Kirschenbaum explains that "a
+digital environment is an abstract projection supported and sustained
+by its capacity to propagate the illusion (or call it a working model)
+of immaterial behavior: identification without ambiguity, transmission
+without loss, repetition without originality" (<i>Mechanisms: New Media
+and the Forensic Imagination</i>, 11).
+</p></div></div>
+
+<div class="footdef"><sup><a id="fn.7" class="footnum" href="#fnr.7">7</a></sup> <div class="footpara"><p class="footpara">
+Berners-Lee, Tim. “Information Management: A Proposal.” CERN (1989).
+Tim Be
+</p></div></div>
+
+<div class="footdef"><sup><a id="fn.8" class="footnum" href="#fnr.8">8</a></sup> <div class="footpara"><p class="footpara">
+For more information about computer technology helped develop
+the discourse of centralized command and control, see Paul N. Edwards,
+<i>The Closed World: Completers and the Politics of Discourse in Cold
+War America</i> (Cambridge, Mass., 1996).
+</p></div></div>
+
+<div class="footdef"><sup><a id="fn.9" class="footnum" href="#fnr.9">9</a></sup> <div class="footpara"><p class="footpara">
+Stephen J. Lukasik, the deputy director of DARPA, explains
+that the goal of creating new network technologies included: "to meet
+the needs of military command and control against nuclear
+threats&#x2026; and improve military tactical and management decision
+making. Lukasik, Stephen J. (2011). "Why the Arpanet Was Built". IEEE
+Annals of the History of Computing. 33 (3): 4–20. Bruce Sterling,
+"Short History of the Internet," 1993
+</p></div></div>
+
+<div class="footdef"><sup><a id="fn.10" class="footnum" href="#fnr.10">10</a></sup> <div class="footpara"><p class="footpara">
+Galloway, Alexander. <b>Protocol</b>, 2004.
+</p></div></div>
+
+<div class="footdef"><sup><a id="fn.11" class="footnum" href="#fnr.11">11</a></sup> <div class="footpara"><p class="footpara">
+Chun, Wendy, <i>Control and Freedom: Power and Paranoia in the
+Age of Fiber Optics,</i> 2006. Print.
+</p></div></div>
+
+<div class="footdef"><sup><a id="fn.12" class="footnum" href="#fnr.12">12</a></sup> <div class="footpara"><p class="footpara">
+DEFINITION NOT FOUND.
+</p></div></div>
+
+<div class="footdef"><sup><a id="fn.13" class="footnum" href="#fnr.13">13</a></sup> <div class="footpara"><p class="footpara">
+DEFINITION NOT FOUND.
+</p></div></div>
+
+<div class="footdef"><sup><a id="fn.14" class="footnum" href="#fnr.14">14</a></sup> <div class="footpara"><p class="footpara">
+DEFINITION NOT FOUND.
+</p></div></div>
+
+<div class="footdef"><sup><a id="fn.15" class="footnum" href="#fnr.15">15</a></sup> <div class="footpara"><p class="footpara">
+Anzaldúa draws the figure of the <i>mestiza</i>, or mixed woman,
+from Mexican philosopher José Vasconcelos's promotion of "una raza
+mestiza" [the mixed race].
+</p></div></div>
+
+<div class="footdef"><sup><a id="fn.16" class="footnum" href="#fnr.16">16</a></sup> <div class="footpara"><p class="footpara">
+Rita Felski? and Eve Kosofsky Sedgwick.
+</p></div></div>
+
+
+</div>
+</div></div>
+<div id="postamble" class="status">
+<p class="author">Author: Filipa  Calado</p>
+<p class="date">Created: 2020-11-30 Mon 22:13</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>

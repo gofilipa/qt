@@ -1,5 +1,40 @@
-* Chapter One Brainstorm
+* Chapter One Sketch
+This chapter proposes a reading methodology that leverages the
+critic's relationship to the text to open possibilities for
+interpretation and connections to the textual material. It explores
+the ways that reading practices across two different fields (digital
+humanities and queer theory) intertwine, and how this creates a new
+method for reading queer narratives in digital contexts. 
 
+This chapter debunks the fantasy of falsifiable criticism. It begins
+with a critique of current distant reading practices, which emphasizes
+how these practices reproduce the critic's assumptions. Includes
+readings of Underwood, Da, Piper(?). 
+
+Then, the chapter proposes a method for distant reading as a tool for
+speculation. It builds off ideas of textual scholarship, algorithmic
+criticism. 
+- Katherine Bode drawing off McGann
+- Clement drawing off Drucker
+- Richard Jean So's appalling
+- Pamela Caughie's storm cloud
+
+What is the link to queer theory? This is the main issue ....  the
+quality of distant reading that is queer is the enacted aspect. The
+performative. This relates to the abstraction of data on the digital
+side.
+
+queer theory - digital humanities
+performance - abstraction 
+
+The burden of the chapter is to describe how queerness and data are
+mediated, and can/should be engaged critically as constructions,
+formalizations, that draw attention to their own mediation.
+
+We look at? Butler and Anzaldua?  We see this in /voyant-tools/ with
+/Orlando: A Biography/.
+
+** On reproducible criticism
 *** Nan Z Da on Reproducibility 
 Reproducibility as a benchmark for quantitative methods enacts some of
 the same harms as paranoid reading. Da's point on "reproducibility"
@@ -24,7 +59,7 @@ relationship to that data. We encounter the digital object through
 mediation, through an interface, mice, GUIs, keyboards, etc.
 
 
-** TODO draft Value: Performativity
+** Performativit/Abstraction
 --> Digital formats and interfaces facilitate an intimate process of
 engaging with literature on a computer, where users can unlock the
 dynamicity of texts. This performative elements allows unique and

@@ -303,6 +303,18 @@ notion of an ideal or Ur text, and applies it to audio-texts.
   Stereotypes?” Debates in Digital Humanities 2019. Edited by Matthew
   K. Gold and Lauren Klein. University of Minnesota Press, 2019.
 
+Mandell makes the overall argument that gender is not reducible to M/F
+binary, as distant readers presume. Gender is something historically
+situated, that has to be unpacked, deconstructed. 
+
+However, it is /not/ like genre, not like a writing style that you can
+imitate. Gender is not something that is "constructed" by the
+measured, like genre, but something that the writer participates in. 
+
+paragraphs
+data as capta par. 23
+gender par. 28
+
 The categories “male” and “female” are discursively, socially
 constituted, and quantitative analysis essentializes and generalizes
 them. This doesn’t mean we should avoid doing quantitative
@@ -330,38 +342,11 @@ culture should never be understood as an objective observer measuring
 an inert reality. Rather, it should be understood as a means of
 counting people counting.”
 
-“Feminist cultural critics might be tempted to simply walk away from
-cultural analytics altogether rather than engage with what I call
-“M/F”—that is, the conflation of gender with sex and the
-naturalization of a culturally constructed binary opposition. But
-walking away is a bad idea.”
-
 “we must remain attentive to where and how computational data
 analytics crosses the line into naïve empiricism—often unwittingly—by
 presenting conclusions about “male” and “female” modes of thinking and
 writing as if the M/F terms were simple pointers to an unproblematic
 reality, transparently referential and not discursively constituted.”
-
-“My argument in this chapter is that, in some quantitative cultural
-analyses, the category of gender has been biologized, binarized, and
-essentialized in a trend that I call “stereotyping,” with an eye on
-the historical and material practice of
-stereo-typography. Stereotyping as a material practice was invented
-before the printing process became industrialized (1725 in England,
-1735 in France). It froze pages made from movable type into
-unalterable plates of textual data for reprinting and was adopted
-early on by the French printing house known as Didot (Hodgson
-15–18). The term for “stereotype” in French is cliché.Here, I show how
-data-mining techniques are sometimes used to produce clichés. But my
-goal is less to dismiss quantification than it is to argue that,
-insofar as the results of data mining are movable and manipulable,
-cultural analytics can serve us well in historicizing gender
-categories. Examining the gender problem in quantitative analysis
-reveals both opportunities afforded by digital media and how we might
-miss them.”
-
-Reproducibility as the way we judge something as objective: “The
-criterion of scientific objectivity is reproducibility.”
 
 “Are there feedback loops built into data? Has it been collected,
 sorted, and even produced according to the categories M/F? It is to
@@ -373,20 +358,10 @@ Looking and gender through genre, comparing Wollenstonecraft, Godwin,
 Johnson across genres. Finds more similarity in genre than gender, and
 finds a space to speculate on the assumptions of gender in
 analysis. Uses the dynamicity of computers to study gender.
- 
-“Insofar as one pins a genre to a gender, then a woman writing in a
-Latinate style (essays, criticism) or a man writing a Jacobin
-sentimental novel is writing in drag.”
 
 “Anyone can adopt gendered modes of behavior, just as anyone can write
 in genres stereotypically labeled M/F… gender approaches nearly to the
 definition of genre.”
-
-“Whereas in the case of gender, we think of imitating its forms as
-“passing” or “drag,” in the case of genre, unless it is a case of
-parody, we think of it as, well, writing. In composing her two
-Vindications, Wollstonecraft is not imitating an essay writer; she is
-writing essays.”
  
 “stylometry will only become a valuable tool of literary criticism if
 we admit that categories such as gender are being constructed both by
@@ -433,6 +408,101 @@ gender”
   uber-objective tool? Like code/software has no biases or
   idiosyncrasies? What about examining the way that these processes
   encode subjectivity?
+
+*** So, Richard Jean. "All Models Are Wrong," /PMLA/, 132.3 (2017),
+  pp. 668-773. 
+
+All models have errors, there is always a margin of error. The point
+isn't to have a correct model, it's to work with the errors, to
+iterate new versions of the model. Incorporate working with error as
+part of the critical process.
+
+"an individual exceeds socially constructed identity categories, so
+what does a model do besides reify such categories?" (668).
+
+"What’s important is not to insist on how the model is right or nearly
+right but rather to understand how it is wrong... the reader is
+encouraged to reason with the model and its maker to better grasp the
+data." (671).
+
+"using an iterative process is that it pivots between distant and
+close reading... close reading here is inseparable from recursively
+improving one’s model" (671).
+
+"error is a constitutive part of science and that quantitative
+literary criticism would beneit from viewing error as less something
+to be tolerated or avoided and more something to be integrated
+formally into our research (Wimsatt). Accepting that all models are
+wrong might prove liberating" (672).
+
+*** So, Richard Jean and Edwin Roland. “Race and Distant Reading, PMLA
+  Special Topic: Varieties of Digital Humanities. Vol. 35 No. 1,
+  January 2020, pp. 59–73.
+
+Asks the question, how do you make use of computation/quantification
+for dealing with race? Engages distant reading and the critique of
+race and racial difference, which are mismatched in purpose (as Da
+points out). Finds that we can use the machine to explore the
+constructedness of social categories, in this case, how white is only
+coherent when it is set against the incoherence of blackness. In the
+process, it is useful for bringing up new elements that might have
+escaped our attention.  Because race is a construct, we must be
+reflexive: “a reflexive method that is able to identify its own
+elisions while also pointing to new insights and opportunities for
+research” (72).
+
+So and Roland manipulate the results of quantitative analysis (what is
+written by black vs white authors) in order to *deconstruct* the
+apparent categories between black and white. They find that whiteness
+is a coherent category, but only because it depends on the incoherence
+of blackness. (TIE IN TO EVE SEDGEWICK ON THE BINARY) “Novels by black
+authors show a wider variety of engagements with the features that
+allow us to distinguish between novels by white and black
+writers---the very basis of our model” (65). “this coherence [of white
+authorship] is derived entirely from its relation to blackness. Novels
+by white authors cluster within a tight band of expression, but only
+through their expression of blackness” (66).
+
+There is a central mismatch between data analysis and race: “The goal
+of machine classification is to identify and label objects. The point
+of minority discourse analysis is, in part, to critique and
+problematize the very idea of categories” (63).
+- Race shows how measurement fails to get at it: “Race is a category
+  that escapes measurement or simply renders it untenable”
+  (60). Quantifying race reinforces differences, reductions,
+  stratification. “Reading race distantly thus requires quantification
+  of racial identity or racialized language” (60).
+
+“the machine simply measures the robustness of the social
+constructedness of these given categories and points out what gives
+them such vigor” (69).
+
+“We have not read any scholarship that has noted the importance of the
+word appalled in this novel. Without the machine’s aid, we would never
+have noticed it. Yet, a word so seemingly incidental turns out to
+expose a decisive repatterning of whiteness in the text” (71).
+
+--> they are dealing with the same problem as Da, dealing with
+computational error, but they suggest an interesting way out of the
+problem. Their process combines deconstruction and speculation.
+
+--> this is interesting, but it's too ambivalent between
+deconstruction and speculation. It doesn't give the computer enough
+credit for the ways it transforms data that is itself
+speculative. What if we started with this premise of the "appalled"? 
+    - “To illustrate the limits of standard computational methods for the
+      analysis of race and to produce a series of results that nonetheless
+      advance our understanding of the texts and authors under
+      investigation… exposing the racial limitations of computation can
+      reveal things otherwise occluded within literary history” (61).  
+     
+ → What kind of knowledge are we trying to create? Aren't we now
+    operating as if it is possible to “distant read” in the first
+    place? That there are things which can be quantified, if only we
+    ask the right questions? When we look to the "occluded", are we
+    hunting or speculating?  The orientation we take toward our object
+    has an effect. Are we trying to recover or to speculate?
+
 
 *** Underwood, Ted. *Distant Horizons*
 Much of literary history is invisible to us due to our blindness to
@@ -1452,9 +1522,6 @@ subjects who scream in spite, because, and in defiance of their own ritual murde
 “As a digital humanist, I witness something happening in digital media, social media, online activism, and hashtag activism that hearkens back in time to screams in the archive, jokes in the face of death, to black cultural production and acts of resistance. “History,” Saidiya Hartman writes, “is how the secular world attends to the dead.” Histories of slavery offer digital humanists a cautionary tale, a lesson in the kind of death dealing that happens when enumerating, commodifying, and calculating bodies becomes naturalized. Doing truly embodied and data-rich histories of slavery requires similarly remixing conceptual, discursive, and archival geographies, with deliberate, pained intimacy, and, likely, some violence. But black digital practice challenges slavery scholars and digital humanists to feel this pain and infuse their work with a methodology and praxis that centers the descendants of the enslaved, grapples with the uncomfortable, messy, and unquantifiable, and in doing so, refuses disposability” (71).
 
 
-
-
-
 * Theories of Perception
 ** Thinking/Feeling: Philosophy
 *** Hume, David. *An Enquiry Concerning Human Understanding*, 1748.
@@ -2227,30 +2294,157 @@ is about modes of seeing.
       materializes what she’s thinking; she signifies it with her
       body. In a certain way she inscribes what she’s saying" (881).
 
-*** Showalter, Elaine. “Feminist Criticism in the Wilderness.”
-      Critical Inquiry, vol. 8, no. 2, 1981, pp. 179–205. JSTOR,
-      www.jstor.org/stable/1343159. Accessed 21 May 2020.
+*** Butler, Judith. *Bodies That Matter*. 1993. 
+Butler Makes the general argument that body’s materiality is
+discursive, that the “sexed body” is discursively constructed by the
+normativizing powers. Materiality is a residue or sentimentation that
+emerges from repetition, a kind of performance whereby meaning is
+signified and re-signified endlessly, never complete---citing whatever
+social power or understanding about sex. Butler then insists that
+resignification of these citations is the way out of this
+significatory circle.
 
-*** Rich, Adrienne. "When We Dead Awaken: Writing as Revision." 1979.
-- A coming to consciousness for women is a re-vision --- a critical
-  mode of seeing with fresh eyes what has always been circumscribed by
-  men. This act of re-vision brings materials like anger and
-  frustration and awareness. Women need to embrace negative affects as
-  part of their own birthing pains.
-    - In order to come into their own, women must engage in the
-      negative. These are necessary “birthing pains”.
-- from "Planatarium: "I have been standing all my life in the / direct
-  path of a battery of signals / the most accurately transmitted most
-  / untranslatable language in the universe / I am a galactic cloud so
-  deep so invo- / luted that a light wave could take 15 / years to
-  travel through me And has / taken I am an instrument in the shape /
-  of a woman trying to translate pulsations / into images for the
-  relief of the body / and the reconstruction of the mind." (30)
-    - She figures herself as baraged by a series of “signals” that she
-      translates into images. She speaks here using computational
-      metaphors, as if the work of revision involves something like
-      encoding, re-coding, interpreting not only what she experiences
-      but also what she has been taught about her sex.
+The central problem of being stuck in performance is also the
+solution:
+- We cannot speak outside the powers that structure speech. Because
+  sex is always constructed, because we are constructed through sex,
+  we can never get out of the signifying system. Subjects are always
+  interpellated by the discourse prior to citing it. Like protocol,
+  discourse determines all connections; in gender, the subject only
+  comes into intelligibility through the matrix of gender. The only
+  freedom that is possible resides within this power of discourse,
+  resignifying it, perhaps through parody or impersonation. The
+  abject, through disidentification has the ability to resignify
+  against the logic of the norm.
+- The performance of resignification is a political act: “What would
+  it mean to cite a law to produce it differently?”
+    - We see this in the word “queer” which has been
+      re-appropriated---something thatsignified abjectness now means
+      defiance. We can also use repetitionto re-signify
+      identification, to the point where it loses itspower. In Paris
+      is Burning, not only are the male drag performersexposing the
+      superficiality of gender, but also performing care in away that
+      is feminine, “mothering” “housing” “rearing” each other.
+    - “The compulsion to repeat an injury is not necessarily the
+      compulsion to repeat the injury in the same way or to stay fully
+      within the traumatic orbit of that injury. The force of repetition
+      in language may be the paradoxical condition by which a certain
+      agency---not linked to a fiction of the ego as master of
+      circumstance---is derived from the impossibility of choice…. Paris
+      is Burning might be understood as repetitions of hegemonic forms of
+      power that fail to repeat loyally and, in that failure, open
+      possibilities for resignifying the terms of violation against their
+      violating aims” (383).
+
+Butler takes on language as something that can be productive, that can
+resignify meaning. It is the option available to those who are trapped
+within the signification system. 
+
+--> the similarities between *performance* and *deformance*, both are
+    a process of deconstruction, resignification. Language is a
+    productive force, rather than a mimetic represenation of something
+    prior, which produces the body.
+
+    - language is not mimetic, representative, rather, it is productive:
+	- "If the body signified as prior to signifiation is an effect of
+	  signification, then the mimetic or representational status of
+	  language, which claims that signs follow bodies as their
+	  necessary mirrors, is not mimetic at all. On the contrary, it is
+	  productive, constitutive, one might even argue performative,
+	  inasmuch as this signifying act delimits and contours the body
+	  that it then claims to find prior to any and all signifcation"
+	  (6).
+
+Is Butler subscribing to the power system of that which she wants
+to overturn, or is she attempting to go beyond it? 
+
+On the one hand, she and Foucault (and early Sedgwick) want to deconstruct
+categories, rather than transcend them. This is analogous to a group
+of readings in my Digital Studies list, the Networks readings. Some of
+the group want to subvert the network within the confines of that
+network. Others want to completely defy the network, they reject the
+terms of the network. Here, Butler is looking for the “exploit”, the
+way out of the system by using the system’s own rules. Using language
+and repetition to resignify what sexuality and proper sexual relations
+are. This is to be contrasted with thinkers like later Sedgwick,
+Heather Love and Jose Munoz who look for a way out of this system.
+- "the protocols of sexual difference" (22): one writes oneself into
+  exclusionary systems through mimesis, citation. Irigaray subverts
+  Plato from within the system.
+   - "For how can one read a text for what does /not/ appear within
+     its own terms, but which nevertheless constitutes the illegible
+     conditions of its own legibility? (p. 11)... One cannot interpret
+     the philosophical relation to the feminine through the figures
+     that philosophy provides, but, rather, she argues, through siting
+     the feminine as the unspeakable condition of figuration, as that
+     which, in fact, can never be figured within the terms of
+     philosophy proper, but whose exclusion from that propriety is its
+     enabling condition" (p. 12).
+   - "This explains in part the radical citational practice of
+     Irigaray, the catachrestic usurpation of the “proper” for fully
+     improper purposes. For she mimes philosophy—-as well as
+     psychoanalysis—-and, in the mime, takes on a language that
+     effectively cannot belong to her, only to call into question the
+     exclusionary rules of proprietariness that govern the use of that
+     discourse. This contestation of propriety and property is
+     precisely the option open to the feminine when it has been
+     constituted as an excluded impropriety, as the improper, the
+     propertyless" (12).
+   -  "Irigaray’s response to this exclusion of the feminine from the
+     economy of representation... I’ll show you what this
+     unintelligible receptacle can do to your system; I will not be a
+     poor copy in your system, but I will resemble you nevertheless by
+     miming the textual passages through which you construct your
+     system and showing that what cannot enter it is already inside it
+     (as its necessary outside), and I will mime and repeat the
+     gestures of your operation until this emergence of the outside
+     within the system calls into question its systematic closure and
+     its pretension to be self-grounding....In this sense, she
+     performs a repetition and displacement of the phallic
+     economy. This is citation, not as enslavement or simple
+     reiteration of the original, but as an insubordination that
+     appears to take place within the very terms of the original, and
+     which calls into question the power of origination that Plato
+     appears to claim for himself. Her miming has the effect of
+     repeating the origin only to displace that origin as an origin"
+     (18).
+
+On the other hand, she is looking toward the horizon, where queerness
+can never be defined, but must remain the outside that delimits the
+known. The goal is not to be inclusive, it's to preserve this space
+that cannot be included without being coopted.
+    - "The task is to refigure this necessary “outside” as a future
+      horizon, one in which the violence of exclusion is perpetually
+      in the process of being overcome. But of equal importance is the
+      preservation of the outside, the site where discourse meets its
+      limits, where the opacity of what is not included in a given
+      regime of truth acts as a disruptive site of linguistic
+      impropriety and unrepresentability, illuminating the violent and
+      contingent boundaries of that normative regime precisely through
+      the inability of that regime to represent that which might pose
+      a fundamental threat to its continuity. In this sense, *radical
+      and inclusive representability is not precisely the goal*: to
+      include, to speak as, to bring in every marginal and excluded
+      position within a given discourse is to claim that a singular
+      discourse meets its limits nowhere, that it can and will
+      domesticate all signs of difference. If there is a violence
+      necessary to the language of politics, then the risk of that
+      violation might well be followed by another in which we begin,
+      without ending, without mastering, to own—-and yet never fully
+      to own—-the exclusions by which we proceed." (25).
+
+*** Butler, Judith. "Critically Queer." GLQ: A journal of Lesbian and Gay Studies 1.1 (1993): 17-32.
+- The terms "queer" and "gender" always exist prior to subjects. The
+  best we can do is use them, resignify them, to our own purposes.
+- Begins by asking where the performative gets its power. Finds that
+  discourse exists prior to the subject. Power emerges through
+  Citations, how we create/produce/enact power. Queer and Gender are
+  citations.
+- "Queer" can be exclusionary. But it will use you if you don't use
+  it! And it can be retooled, "queered" toward other significations.
+- Gender performance is melancholic. Drag is a hyperbolic allegory of
+  heterosexual melancholia. The thing being signified is gender. Dudes
+  in drag are performing the loss of heterosexual desire for women.
 
 *** Foucault, Michel. *History of Sexuality Vol. 1*. 1984.
 - Foucault lays the groundwork for all subsequent queer theory that
@@ -2273,6 +2467,27 @@ is about modes of seeing.
       repression in the past 300 years or so. Confession is a means of
       regulating sex, and turning it into a “truth”, making it a kind
       of positivist strategy. Confession is scientific evidence.
+
+*** Rich, Adrienne. "When We Dead Awaken: Writing as Revision." 1979.
+- A coming to consciousness for women is a re-vision --- a critical
+  mode of seeing with fresh eyes what has always been circumscribed by
+  men. This act of re-vision brings materials like anger and
+  frustration and awareness. Women need to embrace negative affects as
+  part of their own birthing pains.
+    - In order to come into their own, women must engage in the
+      negative. These are necessary “birthing pains”.
+- from "Planatarium: "I have been standing all my life in the / direct
+  path of a battery of signals / the most accurately transmitted most
+  / untranslatable language in the universe / I am a galactic cloud so
+  deep so invo- / luted that a light wave could take 15 / years to
+  travel through me And has / taken I am an instrument in the shape /
+  of a woman trying to translate pulsations / into images for the
+  relief of the body / and the reconstruction of the mind." (30)
+    - She figures herself as baraged by a series of “signals” that she
+      translates into images. She speaks here using computational
+      metaphors, as if the work of revision involves something like
+      encoding, re-coding, interpreting not only what she experiences
+      but also what she has been taught about her sex.
 
 *** Sedgwick, Eve Kosofsky. *The Epistemology of the Closet*. 1990.
 - Sedgwick's agenda is to expose the dependence of a privileged
@@ -2351,67 +2566,9 @@ is about modes of seeing.
       lack of content, an unnamed secret, and first term in the binary
       becomes his absent heterosexuality.
 
-*** Butler, Judith. *Bodies That Matter*. 1993. 
-- Makes the general argument that body’s materiality is discursive,
-  that the “sexed body” is discursively constructed. Materiality is
-  something that emerges from repetition, a kind of performance
-  whereby meaning is signified and re-signified endlessly---each act
-  cites whatever social power or understanding about sex. Butler then
-  insists that repetition is the way out of this significatory circle.
-- We cannot speak outside the powers that structure speech. Subjects
-  are always interpellated by the discourse prior to citing it. Like
-  protocol, discourse determines all connections; in gender, the
-  subject only comes into intelligibility through the matrix of
-  gender. The only freedom that is possible resides within this power
-  of discourse, resignifying it, perhaps through parody or
-  impersonation.
-- The performance of resignification is a political act. We see this
-  in the word “queer” which has been re-appropriated---something that
-  signified abjectness now means defiance. We can also use repetition
-  to re-signify identification, to the point where it loses its
-  power. We also see this in Paris is Burning, where not only are the
-  male drag performers exposing the superficiality of gender, but also
-  performing care in a way that is feminine, “mothering” “housing”
-  “rearing” each other.
-- “What would it mean to cite a law to produce it differently?”
-    - What’s most interesting to me is how Butler subscribes to the
-      power system of that which she wants to overturn. She and
-      Foucault (and early Sedgwick) are still firmly within this
-      system. They do not want to go beyond sexual
-      categories/definitions, but to use it to their own purposes.
-    - This is analogous to a group of readings in my Digital Studies
-      list, the Networks readings. Some of the group want to subvert
-      the network within the confines of that network. Others want to
-      completely defy the network, they reject the terms of the
-      network. Here, Butler is looking for the “exploit”, the way out
-      of the system by using the system’s own rules. Using language
-      and repetition to resignify what sexuality and proper sexual
-      relations are. This is to be contrasted with thinkers like later
-      Sedgwick, Heather Love and Jose Munoz who look for a way out of
-      this system.
-- “The compulsion to repeat an injury is not necessarily the
-  compulsion to repeat the injury in the same way or to stay fully
-  within the traumatic orbit of that injury. The force of repetition
-  in language may be the paradoxical condition by which a certain
-  agency---not linked to a fiction of the ego as master of
-  circumstance---is derived from the impossibility of choice…. Paris
-  is Burning might be understood as repetitions of hegemonic forms of
-  power that fail to repeat loyally and, in that failure, open
-  possibilities for resignifying the terms of violation against their
-  violating aims” (383).
-
-*** Butler, Judith. "Critically Queer." GLQ: A journal of Lesbian and Gay Studies 1.1 (1993): 17-32.
-- The terms "queer" and "gender" always exist prior to subjects. The
-  best we can do is use them, resignify them, to our own purposes.
-- Begins by asking where the performative gets its power. Finds that
-  discourse exists prior to the subject. Power emerges through
-  Citations, how we create/produce/enact power. Queer and Gender are
-  citations.
-- "Queer" can be exclusionary. But it will use you if you don't use
-  it! And it can be retooled, "queered" toward other significations.
-- Gender performance is melancholic. Drag is a hyperbolic allegory of
-  heterosexual melancholia. The thing being signified is gender. Dudes
-  in drag are performing the loss of heterosexual desire for women.
+*** Showalter, Elaine. “Feminist Criticism in the Wilderness.”
+      Critical Inquiry, vol. 8, no. 2, 1981, pp. 179–205. JSTOR,
+      www.jstor.org/stable/1343159. Accessed 21 May 2020.
 
 ** Affects
 *** Bersani, Leo. “Is the Rectum a Grave?” 1987.
