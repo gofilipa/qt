@@ -114,7 +114,7 @@ prior to being modeled using computational methods; rather, modeling
 is the means by which literary concepts and artefacts are both made
 computable and computed” (100).
 
-*** Bode, Katherine.  “The Equivalence of ‘Close’ and ‘Distant’
+*** Bode, Katherine. “The Equivalence of ‘Close’ and ‘Distant’
 Reading; or, Toward a New Object for Data-Rich Literary History.” MLQ
 78.1 (2017): 77-106.
 
@@ -127,6 +127,46 @@ Critiques “distant reading” (ala Moretti & Jockers) for the way it reduces a
   particular decade, of a particular genre, or by an author of a
   particular nationality, from a corpus defined according to those
   parameters” (88).
+
+*** Bode, Katherine. "Computational Modeling: From Data Representation
+  to Performative Materiality." ATNU/IES Virtual Speaker Series
+2020/2021. Newcastle University, UK. November 26, 2020. 
+
+https://campus.recap.ncl.ac.uk/Panopto/Pages/Viewer.aspx?id=781b23e9-86fe-43ff-a25d-ac7e00a373cb
+
+
+Representationalism: the idea that our critical processes are
+analyzing things out there in the world that are separate from our
+ability / attempts to analyze them. 
+
+The model that guides much of computational text analysis follows a
+methodological process that assumes the output (often visualization)
+as a result of the input and method. 
+- Early 2010s: "presenting data as a direct representation of the
+literary past" (this is Moretti). 
+- Late 2010s: then a shift to "modeling," where we create a model based on
+subjective or constructed representations (this is Underwood). 
+
+She looks at how her own analysis of paratexts in /Reading at the
+Interface/ literally creates a boundary of what we understand to be
+"text" and "paratext." Not that this is a bad thing, but that we are
+intevening performatively with the object of analysis, co-constructing
+it. 
+
+Her goal is to "materilize the platform in ways that cannot be
+separated from the categories [she's] using in [her] analysis."
+
+There seems to be a parallelism between Bode and Butler: 
+"When computational literary scholars engage with literary phenomena,
+I'm suggesting that we have two options. So we can approach this
+practice in representationalist terms. We can imagine that our
+databases and data sets and models are symbolic expressions by knowing
+agents us have stable self evident and self contained objects that
+exist elsewhere. And that actually follow a print based model of how
+literature exists. Alternatively, we can understand our databases or
+models as part of the ongoing materialisation of literary texts as
+emerging events always arising from an altering how the literary
+pastas reconfigured"
 
 *** Clement, Tanya. "Distant Listening or Playing Visualisations
 Pleasantly with the Eyes and Ears." Digital Studies/le Champ
@@ -1520,7 +1560,6 @@ platforms, social media users have exploded nineteenth-century codes of race and
 subjects who scream in spite, because, and in defiance of their own ritual murder. Black digital practice requires researchers to witness and remark on the marked and unmarked bodies, the ones that defy computation, and finds ways to hold the null values up to the light” (70-71).
 
 “As a digital humanist, I witness something happening in digital media, social media, online activism, and hashtag activism that hearkens back in time to screams in the archive, jokes in the face of death, to black cultural production and acts of resistance. “History,” Saidiya Hartman writes, “is how the secular world attends to the dead.” Histories of slavery offer digital humanists a cautionary tale, a lesson in the kind of death dealing that happens when enumerating, commodifying, and calculating bodies becomes naturalized. Doing truly embodied and data-rich histories of slavery requires similarly remixing conceptual, discursive, and archival geographies, with deliberate, pained intimacy, and, likely, some violence. But black digital practice challenges slavery scholars and digital humanists to feel this pain and infuse their work with a methodology and praxis that centers the descendants of the enslaved, grapples with the uncomfortable, messy, and unquantifiable, and in doing so, refuses disposability” (71).
-
 
 * Theories of Perception
 ** Thinking/Feeling: Philosophy
