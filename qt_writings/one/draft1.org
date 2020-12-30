@@ -35,6 +35,11 @@ through this kind of text analysis.
 The burden of the chapter is to describe how to do text analysis in a
 way that attends to queer concepts of performativity.
 
+This notion of displacement through repetition is applied back to text
+analysis to illustrate how the iterative process of analyzing text can
+surface new textual structures that re-signify certain elements of
+that text.
+
 *** revision feedback from diss 
 
 Underwood & Da
@@ -58,36 +63,149 @@ Underwood & Da
 our orientation toward reading determines the engagement --- we need
 an orientation of play
 
-*** different kinds of reading..
-“Distant Reading… where distance is however not an obstacle, but a
-specific form of knowledge: fewer elements, hence a sharper sense of
-their overall interconnection...in which the reality of the text
-undergoes a process of deliberate reduction and abstraction”
-(Moretti 1)
 
-Speculative Computing --- “push[es] subjective and probabilistic
-concepts of knowledge as experience (partial, situated, and
-subjective) against objective and mechanistic claims for knowledge as
-information (total, managed, and externalized)” (Drucker 5).
 
-Algorithmic Criticism --- “attempts to employ the rigid, inexorable,
-uncompromising logic of algorithmic transformation as the constraint
-under which critical vision may flourish” (32).  
+**** paranoid reading/symptomatic reading/militant reading
+There are several styles of literary analysis, which determine the
+trajectory of readerly engagement with texts. Taking the name of
+"paranoid reading," "militant reading," and "sympotmatic reading," is
+a reading pratice that suggests a text's "truest" meaning resides in
+what it does not say, what it cannot say.[fn:13] This reading practice
+descends from a style of critique, originally popularized by Karl
+Marx, Sigmund Freud, and Friedrich Nietzsche, driven by an almost
+paranoid belief that power structures (the economy, the unconscious,
+and moral systems, respectively) encode a certain ideology in culture
+which will finally be demystified by critical analysis and
+exposure. In literary criticism, Eve Kofosky Sedgwick describes
+"paranoid reading" as the search for hidden or absent elements of text
+that affect its interpretation. Stephen Best and Sharon Marcus define
+this practice as "sympotmatic reading," which mines "absences, gaps,
+and ellipses" for latent and recurring "symptoms," then speculates
+upon “what those absences mean, what forces create them, and how they
+signify the questions that motivate the text” (3). Rita Felski's
+critique of "militant reading" emphasizes the affective quality of the
+encounter between reader and text, what she describes as "a style of
+interpretation driven by a feeling of disenchantment" (2). Felski
+explains that this kind of reading aims "to expose hidden truths and
+draw out unflattering and counterintuitive meanings that others fail
+to see" (1).
 
-Postcritical Reading…  “in this sense, is not just a cognitive
-activity but an embodied mode of attentiveness that involves us in
-acts of sensing, perceiving, feeling, registering, and engaging”
-(Felski 176).  
+In itself, this kind of reading practice can be an exhilarating and
+rewarding exercise for literary critics. But, it creates a formula for
+analysis that discourages other kinds of connection to text. It turns
+reading into a mechanical practice of searching for what is hidden or
+absent, and then exploring how this gap affects our understanding of
+the text. Sedgwick explains that this reading process imposes an
+"unhelpful structure" for analysis, where the complex substance of
+textuality is conscripted into the interplay between "repression and
+liberation" (12). This practice reduces the analytical process into
+binary modes of thinking that quickly take over nuance and
+ambiguity. Sedgwick "see[s] a cognitive danger in these
+interpretations: a moralisitic tautology that became increasingly
+incabable of recognizing itself as such" (12). She points out that,
+because paranoia seeks its own affirmation, it reflects and confirms
+its own desire on every surface. This process is replicated as the
+search for meaning takes on other texts, imposing the same structure
+on new material. In short, paranoid reading encourages a kind of
+criticism that is reproducible.
 
-Reading Computationally, a bifocal process: There is a mixing of
-different modes of reading. Distant reading provides context, or
-framework, for close reading. The subjectivity of the critic becomes
-entangled with the object of study.
-*** the fantasy of the falsifiable.
-**** incporporating the critique of Moretti
-I want to do a subtle reading of Moretti throughout this
-section. Showing how tools can reveal his positionality toward the
-topic as one that is aggressive]
+**** different kinds of reading as "suspicious" reading
+This kind of reading is particularly suceptible to digital methods for
+literary criticism. Often, digital methods like quantitative text
+analysis, or the computational processing of textual elements,
+features, and style, the problem of absence is expanded to the problem
+of scale. Because distant reading allows them to handle the thousands
+of books in literary history without actually reading these texts, it
+allows them to get around the problem of literary scale and human
+attention. The capacity of the computer to process vast amounts of
+text empowers some critics to pose ambitious questions for text
+analysis. Franco Moretti's work, for example, examines the impact of
+social and economic forces upon literary style and plot to pose broad
+questions about how literary forms travel across time and space, what
+he calls "morphological evolution." In his collection, /Distant
+Reading/, Moretti expands his purview to what Margaret Cohen calls
+“the Great Unread,” which requires a new methodology, “distant
+reading”: “where distance… is a condition of knowledge: it allows you
+to focus on units that are much smaller or larger than the text:
+devices, themes, tropes—or genres and systems” (48). Another
+practitioner of distant reading, within the field of Computational
+Literary Studies (CLS), Ted Underwood,[fn:5] harnesses the power of
+quantification and machine learning to glimpse what he calls the
+"distant horizon" of literary trends across centuries. More often than
+not, this kind of distant reading is combined with close reading
+methods, as critics will use the results of quantitative analysis to
+identify key moments from the text that merit closer attention.[fn:4]
+
+**** critique of moretti's falsifiable criticism 
+Moretti's distant reading quantifies literary history and textual data
+through a series of visualizations, such as graphs and diagrams, to
+test hypotheses in a procedure closer to scientific experiment than
+traditional literary criticism. Underlying Moretti’s work is a deep
+concern with finding a method that may connect history with form. In
+the introductory essay to his first book published in English, /Signs
+Taken for Wonders/ (1983), Moretti calls for a “falsifiable criticism”
+to search for the link between formalism and history. Moretti objects
+to the analytical practice of contemporary literary critics that
+"revolve[s] around concepts such as ‘ambiguity’ and the like" (Signs
+Taken for Wonders 22). According to Moretti, "criticism will always,
+inexorably, be pushed into multiplying, rather than reducing, the
+obstacles every social science encounters when it tries to give itself
+a testable foundation" (22). He then explains his criteria for a
+"falsifiable criticism," which borrows from social scientific
+methodology:
+#+BEGIN_QUOTE
+In principle, the criteria for testing literary interpretations should
+be the same as those already in use in every other scientific
+discipline. One should in other words demand of an interpretation that
+is coherent, univocal, and complete. And the test will consist in
+comparing it with data which—-in the text or texts that constitute its
+object—-appear contradictory or inexplicable in the light of the
+hypothesis itself. 21
+#+END_QUOTE
+Here, Moretti proposes a mode of critical inquiry that minimizes the
+potential for difference and disagreement by laying an empirical
+foundation that facilitates "coherent, univocal, and complete"
+interpretations. Moretti's early reflections reveal an important with
+the "falsifiable" that drives his development toward "quantitative
+formalism." 
+
+Morettie's approach suggests that the computer takes on the bulk of
+the analytical work, and that the literary critic is just there to
+interpret the results of analysis. The essays in /Distant Reading/
+increasingly demonstrate how his critical method is streamlines into
+the neat, recursive processes of hypothesis, collecting and assembling
+data, and inference. The results are sometimes unexpected, but
+thoroughly enlightening, and occasionally bring Moretti to reframe his
+hypotheses. The culmination of Moretti’s quantitative method appears
+among the final set of essays, particularly in “Style, Inc.:
+Reflections on 7,000 Titles (British Novels, 1740-1850),” where he
+plots data about book titles on a series of graphs in order to
+speculate on market forces--"the title is where the novel as language
+meets the novel as commodity" (181). Moretti summarizes his
+conclusion: "As the market expands, titles contract; as they do that,
+they learn to compress meaning; and as they do that, they develop
+special ‘signals’ to place books in the right market niche”
+(204). However, his language in the essay's introduction attributes
+the force of his analysis to the quantitative process:
+#+BEGIN_QUOTE
+In what follows, I focus on three moments of this history: first, I
+/describe/ a major metamorphosis of eighteenth-century titles, and
+/try to explain/ its causes; next, I /suggest/ how a new type of title
+that emerged around 1800 may have changed what readers expected of
+novels; and finally, I /make a little attempt/ at quantitative
+stylistics, /examining/ some strategies by which titles point to
+specific genres. Three sections, three pieces in the large puzzle of
+the literary field. (181-2; emphasis mine)
+#+END_QUOTE
+Moretti’s language here diminishes his intervention: he describe[s],
+tr[ies] to explain, suggest[s] and make[s] a little attempt. Though
+his speculations are provocative, Moretti presents them as
+supplementary to the graphs. Yet, it is Moretti who asks the
+questions: “by 1800 the number [of words in the title] had already
+dropped to 5 to 10 percent. Why?”  (184); and answers them: “between
+the size of the market, and the length of the titles, a strong
+negative correlation emerged: as the one expanded, the other
+contracted” (188). 
 
 Moretti, if you follow his thought, is actually engaging in a
 speculative method, using visualization to spark his imagination and
@@ -109,7 +227,203 @@ Taxonomy of Forms”, occluding its subjective nature. The way that he’s
 using the graphs to spark his inquiry and conjectures shows an
 underlying speculative method that’s guiding his criticism.
 
-*** Felski and emotionally guided criticism
+In digital contexts, the kinds of reading *passes off human
+interpretation as "objective," to the computer* . Computers can read
+at scale, therefore we now have the ability to study trends larger
+than the human capacity for reading and memory. But computers aren't
+meant to compensate for inabilities in the human, but to work within
+human capacities.
+
+**** playful text analysis, but not queer?
+There are also, however, literary critics who use text analysis toward
+more speculative ends --> but these aren't queer, they don't deal with
+absence in the same way. 
+
+“Distant Reading… where distance is however not an obstacle, but a
+specific form of knowledge: fewer elements, hence a sharper sense of
+their overall interconnection...in which the reality of the text
+undergoes a process of deliberate reduction and abstraction”
+(Moretti 1)
+
+Speculative Computing --- “push[es] subjective and probabilistic
+concepts of knowledge as experience (partial, situated, and
+subjective) against objective and mechanistic claims for knowledge as
+information (total, managed, and externalized)” (Drucker 5).
+
+Algorithmic Criticism --- Algorithmic criticism, according to Stephen
+Ramsay in Reading Machines: Toward an Algorithmic Criticism,
+approaches the constraints and objectivity of computational processes
+as an opportunity for contemplation and conversation. “attempts to
+employ the rigid, inexorable, uncompromising logic of algorithmic
+transformation as the constraint under which critical vision may
+flourish” (32). Rather than solve problems or answer questions
+definitively, humanist critics engage in readings that are inescapably
+partial and speculative. In this light, according to Ramsay,
+computational methods enhance current reading strategies by harnessing
+the constraints of computation to offer potential new readings: “The
+computer revolutionizes, not because it proposes an alternative to the
+basic hermeneutical procedure, but because it reimagines that
+procedure at new scales, with new speeds, and among new sets of
+conditions” (31). Activities such as compiling word frequency lists,
+diagramming social relationships, or plotting various textual data not
+only transform texts into new forms from which the critic may
+speculate, but are grounded in inherently critical moves, such as
+asking questions or identifying problems. Borrowing from Jerome McGann
+and Lisa Samuels’ concept of “deformance,” or the deliberate
+distortion or transformation of texts, Ramsay suggests that critics
+employ computational methods to select or rearrange textual data into
+new forms, or “paratexts,” for further reflection and analysis. Ramsay
+maintains that all critical reading is a deformative activity insofar
+as it prioritizes certain textual data—formal patterns, words,
+devices—over others and delivers a new, alternative text. For example,
+in his analysis of Virginia Woolf’s novel, The Waves, Ramsay uses a
+computer program to generate lists of distinctive terms uttered by
+each of the six speakers in Woolf’s novel. Ramsay emphasizes how this
+method “puts forth not the [original] text, but a new text in which
+the data has been paraphrased, elaborated, selected, truncated, and
+transduced” (16). To say, as a result, that the word frequencies
+“confirm” or “verify” what other critics have argued about the
+characters assumes that literary criticism aims for singular
+answers. Rather, the point of such an exercise is to “unleash the
+potentialities” of the text, offering opportunities for new readings
+(33). Ramsay point out that “we are not trying to solve Woolf. We are
+trying to ensure that discussion of The Waves continues” (15). 
+
+For example, in his analysis of Virginia Woolf’s novel, The Waves,
+Ramsay uses a computer program to generate lists of distinctive terms
+uttered by each of the six speakers in Woolf’s novel. Ramsay
+emphasizes how this method “puts forth not the [original] text, but a
+new text in which the data has been paraphrased, elaborated, selected,
+truncated, and transduced” (16). To say, as a result, that the word
+frequencies “confirm” or “verify” what other critics have argued about
+the characters assumes that literary criticism aims for singular
+answers. Rather, the point of such an exercise is to “unleash the
+potentialities” of the text, offering opportunities for new readings
+(33). Ramsay point out that “we are not trying to solve Woolf. We are
+trying to ensure that discussion of The Waves continues” (15). So one
+question continually leads to another, and so on, and the goal lies in
+this process—to arrive, over and over. Here, rhetorical coherence
+appears to be the only standard:
+#+BEGIN_QUOTE
+The understanding promised us by the critical act arises not from a
+presentation of facts, but from the elaboration of a gestalt, and it
+rightfully includes the vague reference, the conjectured similitude,
+the ironic twist, and the dramatic turn. In the spirit of inventio,
+the critic freely employs the rhetorical acts of conjecture—not so
+that a given matter can be settled, but in order that the matter might
+become richer, deeper, and ever more complicated. 16
+#+END_QUOTE
+The analysis centers around the rhetorical ability of the critic,
+whose only goal is to convince the reader of her position, regardless
+of what that may be.
+
+Reading Computationally, a bifocal process: There is a mixing of
+different modes of reading. Distant reading provides context, or
+framework, for close reading. The subjectivity of the critic becomes
+entangled with the object of study.
+
+Touching/Feeling
+Sedgwick searches for "some ways of understanding human desire that might
+be quite to the side of prohibition and repression, that might hence
+be structured quite differently from the heroic, 'liberatory,'
+inescapably dualistic righteousness of hunting down and attacking
+prohibition/repression in all its chameleonic guises" (10).
+
+Postcritical Reading…  “in this sense, is not just a cognitive
+activity but an embodied mode of attentiveness that involves us in
+acts of sensing, perceiving, feeling, registering, and engaging”
+(Felski 176). 
+
+synthesis: In some ways, all the critics treated in this essay regard
+the surface level of language—particularly linguistic patterns—as
+grounds for analysis, though only algorithmic criticism
+self-consciously approaches this stance. In what follows, I will
+examine how these critics’ divergent methods cohere into similar
+practices, before explaining the implications of each one on the
+future of literary studies. First, there is significant overlap
+between surface reading, distant reading, and algorithmic criticism in
+that all three make use of selective reading—that is, picking out
+certain details from texts to analyze—with or without the aid of
+computers. Specifically, both surface and distant reading make use
+historical or material contexts, such as publication history and and
+the non-canonical archive; and both surface reading and algorithmic
+criticism invest immense importance in finding patterns in texts, even
+if they direct this activity toward different ends. Second, distant
+reading and algorithmic criticism visualize or arrange textual data to
+stimulate analysis. Moretti’s graphs and maps function similarly to
+Ramsay’s textual transformations which “stand alongside the other
+[original text], impressing itself upon it and upon our own sense of
+what is meaningful” (12). Interestingly, in describing his diagram of
+character interactions in Hamlet, Moretti addresses this network of
+character-relations as something like Ramsay’s “paratext”:
+#+BEGIN_QUOTE 
+Though Horatio is an old fixation of mine, I had never fully
+understood his role in Hamlet until I looked at the play’s network
+structure. The keyword, here, is ‘looked’; what I took from network
+theory was its basic form of visualization: the idea that the temporal
+flow of a dramatic plot can be turned into a set of two-dimensional
+signs… that can be grasped at a single glance. (211) 
+#+END_QUOTE
+Moretti’s diagram of Hamlet enacts something analogous to Ramsay’s
+“deformance,” which involves transforming texts into new
+configurations (such as diagrams or word frequency lists) that
+stimulate potential readings. Seen in this light, the space between
+distant, surface, and algorithmic criticism seems to collapse.
+
+**** what kind of reading do we want to do? queer + digital?
+movement, play, reconfiguration --> allows us to engage with queer
+theory / performance. 
+
+This chapter proposes a method of reading that grapples with the
+tension to unearth hidden, latent, or absent meaning in text. It takes
+this tension to texts that have a history of embedding ideology about
+marginalized identities, particularly about sexuality. How can we read
+the queerness of texts not by what they hide, but what they show? The
+stakes is preserving the role of the aesthetics in critique.
+
+
+~~~~
+
+
+
+Felski: At stake is our receptivity: “to allow ourselves to be marked,
+struck, impressed by what we read” (12).  "We shortchange the
+significance of art by focusing on the “de” prefix (its power to
+demystify, destabilize, denaturalize) at the expense of the “re”
+prefix: its ability to recontextualize, reconfigure, or recharge
+perception” (Felski 17).
+
+"the reader-text connection becomes part of a network rather than a
+self-enclosed dyad— yet a connection that remains vital to literary
+studies, especially in the classroom. Reading, in this light, is a
+matter of attaching, collating, negotiating, assembling—of forging
+links between things that were previously unconnected. It is not a
+question of plumbing depths or tracing surfaces… Interpretation
+becomes a coproduction between actors that brings new things to light
+rather than an endless rumination on a text’s hidden meanings or
+representational failures” (Felski 174)
+
+Surface reading challenges that search for absence by compelling a
+reader to stay with what the text says and how it says it rather than
+moving ahead to probe how it reflects and refracts larger cultural
+patterns. This critique reifies aesthetic objects and suggests that
+literary critics should embrace the literary.
+
+Surface reading, according to Sharon Marcus and Stephen Best in
+“Surface Reading: An Introduction,” attends to the textual surface for
+what is visually, materially, and affectively immanent, rather than
+what is concealed or implied beneath the surface (9). In “attend[ing]
+to the surfaces of texts rather than plumb their depths,” the editors
+present a useful and exciting new reading method that observes the
+materialities, patterns, verbal complexities and mediations of texts
+(Best, Marcus 1-2). 
+
+There is the “embrace of the surface as an affective and ethical
+stance,” which prioritizes the reader’s affective response and the
+experience of reading (Best, Marcus 10).  ...
+
+
+**** Felski and emotionally guided criticism
 
 Rita Felski’s “The Limits of Critique”.  
 
@@ -209,32 +523,25 @@ assumptions of white universality that inevitably marks blackness as
 
 Let us now turn to computational methods, seeing how they bear out
 some of the legacies from the above technological
-histories. Practitioners of "distant reading," a critical method at
-the intersection of Literary Studies and Data Science, use
-quantitative analysis to study works of literature. This process
-involves deploying computer programs to clean, categorize, and count
-elements in textual data, and is often followed by interpretive
-analysis, where the critic engages the results of quantification from
-a humanities lense. More often than not, distant reading is combined
-with close reading methods, as crtics will use the results of
-quantitative analysis to identify key moments from the text that merit
-closer attention.[fn:4]
+histories. 
+
+Practitioners of "distant reading," a critical method at the
+intersection of Literary Studies and Data Science, use quantitative
+analysis to study works of literature. This process involves deploying
+computer programs to clean, categorize, and count elements in textual
+data, and is often followed by interpretive analysis, where the critic
+engages the results of quantification from a humanities
+lense. 
 
 According to its practitioners, distant reading is most useful for the
 ways it allows connections to emerge among vast amounts of textual
-data. Critics who do this work often emphasize the problem of literary
-scale and human attention, because distant reading allows them to
-handle the thousands of books in literary history without actually
-reading these texts. One prominent practitioner of Computational
-Literary Studies (CLS), Ted Underwood,[fn:5] harnesses the power of
-quantification and machine learning to glimpse what he calls the
-"distant horizon" of literary trends across centuries. His argument
-convincingly begins with the observation that human capacities of
-sight, attention, and memory preclude them from grasping the larger
-patterns of literary history across time. Distant reading, where
-"distance" means abstraction, or the simplification of textual data
-into computable objects such as publication dates and genres, allows
-critics to see connections amid the swarm of overflowing information.
+data. Underwood's argument convincingly begins with the observation
+that human capacities of sight, attention, and memory preclude them
+from grasping the larger patterns of literary history across
+time. Distant reading, where "distance" means abstraction, or the
+simplification of textual data into computable objects such as
+publication dates and genres, allows critics to see connections amid
+the swarm of overflowing information.
 
 Among distant reading practitioners, Underwood's approach is unique in
 that he models the ways that human assumptions can affect the results
@@ -1573,6 +1880,10 @@ left unresolved or unfixed---like gender ontology.
 
 
 * Footnotes
+
+[fn:13] Eve Kofosky Sedgwick, "Paranoid Reading"; Felski, /Limits of
+Critique/, Best, Stephen and Sharon Marcus. "Surface Reading: An
+Introduction." Representations 108 (2009): 1-21.
 
 [fn:12] Greg, Walter W. "The Rationale of Copy-Text," /Studies in
 Bibliography/, Vol. 3, 1950/1951, pp. 19-36; Bowers, Fredson. /Textual
