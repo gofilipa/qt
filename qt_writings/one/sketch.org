@@ -1,123 +1,65 @@
 * Chapter One Sketch
-This chapter proposes a reading methodology that leverages the
-critic's relationship to the text to open possibilities for
-interpretation and connections to the textual material. It explores
-the ways that reading practices across two different fields (digital
-humanities and queer theory) intertwine, and how this creates a new
-method for reading queer narratives in digital contexts. 
 
-This chapter debunks the fantasy of falsifiable criticism. It begins
-with a critique of current distant reading practices, which emphasizes
-how these practices reproduce the critic's assumptions. Includes
-readings of Underwood, Da, Piper(?). 
+Revising the first draft. 
 
-Then, the chapter proposes a method for distant reading as a tool for
-speculation. It builds off ideas of textual scholarship, algorithmic
-criticism. 
-- Katherine Bode drawing off McGann
-- Clement drawing off Drucker
-- Richard Jean So's appalling
-- Pamela Caughie's storm cloud
+** The fantasy of the falsifiable 
 
-What is the link to queer theory? This is the main issue ....  the
-quality of distant reading that is queer is the enacted aspect. The
-performative. This relates to the abstraction of data on the digital
-side.
+*** reading methods
+Introduces paranoid, militant, suspicious reading, which is unified by
+the belief that something hidden will allow us to understand the
+text's meaning. 
 
-queer theory - digital humanities
-performance - abstraction 
+*** DR's roots in the falsifiable toward automation
+goes into Moretti's early thinking on a falsifiable criticism, which
+was intended to reduce ambiguity and disagreement, and make literary
+criticism more like a science.
 
-The burden of the chapter is to describe how queerness and data are
-mediated, and can/should be engaged critically as constructions,
-formalizations, that draw attention to their own mediation.
+goes into Da's usage/critique of DR, which extends Moretti's valuation
+of falsifiable.
 
-We look at? Butler and Anzaldua?  We see this in /voyant-tools/ with
-/Orlando: A Biography/.
+*** ramsay's algorithmic criticism, drucker's speculative computing
+these approaches purposefully employ the computer toward less
+reproducible, and more speculative, results. Ramsay uses the
+objectivity of the machine as an aid in subjective work; Drucker takes
+the more radical approach and uses methods to critique objectivity.
 
-** On reproducible criticism
-*** Nan Z Da on Reproducibility 
-Reproducibility as a benchmark for quantitative methods enacts some of
-the same harms as paranoid reading. Da's point on "reproducibility"
-reveals an ultimately conservative investment in interpretive work as
-something objectively, factually, effectively true.
+*** reading for social categories SoRoland
+Moretti, Da, Drucker, and Ramsay are actually all engaging in a kind
+of speculative kind of criticism. The difference is their orientation
+toward their data. Moretti is suspicious, the others are open to being
+struck. 
 
-*** Altschuler and Weimar
-They call to overturn the "unproblematic translatability of
-information between the senses," valuing reproduction
-over remediation/deformance. In this view, digital becomes a means of
-optimization, efficiency, total knowledge and understanding.
+This is important when we are studying data about marginalized
+subjectivities. See So and Roland on reading race, for example. White
+authorship only coheres against the variance of black authorship. This
+shows how categories are constructed. Using the computer to explore
+the ways that humans encode meaning into social constructs. Finds a
+relationship between sexuality and race.
 
-*** Drucker's skewing the metrics
-Drucker warps graphical metrics to suggest indeterminacy. 
+I want to take aspects from Ramsay's speculation, Drucker's
+distortion/deconstruction, and SoRoland's orientation to study
+marginalized aspects of gender.
 
-*** the intersection btw queer & digit
-The "desire for touching," without being able to fully touch, as the
-definition of queerness, is also where the digital and queer
-intersect. Digital media creates the illusion that we have access to
-data, to information, but all we have access to is a *formalized*
-relationship to that data. We encounter the digital object through
-mediation, through an interface, mice, GUIs, keyboards, etc.
+*** Underwood v Mandell's on deconstructing gender
+Underwood shows how studying gender can fall into an oppositional
+structure that Sedgwick describes as paranoia. 
 
+Mandell's study of gender according to performance is exactly
+necessary, but her understanding of gender as something to be mimicked
+overlooks the habitual constitutive nature of it.
 
-** Performativit/Abstraction
---> Digital formats and interfaces facilitate an intimate process of
-engaging with literature on a computer, where users can unlock the
-dynamicity of texts. This performative elements allows unique and
-alternative reading paths. 
+*** using the digital to work with gender
+How do we take what SoRoland, Ramsay, Drucker, Mandell are teaching us
+and apply it to studying gender? We need a method that attends to the
+particularity of gender construction, according to queer theory. Like
+So and Roland found blackness defines only against whiteness, we need
+to look at how the female defines against the male.
 
-*Distant reading tools are tools for thought, rather than
-disambiguation machines.*
-- this is about seeing data as performative, prompting play,
-speculation...
+we have to be careful about the kind of knowledge we are trying to
+create. Not adopting a suspicious attitude, but a speculative one. 
 
-*** the value of alterneity over reproduction: performance
-We move away from the reproducible to the performative, exploring
-active elements of analysis, the sensible engagement between critic
-and text
+*** orlando close reading
+In close reading the text, we see a relationship between gender and
+the imagination. Let's explore. 
 
-*** Bode's materiality, critque of Underwood
-Bode emphasizes attention to the apparatus. 
-
-*** Critique of Underwood's "sensitivity"
-Distant reading can be sensitive, harnessing the attention span of
-the reader to present new pathways through text. 
-
-*** Tanya Clement: discovery
-                
-
-
-** Digital projects based on text manipulation: 
-I find that the haptic and exploratory activity of working with these
-tools enlivens the reading process by allowing the reader to play,
-experiment, and imagine new connections to the textual object.
-
-*** /Voyant-Tools/
-Jerome McGann "prosthetic extensions"
-Potential texts: Woolf's /Orlando/. 
-
-- Interweave a narrative about touch. Taking new materialist ideas but
-placing them within context of QPOC critiqe. Anzaldua and Bennet on
-touch and severing. Sarah Ahmed too. 
-
-*** /These Waves of Girls/
-Following narrative desire. The click of the mouse allows readers to
-move with the text, based on their own paths. 
-
-*** what are some print texts that enact these principles of movement?
-- Alison Bechdel's "Are You My Mother": where every page is vibrating
-with reference. 
-
-
-** MISC
-*** incommensurability, numbers are just as ambiguous
-    - "The imprecision of the human world is part of the reason why
-      numbers are so useful in social science: they allow researchers to
-      describe continua instead of sorting everything into discrete
-      categories" (Underwood 20).
-
-*** race and technology
-- Lisa Nakamura, “Race In/For Cyberspace: Identity Tourism and Racial
-      Passing on the Internet” in Works and Days, Volume 13, Nos. 1 &
-      2, 181-193, 1995. [Available as a .pdf on course Group site.]
-
-
+--> add criticism on gender in the novel

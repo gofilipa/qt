@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2020-11-19 Thu 09:57 -->
+<!-- 2020-12-14 Mon 15:33 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>&lrm;</title>
@@ -233,70 +233,120 @@ for the JavaScript code in this tag.
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#org138a04c">1. one</a>
+<li><a href="#org01bef13">1. one</a>
 <ul>
-<li><a href="#orgef73250">1.1. revision notes</a>
+<li><a href="#org7b4a9c0">1.1. revision notes</a>
 <ul>
-<li><a href="#org703b104">1.1.1. chapter summary</a></li>
-<li><a href="#orgbf1d5ee">1.1.2. what is the main point of this chapter?</a></li>
-<li><a href="#org3404ac2">1.1.3. What is the link to queer theory? This is the main issue</a></li>
-<li><a href="#org3b61fb4">1.1.4. revision feedback from diss</a></li>
+<li><a href="#org1a669b8">1.1.1. chapter summary</a></li>
+<li><a href="#org0422c8a">1.1.2. what is the main point of this chapter?</a></li>
+<li><a href="#orge5a7dea">1.1.3. What is the link to queer theory? This is the main issue</a></li>
+<li><a href="#org3cc8fac">1.1.4. revision feedback from diss</a></li>
 </ul>
 </li>
-<li><a href="#orgf69d62f">1.2. on reading methodology</a>
+<li><a href="#orgcb6a380">1.2. <span class="todo WAITING">WAITING</span> on reading methodology, orientations toward reading</a>
 <ul>
-<li><a href="#org790f870">1.2.1. Felski and emotionally guided criticism</a></li>
+<li><a href="#orge8d5529">1.2.1. different kinds of reading..</a></li>
+<li><a href="#org6da0180">1.2.2. incporporating the critique of Moretti</a></li>
+<li><a href="#orgf81f52c">1.2.3. Felski and emotionally guided criticism</a></li>
 </ul>
 </li>
-<li><a href="#org3e63e13">1.3. on reproducible criticism</a>
+<li><a href="#orgec6026c">1.3. on reproducible criticism</a>
 <ul>
-<li><a href="#org54c6eed">1.3.1. Underwood et al</a></li>
-<li><a href="#orgf98bc0a">1.3.2. Underwood &amp; Da on reproducibility</a></li>
-<li><a href="#orgf7bb91a">1.3.3. Drucker's skewing the graphs</a></li>
-<li><a href="#org49aff7d">1.3.4. Mandell: deconstructing gender with computation</a></li>
-<li><a href="#org3678a15">1.3.5. So &amp; Roland: using machine to ignite human thinking</a></li>
-<li><a href="#orgc268cd5">1.3.6. <span class="todo TODO">TODO</span> synthesis of Mandell and SoRoland</a></li>
-<li><a href="#orga432c8e">1.3.7. <span class="todo WAITING">WAITING</span> Moretti, huh?</a></li>
+<li><a href="#org645c01f">1.3.1. Underwood et al</a></li>
+<li><a href="#org0464958">1.3.2. Underwood &amp; Da on reproducibility</a></li>
+<li><a href="#org20f36f9">1.3.3. Drucker's skewing the graphs</a></li>
+<li><a href="#orgc546ad7">1.3.4. Mandell: deconstructing gender with computation</a></li>
+<li><a href="#orga77a2bc">1.3.5. So &amp; Roland: using machine to ignite human thinking</a></li>
+<li><a href="#orgd8bb042">1.3.6. <span class="todo WAITING">WAITING</span> synthesis of Mandell and SoRoland</a></li>
 </ul>
 </li>
-<li><a href="#org6c12dbf">1.4. <span class="todo WAITING">WAITING</span> intersec/tion with queer &#x2013; embodiment, performance,</a>
+<li><a href="#org5bcdc63">1.4. textual scholarship and deformance</a>
 <ul>
-<li><a href="#org043544a">1.4.1. animation and performance</a></li>
-<li><a href="#org10ad129">1.4.2. Butler on contact, embodiment</a></li>
+<li><a href="#org790cdf8">1.4.1. distant reading not to achieve scale, but for reconfiguration</a></li>
+<li><a href="#org453f42f">1.4.2. Textual scholarship offers a new way of looking at text</a></li>
+<li><a href="#orgd16e041">1.4.3. overview of textual scholarship</a></li>
+<li><a href="#orge5da69c">1.4.4. performative analysis with focus on apparatus</a></li>
+<li><a href="#org271f6f9">1.4.5. play leads to discovery</a></li>
 </ul>
 </li>
-<li><a href="#orgb37ddc6">1.5. <span class="todo TODO">TODO</span> demonstrating performativity/enactment</a>
+<li><a href="#orgcda2ec6">1.5. <span class="todo WAITING">WAITING</span> queer performance &amp; citationality</a>
 <ul>
-<li><a href="#org32d58d8">1.5.1. performance as</a></li>
-<li><a href="#org4709007">1.5.2. Bode's materiality,  critque of Underwood</a></li>
-<li><a href="#orgb6f5e41">1.5.3. Critique of Underwood's "sensitivity"&#x2014;a focus on attention</a></li>
-<li><a href="#org87be6b6">1.5.4. Tanya Clement &amp; Jerome McGann: performance &#x2013;&gt; discovery</a></li>
-<li><a href="#orgc7b08c8">1.5.5. Pamela Caughie's storm cloud</a></li>
+<li><a href="#org9a157ef">1.5.1. overview</a></li>
+<li><a href="#orgb782c1a">1.5.2. Butler</a></li>
 </ul>
 </li>
-<li><a href="#org6cf5748">1.6. playing with voyant</a></li>
-<li><a href="#org619f4df">1.7. Misc</a>
+<li><a href="#org4dffb29">1.6. <span class="todo WAITING">WAITING</span> Queer Distant Reading</a>
 <ul>
-<li><a href="#org7c086f9">1.7.1. Altschuler and Weimar on reproducibility</a></li>
+<li><a href="#org4e7a9a1">1.6.1. performance emphasizes materiality, movement, discovery</a></li>
+<li><a href="#orgcaa131e">1.6.2. parallels between performance and deformance.</a></li>
+<li><a href="#org554ce37">1.6.3. Klein? Gaboury?</a></li>
+<li><a href="#org95d7863">1.6.4. playing with voyant</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#org2e8b5e8">2. commands</a></li>
+<li><a href="#orgd34c2f6">2. Move to other chapters</a>
+<ul>
+<li>
+<ul>
+<li><a href="#org64447a0">2.0.1. Altschuler and Weimar on reproducibility</a></li>
+<li><a href="#org2f97de9">2.0.2. The debates about TEI illustrates this tension between the</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#org280db25">3. commands</a></li>
+<li><a href="#org47dd53b">4. annotated bib</a>
+<ul>
+<li>
+<ul>
+<li><a href="#org28039ff">4.0.1. Moretti, Franco. Graphs, Maps, Trees: Abstract Models for Literary</a></li>
+<li><a href="#org91ad7ba">4.0.2. Drucker, Johanna. "Introduction," SpecLab: Digital Aesthetics and</a></li>
+<li><a href="#org9983137">4.0.3. Ramsay, Stephen. Reading Machines: Toward an Algorithmic</a></li>
+<li><a href="#org2dbe198">4.0.4. Drucker, Johanna. "Humanities Approaches to Graphical Display." DHQ:</a></li>
+<li><a href="#org2235d67">4.0.5. Felski, Rita. The Limits of Critique. 2015.</a></li>
+<li><a href="#org8146360">4.0.6. Piper, Andrew. Enumerations: Data and Literary Study. 2018.</a></li>
+<li><a href="#org2b85bc6">4.0.7. Landow, George. Hypertext 3.0: Critical Theory and New Media in an Era</a></li>
+<li><a href="#org270d264">4.0.8. Fisher, Caitlin. These Waves of Girls, 2001. Web.</a></li>
+<li><a href="#org6909ab3">4.0.9. Tenen, Dennis. Plain Text: the Poetics of Computation, 2017. Epub.</a></li>
+<li><a href="#org7af9a42">4.0.10. Rockwell, Geoffrey and Stefan Sinclair. Voyant-Tools. 2018.</a></li>
+<li><a href="#orgd0d7c88">4.0.11. Galloway, Alexander. Protocol: How Control Exists after</a></li>
+<li><a href="#org01f93c0">4.0.12. Chun, Wendy. Control and Freedom: Power and Paranoia in the Age of</a></li>
+<li><a href="#org6668ff0">4.0.13. Bennett, Jane. Vibrant Matter: A Political Ecology of Things. 2010.</a></li>
+<li><a href="#orgf06ee73">4.0.14. Moten, Fred and Stefano Harney. The Undercommons: Fugitive Planning &amp;</a></li>
+<li><a href="#orgcd62cfc">4.0.15. Tufekci, Zeynep. Twitter and Tear Gas: the Power and Fragility of</a></li>
+<li><a href="#org69892fd">4.0.16. Gaboury, Jacob. "Becoming NULL: Queer Relations in the Excluded</a></li>
+<li><a href="#org2d6179f">4.0.17. Kittler, Friedrich. Gramophone, Film, Typewriter. 1999.</a></li>
+<li><a href="#org6b471c5">4.0.18. Hayles, N. Katherine. Writing Machines. 2002.</a></li>
+<li><a href="#orgdb5e4d8">4.0.19. Kirschenbaum, Matthew. Mechanisms: New Media and the Forensic</a></li>
+<li><a href="#orgb738782">4.0.20. Blanchette, Jean-François, "A Material History of Bits." Journal of</a></li>
+<li><a href="#org32ec607">4.0.21. Hansen, Mark. Feed-Forward: On The Future of 21st Century Media. 2014.</a></li>
+<li><a href="#org8735a15">4.0.22. Woolf, Virginia, Emily McGinn, Amy Leggette, Matthew Hannah, and Paul</a></li>
+<li><a href="#org5a0d349">4.0.23. Peters, John Durham. The Marvelous Clouds: Toward a Philosophy of</a></li>
+<li><a href="#orgfaaefd1">4.0.24. McKenzie, D.F. Bibliography and the Sociology of Texts. 1986.</a></li>
+<li><a href="#orgd0b118d">4.0.25. Tanselle, Thomas. "A Rationale of Textual Criticism." 1992.</a></li>
+<li><a href="#orgf8a65ec">4.0.26. Derrida, Jacques. “Archive Fever: A Freudian Impression.”</a></li>
+<li><a href="#org599382f">4.0.27. McGann, Jerome. Radiant Textuality: Literature after the World Wide</a></li>
+<li><a href="#orgfd5b42d">4.0.28. Singer, Kate. “Digital Close Reading: TEI for Teaching Poetic</a></li>
+<li><a href="#orgdec9c75">4.0.29. Caughie, Emily Datskou and Rebecca Parker. “Storm Clouds on the</a></li>
+</ul>
+</li>
+</ul>
+</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org138a04c" class="outline-2">
-<h2 id="org138a04c"><span class="section-number-2">1</span> one</h2>
+<div id="outline-container-org01bef13" class="outline-2">
+<h2 id="org01bef13"><span class="section-number-2">1</span> one</h2>
 <div class="outline-text-2" id="text-1">
 </div>
 
-<div id="outline-container-orgef73250" class="outline-3">
-<h3 id="orgef73250"><span class="section-number-3">1.1</span> revision notes</h3>
+<div id="outline-container-org7b4a9c0" class="outline-3">
+<h3 id="org7b4a9c0"><span class="section-number-3">1.1</span> revision notes</h3>
 <div class="outline-text-3" id="text-1-1">
 </div>
-<div id="outline-container-org703b104" class="outline-4">
-<h4 id="org703b104"><span class="section-number-4">1.1.1</span> chapter summary</h4>
+<div id="outline-container-org1a669b8" class="outline-4">
+<h4 id="org1a669b8"><span class="section-number-4">1.1.1</span> chapter summary</h4>
 <div class="outline-text-4" id="text-1-1-1">
 <p>
 This introduction's burden was to establish how digital media creates
@@ -313,7 +363,7 @@ critic's assumptions. Includes readings of Underwood, Da, Piper(?).
 
 <p>
 What if we take another orientation toward distant reading, one that
-looks at computation as productive of new schemas of queer forms? The
+looks at <i>computation as productive of new schemas of queer form?</i> The
 next step is to explore how queer theory's notions of performance
 (Butler) allow us to rethink the formalist aspects of distant
 reading. It teases out the following threads of correspondance between
@@ -347,8 +397,8 @@ Then offer my own example of this method.
 </div>
 </div>
 
-<div id="outline-container-orgbf1d5ee" class="outline-4">
-<h4 id="orgbf1d5ee"><span class="section-number-4">1.1.2</span> what is the main point of this chapter?</h4>
+<div id="outline-container-org0422c8a" class="outline-4">
+<h4 id="org0422c8a"><span class="section-number-4">1.1.2</span> what is the main point of this chapter?</h4>
 <div class="outline-text-4" id="text-1-1-2">
 <p>
 The burden of the chapter is to describe how queerness and data are
@@ -358,8 +408,8 @@ formalizations, that draw attention to their own mediation.
 </div>
 </div>
 
-<div id="outline-container-org3404ac2" class="outline-4">
-<h4 id="org3404ac2"><span class="section-number-4">1.1.3</span> What is the link to queer theory? This is the main issue</h4>
+<div id="outline-container-orge5a7dea" class="outline-4">
+<h4 id="orge5a7dea"><span class="section-number-4">1.1.3</span> What is the link to queer theory? This is the main issue</h4>
 <div class="outline-text-4" id="text-1-1-3">
 <p>
 the quality of distant reading that is queer is the enacted
@@ -374,8 +424,8 @@ We look at? Butler and Anzaldua?  We see this in <i>voyant-tools</i> with
 </div>
 </div>
 
-<div id="outline-container-org3b61fb4" class="outline-4">
-<h4 id="org3b61fb4"><span class="section-number-4">1.1.4</span> revision feedback from diss</h4>
+<div id="outline-container-org3cc8fac" class="outline-4">
+<h4 id="org3cc8fac"><span class="section-number-4">1.1.4</span> revision feedback from diss</h4>
 <div class="outline-text-4" id="text-1-1-4">
 <p>
 Underwood &amp; Da
@@ -401,13 +451,92 @@ which values the reproducible.</li>
 </div>
 
 
-<div id="outline-container-orgf69d62f" class="outline-3">
-<h3 id="orgf69d62f"><span class="section-number-3">1.2</span> on reading methodology</h3>
+<div id="outline-container-orgcb6a380" class="outline-3">
+<h3 id="orgcb6a380"><span class="section-number-3">1.2</span> <span class="todo WAITING">WAITING</span> on reading methodology, orientations toward reading</h3>
 <div class="outline-text-3" id="text-1-2">
+<p>
+our orientation toward reading determines the engagement &#x2014; we need
+an orientation of play
+</p>
 </div>
-<div id="outline-container-org790f870" class="outline-4">
-<h4 id="org790f870"><span class="section-number-4">1.2.1</span> Felski and emotionally guided criticism</h4>
+
+<div id="outline-container-orge8d5529" class="outline-4">
+<h4 id="orge8d5529"><span class="section-number-4">1.2.1</span> different kinds of reading..</h4>
 <div class="outline-text-4" id="text-1-2-1">
+<p>
+“Distant Reading… where distance is however not an obstacle, but a
+specific form of knowledge: fewer elements, hence a sharper sense of
+their overall interconnection&#x2026;in which the reality of the text
+undergoes a process of deliberate reduction and abstraction”
+(Moretti 1)
+</p>
+
+<p>
+Speculative Computing &#x2014; “push[es] subjective and probabilistic
+concepts of knowledge as experience (partial, situated, and
+subjective) against objective and mechanistic claims for knowledge as
+information (total, managed, and externalized)” (Drucker 5).
+</p>
+
+<p>
+Algorithmic Criticism &#x2014; “attempts to employ the rigid, inexorable,
+uncompromising logic of algorithmic transformation as the constraint
+under which critical vision may flourish” (32).  
+</p>
+
+<p>
+Postcritical Reading…  “in this sense, is not just a cognitive
+activity but an embodied mode of attentiveness that involves us in
+acts of sensing, perceiving, feeling, registering, and engaging”
+(Felski 176).  
+</p>
+
+<p>
+Reading Computationally, a bifocal process: There is a mixing of
+different modes of reading. Distant reading provides context, or
+framework, for close reading. The subjectivity of the critic becomes
+entangled with the object of study.
+</p>
+</div>
+</div>
+<div id="outline-container-org6da0180" class="outline-4">
+<h4 id="org6da0180"><span class="section-number-4">1.2.2</span> incporporating the critique of Moretti</h4>
+<div class="outline-text-4" id="text-1-2-2">
+<p>
+I want to do a subtle reading of Moretti throughout this
+section. Showing how tools can reveal his positionality toward the
+topic as one that is aggressive]
+</p>
+
+<p>
+Moretti, if you follow his thought, is actually engaging in a
+speculative method, using visualization to spark his imagination and
+make conjectures, but he doesn’t embrace his own subjectivity, because
+he’s going for a materialist history of literature. He makes
+conjectures, but disguises them as “explanations”. He finds a way to
+“explain” the trends in a graph. But his explanation is a guess.
+</p>
+
+<p>
+For example, when charting the rise and fall of several genres of
+English novels over the 18th and 19th centuries, he says that the
+reason for these cycles is the readership, that a genre’s popularity
+can be attributed to the taste of a generation (each cycle lasting
+about 25 years), which is then supplanted by a new generation. What he
+doesn’t account for is not only his conjecture, but for the nature of
+his data, about the genres and novels themselves, which he culls from
+monographs cited at the end of the chapter. His dataset comes from
+literary critical studies, and he titles his bibliography&#x2014; “A
+Taxonomy of Forms”, occluding its subjective nature. The way that he’s
+using the graphs to spark his inquiry and conjectures shows an
+underlying speculative method that’s guiding his criticism.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf81f52c" class="outline-4">
+<h4 id="orgf81f52c"><span class="section-number-4">1.2.3</span> Felski and emotionally guided criticism</h4>
+<div class="outline-text-4" id="text-1-2-3">
 <p>
 Rita Felski’s “The Limits of Critique”.  
 </p>
@@ -431,12 +560,12 @@ wants to bring the body back into criticism.
 </div>
 
 
-<div id="outline-container-org3e63e13" class="outline-3">
-<h3 id="org3e63e13"><span class="section-number-3">1.3</span> on reproducible criticism</h3>
+<div id="outline-container-orgec6026c" class="outline-3">
+<h3 id="orgec6026c"><span class="section-number-3">1.3</span> on reproducible criticism</h3>
 <div class="outline-text-3" id="text-1-3">
 </div>
-<div id="outline-container-org54c6eed" class="outline-4">
-<h4 id="org54c6eed"><span class="section-number-4">1.3.1</span> Underwood et al</h4>
+<div id="outline-container-org645c01f" class="outline-4">
+<h4 id="org645c01f"><span class="section-number-4">1.3.1</span> Underwood et al</h4>
 <div class="outline-text-4" id="text-1-3-1">
 <p>
 Major developments in technology also perpetuate racial
@@ -525,8 +654,8 @@ assumptions of white universality that inevitably marks blackness as
 </div>
 </div>
 
-<div id="outline-container-orgf98bc0a" class="outline-4">
-<h4 id="orgf98bc0a"><span class="section-number-4">1.3.2</span> Underwood &amp; Da on reproducibility</h4>
+<div id="outline-container-org0464958" class="outline-4">
+<h4 id="org0464958"><span class="section-number-4">1.3.2</span> Underwood &amp; Da on reproducibility</h4>
 <div class="outline-text-4" id="text-1-3-2">
 <p>
 Let us now turn to computational methods, seeing how they bear out
@@ -610,7 +739,9 @@ became more commonly pursued as a male occupation in the middle of the
 20th century than it was previously (<i>Distant Horizons</i> 137). This
 fact, coupled with the tendency of men to write more about men than
 women, suggests why less women writing would led to a decline in
-female characters. This explains how Underwood's seemingly paradoxical conclusion, that gender roles become more flexible while the actual prevalence of women dissapates from fiction, might be possible.
+female characters. This explains how Underwood's seemingly paradoxical
+conclusion, that gender roles become more flexible while the actual
+prevalence of women dissapates from fiction, might be possible.
 </p>
 
 <p>
@@ -700,8 +831,8 @@ interpretive conditions might be universalized.
 </div>
 </div>
 
-<div id="outline-container-orgf7bb91a" class="outline-4">
-<h4 id="orgf7bb91a"><span class="section-number-4">1.3.3</span> Drucker's skewing the graphs</h4>
+<div id="outline-container-org20f36f9" class="outline-4">
+<h4 id="org20f36f9"><span class="section-number-4">1.3.3</span> Drucker's skewing the graphs</h4>
 <div class="outline-text-4" id="text-1-3-3">
 <p>
 Underwood and Da overlook the way that quantification can be used to
@@ -761,8 +892,8 @@ the relationship between elements.
 </div>
 </div>
 
-<div id="outline-container-org49aff7d" class="outline-4">
-<h4 id="org49aff7d"><span class="section-number-4">1.3.4</span> Mandell: deconstructing gender with computation</h4>
+<div id="outline-container-orgc546ad7" class="outline-4">
+<h4 id="orgc546ad7"><span class="section-number-4">1.3.4</span> Mandell: deconstructing gender with computation</h4>
 <div class="outline-text-4" id="text-1-3-4">
 <p>
 Drucker points out how data that is taken (capta) can be rendered
@@ -872,8 +1003,8 @@ researcher more opportunities for input.
 </div>
 </div>
 
-<div id="outline-container-org3678a15" class="outline-4">
-<h4 id="org3678a15"><span class="section-number-4">1.3.5</span> So &amp; Roland: using machine to ignite human thinking</h4>
+<div id="outline-container-orga77a2bc" class="outline-4">
+<h4 id="orga77a2bc"><span class="section-number-4">1.3.5</span> So &amp; Roland: using machine to ignite human thinking</h4>
 <div class="outline-text-4" id="text-1-3-5">
 <p>
 One example of distant reading explores how computation might handle
@@ -981,10 +1112,22 @@ to computer output. What if, rather than using the machine to study
 human constructs, we used the machine to spur human thinking?
 </p>
 </div>
+</div>
 
+<div id="outline-container-orgd8bb042" class="outline-4">
+<h4 id="orgd8bb042"><span class="section-number-4">1.3.6</span> <span class="todo WAITING">WAITING</span> synthesis of Mandell and SoRoland</h4>
+<div class="outline-text-4" id="text-1-3-6">
+<p>
+Both Mandell and SoRoland are using the machine to take apart these
+categories of race and gender.
+But let's look to the ways that the machine presents ever new
+configurations of race and gender. Let's look at the form as a <i>queer
+form</i>. 
+</p>
+</div>
 <ol class="org-ol">
-<li><a id="org97f567c"></a>→ What kind of knowledge are we trying to create? Aren't we now<br />
-<div class="outline-text-5" id="text-1-3-5-1">
+<li><a id="org38bcaca"></a>→ What kind of knowledge are we trying to create? Aren't we now<br />
+<div class="outline-text-5" id="text-1-3-6-1">
 <p>
 operating as if it is possible to “distant read” in the first
 place? That there are things which can be quantified, if only we
@@ -996,54 +1139,368 @@ has an effect. Are we trying to recover or to speculate?
 </li>
 </ol>
 </div>
-
-<div id="outline-container-orgc268cd5" class="outline-4">
-<h4 id="orgc268cd5"><span class="section-number-4">1.3.6</span> <span class="todo TODO">TODO</span> synthesis of Mandell and SoRoland</h4>
-<div class="outline-text-4" id="text-1-3-6">
-<p>
-Both Mandell and SoRoland are using the machine to take apart these
-categories of race and gender.
-But let's look to the ways that the machine presents ever new
-configurations of race and gender. Let's look at the form as a <i>queer
-form</i>. 
-</p>
-</div>
-</div>
-
-<div id="outline-container-orga432c8e" class="outline-4">
-<h4 id="orga432c8e"><span class="section-number-4">1.3.7</span> <span class="todo WAITING">WAITING</span> Moretti, huh?</h4>
-<div class="outline-text-4" id="text-1-3-7">
-<p>
-Moretti, if you follow his thought, is actually engaging in a
-speculative method, using visualization to spark his imagination and
-make conjectures, but he doesn’t embrace his own subjectivity, because
-he’s going for a materialist history of literature. He makes
-conjectures, but disguises them as “explanations”. He finds a way to
-“explain” the trends in a graph. But his explanation is a guess.
-</p>
-
-<p>
-For example, when charting the rise and fall of several genres of
-English novels over the 18th and 19th centuries, he says that the
-reason for these cycles is the readership, that a genre’s popularity
-can be attributed to the taste of a generation (each cycle lasting
-about 25 years), which is then supplanted by a new generation. What he
-doesn’t account for is not only his conjecture, but for the nature of
-his data, about the genres and novels themselves, which he culls from
-monographs cited at the end of the chapter. His dataset comes from
-literary critical studies, and he titles his bibliography&#x2014; “A
-Taxonomy of Forms”, occluding its subjective nature. The way that he’s
-using the graphs to spark his inquiry and conjectures shows an
-underlying speculative method that’s guiding his criticism.
-</p>
-</div>
-</div>
 </div>
 
 
-<div id="outline-container-org6c12dbf" class="outline-3">
-<h3 id="org6c12dbf"><span class="section-number-3">1.4</span> <span class="todo WAITING">WAITING</span> intersec/tion with queer &#x2013; embodiment, performance,</h3>
+<div id="outline-container-org5bcdc63" class="outline-3">
+<h3 id="org5bcdc63"><span class="section-number-3">1.4</span> textual scholarship and deformance</h3>
 <div class="outline-text-3" id="text-1-4">
+<p>
+how dh methods descendant from textual scholarship offer a model of
+deformance that can incorporate key ideas from queer theory, like
+citationality/resignification, to do distant reading.
+</p>
+</div>
+<div id="outline-container-org790cdf8" class="outline-4">
+<h4 id="org790cdf8"><span class="section-number-4">1.4.1</span> distant reading not to achieve scale, but for reconfiguration</h4>
+<div class="outline-text-4" id="text-1-4-1">
+<p>
+According to Underwood, distant reading is less useful for studying a
+single text in depth and more useful for taking a long view of larger
+corpora. He sets up an opposition between computer and human reading:
+"Computational analysis of a text is more flexible than it used to be,
+but it is still quite crude compared to human reading; it helps mainly
+with questions where evidence is simply too big to fit in a single
+reader's memory" (xxi). He is right to point out that a computer
+cannot (yet) draw inferences like a human can, and that a human cannot
+"read" at the same speed as a computer. Yet, his emphasis on the
+limitations of human memory suggests another way that that computers
+can guide and enhance the human reading of smaller texts. What the
+computer properly does is arrange a set of data&#x2013;of any size&#x2013;for
+human consumption. This involves processing datasets into new forms
+and configurations that can then be scrutinzed by a human
+reader. Although Underwood uses distant reading to "to find a
+perspective that makes&#x2026; scholars all congruent with each other,"
+quantitative methods can supplement human memory by approaching
+memory, specifically working memory, as a resource, rather than a
+hindrance (<i>Distant Horizons</i> 32). The computer can re-arrange text in
+a way that focuses the attention span of the reader on elements
+previously unseen or overlooked. Underwood's focus on
+falsifiability&#x2013;the idea that distant reading can process more
+evidence to give a more "complete" picture&#x2013;blocks out the ways that
+the ways that quantitative literary analysis, or distant reading,
+works in coordination with existing human capacities.
+</p>
+</div>
+</div>
+<div id="outline-container-org453f42f" class="outline-4">
+<h4 id="org453f42f"><span class="section-number-4">1.4.2</span> Textual scholarship offers a new way of looking at text</h4>
+<div class="outline-text-4" id="text-1-4-2">
+<p>
+Now we shift our attention to a body of literary criticism that offers
+another perspective for handling textual data. The field of textual
+scholarship, and particularly the editorial practice of deformance,
+opens up a way of thinking about data that is performative rather than
+representative. Critics like Jerome McGann, Tanya Clement, and
+Katherine Bode take an approach toward text that resists the
+conservatism of traditional textual scholarship, which has generally
+aimed for the recovery and preservation of the ideal text. Rather than
+pursue recovery, these textual scholars explore new ways of reading
+our textual inheritance that creates new possibilities for discovery
+and speculation. Their methodology opens a space for key ideas in
+queer theory about how to work within (and resist) the constraints of
+language as a significatory system. This is about working within a
+system to transcend the determining structure of that system.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd16e041" class="outline-4">
+<h4 id="orgd16e041"><span class="section-number-4">1.4.3</span> overview of textual scholarship</h4>
+<div class="outline-text-4" id="text-1-4-3">
+<p>
+To proceed, I will present a historical trajectory of editorial
+practices that tells a story of textual scholarship. Textual
+scholarship is the study, annotation, and editing of textual
+materials, like manuscripts and books. Within textual scholarship,
+textual criticism focuses specifically on identifying and analyzing
+variants of manuscripts and books with the purpose of selecting an
+ideal witness as the basis for a critical edition. As they further
+idealize the value of authorial intention, theories of textual
+criticism increasingly delimit the purpose and purview of the
+editor. The history of textual criticism thus presents an arc, which
+first tends toward I call the conservative or restorative and then,
+with the advent of digital technology, the productive. With the
+popularization of digital tools, editing becomes less about restoring
+or correcting a text, and more about finding ways to open up the way
+that a text is read and interpreted. My purpose here is to carve a
+critique that emphasizes how the <i>creative</i> capacity functions within
+textual editing paradigm. My reading will therefore look to ways that
+editorial pracitices have opened up a space for the editor's role as a
+content creator rather than recoverer or preserver.
+</p>
+
+<p>
+The conservatism of textual editing begins with Ronald B. McKerrow,
+leading twentieth-century Shakespearean scholar. McKerrow proposed an
+influential model for "copy-text" editing, which bases the text (the
+"copy-text") on an early witness that most closely resembles the
+author's original intention. The editor defers to this text for
+editing, favoring the earliest copy-text to settle differences among
+variants. However, this approach created its own resistance among
+textual scholars, who decried the "the tyranny of the copy-text."
+While maintaining reliance on an early copy-text for accidentals
+elements like punctuation and spelling, the Greg-Bowers-Tanselle
+method of textual criticsm empowers editors to judge between numerous
+witnesses the text's more substantive elements<sup><a id="fnr.12" class="footref" href="#fn.12">12</a></sup>. The resulting
+critical edition is eclectic, drawing from multiple sources and
+depending heavily on the editor's judgment to determine authorial
+intention. Fredson Bowers and Thomas Tanselle advanced Walter
+W. Greg's influential work, <i>The Rationale of Copy-Text</i>, further
+extending the importance of authorial intention and encouraging
+editors to make careful and deliberate choices about substantive
+elements. Tanselle, in particular, places much value in the editor who
+is able to recongize and manage inevitable textual
+corruption. According to Tanselle, the physical variant is a vessel
+for the text, whose ideal form can only be realized by the editor. He
+makes a distinction between "work" and "text":
+</p>
+<blockquote>
+<p>
+Those who believe that they can analyze a literary work without
+questioning the constitution of a particular written or oral text of
+it are behaving as if the work were directly accessible on paper or in
+sound waves&#x2026; [In fact,] its medium is neither visual nor
+auditory. The medium of literature is the words (whether already
+existent or newly created) of a language; and arrangements of words
+according to the syntax of some language (along with such aids to
+their interpretation as pauses or punctuation) can exist in the mind,
+whether or not they are reported by voice or in writing. Tanselle
+16-17
+</p>
+</blockquote>
+<p>
+Tanselle explains that physical act of inscription involves tools that
+ultimately corrupt the pure ideas or intentions of the
+writer. Therefore, every writer needs an editor that can help her
+realize the ideal form of the text on paper. The editor, as someone
+who is sufficiently distant from the creation and transcription of the
+text, can objectively intimate its true intention. Therefore, the text
+closest to the author’s intention is one scrupulously edited by a
+textual scholar. Put another way, every author requires a thorough and
+knowledgeable editor in order to most closely realize his intentions
+on the page.
+</p>
+
+<p>
+Toward the end of the 20th century, textual critics like Jerome McGann
+and Donald F. McKenzie take another perspective on the effect of
+inscription and tools on the textual material. McGann explores how
+editorial practices, rather than aim for some ideal authorial version
+of a text, might open up the ways that a text might be interpreted. He
+builds off McKenzie's ideas about the influence of the social in
+textual criticism. McKenzie's groundbreaking work, <i>Bibliography and
+the Sociology of Texts</i> (1999), studies how the materiality of texts,
+includes sound and electronic media, takes on new forms and meanings
+in in their reprinting and reproduction. McKenzie traces this
+distribution, what he calls the "sociology" of texts, by examining the
+social context that produced each witness, pointing out that "Every
+society rewrites its past, every reader rewrites its texts, and if
+they have any continuing life at all, at some point every printer
+redesigns them” (25). Because the book is never a single object, but a
+product of a number of human agencies and mechanical techniques that
+are historically situated, no witness, regardless of scrupulous
+editing by the critic, can represent an "ideal" version. McGann takes
+these ideas and applies them to a digital editing environment, to
+explore how electronic media might present the different variants of a
+text. He explains that, because textual criticism in print format is
+limited to linear and two dimensional form of the codex, this
+criticism is limited to the same form as its object of
+study. Paper-based editions, according to McGann’s experience, are
+clunky and inadequate, and newer editions often “feed upon and develop
+from [their] own blindness and incapacities” (McGann 2001, 81). By
+contrast, digital editions can be designed for complex, reflexive, and
+ongoing interactions between reader and text. Indeed, “[a]n edition is
+conceivable that might undertake as an essential part of its work a
+regular and disciplined analysis and critique of itself” (McGann 2001,
+81). McGann explains that changing one’s view of the original
+materials through the process of building the edition calls its
+original purpose into question. McGann points out that his work on the
+digital <i>Rossetti Archive</i> brought him to repeatedly reconsider his
+earlier conception and goals, asserting that the archive "seemed more
+and more an instrument for imagining what we didn’t know” (2001,
+82). 
+</p>
+
+<p>
+Like books, digital media is also limited, but it holds potential for
+the way it displays information. The technical experience of editing
+electronic texts encourages the speculation on new potentialities
+about its presentation. McGann introduces the term “quantum poetics”
+to indicate the volatile potentiality for meaning contained in every
+element of a literary text. He explains that, “Aesthetic space is
+organized like quantum space, where the ‘identity’ of the elements
+making up the space are perceived to shift and change, even reverse
+themselves, when measures of attention move across discrete quantum
+levels” (McGann 2001, 183). The meaning of particular words in a
+literary text depends upon a multitude of factors, from antecedent
+readings and pathways through that text, to the significance of
+immanent elements such as typography and blank spaces, all of which
+the reader can only process a limited amount. In its potentiality,
+McGann asserts, “Every page, even a blank page&#x2026; is n-dimensional”
+(2001, 184). Accordingly, digital tools could expose literature’s
+inherent potentialities by carving new paths across familiar texts. In
+this way, McGann argues for tools that facilitate tactile and
+intuitive engagements of texts within an environment that opens itself
+up to multiple dimensions of reading.
+</p>
+
+<p>
+This radical potentiality of a text's quantum poetics is a result of
+the limitation of digital media, which creates a tranformation upon
+literary material into a new form. McGann's work thus takes the
+limitations of computation&#x2013;the fixing and disambiguation of data&#x2013;and
+turns it into a vehicle for analyzing literary material. He, along
+with Lisa Samuels, describe literary interpretation as performance, or
+what they call "deformance." Deformance works by estranging the reader
+from her familiarity of the text, and relies on the the volitality of
+meaning of particular words that depend upon a multitude of factors,
+from antecedent readings and pathways through that text, to the
+significance of immanent elements such as typography and blank spaces,
+all of which the reader can only process a limited amount. A
+"deformative criticism" therefore distorts, disorders, or re-assembles
+literary texts to discover new insights about its formal significance
+and meaning. McGann and Samuels offer the example of reading a poem
+backward, where “the critical and interpretive question is not 'What
+does the poem mean?' but 'How do we release or expose this poem’s
+possibilities for meaning?'" (2001, 108).
+</p>
+</div>
+</div>
+<div id="outline-container-orge5da69c" class="outline-4">
+<h4 id="orge5da69c"><span class="section-number-4">1.4.4</span> performative analysis with focus on apparatus</h4>
+<div class="outline-text-4" id="text-1-4-4">
+<p>
+I now turn to the work of Katherine Bode and Tanya Clement, both of
+whom have deep investments with traditions of textual scholarship,
+particularly the scholarship of Jerome McGann, that has influenced
+early experiments with digital humanities in English
+departments. Although their approaches vary in their specific topics,
+methods, and results, they are connected in an investment for, in the
+words of McGann, "imagining what we don't know" (82).
+</p>
+
+<p>
+Building off the humanistic approaches in textual scholarship and
+bibliography, Bode reframes literary analysis as performative. Bode
+incorporates insights from Karen Barad's feminist scientific
+methodology to argue against representationalism, or "the idea that a
+knowing human agent symbolically expresses – or represents – some
+thing-in-the-world (that thing is unchanged by that expression, and
+that expression is more available or apprehensible to the subject than
+the thing itself) ("Data Beyond Representation" par. 2). Barad's work
+intervenes in theoretical physics to argue how the researcher is
+always implicated in the object of study, and she proposes a theory of
+"agential realism," where objects in the world do not precede their
+interaction, but rather, 'objects' emerge through particular
+"intra-actions" (Barad 58). Bode brings Barad's point about the
+assumption of representation from physics to computational modelling,
+where she explains that "entities don’t pre-exist engagements but are
+generated in an ongoing or emergent way, by those intra-actions"
+("Data Beyond Represenation" par. 2). For Bode, what statisticians
+value as “representativeness” or “reproducibility” isn’t as important
+(within a humanities context) as the materiality of the
+apparatus. Rather than attempt to secure a factual or objective status
+of the data, we should double down on the material processes of using
+our tools. Accordingly, Bode suggests that we approach literary
+databases in performative terms, taking a self-conscious appraisal of
+the tools of analysis, as "effects of material-semiotic engagements"
+("Data Beyond Representation" par. 15).
+</p>
+
+<p>
+In troubling the subject/object boundary, examining "how&#x2026; we
+inscribe the boundaries we often presume to represent," Bode offers an
+example with her current project, <i>Reading at the Interface</i>, which
+explores the ways that Australian literature has been characterized by
+various "paratexts," or "writings about literature."  ("Data Beyond
+Representation par 11.) The project explores paratexts across various
+platforms, including academic journals, newspapers, <i>Goodreads</i>, and
+<i>Librarything</i>, to see how they have represented the boundary of
+"Australian Literature." Bode looks at how the process of data
+collection makes a distinction between the main text and the
+"paratext," or the metadata like title, author, and publication
+information of the text. She is interested in how her inquiry
+literally creates boundaries of what we understand to be "text" and
+"paratext" in Australian literature. This activity indicates, for
+Bode, how the researcher is intevening with the object of
+analysis. Bode that she's "not interested in representing discussion
+of “Australian literature” on Goodreads so much as in materialising
+that platform in ways that cannot be separated from [her] categories
+of analysis" ("Data Beyond Representation" par. 19). Her research
+finds that an attention to the "apparatus," or the instrument of
+analysis, is crucial in exploring the performative aspects of
+inquiry. Drawing from a physics understanding, where "an apparatus is
+a specific material configuration, including of physicists, wherein
+certain properties become determinate, while others are excluded,"
+Bode applies the figure of the apparatus to literary databases (Bode
+"Data Beyond Representation, par. 24). Instead of looking at what is
+being reproduced, she urges literary researchers to look at how human
+engagement has entangled with and created the object of analysis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org271f6f9" class="outline-4">
+<h4 id="org271f6f9"><span class="section-number-4">1.4.5</span> play leads to discovery</h4>
+<div class="outline-text-4" id="text-1-4-5">
+<p>
+Tanya Clement's work with sound incorporates praxis, visualization,
+embodiment, and play toward a theory of performantive criticism. She
+uses figures and methods from audio analysis to reconsider the ways we
+approach digitized text. In a project on text visualization, she puts
+forth a theory of “play,” in which the critic "performs" the work,
+much like the way that musicians interpret a musical score. She uses
+the audio analysis tool "ProseVis" to visualize the prosodic elements
+of Gertrude Stein's poetry, which creates dynamic spaces for the
+reader to interact with the visualization. Using ProseVis, the reader
+can navigate through the visualizations and manipulate the metrics for
+analysis. Clement makes the analogy between musical scores and
+quantitative visualizations to emphasize how both "create another
+level of abstraction with which the interpreter engages" ("Distant
+Listening par. 7). Clement points out that a musical score "is read,
+but it is also meant to be played, to be spatialized in time and
+embodied by voices (or instruments) within a certain physical and
+hermeneutical context" ("Distant Listening" par. 10). She argues that
+the same is true for visualizations of text: "One 'reads' a
+visualization, but to 'play' the visualisation is to engage the
+spatialized interpretation of that visualisation as an embodied reader
+in a situated context within a specific hermeneutical framework
+("Distant Listening" par. 10). The multiple levels of abstraction for
+containing the "work" of the text multiply the levels of engagement
+with that text. Clement's research takes this key finding from textual
+scholarship and applies it to the critical process.
+</p>
+
+<p>
+The unique affordance of digital environments, according to McGann,
+Bode and Clement, is that they allow for numerable interventions upon
+the textual object. Like a musical score, which "point[s] toward many
+possible interpretive 'results' or readings," visualizaions can
+provide a starting ground for different pathways of analysis ("Distant
+Listening" par. 12). Human attention spans, rather than represent the
+hurdle for computational methods to overcome, offer an opportunity for
+re-imagining analysis as a process of deforming what we pay attention
+to. The emphasis shifts from viewing text as something stable and
+self-evident to something dynamic and subject to different
+readings. As McGann speculates, engaging with texts on a computer
+could be as intimate a process as engaging with them on paper. We
+might use digital tools as “prosthetic extension of that demand for
+critical reflection,” with which the reader is able to feel her way
+through the text (18).
+</p>
+</div>
+</div>
+</div>
+
+
+<div id="outline-container-orgcda2ec6" class="outline-3">
+<h3 id="orgcda2ec6"><span class="section-number-3">1.5</span> <span class="todo WAITING">WAITING</span> queer performance &amp; citationality</h3>
+<div class="outline-text-3" id="text-1-5">
+</div>
+<div id="outline-container-org9a157ef" class="outline-4">
+<h4 id="org9a157ef"><span class="section-number-4">1.5.1</span> overview</h4>
+<div class="outline-text-4" id="text-1-5-1">
 <p>
 The next step is to show how paying attention to the assumptions of
 data (simplicity, reproducibility) relates to queer deconstruction,
@@ -1051,51 +1508,170 @@ embodiment, performance, speculation, as described by queer critics.
 </p>
 
 <p>
-Distant reading can evolve by paying attention to key findings from
-queer theory, in particular, Butler's idea of
-citationality. Resignifying meaning through citation. Which leads to
-queer form.  &#x2013;&gt; what if we take another orientation toward distant
-reading, one that looks at computation as productive of new schemas of
-queer forms?  Quantification as a practice of citation, to resignify,
-citing the law differently, producingy data differently.
+Distant reading can evolve by borrowing from key findings from queer
+theory that allow it to embrace the performative/productive aspects of
+quantification. In particular, Butler's idea of citationality, which
+is a way of resignifying meaning by producing it
+differently. Resignification is a means of resisting the
+heteronormative laws that one is born into.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb782c1a" class="outline-4">
+<h4 id="orgb782c1a"><span class="section-number-4">1.5.2</span> Butler</h4>
+<div class="outline-text-4" id="text-1-5-2">
+</div>
+<ol class="org-ol">
+<li><a id="orgd3a162f"></a>There seems to be a parallelism between Bode and Butler:<br />
+<div class="outline-text-5" id="text-1-5-2-1">
+<p>
+"When computational literary scholars engage with literary phenomena,
+I'm suggesting that we have two options. So we can approach this
+practice in representationalist terms. We can imagine that our
+databases and data sets and models are symbolic expressions by knowing
+agents us have stable self evident and self contained objects that
+exist elsewhere. And that actually follow a print based model of how
+literature exists. Alternatively, we can understand our databases or
+models as part of the ongoing materialisation of literary texts as
+emerging events always arising from an altering how the literary
+pastas reconfigured" ("Computational Modeling: From Data Representation
+to Performative Materiality") 
+</p>
+</div>
+</li>
+
+<li><a id="orga9ee275"></a>it is the nature of language, we are stuck within the law<br />
+<div class="outline-text-5" id="text-1-5-2-2">
+<p>
+We cannot speak outside the powers that structure speech. Because sex
+is always constructed, because we are constructed through sex, we can
+never get out of the signifying system. Subjects are always
+interpellated by the discourse prior to citing it. Like protocol,
+discourse determines all connections; in gender, the subject only
+comes into intelligibility through the matrix of gender. The only
+freedom that is possible resides within this power of discourse,
+resignifying it, perhaps through parody or impersonation. The abject,
+through disidentification has the ability to resignify against the
+logic of the norm.
+</p>
+</div>
+</li>
+
+<li><a id="org998ff99"></a>resignification is political act, for example, "queer"<br />
+<div class="outline-text-5" id="text-1-5-2-3">
+<ul class="org-ul">
+<li>The performance of resignification is a political act: “What would
+it mean to cite a law to produce it differently?”
+<ul class="org-ul">
+<li>We see this in the word “queer” which has been
+re-appropriated&#x2014;something thatsignified abjectness now means
+defiance. We can also use repetitionto re-signify
+identification, to the point where it loses itspower. In Paris
+is Burning, not only are the male drag performersexposing the
+superficiality of gender, but also performing care in away that
+is feminine, “mothering” “housing” “rearing” each other.</li>
+<li>“The compulsion to repeat an injury is not necessarily the
+compulsion to repeat the injury in the same way or to stay fully
+within the traumatic orbit of that injury. The force of repetition
+in language may be the paradoxical condition by which a certain
+agency&#x2014;not linked to a fiction of the ego as master of
+circumstance&#x2014;is derived from the impossibility of choice…. Paris
+is Burning might be understood as repetitions of hegemonic forms of
+power that fail to repeat loyally and, in that failure, open
+possibilities for resignifying the terms of violation against their
+violating aims” (383).</li>
+</ul></li>
+</ul>
+</div>
+</li>
+
+<li><a id="orga82396a"></a>language is a constraint, but it's also productive, like<br />
+<div class="outline-text-5" id="text-1-5-2-4">
+<p>
+quantification
 </p>
 
 <p>
-My goal now is to look at how dh methods descendant from textual
-scholarship offer a model of deformance that can harness queer thoery
-to do distant reading.
+Butler takes on language as something that can be productive, that can
+resignify meaning. It is the option available to those who are trapped
+within the signification system.
 </p>
-</div>
 
-<div id="outline-container-org043544a" class="outline-4">
-<h4 id="org043544a"><span class="section-number-4">1.4.1</span> animation and performance</h4>
-<div class="outline-text-4" id="text-1-4-1">
 <p>
-&#x2013;&gt; We could use this movement to reflect the imbrication of subjects
-within gender perforance. There is an entanglement, an imbrication
-that produces gender. This imbrication, theory of performativity,
-could be my way into the speculative movement of using digital tools.
+Here, Butler is looking for the “exploit”, the way out of the system
+by using the system’s own rules. Using language and repetition to
+resignify what sexuality and proper sexual relations are. This is to
+be contrasted with thinkers like later Sedgwick, Heather Love and Jose
+Munoz who look for a way out of this system.
 </p>
 </div>
+</li>
+
+<li><a id="org3c4a2fd"></a>representing the irrepresentable: something missing that is an  enabling constraint<br />
+<div class="outline-text-5" id="text-1-5-2-5">
+<p>
+"For how can one read a text for what does <i>not</i> appear within its own
+terms, but which nevertheless constitutes the illegible conditions of
+its own legibility? (p. 11)&#x2026; One cannot interpret the philosophical
+relation to the feminine through the figures that philosophy provides,
+but, rather, she argues, through siting the feminine as the
+unspeakable condition of figuration, as that which, in fact, can never
+be figured within the terms of philosophy proper, but whose exclusion
+from that propriety is its enabling condition" (p. 12).
+</p>
+
+<p>
+"she mimes philosophy—-as well as psychoanalysis—-and, in the mime,
+takes on a language that effectively cannot belong to her&#x2026;  This
+contestation of propriety and property is precisely the option open to
+the feminine when it has been constituted as an excluded impropriety,
+as the improper, the propertyless" (12).
+</p>
+
+<p>
+"Irigaray’s response to this exclusion of the feminine from the
+economy of representation&#x2026; I’ll show you what this unintelligible
+receptacle can do to your system; I will not be a poor copy in your
+system, but I will resemble you nevertheless by miming the textual
+passages through which you construct your system and showing that what
+cannot enter it is already inside it (as its necessary outside), and I
+will mime and repeat the gestures of your operation until this
+emergence of the outside within the system calls into question its
+systematic closure and its pretension to be self-grounding&#x2026;.In this
+sense, she performs a repetition and displacement of the phallic
+economy. This is citation, not as enslavement or simple reiteration of
+the original, but as an insubordination that appears to take place
+within the very terms of the original, and which calls into question
+the power of origination that Plato appears to claim for himself. Her
+miming has the effect of repeating the origin only to displace that
+origin as an origin" (18).
+</p>
+
+<p>
+&#x2013;&gt; this process applies aptly to distant reading. Reading for
+enabling structures. The difference is that we aren't valorizing scale
+or speed reading; rather, we are reading for that which is hidden,
+surpressed, which determines that which is visible.
+</p>
+</div>
+</li>
+</ol>
+</div>
 </div>
 
-<div id="outline-container-org10ad129" class="outline-4">
-<h4 id="org10ad129"><span class="section-number-4">1.4.2</span> Butler on contact, embodiment</h4>
-</div>
-</div>
 
-
-<div id="outline-container-orgb37ddc6" class="outline-3">
-<h3 id="orgb37ddc6"><span class="section-number-3">1.5</span> <span class="todo TODO">TODO</span> demonstrating performativity/enactment</h3>
-<div class="outline-text-3" id="text-1-5">
+<div id="outline-container-org4dffb29" class="outline-3">
+<h3 id="org4dffb29"><span class="section-number-3">1.6</span> <span class="todo WAITING">WAITING</span> Queer Distant Reading</h3>
+<div class="outline-text-3" id="text-1-6">
 </div>
-<div id="outline-container-org32d58d8" class="outline-4">
-<h4 id="org32d58d8"><span class="section-number-4">1.5.1</span> performance as</h4>
-<div class="outline-text-4" id="text-1-5-1">
+<div id="outline-container-org4e7a9a1" class="outline-4">
+<h4 id="org4e7a9a1"><span class="section-number-4">1.6.1</span> performance emphasizes materiality, movement, discovery</h4>
+<div class="outline-text-4" id="text-1-6-1">
 <p>
 In the section on reproducibility, I discuss how Underwood's analysis
 on gender differences reproduces his assumptions about gender dynamics
-as oppositional, which he readily admits: "this chapter has discovered
+as oppositional, as he readily admits: "this chapter has discovered
 stable 'structural positions' only because it explores gender, for the
 most part, as a binary opposition" (<i>Distant Horizons</i> 140). The
 question then becomes, how can we move beyond reproducing assumptions
@@ -1104,258 +1680,75 @@ the the reproducible to the alternative. The first value that this
 reading method proposes is that of <i>performance</i>. This value points to
 the active qualities of critical analysis, emphasizing materiality and
 sensitivity, movement and discovery. When reading is performative, the
-process is more important than the product. To demonstrate this value
-in practice, I turn to the work of Katherine Bode and Tanya Clement,
-both of whom have deep investments with traditions of textual
-scholarship, particularly the scholarship of Jerome McGann, that has
-influenced early experiments with digital humanities in English
-departments. Although their approaches vary in their specific topics,
-methods, and results, they are connected in an investment for, in the
-words of McGann, "imagining what we don't know" (82).
+process is more important than the product. 
 </p>
 </div>
 </div>
-
-<div id="outline-container-org4709007" class="outline-4">
-<h4 id="org4709007"><span class="section-number-4">1.5.2</span> Bode's materiality,  critque of Underwood</h4>
-<div class="outline-text-4" id="text-1-5-2">
-<p>
-&#x2013;&gt; bode emphasizes how inquiry implicates the researcher, who
-generates at the same time that she analyzes data. Instead of looking
-at what is being reproduced, look at how human engagement has
-entangled with and created the object of analysis.
-</p>
-
-<p>
-Begin the QLS work by examining gaps and biases: “quantitative
-literary studies should begin by trying, as much as possible, to
-consider the nature of ontological gaps and epistemological biases in
-its evidence” (Bode "Model Away Bias" 97).
-</p>
-
-<p>
-Katherine Bode offers a method that builds off the humanistic
-approaches in textual scholarship and bibliography. Her work explores
-the boundary between the humanities and social sciences in order to
-reframe analysis as performative. Bode argues against the trend of
-representationalism, "the idea that a knowing human agent symbolically
-expresses – or represents – some thing-in-the-world (that thing is
-unchanged by that expression, and that expression is more available or
-apprehensible to the subject than the thing itself)&#x2013;in digital
-literary studies ("Data Beyond Representation" par. 2). Pushing
-against this assumption of representation in computational modelling,
-she explains that "entities don’t pre-exist engagements but are
-generated in an ongoing or emergent way, by those intra-actions"
-("Data Beyond Represenation" par. 2). This is not to say that one can
-refrain from implication with the object of study. Rather, a
-performative approach assumes such implication to be the starting
-point of analysis: "all inquiries create boundaries (or cuts) in a
-complex reality that can be organised in other ways; and all such
-boundary-making practices are inevitably biased at the same time as
-they are a condition of inquiry" (Data Beyond Representation
-par. 16). The point, for Bode, is to examine "how&#x2026; we inscribe the
-boundaries we often presume to represent" ("Data Beyond Representation
-par 11.)
-</p>
-
-<p>
-Her current project, <i>Reading at the Interface</i>, examines the ways
-that Australian literature has been characterized by various
-"paratexts," or "writings about literature." The project explores
-alternative understandings of Australian literature across various
-platforms, including academic journals, newspapers, <i>Goodreads</i>, and
-<i>Librarything</i>.
-</p>
-
-
-<p>
-"In mining <i>Goodreads</i>, for instance, using a list of works defined by
-an academic bibliography, I’m not interested in representing
-discussion of “Australian literature” on Goodreads so much as in
-materialising that platform in ways that cannot be separated from my
-categories of analysis" (Data Beyond Representation par. 19).
-</p>
-
-
-
-
-
-<p>
-For Bode, what statisticians value as “representativeness” or
-“reproducibility” isn’t as important (within a humanities context) as
-the materiality of the apparatus. Rather than attempt to secure a
-factual or objective status of the data, we should double down on the
-idiosyncracies of our tools. Accordingly, Bode suggests that we
-approach literary databases in performative terms, taking a
-self-conscious appraisal of the tools of analysis, as "effects of
-material-semiotic engagements" ("Data Beyond Representation" 15).
-</p>
+<div id="outline-container-orgcaa131e" class="outline-4">
+<h4 id="orgcaa131e"><span class="section-number-4">1.6.2</span> parallels between performance and deformance.</h4>
+<div class="outline-text-4" id="text-1-6-2">
+</div>
+<ol class="org-ol">
+<li><a id="orgbad533f"></a>the similarities between <b>performance</b> and <b>deformance</b>,<br />
+<div class="outline-text-5" id="text-1-6-2-1">
 <ul class="org-ul">
-<li>"at present, discussion of “representativeness” and
-“reproducibility” are bound up together, with the implication that
-if we can represent something accurately enough the results of
-analysis will be reproducible. Foregrounding the apparatus, by
-contrast, recognises that our knowledge making practices, as Karen
-Barad puts it, “contribute to, and are part of, the phenomena we
-describe”" (Bode "Data Beyond Representation, par. 26).</li>
+<li>both are a process of deconstruction, resignification. Language
+(like data) can be a productive force, rather than a mimetic
+represenation of something prior, which produces the body.
+
+<ul class="org-ul">
+<li>language is not mimetic, representative, rather, it is productive:
+<ul class="org-ul">
+<li>"If the body signified as prior to signifiation is an effect of
+signification, then the mimetic or representational status of
+language, which claims that signs follow bodies as their
+necessary mirrors, is not mimetic at all. On the contrary, it is
+productive, constitutive, one might even argue performative,
+inasmuch as this signifying act delimits and contours the body
+that it then claims to find prior to any and all signifcation"
+(6).</li>
+</ul></li>
+</ul></li>
 </ul>
+</div>
+</li>
 
-<p>
-"I’m exploring what it might mean to conceive of literary databases as
-apparatuses, in the sense the term is used in various scientific
-disciplines, particularly physics. There, an apparatus is a specific
-material configuration, including of physicists, wherein certain
-properties become determinate, while others are excluded. One can’t
-measure light as a particle and a wave using the same apparatus; but
-that doesn’t mean that light is not one thing when it is measured as
-the other. Although it must be said that the phenomena explored in
-digital literary studies are much more diverse than those for which
-apparatuses in physics are developed, I wonder if shifting to a
-conception of measurements as effects of particular material
-arrangements might help us to reframe some key debates in our field."
-(Bode "Data Beyond Representation, par. 24).
-</p>
+<li><a id="orgda457c8"></a>Distant reading is a way of reading that which is hidden,repressed, yet structures and determines that which is visible.<br /></li>
+<li><a id="org70a6599"></a>Butler looks toward the horizon, where queerness can never be defined, but remains outside the known. The goal is not to be inclusive, it's to preserve this space without being coopted.<br />
+<div class="outline-text-5" id="text-1-6-2-3">
+<ul class="org-ul">
+<li>"The task is to refigure this necessary “outside” as a future
+horizon, one in which the violence of exclusion is perpetually
+in the process of being overcome. But of equal importance is the
+preservation of the outside, the site where discourse meets its
+limits, where the opacity of what is not included in a given
+regime of truth acts as a disruptive site of linguistic
+impropriety and unrepresentability, illuminating the violent and
+contingent boundaries of that normative regime precisely through
+the inability of that regime to represent that which might pose
+a fundamental threat to its continuity. In this sense, <b>radical
+and inclusive representability is not precisely the goal</b>: to
+include, to speak as, to bring in every marginal and excluded
+position within a given discourse is to claim that a singular
+discourse meets its limits nowhere, that it can and will
+domesticate all signs of difference. If there is a violence
+necessary to the language of politics, then the risk of that
+violation might well be followed by another in which we begin,
+without ending, without mastering, to own—-and yet never fully
+to own—-the exclusions by which we proceed." (25).</li>
+</ul>
 </div>
-</div>
-
-<div id="outline-container-orgb6f5e41" class="outline-4">
-<h4 id="orgb6f5e41"><span class="section-number-4">1.5.3</span> Critique of Underwood's "sensitivity"&#x2014;a focus on attention</h4>
-<div class="outline-text-4" id="text-1-5-3">
-<p>
-Underwood overlooks the ways that quantitative literary analysis, or
-distant reading, enables "sensitive" readings of textual
-material. According to him, such methods are less useful for studying
-a single text in depth and more useful for taking a long view of
-larger corpora. He sets up an opposition between computer and human
-reading: "Computational analysis of a text is more flexible than it
-used to be, but it is still quite crude compared to human reading; it
-helps mainly with questions where evidence is simply too big to fit in
-a single reader's memory" (xxi). Underwood is right to point out that
-a computer cannot draw inferences like a human can. However, his
-emphasis on the role of memory opens up the ways that computers can
-enhance human reading of smaller texts. What the computer properly
-does is arrange a set of data&#x2013;of any size&#x2013;for human
-consumption. This involves processing datasets into new formats that
-can than be scrutinzed by a human reader. Underwood's goal, which is
-"to find a perspective that makes the descriptions preferred by
-eighteenth-, nineteenth-, and twentieth-century scholars all congruent
-with each other," shows one potential objective for such reading
-(<i>Distant Horizons</i> 32). But there is more than one objective for
-using quantitative methods regarding memory, and that is by
-approaching memory, specifically human attention spans, as a drive,
-rather than a hindrance. The computer can arrange text in a way that
-harnesses the attention span of the reader.
-</p>
-</div>
+</li>
+</ol>
 </div>
 
-<div id="outline-container-org87be6b6" class="outline-4">
-<h4 id="org87be6b6"><span class="section-number-4">1.5.4</span> Tanya Clement &amp; Jerome McGann: performance &#x2013;&gt; discovery</h4>
-<div class="outline-text-4" id="text-1-5-4">
-<p>
-Tanya Clement and Jerome McGann have written on how electronic
-environments facilitate active experiences with text. Their analyses
-draw attention to the ways that the reading process engages with the
-situatedness of time, space, and textual objects that are entangled
-within a complicated network of production and reception. Such a
-reading process yields unexpected and alternative interpretive
-possibilities. Clement's textual scholarship works with sound to
-develop an hermeneutics that incorporates praxis, visualization,
-embodiment, and play, toward a theory of performantive criticism. She
-often questions how working with audio allows us to reconsider the
-ways we approach electronic text. In one project, she explores how
-visualizations of audio information can influence analysis. She puts
-forth a theory of “play” in which the critic "performs" the work, much
-like the way that musicians interpret a musical score. Clement makes
-the analogy between musical scores and quantitative visualizations to
-emphasize how both "create another level of abstraction with which the
-interpreter engages" ("Distant Listening par. 7). These visualizations
-use the audio analysis tool ProseVis to create dynamic spaces for the
-reader to interact with a digitzed object. Using ProseVis, the reader
-can navigate through the visualizations and manipulate the metrics for
-analysis, in this case, the prosodic elements of Gertrude Stein's
-poetry. Clement draws out the comparison between musical scores and
-visualizations to emphasize the performative qualities of
-analysis. She begins by describing the qualities of a musical score:
-</p>
-
-<blockquote>
-<p>
-[I]t is read, but it is also meant to be played, to be spatialized in
-time and embodied by voices (or instruments) within a certain physical
-and hermeneutical context. I am arguing the same is true of
-computational visualizations of text. One 'reads' a visualization, but
-to 'play' the visualisation is to engage the spatialized
-interpretation of that visualisation as an embodied reader in a
-situated context within a specific hermeneutical framework. "Distant
-Listening" par. 10
-</p>
-</blockquote>
-
-<p>
-Like a musical score, which "point[s] toward many possible
-interpretive 'results' or readings," visualizaions can provide a
-starting ground for different pathways of analysis ("Distant
-Listening" par. 12). Clement's scholarship on audio visualization
-magnifies the importance of performance as an element in analysis. 
-</p>
-
-<p>
-McGann's work on textual scholarshop similarly draws attention to the
-effect of performance on interpretation, or performance <i>as</i>
-interpretation, according to McGann. Along with Lisa Samuels, McGann
-coins the concept of "deformance," which describes any activity that
-distorts, disorders, or re-assembles literary texts to discover new
-insights about its formal significance and meaning. They offer the
-example of reading a poem backward, where “the critical and
-interpretive question is not 'What does the poem mean?' but 'How do we
-release or expose this poem’s possibilities for meaning?'"
-(108). Deformance works by estranging the reader from her familiarity
-of the text, and relies on the the volitality of meaning of particular
-words that depend upon a multitude of factors, from antecedent
-readings and pathways through that text, to the significance of
-immanent elements such as typography and blank spaces, all of which
-the reader can only process a limited amount. Digital tools might work
-alongside this volatile potential for meaning, what McGann calls the
-text's "quantum poetics." He explains that, “Aesthetic space is
-organized like quantum space, where the ‘identity’ of the elements
-making up the space are perceived to shift and change, even reverse
-themselves, when measures of attention move across discrete quantum
-levels” (183). McGann speculates that engaging with texts on a
-computer could be as intimate a process as engaging with them on
-paper, with the additional ability of manipulating and transforming
-them in virtually infinite ways. Ideally, the tool should work as a
-“prosthetic extension of that demand for critical reflection,” with
-which the reader is able to feel her way through the text (18).
-</p>
-
-<p>
-Clement and McGann's approaches facilitate a reading method that uses
-computational tools in the aid of discovery. Human attention spans,
-rather than represent the hurdle for computational methods to
-overcome, offer an opportunity for re-imagining analysis as a process
-deforming what we pay attention to. The unique affordance of digital
-environments, according to McGann and Clement, is that they allow for
-numerable interventions upon the textual object. The emphasis shifts
-from viewing text as something stable and self-evident to something
-dynamic and subject to different readings. As Clement explains: “A
-model of textuality that represents text as a spatial and temporal
-phenomenon might allow for interactions and representations in a
-digital environment that, rather than insisting on fixity, foreground
-principles of emergence” ("Rationale" 34).
-</p>
-</div>
+<div id="outline-container-org554ce37" class="outline-4">
+<h4 id="org554ce37"><span class="section-number-4">1.6.3</span> Klein? Gaboury?</h4>
 </div>
 
-<div id="outline-container-orgc7b08c8" class="outline-4">
-<h4 id="orgc7b08c8"><span class="section-number-4">1.5.5</span> Pamela Caughie's storm cloud</h4>
-</div>
-</div>
-
-
-<div id="outline-container-org6cf5748" class="outline-3">
-<h3 id="org6cf5748"><span class="section-number-3">1.6</span> playing with voyant</h3>
-<div class="outline-text-3" id="text-1-6">
+<div id="outline-container-org95d7863" class="outline-4">
+<h4 id="org95d7863"><span class="section-number-4">1.6.4</span> playing with voyant</h4>
+<div class="outline-text-4" id="text-1-6-4">
 <p>
 I'm playing around with voyant tools on Giovanni's Room, and realizing
 that my movements are carefully guided by this impression from textual
@@ -1391,14 +1784,17 @@ ag
 </p>
 </div>
 </div>
-
-<div id="outline-container-org619f4df" class="outline-3">
-<h3 id="org619f4df"><span class="section-number-3">1.7</span> Misc</h3>
-<div class="outline-text-3" id="text-1-7">
 </div>
-<div id="outline-container-org7c086f9" class="outline-4">
-<h4 id="org7c086f9"><span class="section-number-4">1.7.1</span> Altschuler and Weimar on reproducibility</h4>
-<div class="outline-text-4" id="text-1-7-1">
+</div>
+
+
+<div id="outline-container-orgd34c2f6" class="outline-2">
+<h2 id="orgd34c2f6"><span class="section-number-2">2</span> Move to other chapters</h2>
+<div class="outline-text-2" id="text-2">
+</div>
+<div id="outline-container-org64447a0" class="outline-4">
+<h4 id="org64447a0"><span class="section-number-4">2.0.1</span> Altschuler and Weimar on reproducibility</h4>
+<div class="outline-text-4" id="text-2-0-1">
 <p>
 &#x2013;&gt; reproducing something perfectly overlooks the ways that all
 digital objects are unique, differentiated. Theory of textual
@@ -1474,12 +1870,22 @@ total knowledge and understanding.
 </p>
 </div>
 </div>
+
+<div id="outline-container-org2f97de9" class="outline-4">
+<h4 id="org2f97de9"><span class="section-number-4">2.0.2</span> The debates about TEI illustrates this tension between the</h4>
+<div class="outline-text-4" id="text-2-0-2">
+<p>
+“conservative” and the “creative” impulses in textual editing, and
+shows how an encoding method that is highly structured can be used to
+mark or explore moments of textual instability or ambiguity.
+</p>
+</div>
 </div>
 </div>
 
-<div id="outline-container-org2e8b5e8" class="outline-2">
-<h2 id="org2e8b5e8"><span class="section-number-2">2</span> commands</h2>
-<div class="outline-text-2" id="text-2">
+<div id="outline-container-org280db25" class="outline-2">
+<h2 id="org280db25"><span class="section-number-2">3</span> commands</h2>
+<div class="outline-text-2" id="text-3">
 <p>
 c-c c-x f =&gt; create a new footnote
 c-u c-c c-x f then select s =&gt; renumber footnotes
@@ -1488,6 +1894,429 @@ c-u c-c c-x f then select s =&gt; renumber footnotes
 <p>
 block quotes: #+BEGIN<sub>QUOTE</sub> &amp; #+END<sub>QUOTE</sub>
 </p>
+</div>
+</div>
+
+<div id="outline-container-org47dd53b" class="outline-2">
+<h2 id="org47dd53b"><span class="section-number-2">4</span> annotated bib</h2>
+<div class="outline-text-2" id="text-4">
+</div>
+<div id="outline-container-org28039ff" class="outline-4">
+<h4 id="org28039ff"><span class="section-number-4">4.0.1</span> Moretti, Franco. Graphs, Maps, Trees: Abstract Models for Literary</h4>
+<div class="outline-text-4" id="text-4-0-1">
+<p>
+History. 2007.
+</p>
+
+<p>
+This monograph defines and demonstrates “distant reading”, a deliberate abstraction and visualization of textual, bibliographic, and historical data about literature in order to answer questions about form and history of literature as a whole. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org91ad7ba" class="outline-4">
+<h4 id="org91ad7ba"><span class="section-number-4">4.0.2</span> Drucker, Johanna. "Introduction," SpecLab: Digital Aesthetics and</h4>
+<div class="outline-text-4" id="text-4-0-2">
+<p>
+Projects in Speculative Computing. 2009.
+</p>
+
+<p>
+From a series of literary experiments at SpecLab at UVA, Drucker
+posits a method of speculative computing that pushes against ideology
+of mathesis&#x2014;the idea that formal logic can represent or unlock human
+thought and experience, that knowledge is information&#x2014;by using
+computational methods to provoke and push against what we think we
+know.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9983137" class="outline-4">
+<h4 id="org9983137"><span class="section-number-4">4.0.3</span> Ramsay, Stephen. Reading Machines: Toward an Algorithmic</h4>
+<div class="outline-text-4" id="text-4-0-3">
+<p>
+Criticism. 2011.
+</p>
+
+<p>
+Ramsay proposes a method of Algorithmic Criticism, which approaches
+the constraints of computation as a liberating force that allows the
+critic to reflect on her own phenomenal experience of texts rather
+than seek definitive answers.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2dbe198" class="outline-4">
+<h4 id="org2dbe198"><span class="section-number-4">4.0.4</span> Drucker, Johanna. "Humanities Approaches to Graphical Display." DHQ:</h4>
+<div class="outline-text-4" id="text-4-0-4">
+<p>
+Digital Humanities Quarterly. 2011.
+</p>
+
+<p>
+Digital Humanities needs graphical expressions that question, resist,
+and reveal the assumptions of graphical display&#x2014;that it is
+observer-independent, objective, universal representations of
+knowledge, that data is “raw” rather than captured.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2235d67" class="outline-4">
+<h4 id="org2235d67"><span class="section-number-4">4.0.5</span> Felski, Rita. The Limits of Critique. 2015.</h4>
+<div class="outline-text-4" id="text-4-0-5">
+<p>
+Examines the role of affect in literary criticism, showing how the
+hermeneutics of suspicion, as a militant mode of reading, forecloses
+the possibilities of connection between reader and text.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8146360" class="outline-4">
+<h4 id="org8146360"><span class="section-number-4">4.0.6</span> Piper, Andrew. Enumerations: Data and Literary Study. 2018.</h4>
+<div class="outline-text-4" id="text-4-0-6">
+<p>
+Mixes distant and close reading in order to interrogate how the study
+of literary quantity can lead to insights about literature.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2b85bc6" class="outline-4">
+<h4 id="org2b85bc6"><span class="section-number-4">4.0.7</span> Landow, George. Hypertext 3.0: Critical Theory and New Media in an Era</h4>
+<div class="outline-text-4" id="text-4-0-7">
+<p>
+of Globalization, 2006. Print.
+</p>
+
+<p>
+The hypertext format engages the postmodern
+(structuralist/post-structuralist and deconstructive) theories about
+the multiplicity and instability of meaning in texts, as well as new
+radical conceptions of authorship
+</p>
+</div>
+</div>
+
+<div id="outline-container-org270d264" class="outline-4">
+<h4 id="org270d264"><span class="section-number-4">4.0.8</span> Fisher, Caitlin. These Waves of Girls, 2001. Web.</h4>
+<div class="outline-text-4" id="text-4-0-8">
+<p>
+The profusion of hyperlinks frustrates the reader by offering too many
+narrative paths. The reader’s frustration in navigating through the
+hypertext relates to the work’s theme of sexual discovery. In
+following the narrator as she develops her sexuality, the reader
+experiences her own cycles of desire and frustration.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6909ab3" class="outline-4">
+<h4 id="org6909ab3"><span class="section-number-4">4.0.9</span> Tenen, Dennis. Plain Text: the Poetics of Computation, 2017. Epub.</h4>
+<div class="outline-text-4" id="text-4-0-9">
+<p>
+Tenen proposes a microanalysis, computational poetics, or an
+archaeology of platforms and infrastructures (behind surface
+content). We don’t engage directly with the textual conduit, so we
+need to perform a media archaeology in order to have access to these
+processes and be in charge of them.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7af9a42" class="outline-4">
+<h4 id="org7af9a42"><span class="section-number-4">4.0.10</span> Rockwell, Geoffrey and Stefan Sinclair. Voyant-Tools. 2018.</h4>
+<div class="outline-text-4" id="text-4-0-10">
+<p>
+The par excellence example of literary criticism, which encourages
+discovery.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd0d7c88" class="outline-4">
+<h4 id="orgd0d7c88"><span class="section-number-4">4.0.11</span> Galloway, Alexander. Protocol: How Control Exists after</h4>
+<div class="outline-text-4" id="text-4-0-11">
+<p>
+Decentralization. 2004.
+</p>
+
+<p>
+Horizontal freedom requires universalization,
+standardization. Resistance comes from within the system, using
+exploits.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org01f93c0" class="outline-4">
+<h4 id="org01f93c0"><span class="section-number-4">4.0.12</span> Chun, Wendy. Control and Freedom: Power and Paranoia in the Age of</h4>
+<div class="outline-text-4" id="text-4-0-12">
+<p>
+Fiber Optics. 2006.
+</p>
+
+<p>
+The potential for individual empowerment comes from harnessing our own
+vulnerabilities and exposure. Without exposure, give and take, there
+is no network.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6668ff0" class="outline-4">
+<h4 id="org6668ff0"><span class="section-number-4">4.0.13</span> Bennett, Jane. Vibrant Matter: A Political Ecology of Things. 2010.</h4>
+<div class="outline-text-4" id="text-4-0-13">
+<p>
+Approaches the network as a vital non-anthropocentric ecology,
+connecting humans to inert matter, endowing them with agency.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf06ee73" class="outline-4">
+<h4 id="orgf06ee73"><span class="section-number-4">4.0.14</span> Moten, Fred and Stefano Harney. The Undercommons: Fugitive Planning &amp;</h4>
+<div class="outline-text-4" id="text-4-0-14">
+<p>
+Black Study. 2013.
+</p>
+
+<p>
+A way of being in but not of the university, system,
+network. Studying, collecting debt, being shipped are ways of relating
+to one another that resists the system.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcd62cfc" class="outline-4">
+<h4 id="orgcd62cfc"><span class="section-number-4">4.0.15</span> Tufekci, Zeynep. Twitter and Tear Gas: the Power and Fragility of</h4>
+<div class="outline-text-4" id="text-4-0-15">
+<p>
+Networked Protest. 2017.
+</p>
+
+<p>
+How humans aided with technology create networks, and how these
+operate on the ground. What capacities do they have, how does their
+horizontalism both help and hurt?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org69892fd" class="outline-4">
+<h4 id="org69892fd"><span class="section-number-4">4.0.16</span> Gaboury, Jacob. "Becoming NULL: Queer Relations in the Excluded</h4>
+<div class="outline-text-4" id="text-4-0-16">
+<p>
+Middle." Women &amp; Performance: a Journal of Feminist
+Theory. 28:2, 2018. pp. 143-158. Web.
+</p>
+
+<p>
+What are queer modes of being within technological systems, modes that
+refuse the gesture of capture and extraction? The NULL marker in SQL
+offers a way of becoming that enacts a queer logic that is explicitly
+situated within the logic of information systems but refuses this
+gesture of capture and extraction.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2d6179f" class="outline-4">
+<h4 id="org2d6179f"><span class="section-number-4">4.0.17</span> Kittler, Friedrich. Gramophone, Film, Typewriter. 1999.</h4>
+<div class="outline-text-4" id="text-4-0-17">
+<p>
+At first, media passes through symbols (written signifier), then
+analog media is stored as physical traces, and now, new media loses
+its specificity as a stream of numbers (“eyewash”), surface effects
+which are then reassembled in the human. The human perceptual system
+disperses into the apparatus.
+</p>
+
+<p>
+What sense perceptions are we not aware of or not tapping? This opens
+up the potentials of bits and fiber.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6b471c5" class="outline-4">
+<h4 id="org6b471c5"><span class="section-number-4">4.0.18</span> Hayles, N. Katherine. Writing Machines. 2002.</h4>
+<div class="outline-text-4" id="text-4-0-18">
+<p>
+Media is re-conceived, written, mediated for different formats&#x2014;the
+concept of remediation.
+</p>
+
+<p>
+Reading technotexts takes place within a distributed cognitive
+environment. We are part of a larger cybernetic circuit.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdb5e4d8" class="outline-4">
+<h4 id="orgdb5e4d8"><span class="section-number-4">4.0.19</span> Kirschenbaum, Matthew. Mechanisms: New Media and the Forensic</h4>
+<div class="outline-text-4" id="text-4-0-19">
+<p>
+Imagination. 2008.
+</p>
+
+<p>
+Digital media create an illusion of immateriality&#x2014;screen
+essentialism. We should approach materiality on two levels, the formal
+and forensic, to counter misunderstandings and occlusions of new
+media. Electronic texts are not ephemeral or homogenous, they are
+inscribed and made of unique traces.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb738782" class="outline-4">
+<h4 id="orgb738782"><span class="section-number-4">4.0.20</span> Blanchette, Jean-François, "A Material History of Bits." Journal of</h4>
+<div class="outline-text-4" id="text-4-0-20">
+<p>
+the American Society for Information Science and Technology. No. 62:
+pp. 1042-1057, 2011.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org32ec607" class="outline-4">
+<h4 id="org32ec607"><span class="section-number-4">4.0.21</span> Hansen, Mark. Feed-Forward: On The Future of 21st Century Media. 2014.</h4>
+<div class="outline-text-4" id="text-4-0-21">
+<p>
+The way that media works in the 21st century both marginalizes and
+expands human perception. Things we have no awareness of are out there
+feeling for us. We have an expanded perceptual reach, but our
+sensations are indirect. This puts consciousness in an anticipatory
+mode, always future oriented, focusing on what is nearly emergent&#x2014;
+“feed forward”.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8735a15" class="outline-4">
+<h4 id="org8735a15"><span class="section-number-4">4.0.22</span> Woolf, Virginia, Emily McGinn, Amy Leggette, Matthew Hannah, and Paul</h4>
+<div class="outline-text-4" id="text-4-0-22">
+<p>
+Bellew. "Comparing Marks: A Versioning Edition of Virginia Woolf's
+'The Mark on the Wall.'" Scholarly Editing: The Annual of the
+Association for Documentary Editing. Vol. 35, 2014.
+</p>
+
+<p>
+Presents a “versioning edition” of the various print witnesses of
+Woolf’s short story, the Mark on the Wall, from 1917-1944.  The
+versioning edition’s attention to the story over time also implicitly
+draws attention to the way that time functions on the level of
+narrative.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5a0d349" class="outline-4">
+<h4 id="org5a0d349"><span class="section-number-4">4.0.23</span> Peters, John Durham. The Marvelous Clouds: Toward a Philosophy of</h4>
+<div class="outline-text-4" id="text-4-0-23">
+<p>
+Elemental Media. 2016.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfaaefd1" class="outline-4">
+<h4 id="orgfaaefd1"><span class="section-number-4">4.0.24</span> McKenzie, D.F. Bibliography and the Sociology of Texts. 1986.</h4>
+<div class="outline-text-4" id="text-4-0-24">
+<p>
+Individual texts are witnesses of an ideal text that is never to be
+fully realized&#x2014;the florid branches of an invisible trunk.
+Bibliography is about tracking the book’s history as a social
+document, the social relations involved in its transmission, and about
+recognizing different critic’s “misreadings”. Book history is a
+history of misreadings.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd0b118d" class="outline-4">
+<h4 id="orgd0b118d"><span class="section-number-4">4.0.25</span> Tanselle, Thomas. "A Rationale of Textual Criticism." 1992.</h4>
+<div class="outline-text-4" id="text-4-0-25">
+<p>
+Texts are corrupted in physical form and require assistance of an
+editor to present in an authentic state. The imperative of textual
+criticism is to restore and correct.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf8a65ec" class="outline-4">
+<h4 id="orgf8a65ec"><span class="section-number-4">4.0.26</span> Derrida, Jacques. “Archive Fever: A Freudian Impression.”</h4>
+<div class="outline-text-4" id="text-4-0-26">
+<p>
+Diacritics. Vol. 25, no. 2. 1995.
+</p>
+
+<p>
+The archive works against itself: creating an archive also creates the
+potential to forget and destroy. Externalization.  The instant of
+archivization involves technology: ‘the prosthetic experience of the
+technical substrate’ (22).
+</p>
+</div>
+</div>
+
+<div id="outline-container-org599382f" class="outline-4">
+<h4 id="org599382f"><span class="section-number-4">4.0.27</span> McGann, Jerome. Radiant Textuality: Literature after the World Wide</h4>
+<div class="outline-text-4" id="text-4-0-27">
+<p>
+Web. 2001.
+</p>
+
+<p>
+Electronic editing ought to capture what is inherently n-dimensional
+about literary texts&#x2014;to engage in the quantum poetics of each
+textual detail.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfd5b42d" class="outline-4">
+<h4 id="orgfd5b42d"><span class="section-number-4">4.0.28</span> Singer, Kate. “Digital Close Reading: TEI for Teaching Poetic</h4>
+<div class="outline-text-4" id="text-4-0-28">
+<p>
+Vocabularies.” The Journal of Interactive Technology and Pedagogy. 3,
+May 15, 2013.
+</p>
+
+<p>
+Using TEI to teach close reading finds that one can approach it to
+engage individualized readings&#x2014;marking moments of textual
+instability rather than formal aspects. Given that the tool is
+flexible enough, we do not have to agree on a schema, standardize a
+schema, in order to use the tool to engage the incommensurable.
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-orgdec9c75" class="outline-4">
+<h4 id="orgdec9c75"><span class="section-number-4">4.0.29</span> Caughie, Emily Datskou and Rebecca Parker. “Storm Clouds on the</h4>
+<div class="outline-text-4" id="text-4-0-29">
+<p>
+Horizon: Feminist Ontologies and the Problem of Gender.” Feminist
+Modernist Studies. 1:3, 230-242. 2018.
+</p>
+
+<p>
+What do we do when our tools won’t allow us to capture or convey
+certain elements of the text? It turns out that the limitations of the
+computer are actually a good indicator of things that maybe should be
+left unresolved or unfixed&#x2014;like gender ontology.
+</p>
+</div>
 </div>
 </div>
 <div id="footnotes">
@@ -1582,12 +2411,19 @@ Sedgwick's points about binaries containing an oppostional dynamic in
 which the subordinated term props up the dominant term.
 </p></div></div>
 
+<div class="footdef"><sup><a id="fn.12" class="footnum" href="#fnr.12">12</a></sup> <div class="footpara"><p class="footpara">
+Greg, Walter W. "The Rationale of Copy-Text," <i>Studies in
+Bibliography</i>, Vol. 3, 1950/1951, pp. 19-36; Bowers, Fredson. <i>Textual
+and Literary Criticism</i>, 1959; Tanselle, Thomas. <i>A Rationale of
+Textual Criticism</i>, 1992.
+</p></div></div>
+
 
 </div>
 </div></div>
 <div id="postamble" class="status">
 <p class="author">Author: Filipa  Calado</p>
-<p class="date">Created: 2020-11-19 Thu 09:57</p>
+<p class="date">Created: 2020-12-14 Mon 15:33</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>

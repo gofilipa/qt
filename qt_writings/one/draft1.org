@@ -30,7 +30,7 @@ that re-signify certain elements of that text. The chapter ends with
 my reading of Virginia Woolf's /Orlando/, to show how our
 understanding of "man" and "woman" in that text is re-signified
 through this kind of text analysis. 
-*** what is the main point of this chapter? 
+**** what is the main point of this chapter? 
 
 The burden of the chapter is to describe how to do text analysis in a
 way that attends to queer concepts of performativity.
@@ -59,251 +59,261 @@ Underwood & Da
 - Explain better reproducibility. 
  
 
-** WAITING on reading methodology, orientations toward reading
-our orientation toward reading determines the engagement --- we need
-an orientation of play
+** The fantasy of the falsifiable
+our orientation toward reading determines the intervention --- we need
+an orientation that will allow queer elements to surface.
 
+*** paranoid reading/symptomatic reading/militant reading
 
+There are several kinds of reading in literary analysis, which
+determine the trajectory of readerly engagement with texts. Taking the
+name of "paranoid reading," "sympotmatic," and "militant reading," is
+a reading pratice that places importance in what a text does not say,
+or what it cannot say.[fn:1] Descending from the critical styles
+popularized by Karl Marx, Sigmund Freud, and Friedrich Nietzsche, this
+reading practice drives the conviction that power structures (such as
+the economy, the unconscious, and moral systems, for example) encode
+ideology which can be demystified by critical analysis and
+exposure. In literary criticism, Eve Kofosky Sedgwick calls this kind
+of reading /paranoid/ because it searches for hidden elements of text
+that play into a larger narrative about a system of oppression. For
+Sedgwick, this kind of reading places its faith in the "drama of
+exposure," which will, once and for all, finally reveal the truth
+(/Touching Feeling/ 8). Stephen Best and Sharon Marcus define
+"symptomatic reading" in similar terms, a reading style that locates
+latent patterns or “absences, gaps, and ellipses in texts,” to
+speculate upon “what those absences mean, what forces create them, and
+how they signify the questions that motivate the text” (3). Finally
+Rita Felski describes this orientation as "militant" because it grows
+from an affect of disenchantment between between reader and text,
+where the reader enlists "to expose hidden truths and draw out
+unflattering and counterintuitive meanings that others fail to see"
+(1).
 
-**** paranoid reading/symptomatic reading/militant reading
-There are several styles of literary analysis, which determine the
-trajectory of readerly engagement with texts. Taking the name of
-"paranoid reading," "militant reading," and "sympotmatic reading," is
-a reading pratice that suggests a text's "truest" meaning resides in
-what it does not say, what it cannot say.[fn:13] This reading practice
-descends from a style of critique, originally popularized by Karl
-Marx, Sigmund Freud, and Friedrich Nietzsche, driven by an almost
-paranoid belief that power structures (the economy, the unconscious,
-and moral systems, respectively) encode a certain ideology in culture
-which will finally be demystified by critical analysis and
-exposure. In literary criticism, Eve Kofosky Sedgwick describes
-"paranoid reading" as the search for hidden or absent elements of text
-that affect its interpretation. Stephen Best and Sharon Marcus define
-this practice as "sympotmatic reading," which mines "absences, gaps,
-and ellipses" for latent and recurring "symptoms," then speculates
-upon “what those absences mean, what forces create them, and how they
-signify the questions that motivate the text” (3). Rita Felski's
-critique of "militant reading" emphasizes the affective quality of the
-encounter between reader and text, what she describes as "a style of
-interpretation driven by a feeling of disenchantment" (2). Felski
-explains that this kind of reading aims "to expose hidden truths and
-draw out unflattering and counterintuitive meanings that others fail
-to see" (1).
+The styles of paranoid, symptomatic, and militant reading are unified
+by a faith in something hidden in the text and in the power of its
+revelation. The preoccupation with depth and absence implies a belief
+in an underlying "correct" interpretation of a text, which will be
+finally unearthed by the careful and astute analysis by the critic. 
 
-In itself, this kind of reading practice can be an exhilarating and
-rewarding exercise for literary critics. But, it creates a formula for
-analysis that discourages other kinds of connection to text. It turns
-reading into a mechanical practice of searching for what is hidden or
-absent, and then exploring how this gap affects our understanding of
-the text. Sedgwick explains that this reading process imposes an
-"unhelpful structure" for analysis, where the complex substance of
-textuality is conscripted into the interplay between "repression and
-liberation" (12). This practice reduces the analytical process into
-binary modes of thinking that quickly take over nuance and
-ambiguity. Sedgwick "see[s] a cognitive danger in these
-interpretations: a moralisitic tautology that became increasingly
-incabable of recognizing itself as such" (12). She points out that,
-because paranoia seeks its own affirmation, it reflects and confirms
-its own desire on every surface. This process is replicated as the
-search for meaning takes on other texts, imposing the same structure
-on new material. In short, paranoid reading encourages a kind of
-criticism that is reproducible.
+The danger of this kind of reading is that it encourages a kind of
+criticism that is reproducible. In itself, so-called paranoid reading
+can be an exhilarating and rewarding intellectual exercise for
+literary criticism. However much the pleasure and satisfaction of this
+intellectual exercise are worthwhile in themselves, the process of
+analysis inevitably turns rote. It discourages attention from the
+surface qualities of the text, focusing on what is hidden or
+absent. In the process, the textual elements are conscripted into
+participating in what Sedgwick calls "a binary mode of thinking,"
+which searches beneath, behind, or beyond the text, for what might
+affirm or deny the overarching thesis. Often, rather than staying with
+the phenomenon on the surface, the aesthetics of the text which
+contains elements like narration, figuration, and other devices, this
+process creates a formula for literary analysis where such elements
+are implicated into a larger narrative about "repression and
+liberation" (Sedgwick /Touching Feeling/ 12). Then, reading becomes a
+mechanical practice of searching for what is hidden or absent which
+will finally explain some latent meaning in the text. This process is
+replicated as the search for meaning takes on other texts, imposing
+the same structure on new material. Because paranoia seeks its own
+affirmation, and its nature is to spread, it reflects and confirms its
+own desire on every surface. This method, each time, will surface
+something new, but never entirely novel, as the "truth" with each
+revelation has less and less power to shock. This kind of reading will
+never account for a range of responses to text, and particularly, to
+the subjects who perform text analysis. It will never move beyond the
+standardized script. Sedgwick rightly "see[s] a cognitive danger in
+these interpretations: a moralisitic tautology that became
+increasingly incabable of recognizing itself as such" (12).
 
-**** different kinds of reading as "suspicious" reading
-This kind of reading is particularly suceptible to digital methods for
-literary criticism. Often, digital methods like quantitative text
-analysis, or the computational processing of textual elements,
-features, and style, the problem of absence is expanded to the problem
-of scale. Because distant reading allows them to handle the thousands
-of books in literary history without actually reading these texts, it
-allows them to get around the problem of literary scale and human
-attention. The capacity of the computer to process vast amounts of
-text empowers some critics to pose ambitious questions for text
-analysis. Franco Moretti's work, for example, examines the impact of
-social and economic forces upon literary style and plot to pose broad
-questions about how literary forms travel across time and space, what
-he calls "morphological evolution." In his collection, /Distant
-Reading/, Moretti expands his purview to what Margaret Cohen calls
-“the Great Unread,” which requires a new methodology, “distant
-reading”: “where distance… is a condition of knowledge: it allows you
-to focus on units that are much smaller or larger than the text:
-devices, themes, tropes—or genres and systems” (48). Another
-practitioner of distant reading, within the field of Computational
-Literary Studies (CLS), Ted Underwood,[fn:5] harnesses the power of
-quantification and machine learning to glimpse what he calls the
-"distant horizon" of literary trends across centuries. More often than
-not, this kind of distant reading is combined with close reading
-methods, as critics will use the results of quantitative analysis to
-identify key moments from the text that merit closer attention.[fn:4]
+*** DR begins in the falsifiable, toward automating
+[Computational methods give the critic more absence to mine in the
+form of "big data." Distant reading by Moretti ramps up the apparent
+"automation" in analysis toward furthering criticism]
 
-**** critique of moretti's falsifiable criticism 
-Moretti's distant reading quantifies literary history and textual data
-through a series of visualizations, such as graphs and diagrams, to
-test hypotheses in a procedure closer to scientific experiment than
-traditional literary criticism. Underlying Moretti’s work is a deep
-concern with finding a method that may connect history with form. In
-the introductory essay to his first book published in English, /Signs
-Taken for Wonders/ (1983), Moretti calls for a “falsifiable criticism”
-to search for the link between formalism and history. Moretti objects
-to the analytical practice of contemporary literary critics that
-"revolve[s] around concepts such as ‘ambiguity’ and the like" (Signs
-Taken for Wonders 22). According to Moretti, "criticism will always,
-inexorably, be pushed into multiplying, rather than reducing, the
-obstacles every social science encounters when it tries to give itself
-a testable foundation" (22). He then explains his criteria for a
-"falsifiable criticism," which borrows from social scientific
-methodology:
+This kind of reading can be particularly taken with digital methods
+for literary criticism. In digital methods like quantitative text
+analysis, or the cleaning, sorting, and counting of textual elements,
+the focus of reading for what is hidden or absent is sometimes
+replaced with the desire to read at scale. Because computers can
+process hundreds of texts at a time, they offer critics an opportunity
+for getting around the problem of literary scale. The computer, which
+can "read" at much faster rates than humans, may attract critics who
+pose ambitious questions about literary history. Franco Moretti, for
+example, popularized "distant reading" as a way of exploring how
+social and economic forces impact literary form in the development of
+the novel. Moretti's work is interested in drawing connections among a
+field of data (texts) that would otherwise be too large and unweildy
+to work with--he declares that "distance... is a condition of
+knowledge" (/Distant Reading/ 48). More recently, Ted Underwood, in
+the field of Computational Literary Studies (CLS), harnesses the power
+of quantification and machine learning to glimpse what he calls the
+"distant horizon" of literary trends across centuries[fn:2]. More
+often than not, this kind of distant reading is combined with close
+reading methods, as critics will use the results of quantitative
+analysis to identify key moments from the text that merit closer
+attention.[fn:3]
+
+In an early essay, "The Soul and the Harpy" (1983),[fn:4] Moretti
+divulges a key motive in developing his methodological approach, which
+will eventually flourish into "distant reading." Underlying Moretti’s
+methodology is a deep concern with finding a way to ascertain the
+effect of historical forces on literary form. But the current
+practices of literary criticism present methodological obstacle. In
+this early essay, Moretti characterizes literary criticism as "a sort
+of cultivated accompaniment to reading – to the reading we are doing
+here and now," ("The Soul and the Harpy" 21). By this, he means that
+the analytical practices of contemporary literary critics, which
+"revolve around concepts such as ‘ambiguity’ and the like," will,
+according to Moretti, "always be pushed into multiplying, rather than
+reducing, the obstacles every social science encounters when it tries
+to give itself a testable foundation" (22). To illustrate the
+practices of current literary criticism, Moretti distinguishes between
+the historian and the student of literature:
 #+BEGIN_QUOTE
-In principle, the criteria for testing literary interpretations should
-be the same as those already in use in every other scientific
-discipline. One should in other words demand of an interpretation that
-is coherent, univocal, and complete. And the test will consist in
-comparing it with data which—-in the text or texts that constitute its
-object—-appear contradictory or inexplicable in the light of the
-hypothesis itself. 21
+The [student] – unless desirous of turning into that legendary figure
+whose only pleasure lay in contemplating his own reflection – must
+concentrate on the dissimilarities and ruptures: on what has been lost
+and become irretrievably unfamiliar, and which we can 're-familiarize'
+only by doing such violence to it that we distort the objective,
+material consistency of every work which it is the task of scientific
+knowledge to reconstruct and 'salvage'. 14
 #+END_QUOTE
-Here, Moretti proposes a mode of critical inquiry that minimizes the
-potential for difference and disagreement by laying an empirical
-foundation that facilitates "coherent, univocal, and complete"
-interpretations. Moretti's early reflections reveal an important with
-the "falsifiable" that drives his development toward "quantitative
-formalism." 
+According to Moretti, the great danger in literary criticism is the
+"violence" it does to the object of study in interpretation. Moretti's
+proposed method take a scientific approach that maintains the
+"objective, material consistency" of the work. Here, Moretti proposes
+a mode of critical inquiry that borrows from the sciences to minimize
+the potential for difference and disagreement. In hope of grounding
+the critical process on a more solid foundation, Moretti calls for a
+"falsifiable criticism" that can "test" literary interpretations, much
+like a social science ("The Soul and the Harpy" 21). Falsifiable
+criticism would pursue interpretations are "coherent, univocal, and
+complete," where the "results" can be compared with "data" which
+"appear contradictory or inexplicable in the light of the hypothesis
+itself" (21). He envisions a literary criticism that will slowly but
+steadily progress toward irrefutable knowledge of literary objects:
+"The day criticism gives up the battle cry ‘it is possible to
+interpret this element in the following way’, to replace it with the
+much more prosaic ‘the following interpretation is impossible for such
+and such a reason’, it will have taken a huge step forward on the road
+of methodological solidity" (22).
 
-Morettie's approach suggests that the computer takes on the bulk of
-the analytical work, and that the literary critic is just there to
-interpret the results of analysis. The essays in /Distant Reading/
-increasingly demonstrate how his critical method is streamlines into
-the neat, recursive processes of hypothesis, collecting and assembling
-data, and inference. The results are sometimes unexpected, but
-thoroughly enlightening, and occasionally bring Moretti to reframe his
-hypotheses. The culmination of Moretti’s quantitative method appears
-among the final set of essays, particularly in “Style, Inc.:
-Reflections on 7,000 Titles (British Novels, 1740-1850),” where he
-plots data about book titles on a series of graphs in order to
-speculate on market forces--"the title is where the novel as language
-meets the novel as commodity" (181). Moretti summarizes his
-conclusion: "As the market expands, titles contract; as they do that,
-they learn to compress meaning; and as they do that, they develop
-special ‘signals’ to place books in the right market niche”
-(204). However, his language in the essay's introduction attributes
-the force of his analysis to the quantitative process:
+Moretti's falsifiable criticism eventually grows into "distant
+reading," and particularly, "quantitative formalism," which quantifies
+literary form (specifically, genre) through quantitative methods that
+result in visualization, such as graphs and diagrams. Moretti's use of
+quantitative formalism conscripts digital methods toward the same kind
+of truth searching in paranoid reading practices. He does this by
+placing the burden and faith of knowing on the computer, attributing
+the bulk of analytical work to computational and visualization
+processes, and relegating the literary critic's role to explain the
+results of the computer's analyses. The essays in /Distant Reading/
+increasingly demonstrate how his critical method streamlines into the
+neat, recursive processes of hypothesis, collecting and assembling
+data, and inference. The results are often unexpected, and sometimes
+bring Moretti to reframe his hypotheses. In “Style, Inc.: Reflections
+on 7,000 Titles (British Novels, 1740-1850),” Moretti plots book
+titles on a series of graphs in order to explore how market forces
+influenced the titles. He offers that "the title is where the novel as
+language meets the novel as commodity" (181). He finally concludes
+that titles are quite sensitive to the market: "As the market expands,
+titles contract; as they do that, they learn to compress meaning; and
+as they do that, they develop special ‘signals’ to place books in the
+right market niche” (204). This is an exciting interpretation, which
+is borne by the various graphs of title lengths over time, but a
+closer look at Moretti's language obscures the extent to which his
+critical process involves interpretation at every step:
 #+BEGIN_QUOTE
 In what follows, I focus on three moments of this history: first, I
 /describe/ a major metamorphosis of eighteenth-century titles, and
 /try to explain/ its causes; next, I /suggest/ how a new type of title
 that emerged around 1800 may have changed what readers expected of
 novels; and finally, I /make a little attempt/ at quantitative
-stylistics, /examining/ some strategies by which titles point to
+stylistics, examining some strategies by which titles point to
 specific genres. Three sections, three pieces in the large puzzle of
 the literary field. (181-2; emphasis mine)
 #+END_QUOTE
-Moretti’s language here diminishes his intervention: he describe[s],
-tr[ies] to explain, suggest[s] and make[s] a little attempt. Though
-his speculations are provocative, Moretti presents them as
-supplementary to the graphs. Yet, it is Moretti who asks the
-questions: “by 1800 the number [of words in the title] had already
-dropped to 5 to 10 percent. Why?”  (184); and answers them: “between
-the size of the market, and the length of the titles, a strong
-negative correlation emerged: as the one expanded, the other
-contracted” (188). 
+This language presents the literary critic's work as an objective
+description of unproblematic reality. Additionally, although his
+speculations are provocative, Moretti presents them as supplementary
+to the graphs. Moretti’s diminishing language--he describe[s], tr[ies]
+to explain, suggest[s] and make[s] a little attempt--belies the nature
+of his intervention. After all, it is Moretti who poses the question,
+inputs the data, and draws conclusions from the graphs. The
+quantification ability of the computer emboldens Moretti to make
+larger claims about literary history, all the while diminishing his
+role as in analysis. His approach almost appears to aim toward an
+automated mode of analysis.
 
-Moretti, if you follow his thought, is actually engaging in a
-speculative method, using visualization to spark his imagination and
-make conjectures, but he doesn’t embrace his own subjectivity, because
-he’s going for a materialist history of literature. He makes
-conjectures, but disguises them as “explanations”. He finds a way to
-“explain” the trends in a graph. But his explanation is a guess.
+With the rise of digital methods like distant reading, the faith in
+the reproducible also grows, and even dominates the thinking of those
+who are generally critical of distant reading in literary studies. For
+example, Nan Z. Da, in her critique of scholars like Underwood, argues
+that quantitative methods, which belong in scientific methodologies,
+are ill-suited for literary studies. She accusses Underwood and other
+distant reading practitioners for trading "speed for accuracy, and
+coverage for nuance" (620). Of her many gripes with quantitative
+methods, which include "technical problems, logical fallacies," and a
+"fundamental mismatch betwen the statistical tools that are used and
+the objects to which they are applied" (601), she emphasizes the lack
+of reproducible results, the idea that one researcher's process can be
+reproduced by another with identical output. She demonstrates this
+lack of reproducibility with an experiment of Topic Modelling, which
+is the processing of large texts in order to generate a number of
+"topics" within the corpus. Researchers often use Topic Modelling as a
+way of speed-reading a massive corpus to get a sense of what it is
+about without having to read the text in full. Da attempts to verify
+the results of a Topic Modelling experiment by replicating the process
+on her own machine, a replication that fails.[fn:5] She concludes
+that, "if the method were effective, someone with comparable training
+should be able to use the same parameters to get basically the same
+results" (628-629).[fn:6] For Da, reproducibility of method is a
+benchmark for reviewing and assessing the efficacy of quantification.
 
-For example, when charting the rise and fall of several genres of
-English novels over the 18th and 19th centuries, he says that the
-reason for these cycles is the readership, that a genre’s popularity
-can be attributed to the taste of a generation (each cycle lasting
-about 25 years), which is then supplanted by a new generation. What he
-doesn’t account for is not only his conjecture, but for the nature of
-his data, about the genres and novels themselves, which he culls from
-monographs cited at the end of the chapter. His dataset comes from
-literary critical studies, and he titles his bibliography--- “A
-Taxonomy of Forms”, occluding its subjective nature. The way that he’s
-using the graphs to spark his inquiry and conjectures shows an
-underlying speculative method that’s guiding his criticism.
+This kind of reproducible criticism is where Moretti's fantasy of the
+falsifiable leads. Despite their vastly different committments,
+scholars like Moretti align with Da on the value that they place on
+the computer: Moretti in seeking a falsifiable method; and Da in
+suggesting that CLS methods fail in their goal to resemble the social
+sciences. In both cases, there is a implicit faith that the computer
+can do some of the analytical work that has been traditionally
+ascribed to the human.
 
-In digital contexts, the kinds of reading *passes off human
-interpretation as "objective," to the computer* . Computers can read
-at scale, therefore we now have the ability to study trends larger
-than the human capacity for reading and memory. But computers aren't
-meant to compensate for inabilities in the human, but to work within
-human capacities.
-
-**** playful text analysis, but not queer?
-There are also, however, literary critics who use text analysis toward
-more speculative ends --> but these aren't queer, they don't deal with
-absence in the same way. 
-
-“Distant Reading… where distance is however not an obstacle, but a
-specific form of knowledge: fewer elements, hence a sharper sense of
-their overall interconnection...in which the reality of the text
-undergoes a process of deliberate reduction and abstraction”
-(Moretti 1)
-
-Speculative Computing --- “push[es] subjective and probabilistic
-concepts of knowledge as experience (partial, situated, and
-subjective) against objective and mechanistic claims for knowledge as
-information (total, managed, and externalized)” (Drucker 5).
-
-Algorithmic Criticism --- Algorithmic criticism, according to Stephen
-Ramsay in Reading Machines: Toward an Algorithmic Criticism,
-approaches the constraints and objectivity of computational processes
-as an opportunity for contemplation and conversation. “attempts to
-employ the rigid, inexorable, uncompromising logic of algorithmic
-transformation as the constraint under which critical vision may
-flourish” (32). Rather than solve problems or answer questions
-definitively, humanist critics engage in readings that are inescapably
-partial and speculative. In this light, according to Ramsay,
-computational methods enhance current reading strategies by harnessing
-the constraints of computation to offer potential new readings: “The
-computer revolutionizes, not because it proposes an alternative to the
-basic hermeneutical procedure, but because it reimagines that
-procedure at new scales, with new speeds, and among new sets of
-conditions” (31). Activities such as compiling word frequency lists,
-diagramming social relationships, or plotting various textual data not
-only transform texts into new forms from which the critic may
-speculate, but are grounded in inherently critical moves, such as
-asking questions or identifying problems. Borrowing from Jerome McGann
-and Lisa Samuels’ concept of “deformance,” or the deliberate
-distortion or transformation of texts, Ramsay suggests that critics
-employ computational methods to select or rearrange textual data into
-new forms, or “paratexts,” for further reflection and analysis. Ramsay
-maintains that all critical reading is a deformative activity insofar
-as it prioritizes certain textual data—formal patterns, words,
-devices—over others and delivers a new, alternative text. For example,
-in his analysis of Virginia Woolf’s novel, The Waves, Ramsay uses a
-computer program to generate lists of distinctive terms uttered by
-each of the six speakers in Woolf’s novel. Ramsay emphasizes how this
-method “puts forth not the [original] text, but a new text in which
-the data has been paraphrased, elaborated, selected, truncated, and
-transduced” (16). To say, as a result, that the word frequencies
-“confirm” or “verify” what other critics have argued about the
-characters assumes that literary criticism aims for singular
-answers. Rather, the point of such an exercise is to “unleash the
-potentialities” of the text, offering opportunities for new readings
-(33). Ramsay point out that “we are not trying to solve Woolf. We are
-trying to ensure that discussion of The Waves continues” (15). 
-
-For example, in his analysis of Virginia Woolf’s novel, The Waves,
-Ramsay uses a computer program to generate lists of distinctive terms
-uttered by each of the six speakers in Woolf’s novel. Ramsay
-emphasizes how this method “puts forth not the [original] text, but a
-new text in which the data has been paraphrased, elaborated, selected,
-truncated, and transduced” (16). To say, as a result, that the word
-frequencies “confirm” or “verify” what other critics have argued about
-the characters assumes that literary criticism aims for singular
-answers. Rather, the point of such an exercise is to “unleash the
-potentialities” of the text, offering opportunities for new readings
-(33). Ramsay point out that “we are not trying to solve Woolf. We are
-trying to ensure that discussion of The Waves continues” (15). So one
-question continually leads to another, and so on, and the goal lies in
-this process—to arrive, over and over. Here, rhetorical coherence
-appears to be the only standard:
+*** Ramsay and Drucker's speculative methods
+There are literary critics who, eschewing the temptation of the
+paranoia, employ the "distance" of distant reading toward more
+speculative and creative ends. Stephen Ramsay, for example, approaches
+"the rigid, inexorable, uncompromising logic of algorithmic
+transformations" as an opportunity for contemplative analysis
+(32). Rather than solve problems or answer questions definitively, he
+engages in readings that are inescapably partial and
+speculative. Ramsay explains that computational methods enhance
+current reading strategies by harnessing the constraints of
+computation so that new readings may flourish: “The computer
+revolutionizes, not because it proposes an alternative to the basic
+hermeneutical procedure, but because it reimagines that procedure at
+new scales, with new speeds, and among new sets of conditions”
+(31). Activities such as compiling word frequency lists, diagramming
+social relationships, or plotting various textual data not only
+transform texts into new forms from which the critic may speculate,
+but are grounded in inherently critical moves, such as asking
+questions or identifying problems. Ramsay maintains that all critical
+reading is a deformative activity insofar as it prioritizes certain
+textual data such as formal patterns, words, devices over others and
+delivers a new "paratext." For example, in his analysis of Virginia
+Woolf’s novel /The Waves/, Ramsay uses a computer program to generate
+lists of distinctive terms uttered by each of the six speakers in the
+novel. Ramsay emphasizes how this method “puts forth not the
+[original] text, but a new text in which the data has been
+paraphrased, elaborated, selected, truncated, and transduced” (16). To
+say, as a result, that the word frequencies "confirm" or "verify" what
+other critics have argued about the characters assumes that literary
+criticism aims for singular answers. Rather, the point of such an
+exercise is to “unleash the potentialities” of the text, offering
+opportunities for new readings (33). Ramsay point out that “we are not
+trying to solve Woolf. We are trying to ensure that discussion of /The
+Waves/ continues” (15). Here, the goal is a rhetorical exercise:
 #+BEGIN_QUOTE
 The understanding promised us by the critical act arises not from a
 presentation of facts, but from the elaboration of a gestalt, and it
@@ -313,382 +323,36 @@ the critic freely employs the rhetorical acts of conjecture—not so
 that a given matter can be settled, but in order that the matter might
 become richer, deeper, and ever more complicated. 16
 #+END_QUOTE
-The analysis centers around the rhetorical ability of the critic,
-whose only goal is to convince the reader of her position, regardless
-of what that may be.
+Ramsay's method uses speed and efficiency of the machine to reflect
+back upon the critic, to give the critic more material and more
+opportunity for the creativity and speculation that characterizes
+literary analysis. 
 
-Reading Computationally, a bifocal process: There is a mixing of
-different modes of reading. Distant reading provides context, or
-framework, for close reading. The subjectivity of the critic becomes
-entangled with the object of study.
-
-Touching/Feeling
-Sedgwick searches for "some ways of understanding human desire that might
-be quite to the side of prohibition and repression, that might hence
-be structured quite differently from the heroic, 'liberatory,'
-inescapably dualistic righteousness of hunting down and attacking
-prohibition/repression in all its chameleonic guises" (10).
-
-Postcritical Reading…  “in this sense, is not just a cognitive
-activity but an embodied mode of attentiveness that involves us in
-acts of sensing, perceiving, feeling, registering, and engaging”
-(Felski 176). 
-
-synthesis: In some ways, all the critics treated in this essay regard
-the surface level of language—particularly linguistic patterns—as
-grounds for analysis, though only algorithmic criticism
-self-consciously approaches this stance. In what follows, I will
-examine how these critics’ divergent methods cohere into similar
-practices, before explaining the implications of each one on the
-future of literary studies. First, there is significant overlap
-between surface reading, distant reading, and algorithmic criticism in
-that all three make use of selective reading—that is, picking out
-certain details from texts to analyze—with or without the aid of
-computers. Specifically, both surface and distant reading make use
-historical or material contexts, such as publication history and and
-the non-canonical archive; and both surface reading and algorithmic
-criticism invest immense importance in finding patterns in texts, even
-if they direct this activity toward different ends. Second, distant
-reading and algorithmic criticism visualize or arrange textual data to
-stimulate analysis. Moretti’s graphs and maps function similarly to
-Ramsay’s textual transformations which “stand alongside the other
-[original text], impressing itself upon it and upon our own sense of
-what is meaningful” (12). Interestingly, in describing his diagram of
-character interactions in Hamlet, Moretti addresses this network of
-character-relations as something like Ramsay’s “paratext”:
-#+BEGIN_QUOTE 
-Though Horatio is an old fixation of mine, I had never fully
-understood his role in Hamlet until I looked at the play’s network
-structure. The keyword, here, is ‘looked’; what I took from network
-theory was its basic form of visualization: the idea that the temporal
-flow of a dramatic plot can be turned into a set of two-dimensional
-signs… that can be grasped at a single glance. (211) 
-#+END_QUOTE
-Moretti’s diagram of Hamlet enacts something analogous to Ramsay’s
-“deformance,” which involves transforming texts into new
-configurations (such as diagrams or word frequency lists) that
-stimulate potential readings. Seen in this light, the space between
-distant, surface, and algorithmic criticism seems to collapse.
-
-**** what kind of reading do we want to do? queer + digital?
-movement, play, reconfiguration --> allows us to engage with queer
-theory / performance. 
-
-This chapter proposes a method of reading that grapples with the
-tension to unearth hidden, latent, or absent meaning in text. It takes
-this tension to texts that have a history of embedding ideology about
-marginalized identities, particularly about sexuality. How can we read
-the queerness of texts not by what they hide, but what they show? The
-stakes is preserving the role of the aesthetics in critique.
-
-
-~~~~
-
-
-
-Felski: At stake is our receptivity: “to allow ourselves to be marked,
-struck, impressed by what we read” (12).  "We shortchange the
-significance of art by focusing on the “de” prefix (its power to
-demystify, destabilize, denaturalize) at the expense of the “re”
-prefix: its ability to recontextualize, reconfigure, or recharge
-perception” (Felski 17).
-
-"the reader-text connection becomes part of a network rather than a
-self-enclosed dyad— yet a connection that remains vital to literary
-studies, especially in the classroom. Reading, in this light, is a
-matter of attaching, collating, negotiating, assembling—of forging
-links between things that were previously unconnected. It is not a
-question of plumbing depths or tracing surfaces… Interpretation
-becomes a coproduction between actors that brings new things to light
-rather than an endless rumination on a text’s hidden meanings or
-representational failures” (Felski 174)
-
-Surface reading challenges that search for absence by compelling a
-reader to stay with what the text says and how it says it rather than
-moving ahead to probe how it reflects and refracts larger cultural
-patterns. This critique reifies aesthetic objects and suggests that
-literary critics should embrace the literary.
-
-Surface reading, according to Sharon Marcus and Stephen Best in
-“Surface Reading: An Introduction,” attends to the textual surface for
-what is visually, materially, and affectively immanent, rather than
-what is concealed or implied beneath the surface (9). In “attend[ing]
-to the surfaces of texts rather than plumb their depths,” the editors
-present a useful and exciting new reading method that observes the
-materialities, patterns, verbal complexities and mediations of texts
-(Best, Marcus 1-2). 
-
-There is the “embrace of the surface as an affective and ethical
-stance,” which prioritizes the reader’s affective response and the
-experience of reading (Best, Marcus 10).  ...
-
-
-**** Felski and emotionally guided criticism
-
-Rita Felski’s “The Limits of Critique”.  
-
-Here, Felski crystalizes something that many of these critics do not
-address---the role of affect in criticism. Her critique of
-“hermeneutics of suspicion,” which she calls a militant mode of
-reading, finds that the desire to unearth or discover secrets in the
-text is actually a harmful one, because it forecloses possibilities of
-connection and being moved by these texts. The affective modes of
-suspicion include disenchantment, vigilance, paranoia. Felski wonders
-what if we allowed ourselves to be marked or struck by what we
-read. Then, rather than just be a cognitive activity, reading can
-become an “embodied mode of attentiveness that involves us in acts of
-sensing, perceiving, feeling, registering, and engaging” (176). She
-wants to bring the body back into criticism.
-
-
-** on reproducible criticism
-*** Underwood et al
-
-Major developments in technology also perpetuate racial
-assumptions. Moving from networking technologies to software
-development, Tara McPherson explores the parallels between the
-Operating Systems and race relations, to show how the development of
-computer software betrays hegemonic assumptions about whiteness and
-elisions of difference.[fn:1] She focuses on the key moment of 1960s
-United States, when Operating Systems, which is the foundational
-software that supports a computer's programs and basic functioning,
-developed alongside civil rights discourses. Her research focuses on
-how "the organization of information and capital" in OS development
-resonates in the struggles for racial justice: "Many of these shifts
-were enacted in the name of liberalism, aimed at distancing the overt
-racism of the past even as they contained and cordoned off progressive
-radicalism" (30). McPherson deconstructs the UNIX operating system
-which includes a hierarchical file system, a command line interpreter
-(the Terminal on Mac or Command Prompt on Windows), and a variety of
-software programs that are designed to work in tandem. McPherson
-points out that UNIX-based Operating Systems (like Mac and Linux) are
-distinguished by the ways that they partition and simplify complex
-processes into discrete components, similar to the ways that identity
-politics cordones off parts of the (social and technological) system
-into distinct units. While this cordoning was productive for the
-promotion of civil rights, it also, according to McPherson, "curtailed
-and short-circuited more radical forms of political praxis, reducing
-struggle to fairly discrete parameters" (30).
-
-Crystallizing the intersection between Operating Systems and race
-relations, McPherson asserts that "Certain modes of racial visibility
-and knowing coincide or dovetail with specific ways of organizing
-data" (24). McPherson emphasizes the "rules" of UNIX philosophy, which
-lay out how UNIX's development prioritized the organization and
-simplification of data processing:
-#+BEGIN_QUOTE
-Rule of Simplicity: Design for simplicity; add complexity only where
-you must. Rule of Parsimony: Write a big program only when it is clear
-by demonstration that nothing else will do. Rule of Transparency:
-Design for visibility to make inspection and debugging easier... Rule
-of Representation: Fold knowledge into data so program logic can be
-stupid and robust. 26
-#+END_QUOTE
-The rules of "Simplicity" and "Parsimony" ensure that programs will be
-composed of small, interlocking parts that can be easily updated and
-transported to newer versions. The rule of "Transparency" flattens
-nuance and ambiguity, making program components as legible as
-possible. The rule of "Representation," particularly the suggestion to
-"Fold knowledge into data" reduces the complexity of raw data, so that
-it can be easily input into multiple processes. According to
-McPherson, all of these rules work together to shore up the central
-design theory of "modularity,"[fn:2] which stipulates that components
-are self-contained and interoperable, so they can be independently
-created, modified, and replaced without affecting the whole system.
-
-The role of control in creating the internet and the emphasis on data
-reduction in developing operating stystems leave their legacies on
-21st century digital technology, where race becomes collapsed into
-data. Echoing McPherson, Ruha Benjamin asserts that technology
-reproduces social inequities under the guise of objectivity and
-progressivism.[fn:3] Turning to technology, Benjamin explores how
-innovations in Artificial Intelligence and algorithmic computing
-extend racist paradigms into ever new tools, particularly in data
-gathering and surveillance. The creators of these new technologies
-mark, track, and quantify blackness, for example, in databases for
-healthcare or financial services that associate "black names" with
-criminality (Benjamin 5). With each update, technology is continually
-promoted as efficient and progressive in a way that masks how it
-exploits data about its subjects. Benjamin explains, "we are told that
-how tech sees “difference” is a more objective reflection of reality
-than if a mere human produced the same results... bias enters through
-the backdoor of design optimization in which the humans who create the
-algorithms are hidden from view" (5-6). As she points out, "the road
-to inequity is paved with technical fixes” (7). Like the creators of
-UNIX, the creators of such tools and algorithms operate under
-assumptions of white universality that inevitably marks blackness as
-"other."
-
-*** Underwood & Da on reproducibility
-
-Let us now turn to computational methods, seeing how they bear out
-some of the legacies from the above technological
-histories. 
-
-Practitioners of "distant reading," a critical method at the
-intersection of Literary Studies and Data Science, use quantitative
-analysis to study works of literature. This process involves deploying
-computer programs to clean, categorize, and count elements in textual
-data, and is often followed by interpretive analysis, where the critic
-engages the results of quantification from a humanities
-lense. 
-
-According to its practitioners, distant reading is most useful for the
-ways it allows connections to emerge among vast amounts of textual
-data. Underwood's argument convincingly begins with the observation
-that human capacities of sight, attention, and memory preclude them
-from grasping the larger patterns of literary history across
-time. Distant reading, where "distance" means abstraction, or the
-simplification of textual data into computable objects such as
-publication dates and genres, allows critics to see connections amid
-the swarm of overflowing information.
-
-Among distant reading practitioners, Underwood's approach is unique in
-that he models the ways that human assumptions can affect the results
-of analysis. Underwood is careful to point out the subjective nature
-of his method, which he calls "perspectival modelling," by turning it
-into an object of study. He uses machine learning, or programs
-"trained" by certain data sets, to create models that can then make
-predictions on other datasets. He explains that, "Since learning
-algorithms rely on examples rather than fixed definitions, they can be
-used to model the tacit assumptions shared by particular communities
-of production or reception" ("Machine Learning and Human Perspective"
-93). One of his projects examines gender roles in novels from the
-18th century to the 21st century by using a machine-learning model to
-"guess" the sex of a fictional character based on the words associated
-with that character. Underwood explains how the test is configured:
-#+BEGIN_QUOTE 
-We represent each character by the adjectives that modify them, verbs
-they govern and so on--excluding only words that explicitly name a
-gendered role like /boyhood/ or /wife/. Then, we present characters,
-labeled with grammatical gender, to a learning algorithm. The
-algorithm will learn what it means to be 'masculine' or 'feminine'
-purely by observing what men and women actually do in stories. The
-model produced by the algorithm can make predictions about other
-characters, previously unseen. /Distant Horizons/ 115
-#+END_QUOTE
-In simplest terms, the program studies some given adjectives
-associated with a male or female character in order to make
-predictions about other characters' genders. Inevitably, the resulting
-output is always determined by this initial input. Underwood carefully
-asserts that these models reveal, not the truth of literary histroy,
-but the approaches and choices made by those who create the models:
-"Machine learning algorithms are actually bad at being objective and
-rather good at absorbing human perspectives implicit in the evidence
-used to train them" ("Machine Learning and Human Perspective"
-92). This particular model reveals that that, over time, gender roles
-in novels become more flexible while the actual number of female
-characters declines (/Distant Horizons/ 114). The graph shows a steady
-overlapping of words traditionally associated with women, such as
-"heart," with words typically assoicated with men, like "passion,"
-toward the middle of the 20th century. One of the many explanations
-for this result, Underwood reasons, is that the practice of writing
-became more commonly pursued as a male occupation in the middle of the
-20th century than it was previously (/Distant Horizons/ 137). This
-fact, coupled with the tendency of men to write more about men than
-women, suggests why less women writing would led to a decline in
-female characters. This explains how Underwood's seemingly paradoxical
-conclusion, that gender roles become more flexible while the actual
-prevalence of women dissapates from fiction, might be possible.
-
-However, the results of Underwood's "perspectival modeling" can only
-be as good as the questions he asks. From a critical gender
-perspective, Underwood's approach imposes the very structure that he
-is attempting to deconstruct. In other project, he where he similarly
-measures the "transformations" of gender across time periods, he
-explains that simplification is necessary ("Machine Learnig and Human
-Perspective" 93):
-#+BEGIN_QUOTE
-I recognize that gender theorists will be frustrated by the binary
-structure of the diagram. To be sure, this binary has folded back on
-itself, in order to acknowledge that social systems look different
-from different positions in the system. But the diagram does still
-reduce the complex reality of gender identification to two public
-roles: men and women. I needed a simple picture, frankly, in order to
-explain how a quantitative model can be said to represent a
-perspective. "Machine Learning" 98
-#+END_QUOTE
-Underwood admits that he needs a "simple" model in order to bring into
-relation the dynamics of gender (See Fig. 2).[fn:6] However, he
-underestimates the extent to which his initial assumptions determine
-the final result. Although he considers the possibility that he finds
-a structural tension between gender "because [he] explores gender, for
-the most part, as a binary opposition" (/Distant Horizons 140), he
-neglects to consider how the collapsing of gender into a single graph
-perpetuates the structural categories of male/female in a way that is
-neglects the assumptions behind such a category.[fn:7] Moreover, the
-issue is not just with the assumptions at the outset which reproduces
-the result, but with the guiding question of the entire project, which
-is not about deconstructing gender, but about reifying it. To begin
-with, why should humanists seek to automate the conscription of gender
-norms within these terms? Asking a machine to replicate the
-conscription of gender for the purpose of seeing how male and female
-roles in novels change over time only creates a model of gender that
-is "simple" enough to be computed by the system. How does simplifying
-the concept of gender contribute to our study of it? The results of
-using the machine can only be as good as the questions we ask.
-
-[[./img/Underwood.png]]
-
-Critiquing scholars like Underwood, Nan Z. Da argues that quantitative
-methods are ill-suited for literary criticism. She accusses Underwood
-and other distant reading practitioners for trading "speed for
-accuracy, and coverage for nuance" (620). Of her many gripes with
-quantitative methods, which include "technical problems, logical
-fallacies," and a "fundamental mismatch betwen the statistical tools
-that are used and the objects to which they are applied" (601), she
-emphasizes the lack of reproducible results, the idea that one
-researcher's process can be reproduced by another with identical
-output, which is essential to statistical methodologies. She
-demonstrates with an experiment of Topic Modelling, which is the
-processing of large texts in order to generate a number of "topics"
-within the corpus. Researchers often use Topic Modelling as a way of
-speed-reading a massive corpus to get a sense of what it is about
-without having to actually look at the text. Da attempts to verify the
-results of a Topic Modelling experiment by replicating the process on
-her own machine, a replication that fails. She concludes that, "if the
-method were effective, someone with comparable training should be able
-to use the same parameters to get basically the same results"
-(628-629).[fn:8] For Da, reproducibility of method is a benchmark for
-reviewing and assessing the efficacy of quantification.
-
-Despite their vastly different committments, scholars like Underwood
-align with Da on the value that they place on reproducibility, which
-is an ultimately conservative investment. Underwood demonstrates how
-the critic reproduces their assumptions in the questions and data used
-at the outset in a way that structures the final result. Da's emphasis
-on the reproducible suggests that, to be useful, quantitative literary
-criticism ought to resemble something more like statistical analysis:
-if the method can be verified, can be copied and reproduced, then the
-interpretive conditions might be universalized. 
-
-*** Drucker's skewing the graphs
-
-Underwood and Da overlook the way that quantification can be used to
-disrupt assumptions or reveal the constructed nature of data. In
-contrast to Underwood and Da, Johanna Drucker is careful to dispell
-the illusion of "raw data," which comes already reduced to fit
-whatever parameters required by analysis. Because data always
-undergoes a transformation in order to be quantified, its complexity
-has already been compromised. As a result, Drucker argues,
-quantification techniques such as visualizations in graphs and charts
-inevitably misrepresent the data they are meant to convey. To
-illustrate this process, Drucker presents a chart displaying the
-amount of books published over several years. The chart appears to
-convey production during this specific time period, but Drucker
-explains that publication date is an arbitrary metric for capturing
-production.[fn:9] She brings to the surface all the assumptions made
-in such a metric, for example, the limitations of "novel" as a genre
-and the connotations behind "published," which suggests date of
-appearance, but has no indication of composition, editing, review,
-distribution. Each piece of data carries with it the result of many
-interpretive decisions, that carry with them varying degrees of
-opacity, which are all necessary in order to present complex concepts
-like book production as a bar on a chart. Drucker explains: "the
-graphical presentation of supposedly self-evident
-information... conceals these complexities, and the interpretative
-factors that bring the numerics into being, under a guise of graphical
-legibility" (Drucker par. 23).
+Like Ramsay, Johanna Drucker is interested in exploring how the
+computer engages with the critic's analytical process. Drucker,
+however, directs her reading toward deconstructing the objectivity of
+the machine. She is careful to dispell the illusion of "raw data,"
+which comes already reduced to fit whatever parameters required by
+analysis. Because data always undergoes a transformation in order to
+be quantified, its complexity has already been compromised. As a
+result, Drucker argues, quantification techniques such as
+visualizations in graphs and charts inevitably misrepresent the data
+they are meant to convey. To illustrate this process, Drucker presents
+a chart displaying the amount of books published over several
+years. The chart appears to convey production during this specific
+time period, but Drucker explains that publication date is an
+arbitrary metric for capturing production.[fn:7] She brings to the
+surface all the assumptions made in such a metric, for example, the
+limitations of "novel" as a genre and the connotations behind
+"published," which suggests date of appearance, but has no indication
+of composition, editing, review, distribution. Each piece of data
+carries with it the result of many interpretive decisions, that carry
+with them varying degrees of opacity, which are all necessary in order
+to present complex concepts like book production as a bar on a
+chart. Drucker explains: "the graphical presentation of supposedly
+self-evident information... conceals these complexities, and the
+interpretative factors that bring the numerics into being, under a
+guise of graphical legibility" (Drucker par. 23).
 
 To resist the reductions of "data," a term that deceptively connotes
 that which is "given," Drucker proposes thinking of data as "capta,"
@@ -710,24 +374,253 @@ analysis. Drucker makes evident what is overlooked or assumed when
 dealing with complex subjects by muddling (rather than simplifying)
 the relationship between elements.
 
-*** Mandell: deconstructing gender with computation
-Drucker points out how data that is taken (capta) can be rendered
-graphically to sugesst the complexity of that data. Laura Mandell
-similarly explores solutions for approaching the reduction of data,
-particularly of gender, into what she calls the "M/F binary."[fn:10]
-Mandell critiques recent uses of stylometery by Matthew Jockers and
-Jan Rybicki, which analyze "masculine" or "feminine" modes of writing
-by computing syntax, diction, and other linguistic features. Mandell
-demonstrates how the M/F binary is reified "by presenting conclusions
-about “male” and “female” modes of thinking and writing as if the M/F
-terms were simple pointers to an unproblematic reality, transparently
-referential and not discursively constituted" (par. 5). Mandell's
-examination marshalls key findings from feminist theory, drawing from
-Judith Butler, among others, to assert that gender is a socially
-constituted category, a "performance" that can be historicized. She
-illustrates the guiding power of the M/F binary in her critique of
-Jockers and Rybicki, which find that they essentialize gender by
-relying on stereotypes in their premises.
+*** Reading for social categories, SoRoland
+It seems that Moretti and Da show how computational methods encourage
+a "falsifiable" method of literary criticism that mimics the
+methodologies of the sciences. Alternatively, Ramsay and Drucker
+demonstrate how these methods can also be used toward more speculative
+ends, and for Drucker in particular, with a sensitivity that is
+critical of anlaytical processes. In fact, however, all of the above
+critics share at least in part in a speculative kind of
+criticism. First, there is significant overlap between distant reading
+and speculative compting in that they visualize or arrange textual
+data to stimulate analysis. Moretti, after all, is using visualization
+to spark his imagination and make conjectures, which he describes as
+"explanations." In the pursuit of the falsifiable, Moretti evacuates
+much of his method's creative potential. 
+
+The difference Moretti on the one hand, and Ramsay and Drucker on the
+other has less to do with method and more to do with
+orientation. Moretti's method stems from a suspicious conviction that
+the archive of literary history has something to hide. Rita Felski
+explains that the desire in a “hermeneutics of suspicion,” which she
+calls a militant mode of reading forecloses possibilities of
+connection and being moved by these texts. Because critics are focused
+on unearthing or discovering secrets in the text, it reduces the
+interaction between reader and text to an intellectual
+activity. Felski wonders what if we allowed ourselves to be marked or
+struck by what we read. Then, rather than just be a cognitive
+activity, reading can become an “embodied mode of attentiveness that
+involves us in acts of sensing, perceiving, feeling, registering, and
+engaging” (176). A critic like Ramsay, for example, is not only
+willing to be surprised, his critical process is driven by a desire
+for surprise. And Drucker, although not driven by surprise, is
+searching for ways to disrupt assumptions about handling and
+processing graphical data. 
+
+This chapter looks at distant reading for queer texts, and for how it
+might attend to some of the more slippery concepts of social
+categories. How might distant reading analyze gender ontology, for
+example? In order to address marginalized aspects of identity, in a
+way that does not reproduce our assumptions, we have to ask questions
+that do not assume that we already know the kind of thing we are
+looking for.
+
+One example of distant reading explores how to handle questions of
+racial identity and discourse in novels. Richard Jean So and Edwin
+Roland use machine learning to explore the constructedness of racial
+categories by experimenting with an algorithm that evaluates an
+author's race according to the vocabulary used by the author. When
+they look more closely into these results of using the algorithm on a
+large corpora of novels by white and black authors, they find that it
+reveals different levels of variance in words traditionally attributed
+to white and black authors: while novels by white authors are
+distinguished by a low variance in this vocabulary, novels by black
+authors show a greater variance in vocabulary (66). They conclude that
+white authorship, as a category, only coheres against the incoherence
+of black authorship. In other words, they find that whiteness
+/depends/ on the characterization of blackness.[fn:8] 
+
+Much in the same vein as Drucker, So and Roland's position is that
+this quantitative excercise is more useful for what it teaches us
+about the machine, rather than what it teaches us about race. They
+decide to explore one of the errors that the machine made, isolating
+one text, James Baldwin's novel, /Giovanni's Room/ (1956), which was
+wrongly categorized as being written by a white author. So and Roland
+point out that this misclassification recalls a critical debate about
+this text's notorious elision of explicit references to race, whereby
+blackness is displaced in favor of an implicit whiteness. In the six
+words in /Giovanni's Room/ revealed by the algorithm which influence
+the categorization as a white-authored text, one of them is the term
+"appalled." So and Roland point out the connotations of whiteness in
+"appalled," which has the middle French root, "apalir," meaning "to
+grow pale" (71). They discover that this term occurs only once in the
+text, in the early scene where David (the narrator) describes his
+relationship to his father. Here, David regrets his father's
+friendliness which comes at the expense of a paternal aspect: "I did
+not want to be his buddy. I wanted to be his son. What passed between
+us as masculine candor exhausted and appalled me" (Rpt. in So and
+Roland 71). They insightfully conclude that the word "appalled" in the
+text marks "the moment David develops a troubled relationship to
+normative masculinity [as] also the moment he becomes 'white'"
+(71). Taking the computer's mistake as a starting point, their
+analysis thus contributes to the ongoing debate about the imbrication
+between race and sexuality in the novel.
+
+So and Roland assert that, while "Race is a category that escapes
+measurement or simply renders it untenable," the machine is an apt
+tool for studying this category" (60). In a sense, So and Roland are
+confronting the same problem as Da: what is the effect of
+computational error in literary criticism? But rather than write off
+quantitative methods, So and Roland suggest an interesting way out of
+the problem: use the error as a starting point for further analysis,
+which probes the constructedness of gender ontology. Because race is a
+social construct, and machines only impute meaning that is encoded
+into them, than it stands to reason that machines might be ideal
+instruments for studying the construction of race. Computational error
+becomes an opportunity for exploring the encoding of racial
+identity. Looking more closely at the specific results of this
+analysis, like the function of the term "appalled" in /Giovanni's
+Room/, they can make more daring leaps of speculation about how
+whiteness, while displacing blackness, also gestures toward a troubled
+understanding of gender and potentially, sexuality. So and Roland
+assert that: "If the general class of the misclassified points to the
+erosion of the machine's initial binary understanding of white and
+black, a close analysis of a single misclassified text can reveal what
+precisely motivates that ontological undoing" (68). Thus they turn the
+central mismatch between data analysis, which works to "identify and
+label objects," and minority discourse analysis, which "critique[s]
+and problematize[s] the very idea of categories," into a point for
+interrogation (63). In this case, the algorithm allows researchers to
+interrogate how whiteness as a category depends on the contrast of
+blackness as "other." Rather than being "fundamentally mismatched,"
+the machine and minority discourse are particularly suited for one
+another, as the machine uses highly constructed and reductive method
+that allows practitioners to deconstruct social categories.
+
+The example with "appalled" is totally idiosyncratic--the word occurs
+once through the entire novel. But paying attention to error upends
+the value of reproducibility by combining a deconstructive and
+speculative approach. They run a computation, look for an error, and
+use that error as an opportunity to learn about the ways that
+categories are constructed. They assert their goals, to “expos[e] the
+racial limitations of computation can reveal things otherwise occluded
+within literary history” (61). They are using computers in an
+unintuitive way, computing for indeterminacy. While this work is
+essential for bringing together quantitative and critical race
+discourses, it also doesn't give enough credit to the ways that
+/computers/, in presenting formalized schemas of race, /transform/
+data toward speculative ends. What if we began with the notion of the
+appalled?  What if we looked further into the way that race is
+generated by vocabulary?  Not in order to further understand how race
+operates (computers will never be as subtle thinkers as we are), but
+to direct human subtlety more attently to computer output. What if,
+rather than using the machine to study human constructs, we used the
+machine to spur human thinking?
+
+This chapter takes exactly this approach to study the marginalized
+aspects of gender ontology.
+
+*** Underwood v Mandell: deconstructing gender with computation
+
+Computing for gender in literary texts is not a new endeavor. One
+prominent distant reading practitioner, Ted Underwood, studies the way
+that gender markers in novels change over time. Put simply,
+Underwood's approach is to explore how effective computers are at
+analyzing certain textual elements based on previous analyses, which
+he calls "perspectival modelling." Underwood uses machine learning, or
+programs "trained" by certain data sets, to create models that can
+then make predictions on other datasets. He explains that, "Since
+learning algorithms rely on examples rather than fixed definitions,
+they can be used to model the tacit assumptions shared by particular
+communities of production or reception" ("Machine Learning and Human
+Perspective" 93). Dan Sinykin writes that "Against the purported
+objectivity of algorithms, he leverages the human prejudices built
+into modeling toward humanistic ends" (par. 4).[fn:9] One of his
+projects examines gender roles in novels from the 18th century to the
+21st century by using a model that predicts the the sex of a fictional
+character based on the words associated with that character. Underwood
+explains how the test is configured:
+#+BEGIN_QUOTE 
+We represent each character by the adjectives that modify them, verbs
+they govern and so on--excluding only words that explicitly name a
+gendered role like /boyhood/ or /wife/. Then, we present characters,
+labeled with grammatical gender, to a learning algorithm. The
+algorithm will learn what it means to be 'masculine' or 'feminine'
+purely by observing what men and women actually do in stories. The
+model produced by the algorithm can make predictions about other
+characters, previously unseen. /Distant Horizons/ 115
+#+END_QUOTE
+In simplest terms, the program studies some given adjectives
+associated with a male or female character in order to make
+predictions about other characters' genders. Inevitably, the resulting
+output is always determined by this initial input. Underwood carefully
+asserts that these models suggest, not the truth of gender ontology,
+but the approaches and choices made by those who create the models:
+"Machine learning algorithms are actually bad at being objective and
+rather good at absorbing human perspectives implicit in the evidence
+used to train them" ("Machine Learning and Human Perspective"
+92). This particular model reveals that that, over time, gender roles
+in novels become more flexible while the actual number of female
+characters declines (/Distant Horizons/ 114). The graph shows a steady
+overlapping of words traditionally associated with women, such as
+"heart," with words typically assoicated with men, like "passion,"
+toward the middle of the 20th century. One of the many explanations
+for this result, Underwood reasons, is that the practice of writing
+becomes more commonly pursued as a male occupation in the middle of
+the 20th century than it was previously (/Distant Horizons/ 137). This
+fact, coupled with the tendency of men to write more about men than
+women, suggests why less women writing would led to a decline in
+female characters. This explains how Underwood's seemingly paradoxical
+conclusion, that gender roles become more flexible while the actual
+prevalence of women dissapates from fiction, might be possible.
+
+However, the results of Underwood's "perspectival modeling" can only
+be as good as the questions he asks. From a critical gender
+perspective, Underwood's approach imposes the very structure that he
+is attempting to deconstruct. In other project where he similarly
+measures the "transformations" of gender across time periods, he
+explains that simplification is necessary ("Machine Learnig and Human
+Perspective" 93):
+#+BEGIN_QUOTE
+I recognize that gender theorists will be frustrated by the binary
+structure of the diagram. To be sure, this binary has folded back on
+itself, in order to acknowledge that social systems look different
+from different positions in the system. But the diagram does still
+reduce the complex reality of gender identification to two public
+roles: men and women. I needed a simple picture, frankly, in order to
+explain how a quantitative model can be said to represent a
+perspective. "Machine Learning" 98
+#+END_QUOTE
+Underwood admits that he needs a "simple" model in order to bring into
+relation the dynamics of gender (See Fig. 2).[fn:10] In aiming for
+simplicity, however, he underestimates the extent to which his initial
+assumptions will affect the final result. Although he considers the
+possibility that he finds a structural tension between gender "because
+[he] explores gender, for the most part, as a binary opposition"
+(/Distant Horizons/ 140), he neglects to consider how the collapsing
+of gender into a single graph perpetuates the structural categories of
+male/female in a way that neglects the assumptions behind such a
+category.[fn:11] Moreover, the issue is not just with the assumptions
+at the outset which reproduces the result, but with the guiding
+question of the entire project, which is not about deconstructing
+gender, but about reifying it. /To begin with, why should humanists
+seek to automate the conscription of gender norms within these terms?/
+Asking a machine to replicate the conscription of gender for the
+purpose of seeing how male and female roles in novels change over time
+only creates a model of gender that is "simple" enough to be computed
+by the system. How does simplifying the concept of gender contribute
+to our study of it? The results of using the machine can only be as
+good as the questions we ask. This is an important example of how
+paranoid reading can trap one in what Sedgwick describes as a "binary
+mode of thinking," where textual elements are conscripted into meaning
+one thing or the other (/Touching Feeling/ 2).
+
+[[./img/Underwood.png]]
+
+Laura Mandell takes another approach to studying gender, one which
+explores solutions for approaching the reduction of gender as data,
+into what she calls the "M/F binary."[fn:12] Mandell demonstrates how
+the M/F binary is reified "by presenting conclusions about “male” and
+“female” modes of thinking and writing as if the M/F terms were simple
+pointers to an unproblematic reality, transparently referential and
+not discursively constituted" (par. 5). Mandell's examination
+marshalls key findings from feminist theory, drawing from Judith
+Butler, among others, to assert that gender is a socially constituted
+category, a "performance" that can be historicized. She illustrates
+the guiding power of the M/F binary in her critique of Jockers and
+Rybicki, which find that they essentialize gender by relying on
+stereotypes in their premises.
 
 Rather than discount quantitative methods, however, Mandell suggests
 that it can open up the way we deconstruct our understanding of
@@ -751,26 +644,26 @@ constitutive of, gender" (par. 35).
 The similarities between gender and genre, however, work to evacuate
 how gender is /constitutive/ of the subject. She points out that both
 are kinds of performance than can be learned: "features of both gender
-and genre, while highly discernible, are also highly
-imitable. (par. 30). Mandell asserts that "Anyone can adopt gendered
-modes of behavior, just as anyone can write in genres stereotypically
-labeled M/F" (par.30). Here, she takes Butler's points about gender
-performativity beyond its purview: indeed, Butler's description of
-performativity as a process, rather than a singular act, emphasizes
-the lack of an autonomous subject that performs gender. In /Bodies
-that Matter/, her follow-up to /Gender Trouble/, Butler explicitly
-warns against the interpretation that gender is decided by the
-subject, to be put on and off at will like clothing. Rather, according
-to Butler, the subject /is produced/ by gender, which allows the
-subject to emerge: "construction is neither a subject nor its act, but
-a process of reiteration by which both 'subjects' and 'acts' come to
-appear at all" (xviii). Crucially, Butler asserts that gender
-/precedes/ and /constitutes/ the subject. This is not to say that
-Mandell is wrong about gender being constructed, but that her
-assumption, that "categories such as gender are being constructed both
-by the measurer and the measured" misses an important point about the
-autonomy of subject (par. 38). According to Butler, the subject only
-emerges as an effect of gendered performance.
+and genre, while highly discernible, are also highly imitable
+(par. 30). Mandell asserts that "Anyone can adopt gendered modes of
+behavior, just as anyone can write in genres stereotypically labeled
+M/F" (par.30). Here, she takes Butler's points about gender as a
+performance in /Gender Trouble/ too literally. As Butler often
+clarified in her later work, performativity is a process which is
+compulsory and habitual, rather than a singular act. Crucially, Butler
+asserts that gender /precedes/ and /constitutes/ the subject. In
+/Bodies that Matter/, her follow-up to /Gender Trouble/, Butler
+explicitly warns against the interpretation that gender is decided by
+the subject, to be put on and off at will like clothing. Rather,
+according to Butler, the subject /is produced/ by gender, which allows
+the subject to emerge: "construction is neither a subject nor its act,
+but a process of reiteration by which both 'subjects' and 'acts' come
+to appear at all" (xviii). This is not to say that Mandell is wrong
+about gender being constructed, but that her assumption, that
+"categories such as gender are being constructed both by the measurer
+and the measured" misses an important point about the way that gender
+constitutes subjectivity (par. 38). According to Butler, the subject
+only emerges as an effect of gendered performance.
 
 Even so, Mandell's work suggests further ways of drawing attention to
 the complexity of gender, which harness the interactive affordances of
@@ -788,143 +681,304 @@ parallax, multiple perspectives for viewing a very complex reality”
 emphasize how they might multiply our understanding of gender:
 
 #+BEGIN_QUOTE
-We could break the algorithm’s capacity to produce “a strong gender
-signal” by simply increasing the number of gender categories to be
-sorted. Experts in the field could create metadata to generate a
-completely new taxonomy to replace the tired M/F binary: “men writing
-as men,” “women writing as women, “women writing as men,” “men writing
-as women,” “unspecified (anonymous) writing as men,” “unspecified
-writing as women,” “men writing as men (byline) in the voice of a
-woman (woman narrator),” “men writing as unspecified (anonymous
-byline) in the voice of a woman,” “women writing as men (byline) in a
-voice of unspecified,” etc.—whatever categories are presented by title
-pages, prefaces, narrators’ discourses, and research into authorship
-attribution found. par. 36
+Experts in the field could create metadata to generate a completely
+new taxonomy to replace the tired M/F binary: “men writing as men,”
+“women writing as women, “women writing as men,” “men writing as
+women,” “unspecified (anonymous) writing as men,” “unspecified writing
+as women,” “men writing as men (byline) in the voice of a woman (woman
+narrator),” “men writing as unspecified (anonymous byline) in the
+voice of a woman,” “women writing as men (byline) in a voice of
+unspecified,” etc. par. 36
+#+END_QUOTE.
+
+*** using the digital to work with gender
+
+This chapter looks for ways that Digital Humanists might deploy text
+analysis for the study of gender. In doing so, it draws from the
+speculative and computationally critical approaches of digital
+humaninists like Ramsay, Drucker, and from the attention to
+deconstructing social categories from So, Roland, and Mandell. How do
+we take what these theorists are doing with text analysis and apply it
+toward the study of gender? We need a method that attends to the
+particularity of gender construction and ontology.
+
+The orientation we take toward our object has an effect upon the
+result. In applying digital tools to the study of gender, we ought to
+be wary of the temptation to approach gender as a secretive element of
+the text. Gender identity, especially nonnormative gender, is slippery
+and complex. Queer theorists in particular approach gender identity as
+something that is suppressed or in need of revelation. As soon as I
+write this a slew of questions emerge: What kind of knowledge are we
+trying to create? Aren't we now operating as if it is possible to
+"distant read" in the first place? That there are things which can be
+quantified, if only we ask the right questions?  When we look to the
+"occluded", are we hunting or speculating? Are we trying to recover or
+to speculate? How do we approach the study of gender in a way that
+avoids the pitfalls of a paranoid stance? To avoid this paranoid
+position, we might look to engage with gender as an aestheticized
+quality, as something that operates on the surface of the text,
+without conscripting it into the logic of "prohibition and
+repression," in Sedgwick's words (/Touching Feeling/ 10). I turn to
+distant reading, not to help reveal what is invisibly encoded in my
+text of study, but for the ways that it allows me to re-read the
+surface of the text.
+
+Moving forward, the question is--How can we read gender not by what it
+hides, but what it shows? This chapter proposes a method of reading
+that grapples with the tension to unearth hidden, latent, or absent
+meaning in text. The stakes are about preserving the role of the
+aesthetics in critique. How can the reconfiguration--the
+abstraction--provided by the machine allow us to engage with queerness
+in texts?
+
+*** WAITING orlando close reading
+
+Virginia Woolf's /Orlando: A Biography/ is a fictional biography that
+follows the life of a 16th-century English nobleman, Orlando, as he
+undergoes a sex change and lives into the 20th century as a woman. 
+
+The theme of gender in the novel is closely tied to that of narrative
+perspective. As he recounts the life of Orlando, the
+biographer-narrator mocks the techniques of historical biographers by
+continualling calling into question the ability of language to
+adequately describe life. From the beginning, the text displays the
+biographer's ambivalence about how to describe Orlando and presents
+two possible perspecties--that of the poet, and that of the
+biographer:
+#+BEGIN_QUOTE
+... Orlando's face, as he threw the window open, was lit solely by the
+sun itself. A more candid, sullen face it would be impossible to
+find. Happy the mother who bears, happier still the biographer who
+records the life of such a one! Never need she vex herself, nor he
+invoke the help of novelist or poet. From deed to deed, from glory to
+glory, from office to office he must go, his scribe following after,
+till they reach whatever seat it may be that is the height of their
+desire. Orlando, to look at, was cut out precisely for some such
+career. The red of the cheeks was covered with peach down; the down on
+the lips was only a little thicker than the down on the cheeks. The
+lips themselves were short and slightly drawn back over teeth of an
+exquisite and almond whiteness. Nothing disturbed the arrowy nose in
+its short, tense flight; the hair was dark, the ears small, and fitted
+closely to the head. But [..] directly we glance at Orlando standing
+by the window, we must admit that he had eyes like drenched violets,
+so large that the water seemed to have brimmed in them and widened
+them; and a brow like the swelling of a marble dome pressed between
+the two blank medallions which were his temples. Directly we glance at
+eyes and forehead, thus do we rhapsodize. Directly we glance at eyes
+and forehead, we have to admit a thousand disagreeables which it is
+the aim of every good biographer to ignore. 12-13
 #+END_QUOTE
+Here, the biographer declares Orlando’s beautiful face a good subject
+for biography. The biographer asserts his aims are to record Orlando,
+"following after" him, "from deed to deed, from glory to glory, from
+office to office" (12). The description of Orlando's face begins
+soberly enough with straightforward sentence structure using simple
+"to be" verbs that describe Orlando's features with some insertion of
+modest figurative comparisons (the "peach down" ob the lips, teeth of
+"an exquisite and almond whiteness," the "tense flight" of the "arrowy
+nose," etc). However, when the biographer arrives to Orlando's eyes
+and forehead, his style ascends into full-fledged figuration: he "must
+admit that [Orlando] had eyes like drenched violets, so large that the
+water seemed to have brimmed in them and widened them." The
+biographer's problem, that Orlando is too beautiful for literal
+description--“Directly we glance at the eyes and forehead, we have to
+admit a thousand disagreeables which it is the aim of every good
+biographer to ignore”--requires him to draw on the strategies of the
+poet, using imagery and simile.
 
-Mandell points to manipulation of gender categories, which gives the
-researcher more opportunities for input.
+At a key moment of the text, the moment of Orlando's transition into a
+woman, the biographer again grapples with the challenge to describe
+Orlando's life in a way that is objective and literal, in keeping with
+the principles of biography. As he tries to piece together the events
+of Orlando's sex change, the biographer explains that the record of
+Orlando’s life at this stage is incomplete: "It is, indeed, highly
+unfortunate, and much to be regretted that at this stage of Orlando's
+career... we have least information to go upon" (88). He describes a
+fire that breaks out, destroying part of the manuscript that the
+biographer uses as source material:
+#+BEGIN_QUOTE
+Often the paper was scorched a deep brown in the middle of the most
+important sentence. Just when we thought to elucidate a secret that
+has puzzled historians for a hundred years, there was a hole in the
+manuscript big enough to put your finger through. We have done our
+best to piece out a meagre summary from the charred fragments that
+remain; but often it has been necessary to speculate, to surmise, and
+even to use the imagination. 88
+#+END_QUOTE
+The biographer explains that he must work from fragments, and as a
+result, must draw from speculation. 
 
-*** So & Roland: using machine to ignite human thinking
+Throughout the story, the question of gender is closely coordinated
+with the imagination. One scene from the first chapter, when Orlando
+is still a young man, demonstrates the power of the imagination with
+regard to gender presentation. In this scene, Orlando first sees
+Sasha, a Russian Princess, skating on the frozen-over river
+Thames. From her androgynous appearence, skilled atheleticism, and
+exotic manner of dress, he cannot tell if Sasha is a man or a woman: 
+#+BEGIN_QUOTE
+He beheld, coming from the pavilion of the Muscovite Embassy, a
+figure, which, whether boy's or woman's, for the loose tunic and
+trousers of the Russian fashion served to disguise the sex, filled him
+with the highest curiosity. The person, whatever the name or sex, was
+about middle height, very slenderly fashioned, and dressed entirely in
+oyster-coloured velvet, trimmed with some unfamiliar greenish-coloured
+fur. But these details were obscured by the extraordinary
+seductiveness which issued from the whole person. Images, metaphors of
+the most extreme and extravagant twined and twisted in his mind. He
+called her a melon, a pineapple, an olive tree, an emerald, and a fox
+in the snow all in the space of three seconds; he did not know whether
+he had heard her, tasted her, seen her, or all three together. (For
+though we must pause not a moment in the narrative we may here hastily
+note that all his images at this time were simple in the extreme to
+match his senses and were mostly taken from things he had liked the
+taste of as a boy. But if his senses were simple they were at the same
+time extremely strong. To pause therefore and seek the reasons of
+things is out of the question.)... A melon, an emerald, a fox in the
+snow--so he raved, so he stared. When the boy, for alas, a boy it must
+be--no woman could skate with such speed and vigour--swept almost on
+tiptoe past him, Orlando was ready to tear his hair with vexation that
+the person was of his own sex, and thus all embraces were out of the
+question. But the skater came closer. Legs, hands, carriage, were a
+boy's, but no boy ever had a mouth like that; no boy had those
+breasts; no boy had eyes which looked as if they had been fished from
+the bottom of the sea. Finally, coming to a stop and sweeping a
+curtsey with the utmost grace to the King, who was shuffling past on
+the arm of some Lord-in-waiting, the unknown skater came to a
+standstill. She was not a handsbreadth off. She was a woman. 27-28
+#+END_QUOTE
+Orlando's difficulty of discovering Sasha's gender blends into his
+difficulty with language: "a figure, which, whether boy's or
+woman's... served to disguise the sex"; "He called her a melon, a
+pineapple, an olive tree, an emerald". As the person's probable gender
+oscillates throughout passage, Orlando's desire crescendos: "Orlando
+was ready to tear his hair with vexation that the person was of his
+own sex". 
 
-One example of distant reading explores how computation might handle
-questions of racial identity and discourse in novels. Richard Jean So
-and Edwin Roland use machine learning to explore the constructedness
-of social categories like race by experimenting with an algorithm that
-evaluates authorship by race according to the vocabulary used by the
-author.  When they look more closely into these results, they find
-that the algorithm reveals different levels of variance in words
-traditionally attributed to white and black authors. While novels by
-white authors are distinguished by a low variance in this vocabulary,
-novels by black authors show a greater variance in vocabulary
-(66). They conclude that white authorship as a category only coheres
-when it evaluates against the incoherence of black authorship. Put
-simply, they find that whiteness as a category /depends/ on the
-characterization of blackness.[fn:11] They point out that, of course,
-this process is useful not for what we learn about race but for what
-we learn about the machine, particularly in the way that the results
-reveal errors that open up areas for further analysis. They isolate
-one text, James Baldwin's novel, /Giovanni's Room/ (1956), which was
-wrongly categorized as being written by a white author. So and Roland
-point out that this misclassification evokes a critical debate about
-this text's elision of explicit references to race and sexuality,
-whereby blackness is displaced in favor of an implicit whiteness that
-serve to "cipher[s] identity" (69). The algorithm revealed six words
-in /Giovanni's Room/ that influenced the categorization, one of them
-in particular signals white authorship, the term "appalled." This term
-only occurs once in the text, in the early scene where David (the
-narrator) describes his relationship to his father. Here, David
-regrets his friendliness which comes at the expense of his
-fatherliness: "I did not want to be his buddy. I wanted to be his
-son. What passed between us as masculine candor exhausted and appalled
-me" (Rpt. in So and Roland 71). So and Roland's analysis emphasize the
-connotations of whiteness in "appalled," which has the middle French
-root, "apalir," meaning "to grow pale" (71). They insightfully
-conclude that the word "appalled" in the text marks "the moment David
-develops a troubled relationship to normative masculinity [as] also
-the moment he becomes 'white'" (71). Their analysis thus contributes
-to the ongoing debate about the imbrication between race and sexuality
-in the novel.
+Similarly to the narrator, then, Orlando also undergoes a struggle
+with language's ability to convey objective truth. His struggle with
+describing Sasha also lends to his developing poetic sensibility,
+where Orlando takes particular issue with the potential for language
+to signify real-world referents. Thus he attempts to describe the
+color of the grass and the sky:
+#+BEGIN_QUOTE 
+'The sky is blue,' he said, 'the grass is green.' Looking up, he saw
+that, on the contrary, the sky is like the veils which a thousand
+Madonnas have let fall from their hair; and the grass fleets and
+darkens like a flight of girls fleeing the embraces of hairy satyrs
+from enchanted woods. 'Upon my word,' he said (for he had fallen into
+the bad habit of speaking aloud), 'I don't see that one's more true
+than another. Both are utterly false.' And he despaired of being able
+to solve the problem of what poetry is and what truth is and fell into
+a deep dejection. 75
+#+END_QUOTE
+Orlando cannot comprehend whether plain english (“the sky is blue; the
+grass is green”) is preferable to figurative language (“she sky is
+like the veils which a thousand Madonnas have let fall from their
+hair; the grass fleets and darkens like a flight of girls fleeing the
+embraces of hairy satyrs from enchanted woods”). For Orlando, both
+seem false. 
 
-In a sense, So and Roland are confronting the same problem as Da: what
-to do with a case of computational error [which comes with attendant
-assumptions about reproducibility...]. But rather than write off
-quantitative methods, So and Roland suggest an interesting way out of
-the problem: use the error as a starting point for further
-analysis. While "Race is a category that escapes measurement or simply
-renders it untenable," the machine is an apt tool for studying this
-category (60). They isolate the error as an opportunity to explore the
-differences in the ways humans and machines might approach racial
-identity. Because race is a social construct, and machines only impute
-meaning that is encoded into them, than it stands to reason that
-machines might be ideal instruments for studying the construction of
-race. Thus they turn the central mismatch between data analysis, which
-works to "identify and label objects," and minority discourse
-analysis, which "critique[s] and problematize[s] the very idea of
-categories," into a point for interrogation (63). In this case, the
-algorithm offers an opportunity for understanding how whiteness as a
-category depends on the contrast of blackness as "other." Quantifying
-race reinforces differences, reductions, stratification, as “Reading
-race distantly thus requires quantification of racial identity or
-racialized language” (60). Looking more closely at the specific
-results of this analysis, like the function of the term "appalled" in
-/Giovanni's Room/, they can make more daring leaps of speculation
-about how whiteness, while displacing blackness, also gestures toward
-a troubled understanding of gender and potentially, sexuality. So and
-Roland assert that: "If the general class of the misclassified points
-to the erosion of the machine's initial binary understanding of white
-and black, a close analysis of a single misclassified text can reveal
-what precisely motivates that ontological undoing" (68). Rather than
-being "fundamentally mismatched," the machine and minority discourse
-are particularly suited for one another, as the machine uses highly
-constructed and reductive method that allows practitioners to
-deconstruct social categories.
+As Orlando undergoes a sex change and falls in love, his issues with
+language begin to resolve. In a scene that evokes the prior one on the
+grass, Orlando is in Hyde Park, watching a toy boat negotiate a
+wavelet on the Serpentine river. Momentarily, the boat is dissapears
+then re-emerges on the other side of the wavelet. Orlando associates
+this moment with the word “ecstasy”, and hurries to telegram the
+phrase, ‘a toy boat on the serpentine’ and ‘ecstasy’, to her lover,
+who she knows will immediately understand what it means. As she
+hurries to the post office, she meditates on the nature of language
+and literature, which she now realizes is violently ecstatic.
+#+BEGIN_QUOTE
+'A toy boat, a toy boat, a toy boat,' she repeated, thus enforcing upon
+herself the fact that it is not articles by Nick Greene on John Donne nor
+eight-hour bills nor covenants nor factory acts that matter; it's
+something useless, sudden, violent; something that costs a life; red,
+blue, purple; a spirit; a splash; like those hyacinths (she was passing a
+fine bed of them); free from taint, dependence, soilure of humanity or
+care for one's kind; something rash, ridiculous, like my hyacinth,
+husband I mean, Bonthrop: that's what it is--a toy boat on the
+Serpentine, ecstasy--it's ecstasy that matters. 
+#+END_QUOTE
+Unlike the grass and sky from the previous scene, language now has the
+power to signify. "A toy boat" and "ecstasy" are reduced to the same
+meaning, a common denominator of feeling. This reduction elevates the
+potential for language to capture and convey meaning. The symmetry of
+these two episodes shows how Orlando moves beyond a disappointment in
+the limitations of language for expression to a new faith in its power
+to mean.
 
-The example with "appalled" is totally idiosyncratic--the word occurs
-once through the entire novel. But paying attention to error upends
-the value of reproducibility. Because race is a construct, we must use
-a "reflexive method that is able to identify its own elisions while
-also pointing to new insights and opportunities for research”
-(72). Roland and So's work combines a deconstructive with a
-speculative methodology. They run a computation, look for an error,
-and use that error as an opportunity to learn about the ways that
-categories are constructed. They assert their goals: “To illustrate
-the limits of standard computational methods for the analysis of race
-and to produce a series of results that nonetheless advance our
-understanding of the texts and authors under investigation… exposing
-the racial limitations of computation can reveal things otherwise
-occluded within literary history” (61). They are using computers in an
-unintuitive way, computing for indeterminacy. While this work is
-essential for bringing together quantitative and critical race
-discourses, it also doesn't give enough credit to the ways that
-/computers/, in presenting formalized schemas of race, transform data
-toward speculative ends. This is to suggest that perhaps a
-deconstructive and specualtive methodology is too ambivalent. What if
-we began with the notion of the appalled?  What if we looked further
-into the way that race is generated by vocabulary?  Not in order to
-further understand how race operates (computers will never be as
-subtle thinkers as we are), but to direct human subtlety more attently
-to computer output. What if, rather than using the machine to study
-human constructs, we used the machine to spur human thinking?
+As Orlando resolves her struggle with language, so does the
+biographer. Increasingly, the biographer drops this pretension toward
+accuracy and boldly speculates, without excuses, elements of the
+story. At one point, the biographer draws the reader into this
+speculation. At this moment, Orlando mets her lover, Shel, a ship
+captain who exhibits as many feminine qualities as Orlando does
+masculine. The biographer describes a scene of their early courtship:
+#+BEGIN_QUOTE
+'Shel, my darling,' she began again, 'tell me...' and so they talked
+two hours or more, perhaps about Cape Horn, perhaps not, and really it
+would profit little to write down what they said, for they knew each
+other so well that they could say anything, which is tantamount to
+saying nothing, or saying such stupid, prosy things as how to cook an
+omelette, or where to buy the best boots in London, things which have
+no lustre taken from their setting, yet are positively of amazing
+beauty within it. For it has come about, by the wise economy of
+nature, that our modern spirit can almost dispense with language; the
+commonest expressions do, since no expressions do; hence the most
+ordinary conversation is often the most poetic, and the most poetic is
+precisely that which cannot be written down. For which reasons we
+leave a great blank here, which must be taken to indicate that the
+space is filled to repletion.
+#+END_QUOTE
+The biographer here explains that this conversation would come across
+as extremely ordinary and boring to the reader, although it was
+actually beautiful and poetic when it took place. An ordinary
+conversation can be poetic at the moment of expression, delivered or
+said in a way that is beautiful, which may then lose in language. The
+reader then encounters a space break which the biographer instructs
+her to imagine is "filled to repletion." This space break reinvokes
+the episode with the manuscript, where the biographer points out that
+there are holes or gaps in the record. However, while it was
+previously a problem with evidence, now it is a problem with
+language. According to the biographer, the means to express this
+conversation doesn’t exist in language. As a result, the biographer
+invites the reader to fill in the space. To use speculation and
+guesses as to what happened. The reader must do what the biographer
+did when he confronted the lack of evidence, which was to guess what
+happens from the available evidence.
 
-*** WAITING synthesis of Mandell and SoRoland
-Both Mandell and SoRoland are using the machine to take apart these
-categories of race and gender.
-But let's look to the ways that the machine presents ever new
-configurations of race and gender. Let's look at the form as a /queer
-form/. 
+Comparing the biographer and Orlando's experiences with language
+surface an interesting insight: imagination works to both reduce and
+elevate language. In one case, the word "ecstasy" is endowned with
+powerful meaning, or the ability to mean. In the other, words in fact
+lose their ability to convey, so the language of absence take their
+place. But the critical move amounts to the same. Both assert the
+reader's role in constructing meaning. Words have the power to
+signify, but not in themselves, inert and sterile on the page. They
+require the imagination from the reader. 
 
-we are going to propose a method of text analysis that deconstructs a
-text for the purpose of producing new structures, new paratexts. 
-**** → What kind of knowledge are we trying to create? Aren't we now
-    operating as if it is possible to “distant read” in the first
-    place? That there are things which can be quantified, if only we
-    ask the right questions? When we look to the "occluded", are we
-    hunting or speculating?  The orientation we take toward our object
-    has an effect. Are we trying to recover or to speculate?
+In troubling the line between objective reality and subjective
+experience, Woolf’s parodic biography explores how language and gender
+are similarly (and coordinately) constructed. This development in
+language both within the story and on the level of narration is
+coordinated with Orlando's gender development. Orlando's struggle with
+the ability of words to mean and the biographer's struggle to tell a
+story of a life, begins to resolve after the gender change. The
+difficulty with language that Orlando and the biographer both
+experience becomes less and less of an issue as Orlando comes into her
+femininity, which is to say, becomes comfortable in herself. These
+changes are possible because the narrative embraces the influence of
+the imaginary in language, in minding meaning in words and in
+storytelling. This allows Orlando to accept the role of the
+imagination in gender, in making gender meaningful.
 
+I will use text analysis to further explore the relationship between
+these themes: language, gender, and the imagination. So the question
+then becomes: how are language and gender co-constructed in Orlando?
+What is the role of the imagination in gender/language? What is the
+relation between gender, language, and the imagination? 
 
-** textual scholarship and deformance
+** Deformance and Performance
 how dh methods descendant from textual scholarship offer a model of
 deformance that can incorporate key ideas from queer theory, like
 citationality/resignification, to do distant reading.
@@ -1002,7 +1056,7 @@ textual scholars, who decried the "the tyranny of the copy-text."
 While maintaining reliance on an early copy-text for accidentals
 elements like punctuation and spelling, the Greg-Bowers-Tanselle
 method of textual criticsm empowers editors to judge between numerous
-witnesses the text's more substantive elements[fn:12]. The resulting
+witnesses the text's more substantive elements[fn:13]. The resulting
 critical edition is eclectic, drawing from multiple sources and
 depending heavily on the editor's judgment to determine authorial
 intention. Fredson Bowers and Thomas Tanselle advanced Walter
@@ -1223,9 +1277,7 @@ might use digital tools as “prosthetic extension of that demand for
 critical reflection,” with which the reader is able to feel her way
 through the text (18).
 
-
-** queer performance & citationality  
-*** overview
+*** Butler overview
 Distant reading can evolve by borrowing from key findings from queer
 theory that allow it to embrace the performative/productive aspects of
 quantification. In particular, Butler's idea of gender performativity
@@ -1426,27 +1478,23 @@ another in which we begin, without ending, without mastering, to
 own—-and yet never fully to own—-the exclusions by which we proceed."
 (25).
 
-
-** TODO Queer Distant Reading
-*** reading methods, revisited
+** WAITING Queer Distant Reading
+*** overcoming the reproducible with performativity
 In the section on reproducibility, I discuss how Underwood's analysis
 on gender differences reproduces his assumptions about gender dynamics
 as oppositional, as he readily admits: "this chapter has discovered
 stable 'structural positions' only because it explores gender, for the
 most part, as a binary opposition" (/Distant Horizons/ 140). The the
 binary structure reproduces itself from the initial assumptions to the
-resutl. Like the fantasy of the falsifiable, the romance of
+result. Like the fantasy of the falsifiable, the romance of
 reproducibility arises from a desire to find coherence across literary
 history, and thus aims for a method that can do so by abstracting text
 as data to surface connections between them. Because reproducibility
 aims for what Underwood describes as a "simple picture," it collapses
 or flattens the complexity of data into workable units ("Machine
-Learning" 98). What are the major trends of literary style across
-time? How can our analytical models take in even more data, and
-multiple perspectives, and process it into a legible visualizations?
-Such questions tend to reproduce their own assumptions in the
-output. The issue then becomes, how can we might move beyond
-reproducing assumptions in our analysis
+Learning" 98). He reproduces his own assumption in the output. The
+issue then becomes, how can we might move beyond reproducing
+assumptions in our analysis?
 
 One answer is to shift the objective of analysis from the the
 reproducible to the speculative. My intervention lies in teasing out
@@ -1503,17 +1551,80 @@ that they purport to represent some real quality or object in the
 world. Rather, the productive aspect has to do with how they iterate
 their material over and again in ways that are fundamentally creative.
 
-*** Performance (performative citation) as a way of enacting
+*** TODO Man and Woman in Orlando
+
+(Make a model of the words associated with man and woman, then find a
+way to analyze these associated words further. We are "resignifying"
+the terms man and woman to mean differently, according to the existing
+structures of the text.)
+(We look to the ways queerness is being resignified in the text, and
+we find these ways by exposing the patterns of signification; we use a
+process that is iterative, computational text analysis, to yield novel
+results; we embrace the status of queerness (and all sexuality) as
+iteratively produced in language, even before there is a subject)
+
+Turning back to Woolf's /Orlando/, we ask how the genders "woman" and
+"man" are constructed? In looking at these gender categories, we will
+explore how they are related to one another.
+
+*** TODO Performance (performative citation) as a way of enacting
     Deformance (transformation).
 
-      Each time we process a text in computation, we are submitting it to
-      the governing code, a code that flattens the object, abstracting it,
-      only computing part of it. 
+We begin by exploring the similarities of the words "man" and woman"
+in the python programming language. Using the Natural Language Toolkit
+(NLTK), a text processing library in python, we begin by running the
+method "similar" on "man" and "woman."[fn:14] This method takes a word, such
+as "man," and returns the top 20 words that most appear associated
+with that word in the text. The similarity is computed by processing
+the words that directly surround the given word, which is known as its
+"context." From this context, similarity then counts which of these
+words are most frequent. It then returns the 20 most frequent terms. 
+
+Below is an image of the similarity of the following words, "woman" and
+"man": 
+
+#+BEGIN_QUOTE
+> orl.similar("woman")
+man moment night boy word world child pen ship door one room window
+light little lady table book queen king
+
+>orl.similar("man")
+woman word lady moment night boy poet little sight time one house
+window life table thought tree queen world truth
+#+END_QUOTE
+
+Interestingly, the most frequent word associated with each term is the
+other gender: "man" is most associated with "woman," and "woman" is
+most associated with "man." 
+
+We see how man and woman are also closely associated by the shared
+terms in the list, which include: "moment," "night," "word," "lady,"
+"boy," "little," "world," "window," "table," "queen," "one"--11 of the
+remaining 19 words. Words that remain unique to woman include: "child
+pen ship door room light book king"; and words that remain unique to
+"man" include: "poet sight time house life thought tree truth."
+
+These words will be our starting place for differentiating between man
+and woman in the text. 
+
+Let's put these distinct words into a new list, one for "woman," and
+one for "man."
+
+
+
+how to write a script that filters out words associated with man from
+words associated with woman?
+
+
+
+Each time we process a text in computation, we are submitting it to
+the governing code, a code that flattens the object, abstracting it,
+only computing part of it.
 
 	  See code from NLTK or Voyant, generate()?
-	  http://www.nltk.org/_modules/nltk/text.html#Text.similar
+	  
 
-*** But at the same time, we can iterate over that code, to produce
+*** TODO But at the same time, we can iterate over that code, to produce
     slightly different results. We are re-running the code. 
 
     Code as "protocol" - working through established networks 
@@ -1533,14 +1644,14 @@ their material over and again in ways that are fundamentally creative.
     and, in that failure, open possibilities for resignifying the terms of
     violation against their violating aims" (83).
 
-*** We are taking what has been reduced, reworking it into new
+*** TODO We are taking what has been reduced, reworking it into new
     configurations. These configurations present transformed
     understandings of our data, elements of the text.
 
     What do we find in Orlando? That man and woman are actually very
     similar? Yes and no.
 
-*** Performatiave citation as queering distant reading: Deception
+*** TODO Performatiave citation as queering distant reading: Deception
     through resemblance; insubordination through subservience;
     displacement through repetition--these are the tools available to
     the subject that remains outside the logic of phallogocentrism.
@@ -1551,7 +1662,7 @@ their material over and again in ways that are fundamentally creative.
     for that which is hidden, surpressed, which determines that which
     is visible.
 
-*** The process reveals the hidden "enabling structures" of our
+*** TODO The process reveals the hidden "enabling structures" of our
     analysis: our analytical method, and the structures by which we
     understand queerness (categories).
 
@@ -1562,7 +1673,7 @@ their material over and again in ways that are fundamentally creative.
 
 *** Klein's Image of Absence, Caughie's Storm Cloud
 *** gio on voyant / nltk
-I'm playing around with voyant tools on Giovanni's Room, and realizing
+    I'm playing around with voyant tools on Giovanni's Room, and realizing
 that my movements are carefully guided by this impression from textual
 scholarship of deformance. At every step I am deforming the text,
 creating a new text, with new potentials for reading. 
@@ -1583,14 +1694,13 @@ its surroundings.
 
 What if we read only the sentences with the word "don't" in them?
 
-*** orlando on voyant / nltk
-We find that running similar("man") and similar("woman") yield
-overlapping results. Is there a way to explore how gender is
-differentiated in this novel?
-
-
 *** so this has been done before
 https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/bd5a43c1-bbfe-4c5c-8c0d-c3db1776eb99
+
+
+* more sources
+https://jitp.commons.gc.cuny.edu/numbering-ulysses-digital-humanities-reductivism-and-undergraduate-research/#ftn1
+https://jitp.commons.gc.cuny.edu/data-fail-teaching-data-literacy-with-african-diaspora-digital-humanities/
 * Move to other chapters
 *** Altschuler and Weimar on reproducibility
 
@@ -1653,9 +1763,120 @@ total knowledge and understanding.
 shows how an encoding method that is highly structured can be used to
 mark or explore moments of textual instability or ambiguity.
 
+*** felski on affects beside suspicion
+
+
+
+Postcritical Reading…  “in this sense, is not just a cognitive
+activity but an embodied mode of attentiveness that involves us in
+acts of sensing, perceiving, feeling, registering, and engaging”
+(Felski 176). 
+
+Felski: At stake is our receptivity: “to allow ourselves to be marked,
+struck, impressed by what we read” (Felski 12). 
+
+"the reader-text connection becomes part of a network rather than a
+self-enclosed dyad— yet a connection that remains vital to literary
+studies, especially in the classroom. Reading, in this light, is a
+matter of attaching, collating, negotiating, assembling—of forging
+links between things that were previously unconnected. It is not a
+question of plumbing depths or tracing surfaces… Interpretation
+becomes a coproduction between actors that brings new things to light
+rather than an endless rumination on a text’s hidden meanings or
+representational failures” (Felski 174)
+
+Surface reading challenges that search for absence by compelling a
+reader to stay with what the text says and how it says it rather than
+moving ahead to probe how it reflects and refracts larger cultural
+patterns. This critique reifies aesthetic objects and suggests that
+literary critics should embrace the literary.
+
+*** mcpherson, benjamin on race and tech
+Major developments in technology also perpetuate racial
+assumptions. Moving from networking technologies to software
+development, Tara McPherson explores the parallels between the
+Operating Systems and race relations, to show how the development of
+computer software betrays hegemonic assumptions about whiteness and
+elisions of difference.[fn:15] She focuses on the key moment of 1960s
+United States, when Operating Systems, which is the foundational
+software that supports a computer's programs and basic functioning,
+developed alongside civil rights discourses. Her research focuses on
+how "the organization of information and capital" in OS development
+resonates in the struggles for racial justice: "Many of these shifts
+were enacted in the name of liberalism, aimed at distancing the overt
+racism of the past even as they contained and cordoned off progressive
+radicalism" (30). McPherson deconstructs the UNIX operating system
+which includes a hierarchical file system, a command line interpreter
+(the Terminal on Mac or Command Prompt on Windows), and a variety of
+software programs that are designed to work in tandem. McPherson
+points out that UNIX-based Operating Systems (like Mac and Linux) are
+distinguished by the ways that they partition and simplify complex
+processes into discrete components, similar to the ways that identity
+politics cordones off parts of the (social and technological) system
+into distinct units. While this cordoning was productive for the
+promotion of civil rights, it also, according to McPherson, "curtailed
+and short-circuited more radical forms of political praxis, reducing
+struggle to fairly discrete parameters" (30).
+
+Crystallizing the intersection between Operating Systems and race
+relations, McPherson asserts that "Certain modes of racial visibility
+and knowing coincide or dovetail with specific ways of organizing
+data" (24). McPherson emphasizes the "rules" of UNIX philosophy, which
+lay out how UNIX's development prioritized the organization and
+simplification of data processing:
+#+BEGIN_QUOTE
+Rule of Simplicity: Design for simplicity; add complexity only where
+you must. Rule of Parsimony: Write a big program only when it is clear
+by demonstration that nothing else will do. Rule of Transparency:
+Design for visibility to make inspection and debugging easier... Rule
+of Representation: Fold knowledge into data so program logic can be
+stupid and robust. 26
+#+END_QUOTE
+The rules of "Simplicity" and "Parsimony" ensure that programs will be
+composed of small, interlocking parts that can be easily updated and
+transported to newer versions. The rule of "Transparency" flattens
+nuance and ambiguity, making program components as legible as
+possible. The rule of "Representation," particularly the suggestion to
+"Fold knowledge into data" reduces the complexity of raw data, so that
+it can be easily input into multiple processes. According to
+McPherson, all of these rules work together to shore up the central
+design theory of "modularity,"[fn:16] which stipulates that components
+are self-contained and interoperable, so they can be independently
+created, modified, and replaced without affecting the whole system.
+
+The role of control in creating the internet and the emphasis on data
+reduction in developing operating stystems leave their legacies on
+21st century digital technology, where race becomes collapsed into
+data. Echoing McPherson, Ruha Benjamin asserts that technology
+reproduces social inequities under the guise of objectivity and
+progressivism.[fn:17] Turning to technology, Benjamin explores how
+innovations in Artificial Intelligence and algorithmic computing
+extend racist paradigms into ever new tools, particularly in data
+gathering and surveillance. The creators of these new technologies
+mark, track, and quantify blackness, for example, in databases for
+healthcare or financial services that associate "black names" with
+criminality (Benjamin 5). With each update, technology is continually
+promoted as efficient and progressive in a way that masks how it
+exploits data about its subjects. Benjamin explains, "we are told that
+how tech sees “difference” is a more objective reflection of reality
+than if a mere human produced the same results... bias enters through
+the backdoor of design optimization in which the humans who create the
+algorithms are hidden from view" (5-6). As she points out, "the road
+to inequity is paved with technical fixes” (7). Like the creators of
+UNIX, the creators of such tools and algorithms operate under
+assumptions of white universality that inevitably marks blackness as
+"other."
+
+*** sedgwick on liberatory vs prohibition
+Sedgwick searches for "some ways of understanding human desire that might
+be quite to the side of prohibition and repression, that might hence
+be structured quite differently from the heroic, 'liberatory,'
+inescapably dualistic righteousness of hunting down and attacking
+prohibition/repression in all its chameleonic guises" (10).
+
 * commands
 c-c c-x f => create a new footnote
-c-u c-c c-x f then select s => renumber footnotes
+c-u c-c c-x f then select sort then renumber footnotes
 
 block quotes: #+BEGIN_QUOTE & #+END_QUOTE
 
@@ -1878,42 +2099,17 @@ certain elements of the text? It turns out that the limitations of the
 computer are actually a good indicator of things that maybe should be
 left unresolved or unfixed---like gender ontology.
 
-
 * Footnotes
 
-[fn:13] Eve Kofosky Sedgwick, "Paranoid Reading"; Felski, /Limits of
+[fn:1] Eve Kofosky Sedgwick, "Paranoid Reading"; Felski, /Limits of
 Critique/, Best, Stephen and Sharon Marcus. "Surface Reading: An
 Introduction." Representations 108 (2009): 1-21.
 
-[fn:12] Greg, Walter W. "The Rationale of Copy-Text," /Studies in
-Bibliography/, Vol. 3, 1950/1951, pp. 19-36; Bowers, Fredson. /Textual
-and Literary Criticism/, 1959; Tanselle, Thomas. /A Rationale of
-Textual Criticism/, 1992.
+[fn:2] Underwood, Ted. /Distant Horizons/, 2019.; Underwood,
+Ted. “Machine Learning and Human Perspective.” PMLA, Vol. 35 No. 1,
+January 2020, pp. 92-109.
 
-[fn:11] Tie this relationship on the white/black binary to Eve
-Sedgwick's points about binaries containing an oppostional dynamic in
-which the subordinated term props up the dominant term.
-
-[fn:10] Mandell, Laura. “Gender and Cultural Analytics: Finding or
-Making Stereotypes?” Debates in Digital Humanities 2019. Edited by
-Matthew K. Gold and Lauren Klein. University of Minnesota Press, 2019.
-
-[fn:1] Tara McPherson’s “U.S. Operating Systems at Mid-Century: The
-Intertwining of Race and UNIX," Race After The Internet, ed. Lisa
-Nakamura and Peter A. Chow-White. Routledge, 2012.
-
-[fn:2] Potentially revise and deepen this section by linking to Barad
-& Haraway on situated knowledges and feminist science: Being modular
-in itself isn't bad, as long as you are aware of the ways that
-modularity creates limitations/reductions of data. Modularity needs a
-critical awareness of its own tools.
-
-[fn:3] Her work also extends Michelle Alexander's ideas from /The New
-Jim Crow/ (2010), which argues that modern society perpetuates racist
-violence and segregation by criminalizing race through the war on
-drugs and mass incarceration.
-
-[fn:4] Andrew Piper's methodology, which he calls "bifocal" reading,
+[fn:3] Andrew Piper's methodology, which he calls "bifocal" reading,
 demonstrates how distant and close reading are used together, with
 distant reading providing the context or framework that guides close
 reading"“We are no longer using our own judgments as benchmarks... but
@@ -1922,22 +2118,18 @@ significant (and the means through which significance is
 assessed).... It interweaves subjectivity with objects” (Piper,
 Andrew. Enumerations: Data and Literary Study, 2018, 17).
 
-[fn:5] Underwood, Ted. /Distant Horizons/, 2019.; Underwood,
-Ted. “Machine Learning and Human Perspective.” PMLA, Vol. 35 No. 1,
-January 2020, pp. 92-109.
+[fn:4] Moretti, Franco. "The Soul and the Harpy." /Signs Taken For
+Wonders: On the Sociology of Literary Forms/, trad. David Forgacs, New
+York, Verso, 1983, pp. 1-41
 
-[fn:6] He measures the "gendering of words used in characterization"
-("Machine Learning and Human Perspective" 95), that is, gender
-portrayed in novels by women and in novels by men. The verticle axis
-visualizes the representation of words by women, and the horizontal by
-men, with positive numbers signifying overrepresentation of these
-terms. So terms on the top right are words that are used often by men
-and women writers, and terms in the upper left and lower right are
-ones used most often by women and men, respectively.
+[fn:5] In fact, if the Topic Modelling is working correctly, it
+should not be reproducible. For a more thorough critique of Da's aims
+and methodology in this article, please see Ben Schmidt's "A
+computational critique of a computational critique of computational
+critique," /Ben Schmidt/, Dec
+5, 2019. https://benschmidt.org/post/critical_inquiry/2019-03-18-nan-da-critical-inquiry/
 
-[fn:7] Add a quote here from Laura Mandell on F/M categories?
-
-[fn:8] Da's emphasis on the “reproducible” in CLS extends Franco
+[fn:6] Da's emphasis on the “reproducible” in CLS extends Franco
 Moretti's originating call for a “falsifiable criticism”: both
 advocate for a methodology that is as reliable and verifiable as the
 social sciences. According to Moretti: “Testing” literary
@@ -1950,9 +2142,54 @@ it with the much more prosaic, ‘the following interpretation is
 impossible for such and such a reason,’ it will have taken a huge step
 forward on the road of methodological solidity” (/Signs/ 22).)
 
-[fn:9] Drucker implicitly refers to the first chapter from Franco
+[fn:7] Drucker implicitly refers to the first chapter from Franco
 Moretti's /Graphs, Maps, Trees/ (2007), throughout which Moretti
 graphs novels by their publication date between 1700 and 2000 and
 draws conclusions about the relationship between genre and generations
 of readers.
+
+[fn:8] Tie this relationship on the white/black binary to Eve
+Sedgwick's points about binaries containing an oppostional dynamic in
+which the subordinated term props up the dominant term.
+
+[fn:9] Sinykin, Dan. "Distant Reading and Literary Knowledge."
+/Post45/. May
+6, 2019. https://post45.org/2019/05/distant-reading-and-literary-knowledge/
+
+[fn:10] He measures the "gendering of words used in characterization"
+("Machine Learning and Human Perspective" 95), that is, gender
+portrayed in novels by women and in novels by men. The verticle axis
+visualizes the representation of words by women, and the horizontal by
+men, with positive numbers signifying overrepresentation of these
+terms. So terms on the top right are words that are used often by men
+and women writers, and terms in the upper left and lower right are
+ones used most often by women and men, respectively.
+
+[fn:11] Add a quote here from Laura Mandell on F/M categories?
+
+[fn:12] Mandell, Laura. “Gender and Cultural Analytics: Finding or
+Making Stereotypes?” Debates in Digital Humanities 2019. Edited by
+Matthew K. Gold and Lauren Klein. University of Minnesota Press, 2019.
+
+[fn:13] Greg, Walter W. "The Rationale of Copy-Text," /Studies in
+Bibliography/, Vol. 3, 1950/1951, pp. 19-36; Bowers, Fredson. /Textual
+and Literary Criticism/, 1959; Tanselle, Thomas. /A Rationale of
+Textual Criticism/, 1992.
+
+[fn:14] http://www.nltk.org/_modules/nltk/text.html#Text.similar
+
+[fn:15] Tara McPherson’s “U.S. Operating Systems at Mid-Century: The
+Intertwining of Race and UNIX," Race After The Internet, ed. Lisa
+Nakamura and Peter A. Chow-White. Routledge, 2012.
+
+[fn:16] Potentially revise and deepen this section by linking to Barad
+& Haraway on situated knowledges and feminist science: Being modular
+in itself isn't bad, as long as you are aware of the ways that
+modularity creates limitations/reductions of data. Modularity needs a
+critical awareness of its own tools.
+
+[fn:17] Her work also extends Michelle Alexander's ideas from /The New
+Jim Crow/ (2010), which argues that modern society perpetuates racist
+violence and segregation by criminalizing race through the war on
+drugs and mass incarceration.
 
