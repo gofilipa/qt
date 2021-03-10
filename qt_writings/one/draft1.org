@@ -55,7 +55,7 @@ Underwood & Da
 - Address how Da's misunderstanding of Topic Modelling has been
   answered by Ben Schmidt in Critical Inquiry---not that this matters,
   because it nonetheless reveals a perspective on critical methods
-  which values the reproducible. 
+  which values the reproducible
 - Explain better reproducibility. 
  
 
@@ -731,7 +731,7 @@ aesthetics in critique. How can the reconfiguration--the
 abstraction--provided by the machine allow us to engage with queerness
 in texts?
 
-*** WAITING orlando close reading
+*** orlando close reading
 
 Virginia Woolf's /Orlando: A Biography/ is a fictional biography that
 follows the life of a 16th-century English nobleman, Orlando, as he
@@ -978,37 +978,39 @@ then becomes: how are language and gender co-constructed in Orlando?
 What is the role of the imagination in gender/language? What is the
 relation between gender, language, and the imagination? 
 
+
 ** Deformance and Performance
 how dh methods descendant from textual scholarship offer a model of
 deformance that can incorporate key ideas from queer theory, like
 citationality/resignification, to do distant reading.
-*** distant reading not to achieve scale, but for reconfiguration 
-According to Underwood, distant reading is less useful for studying a
-single text in depth and more useful for taking a long view of larger
-corpora. He sets up an opposition between computer and human reading:
+
+*** harnessing human attention  
+Underwood's focus on the "distant horizon" of literary history blocks
+out the ways that quantitative literary analysis, or distant reading,
+works in coordination with existing human capacities. According to
+Underwood, distant reading is less useful for studying a single text
+in depth and more useful for taking a long view of larger corpora. He
+sets up an opposition between computer and human reading:
 "Computational analysis of a text is more flexible than it used to be,
 but it is still quite crude compared to human reading; it helps mainly
 with questions where evidence is simply too big to fit in a single
 reader's memory" (xxi). He is right to point out that a computer
-cannot (yet) draw inferences like a human can, and that a human cannot
-"read" at the same speed as a computer. Yet, his emphasis on the
-limitations of human memory suggests another way that that computers
-can guide and enhance the human reading of smaller texts. What the
-computer properly does is arrange a set of data--of any size--for
-human consumption. This involves processing datasets into new forms
-and configurations that can then be scrutinzed by a human
-reader. Although Underwood uses distant reading to "to find a
+cannot (yet) process nuance like a human can, and that a human cannot
+recognize letters and words at the same speed as a computer. Yet, his
+emphasis on the limitations of human memory suggests another way that
+that computers can guide and enhance the human reading of smaller
+texts. What the computer properly does is arrange a set of data--of
+any size--for human consumption. This involves processing datasets
+into new forms and configurations that can then be scrutinzed by a
+human reader. Although Underwood uses distant reading to "to find a
 perspective that makes... scholars all congruent with each other,"
 quantitative methods can supplement human memory by approaching
 memory, specifically working memory, as a resource, rather than a
 hindrance (/Distant Horizons/ 32). The computer can re-arrange text in
 a way that focuses the attention span of the reader on elements
-previously unseen or overlooked. Underwood's focus on
-falsifiability--the idea that distant reading can process more
-evidence to give a more "complete" picture--blocks out the ways that
-the ways that quantitative literary analysis, or distant reading,
-works in coordination with existing human capacities.
-*** Textual scholarship offers a new way of looking at text
+previously unseen or overlooked.
+
+*** textual scholarship perspective
 Now we shift our attention to a body of literary criticism that offers
 another perspective for handling textual data. The field of textual
 scholarship, and particularly the editorial practice of deformance,
@@ -1024,7 +1026,7 @@ queer theory about how to work within (and resist) the constraints of
 language as a significatory system. This is about working within a
 system to transcend the determining structure of that system.
 
-*** overview of textual scholarship 
+*** TODO textual scholarship: from restorative to distorting 
 To proceed, I will present a historical trajectory of editorial
 practices that tells a story of textual scholarship. Textual
 scholarship is the study, annotation, and editing of textual
@@ -1090,6 +1092,8 @@ closest to the author’s intention is one scrupulously edited by a
 textual scholar. Put another way, every author requires a thorough and
 knowledgeable editor in order to most closely realize his intentions
 on the page.
+
+--> ADD CONNECTION TO PARANOID READING
 
 Toward the end of the 20th century, textual critics like Jerome McGann
 and Donald F. McKenzie take another perspective on the effect of
@@ -1168,7 +1172,7 @@ and meaning. McGann and Samuels offer the example of reading a poem
 backward, where “the critical and interpretive question is not 'What
 does the poem mean?' but 'How do we release or expose this poem’s
 possibilities for meaning?'" (2001, 108).
-*** performative analysis with focus on apparatus
+*** the tool creates cuts in data
 
 I now turn to the work of Katherine Bode and Tanya Clement, both of
 whom have deep investments with traditions of textual scholarship,
@@ -1233,7 +1237,7 @@ Bode applies the figure of the apparatus to literary databases (Bode
 being reproduced, she urges literary researchers to look at how human
 engagement has entangled with and created the object of analysis.
  
-*** play leads to discovery 
+*** TODO abstraction and human attention
 
 Tanya Clement's work with sound incorporates praxis, visualization,
 embodiment, and play toward a theory of performantive criticism. She
@@ -1277,7 +1281,7 @@ might use digital tools as “prosthetic extension of that demand for
 critical reflection,” with which the reader is able to feel her way
 through the text (18).
 
-*** Butler overview
+*** queer performance & citationality 
 Distant reading can evolve by borrowing from key findings from queer
 theory that allow it to embrace the performative/productive aspects of
 quantification. In particular, Butler's idea of gender performativity
@@ -1291,8 +1295,6 @@ allows subjects to work within their limitations to resist dominant
 structures while maintaining their own sense of exclusion without
 being coopted. In other words, they can be in the system but not of
 the system.
-
-*** Butler's performative citation, subvert from within 
 
 In her groundbreaking book, /Gender Trouble: Feminism and the
 Subversion of Identity/ (1990), Judith Butler famously disrupts
@@ -1383,6 +1385,7 @@ something that can be productive, that can resignify meaning, as the
 option available to those who are trapped within the signification
 system.
 
+*** example of performative citation with Irigaray
 An exploration of Luce Irigaray writing style demonstrates how this
 process of resignification can take place in language. According to
 Butler, Irigaray's main task is to explore what has been excluded by
@@ -1449,6 +1452,7 @@ Deception through resemblance; insubordination through subservience;
 displacement through repetition--these are the tools available to the
 subject that remains outside the logic of phallogocentrism.
 
+*** TODO preserving the unintelligible
 For Butler and Irigaray, however, "radical and inclusive
 representability is not precisely the goal" (25). Remaining /outside/
 the logic of phallogocentrism is necessary for preserving the content
@@ -1468,58 +1472,23 @@ all signs of difference" (25). Rather than aim for inclusion, one
 ought to position the "necessary outside" as a target that is beyond
 reach, as a fount for future subversions. This positioning allows us
 to harness opacity and unintelligibility as a resource for resisting
-the violence of this exclusion, using unrepresentability as a tool for
-disruption. Only this language of performative citation can illuminate
-the structure of the signifying power without also giving that power
-the tool to fight that which is questioning its authority. Butler
-explains that, "If there is a violence necessary to the language of
-politics, then the risk of that violation might well be followed by
-another in which we begin, without ending, without mastering, to
-own—-and yet never fully to own—-the exclusions by which we proceed."
-(25).
+the "violence of this exclusion," using unrepresentability as a tool
+for disruption. Only this language of performative citation can
+illuminate the structure of the signifying power without also giving
+that power the tool to fight that which is questioning its
+authority. Butler explains that, "If there is a violence necessary to
+the language of politics, then the risk of that violation might well
+be followed by another in which we begin, without ending, without
+mastering, to own—-and yet never fully to own—-the exclusions by which
+we proceed."  (25).
 
-** WAITING Queer Distant Reading
-*** overcoming the reproducible with performativity
-In the section on reproducibility, I discuss how Underwood's analysis
-on gender differences reproduces his assumptions about gender dynamics
-as oppositional, as he readily admits: "this chapter has discovered
-stable 'structural positions' only because it explores gender, for the
-most part, as a binary opposition" (/Distant Horizons/ 140). The the
-binary structure reproduces itself from the initial assumptions to the
-result. Like the fantasy of the falsifiable, the romance of
-reproducibility arises from a desire to find coherence across literary
-history, and thus aims for a method that can do so by abstracting text
-as data to surface connections between them. Because reproducibility
-aims for what Underwood describes as a "simple picture," it collapses
-or flattens the complexity of data into workable units ("Machine
-Learning" 98). He reproduces his own assumption in the output. The
-issue then becomes, how can we might move beyond reproducing
-assumptions in our analysis?
 
-One answer is to shift the objective of analysis from the the
-reproducible to the speculative. My intervention lies in teasing out
-how existing paradigms for analyzing literary data and power
-structures might combine to create a new method for text analyis. This
-new method grapples with quantification that reduces or flattens data
-by harnessing this reduction toward speculative ends. First, the field
-of Textual Scholarship, which explores how electronic environments
-faciliate the continued study of literary materials, offers Deformance
-as an analytical method. This method attends to the ways that digital
-environments for editorial scholarship transform the object of study
-to surface new material for analysis. Second, the field of Queer
-Studies offers the theory of Performativity, which is not a critical
-method of analysis, but a paradigm for understanding how subjects
-navigate compulsory significatory systems. The theory of Performance
-posits that subjectivity emerges by subscribing to--or
-"citing"--regulatory norms of behavior, like gender roles, and also
-proposes that citational practices open the possibility for subversion
-to norms through resignification. Despite their differences, both
-deformance and performance rely on the ability for language to
-resignifiy meaning through deconstruction and iterability. Both pay
-attention to the productive qualities of language, which can be
-redeployed toward creativity, rather than perpetuate "representations"
-which obscure their significatory power by miming some prior citation.
+** Queer Distant Reading
+An iterative method of distant reading attends to gender as an
+iterative practice. We find ever expanding ways that gender is
+characterized in /Orlando/. 
 
+*** bode and butler parallel on language productivity
 The way that Bode describes her critical approach mirrors Butler's
 explanation of the performative. Bode is drawing a distinction between
 two approaches for literary criticism, two options for engaging with
@@ -1551,24 +1520,64 @@ that they purport to represent some real quality or object in the
 world. Rather, the productive aspect has to do with how they iterate
 their material over and again in ways that are fundamentally creative.
 
+*** reproducibility reduces data
+Reproducibility flattens data into reduced forms which perpetuate
+themselves. In the section on reproducibility, I discuss how
+Underwood's analysis on gender differences reproduces his assumptions
+about gender dynamics as oppositional, as he readily admits: "this
+chapter has discovered stable 'structural positions' only because it
+explores gender, for the most part, as a binary opposition" (/Distant
+Horizons/ 140). The the binary structure reproduces itself from the
+initial assumptions to the result. Like the fantasy of the
+falsifiable, the romance of reproducibility arises from a desire to
+find coherence across literary history, and thus aims for a method
+that can do so by abstracting text as data to surface connections
+between them. Because reproducibility aims for what Underwood
+describes as a "simple picture," it collapses or flattens the
+complexity of data into workable units ("Machine Learning" 98). He
+reproduces his own assumption in the output. The issue then becomes,
+how can we might move beyond reproducing assumptions in our analysis?
+
+*** shifting to the speculative
+One answer is to shift the objective of analysis from the the
+reproducible to the speculative. My intervention lies in teasing out
+how existing paradigms for analyzing literary data and power
+structures might combine to create a new method for text analyis. This
+new method grapples with quantification that reduces or flattens data
+by harnessing this reduction toward speculative ends. First, the field
+of Textual Scholarship, which explores how electronic environments
+faciliate the continued study of literary materials, offers Deformance
+as an analytical method. This method attends to the ways that digital
+environments for editorial scholarship transform the object of study
+to surface new material for analysis. Second, the field of Queer
+Studies offers the theory of Performativity, which is not a critical
+method of analysis, but a paradigm for understanding how subjects
+navigate compulsory significatory systems. The theory of Performance
+posits that subjectivity emerges by subscribing to--or
+"citing"--regulatory norms of behavior, like gender roles, and also
+proposes that citational practices open the possibility for subversion
+to norms through resignification. Despite their differences, both
+deformance and performance rely on the ability for language to
+resignifiy meaning through deconstruction and iterability. Both pay
+attention to the productive qualities of language, which can be
+redeployed toward creativity, rather than perpetuate "representations"
+which obscure their significatory power by miming some prior citation.
+
 *** TODO Man and Woman in Orlando
 
 (Make a model of the words associated with man and woman, then find a
 way to analyze these associated words further. We are "resignifying"
 the terms man and woman to mean differently, according to the existing
-structures of the text.)
-(We look to the ways queerness is being resignified in the text, and
-we find these ways by exposing the patterns of signification; we use a
-process that is iterative, computational text analysis, to yield novel
-results; we embrace the status of queerness (and all sexuality) as
-iteratively produced in language, even before there is a subject)
+structures of the text. We use a process that is iterative,
+computational text analysis, to yield novel results; we embrace the
+status of gender as iteratively produced in language, even before
+there is a subject)
 
 Turning back to Woolf's /Orlando/, we ask how the genders "woman" and
 "man" are constructed? In looking at these gender categories, we will
 explore how they are related to one another.
 
-*** TODO Performance (performative citation) as a way of enacting
-    Deformance (transformation).
+*** TODO modeling gender distinctiveness
 
 We begin by exploring the similarities of the words "man" and woman"
 in the python programming language. Using the Natural Language Toolkit
@@ -1609,23 +1618,14 @@ and woman in the text.
 
 Let's put these distinct words into a new list, one for "woman," and
 one for "man."
-
-
-
-how to write a script that filters out words associated with man from
-words associated with woman?
-
-
-
+	  
+*** TODO iterating over code resignifies it
 Each time we process a text in computation, we are submitting it to
 the governing code, a code that flattens the object, abstracting it,
-only computing part of it.
+only computing part of it. But if we run the computation over and over
+again, we are resignifying the terms. 
 
 	  See code from NLTK or Voyant, generate()?
-	  
-
-*** TODO But at the same time, we can iterate over that code, to produce
-    slightly different results. We are re-running the code. 
 
     Code as "protocol" - working through established networks 
     Code as "citationality" - repeating code to attain agency
@@ -1644,25 +1644,16 @@ only computing part of it.
     and, in that failure, open possibilities for resignifying the terms of
     violation against their violating aims" (83).
 
-*** TODO We are taking what has been reduced, reworking it into new
-    configurations. These configurations present transformed
-    understandings of our data, elements of the text.
+*** TODO Findings: new configurations of gender
 
-    What do we find in Orlando? That man and woman are actually very
-    similar? Yes and no.
+What do we find in Orlando? That man and woman are actually very
+similar? Yes and no.
 
-*** TODO Performatiave citation as queering distant reading: Deception
-    through resemblance; insubordination through subservience;
-    displacement through repetition--these are the tools available to
-    the subject that remains outside the logic of phallogocentrism.
+how does this finding change what we know about the text?
 
-    Reading for the enabling structures, and then playing with these
-    structures by repeating the same processes over them. Iteration,
-    interaction, creating new results are important. We are reading
-    for that which is hidden, surpressed, which determines that which
-    is visible.
+*** TODO the power of the imagination
 
-*** TODO The process reveals the hidden "enabling structures" of our
+    The process reveals the hidden "enabling structures" of our
     analysis: our analytical method, and the structures by which we
     understand queerness (categories).
 
@@ -1671,6 +1662,20 @@ only computing part of it.
     text can surface new textual structures that re-signify certain
     elements of that text.
 
+*** TODO Conclusion: performatiave citation queers distant reading: 
+    Deception through resemblance; insubordination through
+    subservience; displacement through repetition--these are the tools
+    available to the subject that remains outside the logic of
+    phallogocentrism.
+
+    Reading for the enabling structures, and then playing with these
+    structures by repeating the same processes over them. Iteration,
+    interaction, creating new results are important. We are reading
+    for that which is hidden, surpressed, which determines that which
+    is visible.
+
+
+** etc:
 *** Klein's Image of Absence, Caughie's Storm Cloud
 *** gio on voyant / nltk
     I'm playing around with voyant tools on Giovanni's Room, and realizing
@@ -1696,12 +1701,6 @@ What if we read only the sentences with the word "don't" in them?
 
 *** so this has been done before
 https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/bd5a43c1-bbfe-4c5c-8c0d-c3db1776eb99
-
-
-* more sources
-https://jitp.commons.gc.cuny.edu/numbering-ulysses-digital-humanities-reductivism-and-undergraduate-research/#ftn1
-https://jitp.commons.gc.cuny.edu/data-fail-teaching-data-literacy-with-african-diaspora-digital-humanities/
-* Move to other chapters
 *** Altschuler and Weimar on reproducibility
 
 --> reproducing something perfectly overlooks the ways that all
@@ -1874,6 +1873,10 @@ be structured quite differently from the heroic, 'liberatory,'
 inescapably dualistic righteousness of hunting down and attacking
 prohibition/repression in all its chameleonic guises" (10).
 
+
+* more sources
+https://jitp.commons.gc.cuny.edu/numbering-ulysses-digital-humanities-reductivism-and-undergraduate-research/#ftn1
+https://jitp.commons.gc.cuny.edu/data-fail-teaching-data-literacy-with-african-diaspora-digital-humanities/
 * commands
 c-c c-x f => create a new footnote
 c-u c-c c-x f then select sort then renumber footnotes

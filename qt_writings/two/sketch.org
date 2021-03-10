@@ -1,2 +1,370 @@
+* sketch two
+** chapter overview
+This chapter looks at TEI, the text editing standard. It explores
+encoding with TEI a chapter from Wilde's /Dorian Gray/. To explore
+markup schemas for indicating how the homosexual elements have been
+edited out.
+
+Questions:
+- What kind of analysis and investigation does the encoded document
+  make possible?
+    - to explore queer desire, sensuality. 
+- What kind of knowledge are we making from it?
+    - In keeping with the momentum from the last chapter, how do we
+      mark queerness in a way that opens up what we think of as queer?
+
+*** TODO encode the first chapter
+*** read up on queer encoding
+
+**** [[https://mf.dev.cdhsc.org/home][Dairies of Michael Field]]
+"In addition to their own aesthetic response to events both
+contemporaneous and historically-resonant, it offers powerful
+historical documentation of the construction of a queer identity
+through the formation of their aesthetic paganism, their conversion to
+Catholicism, and, finally, through the pathos of Cooper’s death. It
+also tells the narrative of their close, if often tempestuous,
+relationships with John Ruskin, Robert Browning, and Bernhard
+Berenson; and their chronicle of the cultural life of fin-de-siecle
+London and Europe, detailing encounters with the leading literary and
+artistic figures of the period, including Oscar Wilde, William Butler
+Yeats, Algernon Charles Swinburne, and Walter Pater" ("Home").
+
+**** Thain, Marion, "[[https://www.tandfonline.com/doi/abs/10.1080/13555502.2016.1156014][Perspective: Digitizing the Diary - Experiments in
+Queer Encoding]]," /Journal of Victorian Culture/, Volume 21, Issue 2, 1
+June 2016, Pages 226–241. 
+
+TEI can encode queer identity construction: 
+
+"One of the great benefits of using TEI is that it renders searchable
+words not in the text but intimately tied to it. This is not a small
+issue in a diary in which Katharine Bradley herself is referred to by
+more than 20 different names. Indeed, the proliferation and
+slipperiness of names is no mere childish caprice but a core part of
+the articulation of queer: an unhinging of ‘given’ or apparently
+predetermined identity through a strategy that articulates identity as
+constantly shifting, constructed, and performative. Text encoding can,
+in a simple but powerful way, help us explore and map this crucial
+strand of queer identity construction across the diary" (233).
+
+objectivity is actually the encoder's decision:
+
+"The seductive illusion of computation more generally might be the
+promise of objectivity, but what is delivered is objectivity not about
+the corpus but about the premises of the algorithm – or, in this case,
+the decisions made earlier by the team who chose what and how to
+encode" (237).
+
+on queer encoding as "deviant encoding": 
+
+"It must be stressed that the experiments outlined above aim to enable
+analysis not just of this one productive instance, but to use the
+potential of this diary to develop strategies for advanced encoding
+that are generalizable. This project aims to push forward our
+understanding and practice within the field as a whole, and to explore
+new possibilities through not only encoding queer identity
+construction, but offering what might itself be thought of as a
+practice of ‘queer encoding’. Inspired by Bradley and Cooper’s
+interpretative encoding of their lives within the identity of Michael
+Field, the strategies outlined here – which I am currently using as
+the basis for encoding experiments within the project – aim to some
+extent at a deviant encoding, one that starts to look beyond an
+objective rendering of formal features of the text to interpretative
+structures of narrative and identity construction. An unconventional
+rendering, perhaps – and a use of TEI that may certainly seem a little
+perverse to those for whom the value of mark-up depends on its
+objectivity – but one that I hope might help promote a
+self-reflexivity about interpretative practice in addition to making
+possible new types of analysis" (240-241).
+
+**** queer encoding lectures (flanders)
+https://sites.temple.edu/tudsc/2017/05/22/now-available-online-keynote-presentations-from-queer-encoding/
+**** Caughie & Meyer's "Storm Clouds on the Horizon"
+"Feminist digital humanities is no longer focused primarily on
+recovering and preserving works by women authors. Feminist scholars
+are currently engaged in changing information design and data
+visualizations... Can ontologies ever capture the complex,
+multi-layered, dynamic nature of gender identities?" (230).
+
+[[http://www.lilielbe.org/][Lili Elbe Digital Archive]]
+
+"Initially co-editors Pamela Caughie and Sabine Meyer conceived the
+project primarily as an act of recovery, preservation, and
+dissemination of this important work in “sexological modernism”4 and
+the history of transgender. The editors wanted to make this
+multi-version work, as well as archival materials providing insight
+into its composition and reception, available to scholars and the
+general public through digitally scanned and TEI-encoded
+texts. Additionally, a collation tool will enable users to see where
+and how the typescript and four primary editions in three languages
+vary in terms of narrative elements, pronoun choices, and paratextual
+materials.5 But the deeper we got into mark-up, the more evident it
+became that the categories and hierarchies available to us were
+inadequate for our task... to identify a male subject who at times
+presents himself as masquerading as a woman, at others as being
+inhabited by one, and who eventually becomes a woman, in a life
+history narrated retrospectively from the perspective of Lili
+Elbe... we needed a storm cloud to capture the unsettled and
+unsettling instances of gender in this work and the way the narrative
+envisions something new forming on the horizon of gender in the
+modernist era"  (231).
+
+"As Brown and Mandell put it, ontologies are representations, not
+essences, tropes not types, and as such do not escape cultural
+mediation; thus, they should be designed to bring such mediation to
+the fore. The challenge is finding ways to leave gender variance and
+gender non-conforming types ambiguous and dynamic but still findable"
+(232).
+
+"Thus, any model of gender as performative must take into account not
+just the social aspects of identity (identities are produced for and
+by others) but the temporal aspects as well (behaviors need to be
+reiterated over time to produce a gender identity). Thus, we need what
+we call a “trans ontology,” a model that captures the process of
+gender identity formation not a snapshot of the character formed."
+(234).
+
+"we need a trans ontology that is situational and relational, capable
+of apprehending shifting identities in space and time... The necessary
+separation of gender into individual data points might erroneously
+suggest a progressive and forward trajectory towards a fixed point, as
+in the notion of transsexualism as a transition from one gender to
+another.  Additionally, how do we take into account the identities or
+characteristics given to characters by others?" (235).
+
+"To begin to handle this level of complexity, we need a trans ontology
+that can render the oscillation between gender identities, and the way
+gender is determined by the person or persons being addressed at a
+particular time in a particular location in a particular language" (238).
+
+"But even if we could establish temporal, spatial, and relational
+models of marking gender, would we be describing one particular
+narrative rather than creating linked open data capable of revealing
+patterns across narratives? If gender ontologies cannot accurately
+depict the temporal and situational aspects of gender are they, we
+wonder, always subject to producing essentialist representations of
+gender?" (238).
+
+"Any proposed solution to the project of gender ontologies forces us
+to confront a conundrum.  On the one hand, gender ontologies, for all
+their hierarchical, Anglocentric, and metaphysical baggage, are
+crucial if we are going to map the formation and de-formation of
+gender across texts, times, and cultures. Ontologies could be helpful
+in showing where similar terms are being used in different ways,
+within a text and across texts, or how one person’s gender/sexuality
+is being defined in different ways within a text. On the other hand,
+there may not be a technological solution to the difficulties posed by
+gender ontologies.  Data will always be contextual, limited, and only
+proximate to any individual identity.  Returning to our earlier
+question, can identities ever be ontologized?, our answer is, only if
+we revise our concept of what the end result is: the linked data
+network visualization must capture a temporal process and not a
+snapshot of a static moment or even series of moment" (238).
+
+**** Elbe, Lili. Man into Woman: A Comparative Scholarly Edition, 
+edited by Pamela L. Caughie, and Sabine Meyer, Bloomsbury Publishing
+Plc, 2020. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=6026407.
+
+"it was the very nature of Lili Elbe’s narrative as a queer text that
+made the prospect of a comparative scholarly edition all the more
+compelling.  The idea that a literary object may have multiple and
+varying versions of a narrative that is and is not the same across
+editions is compatible with the notion of the narrative subject who is
+and is not the same across persons" (xvii).
+
+"One explanation for why Andreas may not have recognized himself in
+any of the sexological books he consulted, then, is that diverse
+meanings can attach to similar kinds of experiences. One person’s
+cross- dressing is another’s sexual inversion. Where one person sees a
+hermaphrodite, another sees a “real girl.” Another explanation is
+provided by Hirschfeld himself. His theory of sexual intermediaries
+undid the binary opposition of man and woman, positing an endless
+range of variants between these extremes. The pure man or pure woman
+are, he says, “only abstractions, invented extremes; in reality they
+have not as yet been observed.” 104 Sexual identifi cation becomes an
+ongoing task in which categorical distinctions are only provisional"
+(19).
+
+**** Crompton/Schwartz's Lesbian Historiography
+
+** to read eventually
 see Bode on Close & Distant reading, who talks about a new object for
 study, the scholarly edition. 
+
+From Flander's CV: https://juliaflanders.wordpress.com/about/cv/
+**** "Building Otherwise," /Bodies of Information/,
+https://dhdebates.gc.cuny.edu/read/untitled-4e08b137-aec5-49a4-83c0-38258425f145/section/f627035f-5fd0-4bd6-ad74-361374ed9a2a#ch16 
+
+"What this discussion suggests is that the project of remaking tools
+may depend for its success on the social processes employed, and
+further that the social significance of technical systems lies not
+only in their overt functioning (what they enable us to do) but also
+in the social effluent, so to speak, of their construction
+processes. When a system like Unix, or a language like COBOL, or a
+resource like the Women Writers Project is created, what does it “give
+off” in terms of expertise, power relations, installed systems and
+dependencies, professional advancement or subordination, knowledge and
+empowerment—and for whom? The successful processes portrayed at Design
+for Diversity were inclusive in very significant ways, but in
+particular their principle of diversity had to do with a genuine
+diversification of the allocation of power: the power to say what is
+most important about the design of a tool or system, the power to
+update a record, the power to define vocabularies, the power to say
+what should be visible or invisible, the power resulting from
+increased knowledge or expertise. Not only was the tribe of “coders”
+being diversified, but also that tribe’s understanding of mission—what
+is being built, for whom, why, under what design imperatives, with
+what specific stipulations—was being shaped by diversified
+constituencies, operating under radically different assumptions about
+whose needs matter" (par. 30)
+
+**** “Writing, Reception, Intertextuality: Networking Women’s Writing,”
+  co-authored with Sarah Connell. Journal of Medieval and Early Modern
+  Studies 50.1 (January 2020):
+  161–180. https://doi.org/10.1215/10829636-7986649.
+**** “From Modeling to Interpretation to Spielraum,” keynote lecture at
+  DHd conference, University of Paderborn, March 9, 2020. Online at
+  https://www.youtube.com/watch?v=H7ULStTL-bQ.
+**** “Art, Data, and Formalism,” (Digital) Humanities Revisited,
+  Herrenhausen Palace, Hanover,
+  December 2013.    http://www.volkswagenstiftung.de/veranstaltungen/veranstaltungskalender/veranstaltungsseite/digitalhumanities/digital-humanities-2013-selected-audio-recordings.html  
+**** "A Matter of Scale,” keynote lecture co-presented with Matthew
+  Jockers at “Boston-Area Days of DH 2013.” Northeastern University,
+  March 2013. Available
+  online. http://digitalcommons.unl.edu/englishfacpubs/106 
+**** “TEI and Scholarship,” keynote lecture at the annual conference of
+  the Text Encoding Initiative Consortium. Texas A&M University,
+  November 2012., https://juliaflanders.wordpress.com/2013/08/31/tei-and-scholarship-in-the-crlowud/  
+
+**** http://v-machine.org/ 
+
+** reading notes
+*** Thain on Friedman's /Before Queer Theory/
+https://lareviewofbooks.org/article/theorizing-queer-before-queer-theory/ 
+
+"It was through sexology’s taxonomization of queer desire that it
+became isolatable in a way that enabled it to become not just
+identified, but also regulated. The more that sensuality or the erotic
+is recognized to exist outside of this taxonomy — to be inherent in
+things as a dynamic force, or a mode of perception — the more
+difficult it is to police. The story of aestheticism is, then, in
+part, the story of a political pushback against a new reality that was
+in formation at the end of the century" (par. 7).
+*** Posner, Miriam. "What’s Next: The Radical, Unrealized Potential of
+Digital Humanities," /Debates in the Digital Humanities 2016/. 2016.
+
+https://dhdebates.gc.cuny.edu/read/65be1a40-6473-4d9e-ba75-6380e5a72138/section/a22aca14-0eb0-4cc6-a622-6fee9428a357#en33
+
+"You can assign a number to the degree of your uncertainty for data
+points, but how do you show the possible universe of missing data? How
+do we show the ways in which heterogeneous data has been flattened
+into a model to make it visually legible?"
+
+"technically speaking, we frankly have not figured out how to deal
+with categories like gender that are not binary or one-dimensional or
+stable."
+
+"What would maps and data visualizations look like if they were built
+to show us categories like race as they have been experienced, not as
+they have been captured and advanced by businesses and governments?" 
+
+"It may sound as though I am asking us to develop data models that pin
+a person’s identity down in even greater detail, in the way Facebook’s
+expanded gender categories do (Molloy). But that is not it at all. I
+would like us to start understanding markers like gender and race not
+as givens but as constructions that are actively created from time to
+time and place to place. In other words, I want us to stop acting as
+though the data models for identity are containers to be filled in
+order to produce meaning and recognize instead that these structures
+themselves constitute data."
+
+"It is not only about shifting the focus of projects so that they
+feature marginalized communities more prominently; it is about ripping
+apart and rebuilding the machinery of the archive and database so that
+it does not reproduce the logic that got us here in the first place."
+
+"Mulvey’s intervention, in a 1975 article for Screen, was to show us
+that the whole thing was broken (“Visual Pleasure and Narrative
+Cinema”). It was not just that we did not see enough women in powerful
+roles. It was that the entire organizing logic of narrative cinema was
+built around the subjugation of women. She showed us in film studies,
+the discipline in which I was trained, that structural inequalities
+can be written in to the very language of a medium. Perhaps you can
+see how I think this applies to digital humanities projects, too. We
+can do what we know how to do: visualize datasets that we inherit from
+governments, corporations, and cultural institutions, using tools that
+we have borrowed from corporations. Or we can scrutinize data, rip it
+apart, rebuild it, reimagine it, and perhaps build something entirely
+different and weirder and more ambitious."
+
+"So maybe this is the thrill we can work toward—the thrill in
+capturing people’s lived experience in radical ways—ways that are
+productive and generative and probably angry, too. Of course, we
+cannot capture these experiences without the contributions of the
+people whose lives we are claiming to represent. So it is incumbent on
+all of us (but particularly those of us who have platforms) to push
+for the inclusion of underrepresented communities in digital
+humanities work, because it will make all of our work stronger and
+sounder."
+*** Susan Brown and Laura Mandell, “The Identity Issue,” Cultural
+AnalyticsFeb. 13, 2018. DOI:10.22148/16.020 
+
+"The goal is to acknowledge the subjective effects of belonging to an
+identity constituted historically through oppression without believing
+that the identity itself exists independently of those historical
+conditions" (7).
+
+"how can a cultural critic counteract the elision of non-dominant
+histories, history as the history of the winners (“massive
+historiographic metalepsis”), without essentializing identities? How
+does one study the history of woman, or even women, without using the
+category of woman to mean something consistent through time (s.a. Fuss
+3-4)?" (8).
+
+"One way to analyze the various attributes accorded to a gender
+that is reconstructed throughout history is to search through large
+amounts of data using that very binary category–that is, investigating
+“the origins and consequences” of the social category of the gender
+binary and its surrounding practices" (8).
+
+"Gender analysis–determining what has been counted as feminine and
+masculine through time–can go hand in hand with quantitative analysis"
+(9).
+
+"One particular feature of doing history at scale is that it allows
+taking more and more ephemera, into account. As Bode puts it,
+"quantitative methods allow us to explore aspects of the literary
+field, especially trends and patterns, broad developments and
+directions, that would otherwise remain unrepresented and
+unrepresentable." (Bode, Reading by Numbers,13.)  It may be that
+numbers, if understood as not transparently readable, can provide
+another method for 'giving voice'." (12)
+
+"Historicizing helps to destabilize identities, and cultural analytics
+can make visible a kind of history that we have never seen before. The
+analysis of literary texts, whether as objects of consumption or
+through their textuality, introduces another fruitful layer of
+complexity that stresses the extent to which identity is always
+already mediated. In the case of literary investigation, quantitative
+analysis can engage with and unpack the discursive construction of
+identities in novels" (13).
+
+"The data modelling this work requires necessarily engages in both
+abstraction and reduction, but the very act of modelling carries with
+it the seeds of a constructionist recognition that a phenomenon could
+be modelled differently, and as a number of the essays show,
+conjoining diverse categories or pluralizing the modes of inquiry can
+reveal the dynamic and contingent nature of identity categories. At
+the same time, however, and as the debates surveyed all too briefly
+above indicate, these categories are easily reified because they
+readily map onto categories that have been and still often are
+considered fixed and essential, and that do real, politically charged
+work in the world" (17).
+
+**** Richard Jean So, Hoyt Long, and Yuancheng Zhu "Computational 
+Method and the Critique of Race: Racial Difference and the US Novel at
+Scale, 1880-2000"
+
+
+
+

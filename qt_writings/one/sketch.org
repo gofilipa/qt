@@ -2,7 +2,10 @@
 
 Revising the first draft. 
 
-** The fantasy of the falsifiable 
+** the fantasy of the falsifiable 
+Paranoid reading methods encourage a reproducible kind of criticism
+that doesn't teach us anything novel about gender. How do we get out
+of the cycle of reproducibility?
 
 *** reading methods
 Introduces paranoid, militant, suspicious reading, which is unified by
@@ -63,3 +66,97 @@ In close reading the text, we see a relationship between gender and
 the imagination. Let's explore. 
 
 --> add criticism on gender in the novel
+
+
+** deformance and preformance
+textual scholarship methods which pay attention to materiality of the
+textual transformations (deformance) engage well with queer theory
+about performance of gender (performance).
+
+*** harnessing human attention
+Distant reading not to expand coverage, but to engage with working
+memory, human attention.
+
+*** textual scholarship perspective
+critics like mcgann, clement, and bode resist conservative motives for
+textual scholarship and explore discovery, speculation.
+
+*** TODO textual scholarship: from restorative to distorting
+history of textual scholarship begins with a conservative trend in
+which the editor takes more control/authority over the text, but
+according to some external belief in what that text is supposed to be
+
+--> add that THIS IS FUCKIN PARANOID. Spinning the thread from section
+one.
+
+Then, we have people like McGann and Samuels who adopt more
+speculative approaches, aiming for a "quantum poetics" which attends
+to the volatility of meaning contained within textual elements. They
+propose a deformative criticism which distorts textual material
+(rather than "restore" them) in order to spark inquiry. 
+
+*** the tool creates cuts in data
+Bode: our tools/apparati create "cuts" in data. 
+
+*** TODO abstraction and human attention 
+Clement: multiple levels of abstraction in the digital text allows for
+numberable interventions that harness human attention spans
+
+--> more directly engage this point in response to Underwood's comment
+on human attention and paranoid reading. 
+
+*** queer performance & citationality
+performative citationality draws from a domain of abjection, the
+outside, to resignify meaning within a regulatory system.
+
+language is productive, not representative
+
+*** example of performative citation: Irigaray
+we work what's not there into what is there.
+
+*** TODO preserving the unintelligible
+the key to disrupting without doing violence (making
+representationalist claims) is to never try to keep the unintelligible
+outside, preserve it for continual resignification. 
+
+--> conclusion: this is the antithesis to the paranoid position!!! 
+
+
+** queer distant reading
+An iterative method of distant reading attends to gender as an
+iterative practice. We find ever expanding ways that gender is
+characterized in /Orlando/. 
+
+*** bode and butler parallel on language productivity
+There is something fundamentally productive about language
+
+*** reproducibility reduces data
+Reproducibility reduces data into abstractable, "simple picture"
+forms which perpetuate themselves.
+
+*** shifting to the speculative
+But we might use deformance and performance to harness reduction
+toward speculative ends.
+
+*** TODO Man and Woman in Orlando
+Qe are resignifying man and woman to mean differently in Orland by
+creating a model of their significations.
+
+*** TODO modeling gender distinctiveness
+make a model of the way that the genders distinguish themselves in the
+novel---imaginative elaborations of gender. 
+
+*** TODO iterating over the code resignifies it
+running the computation over and over again with new inputs is a way
+of resignifying. Like a game of telephone.
+
+*** TODO findings: new configurations of gender
+what do we find out about gender here? how does this change the way we
+approach this text?
+
+*** TODO the power of the imagination
+this process reveals the hidden "enabling structure" of the imagination
+
+*** TODO conclusion: performative citation queers distant reading
+insubordination through subservience, displacement through repetition
+

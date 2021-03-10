@@ -2313,6 +2313,30 @@ is about modes of seeing.
   with his test. Building is a speculative activity.
 
 * Queer Subjects and Affects
+** cheatsheet
+Foucault - Discourse propagates sexuality to control the human in
+modern society.
+
+Butler - Gender is a performance that precedes and determines the
+subject and body.
+
+Sedgwick (Epis) - We ought to overcome structures of thought (like
+binaries in sexuality) which determine oppressive sexual categories.
+
+Halberstam - Gender performativity and parody shows the derivity of
+gender roles.
+
+Sedgwick (Touch) - We ought to search for new ways to relate to text
+that draw on the embodied, emotional, affects. 
+
+Edelman - Queerness is anti-political and unti-futuristic, and queers
+should embrace this insurgent potential toward jouissance.
+
+Munoz - Queerness is out of reach, but can be distorted, figured,
+mimed into subculture. 
+
+Love - Queerness is not something to be resolved, recuperated,
+redeemed, but something to describe and register as beyond our means.
 ** Foundations
 *** Cixous, Hélène. "The Laugh of the Medusa." 1975.
 - Cixous issues an ultimatum: that women can either read and choose to
@@ -2634,7 +2658,9 @@ that cannot be included without being coopted.
   the discussion about sex. With AIDs, homosexuality becomes a lethal
   pathology.
 
-*** Cvetkovich, Ann. An Archive of Feelings: Trauma, Sexuality, and Lesbian Public Cultures. 2003.
+*** Cvetkovich, Ann. An Archive of Feelings: Trauma, Sexuality, and
+  Lesbian Public Cultures. 2003.
+
 - Asks how we can reclaim some of the most negative and traumatic
   feelings/experiences into something positive and theraputic. This is
   about turning something that is traditionally private and
@@ -2737,7 +2763,9 @@ hegemonic and the subversive" (12).
   contagiousness of shame is only facilitated by its anamorphic,
   protean susceptibility to new expressive grammars" (63).
 
-*** David, L., Judith Halberstam, and Esteban Muñoz. "What’s Queer About Queer Studies Now?." Social Text 23.3–4 (2005): 1-17.
+*** David, L., Judith Halberstam, and Esteban Muñoz. "What’s Queer
+  About Queer Studies Now?." Social Text 23.3–4 (2005): 1-17.
+
 - In a mainstream world, what's still queer? How do we carve out the
   queer amid all this normalization?
 - Queer here becomes "a political metaphor with no referent."
@@ -2745,7 +2773,69 @@ hegemonic and the subversive" (12).
   interventions.
 - --> could we add climate and technology/media?
 
-*** Muñoz, José. /Cruising Utopia: The Then and There of Queer Futurity/. 2009.
+*** Halberstam, Jack. In a Queer Time and Place: Transgender Bodies,
+Subcultural Lives. , 2005. Print. 
+
+"The Brandon Archive": the archive which appears in the aftermath of
+Brandon's slaying "has created a new 'Brandon'... the name we now give
+to a set of comforting fictions about queer life in small town
+America... Think of the muder of Brandon... a constructed memorial to
+the violence directed at queer and transgender lives" (23).
+
+"Brandon literally occupies a place held by so-called primitives in
+colonial anthropology; he literally inhabits a different timescale
+from the modern queer... Brandon's difference gets cast both spatially
+and temporally distant" (25).
+
+"Transgender biography as sometimes violent, often imprecise project
+that brutally seeks, retroactively, and with the benefit of hindsight,
+to erase the carefully managed details of the life of a passing
+person, and that recasts the act of passing as deception, dishonesty,
+and fraud. I will be asking here what kind of truths about gender we
+demand from the lives of people who pass, cross dress, or simply
+refuse normative gender categories... (48)... In this chapter I
+address thorny questions about the ethics of biography, biographical
+temporality, and who has the right to tell tales about whose life"
+(49).
+
+Transgender history: "paradoxical but necessary project" (49).
+
+"Realness--the appropriation of attributes of the real, one could
+say--is precisely the transsexual condition. The real, on the other
+hand, is that which always exists elsewhere, and as a fantasy of
+belonging and being... The transgender man expresses his desire for a
+manhood that will always elude him. The ever receeding horizon of the
+real, however, need not be th downfall of the transsexual aspiration;
+indeed, it may be its strength" (50).
+
+"What would the biography look like if th biographer identified with
+Billy? Should such an identification be a precondition for writing
+such a biography?" (56).
+
+"The error of the willful biographer lies in her refusal to be chnged
+by her encounter with the ghost she chases; the method of the
+transgender historian must be encounter, controntation,
+transformation" (59).
+
+"The act of passing does damage the investments made in conventional
+gender, sexuality, and domesticity. As a wooden nickel passing as
+silver, Brandon Teena throws into doubt the value of conventional
+currency and also shows how easy it is to circumvent the monetary
+system altogether" (72-73).
+
+"How do drag king performances (copies, supposedly) influence the
+representation of male performativity (original, supposedly)?" (134).
+
+"The cultural debt that white masculinity owes to gay, black, and
+butch masculinities it absorbs and erases" (149). 
+
+Austin Powers the first represents masculine abjection. "King comedies
+have borrowed liberally from butch, nonmales or penisless models of
+masculinity" (151).
+
+*** Muñoz, José. /Cruising Utopia: The Then and There of Queer
+Futurity/. 2009.
+
 - Present gay politics is either trapped within heteronormative
   agendas or the death drive. How do we get beyond the stagnancy of
   straight time and the negativity of anti-relationality? Munoz offers
@@ -2784,7 +2874,9 @@ key to queering evidence, and by that I mean the ways in which we
 prove queerness and read queerness, is by suturing it to the concept
 of ephemera" (65).
 
-*** Love, Heather. Feeling Backward: Loss and the Politics of Queer History. 2009.
+*** Love, Heather. Feeling Backward: Loss and the Politics of Queer
+    History. 2009.
+
 - Foucault’s reverse discourse turns the shame and pain of the closet
   into sites of resistance, pride and affirmation. But what about the
   aspects of queer negativity that cannot be resolved, recuperated, or
@@ -2814,12 +2906,50 @@ of ephemera" (65).
       connections. Love here evokes Shaviro’s “contact-at-a-distance”
       and Pitts-Taylor’s discussion about mirror neurons.
 
-*** Love, Heather. “TRUTH AND CONSEQUENCES: ON PARANOID READING AND
-      REPARATIVE READING.” Criticism, vol. 52, no. 2, 2010,
+*** Love, Heather. “Truth and Consequences: Close Reading and
+      Reparative Reading.” Criticism, vol. 52, no. 2, 2010,
       pp. 235–241. JSTOR, www.jstor.org/stable/23131405
 
-*** Ahmed, Sara. The Cultural Politics of Emotion. Edinburgh University Press, 2014. JSTOR,
+*** Love, Heather. “Close but Not Deep: Literary Ethics and the
+      Descriptive Turn.” New Literary History, vol. 41, no. 2, 2010,
+      pp. 371–391. JSTOR, www.jstor.org/stable/40983827. Accessed 26
+      Feb. 2021.
+
+How do we keep close reading and do away with the baggage of
+humanism?
+
+Despite all the debates about field and method, English largely
+cohered around the practice of close reading. But close reading
+upholds some pretty damning humanist ideas about the ethics of the
+reader and the elisions of new criticism, the canon, etc. People like
+Moretti make us now think that we have a new chance to articulate our
+ethics. 
+
+Love proposes that we practice a reading that is "close but not deep"
+(375). "Descriptions of surfaces, operations, interactions... suggest
+an alternative model of reading hta does not depends on the thical
+exemplarity of the interpreter or messanger" (375). 
+
+Reading /Beloved/ on the surface, allowing Beloved to remain a ghost,
+"allows us to see Morisson's project as registering the losses of
+history rather than repairing them" (386). 
+
+Reading the murder scene from the perspective of the slave catchers:
+"Rather than reading this scene as an object lesson in failed empathy,
+we might see it as an instance of a documentary aesthetic in the
+novel" (385-386). 
+
+"Dehumanization, rather than being a kind of false consciousness that
+can be exorcized through cultivating an inside view, is a process with
+real effects: it is a fact, not a truth" (386). 
+
+Documentarian rather than witness, describer rather than privileged
+messenger.
+
+*** Ahmed, Sara. The Cultural Politics of Emotion. Edinburgh
+      University Press, 2014. JSTOR,
       www.jstor.org/stable/10.3366/j.ctt1g09x4q.
+
 
 Emotions are what allow us to view subjects as objects. They create an
 illusion of the surface.
@@ -2887,7 +3017,9 @@ and others, which shape individual as well as collective bodies" (15).
 Chapter 7: "Queer Feelings"
 Considers the importance of emotions to queer theory. 
 
-*** Amin, Kadji. "Haunted by the 1990s: Queer theory's affective histories." WSQ: Women's Studies Quarterly:44.3 (2016): 173-189.
+*** Amin, Kadji. "Haunted by the 1990s: Queer theory's affective
+histories." WSQ: Women's Studies Quarterly:44.3 (2016): 173-189.
+
 - In today's age, What counts as "queer"? The term has always been
   "mobile and mutable," (175) since Butler's "Critically Queer" invocation
   that it be "redeployed, twisted, queered from a prior usage"
@@ -2957,7 +3089,10 @@ Considers the importance of emotions to queer theory.
 - Praciticing "attachment geneaology", where we excavate our unease
   with queer objects and elaborate feeling states.
 
-*** Caldwell, Kelly. "[The Torment of Queer Literature](https://therumpus.net/2018/06/the-torment-of-queer-literature/)," The Rumpus. 2018.
+*** Caldwell, Kelly. "[The Torment of Queer
+Literature](https://therumpus.net/2018/06/the-torment-of-queer-literature/),"
+The Rumpus. 2018.
+
 - What if only identification possible is one of of shame, stigma and
   pain? Caldwell explores what we can do with the negative affects of
   identification and failure of recognition that occur when
@@ -3002,7 +3137,10 @@ Considers the importance of emotions to queer theory.
           those who love and name me. It’s a room somewhere slowly
           filling up with light.”
 
-*** Fawaz, Ramzi and Shanté Paradigm Smalls, “QUEERS READ THIS! LGBTQ Literature Now” GLQ: A Journal of Lesbian and Gay Studies, 2018.
+*** Fawaz, Ramzi and Shanté Paradigm Smalls, “QUEERS READ THIS! LGBTQ
+          Literature Now” GLQ: A Journal of Lesbian and Gay
+          Studies, 2018.
+
 - What do queers read now, or how do queers read now, that the AIDS
   crisis is behind us and it’s been 25 years since Reparative Reading?
   Would This Bridge Called My Back have been published now? The
@@ -3319,6 +3457,97 @@ fill the void with stories?
   even as reparations, perhaps the only kind we will ever receive"
   (4).
  
+** Trans Studies
+*** Adair, Cassius, Cameron Awkward-Rich, Amy Marvin; Before Trans
+Studies. TSQ 1 August 2020; 7 (3): 306–320. doi:
+https://doi.org/10.1215/23289252-8552922
+
+Trans Studies founders because of the academy that cannot fund
+scholars who therefore cannot afford to write. Those in positions of
+power therefore hire queer theorists to do trans work. 
+
+Normativity is actually discussed often. See Prosser. 
+
+We want the field to be a shelter, not a battleground. Trans Studies
+needs to be cultivated, a "not yet here" like Munoz. 
+
+--> Munoz's concept of queerness as desire is not something that Chu
+engages with. The desire for what is not yet here is both radical and
+conforming, because it aspires toward the utopian, the
+collectivity. There seems to be a lot of crossover here.
+
+*** Keegan, Cáel M., Against Queer Theory. TSQ 1 August 2020; 7 (3):
+349–353. doi: https://doi.org/10.1215/23289252-8552978
+
+Although trans studies has had to define itself against queer, they
+are actually working in tandem, and depend on each other. The burden
+of the trans is to live and work within the queer as guiding
+conditions. To always be "against" the queer.
+
+"One thing we might want from trans studies now is further
+conversation about how to be up against the impossible project of
+recognition on these terms: how to live and make work inside these
+abrasive conditions, how to remain willing to engage in the service of
+“a new hope” (Snorton 2009: 88)—even when it feels like our back is
+against the door" (352).
+
+*** Chu, Andrea Long, and Emmett Harsin Drager. "After trans studies."
+  Transgender Studies Quarterly 6.1 (2019): 103-116.
+
+According to Chu, the main desire for trans folks is normativity, and
+this is something that queer studies does not grapple with. So far, it
+is just extending queer's project of boundary-crossings. 
+
+Trans Studies is a follower when it latches on to Queer Studies's need
+for radicalism, for boundary crossing, for constant "queering", for
+the "romance of criticism as a radical political act". 
+
+- "Trans Studies requires that we understand--as we never have before--
+what it means to be attached to a norm, by desire, but habit, by
+survival" (108).
+
+Trans folks desire the normative. They want the house in
+Westchester. It is the journey toward the normative that is
+nonnormative for them. 
+
+Drager: Trans Studies needs to ask controversial questions like should
+children be given hormones, is transitioning going to fis dysphoria?
+
+Stone's "Empire" calls on folks to resist narratives of
+medicalization, of passing & authenticity, and to instead look for the
+"post-transsexual," who is nonmedicalized and nonauthentic. But this
+is where trans studies dies: "there is an obsession with resistance &
+radicality that has severly limited our ability to fully understand
+trans pasts and presents" (107). We need something that examines what
+happens when we do not get what we want, something messy, complicated,
+disappointing, unexpected. Satire, not tragedy or romance.
+
+*** Halberstam, Jack. "Nice trannies." Transgender Studies Quarterly
+7.3 (2020): 321-331.
+
+Chu willfully misreads Trans Studies, its disagreements, its
+significant debates. We are not all females. The Lesbian Phallus
+disproves female as a lack. Butler already has done what Trans Studies
+is trying to do. Our enemy should be men, not butches. The
+beneficiaries of hetero-patriarchy.
+
+Why does Chu hate butches? (probably because they disavow their
+femininity?) 
+
+*** Travers, Travers. "Trans Studies and Resistance in an Academy
+Based on Masculinity Contest Culture." TSQ: Transgender Studies
+Quarterly 7.3 (2020): 407-420.
+
+Academic culture continues to be hostile to trans femmes, and
+particularly trans femmes of color, via "modern/neoliberal
+organizational logics" (409). Organizational cultures are masculinity
+contests. Masculine modes are rewarded while feminine ones are
+penalized. 
+
+We need to center BIPOC femmes and children. We need to continue to
+document how masculinity and contest culture has necropolitical
+consequences. 
+
 ** Archives
 *** Arondekar, A., Cvetkovich, A., Hanhardt, CB, Kunzel, R., Nyong’O, T.,
 Rodríguez, JM, & Stryker, S. (2015). Queering archives: A roundtable
