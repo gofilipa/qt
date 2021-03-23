@@ -1,4 +1,92 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/qt/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/qt/" rel="alternate" type="text/html" /><updated>2020-09-28T14:47:34+01:00</updated><id>http://localhost:4000/qt/feed.xml</id><title type="html">Queer Tools</title><subtitle>Notes Toward a Dissertation</subtitle><author><name>Filipa Calado</name></author><entry><title type="html">Feedback on Chapter One Intro</title><link href="http://localhost:4000/qt/feedback-chap1/" rel="alternate" type="text/html" title="Feedback on Chapter One Intro" /><published>2020-09-17T00:00:00+01:00</published><updated>2020-09-17T00:00:00+01:00</updated><id>http://localhost:4000/qt/feedback-chap1</id><content type="html" xml:base="http://localhost:4000/qt/feedback-chap1/">&lt;p&gt;Last week I shared the intro to my first chapter with my dissertation
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/qt/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/qt/" rel="alternate" type="text/html" /><updated>2021-03-11T13:36:41-05:00</updated><id>http://localhost:4000/qt/feed.xml</id><title type="html">Queer Tools</title><subtitle>Notes Toward a Dissertation</subtitle><author><name>Filipa Calado</name></author><entry><title type="html">Closing Up Chapter One</title><link href="http://localhost:4000/qt/closing-up-chapter-one/" rel="alternate" type="text/html" title="Closing Up Chapter One" /><published>2021-03-10T00:00:00-05:00</published><updated>2021-03-10T00:00:00-05:00</updated><id>http://localhost:4000/qt/closing-up-chapter-one</id><content type="html" xml:base="http://localhost:4000/qt/closing-up-chapter-one/">&lt;p&gt;Even though I still need to finalize the conclusion (and add a final
+example of text analysis), I’m deeming the first draft of my first
+chapter complete. It’s been nearly a year, and the thing has taken so
+many shapes, texts, interventions in the meantime. Although there’s
+still a little more work to do, fleshing out some text analysis with
+Python, the thing is being set aside. It doesn’t feel totally done –
+in fact I feel slightly guilty for setting it aside – but I know that
+any attempt to finalize it right now will just have to be revised once
+I progress through other chapters and my intervention develops.&lt;/p&gt;
+
+&lt;p&gt;Below is an abstract for the project, which I recently submitted to
+the [ACH conference][https://ach2021.ach.org/]:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Queer Distant Reading: Quantifying Gender in Woolf’s “Orlando”&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This project explores how Queer Studies and quantitative text analysis
+might work together to analyze queer identity in 20th and 21st century
+literature. In recent years, practitioners of distant reading have
+been grappling with the problem of quantifying gender and sexuality,
+among other aspects of minority identity. My project intervenes in
+this debate by exploring one of the stickier aspects of distant
+reading–reproducibility. I trace a genealogy of reproducibility from
+distant reading’s inception in Franco Moretti’s call for a
+“falsifiable criticism” to more recent experiments in which
+researchers “reproduce” their assumptions about social categories in
+the results of their analysis. However, rather than condemn the
+reproducible, this project unpacks its radical potential by reworking
+it to engage with Judith Butler’s concept of performativity. Bringing
+Butler’s foundational ideas about “performative citation” from Queer
+Theory to distant reading, I propose a methodology that achieves
+displacement through repetition, subversion through iteration, and
+resistance from within the flattening processes of
+quantification. This method illustrates how the iterative practice of
+analyzing text computationally can surface new textual structures and
+resignify elements of that text. I demonstrate this critical method
+with an analysis of Virginia Woolf’s text, Orlando: A Biography (1928)
+to explore how the terms “man” and “woman” can be re-signified to
+multiply our already complex understanding of gender in that
+text. This method harnesses the reductions of reproducibility within
+text analytical methods in order to advance the study of queer
+identity in Queer Studies.&lt;/p&gt;</content><author><name>Filipa Calado</name></author><category term="text analysis" /><category term="queer distant reading" /><summary type="html">Even though I still need to finalize the conclusion (and add a final example of text analysis), I’m deeming the first draft of my first chapter complete. It’s been nearly a year, and the thing has taken so many shapes, texts, interventions in the meantime. Although there’s still a little more work to do, fleshing out some text analysis with Python, the thing is being set aside. It doesn’t feel totally done – in fact I feel slightly guilty for setting it aside – but I know that any attempt to finalize it right now will just have to be revised once I progress through other chapters and my intervention develops.</summary></entry><entry><title type="html">The Fantasy of the Falsifiable</title><link href="http://localhost:4000/qt/fantasy-of-the-falsifiable/" rel="alternate" type="text/html" title="The Fantasy of the Falsifiable" /><published>2020-12-18T00:00:00-05:00</published><updated>2020-12-18T00:00:00-05:00</updated><id>http://localhost:4000/qt/fantasy-of-the-falsifiable</id><content type="html" xml:base="http://localhost:4000/qt/fantasy-of-the-falsifiable/">&lt;p&gt;In the past three months, this chapter has taken on a whole new
+form. I had a meeting with my dissertation workshop in late October
+that revealed to me how I was writing around the argument I wanted to
+make, which is about deconstructing (in NKM’s words) “the fantasy of
+the falsifiable.” So I cut about half of what I had already written,
+the sections on the digital, queerness, and touch, and moved that to
+an introductory chapter. What remained was the section where I
+critique “reproducible” criticism, and that was pretty much it. Around
+this section, I’ve written another on textual scholarship and
+deformance, and one on queer performance. I’m now working on the final
+section of the chapter, where I synthesize aspects from deformance and
+preformance to present a new approach for “queer” text analysis. After
+that, I will write up a quick intro that begins be presenting a
+critique of the falsifiable, which I position as forerunner to the
+reproducible.&lt;/p&gt;
+
+&lt;p&gt;The burden of the chapter is to describe how to do text analysis in a
+way that attends to queer concepts of performativity, and how that
+method enhances the critical process. It begins by debunking the
+fantasy of falsifiable criticism, presenting a critique of moretti’s
+methodology and stylistic approach (eventually with accompanying text
+analysis). It then goes into a critique of current distant reading
+practices, discussing Ted Underwood, Nan Z. Da, to emphasize how these
+practices can often reproduce the critic’s assumptions. This section
+also discusses the work of Johanna Drucker and Richard Jean So,
+emphasizing that their methods do a good job deconstructing social
+categories. While this deconstruction is important, I’m interested in
+analysis of text that disrupts what we know about these literary
+materials by producing new structures, or formalizations of these
+texts. Then, I go into a history of textual scholarship, focusing
+particularly on the work of Jerome McGann, Tanya Clement, and
+Katherine Bode, who offer a deformative and speculative understanding
+of critical analysis that is useful for my proposal. Then, I dip into
+Queer Theory, in particular Judith Butler’s concepts of performativity
+and citation, which lend an understanding to the ways that critical
+processes can subvert dominant structures through iteration, or
+“performative citation.” This notion of displacement through
+repetition is applied back to text analysis to illustrate how the
+iterative process of analyzing text can surface new textual structures
+that re-signify certain elements of that text. The chapter ends with
+my reading of Virginia Woolf’s /Orlando/, to show how our
+understanding of “man” and “woman” in that text is re-signified
+through this kind of text analysis.&lt;/p&gt;
+
+&lt;p&gt;Next steps, is to continue to explore /Orlando/ and Moretti in Python
+(though not for too long) so I can write up this final section and the
+introduction.&lt;/p&gt;
+
+&lt;p&gt;Almost there!&lt;/p&gt;</content><author><name>Filipa Calado</name></author><category term="dissertation workshop" /><category term="feedback" /><category term="revision" /><summary type="html">In the past three months, this chapter has taken on a whole new form. I had a meeting with my dissertation workshop in late October that revealed to me how I was writing around the argument I wanted to make, which is about deconstructing (in NKM’s words) “the fantasy of the falsifiable.” So I cut about half of what I had already written, the sections on the digital, queerness, and touch, and moved that to an introductory chapter. What remained was the section where I critique “reproducible” criticism, and that was pretty much it. Around this section, I’ve written another on textual scholarship and deformance, and one on queer performance. I’m now working on the final section of the chapter, where I synthesize aspects from deformance and preformance to present a new approach for “queer” text analysis. After that, I will write up a quick intro that begins be presenting a critique of the falsifiable, which I position as forerunner to the reproducible.</summary></entry><entry><title type="html">Feedback on Chapter One Intro</title><link href="http://localhost:4000/qt/feedback-chap1/" rel="alternate" type="text/html" title="Feedback on Chapter One Intro" /><published>2020-09-17T00:00:00-04:00</published><updated>2020-09-17T00:00:00-04:00</updated><id>http://localhost:4000/qt/feedback-chap1</id><content type="html" xml:base="http://localhost:4000/qt/feedback-chap1/">&lt;p&gt;Last week I shared the intro to my first chapter with my dissertation
 workshop. Below is the feedback I received, indicating points for
 revision.&lt;/p&gt;
 
@@ -98,7 +186,7 @@ of the story, the codes and computation.&lt;/li&gt;
 feelings which will help you elaborate on emergence.&lt;/li&gt;
   &lt;li&gt;will narratology help me clarify some of the terms on page 6, on the
 close readings of /Waves/? Mieke Bal perhaps.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Filipa Calado</name></author><summary type="html">Last week I shared the intro to my first chapter with my dissertation workshop. Below is the feedback I received, indicating points for revision.</summary></entry><entry><title type="html">Zooming out of Chapter One</title><link href="http://localhost:4000/qt/zooming-out-of-chapter-one/" rel="alternate" type="text/html" title="Zooming out of Chapter One" /><published>2020-07-24T00:00:00+01:00</published><updated>2020-07-24T00:00:00+01:00</updated><id>http://localhost:4000/qt/zooming-out-of-chapter-one</id><content type="html" xml:base="http://localhost:4000/qt/zooming-out-of-chapter-one/">&lt;p&gt;About a week ago I converted my chapter document into a word
+&lt;/ul&gt;</content><author><name>Filipa Calado</name></author><category term="dissertation workshop" /><category term="feedback" /><category term="revision" /><summary type="html">Last week I shared the intro to my first chapter with my dissertation workshop. Below is the feedback I received, indicating points for revision.</summary></entry><entry><title type="html">Zooming out of Chapter One</title><link href="http://localhost:4000/qt/zooming-out-of-chapter-one/" rel="alternate" type="text/html" title="Zooming out of Chapter One" /><published>2020-07-24T00:00:00-04:00</published><updated>2020-07-24T00:00:00-04:00</updated><id>http://localhost:4000/qt/zooming-out-of-chapter-one</id><content type="html" xml:base="http://localhost:4000/qt/zooming-out-of-chapter-one/">&lt;p&gt;About a week ago I converted my chapter document into a word
 doc. Until now, I’ve only been engaging with the draft on through the
 text editor Emacs using Org Mode, an amazing format that allows you to
 collapse paragraphs and outlines to make writing cleaner and more
@@ -148,7 +236,7 @@ experiments of queer writers.&lt;/li&gt;
   &lt;li&gt;The “untouchable” denotes a state of &lt;em&gt;suspended knowledge&lt;/em&gt; (about queer
 subjectivity and experience) that allows me to then turn to &lt;em&gt;feeling
 and affect&lt;/em&gt; as epistemological methods.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Filipa Calado</name></author><summary type="html">About a week ago I converted my chapter document into a word doc. Until now, I’ve only been engaging with the draft on through the text editor Emacs using Org Mode, an amazing format that allows you to collapse paragraphs and outlines to make writing cleaner and more navigable. As a result, however, I didn’t have a sense of how long my document was until I opened it in Word. Turns out I have 34 pages single spaced. And I still need to draft what I think will take up about one third of the chapter. Clearly, some revision and reorganization is necessary.</summary></entry><entry><title type="html">Drafting the Intro</title><link href="http://localhost:4000/qt/close-reading-intro/" rel="alternate" type="text/html" title="Drafting the Intro" /><published>2020-06-25T00:00:00+01:00</published><updated>2020-06-25T00:00:00+01:00</updated><id>http://localhost:4000/qt/close-reading-intro</id><content type="html" xml:base="http://localhost:4000/qt/close-reading-intro/">&lt;p&gt;My past two posts have been clarifying the concept of “untouchable”
+&lt;/ul&gt;</content><author><name>Filipa Calado</name></author><category term="dissertation" /><category term="org-mode" /><category term="revision" /><summary type="html">About a week ago I converted my chapter document into a word doc. Until now, I’ve only been engaging with the draft on through the text editor Emacs using Org Mode, an amazing format that allows you to collapse paragraphs and outlines to make writing cleaner and more navigable. As a result, however, I didn’t have a sense of how long my document was until I opened it in Word. Turns out I have 34 pages single spaced. And I still need to draft what I think will take up about one third of the chapter. Clearly, some revision and reorganization is necessary.</summary></entry><entry><title type="html">Drafting the Intro</title><link href="http://localhost:4000/qt/close-reading-intro/" rel="alternate" type="text/html" title="Drafting the Intro" /><published>2020-06-25T00:00:00-04:00</published><updated>2020-06-25T00:00:00-04:00</updated><id>http://localhost:4000/qt/close-reading-intro</id><content type="html" xml:base="http://localhost:4000/qt/close-reading-intro/">&lt;p&gt;My past two posts have been clarifying the concept of “untouchable”
 and how it functions in relation to queerness. “Untouchable” denotes a
 state of &lt;em&gt;suspended knowledge&lt;/em&gt; (about queer subjectivity and
 experience) that allows me to then turn to &lt;em&gt;feeling and affect&lt;/em&gt; as
@@ -215,7 +303,7 @@ this idea of deffered touch in text and digital media.&lt;/li&gt;
 
 &lt;p&gt;After this introduction, which is only meant to pique interest and
  set ideas into motion, I will move on to exploring the “untouchable”
- state of queerness in depth.&lt;/p&gt;</content><author><name>Filipa Calado</name></author><summary type="html">My past two posts have been clarifying the concept of “untouchable” and how it functions in relation to queerness. “Untouchable” denotes a state of suspended knowledge (about queer subjectivity and experience) that allows me to then turn to feeling and affect as epistemological methods. - First, I worked out a definition of “untouchable” as the raw data about queer subjectivity and experience that cannot be quantified. (later in the chapter, I will explain that in order to engage (or “interface”) with this data, we need abstraction and formalization. - Then, I looked for analogies of the “untouchable” in other fields (history and science) that display the impulse to verify, correct, or recover. In literary studies, this impulse for satisfaction is observed in “paranoid” or “suspicious” reading practices, which attempt to find “hidden meaning” in texts in a way that constrains inquiry.</summary></entry><entry><title type="html">Untouchable Queerness</title><link href="http://localhost:4000/qt/the-untouchable/" rel="alternate" type="text/html" title="Untouchable Queerness" /><published>2020-05-22T00:00:00+01:00</published><updated>2020-05-22T00:00:00+01:00</updated><id>http://localhost:4000/qt/the-untouchable</id><content type="html" xml:base="http://localhost:4000/qt/the-untouchable/">&lt;p&gt;In my last post, I started to organize my thoughts on feminist distant
+ state of queerness in depth.&lt;/p&gt;</content><author><name>Filipa Calado</name></author><category term="dissertation" /><category term="rosenberg" /><category term="fisher" /><category term="munoz" /><summary type="html">My past two posts have been clarifying the concept of “untouchable” and how it functions in relation to queerness. “Untouchable” denotes a state of suspended knowledge (about queer subjectivity and experience) that allows me to then turn to feeling and affect as epistemological methods. - First, I worked out a definition of “untouchable” as the raw data about queer subjectivity and experience that cannot be quantified. (later in the chapter, I will explain that in order to engage (or “interface”) with this data, we need abstraction and formalization. - Then, I looked for analogies of the “untouchable” in other fields (history and science) that display the impulse to verify, correct, or recover. In literary studies, this impulse for satisfaction is observed in “paranoid” or “suspicious” reading practices, which attempt to find “hidden meaning” in texts in a way that constrains inquiry.</summary></entry><entry><title type="html">Untouchable Queerness</title><link href="http://localhost:4000/qt/the-untouchable/" rel="alternate" type="text/html" title="Untouchable Queerness" /><published>2020-05-22T00:00:00-04:00</published><updated>2020-05-22T00:00:00-04:00</updated><id>http://localhost:4000/qt/the-untouchable</id><content type="html" xml:base="http://localhost:4000/qt/the-untouchable/">&lt;p&gt;In my last post, I started to organize my thoughts on feminist distant
 reading. My focus was to work out how we might open up the way we
 interface with queerness as “untouchable,” as the raw data that cannot
 be quantified. The solution is to abstract and formalize so we can
@@ -265,7 +353,7 @@ alternative ways of reading that involve speculation and play. They
 require formalizing and abstracting what cannot be touched into a
 touchable format. It involves playing with vantages (Lauren Klein),
 provisionality (Julia Flanders, Susan Brown), and performance
-(Katherine Bode, Tanya Clement).&lt;/p&gt;</content><author><name>Filipa Calado</name></author><summary type="html">In my last post, I started to organize my thoughts on feminist distant reading. My focus was to work out how we might open up the way we interface with queerness as “untouchable,” as the raw data that cannot be quantified. The solution is to abstract and formalize so we can move or “interface” with it.</summary></entry><entry><title type="html">Feminist Army II</title><link href="http://localhost:4000/qt/feminist-army-II/" rel="alternate" type="text/html" title="Feminist Army II" /><published>2020-03-27T00:00:00+00:00</published><updated>2020-03-27T00:00:00+00:00</updated><id>http://localhost:4000/qt/feminist-army-II</id><content type="html" xml:base="http://localhost:4000/qt/feminist-army-II/">&lt;p&gt;It’s been difficult to stay focused during the pandemic. Only the past
+(Katherine Bode, Tanya Clement).&lt;/p&gt;</content><author><name>Filipa Calado</name></author><category term="dissertation" /><category term="queer of color critique" /><summary type="html">In my last post, I started to organize my thoughts on feminist distant reading. My focus was to work out how we might open up the way we interface with queerness as “untouchable,” as the raw data that cannot be quantified. The solution is to abstract and formalize so we can move or “interface” with it.</summary></entry><entry><title type="html">Feminist Army II</title><link href="http://localhost:4000/qt/feminist-army-II/" rel="alternate" type="text/html" title="Feminist Army II" /><published>2020-03-27T00:00:00-04:00</published><updated>2020-03-27T00:00:00-04:00</updated><id>http://localhost:4000/qt/feminist-army-II</id><content type="html" xml:base="http://localhost:4000/qt/feminist-army-II/">&lt;p&gt;It’s been difficult to stay focused during the pandemic. Only the past
 week have I been able to return to my dissertation work, and just to
 go over my reading notes taken in the weeks prior to march 16, when I
 left New York. I was working through a mountain of reading and
@@ -324,7 +412,7 @@ differ on the emphasis of social vs formal critique. Is that a
 separation I want to uphold here?&lt;/p&gt;
 
 &lt;p&gt;What I’m really interested is in how these critics address the body in
-their processes. How can I incorporate a concern for affect here?&lt;/p&gt;</content><author><name>Filipa Calado</name></author><summary type="html">It’s been difficult to stay focused during the pandemic. Only the past week have I been able to return to my dissertation work, and just to go over my reading notes taken in the weeks prior to march 16, when I left New York. I was working through a mountain of reading and research in response to a tweet I sent out about a month ago asking for examples of non-white-cis-male-het distant reading.</summary></entry><entry><title type="html">Feminist Army</title><link href="http://localhost:4000/qt/feminist-army/" rel="alternate" type="text/html" title="Feminist Army" /><published>2020-02-28T00:00:00+00:00</published><updated>2020-02-28T00:00:00+00:00</updated><id>http://localhost:4000/qt/feminist-army</id><content type="html" xml:base="http://localhost:4000/qt/feminist-army/">&lt;p&gt;Over the past two weeks, I continue to interweave discussions on queer
+their processes. How can I incorporate a concern for affect here?&lt;/p&gt;</content><author><name>Filipa Calado</name></author><category term="dissertation" /><category term="performance" /><summary type="html">It’s been difficult to stay focused during the pandemic. Only the past week have I been able to return to my dissertation work, and just to go over my reading notes taken in the weeks prior to march 16, when I left New York. I was working through a mountain of reading and research in response to a tweet I sent out about a month ago asking for examples of non-white-cis-male-het distant reading.</summary></entry><entry><title type="html">Feminist Army</title><link href="http://localhost:4000/qt/feminist-army/" rel="alternate" type="text/html" title="Feminist Army" /><published>2020-02-28T00:00:00-05:00</published><updated>2020-02-28T00:00:00-05:00</updated><id>http://localhost:4000/qt/feminist-army</id><content type="html" xml:base="http://localhost:4000/qt/feminist-army/">&lt;p&gt;Over the past two weeks, I continue to interweave discussions on queer
 theory and dh methods, focusing on what they share—the sensitivity
 to textual objects, mediated by the critic’s self-consciousness of her
 distance from the object.&lt;/p&gt;
@@ -397,7 +485,7 @@ center other voices.&lt;/p&gt;
 &lt;p&gt;In that vein, I tweeted out a call for “non-cishet-white-male distant
 reading.” The responses I got were overwhelming, with people citing
 their own work and others. So I’m inundated with some exciting reading
-for the next couple of weeks.&lt;/p&gt;</content><author><name>Filipa Calado</name></author><summary type="html">Over the past two weeks, I continue to interweave discussions on queer theory and dh methods, focusing on what they share—the sensitivity to textual objects, mediated by the critic’s self-consciousness of her distance from the object.</summary></entry><entry><title type="html">Queerness as Data</title><link href="http://localhost:4000/qt/queer-data/" rel="alternate" type="text/html" title="Queerness as Data" /><published>2020-02-14T00:00:00+00:00</published><updated>2020-02-14T00:00:00+00:00</updated><id>http://localhost:4000/qt/queer-data</id><content type="html" xml:base="http://localhost:4000/qt/queer-data/">&lt;p&gt;So I’ve been taking the first stabs at the dissertation, trying to get
+for the next couple of weeks.&lt;/p&gt;</content><author><name>Filipa Calado</name></author><category term="dissertation" /><category term="distant reading" /><category term="methods" /><category term="feminism" /><summary type="html">Over the past two weeks, I continue to interweave discussions on queer theory and dh methods, focusing on what they share—the sensitivity to textual objects, mediated by the critic’s self-consciousness of her distance from the object.</summary></entry><entry><title type="html">Queerness as Data</title><link href="http://localhost:4000/qt/queer-data/" rel="alternate" type="text/html" title="Queerness as Data" /><published>2020-02-14T00:00:00-05:00</published><updated>2020-02-14T00:00:00-05:00</updated><id>http://localhost:4000/qt/queer-data</id><content type="html" xml:base="http://localhost:4000/qt/queer-data/">&lt;p&gt;So I’ve been taking the first stabs at the dissertation, trying to get
 down a draft of the foundational chapter, which is about methods. The
 goal is to weave together reading methods from specific strands of
 Queer Theory and the Digital Humanities, trying to fixate on what they
@@ -475,7 +563,7 @@ for reading &lt;em&gt;not&lt;/em&gt; to identify (she doesn’t see herself in f
 characters) but to acquire a certain invisibility among others. Need
 to think more about this need to be with but not of the subjects that
 we read.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Filipa Calado</name></author><summary type="html">So I’ve been taking the first stabs at the dissertation, trying to get down a draft of the foundational chapter, which is about methods. The goal is to weave together reading methods from specific strands of Queer Theory and the Digital Humanities, trying to fixate on what they share, which is a sensitivity to the critic’s distance from the textual subject, a relationality. I’m trying to map out this parallelism about the way that these theorists treat the objects of their study—as incapable of being fully figured—and the moment of convergence, which is the act of identification, I think.</summary></entry><entry><title type="html">Application Week</title><link href="http://localhost:4000/qt/application-week/" rel="alternate" type="text/html" title="Application Week" /><published>2020-01-31T00:00:00+00:00</published><updated>2020-01-31T00:00:00+00:00</updated><id>http://localhost:4000/qt/application-week</id><content type="html" xml:base="http://localhost:4000/qt/application-week/">&lt;p&gt;This week I’ve been writing fellowship &amp;amp; grant applications and paper
+&lt;/ul&gt;</content><author><name>Filipa Calado</name></author><category term="dissertation" /><category term="data" /><category term="identification" /><category term="Love" /><category term="Drucker" /><summary type="html">So I’ve been taking the first stabs at the dissertation, trying to get down a draft of the foundational chapter, which is about methods. The goal is to weave together reading methods from specific strands of Queer Theory and the Digital Humanities, trying to fixate on what they share, which is a sensitivity to the critic’s distance from the textual subject, a relationality. I’m trying to map out this parallelism about the way that these theorists treat the objects of their study—as incapable of being fully figured—and the moment of convergence, which is the act of identification, I think.</summary></entry><entry><title type="html">Application Week</title><link href="http://localhost:4000/qt/application-week/" rel="alternate" type="text/html" title="Application Week" /><published>2020-01-31T00:00:00-05:00</published><updated>2020-01-31T00:00:00-05:00</updated><id>http://localhost:4000/qt/application-week</id><content type="html" xml:base="http://localhost:4000/qt/application-week/">&lt;p&gt;This week I’ve been writing fellowship &amp;amp; grant applications and paper
 proposals. I’ve applied to two places (the DSRG and the Clark) to get
 money to go to LA and see the Wilde typescript. Besides these
 applications, I also submitted an abstract to a special edition of
@@ -556,131 +644,4 @@ way that accepts difference, surprise, strangeness as a minimum for
 interaction.&lt;/li&gt;
   &lt;li&gt;fourth chapter: archiving—do I need a fourth chapter? Maybe this
 can become some kind of epilogue&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Filipa Calado</name></author><summary type="html">This week I’ve been writing fellowship &amp;amp; grant applications and paper proposals. I’ve applied to two places (the DSRG and the Clark) to get money to go to LA and see the Wilde typescript. Besides these applications, I also submitted an abstract to a special edition of Digital Humanities Quarterly on Minimal Computing, on my highlighter tool as a tool that resists the tendency of EdTech to track and quantify student data.</summary></entry><entry><title type="html">Reflections from GC-DRI</title><link href="http://localhost:4000/qt/digital-research-institute/" rel="alternate" type="text/html" title="Reflections from GC-DRI" /><published>2020-01-24T00:00:00+00:00</published><updated>2020-01-24T00:00:00+00:00</updated><id>http://localhost:4000/qt/digital-research-institute</id><content type="html" xml:base="http://localhost:4000/qt/digital-research-institute/">&lt;p&gt;The past few days we have been running our annual &lt;a href=&quot;https://gcdri.commons.gc.cuny.edu/&quot;&gt;Digital Research
-Institute&lt;/a&gt; at the Graduate Center
-Digital Initiatives. I’ve taught three sessions of python, and
-supported sessions on Text Analysis, as well as helping out in Command
-Line, Git/Github, and attended Mapping.&lt;/p&gt;
-
-&lt;p&gt;What I’ve found, or realized once again, is how much my approach
-toward data and method informs my interest in DH.&lt;/p&gt;
-
-&lt;p&gt;As I watched the Text Analysis workshop unfold, the most striking
-realization was the preconceptions and biases we bring into our
-inferences. We might make certain assumptions about analysis. For
-example, in Natural Language Toolkit’s (NLTK) &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;similar()&lt;/code&gt; method, we
-measure what words are similar to any other word. In the analysis
-below, we see what words are associated to “love” across two different
-texts, &lt;em&gt;Moby Dick&lt;/em&gt; (text1) and &lt;em&gt;Sense And Sensibility&lt;/em&gt; (text2).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../images/love-similar.jpg&quot; alt=&quot;Finding words that are similar to &amp;quot;love&amp;quot; in *Moby Dick* and *Sense
-and Sensibility*&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;For Melville, love is associated with the strong natural forces,
-having to do with nature (“sea,” “whale,” “fear”) and men, male bodies
-(“head,” “hand,” “him,” “me”). In Austen, the word love has
-associations with domestic life, family and specific people (“sister,”
-“mother,” “elinor,” “marianne”). Both Melville and Austen share “head”
-and “him,” though Austen also has “heart” (while Melvill has “hand”)
-and “her.” In Austen, affect is associated with “affection,” while
-Melville associates it with “fear.”&lt;/p&gt;
-
-&lt;p&gt;I wonder how our analysis might change when we know the text is
-written by a woman. What kinds of conclusions are we tempted to draw?
-Presumably, that love for Austen is associated with familial
-affection, and for Melville, with awe of nature and man, and that
-these differences indicate gender differences. To be overly reductive:
-women find love in the home, and men out in the world.&lt;/p&gt;
-
-&lt;p&gt;But this desire to draw conclusions isn’t the right approach, or at
-least it’s not the most interesting to me. I am not doing text
-analysis to answer a question. I am doing it to arrive at the
-question, which is a way to keep the literary conversation going (see
-Stephen Ramsay, &lt;em&gt;Algorithmic Criticism&lt;/em&gt;). During the session, Rafa
-said something that reinforced this idea, that “text analysis is just
-playing with lists.”  That idea of play is the space I want to stay
-in.&lt;/p&gt;
-
-&lt;p&gt;In the spirit of play, I’m thinking a lot about how we can try to
-queer or mess around with some of the reductions of “cleaning text.”
-Obviously, the more and more you clean your data, that you simplify
-and regularize strings, the easier it is to see the relationships
-between them (Moretti: “where &lt;em&gt;distance&lt;/em&gt; is a condition of
-&lt;em&gt;knowledge&lt;/em&gt;”). Lemmatizing words, stemming them, removing stopwords
-and punctuation, are ways of reducing the complexity of data in order
-to make comparisons between them and draw conclusions.&lt;/p&gt;
-
-&lt;p&gt;So I’m proposing that we take a closer look at some of the data that
-is often ignored in text analysis, which are “stopwords.” Stopwords
-are text that are commonly used and thought to be semantically void,
-such as articles and prepositions. I compiled a list of stopwords from
-one of my favorite texts,
-&lt;a href=&quot;http://gutenberg.net.au/ebooks02/0200331.txt&quot;&gt;&lt;em&gt;Orlando: A Biography&lt;/em&gt;&lt;/a&gt; by Virginia
-Woolf:&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;['for', 'there', 'be', 'no', 'of', 'his', 'the', 'of', 'the',
-'did', 'to', 'it', 'was', 'in', 'the', 'of', 'at', 'the', 'of', 'a',
-'which', 'from', 'the', 'was', 'the', 'of', 'an', 'and', 'more', 'or',
-'the', 'of', 'for', 'the', 'and', 'a', 'or', 'of', 'the', 'on', 'a',
-'or', 'his', 'had', 'it', 'from', 'the', 'of', 'a', 'who', 'had',
-'up', 'under', 'the', 'in', 'the', 'of', 'and', 'now', 'it', 'in',
-'the', 'which', 'through', 'the', 'of', 'the', 'of', 'the', 'who',
-'had', 'him', 'had', 'in', 'of', 'and', 'and', 'by', 'and', 'they',
-'had', 'of', 'off', 'and', 'them', 'to', 'from', 'the', 'too', 'he',
-'he', 'was', 'only', 'and', 'too', 'to', 'with', 'them', 'in', 'or']
-&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;Anyone who is familiar with &lt;em&gt;Orlando&lt;/em&gt; will notice the cadence of the
-first few sentences in these lines. I’m interested in how these words,
-often overlooked, can give us some insight into the movement of the
-text. Can prepositions help to suggest the energy or tone of a passage?
-How might they be compared to what William James describes in “Stream
-of Thought” as the the “moments of flight” between “images” or “resting places”
-(typically conveyed by nouns and adjectives)? I don’t know if this
-line of thinking will lead anywhere, but it seems like an interesting
-project.&lt;/p&gt;</content><author><name>Filipa Calado</name></author><summary type="html">The past few days we have been running our annual Digital Research Institute at the Graduate Center Digital Initiatives. I’ve taught three sessions of python, and supported sessions on Text Analysis, as well as helping out in Command Line, Git/Github, and attended Mapping.</summary></entry><entry><title type="html">M– asks me some questions</title><link href="http://localhost:4000/qt/m-questions/" rel="alternate" type="text/html" title="M-- asks me some questions" /><published>2019-12-20T00:00:00+00:00</published><updated>2019-12-20T00:00:00+00:00</updated><id>http://localhost:4000/qt/m-questions</id><content type="html" xml:base="http://localhost:4000/qt/m-questions/">&lt;p&gt;Submitted my prospectus to the English office today. It’s been a long
-process—three months, three drafts, two reviews in Dissertation
-Workshop.&lt;/p&gt;
-
-&lt;p&gt;I changed the introduction, going more directly into Queer DH. I also
-narrowed down the focus of the main paragraphs after the intro:
-reading method, Life Writing, Cyborgs, and added a paragraph on
-“Queer,” used in three ways:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Queer Methods (reading practices, relationality—touching but not
-touching)- A reading method, searching for moments of misfitting.&lt;/li&gt;
-  &lt;li&gt;Queer Materiality (queer subjects, digital media)- At the level of
-the body and the computer, looking at the materiality of “mind” and
-“computation”. Close reading the man and the machine. A rubric for
-engagement, human-machine interactions, the cyborg.&lt;/li&gt;
-  &lt;li&gt;Queer Texts (life writing: memoir &amp;amp; journals, manuscripts)- Formal
-experiments of literature that engage experience and cognition as
-embodied processes, modes of perception that are
-enworlded. Figurations of the digital.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I also added a paragraph, “Toward Disability,” which elaborates the
-aesthetic encounter between reader and object, the logical conclusion
-of a queer relationality, my reading method. Here, I concretize my
-interest in “electronic editing schemas that mark elusive
-subjectivities, digital annotation tools that visualize affective
-responses to reading, and archival digitization efforts that animate
-the past.” I also added a paragraph introducting the chapter
-descriptions and tying together the threads around this central
-question: “How do our current digital tools facilitate queer
-encounters with literature?”&lt;/p&gt;
-
-&lt;p&gt;In a meeting last week, M– asked me some questions that helped me to
-whittle down my motives:&lt;/p&gt;
-
-&lt;p&gt;How would I summarize my project in one sentence?&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;About looking at ways that technology disrupts our expectations. How
-it prompts the incommensurable.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;What am I most interested in?&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;The materiality of media, and of human bodies.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Filipa Calado</name></author><summary type="html">Submitted my prospectus to the English office today. It’s been a long process—three months, three drafts, two reviews in Dissertation Workshop.</summary></entry></feed>
+&lt;/ul&gt;</content><author><name>Filipa Calado</name></author><category term="queer media" /><category term="disability" /><category term="Sara Ahmed" /><category term="Matt Kirschenbaum" /><summary type="html">This week I’ve been writing fellowship &amp;amp; grant applications and paper proposals. I’ve applied to two places (the DSRG and the Clark) to get money to go to LA and see the Wilde typescript. Besides these applications, I also submitted an abstract to a special edition of Digital Humanities Quarterly on Minimal Computing, on my highlighter tool as a tool that resists the tendency of EdTech to track and quantify student data.</summary></entry></feed>

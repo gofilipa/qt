@@ -1,4 +1,40 @@
-7.24.2020
+
+###############
+
+### 3.10.2021
+
+Running: 
+
+% bundle exec jekyll serve
+
+Gets the error:
+
+Could not find concurrent-ruby-1.1.7 in any of the sources
+Run `bundle install` to install missing gems.
+
+Running:
+
+% bundle install
+
+Gets the error:
+
+Fetching gem metadata from https://rubygems.org/.........
+zeitwerk-2.4.0 requires ruby version >= 2.4.4, which is incompatible with the
+current version, ruby 2.4.3p205
+
+
+Searched "update ruby" on google, found: https://everydayrails.com/2017/12/18/ruby-upgrade-guide-for-rails.html
+
+Solution: 
+% bundle update --conservative
+% bundle install 
+
+Then it works. 
+
+
+###############
+
+### 7.24.2020
 
 When tried to run `bundle exec Jekyll serve` got the errors:
 

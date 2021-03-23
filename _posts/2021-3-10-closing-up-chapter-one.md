@@ -1,22 +1,21 @@
 ---
 layout: post
 title: Closing Up Chapter One
-categories: [text analysis, tei]
+categories: [text analysis, queer distant reading]
 --- 
 
-Even though I still need to finalize the conclusion (and final example
-of text analysis), I'm deeming the first draft of my first chapter
-complete. It's been nearly a year, and the thing has taken so many
-shapes, texts, interventions in the meantime. Although there's still a
-little more work to do, some research involving actual text analysis
-with Python, the thing is being set aside. It doesn't feel totally
-done -- in fact I feel slightly guilty for setting it aside -- but I
-know that any attempt to finalize it right now will just have to be
-revised once I progress through other chapters and my intervention
-develops. 
+Even though I still need to finalize the conclusion (and add a final
+example of text analysis), I'm deeming the first draft of my first
+chapter complete. It's been nearly a year, and the thing has taken so
+many shapes, texts, interventions in the meantime. Although there's
+still a little more work to do, fleshing out some text analysis with
+Python, the thing is being set aside. It doesn't feel totally done --
+in fact I feel slightly guilty for setting it aside -- but I know that
+any attempt to finalize it right now will just have to be revised once
+I progress through other chapters and my intervention develops.
 
 Below is an abstract for the project, which I recently submitted to
-the ![ACH conference][https://ach2021.ach.org/]:
+the [ACH conference][https://ach2021.ach.org/]:
 
 **Queer Distant Reading: Quantifying Gender in Woolf’s “Orlando”**
 
