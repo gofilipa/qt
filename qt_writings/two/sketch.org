@@ -368,3 +368,116 @@ Scale, 1880-2000"
 
 
 
+** TEI notes
+*** transcr — Representation of Primary Sources
+**** elements
+
+~<add>~ inserted text; @place = "superlinear".
+
+~<addSpan>~ marks a longer piece of text added, which spans more than
+one element. 
+
+~<del>~ deleted text; @rend = "strikethrough".
+
+~<delSpan>~ marks a longer piece of text deleted, which spans more
+than one element.
+
+~<subst>~ groups add & del together into a single intervention. Can
+indicate a the order of revisions using @seq = "1"
+
+~<substJoin>~ a series of possibly fragmented alternations that
+combine into a single intervention.
+
+~<gap>~ material omitted for legibility, @reason = 'deletion'.
+
+~<unclear>~ cannot be determined with confidence, but somewhat
+legible; @reason = 'illegible', 'damage'.
+
+~<restore>~ something deleted is reinstated.
+
+~<supplied>~ text supplied by transcriber for any reason.
+
+~<handnote>~ provides information about each hand distinguished within
+the encoded document. @xml:id included. 
+
+~<handshift>~ marks a shift of hand in writing the document. 
+
+~<mod>~ for generic modification, with no presumption on editor
+interpreting the function of the modification. 
+
+~<transpose>~ a list of two "pointers" where the text is recombined. 
+
+~<choice>~ alternative encoding for single point in text. Allows
+encoder to represent text in 'original' or 'edited' forms, with
+software that can switch from one to the other. 
+
+**** attributes
+
+@rend - how should be rendered, e.g. "superlinear".
+@reason - reason, e.g. "illegible", "damage"
+@resp - responsibility e.g. "#fc"
+@cert - certainty e.g. "low", "medium", "high"
+@seq - indicates order of revisions in ~<subst>~.
+@change - points to ~<listChanges>~ in ~<TEIheader>~.
+
+**** layering of changes
+
+An approach, "genetic editing", is concered mostly with the order of
+composition.
+
+    ~<listChanges>~ groups a list of revision stages as ~<change>~, one
+    for each stage of changes; @order records weather the order of changes
+    is significant. Inside ~<TEIheader><profile><creation>~. 
+
+    ~<change>~ describes a single revision stage; @xml:id identifies that
+    stage. 
+
+    ~<mod>~ @change - defines the modification stage. 
+
+    #+BEGIN_SOURCE
+
+    <profileDesc>
+     <creation>
+      <listChange ordered="true">
+       <change xml:id="ST-1">First stage, written in ink </change>
+       <change xml:id="ST-2">Second stage, with revisions written in the author's hand
+	   using pencil</change>
+       <change xml:id="ST-3">Fixation of the pencilled revisions together with further
+	   revisions in the author's hand using ink</change>
+       <change xml:id="ST-4">Additions in a different hand, probably at a later
+	   stage</change>
+      </listChange>
+     </creation>
+    </profileDesc>
+
+    #+END_SOURCE
+
+When there is a passage that is difficult to read, but can be read at
+least partially, surround it entirely with ~<del>~ or ~<delSpan>~, and
+within those, use ~<unclear>~ or ~<gap>~ as needed.
+
+If ~<del>~ is within another ~<del>~, assume the inner one occurs
+first.
+
+If ~<del>~ contains an ~<add>~ with no @seq, assume ~<add>~ was made
+before ~<del>~. 
+
+If ~<add>~ contains ~<del>~, assume the deltion is made from a
+previously added passage. 
+
+
+
+
+
+
+
+
+
+*** certainty - Certainty, Precision, and Responsibility
+
+~<certainty>~ indicates uncertainty with a tag that may not correctly
+apply, where an element begins or ends, the value of an attribute, the
+content within the element. Not to be used if the element is partially
+readable, then use ~<unclear>~. 
+
+@degree - "1" - a decimal (representing percent) of certainty. 
