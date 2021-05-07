@@ -12,4 +12,115 @@ categorizations. A difficulty with computation points to the
 complexity of gender ontology. So TEI is useful for pointing out the
 assumption that gender is a stable category.
 *** Against stability 
+*** textual scholarship: from restorative to distorting 
+To proceed, I will present a historical trajectory of editorial
+practices that tells a story of textual scholarship. Textual
+scholarship is the study, annotation, and editing of textual
+materials, like manuscripts and books. Within textual scholarship,
+textual criticism focuses specifically on identifying and analyzing
+variants of manuscripts and books with the purpose of selecting an
+ideal witness as the basis for a critical edition. As they further
+idealize the value of authorial intention, theories of textual
+criticism increasingly delimit the purpose and purview of the
+editor. The history of textual criticism thus presents an arc, which
+first tends toward I call the conservative or restorative and then,
+with the advent of digital technology, the productive. With the
+popularization of digital tools, editing becomes less about restoring
+or correcting a text, and more about finding ways to open up the way
+that a text is read and interpreted. My purpose here is to carve a
+critique that emphasizes how the /creative/ capacity functions within
+textual editing paradigm. My reading will therefore look to ways that
+editorial pracitices have opened up a space for the editor's role as a
+content creator rather than recoverer or preserver.
+
+The conservatism of textual editing begins with Ronald B. McKerrow,
+leading twentieth-century Shakespearean scholar. McKerrow proposed an
+influential model for "copy-text" editing, which bases the text (the
+"copy-text") on an early witness that most closely resembles the
+author's original intention. The editor defers to this text for
+editing, favoring the earliest copy-text to settle differences among
+variants. However, this approach created its own resistance among
+textual scholars, who decried the "the tyranny of the copy-text."
+While maintaining reliance on an early copy-text for accidentals
+elements like punctuation and spelling, the Greg-Bowers-Tanselle
+method of textual criticsm empowers editors to judge between numerous
+witnesses the text's more substantive elements[fn:1]. The resulting
+critical edition is eclectic, drawing from multiple sources and
+depending heavily on the editor's judgment to determine authorial
+intention. Fredson Bowers and Thomas Tanselle advanced Walter
+W. Greg's influential work, /The Rationale of Copy-Text/, further
+extending the importance of authorial intention and encouraging
+editors to make careful and deliberate choices about substantive
+elements. Tanselle, in particular, places much value in the editor who
+is able to recongize and manage inevitable textual
+corruption. According to Tanselle, the physical variant is a vessel
+for the text, whose ideal form can only be realized by the editor. He
+makes a distinction between "work" and "text":
+#+BEGIN_QUOTE
+Those who believe that they can analyze a literary work without
+questioning the constitution of a particular written or oral text of
+it are behaving as if the work were directly accessible on paper or in
+sound waves... [In fact,] its medium is neither visual nor
+auditory. The medium of literature is the words (whether already
+existent or newly created) of a language; and arrangements of words
+according to the syntax of some language (along with such aids to
+their interpretation as pauses or punctuation) can exist in the mind,
+whether or not they are reported by voice or in writing. Tanselle
+16-17
+#+END_QUOTE
+Tanselle explains that physical act of inscription involves tools that
+ultimately corrupt the pure ideas or intentions of the
+writer. Therefore, every writer needs an editor that can help her
+realize the ideal form of the text on paper. The editor, as someone
+who is sufficiently distant from the creation and transcription of the
+text, can objectively intimate its true intention. Therefore, the text
+closest to the author’s intention is one scrupulously edited by a
+textual scholar. Put another way, every author requires a thorough and
+knowledgeable editor in order to most closely realize his intentions
+on the page.
+
+Toward the end of the 20th century, textual critics like Jerome McGann
+and Donald F. McKenzie take another perspective on the effect of
+inscription and tools on the textual material. McGann explores how
+editorial practices, rather than aim for some ideal authorial version
+of a text, might open up the ways that a text might be interpreted. He
+builds off McKenzie's ideas about the influence of the social in
+textual criticism. McKenzie's groundbreaking work, /Bibliography and
+the Sociology of Texts/ (1999), studies how the materiality of texts,
+includes sound and electronic media, takes on new forms and meanings
+in in their reprinting and reproduction. McKenzie traces this
+distribution, what he calls the "sociology" of texts, by examining the
+social context that produced each witness, pointing out that "Every
+society rewrites its past, every reader rewrites its texts, and if
+they have any continuing life at all, at some point every printer
+redesigns them” (25). Because the book is never a single object, but a
+product of a number of human agencies and mechanical techniques that
+are historically situated, no witness, regardless of scrupulous
+editing by the critic, can represent an "ideal" version. McGann takes
+these ideas and applies them to a digital editing environment, to
+explore how electronic media might present the different variants of a
+text. He explains that, because textual criticism in print format is
+limited to linear and two dimensional form of the codex, this
+criticism is limited to the same form as its object of
+study. Paper-based editions, according to McGann’s experience, are
+clunky and inadequate, and newer editions often “feed upon and develop
+from [their] own blindness and incapacities” (McGann 2001, 81). By
+contrast, digital editions can be designed for complex, reflexive, and
+ongoing interactions between reader and text. Indeed, “[a]n edition is
+conceivable that might undertake as an essential part of its work a
+regular and disciplined analysis and critique of itself” (McGann 2001,
+81). McGann explains that changing one’s view of the original
+materials through the process of building the edition calls its
+original purpose into question. McGann points out that his work on the
+digital /Rossetti Archive/ brought him to repeatedly reconsider his
+earlier conception and goals, asserting that the archive "seemed more
+and more an instrument for imagining what we didn’t know” (2001,
+82). 
+
+* Footnotes
+
+[fn:1] Greg, Walter W. "The Rationale of Copy-Text," /Studies in
+Bibliography/, Vol. 3, 1950/1951, pp. 19-36; Bowers, Fredson. /Textual
+and Literary Criticism/, 1959; Tanselle, Thomas. /A Rationale of
+Textual Criticism/, 1992.
 

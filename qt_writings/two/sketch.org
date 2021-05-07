@@ -367,6 +367,60 @@ Scale, 1880-2000"
 
 
 
+*** Flanders, "Queer Encoding"
+
+Opening remarks: things to keep in mind:
+- Markup descends from structuralism. Meaning is differential. There
+are no inherent semantics. All meaning is an effect of difference --
+differentiation.
+- The logic of "queering" can help us to dismantle the project of
+"differentiation," or diversity. There are currently two approaches
+for "queerness in computing": first, the Queer OS approach, where we
+disrupt formal systems by imagining alternative ones; second,
+Gaboury's approach, where queerness is built into computing, it is
+inherent in computational logic, queerness as 'self shattering'.
+---> so the question is, is markup queer or do we need to imagine
+otherwise? Does markup contain the potential for queering?
+
+Markup is queerable: TEI encourages and even permits dissent. 
+- "Markup disrupts this insistence on semantics, on a meaningful
+connection between the label, the term that we use for something, and
+the identity of the thing. The tag in markup is just a signifier, and
+its association with a specific meaning or entity is conventional."
+- The meaning really depends on what the consensus is -- unless we use
+it in a private exercise, then it means what we want it to mean. 
+- "Customization in the TEI is a way of expressing dissent" (This is
+what makes it queer, or queerable). It is an act of communication.
+- See the way that entities are tagged in SGA and Michael Field materials
+
+Markup is good at describing discrete information, not so good at
+smooth information. 
+
+Markup offers tools for naming, bounding, for
+containment. ~<listPerson>~ suggests that personhood is static, not
+relational. We make the boundary conditions. We can make them as
+sensitive or respectful as we want. There is room for appropriation. 
+
+The underlying technology is XML, hierarchichal. But this is not
+necessary. It could be otherwise. The layers of technology: TEI >
+Schema > Metaschema (ODD) > Metalanguage (XML). 
+
+How do we operate in the space between compromise and formalism? How
+do we create identities that are servicable and open-ended? 
+- "We can imagine descriptive systems for identity that would operate
+in specific contexts (rather than totalizing contexts) that would give
+us the level of ___ that we need with appropriate places for saying
+'there is also something uncontestable here.'"
+
+The challenge isn't about terms, plurality of terms. It's about our
+relation to descriptive systems, our collective consensus of meaning. 
+
+
+
+
+
+
+
 
 ** TEI notes
 *** transcr — Representation of Primary Sources
@@ -425,6 +479,9 @@ software that can switch from one to the other.
 An approach, "genetic editing", is concered mostly with the order of
 composition.
 
+    ~<listWit>~ witness list, listing the definitions for all the witneses
+    referred to by critical approaches. Contains ~<witness>~ element. 
+
     ~<listChanges>~ groups a list of revision stages as ~<change>~, one
     for each stage of changes; @order records weather the order of changes
     is significant. Inside ~<TEIheader><profile><creation>~. 
@@ -465,13 +522,8 @@ before ~<del>~.
 If ~<add>~ contains ~<del>~, assume the deltion is made from a
 previously added passage. 
 
-
-
-
-
-
-
-
+~<ptr>~ pointer with @target - will point to an element within the
+~<back>~ at the end of the file (like a footnote). 
 
 *** certainty - Certainty, Precision, and Responsibility
 
@@ -481,3 +533,69 @@ content within the element. Not to be used if the element is partially
 readable, then use ~<unclear>~. 
 
 @degree - "1" - a decimal (representing percent) of certainty. 
+
+
+** Editing Approaches
+
+"The history of textual editing is a history of arguments about the
+meaning of terms such as authenticity and authority" (Onge, "Textual
+Editing in the Digital Age")
+
+Critical Edition: a single work over several douments.
+
+Diplomatic edition: a single document. 
+
+New Bibliography: trying for an ideal form
+Sociology of text: looking at text as an event, part of a larger
+social interaction
+Genetic editing: determining the genesis (creative process) of a
+text. 
+
+XML: a formal model that represents texts as an ordered
+hierarchy. Computers operate efficiently on a tree structure. Large
+amounts of data can be managed and transformed in a tree format. 
+
+Cummings: One issue of TEI is when two hierarchichal structures
+conflict or overlap. The encoder may want to mark both
+simultaneously. Especially when paragraphs run over pages. Not 'well
+formed' XML. This mostly happens within the physical structure markup 
+
+
+** what is the intervention I'm trying to make
+
+*Preservation*: 
+If quantitative analysis attempts to reproduce or verify answers/facts
+about literary history, then textual editing attempts to restore or
+preserve textual documentary history. 
+
+*Semantics:*
+As Flanders says, the main thing about TEI is that the tags are
+semantic. The meaning is imputed to them by humans, they do not have
+meaning (beyond differentiation) to a machine. 
+
+** Planning my project:
+
+*** guiding questions
+Research question: why am I doing this?
+
+Goals: where do I want to go?
+
+Non-goals: where do I want to stop?
+
+Methodology: what am I doing? how am I going to do it?
+
+Logistics: who will I do it with? When will I do it?
+
+Audience: for whom is this project meant?
+
+An ending: what form of publication? 
+
+*** customization:
+
+2012 Syd Bauman, Julia Flanders, and the Women Writers Project:
+
+"Constraint is another way of talking about modeling our data:
+describing it, prescribing how it should be structured, making sure
+the parts we need are there, and avoiding unnecessary and excess
+materials" (Bauman, Overview of TEI Customization, 2).  
+
