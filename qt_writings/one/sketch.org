@@ -7,119 +7,107 @@ Paranoid reading methods encourage a reproducible kind of criticism
 that doesn't teach us anything novel about gender. How do we get out
 of the cycle of reproducibility?
 
+*** intro - computing queerness
+The question: how do we deform a text to bring out new forms of
+gender?
+
 *** reading methods
-Introduces paranoid, militant, suspicious reading, which is unified by
-the belief that something hidden will allow us to understand the
-text's meaning. 
+Paranoid reading is about expressing something something hidden. This
+reading style encourages reproducibility in criticism, turning 
+reading into a mechanical practice that searches for what is hidden
+rather than what is on the surface ofthe text.
 
-*** DR's roots in the falsifiable toward automation
-goes into Moretti's early thinking on a falsifiable criticism, which
-was intended to reduce ambiguity and disagreement, and make literary
-criticism more like a science.
+*** DR begins in the falsifiable, toward reproducibility
+Distant reading furthers this reproductive impulse in paranoid
+reading. The paranoia to analyze vast swaths of literary history. 
 
-goes into Da's usage/critique of DR, which extends Moretti's valuation
-of falsifiable.
+Franco Moretti's scholarship has been invested in riding the critic of
+subjectivity, in creating a reproducible (to the point of automating)
+analysis. 
 
-*** ramsay's algorithmic criticism, drucker's speculative computing
-these approaches purposefully employ the computer toward less
-reproducible, and more speculative, results. Ramsay uses the
-objectivity of the machine as an aid in subjective work; Drucker takes
-the more radical approach and uses methods to critique objectivity.
+Reproducibility is so paranoid that even those who disagree with
+quantification think of it as a benchmark (Da).
+
+*** Ramsay and Drucker's speculative methods
+There are critics doing speculative work--using computers as an
+opportunity for critical analysis (Ramsay) and using them to engage
+with data that is reduced or flattened (Drucker).
+
+*** orientation makes the difference: falsifiable v speculative
+The difference between the falsifiable and the speculative--the
+falsifiable creates a reproducible critique.
 
 *** reading for social categories SoRoland
-Moretti, Da, Drucker, and Ramsay are actually all engaging in a kind
-of speculative kind of criticism. The difference is their orientation
-toward their data. Moretti is suspicious, the others are open to being
-struck. 
+Reproducibility blocks out other relation to text, especially aspects
+that are slippery or marginalized, such as gender. There are attempts
+to use DR for this kind of social analysis. SoRoland uses machine
+learning to explore the constructedness of social
+categories--whiteness as a category depends on blackness. They also
+find material speculation in the form of an error, something
+unexpected that yields a new reading. They conclude that machine is an
+apt tool for studying race because it similarly uses highly
+constructed and reductive methodologies.
 
-This is important when we are studying data about marginalized
-subjectivities. See So and Roland on reading race, for example. White
-authorship only coheres against the variance of black authorship. This
-shows how categories are constructed. Using the computer to explore
-the ways that humans encode meaning into social constructs. Finds a
-relationship between sexuality and race.
+*** Underwood: reproducing gender
+Underwood uses statistical modeling to study how words associated with
+gender change over time. The way that Underwood studies gender is by
+associating adjectives with male/female and then making
+predictions. Input leads to output. Underwood's method and approach
+reify the structure of gender as a binary. He approaches gender as
+something to be settled, reproduced and verified. 
 
-I want to take aspects from Ramsay's speculation, Drucker's
-distortion/deconstruction, and SoRoland's orientation to study
-marginalized aspects of gender.
+*** Mandell: deconstructing/multiplying gender
+Mandell criticizes the reduction of gender into the M/F binary, and
+instead explores new taxonomies of gender by seeing how "genre" cuts
+across gender and is part of its constitution. She is deconstructing
+gender by analyzing genre. She argues that computers are ideal
+for "breaking down the strength of the signal", and "computation
+enables complexity". There is a potential for animation of data.
 
-*** Underwood v Mandell's on deconstructing gender
-Underwood shows how studying gender can fall into an oppositional
-structure that Sedgwick describes as paranoia. 
+However, gender is actually more constrained than Mandell allows. It
+constitutes subjectivity, not "highly imitable." We ought to look to
+the ways that gender constitutes subjectivity.
 
-Mandell's study of gender according to performance is exactly
-necessary, but her understanding of gender as something to be mimicked
-overlooks the habitual constitutive nature of it.
-
-*** using the digital to work with gender
-How do we take what SoRoland, Ramsay, Drucker, Mandell are teaching us
-and apply it to studying gender? We need a method that attends to the
-particularity of gender construction, according to queer theory. Like
-So and Roland found blackness defines only against whiteness, we need
-to look at how the female defines against the male.
-
-we have to be careful about the kind of knowledge we are trying to
-create. Not adopting a suspicious attitude, but a speculative one. 
-
-*** orlando close reading
-In close reading the text, we see a relationship between gender and
-the imagination. Let's explore. 
-
---> add criticism on gender in the novel
+*** computation & gender mutually enlightening
+The computer enables complexity, but only under certain
+constraints. As it turns out, computation, like gender, is also
+constrained. Gender and computation can be mutually enlightening,
+seeing constraint in form. Like SoRoland says, computation is good for
+deconstructing, but we can also do this within a speculative mode,
+like Ramsay/Drucker, starting with the error, and moving out. 
 
 
 ** deformance and preformance
-textual scholarship methods which pay attention to materiality of the
-textual transformations (deformance) engage well with queer theory
-about performance of gender (performance).
+This section poses text analysis, where textual data is cleaned,
+structured, and normalized for computation, against the process of
+performativity. Here, I am looking at how these two phenomena--gender
+performance and text analysis--might coincide. I also review some DH
+practices that engage elements of performativity, to highlight some
+critical approaches that use this concept.
 
-*** harnessing human attention
-Distant reading not to expand coverage, but to engage with working
-memory, human attention.
+if gender is a series of acts, of repetitions, so is the process of
+text analysis. 
 
-*** textual scholarship perspective
-critics like mcgann, clement, and bode resist conservative motives for
-textual scholarship and explore discovery, speculation.
+*** NLTK
+Look at the constrained nature of regularization -- briefly!
 
-*** TODO textual scholarship: from restorative to distorting
-history of textual scholarship begins with a conservative trend in
-which the editor takes more control/authority over the text, but
-according to some external belief in what that text is supposed to be
+*** constraints of computational lit crit
+McGann, Bode, Clement: how critics in English studies have approached
+the constraints of computation into their work --- by harnessing
+attention, abstraction, speculation.
 
---> add that THIS IS FUCKIN PARANOID. Spinning the thread from section
-one.
-
-Then, we have people like McGann and Samuels who adopt more
-speculative approaches, aiming for a "quantum poetics" which attends
-to the volatility of meaning contained within textual elements. They
-propose a deformative criticism which distorts textual material
-(rather than "restore" them) in order to spark inquiry. 
-
-*** the tool creates cuts in data
-Bode: our tools/apparati create "cuts" in data. 
-
-*** TODO abstraction and human attention 
-Clement: multiple levels of abstraction in the digital text allows for
-numberable interventions that harness human attention spans
-
---> more directly engage this point in response to Underwood's comment
-on human attention and paranoid reading. 
-
-*** queer performance & citationality
-performative citationality draws from a domain of abjection, the
-outside, to resignify meaning within a regulatory system.
-
-language is productive, not representative
+*** queer performance
+Now, look at gender as a constraint. In performative acts, the
+repudiated terms (like 'queer') is what has the power to disrupt
+existing significatory schemas. 
 
 *** example of performative citation: Irigaray
-we work what's not there into what is there.
+Repetition displaces the logic of the signifying structure. 
 
-*** TODO preserving the unintelligible
+*** preserving the unintelligible
 the key to disrupting without doing violence (making
 representationalist claims) is to never try to keep the unintelligible
 outside, preserve it for continual resignification. 
-
---> conclusion: this is the antithesis to the paranoid position!!! 
 
 
 ** queer distant reading
@@ -137,6 +125,15 @@ forms which perpetuate themselves.
 *** shifting to the speculative
 But we might use deformance and performance to harness reduction
 toward speculative ends.
+
+*** orlando close reading - gender as enabling constraint
+For example, in Orlando, how does gender constrain other elements of
+the text? Not in a way that hides/makes elements latent, but explores
+what is on the surface? Close reading of gender in the novel finds
+that it is related to language and the significatory power of
+language. As Orlando settles into her gender, she is also able to find
+the ability to mean, and the narrator can use experimental strategies
+for telling the story.
 
 *** TODO Man and Woman in Orlando
 Qe are resignifying man and woman to mean differently in Orland by

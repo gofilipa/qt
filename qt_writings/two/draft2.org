@@ -1,18 +1,5 @@
-** Provisionality/Indeterminacy
-
-*** Susan Brown's provisionality
-*** Julia Flander's work on Orlando Project
-*** Pamela Caughie's storm cloud
-
-Caughie --- uses TEI to try to reflect a complex gender ontology. TEI
-in this instance fails her, because there is no way to mark a mid-text
-shift in gender. But this is interesting in itself, because a question
-of the computer languages limitations led to a question about our own
-categorizations. A difficulty with computation points to the
-complexity of gender ontology. So TEI is useful for pointing out the
-assumption that gender is a stable category.
-*** Against stability 
-*** textual scholarship: from restorative to distorting 
+* two
+** textual scholarship: from restorative to distorting 
 To proceed, I will present a historical trajectory of editorial
 practices that tells a story of textual scholarship. Textual
 scholarship is the study, annotation, and editing of textual

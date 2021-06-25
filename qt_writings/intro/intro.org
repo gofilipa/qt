@@ -1,4 +1,4 @@
-* one
+* intro
 
 *** revision notes
 **** chapter summary 
@@ -597,6 +597,205 @@ to inequity is paved with technical fixes” (7). Like the creators of
 UNIX, the creators of such tools and algorithms operate under
 assumptions of white universality that inevitably marks blackness as
 "other."
+
+
+** [floating] reading styles
+*** reading methods: paranoid 
+
+There are several orientations toward reading in literary analysis,
+which determine the trajectory of readerly engagement with
+texts. Taking the name of "paranoid reading," "sympotmatic," and
+"militant reading," is a reading pratice that places importance in
+what a text does not say, or what it cannot say.[fn:2] Descending from
+the critical styles popularized by Karl Marx, Sigmund Freud, and
+Friedrich Nietzsche, this reading practice drives the conviction that
+power structures (such as the economy, the unconscious, and moral
+systems, for example) encode ideology which can be demystified by
+critical analysis and exposure. In literary criticism, Eve Kofosky
+Sedgwick calls this kind of reading /paranoid/ because it searches for
+hidden elements of text that play into a larger narrative about a
+system of oppression. For Sedgwick, this kind of reading places its
+faith in the "drama of exposure," which will, once and for all,
+finally reveal the truth (/Touching Feeling/ 8). Stephen Best and
+Sharon Marcus define "symptomatic reading" in similar terms, as a
+reading style that locates latent patterns or “absences, gaps, and
+ellipses in texts,” to speculate upon “what those absences mean, what
+forces create them, and how they signify the questions that motivate
+the text” (3). Rita Felski describes this orientation as "militant"
+because it grows from an affect of disenchantment between between
+reader and text, where the reader enlists "to expose hidden truths and
+draw out unflattering and counterintuitive meanings that others fail
+to see" (1).
+
+The styles of paranoid, symptomatic, and militant reading are unified
+by a faith in something hidden in the text and in the power of its
+revelation. The preoccupation with depth and absence implies a belief
+in an underlying "correct" interpretation of a text, which will be
+finally unearthed by the careful and astute analysis by the critic. 
+
+In itself, so-called paranoid reading can be an exhilarating and
+rewarding intellectual exercise for literary criticism. The danger of
+this kind of reading, however, is that it encourages a kind of
+criticism that it turns reading into a kind of mechanical practice
+that searches for what is hidden within the text rather than what is
+on its surface. Despite the pleasure and satisfaction of this exercise
+in discovery, the process of analysis inevitably turns rote. It
+discourages attention from the aesthetic qualities on the surface of
+the text, focusing instead on what is hidden or absent. In the
+process, the textual elements are conscripted into participating in
+what Sedgwick calls "a binary mode of thinking," which searches
+beneath, behind, or beyond the text, for what might affirm or deny the
+overarching thesis. Rather than staying with the aesthetics of the
+surface, which contains elements like narration, figuration, and other
+devices, this process creates a formula for literary analysis where
+such elements are implicated into a larger narrative about "repression
+and liberation" (Sedgwick /Touching Feeling/ 12). Then, reading
+becomes a mechanical practice of searching for what is hidden or
+absent which will finally explain some latent meaning in the
+text. This process is replicated as the search for meaning takes on
+other texts, imposing the same structure on new material. As paranoia
+seeks its own affirmation, its nature is to spread, reflecting and
+confirming its own image on every surface. This method, each time,
+will surface something new, but never entirely novel, and with each
+iteration, the "truth" with each revelation has less and less power to
+shock.
+
+Sedgwick rightly "see[s] a cognitive danger in these interpretations:
+a moralisitic tautology that became increasingly incabable of
+recognizing itself as such" (12). This kind of reading will never
+account for a range of responses to text, and particularly, to the
+subjects who perform text analysis. It will never move beyond the
+standardized script of reproducibility.
+
+*** Ramsay and Drucker's speculative methods
+There are literary critics who, eschewing the temptation of the
+paranoia, employ the "distance" of distant reading toward more
+speculative and creative ends. Stephen Ramsay, for example, approaches
+"the rigid, inexorable, uncompromising logic of algorithmic
+transformations" as an opportunity for contemplative analysis
+(32). Rather than solve problems or answer questions definitively, he
+engages in readings that are inescapably partial and
+speculative. Ramsay explains that computational methods enhance
+current reading strategies by harnessing the constraints of
+computation so that new readings may flourish: “The computer
+revolutionizes, not because it proposes an alternative to the basic
+hermeneutical procedure, but because it reimagines that procedure at
+new scales, with new speeds, and among new sets of conditions”
+(31). Activities such as compiling word frequency lists, diagramming
+social relationships, or plotting various textual data not only
+transform texts into new forms from which the critic may speculate,
+but are grounded in inherently critical moves, such as asking
+questions or identifying problems. Ramsay maintains that all critical
+reading is a deformative activity insofar as it prioritizes certain
+textual data such as formal patterns, words, devices over others and
+delivers a new "paratext." For example, in his analysis of Virginia
+Woolf’s novel /The Waves/, Ramsay uses a computer program to generate
+lists of distinctive terms uttered by each of the six speakers in the
+novel. Ramsay emphasizes how this method “puts forth not the
+[original] text, but a new text in which the data has been
+paraphrased, elaborated, selected, truncated, and transduced” (16). To
+say, as a result, that the word frequencies "confirm" or "verify" what
+other critics have argued about the characters assumes that literary
+criticism aims for singular answers. Rather, the point of such an
+exercise is to “unleash the potentialities” of the text, offering
+opportunities for new readings (33). Ramsay point out that “we are not
+trying to solve Woolf. We are trying to ensure that discussion of /The
+Waves/ continues” (15). Here, the goal is a rhetorical exercise:
+#+BEGIN_QUOTE
+The understanding promised us by the critical act arises not from a
+presentation of facts, but from the elaboration of a gestalt, and it
+rightfully includes the vague reference, the conjectured similitude,
+the ironic twist, and the dramatic turn. In the spirit of inventio,
+the critic freely employs the rhetorical acts of conjecture—not so
+that a given matter can be settled, but in order that the matter might
+become richer, deeper, and ever more complicated. 16
+#+END_QUOTE
+Ramsay's method uses speed and efficiency of the machine to reflect
+back upon the critic, to give the critic more material and more
+opportunity for the creativity and speculation that characterizes
+literary analysis. 
+
+Like Ramsay, Johanna Drucker is interested in exploring how the
+computer engages with the critic's analytical process. Drucker,
+however, directs her reading toward deconstructing the objectivity of
+the machine. She is careful to dispell the illusion of "raw data,"
+which comes already reduced to fit whatever parameters required by
+analysis. Because data always undergoes a transformation in order to
+be quantified, its complexity has already been compromised. As a
+result, Drucker argues, quantification techniques such as
+visualizations in graphs and charts inevitably misrepresent the data
+they are meant to convey. To illustrate this process, Drucker presents
+a chart displaying the amount of books published over several
+years. The chart appears to convey production during this specific
+time period, but Drucker explains that publication date is an
+arbitrary metric for capturing production.[fn:8] She brings to the
+surface all the assumptions made in such a metric, for example, the
+limitations of "novel" as a genre and the connotations behind
+"published," which suggests date of appearance, but has no indication
+of composition, editing, review, distribution. Each piece of data
+carries with it the result of many interpretive decisions, that carry
+with them varying degrees of opacity, which are all necessary in order
+to present complex concepts like book production as a bar on a
+chart. Drucker explains: "the graphical presentation of supposedly
+self-evident information... conceals these complexities, and the
+interpretative factors that bring the numerics into being, under a
+guise of graphical legibility" (Drucker par. 23).
+
+To resist the reductions of "data," a term that deceptively connotes
+that which is "given," Drucker proposes thinking of data as "capta,"
+which suggests that which is taken. Drucker's "capta" is deliberately
+creative, turning graphical expressions into expressive metrics:
+components used for measurement, like lines or bars on a graph, break,
+blur, or bleed into one another. Objects are not discrete entities,
+but interact with the other objects in the visualization. For example,
+in a bar graph of book publications by year, she warps the graphical
+metrics, making some of them fuzzy, wider, shorter, in an attempt to
+show that publication as a metric elides other information such as
+composition, editing, purchasing, etc.
+
+[[./img/Drucker.png]]
+
+Emphasizing "capta" is a way of figuring elements that have been
+reduced, resolved, or ignored in traditional quantitative
+analysis. Drucker makes evident what is overlooked or assumed when
+dealing with complex subjects by muddling (rather than simplifying)
+the relationship between elements.
+
+In a certain sense, all of the above critics, Moretti, Da, Ramsay and
+Drucker, rely on speculation in their criticism. First, there is
+significant overlap between distant reading and speculative computing
+in that they visualize or arrange textual data to stimulate
+analysis. Moretti, after all, is using visualization to spark his
+imagination and make conjectures, which he describes as
+"explanations." In the pursuit of the falsifiable, Moretti evacuates
+much of his method's creative potential. The difference is that
+Moretti's Distant Reading uses makes conjectures within a falsifiable
+framework. The difference between them, therefore, has to do with
+their approach or orientation in using quantitative methods. Moretti
+and Da show how computational methods encourage a "falsifiable" method
+of literary criticism that mimics the methodologies of the
+sciences. Alternatively, Ramsay and Drucker demonstrate how these
+methods can also be used toward explicitly speculative ends, and for
+Drucker in particular, with a sensitivity that is critical of
+anlaytical processes.
+
+The role of paranoia in distant reading blocks out other kinds of
+connection to text. Moretti's method stems from a suspicious
+conviction that the archive of literary history has something to
+hide. Rita Felski explains that the desire in a “hermeneutics of
+suspicion,” which she calls a militant mode of reading forecloses
+possibilities of connection and being moved by these texts. Because
+critics are focused on unearthing or discovering secrets in the text,
+it reduces the interaction between reader and text to an intellectual
+activity. Felski wonders what if we allowed ourselves to be marked or
+struck by what we read. Then, rather than just be a cognitive
+activity, reading can become an “embodied mode of attentiveness that
+involves us in acts of sensing, perceiving, feeling, registering, and
+engaging” (176). A critic like Stephen Ramsay, for example, is not
+only willing to be surprised, his critical process is driven by a
+desire for surprise. And Johanna Drucker, although not driven by
+surprise, is searching for ways to disrupt assumptions about handling
+and processing graphical data.
 
 
 ** II: the problem: queerness as untouchable 
@@ -1272,6 +1471,13 @@ Butler on touching?]
 
 
 ** III: solutions: abstraction, formalization, opacity
+Computational methods reveal an aesthetic of formalization as an
+heuristic: just as text is transformed and manipulated into data, so
+queerness is formalized into narrative and figurative
+structures. Approaching queerness and computation as an aesthetic of
+formalization opens a space where the rigidity of computational
+methods and the fluidity of queer subjectivity intersect.
+
 **** TODO add Munoz's point on the ecstatic, rounding out the point
 from the previous section on queerness as being "not yet here" 
 *** TODO refine reparative reading is active
@@ -1715,6 +1921,165 @@ it is alive, infused with spirit. I talk to it; it talks to me. (66-67
 #+END_QUOTE
 
 
+
+
+** Performativity
+*** McGann, Bode, Clement
+Such are the constraints of text analysis. But these are not reasons
+to avoid it. In fact, being aware of the constraints, and working
+within or against them, can be productive and enlightening. Literary
+scholars working in digital methods have long been addressing
+computational constraints, particularly in the field of textual
+scholarship, which offers informative examples of different approaches
+for handling text as data. Specifically, the work of Jerome McGann,
+Katherine Bode, and Tanya Clement offers a way of thinking about data
+that is /performative/ rather than representative. Their methodology
+opens a space for digital humanists in literary studies for how to
+work within (and resist) the constraints of computational processes.
+
+Computational constraints can work with human ones, specifically, the
+limitation of the reader's attention span. Underwood's project to
+grasp a "distant horizon" of literary history is one attempt to
+overcome this deficiency. Underwood sets up an opposition between
+computer and human reading: "Computational analysis... is still quite
+crude compared to human reading; it helps mainly with questions where
+evidence is simply too big to fit in a single reader's memory"
+(xxi). But his focus on the "distant horizon" in actuality blocks out
+the ways that quantitative literary analysis, or distant reading, can
+work in coordination with existing human deficiencies for
+attention. What the computer properly does is arrange a set of
+data--of any size--for human consumption. This involves processing
+datasets into new forms and configurations that can then be scrutinzed
+by a human reader. Quantitative methods can supplement human memory by
+approaching memory, specifically working memory, as a resource, rather
+than a hindrance. The computer can re-arrange text in a way that
+focuses the attention span of the reader on elements previously unseen
+or overlooked.
+
+Jerome McGann's work as a eletronic textual editor is all about using
+computational constraints effectively to harness human attention. In
+transforming literary material into computable form, McGann takes the
+limitations of computation--the fixing and disambiguation of data--and
+turns it into a vehicle for analyzing literary material. He, along
+with Lisa Samuels, describe literary interpretation as "deformance."
+Deformance works by estranging the reader from her familiarity of the
+text, forcing her to encounter the text in a new way. Deformative
+analysis enables a volitality of meaning by subscribing each textual
+to a new configuration. A popular example is reading a poem backward,
+where “the critical and interpretive question is not 'What does the
+poem mean?'  but 'How do we release or expose this poem’s
+possibilities for meaning?'" (2001, 108). A "deformative criticism"
+therefore distorts, disorders, or re-assembles literary texts to
+discover new insights about its formal significance and meaning.
+
+For McGann, the technical experience of editing electronic texts
+enables potentialities of textual meaning. McGann introduces the term
+“quantum poetics” to indicate the potential for meaning contained in
+each element of a literary text. He explains that, “Aesthetic space is
+organized like quantum space, where the ‘identity’ of the elements
+making up the space are perceived to shift and change, even reverse
+themselves, when measures of attention move across discrete quantum
+levels” (McGann 2001, 183). The meaning of particular words in a
+literary text depends upon a multitude of factors, from antecedent
+readings and pathways through that text, to the significance of
+immanent elements such as typography and blank spaces, all of which
+the reader can only process a limited amount. In its potentiality,
+McGann asserts, “Every page, even a blank page... is n-dimensional”
+(2001, 184). Accordingly, digital tools could expose literature’s
+inherent potentialities by carving new paths across familiar texts.
+
+Katherine Bode builds off McGann's ideas about deformance to present a
+/performative/ approach for working with electronic text. Bode
+incorporates insights from Karen Barad's feminist scientific
+interventions in theoretical physics [fn:15] to demonstrate that the
+researcher is always implicated in the object of study. Barad's thesis
+argues that objects in the world do not precede their actions, but
+rather, 'objects' emerge through particular "intra-actions" (Barad
+58). Bode brings Barad's point from theoretical physics to
+computational modelling, explaining that "entities don’t pre-exist
+engagements but are generated in an ongoing or emergent way, by those
+intra-actions" ("Data Beyond Represenation" par. 2). In practice, this
+means that rather than attempt to secure a factual or objective status
+of the data, literary scholars should double down on the material
+processes of using their tools. For Bode, what statisticians value as
+“representativeness” or “reproducibility” isn’t as important (within a
+humanities context) as the materiality of the apparatus. Bode thus
+approaches literary databases in performative terms, as "effects of
+material-semiotic engagements," taking a self-conscious approach
+toward the tools of analysis ("Data Beyond Representation" par. 15).
+
+Bode's research finds that an attention to the "apparatus," or the
+instrument of analysis, is crucial in exploring the performative
+aspects of inquiry. In troubling the subject/object boundary,
+examining "how... we inscribe the boundaries we often presume to
+represent," Bode offers an example with her current project, /Reading
+at the Interface/, which explores the ways that Australian literature
+has been characterized by various "paratexts," or "writings about
+literature." ("Data Beyond Representation par 11.) The project
+explores paratexts across various platforms, including academic
+journals, newspapers, /Goodreads/, and /Librarything/, to see how they
+have represented the boundary of "Australian Literature." Bode looks
+at how the process of data collection makes a distinction between the
+main text and the "paratext," or the metadata like title, author, and
+publication information of the text. She is interested in how her
+inquiry literally creates boundaries of what we understand to be
+"text" and "paratext" in Australian literature. This activity
+indicates, for Bode, how the researcher is intevening with the object
+of analysis. Bode explains that she's "not interested in representing
+discussion of “Australian literature” on Goodreads so much as in
+materialising that platform in ways that cannot be separated from
+[her] categories of analysis" ("Data Beyond Representation"
+par. 19). Drawing from a physics understanding, where "an apparatus is
+a specific material configuration, including of physicists, wherein
+certain properties become determinate, while others are excluded,"
+Bode applies the figure of the apparatus to literary databases (Bode
+"Data Beyond Representation, par. 24). Instead of looking at what is
+being reproduced, she urges literary researchers to look at how human
+engagement has entangled with and created the object of analysis.
+
+Tanya Clement's work with sound incorporates embodied play and
+visualization toward a theory of performative criticism. She uses
+figures and methods from audio analysis to reconsider the ways we
+approach digitized text. In a project on text visualization, she puts
+forth a theory of “play,” in which the critic "performs" the work,
+much like the way that musicians interpret a musical score. She uses
+the audio analysis tool "ProseVis" to visualize the prosodic elements
+of Gertrude Stein's poetry, which creates dynamic spaces for the
+reader to interact with the visualization. Using ProseVis, the reader
+can navigate through the visualizations and manipulate the metrics for
+analysis. Clement makes the analogy between musical scores and
+quantitative visualizations to emphasize how both "create another
+level of abstraction with which the interpreter engages" ("Distant
+Listening par. 7). Clement points out that a musical score "is read,
+but it is also meant to be played, to be spatialized in time and
+embodied by voices (or instruments) within a certain physical and
+hermeneutical context" ("Distant Listening" par. 10). She argues that
+the same is true for visualizations of text: "One 'reads' a
+visualization, but to 'play' the visualisation is to engage the
+spatialized interpretation of that visualisation as an embodied reader
+in a situated context within a specific hermeneutical framework
+("Distant Listening" par. 10). The multiple levels of abstraction for
+containing the "work" of the text multiply the levels of engagement
+with that text. Clement's research takes this key finding from textual
+scholarship and applies it to the critical process.
+
+Human attention spans, rather than represent the hurdle for
+computational methods to overcome, offer an opportunity for
+re-imagining analysis as a process of deforming what we pay attention
+to. As McGann speculates, engaging with texts on a computer could be
+as intimate a process as engaging with them on paper. We might use
+digital tools as “prosthetic extension of that demand for critical
+reflection,” with which the reader is able to feel her way through the
+text (18). The emphasis shifts from viewing text as something stable
+and self-evident to something dynamic and subject to different
+readings. The unique affordance of digital environments, according to
+McGann, Bode and Clement, is that they allow for numerable
+interventions upon the textual object. Like a musical score, which
+"point[s] toward many possible interpretive 'results' or readings,"
+visualizaions can provide a starting ground for different pathways of
+analysis ("Distant Listening" par. 12). The above authors approach
+computation as an opportunity to examine the material specificities of
+eletronic formats.
 
 
 ** Vantanges/Opacity

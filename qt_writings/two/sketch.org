@@ -1,22 +1,23 @@
 * sketch two
 ** chapter overview
-This chapter looks at TEI, the text editing standard. It explores
-encoding with TEI a chapter from Wilde's /Dorian Gray/. To explore
-markup schemas for indicating how the homosexual elements have been
-edited out.
+This chapter looks at TEI, the text editing standard, by encoding two
+chapters from Oscar Wilde's manuscript of /Dorian Gray/. The encoding
+work employs TEI to indicate how the homosexual elements have been
+edited out of this manuscript. 
 
 Questions:
-- What kind of analysis and investigation does the encoded document
-  make possible?
-    - to explore queer desire, sensuality. 
-- What kind of knowledge are we making from it?
-    - In keeping with the momentum from the last chapter, how do we
-      mark queerness in a way that opens up what we think of as queer?
+- /What kind of analysis and investigation does the encoded document
+  make possible?/
+    - to explore queer desire, sensuality that has been obscured. 
+    - to explore the levels of obscurity.
+- /What kind of knowledge are we making from it?/
+    - In keeping with the momentum from the last chapter, which is how
+      do we compute queer, how do we /mark/ queerness? And doing so in
+      a way that opens up what we think of as queer?
 
-*** TODO encode the first chapter
-*** read up on queer encoding
+** on queer encoding
 
-**** [[https://mf.dev.cdhsc.org/home][Dairies of Michael Field]]
+*** Marion Thain et al, eds, [[https://mf.dev.cdhsc.org/home][Dairies of Michael Field]]
 "In addition to their own aesthetic response to events both
 contemporaneous and historically-resonant, it offers powerful
 historical documentation of the construction of a queer identity
@@ -29,9 +30,8 @@ London and Europe, detailing encounters with the leading literary and
 artistic figures of the period, including Oscar Wilde, William Butler
 Yeats, Algernon Charles Swinburne, and Walter Pater" ("Home").
 
-**** Thain, Marion, "[[https://www.tandfonline.com/doi/abs/10.1080/13555502.2016.1156014][Perspective: Digitizing the Diary - Experiments in
-Queer Encoding]]," /Journal of Victorian Culture/, Volume 21, Issue 2, 1
-June 2016, Pages 226–241. 
+*** Thain, Marion, "[[https://www.tandfonline.com/doi/abs/10.1080/13555502.2016.1156014][Perspective: Digitizing the Diary - Experimentsin Queer Encoding]]," /Journal of Victorian Culture/, Volume 21, Issue
+2, 1 June 2016, Pages 226–241.
 
 TEI can encode queer identity construction: 
 
@@ -76,16 +76,13 @@ objectivity – but one that I hope might help promote a
 self-reflexivity about interpretative practice in addition to making
 possible new types of analysis" (240-241).
 
-**** queer encoding lectures (flanders)
-https://sites.temple.edu/tudsc/2017/05/22/now-available-online-keynote-presentations-from-queer-encoding/
-**** Caughie & Meyer's "Storm Clouds on the Horizon"
+*** Caughie, Meyer, "Storm Clouds
+
 "Feminist digital humanities is no longer focused primarily on
 recovering and preserving works by women authors. Feminist scholars
 are currently engaged in changing information design and data
 visualizations... Can ontologies ever capture the complex,
 multi-layered, dynamic nature of gender identities?" (230).
-
-[[http://www.lilielbe.org/][Lili Elbe Digital Archive]]
 
 "Initially co-editors Pamela Caughie and Sabine Meyer conceived the
 project primarily as an act of recovery, preservation, and
@@ -160,7 +157,8 @@ we revise our concept of what the end result is: the linked data
 network visualization must capture a temporal process and not a
 snapshot of a static moment or even series of moment" (238).
 
-**** Elbe, Lili. Man into Woman: A Comparative Scholarly Edition, 
+*** Caughie, Pamela et al eds., [[http://www.lilielbe.org/][Lili Elbe Digital Archive]]
+*** Elbe, Lili. Man into Woman: A Comparative Scholarly Edition, 
 edited by Pamela L. Caughie, and Sabine Meyer, Bloomsbury Publishing
 Plc, 2020. ProQuest Ebook Central,
 http://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=6026407.
@@ -185,14 +183,67 @@ have not as yet been observed.” 104 Sexual identifi cation becomes an
 ongoing task in which categorical distinctions are only provisional"
 (19).
 
-**** Crompton/Schwartz's Lesbian Historiography
+*** Flanders, "Queer Encoding"
 
-** to read eventually
-see Bode on Close & Distant reading, who talks about a new object for
-study, the scholarly edition. 
+Opening remarks: things to keep in mind:
+- Markup descends from structuralism. Meaning is differential. There
+are no inherent semantics. All meaning is an effect of difference --
+differentiation.
+- The logic of "queering" can help us to dismantle the project of
+"differentiation," or diversity. There are currently two approaches
+for "queerness in computing": first, the Queer OS approach, where we
+disrupt formal systems by imagining alternative ones; second,
+Gaboury's approach, where queerness is built into computing, it is
+inherent in computational logic, queerness as 'self shattering'.
+---> so the question is, is markup queer or do we need to imagine
+otherwise? Does markup contain the potential for queering?
 
-From Flander's CV: https://juliaflanders.wordpress.com/about/cv/
-**** "Building Otherwise," /Bodies of Information/,
+Markup is queerable: TEI encourages and even permits dissent. 
+- "Markup disrupts this insistence on semantics, on a meaningful
+connection between the label, the term that we use for something, and
+the identity of the thing. The tag in markup is just a signifier, and
+its association with a specific meaning or entity is conventional."
+- The meaning really depends on what the consensus is -- unless we use
+it in a private exercise, then it means what we want it to mean. 
+- "Customization in the TEI is a way of expressing dissent" (This is
+what makes it queer, or queerable). It is an act of communication.
+- See the way that entities are tagged in SGA and Michael Field materials
+
+Markup is good at describing discrete information, not so good at
+smooth information. 
+
+Markup offers tools for naming, bounding, for
+containment. ~<listPerson>~ suggests that personhood is static, not
+relational. We make the boundary conditions. We can make them as
+sensitive or respectful as we want. There is room for appropriation. 
+
+The underlying technology is XML, hierarchichal. But this is not
+necessary. It could be otherwise. The layers of technology: TEI >
+Schema > Metaschema (ODD) > Metalanguage (XML). 
+
+How do we operate in the space between compromise and formalism? How
+do we create identities that are servicable and open-ended? 
+- "We can imagine descriptive systems for identity that would operate
+in specific contexts (rather than totalizing contexts) that would give
+us the level of ___ that we need with appropriate places for saying
+'there is also something uncontestable here.'"
+
+The challenge isn't about terms, plurality of terms. It's about our
+relation to descriptive systems, our collective consensus of meaning. 
+
+*** Bauman & Flanders
+
+2012 Syd Bauman, Julia Flanders, and the Women Writers Project:
+
+"Constraint is another way of talking about modeling our data:
+describing it, prescribing how it should be structured, making sure
+the parts we need are there, and avoiding unnecessary and excess
+materials" (Bauman, Overview of TEI Customization, 2). 
+
+
+** on technology / queerness
+
+*** Flanders, "Building Otherwise," /Bodies of Information/,
 https://dhdebates.gc.cuny.edu/read/untitled-4e08b137-aec5-49a4-83c0-38258425f145/section/f627035f-5fd0-4bd6-ad74-361374ed9a2a#ch16 
 
 "What this discussion suggests is that the project of remaking tools
@@ -204,7 +255,7 @@ processes. When a system like Unix, or a language like COBOL, or a
 resource like the Women Writers Project is created, what does it “give
 off” in terms of expertise, power relations, installed systems and
 dependencies, professional advancement or subordination, knowledge and
-empowerment—and for whom? The successful processes portrayed at Design
+empowerment—-and for whom? The successful processes portrayed at Design
 for Diversity were inclusive in very significant ways, but in
 particular their principle of diversity had to do with a genuine
 diversification of the allocation of power: the power to say what is
@@ -218,28 +269,7 @@ what specific stipulations—was being shaped by diversified
 constituencies, operating under radically different assumptions about
 whose needs matter" (par. 30)
 
-**** “Writing, Reception, Intertextuality: Networking Women’s Writing,”
-  co-authored with Sarah Connell. Journal of Medieval and Early Modern
-  Studies 50.1 (January 2020):
-  161–180. https://doi.org/10.1215/10829636-7986649.
-**** “From Modeling to Interpretation to Spielraum,” keynote lecture at
-  DHd conference, University of Paderborn, March 9, 2020. Online at
-  https://www.youtube.com/watch?v=H7ULStTL-bQ.
-**** “Art, Data, and Formalism,” (Digital) Humanities Revisited,
-  Herrenhausen Palace, Hanover,
-  December 2013.    http://www.volkswagenstiftung.de/veranstaltungen/veranstaltungskalender/veranstaltungsseite/digitalhumanities/digital-humanities-2013-selected-audio-recordings.html  
-**** "A Matter of Scale,” keynote lecture co-presented with Matthew
-  Jockers at “Boston-Area Days of DH 2013.” Northeastern University,
-  March 2013. Available
-  online. http://digitalcommons.unl.edu/englishfacpubs/106 
-**** “TEI and Scholarship,” keynote lecture at the annual conference of
-  the Text Encoding Initiative Consortium. Texas A&M University,
-  November 2012., https://juliaflanders.wordpress.com/2013/08/31/tei-and-scholarship-in-the-crlowud/  
-
-**** http://v-machine.org/ 
-
-** reading notes
-*** Thain on Friedman's /Before Queer Theory/
+*** Thain, Friedman's /Before Queer Theory/ Book Review
 https://lareviewofbooks.org/article/theorizing-queer-before-queer-theory/ 
 
 "It was through sexology’s taxonomization of queer desire that it
@@ -324,11 +354,11 @@ category of woman to mean something consistent through time (s.a. Fuss
 "One way to analyze the various attributes accorded to a gender
 that is reconstructed throughout history is to search through large
 amounts of data using that very binary category–that is, investigating
-“the origins and consequences” of the social category of the gender
+'the origins and consequences' of the social category of the gender
 binary and its surrounding practices" (8).
 
-"Gender analysis–determining what has been counted as feminine and
-masculine through time–can go hand in hand with quantitative analysis"
+"Gender analysis–-determining what has been counted as feminine and
+masculine through time–-can go hand in hand with quantitative analysis"
 (9).
 
 "One particular feature of doing history at scale is that it allows
@@ -336,7 +366,7 @@ taking more and more ephemera, into account. As Bode puts it,
 "quantitative methods allow us to explore aspects of the literary
 field, especially trends and patterns, broad developments and
 directions, that would otherwise remain unrepresented and
-unrepresentable." (Bode, Reading by Numbers,13.)  It may be that
+unrepresentable." (Bode, Reading by Numbers, 13.)  It may be that
 numbers, if understood as not transparently readable, can provide
 another method for 'giving voice'." (12)
 
@@ -367,59 +397,32 @@ Scale, 1880-2000"
 
 
 
-*** Flanders, "Queer Encoding"
+** to read eventually
+**** Bode on Close & Distant reading
+who talks about a new object for
+study, the scholarly edition. 
 
-Opening remarks: things to keep in mind:
-- Markup descends from structuralism. Meaning is differential. There
-are no inherent semantics. All meaning is an effect of difference --
-differentiation.
-- The logic of "queering" can help us to dismantle the project of
-"differentiation," or diversity. There are currently two approaches
-for "queerness in computing": first, the Queer OS approach, where we
-disrupt formal systems by imagining alternative ones; second,
-Gaboury's approach, where queerness is built into computing, it is
-inherent in computational logic, queerness as 'self shattering'.
----> so the question is, is markup queer or do we need to imagine
-otherwise? Does markup contain the potential for queering?
+**** From Flander's CV: https://juliaflanders.wordpress.com/about/cv/
+**** “Writing, Reception, Intertextuality: Networking Women’s Writing,”
+  co-authored with Sarah Connell. Journal of Medieval and Early Modern
+  Studies 50.1 (January 2020):
+  161–180. https://doi.org/10.1215/10829636-7986649.
+**** “From Modeling to Interpretation to Spielraum,” keynote lecture at
+  DHd conference, University of Paderborn, March 9, 2020. Online at
+  https://www.youtube.com/watch?v=H7ULStTL-bQ.
+**** “Art, Data, and Formalism,” (Digital) Humanities Revisited,
+  Herrenhausen Palace, Hanover,
+  December 2013.    http://www.volkswagenstiftung.de/veranstaltungen/veranstaltungskalender/veranstaltungsseite/digitalhumanities/digital-humanities-2013-selected-audio-recordings.html  
+**** "A Matter of Scale,” keynote lecture co-presented with Matthew
+  Jockers at “Boston-Area Days of DH 2013.” Northeastern University,
+  March 2013. Available
+  online. http://digitalcommons.unl.edu/englishfacpubs/106 
+**** “TEI and Scholarship,” keynote lecture at the annual conference of
+  the Text Encoding Initiative Consortium. Texas A&M University,
+  November 2012., https://juliaflanders.wordpress.com/2013/08/31/tei-and-scholarship-in-the-crlowud/  
 
-Markup is queerable: TEI encourages and even permits dissent. 
-- "Markup disrupts this insistence on semantics, on a meaningful
-connection between the label, the term that we use for something, and
-the identity of the thing. The tag in markup is just a signifier, and
-its association with a specific meaning or entity is conventional."
-- The meaning really depends on what the consensus is -- unless we use
-it in a private exercise, then it means what we want it to mean. 
-- "Customization in the TEI is a way of expressing dissent" (This is
-what makes it queer, or queerable). It is an act of communication.
-- See the way that entities are tagged in SGA and Michael Field materials
-
-Markup is good at describing discrete information, not so good at
-smooth information. 
-
-Markup offers tools for naming, bounding, for
-containment. ~<listPerson>~ suggests that personhood is static, not
-relational. We make the boundary conditions. We can make them as
-sensitive or respectful as we want. There is room for appropriation. 
-
-The underlying technology is XML, hierarchichal. But this is not
-necessary. It could be otherwise. The layers of technology: TEI >
-Schema > Metaschema (ODD) > Metalanguage (XML). 
-
-How do we operate in the space between compromise and formalism? How
-do we create identities that are servicable and open-ended? 
-- "We can imagine descriptive systems for identity that would operate
-in specific contexts (rather than totalizing contexts) that would give
-us the level of ___ that we need with appropriate places for saying
-'there is also something uncontestable here.'"
-
-The challenge isn't about terms, plurality of terms. It's about our
-relation to descriptive systems, our collective consensus of meaning. 
-
-
-
-
-
-
+**** http://v-machine.org/
+**** Crompton/Schwartz's Lesbian Historiography
 
 
 ** TEI notes
@@ -534,6 +537,30 @@ readable, then use ~<unclear>~.
 
 @degree - "1" - a decimal (representing percent) of certainty. 
 
+*** textcrit - Critical Apparatus
+
+~<app>~ (apparatus entry) contains one entry in a critical apparatus,
+with an optional lemma and usually one or more readings or notes on
+the relevant passage.
+
+
+Each app element usually comprises one or more readings, which in turn
+are encoded using the rdg or other elements, as described in the next
+section.
+
+Any document containing app elements requires a variantEncoding
+declaration in the encodingDesc element of its TEI header, thus:
+
+~<variantEncoding>~ (variant encoding) declares the method used to encode text-critical variants.
+@ method - indicates which method is used to encode the apparatus of variants.
+@ location - indicates whether the apparatus appears within the
+running text or external to it.
+
+~<lem>~ (lemma) contains the lemma, or base text, of a textual variation.
+
+~<rdg>~ (reading) contains a single reading within a textual
+variation.
+
 
 ** Editing Approaches
 
@@ -546,8 +573,10 @@ Critical Edition: a single work over several douments.
 Diplomatic edition: a single document. 
 
 New Bibliography: trying for an ideal form
+
 Sociology of text: looking at text as an event, part of a larger
 social interaction
+
 Genetic editing: determining the genesis (creative process) of a
 text. 
 
@@ -573,29 +602,76 @@ As Flanders says, the main thing about TEI is that the tags are
 semantic. The meaning is imputed to them by humans, they do not have
 meaning (beyond differentiation) to a machine. 
 
+*Containment*
+XML as a technology for bounding text within elements
+
+*Hierarchy*
+XML as a technology for subscribing elements to an organized hierarchy
+
+
 ** Planning my project:
 
 *** guiding questions
 Research question: why am I doing this?
 
+ To explore XML/TEI technology's /constraint/ which can be leveraged
+ in the study of "queerness" in Wilde's revision process.
+
+ There is some /constraint/ about the way that TEI marks data. It
+ might be in the hierarchical nature of XML, the rules of containment
+ (no overlapping), the decision about what is encoded and the semantic
+ meaning of the tags. I need to find this thing which constrains TEI,
+ and also work through and against it to queer TEI.
+
 Goals: where do I want to go?
+
+ To create a genetic critical edition for the first two chapters of
+ the text in the manuscript. Rather than digitize the whole thing, I
+ want to create an example of this kind of queer encoding.
 
 Non-goals: where do I want to stop?
 
+ I will stop encoding once I have marked up the first two chapters of
+ the manuscript, and have written about how my encoding activity
+ engages a queer theory.
+
 Methodology: what am I doing? how am I going to do it?
+
+ First, I will encode the manuscript text and revisions. For this, I
+ will use the oXygen editor. Once encoding is concluded, I will
+ publish my work in an online format.
+
+ Then, I will turn to queer theory to examine what kind of theory
+ applies to the process of encoding. I will also read and re-read my
+ secondary materials on both queer encoding and scholarship on this
+ novel.
+
+ Finally, I will write up my argument and insights. 
 
 Logistics: who will I do it with? When will I do it?
 
+ I will do this alone. 
+ The next four weeks are for encoding and re-familiarizing myself with
+ the scholarship on OW. 
+ Then, I will write up my work while in Portugal. 
+ Having a first draft done by August 9, then revising for submission
+ to Binary Modernisms on August 31.
+
 Audience: for whom is this project meant?
+
+ People who are just getting started with encoding. To see how an
+ encoding project is done. 
 
 An ending: what form of publication? 
 
-*** customization:
+ A chapter of my dissertation on the process and results within a
+ queer theory framework, and a digital resource that is a prototype
+ for a longer edition. 
 
-2012 Syd Bauman, Julia Flanders, and the Women Writers Project:
+*** my customization
 
-"Constraint is another way of talking about modeling our data:
-describing it, prescribing how it should be structured, making sure
-the parts we need are there, and avoiding unnecessary and excess
-materials" (Bauman, Overview of TEI Customization, 2).  
+Creating attributes for the <del> and <add> elements, to mark the
+number of strokes and the theme of the content that is removed/added. 
+
+   <del strokes="1" theme="erotic">
 
