@@ -1,47 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model
+<!--<?xml-model
 href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
-?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+?>-->
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 tei_ms.odd" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>The Picture of Dorian Gray</title>
          </titleStmt>
          <publicationStmt>
-            <p>Published in periodical format in 1890 (DG90) and as print book in 1891 (DG91). Contains pre-published materials in Morgan Manuscript (MS) and Clark Typescript (TS).</p>
+            <p>Morgan Library Manuscript. Original manuscript version in thirteen chapters. Revised for publication in periodical format in 1890 (DG90) and as print book in 1891 (DG91). Contains pre-published materials in Morgan Manuscript (MS) and Clark Typescript (TS).</p>
          </publicationStmt>
          <sourceDesc>
-            <listWit>
-               <witness xml:id="MS">
-                  Wilde, Oscar, <emph>The Picture of Dorian Gray</emph> Morgan Library Manuscript
-                  <origDate>1889-90</origDate>
-                  Pierpont Morgan Library Dept. of Literary and Historical Manuscripts.
-                  264 [i.e., 262] leaves.
-                  Original version in thirteen chapters as published in Lippincott's Monthly Magazine for July, 1890.
-               </witness>
-               <witness xml:id="TS">
-                  Wilde, Oscar, <emph>The Picture of Dorian Gray</emph> Clark Library Typescript
-                  <origDate>1890</origDate>
-                  William Andrews Clark Memorial Library - UCLA, Oscar Wilde and his Literary Circle Collection: Manuscripts and Miscellaneous Materials. 
-                  Typescript. 231 leaves. Bound in full gray French levant morocco, gilt tooled. Boxed in full gray French levant morocco. Original typescript with corrections and emendations in Wilde's hand. 
-               </witness>
-               <witness xml:id="DG90">
-                  Wilde, Oscar, "The Picture of Dorian Gray, <emph>Lippincott's Monthly Magazine</emph>
-                  Lippincott's Monthly Magazine: a Popular Journal of General Literature, Philadelphia: J. B. Lippincott and co., v. 46 July-December 1890.
-                  100 p.
-                  <origDate>1890</origDate>
-               </witness>
-               <witness xml:id="DG91">
-                  Wilde, Oscar. <emph>The Picture of Dorian Gray: a complete novel</emph> Pierpont Morgan Library Dept. of Printed Books
-                  London : Ward, Lock, and Co. ; Philadelphia : J. B. Lippincott Company.
-                  100 p.
-               </witness>
-            </listWit>
+            <msDesc>
+               <msIdentifier>
+                  <settlement>New York, NY</settlement>
+                  <repository>Pierpont Morgan Library Dept. of Literary and Historical Manuscripts</repository>
+               </msIdentifier>
+               <physDesc>
+                  <objectDesc>
+                     <p>264 [i.e., 262] leaves.</p>
+                  </objectDesc>
+               </physDesc>
+            </msDesc>
          </sourceDesc>
       </fileDesc>
   </teiHeader>
-  <text>
+   <text>
       <body>
       <div type="chapter" n="1">
          <head>Chapter 1</head>
@@ -49,35 +35,35 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
             The studio was filled with the rich odour of roses, and when the light summer wind 
             stirred amidst the trees of the garden there came through the open door the heavy 
             scent of the licac, or the more delicate perfume of the 
-            <app>
-               <rdg wit="#MS">
+            
+               
                   <add place="above">pink</add>
-               </rdg>
-            </app>
+               
+            
             flowering thorn.
          </p>
          <p>
             From the corner of the divan of Persian saddle-boys on which he was lying, smoking, as
-            <app>
-               <rdg wit="#MS">
+            
+               
                   <mod type="subst">
-                     <del rend="strikethrough">
+                     <del rend="strikethrough" strokes="1">
                         was his custom,
                      </del>
                      <add place="above">
                         usual
                      </add>
                   </mod>
-               </rdg>
-            </app>
+               
+            
             innumerable cigarettes, Lord Henry Wotton could just catch the 
-            <app>
-               <rdg wit="#MS">
+            
+               
                   <del rend="strikethrough">
                      <gap reason="illegible"></gap>
                   </del>
-               </rdg>
-            </app>
+               
+            
             gleam of the honey-sweet and hony-colored blossoms of the laburnum, that was hanging 
             from the tremulous branches that seemed hardly able to bear th burden of a beauty so 
             flame-like as theirs: and, now and then, the fantastic shadows of birds in flight 
@@ -87,36 +73,36 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
             the laws of swiftness and motion. The sudden murmur of the bees shouldering their way 
             through the long unmown grass or circling with monotonous insistance round the 
             black-crocketed spines of  the early 
-            <app>
-               <rdg wit="#MS">
+            
+               
                   <add place="above">
                      June
                   </add>
-               </rdg>
-            </app>
+               
+            
             holly-hocks, seemed to make the stillness 
             more oppressive,
-            <app>
-               <rdg wit="#MS">
+            
+               
                   <del rend="strikethrough">
                      <gap reason="illegible"></gap>
                   </del>
-               </rdg>
-            </app>
+               
+            
             and the dim roar of London was like the bourdon note of
-            <app>
-               <rdg wit="#MS">
+            
+               
                   <add place="above">
                      a distant
                   </add>
-               </rdg>
-            </app>
+               
+            
             organ.
          </p>
          <p>
             In the center of the room,
-            <app>
-               <rdg wit="#MS">
+            
+               
                   <mod type="subst">
                      <del rend="strikethrough">
                         <gap reason="illegible"></gap>
@@ -125,74 +111,74 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                         clamped to
                      </add>
                   </mod>
-               </rdg>
-            </app>
+               
+            
             an upbright easel,
-            <app>
-               <rdg wit="#MS">
+            
+               
                   <add place="above">
                      was standing
                   </add>
-               </rdg>
-            </app>
+               
+            
             the full-length portrait of a yound man of extraodinary personal beauty, and in front 
             of it, some little distance away, 
-            <app>
-               <rdg wit="#MS">
+            
+               
                   <del rend="strikethrough">
                      <gap reason="illegible"></gap>
                   </del>
-               </rdg>
-            </app>
+               
+            
             sat the 
-            <app>
-               <rdg wit="#MS">
+            
+               
                   <mod type="subst">
                      <del rend="strikethrough">painter</del>
                      <add place="above">artist himself,</add>
                   </mod>
-               </rdg>
-            </app>
+               
+            
             Basil Hallward, whose sudden disappearance some years ago caused
-            <app>
-               <rdg wit="#MS">
+            
+               
                   <add place="above">at the time</add>
-               </rdg>
-            </app>
+               
+            
             such
-            <app>
-               <rdg wit="#MS">
+            
+               
                   <add place="above">public</add>
-               </rdg>
-            </app>
+               
+            
             excitement, and
-            <app>
-               <rdg wit="#MS">
+            
+               
                   <mod type="subst">
                      <del rend="strikethrough">
                         <gap reason="illegible"></gap>
                      </del>
                      <add place="above">gave rise to so many strange</add>
                   </mod>
-               </rdg>
-            </app>
+               
+            
             conjectures.
          </p>
          <p>
             As he looked at the gracious and comely form he had so skillfully mirrored in his art,
             a 
-            <app>
-               <rdg wit="#MS">
+            
+               
                   <del>
                      <unclear reason="illegible">delicate</unclear>
                   </del>
-               </rdg>
-            </app>
+               
+            
             smile of pleasure passed across his face, and seemed about to linger there. But he 
             suddenly  started up, and closing his eyes placed his fingers upon the lids, as though 
             he sought to imprison within his brain some
-            <app>
-               <rdg wit="#MS">
+            
+               
                   <mod type="subst">
                      <del rend="strikethrough">
                         <gap reason="illegible"></gap>
@@ -202,19 +188,19 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                      </del>
                      <add place="above">curious</add>
                   </mod>
-               </rdg>
-            </app>
+               
+            
             dream from which he feared he might awake.
          </p>
          <p>
             <quote>"It is your best work, Basil, the best thing you have ever done,"</quote>
             said Lord Henry languidly. 
             <quote>"You must certainly sent it
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <add place="above">next year</add>
-                  </rdg>
-               </app>
+                  
+               
                to the Grosvenor. The Academy is too large, and too vulgar. The Grosvenor is the only 
                place." 
             </quote>
@@ -224,16 +210,16 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                "I don't think I will send it will send it any where," 
             </quote>
             he answered, tossing his head back in that odd way that used to make
-            <app>
-               <rdg wit="#MS">
+            
+               
                   <mod type="subst">
                      <del>
                         <gap reason="illegible"></gap>
                      </del>
                      <add place="above">his friends</add>
                   </mod>
-               </rdg>
-            </app>
+               
+            
             laugh at him in Oxford.
             <quote>
                "No: I won't send it anywhere. And yet, you are quite right about it. It is my best
@@ -243,44 +229,43 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
          <p>
             Lord Henry elevated his eyebrows, and looked at him in amazement through the thin blue 
             wreathes of smoke that curled
-            <app>
-               <rdg wit="MS">
+
                   <mod type="subst">
                      <del>
                         <gap reason="illegible"></gap>
                      </del>
                      <add place="above">up in such fanciful whorls</add>
                   </mod>
-               </rdg>
-            </app>
+               
+            
             from his heavy opium-tainted cigarette.
             <quote>
                "Not send it anywhere? My dear fellow, why? Have you got any reason? What odd chaps 
                you painters are! You do any thing in the world to gain a reputation. And soon as 
                you have
-               <app>
-                  <rdg wit="MS">
+               
+                  
                      <mod type="subst">
                         <del>it</del>
                         <add place="above">one</add>
                      </mod>
-                  </rdg>
-               </app>
+                  
+               
                you seem to want to throw it away. It is silly of you, for there is only one thing 
                in the world worse than being talked about, and that is not being talked about. A 
                portrait like this would set you far above all the young men in England, and make 
                the old men
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <add place="above">quite</add>
-                  </rdg>
-               </app>
+                  
+               
                jealous, if old men are 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <add place="above">even</add>
-                  </rdg>
-               </app>
+                  
+               
                capable of any emotion."
             </quote>
          </p>
@@ -297,62 +282,62 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
          <p>
             <quote>
                "Too much of yourself in it! Upon my word,
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <add place="above">Basil,</add>
-                  </rdg>
-               </app>
+                  
+               
                I didn't know you were so vain, and I really can't see any resemblance between you 
                with your rugged strong face, and your coal-black hair, and this young Adonis, who 
                looks as if he was made of ivory and rose-leaves. Why, my dear Basil, he is a 
                narcissus! And you–well of course you have an intellectual expression, and all that. 
                But Beauty, real Beauty, 
-               <app>
-                  <rdg wit="MS">
+               
+                  
                      <mod type="subst">
                         <del>only begins</del>
                         <add place="above">ends</add>
                      </mod>
-                  </rdg>
-               </app>
+                  
+               
                where an intellectual expression begins. Intellect is in itself an exaggeration, and 
                destroys the harmony of any face. The moment one 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <del>
                         <gap reason="illegible"></gap>
                      </del>
-                  </rdg>
-               </app>
+                  
+               
                sits down to think, one becomes all nose, or all forehead, or something horrid. Look 
                at the successful men in any
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <mod type="subst">
                         <del>
                            <gap reason="illegible"></gap>
                         </del>
                         <add>of the</add>
                      </mod>
-                  </rdg>
-               </app>
+                  
+               
                learned professions. How perfectly hideous they are! Except of course in the Church. 
                But then in the Church they don't think. A Bishop keeps on saying at the age of eighty 
                what he was told to say when he was a boy of eighteen, and consequently he
-               <app>
-                  <rdg wit="MS">
+               
+                  
                      <add place="above">always</add>
-                  </rdg>
-               </app>
+                  
+               
                looks absolutely delightful. Your mysterious young friend, whose name you have never 
                told me but whose picture really fascinates me, never thinks. I feel quite sure of 
                that. He is a brainless, beautiful thing, who should be always here in winter when 
                we have no flowers to look at, and 
-               <app>
-                  <rdg wit="MS">
+               
+                  
                      <add place="above">always here</add>
-                  </rdg>
-               </app>
+                  
+               
                in summer when we want something to chill our intelligences. Don't flatter yourself, 
                Basil. You are not in the least like him." 
             </quote>
@@ -363,41 +348,41 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                well. Indeed I should be sorry to look like him. You shrug your shoulders? I am 
                telling you the truth. There is a fatality about all physical as well as 
                intellectual distinction, the sort of fatality that seems to dog
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <mod type="subst">
                         <del>
                            <gap reason="illegible"></gap>
                         </del>
                         <add>through history the faltering</add>
                      </mod>
-                  </rdg>
-               </app>
+                  
+               
                steps of Kings. It is better not to be different from one's fellows. The ugly and 
                the stupid have the best of it in this world. They can sit quietly, and gape at the 
                play. If they know nothing of victory, they are
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <mod type="subst">
                         <del>
                            <gap reason="illegible"></gap>
                         </del>
                         <add>at least spared</add>
                      </mod>
-                  </rdg>
-               </app>
+                  
+               
                the knowledge of defeat. They live as we all should live, undisturbed, indifferent, 
                and without disquiet. They neither bring ruin upon ohers, nor ever receive it from 
                alien hands. Your rank and wealth, Harry; my brains, such as they are, my fame, 
                whatever it may be worth; Dorian Grey's 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <mod type="subst">
                         <del>beauty</del>
                         <add>good looks</add>
                      </mod>
-                  </rdg>
-               </app>
+                  
+               
                we will all suffer for what the Gods have given us, suffer terribly."
             </quote>
          </p>
@@ -410,11 +395,11 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
          <p>
             <quote>
                "Yes: that is his name. I did'nt intend to tell
-               <app>
-                  <rdg wit="MS">
+               
+                  
                      <add place="above">it to</add>
-                  </rdg>
-               </app>
+                  
+               
                you."
             </quote>
          </p>
@@ -426,42 +411,42 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
          <p>
             <quote>
                "Oh! I can't explain.
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <del>
                         <gap reason="illegible"></gap>
                      </del>
-                  </rdg>
-               </app>
+                  
+               
                When I like people immensely, I 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <mod type="subst">
                         <del>cannot</del>
                         <add place="above">never</add>
                      </mod>
-                  </rdg>
-               </app>    
+                  
+                   
                tell their names to any one. It seems like surrendering a part of them. You know how
                I love secrecy. It is the only thing that can make a modern life woderful, or 
                mysterious to us. The commonest thing is delightful if one only hides it. When I 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <mod type="subst">
                         <del>dine out</del>
                         <add place="above">leave town</add>
                      </mod>
-                  </rdg>
-               </app> 
+                  
+                
                I never tell my people where I am going. If I did, I would lose all my pleasure. It 
                is a silly habit, I daresay, but somehow it
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <del>
                         <gap reason="illegible"></gap>
                      </del>
-                  </rdg>
-               </app>
+                  
+               
                seems to bring a great deal of romance into one's life. I suppose you think me 
                awfully foolish about it?" 
             </quote>
@@ -472,47 +457,47 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                my dear Basil. You seem to forget that I am married, and the one charm of marriage 
                is that it makes a life of deception absolutely necessary for both parties. I never 
                know 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <mod type="subst">
                         <del>
                              <gap reason="illegible"></gap>
                         </del>
                         <add place="above">where</add>
                      </mod>
-                  </rdg>
-               </app> 
+                  
+                
                my wife is
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <del>
                         <gap reason="illegible"></gap>
                      </del>
-                  </rdg>
-               </app>
+                  
+               
                , and my wife never knows
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <mod type="subst">
                         <del>
                            <gap reason="illegible"></gap>
                         </del>
                         <add place="above">what</add>
                      </mod>
-                  </rdg>
-               </app> 
+                  
+                
                I am
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <add place="above">doing</add>
-                  </rdg>
-               </app>
+                  
+               
                When we meet – we do meet occasionally, when we dine, out
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <add place="above">together</add>
-                  </rdg>
-               </app>
+                  
+               
                or go down to the Duke's – we tell each other the most absurd stories with the most 
                serious faces. My wife is very good at it, much better in fact than I am. She never 
                gets confused over her dates, and I always do. But when she does find me out, she 
@@ -531,46 +516,46 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
          <p>
             <quote>
                "Being natural is simply a pose, and the most irritating pose I know,
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <mod type="subst">
                         <del>said</del>
                         <add place="above">cried</add>
                      </mod>
-                  </rdg>
-               </app>
+                  
+               
                Lord Henry laughing, and the two young men went out into the garden together, and for a 
                time they did not speak. 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <del>to each other</del>
-                  </rdg>
-               </app>
+                  
+               
             </quote>
          </p>
          <p>
             After a long pause Lord Henry pulled out his watch. 
             <quote>
                "I am afriad I must be going Basil," he 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <mod type="subst">
                         <del>said</del>
                         <add place="above">murmured</add>
                      </mod>
-                  </rdg>
-               </app>
+                  
+               
                and before I go I insist on you answering me a question I put to you 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <mod type="subst">
                         <del>
                            <gap reason="illegible"></gap>
                         </del>
                         <add place="above">half an hour</add>
                      </mod>
-                  </rdg>
-               </app> 
+                  
+                
                ago."    
             </quote>
          </p>
@@ -602,14 +587,14 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
          <p>
             <quote>
                "I must. I want you to 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <mod type="subst">
                         <del>tell</del>
                         <add place="above">explain to</add>
                      </mod>
-                  </rdg>
-               </app>
+                  
+               
                me why you won't exhibit Dorian Gray's picture. I want the real reason." 
             </quote>
          </p>
@@ -627,89 +612,89 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
          <p>
             <quote>
                "Harry," said Basil Hallward,
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <mod type="subst">
                         <del>taking</del>
                         <del>hold of his hand and</del>
                      </mod>
-                  </rdg>
-               </app>
+                  
+               
                looking him straight in the face, "Every portrait that is painted with 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <mod type="subst">
                         <del>passion</del>
                         <add place="above">feeling</add>
                      </mod>
-                  </rdg>
-               </app>
+                  
+               
                is a portrait of the artist, not of the sitter. The sitter is merely the accident, 
                the occasion. It is not he who is revealed by the painter, it is rather the painter 
                who 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <add>on the colours of the canvas</add>
-                  </rdg>
-               </app>
+                  
+               
                reveals himself. The reason why I will not exhibit this picture, is that I am afraid 
                that I have shown in it the secret of my own soul." 
             </quote>
          </p>
          <p>
             Lord Henry 
-            <app>
-               <rdg wit="#MS">
+            
+               
                   <mod type="subst">
                      <del>hesistated for a moment</del>
                      <add place="above">laughed</add>
                   </mod>
-               </rdg>
-            </app>
+               
+            
          </p>
          <p>
             <quote>
                "And what is that?" he asked. 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <del>in a low voice</del>
-                  </rdg>
-               </app>
+                  
+               
             </quote>
          </p>
          <p>
             <quote>
                "I will tell you," said Hallward, and an 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <mod type="subst">
                         <del>look</del>
                         <add place="above">expression</add>
                      </mod>
-                  </rdg>
-               </app>
+                  
+               
                of 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <mod type="subst">
                         <del>pain</del>
                         <add place="above">perplexity</add>
                      </mod>
-                  </rdg>
-               </app>
+                  
+               
                came over his face. 
             </quote>
          </p>
          <p>
             <quote>
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <mod type="subst">
                         <del>"Don't if you would rather not"</del>
                         <add place="above">"I am all expectation, Basil"</add>
                      </mod>
-                  </rdg>
-               </app>
+                  
+               
                murmured his companion, looking at him. 
             </quote>
          </p>
@@ -724,246 +709,246 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
             examined it. 
             <quote>
                "I am quite sure I shall understand 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <mod type="subst">
                         <del>you</del>
                         <add place="above">it</add>
                      </mod>
-                  </rdg>
-               </app>
+                  
+               
                ," he replied, gazing intently at the little golden white-feathered disk. 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <del>that has charmed all our poets from Chaucer to Tennyson</del>
-                  </rdg>
-               </app>
+                  
+               
             </quote>
          </p>
          <p>
             The wind shook some blossoms from the trees, and the heavy lilac blooms, with their 
             clustering stars, moved to and fro in the languid air. A 
-            <app>
-               <rdg wit="#MS">
+            
+               
                   <mod type="subst">
                      <del>bird</del>
                      <add place="above">grasshopper</add>
                   </mod>
-               </rdg>
-            </app>
+               
+            
             began to 
-            <app>
-               <rdg wit="#MS">
+            
+               
                   <mod type="subst">
                      <del>sing</del>
                      <add place="above">chirrup</add>
                   </mod>
-               </rdg>
-            </app>
+               
+            
             in 
-            <app>
-               <rdg wit="#MS">
+            
+               
                   <mod type="subst">
                      <del>a thicket</del>
                      <add place="above">the grass</add>
                   </mod>
-               </rdg>
-            </app>
+               
+            
             , and a long thin dragon-fly floated 
-            <app>
-               <rdg wit="#MS">
+            
+               
                   <mod type="subst">
                      <del>past</del>
                      <add place="above">by</add>
                   </mod>
-               </rdg>
-            </app>
+               
+            
             on its brown gauze wings. Lord Henry felt as if he coul hear Basil Hallward's heart 
             beating, and he 
-            <app>
-               <rdg wit="#MS">
+            
+               
                   <mod type="subst">
                      <del>heard his own breath, with a sense almost of fear</del>
                      <add place="above">wondered what was coming.</add>
                   </mod>
-               </rdg>
-            </app>
+               
+            
          </p>
          <p>
             <quote>
                "Yes: there is very little to tell you," repeated Hallward 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <add place="above">rather bitterly</add>
-                  </rdg>
-               </app>
+                  
+               
                "and I 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <mod type="subst">
                         <del>am afraid</del>
                         <add place="above">daresay</add>
                      </mod>
-                  </rdg>
-               </app>
+                  
+               
                you will be disappointed. Two months ago I went to a crush at Lady Brandon's. You 
                know we poor painters have to show ourselves in society from time to time, just to 
                remind the public that we are not savages. With an evening coat and a white tie, 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <add place="above">as you told me once</add>
-                  </rdg>
-               </app>
+                  
+               
                any body, 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <add place="above">even a stockbroker,</add>
-                  </rdg>
-               </app>
+                  
+               
                can gain a reputation for being civilized. Well, after I had been in the room about 
                ten minutes, talking to huge over-scented dowagers and tedious academicians, I 
                suddenly 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <mod type="subst">
                         <del>felt</del>
                         <add place="above">became conscious</add>
                      </mod>
-                  </rdg>
-               </app> 
+                  
+                
                that some one was looking at me. I turned half way round, and saw Dorian Gray for 
                the first time. When our eyes met, I felt that I 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <mod type="subst">
                         <del>grew</del>
                         <add place="above">was growing</add>
                      </mod>
-                  </rdg>
-               </app>
+                  
+               
                pale. A curious 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <mod type="subst">
                         <del>
                            <gap reason="illegible"></gap>
                         </del>
                         <add place="above">feeling</add>
                      </mod>
-                  </rdg>
-               </app>
+                  
+               
                of terror came over me. I knew that I had 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <del>
                         <gap reason="illegible"></gap>
                      </del>
-                  </rdg>
-               </app>
+                  
+               
                come 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <mod type="subst">
                         <del>across</del>
                         <add place="above">face to face</add>
                      </mod>
-                  </rdg>
-               </app>
+                  
+               
                someone whose mere personality was so fascinating that it would 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <mod type="subst">
                         <del>be
                            <gap reason="illegible"></gap>
                         </del>
                         <add place="above">absorb</add>
                      </mod>
-                  </rdg>
-               </app> 
+                  
+                
                my 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <mod type="subst">
                         <del>life</del>
                         <add place="above">nature</add>
                      </mod>
-                  </rdg>
-               </app>
+                  
+               
                , my soul, my art itself. I did not want any 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <mod type="subst">
                         <add place="above">extreme</add>
                         influence 
                         <del>of that kind</del>
                      </mod>
-                  </rdg>
-               </app>
+                  
+               
                in my life. You know yourself, Harry, how independant I have always been. My father 
                destined me for the army. I insisted on going to Oxford. Then he made me enter my 
                name at the middle temple. Before I had eaten half a dozed dinners I gave up the 
                Bar, and announced my intention of becoming a painter. I have always been my own 
                master; had at least always been so till I met Dorian Gray. Then – but I 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <del>
                         <gap reason="illegible"></gap>
                      </del>
-                  </rdg>
-               </app>
+                  
+               
                don't know how to explain it to you. Something seemed to tell me that I was on the 
                verge of 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <del>
                         <gap reason="illegible"></gap>
                      </del>
-                  </rdg>
-               </app>
+                  
+               
                a terible crisis in my life. I had a strange feeling that 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <mod type="subst">
                         <del>be
                            <gap reason="illegible"></gap>
                         </del>
                         <add place="above">fate</add>
                      </mod>
-                  </rdg>
-               </app>
+                  
+               
                had in store for me exquisite joys and exquisite sorrows. I knew that if I spoke to 
                him, I would 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <mod type="subst">
                         <del>never leave him till either he or I were dead</del>
                         <add place="above">become absolutely devoted to him, and that I ought not to speak to him.</add>
                      </mod>
-                  </rdg>
-               </app>
+                  
+               
                I grew afraid, and turned to 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <mod type="subst">
                         <del>leave</del>
                         <add place="above">quit</add>
                      </mod>
-                  </rdg>
-               </app>
+                  
+               
                the room. It was not conscience 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <add place="above">that made me do so,</add>
-                  </rdg>
-               </app>
+                  
+               
                it was cowardice. I 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <del>
                         <gap reason="illegible"></gap>
                      </del>
-                  </rdg>
-               </app>
+                  
+               
                take no credit to myself for trying to escape." 
             </quote>
          </p>
@@ -976,16 +961,16 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
          <p>
             <quote>
                "I 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <mod type="subst">
                         <del>am not sure of that
                            <add place="above">Harry</add>
                         </del>
                         <add place="above">don't believe that, Harry</add>
                      </mod>
-                  </rdg>
-               </app>
+                  
+               
                However, whatever was my motive, and it may have been pride, for I used to be very 
                proud, I certainly struggled to the door. There of course I stubled against Lady 
                Brandon. 
@@ -1005,41 +990,41 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
             <quote>
                "I could not get rid of her. She brought me up to the Royalties, and people with 
                Stars and Garters, and elderly ladies with gigantic tiaras 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <add place="above">and hooked noses.</add>
-                  </rdg>
-               </app>
+                  
+               
                She spoke of me as her dearest friend. I had only met her once before, but she took 
                it into her head to lionize me. I believe some picture of mine had made a great 
                success at the time, at least had been chattered about in the penny newspapers, 
                which is the nineteenth century 
                app>
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                     <mod type="subst">
                        <del>
                           <gap reason="illegible"></gap> of fame
                        </del>
                        <add place="above">standard of immortality</add>
                     </mod>
-                 </rdg>
-               </app>
+                 
+               
                Suddenly I found myself face to face with the young man whose 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <mod type="subst">
                         <del>beauty</del>
                         <add place="above">personality</add>
                      </mod>
-                  </rdg>
-               </app>
+                  
+               
                had so 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <add place="above">strangely</add>
-                  </rdg>
-               </app>
+                  
+               
                stirred me. We were quite close, almost touching. Our eyes met, again. It was mad of 
                me, but I asked Lady Brandon to introduce me to him. Perhaps it was not so mad after 
                all. It was simply inevitable. We would have spoken to each other without any 
@@ -1049,93 +1034,93 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
          <p>
             <quote>
                "And how did Lady Brandon describe this wonderful young 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <mod type="subst">
                         <del>narcissus</del>
                         <add place="above">man</add>
                         <del></del>
                      </mod>
-                  </rdg>
-               </app>
+                  
+               
                ? I know she gives in for giving a rapid precis of 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <add place="above">all</add>
-                  </rdg>
-               </app>
+                  
+               
                her guests. I remember her bringing
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <del>up to</del>
-                  </rdg>
-               </app>
+                  
+               
                me up to a most truculent and red-faced old 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <mod type="subst">
                         <del>man</del>
                         <add place="above">gentleman</add>
                      </mod>
-                  </rdg>
-               </app>
+                  
+               
                covered all over with orders and ribands, and hissing into my ear in a tragic 
                whisper, which must have been perfectly audible to every body in the room, something 
                like 
                <quote>
                   'Sir Humpty Dumpty – you know – Afghan frontier – Russian intelligence: very 
                   successful man – 
-                  <app>
-                     <rdg wit="#MS">
+                  
+                     
                         <del>quite inconsolable</del>
                         <del>wants to marry</del>
-                     </rdg>
-                  </app>
+                     
+                  
                   wife killed by an elephant – quite inconsolable – wants to marry a 
-                  <app>
-                     <rdg wit="#MS">
+                  
+                     
                         <add place="above">beautiful</add>
-                     </rdg>
-                  </app>
+                     
+                  
                   American widow 
-                  <app>
-                     <rdg wit="#MS">
+                  
+                     
                         <add place="above">every body does now-a-days</add>
-                     </rdg>
-                  </app>
+                     
+                  
                   – hates Mr. Gladstone – but very much interested in beetles – ask him about the new 
-                  <app>
-                     <rdg wit="#MS">
+                  
+                     
                         <del>
                            <gap reason="illegible"></gap>
                         </del>
-                     </rdg>
-                  </app>
+                     
+                  
                   military frontier.' 
                </quote>
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <del>
                         <gap reason="illegible"></gap>
                      </del>
-                  </rdg>
-               </app>
+                  
+               
                I simply fled. I like to find out people for myself. But poor Lady Brandon treats 
                her guests, exactly as an auctioneer treats his goods. She either explains them 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <add place="above">entirely</add>
-                  </rdg>
-               </app>
+                  
+               
                away or tells one everything about them 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <mod type="subst">
                         <del>that one does not</del>
                         <add place="above">except what one</add>
                      </mod>
-                  </rdg>
-               </app>
+                  
+               
                wants to know. But what did she say about Mr. Dorian Gray?" 
             </quote>
          </p>
@@ -1143,7 +1128,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
             <quote>
                "Oh, she murmered, 
                <quote>
-                  'charming boy – going to be so ruch – mother and I great friends – engaged to be 
+                  'charming boy – going to be so rich – mother and I great friends – engaged to be 
                   married to the same man – I mean married on the same day – how very silly of me! 
                   Quite forget what he does – afriad he doesn't do anything – oh, yes plays the 
                   piano – or is it the violin, dear Mr. Gray?'
@@ -1160,39 +1145,39 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
          
          <p>
             Hallward burried his face 
-            <app>
-               <rdg wit="#MS">
+            
+               
                   <del>
                      <gap reason="illegible"></gap>
                   </del>
-               </rdg>
-            </app>
+               
+            
             in his hands.
             <quote>
                "You don't understand what friendship is, Harry," he murmured," or what enmity is 
                for that matter. You like every one, 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <mod type="subst">
                         <del>which is the same as
                            <gap reason="illegible"></gap>
                         </del>
                         <add place="above">that is to say</add>
                      </mod>
-                  </rdg>
-               </app>
+                  
+               
                you are indifferent to every one." 
             </quote>
          </p>
          <p>
             <quote>
-               "How horridly unjust of you," cried Lord Henry, tiling his hat ack, and looking up 
+               "How horridly unjust of you," cried Lord Henry, tilting his hat back, and looking up 
                at the little clouds that were drifting across the hollowed turquoise of the 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <add place="above">summer</add>
-                  </rdg>
-               </app>
+                  
+               
                sky, like ravelled skeins of glossy white silk, were drifting across the hollowed 
                turquoise of the summer sky.
             </quote>
@@ -1225,17 +1210,17 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
             <quote>
                "Oh! Brothers! I don't care for brothers. My elder brother won't die, and my 
                younger brothers
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <add place="above">seem</add>
-                  </rdg>
-               </app>
+                  
+               
                never 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <add place="above">to</add>
-                  </rdg>
-               </app>
+                  
+               
                do anything else." 
             </quote>
          </p>
@@ -1249,59 +1234,59 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                "My dear fellow, I am not quite serious. But I can't help detesting my relations. I 
                suppose it comes from the fact that we can't stand other people having the same 
                faults as ourselves. I quite sympathize with the rage of the 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <add place="above">English</add>
-                  </rdg>
-               </app> 
+                  
+                
                democracy 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <del>to English</del>
-                  </rdg>
-               </app>
+                  
+               
                against what they call the vices of the upper classes. They 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <mod type="subst">
                         <del>to think</del>
                         <add place="above">feel</add>
                      </mod>
-                  </rdg>
-               </app>
+                  
+               
                that drunkenness, 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <unclear>and</unclear>
-                  </rdg>
-               </app>
+                  
+               
                stupidity, 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <add place="above">and immorality</add>
-                  </rdg>
-               </app>
+                  
+               
                should be their own special property, and that if any one of us makes an ass of 
                himself 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <mod type="subst">
                         <del>
                            <gap reason="illegible"></gap>
                         </del>
                         <add place="above">we are</add>
                      </mod>
-                  </rdg>
-               </app>
+                  
+               
                poaching on their preserves. When poor Southwark got into the Divorce Court, their
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <mod type="subst">
                         <del>rage</del>
                         <add place="above">indignation</add>
                      </mod>
-                  </rdg>
-               </app>
+                  
+               
                was quite magnificant. And yet I don't suppose that ten per cent of the lower orders 
                live with their own wives." 
             </quote>
@@ -1309,25 +1294,25 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
          <p>
             <quote>
                "I don't agree with a single word that you have said, and, what is more, 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <add place="above">Harry,</add>
-                  </rdg>
-               </app>
+                  
+               
                I don't believe you do either." 
             </quote>
          </p>
          <p>
             <quote>
                "Lord Henry 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <del>pulled his little straw-colored mousatache, and</del>
-                  </rdg>
-               </app>
+                  
+               
                stroked his pointed 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <mod type="subst">
                         <unclear>Henry</unclear>
                         <del>
@@ -1335,44 +1320,44 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                         </del>
                         <add place="above">brown</add>
                      </mod>
-                  </rdg>
-               </app> 
+                  
+                
                beard, and tapped the toe of his patent-leather boot with a 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <mod type="subst">
                         <del>thick</del>
                         <add place="above">tassled</add>
                      </mod>
-                  </rdg>
-               </app>
+                  
+               
                malacca-cane. How English you are, Basil! If one puts forward an idea to a real 
                Englishman – always a rash thing to do – he never dreams of considering whether the 
                idea is right or wrong. the only thing he considers of any important is whether one 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <del>is sincere or putting it
                         <gap reason="illegible"></gap>
                      </del>
-                  </rdg>
-               </app>
+                  
+               
                believes it oneself. Now the value of an idea has nothing whatsoever to do with the 
                sincerity of the man who expresses it. Indeed the probabilities are that the more 
                insincere the man is, the more purely intellectual will the idea be, as 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <add place="above">in that case</add>
-                  </rdg>
-               </app>
+                  
+               
                it will not be coloured by either his wants, his desires, or his prejudices. 
                However, I don't propose to discuss 
-               <app>
-                  <rdg wit="#MS">
+               
+                  
                      <del>
                         <gap reason="illegible"></gap>
                      </del>
-                  </rdg>
-               </app>
+                  
+               
                politics, sociology, or metaphysics with you. I like persons better than principle. 
                Tell me more about Dorian Gray. How often do you see him?" 
             </quote>
