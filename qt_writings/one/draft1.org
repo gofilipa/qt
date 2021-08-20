@@ -2,96 +2,75 @@
 #+SEQ_TODO: TODO(t) WAITING(w) IN_PROGRESS(p) | CANCELLED(c) DONE(d)
 
 ** chapter summary 
-The burden of this chapter is to describe how to do text analysis in a
-way that attends to queer concepts of gender performativity, and how
-that method might leverage computational processes to analyze literary
-material that express complex gender ontologies. I begin the chapter
-by debunking what I call "the fantasy of falsifiable criticism," which
-includes distant reading practicies by Franco Moretti and Ted
-Underwood, constrasting their work with that of Richard Jean So and
-Laura Mandell, whose methods emphasize deconstructing social
-categories. While this deconstruction is important, I'm interested in
-analysis of text that disrupts what we know about these literary
-materials by creating new forms for understanding phenomena such as
-gender ontolgies. For the middle portion of the chapter, I embark on
-three "close-readings" of computer programming, gender theory, and my
-source text, /Orlando: A Biography/ by Virginia Woolf. First, I delve
-into python programming, focusing on the structure of the ~for loop~
-and processes for cleaning and regularizing text, with the goal of
-bringing out the recursive quality of running python code. Then, I dip
-into Judith Butler's concept of gender performativity, which lends an
-understanding to the ways that critical processes can subvert dominant
-structures through iteration, or what she calls "performative
-citation." To wrap up this section, I do a close-reading of Woolf's
-/Orlando/ that examines the ways that gender is closely coordinated
-with the significatory power of language throughout the novel. In the
-final section of the chapter, I apply Butler's notion of displacement
-through repetition in gender performativity back to text analysis to
-illustrate how the iterative process of analyzing text can surface new
-textual structures that re-signify certain elements of that text. The
-chapter ends with my text analysis of Virginia Woolf's /Orlando/ to
-demonstrate how "man" and "woman" in that text is re-signified from
-its initial binary structure into a plural understanding 
+The burden of this chapter is to describe how to do text analysis, or
+"distant reading," in a way that attends to queer concepts of gender
+performativity, and how that method might leverage computational
+processes to analyze literary material that expresses complex gender
+ontologies. This chapter proposes a method for text analysis to study
+the phenomenon of gender in Virginia Woolf's novel, /Orlando: A
+Biography/ (1931). 
+
+I begin the chapter by critiquing what I call "the fantasy of
+falsifiable criticism," which contrasts traditional distant reading
+practices with experimental methods that deconstruct social
+categories. My own method of text analysis draws from these
+deconstructive approaches to create a new way for understanding gender
+ontolgies in quantitative form. For the middle portion of the chapter,
+I draw connections between computer programming and gender
+theory. First, I delve into python programming, focusing on the
+structure of the ~for loop~ and processes for cleaning and
+regularizing text, with the goal of bringing out the recursive quality
+of running python code. Then, I dip into Judith Butler's concept of
+gender performativity, which lends an understanding to the ways that
+critical processes can subvert dominant structures through iteration,
+or what she calls "performative citation." To wrap up this section, I
+do a close-reading of my source text, Woolf's /Orlando/, to examine
+the ways that gender is closely coordinated with the significatory
+power of language throughout the novel. In the final section of the
+chapter, I apply Butler's notion of displacement through repetition in
+gender performativity back to text analysis to illustrate how the
+iterative process of analyzing text can surface new textual structures
+that re-signify certain elements of that text. The chapter ends with
+my text analysis of gender in /Orlando/ to demonstrate how the terms
+"man" and "woman" in that text are re-signified from their initial
+binary structure into a plural understanding.
 
 
 ** The fantasy of the falsifiable
 
-This chapter examines how quantitative text analysis, which is a way
-of analyzing textual data by counting its features or elements, such
-as calculating word frequency or generating associative word pairs,
-works with data about gender ontology. This examination probes the
-central tension between "Queer Form," or figurative and narrative
-forms by which gender is expressed [further elaborated in the
-introductory chapter], and digital formats, where the logics
-computation abstracts and transforms text into data. The process of
-preparing a text for text analyis always requires a reduction of data
-in which some semantic value has escaped. Common tasks like cleaning
-and normalizing, where text is transformed into a format to make it
-computable, constrain textual meaning by passing text through an
-automated seive, filtering out its specificities. For example, in
-order to be counted in a word frequency, text has to be rid of
-elements like punctuation, articles, prepositions, and word
-endings. Rather than attempt to recover semantic escape, I am
-interested in exploring how possible approaches for quantification
-might engage with gender as a complex phenomenon.
+This chapter examines how quantitative text analysis works with data
+about gender ontology. Text analysis, also known as "text mining" or
+"distant reading," is a way of analysing textual data through
+computation, such as calculating word frequency or generating
+associative word pairs. The process involves cleaning and sorting text
+to prepare it for analysis, then running various computations that
+count measure words and word patters. As it’s used in Literary
+Studies, Text Analysis borrows from quantitative methods in the social
+sciences, applying them to textual data, for example in word
+association, topic modelling and sentiment analysis. Though they
+differ in their specifics, these methods share a faith in using the
+speed of computation, which can process very precise elements like
+word frequency or syntactic patterns, to make calculations about how
+to categorize or organize textual data.
 
-Distant Reading is a way of computing textual data by cleaning,
-sorting, and counting textual elements, and can involve more advanced
-processes like statistical modelling and machine learning. It borrows
-from quantitative methods in the social sciences, applying them to
-textual data, for example in word association, topic modeling and
-sentiment analysis. Though they differ in their specifics, these
-methods share a faith in using the speed of computation, which can
-process very precise elements like word frequency or syntactic
-patterns, to make calculations about how to categorize or organize
-textual data. Moreover, they are part of a scientific method meant to
-guide researchers in conducting experiments that prove or falsify
-their hypotheses. The scientific method is a cyclical process, wherein
-researchers make observations on a certain topic, formulate a
-hypothesis, test the hypothesis with experiments, analyze and report
-the results, bringing them toward new observations, hypotheses,
-experiments, and conclusions.
-
-Franco Moretti, who is largely responsible for popularizing the
-practice of Distant Reading in English Studies contexts, greatly
-influenced the ways that English scholars approach quantiative
-methodologies. Because computers can process hundreds of texts at a
-time, "reading" at much faster rates than humans, they offer critics
-an opportunity for getting around the problem of literary scale, and
-particularly attract critics like Moretti who pose ambitious questions
-about literary history. Moretti's scholarship explores how social and
-economic forces impact literary form in the development of the modern
-novel. His subject is the vast swatch of modern literary history,
-thousands of texts that would otherwise be too large and unweildy to
-work with. He declares that "distance ... is a condition of knowledge"
-(/Distant Reading/ 48). Other scholars follow a similar path. More
-recently, Ted Underwood, in the field of Computational Literary
-Studies (CLS), harnesses the power of quantification and machine
-learning to glimpse what he calls the "distant horizon" of literary
-trends across centuries[fn:3]. Some recent developments in distant
-reading combine with close reading methods, as critics will use the
-results of quantitative analysis to identify key moments from the text
-that merit closer attention.[fn:4]
+Because computers can process hundreds of texts at a time, "reading"
+at much faster rates than humans, they offer critics an opportunity
+for getting around the problem of literary scale. This opportunity
+attracts literary critics like Franco Moretti, Ted Underwood, and
+others, who pose ambitious questions about literary history. Moretti's
+scholarship, which is largely responsible for popularizing the
+practice of Distant Reading in English Studies contexts, explores how
+social and economic forces impact literary form in the development of
+the modern novel. His subject matter includes thousands of texts that
+would otherwise be too large and unweildy to work with. According to
+Moretti, the computer, not only enables but fundamentally determines
+the analysis of large datasets. He declares that "distance ... is not
+an obstacle, but a condition of knowledge" (/Distant Reading/
+48). Moretti explains that the process of quantification involves
+steps that reduce or abstract textual elements into computable form in
+ways that open the potential for analysis: "fewer elements, hence a
+sharper sense of their overall interconnection" (/Graphs/
+1). [fn:4]
 
 I begin with Moretti, because it is important to examine where the
 impulse for reading distantly emerges in his work. In Moretti's early
@@ -102,7 +81,7 @@ deep concern with finding a way to ascertain the effect of historical
 forces on literary form. But the current practices of literary
 criticism present methodological obstacle. In this early essay,
 Moretti characterizes literary criticism as "a sort of cultivated
-accompaniment to reading – to the reading we are doing here and now,"
+saccompaniment to reading – to the reading we are doing here and now,"
 ("The Soul and the Harpy" 21). By this, he means that the analytical
 practices of contemporary literary critics, which "revolve around
 concepts such as ‘ambiguity’ and the like," will, according to
@@ -313,23 +292,25 @@ computation, look for an error, and use that error as an opportunity
 to learn about the ways that categories are constructed. They are
 using computers in an unintuitive way, computing for indeterminacy.
 
-One prominent distant reading practitioner, Ted Underwood, studies the
-way that gender markers in novels change over time. Underwood uses
-machine learning for statistical modelling analysis, in which a sample
-of data is used to make predictions about larger groups of data. In
-other words, he uses computer programs "trained" by certain data sets,
-to create other programs that can then make predictions on other
-datasets. He then visualizes the results of his model. Underwood's
-goal is to explore how effective computers are at analyzing certain
-textual elements based on previous analyses. Highly aware of how his
-data can carry certain assumptions, he calls his approach
-"perspectival modelling." He explains that, "Since learning algorithms
-rely on examples rather than fixed definitions, they can be used to
-model the tacit assumptions shared by particular communities of
-production or reception" ("Machine Learning and Human Perspective"
-93). In a review of Underwood's work, Dan Sinykin writes that "Against
-the purported objectivity of algorithms, he leverages the human
-prejudices built into modeling toward humanistic ends" (par. 4).[fn:9]
+Similarly to Moretti, Ted Underwood harnesses studies what he calls
+the "distant horizon" of literary trends across centuries. Underwood,
+studies the way that gender markers in novels change over
+time. Underwood uses machine learning for statistical modelling
+analysis, in which a sample of data is used to make predictions about
+larger groups of data. In other words, he uses computer programs
+"trained" by certain data sets, to create other programs that can then
+make predictions on other datasets. He then visualizes the results of
+his model. Underwood's goal is to explore how effective computers are
+at analyzing certain textual elements based on previous
+analyses. Highly aware of how his data can carry certain assumptions,
+he calls his approach "perspectival modelling." He explains that,
+"Since learning algorithms rely on examples rather than fixed
+definitions, they can be used to model the tacit assumptions shared by
+particular communities of production or reception" ("Machine Learning
+and Human Perspective" 93). In a review of Underwood's work, Dan
+Sinykin writes that "Against the purported objectivity of algorithms,
+he leverages the human prejudices built into modeling toward
+humanistic ends" (par. 4).[fn:9]
 
 One of Underwood's projects examines gender roles in novels from the
 18th century to the 21st century by using a model that predicts the
@@ -543,7 +524,7 @@ to impose determinism but to acknowledge uncertainty" (Underwood,
 consider how it constitutes and constrains other elements in the text.
 
 
-** Deformance and Performance: NLTK, Gender Trouble, Orlando
+**  NLTK, Gender Trouble, Orlando
 
 *** Python and NLTK
 
@@ -551,6 +532,15 @@ This section now turns to the programming language Python to get a
 closer look at how text analysis works through constraint. We will
 look into the material specificity of text analysis, to examine how it
 works, and through what processes and protocols.
+
+The process of preparing a text for text analyis always requires a
+reduction of data in which some semantic value has escaped. Common
+tasks like cleaning and normalizing, where text is transformed into a
+format to make it computable, constrain textual meaning by passing
+text through an automated seive, filtering out its specificities. For
+example, in order to be counted in a word frequency, text has to be
+rid of elements like punctuation, articles, prepositions, and word
+endings.
 
 Many distant reading projects use a text analysis tool called Python
 to do computational analysis of textual data. As a general purpose
@@ -1225,6 +1215,7 @@ language and gender. So the question then becomes: how are language
 and gender co-constructed in Orlando? And what is the role of
 signification in resolving these issues?
 
+
 ** TODO Queer Distant Reading
 A method of distant reading attends to gender as an iterative
 practice. We find ever expanding ways that gender is characterized in
@@ -1251,20 +1242,38 @@ and sexuality in text.
 *** bode and butler parallel on productivity in iteration
 Iteration departs from reproducibility because iteration
 self-consciously harnesses the productive qualities of
-reproducibility. We begin to see this in the way that Bode describes
-her critical approach, "agential realism," which mirrors Butler's
-explanation of gender performativity. Bode describes two approaches
-for literary criticism, the "representationalist" approach (in which
-data represents or expresses real objects and subjects in the world)
-and the another approach understands data "as part of the ongoing
-materialisation of literary texts, as emerging events always arising
-from an altering how the literary past as reconfigured" (Bode
-"Computational Modeling: From Data Representation to Performative
-Materiality"). Similarly, Butler distinguishes a representationalist
-approach toward language and materiality, in which language can
-/refer/ to materiality as something that is prior, against the
-performative approach, by which language works through repetition to
-signify and resignify meaning:
+reproducibility. We begin to see this in the way that Katherine Bode
+describes her critical approach, "agential realism," which mirrors
+Butler's explanation of gender performativity. Bode incorporates
+insights from Karen Barad's feminist scientific interventions in
+theoretical physics to demonstrate that the researcher is always
+implicated in the object of study. Barad's thesis argues that objects
+in the world do not precede their actions, but rather, 'objects'
+emerge through particular "intra-actions" (Barad 58). Bode brings
+Barad's point from theoretical physics to computational modelling,
+explaining that "entities don’t pre-exist engagements but are
+generated in an ongoing or emergent way, by those intra-actions"
+("Data Beyond Represenation" par. 2). In practice, this means that
+rather than attempt to secure a factual or objective status of the
+data, literary scholars should double down on the material processes
+of using their tools. For Bode, what statisticians value as
+“representativeness” or “reproducibility” isn’t as important (within a
+humanities context) as the materiality of the apparatus. Bode thus
+approaches literary databases in performative terms, as "effects of
+material-semiotic engagements," taking a self-conscious approach
+toward the tools of analysis ("Data Beyond Representation" par. 15).
+
+Bode describes two approaches for literary criticism, the
+"representationalist" approach (in which data represents or expresses
+real objects and subjects in the world) and the another approach
+understands data "as part of the ongoing materialisation of literary
+texts, as emerging events always arising from an altering how the
+literary past as reconfigured" (Bode "Computational Modeling: From
+Data Representation to Performative Materiality"). Similarly, Butler
+distinguishes a representationalist approach toward language and
+materiality, in which language can /refer/ to materiality as something
+that is prior, against the performative approach, by which language
+works through repetition to signify and resignify meaning:
 #+BEGIN_QUOTE
 If the body signified as prior to signifiation is an effect of
 signification, then the mimetic or representational status of
@@ -1979,21 +1988,24 @@ certain elements of the text? It turns out that the limitations of the
 computer are actually a good indicator of things that maybe should be
 left unresolved or unfixed---like gender ontology.
 
-* Footnotes 
+* Footnotes
 
-[fn:24] Such methods are often used in assessing authorship and
-authenticity, and stylometry in particular predates computing and has
-notable cases in English Renaissance drama and biblical
-texts. Generally, stylometry evaluates writing style by extracting and
-analysing distinctive features in text. Often used in stylometry,
-word-frequency analysis examines word usage to determine authorship of
-a text.
+[fn:4] Some recent developments in distant reading combine with close
+reading methods, as critics will use the results of quantitative
+analysis to identify key moments from the text that merit closer
+attention. Andrew Piper's methodology, which he calls "bifocal"
+reading, demonstrates how distant and close reading are used together,
+with distant reading providing the context or framework that guides
+close reading"“We are no longer using our own judgments as
+benchmarks... but explicitly constructing the context through which
+something is seen as significant (and the means through which
+significance is assessed).... It interweaves subjectivity with
+objects” (Piper, Andrew. Enumerations: Data and Literary Study, 2018,
+17).
 
-[fn:7] Jockers, Matthew L. Macroanalysis: Digital methods and literary
-history. University of Illinois Press, 2013; Rybicki, Jan. “Vive la
-différence: Tracing the (Authorial) Gender Signal by Multivariate
-Analysis of Word Frequencies.” Digital Scholarship in the Humanities
-(2015): 1–16. doi: 10.1093/llc/fqv023.
+[fn:5] Moretti, Franco. "The Soul and the Harpy." /Signs Taken For
+Wonders: On the Sociology of Literary Forms/, trad. David Forgacs, New
+York, Verso, 1983, pp. 1-41
 
 [fn:23] Stephen Ramsay, in /Reading Machines/ makes this point in his
 critique of Moretti. Accrding to Ramsay, Moretti’s claims that his
@@ -2001,29 +2013,6 @@ insights are “independent of interpretation” and his goal of
 “falsification” suggest that “data is presented to us…  not as
 something that is also in need of interpretation” (/Reading Machines/
 5).
-
-[fn:1] Amin, Kadji, Amber Jamilla Musser, and Roy Pérez “Queer Form:
-Aesthetics, Race, and the Violences of the Social” ASAP/Journal,
-Volume 2, Number 2, May 2017, p. 235.
-
-[fn:2] Eve Kofosky Sedgwick, "Paranoid Reading."
-
-[fn:3] Underwood, Ted. /Distant Horizons/, 2019.; Underwood,
-Ted. “Machine Learning and Human Perspective.” PMLA, Vol. 35 No. 1,
-January 2020, pp. 92-109.
-
-[fn:4] Andrew Piper's methodology, which he calls "bifocal" reading,
-demonstrates how distant and close reading are used together, with
-distant reading providing the context or framework that guides close
-reading"“We are no longer using our own judgments as benchmarks... but
-explicitly constructing the context through which something is seen as
-significant (and the means through which significance is
-assessed).... It interweaves subjectivity with objects” (Piper,
-Andrew. Enumerations: Data and Literary Study, 2018, 17).
-
-[fn:5] Moretti, Franco. "The Soul and the Harpy." /Signs Taken For
-Wonders: On the Sociology of Literary Forms/, trad. David Forgacs, New
-York, Verso, 1983, pp. 1-41
 
 [fn:6] For a more thorough critique of Da's aims and methodology in
 this article, please see Ben Schmidt's "A computational critique of a
@@ -2053,6 +2042,20 @@ ones used most often by women and men, respectively.
 Making Stereotypes?” Debates in Digital Humanities 2019. Edited by
 Matthew K. Gold and Lauren Klein. University of Minnesota Press, 2019.
 
+[fn:7] Jockers, Matthew L. Macroanalysis: Digital methods and literary
+history. University of Illinois Press, 2013; Rybicki, Jan. “Vive la
+différence: Tracing the (Authorial) Gender Signal by Multivariate
+Analysis of Word Frequencies.” Digital Scholarship in the Humanities
+(2015): 1–16. doi: 10.1093/llc/fqv023.
+
+[fn:24] Such methods are often used in assessing authorship and
+authenticity, and stylometry in particular predates computing and has
+notable cases in English Renaissance drama and biblical
+texts. Generally, stylometry evaluates writing style by extracting and
+analysing distinctive features in text. Often used in stylometry,
+word-frequency analysis examines word usage to determine authorship of
+a text.
+
 [fn:13] In JavaScript, for example, the ~for loop~ is more convoluted:
 
 #+BEGIN_SOURCE
@@ -2081,7 +2084,15 @@ Jim Crow/ (2010), which argues that modern society perpetuates racist
 violence and segregation by criminalizing race through the war on
 drugs and mass incarceration.
 
-[fn:19] http://www.nltk.org/_modules/nltk/text.html#Text.similar
+[fn:22] Eve Kofosky Sedgwick, "Paranoid Reading"; Felski, /Limits of
+Critique/, Best, Stephen and Sharon Marcus. "Surface Reading: An
+Introduction." Representations 108 (2009): 1-21.
+
+[fn:21] Drucker implicitly refers to the first chapter from Franco
+Moretti's /Graphs, Maps, Trees/ (2007), throughout which Moretti
+graphs novels by their publication date between 1700 and 2000 and
+draws conclusions about the relationship between genre and generations
+of readers.
 
 [fn:20] Barad proposes a theory of "agential realism," a position that
 resists theories of representationalism, or "the idea that a knowing
@@ -2090,13 +2101,11 @@ thing-in-the-world (that thing is unchanged by that expression, and
 that expression is more available or apprehensible to the subject than
 the thing itself) ("Data Beyond Representation" par. 2).
 
-[fn:21] Drucker implicitly refers to the first chapter from Franco
-Moretti's /Graphs, Maps, Trees/ (2007), throughout which Moretti
-graphs novels by their publication date between 1700 and 2000 and
-draws conclusions about the relationship between genre and generations
-of readers.
+[fn:19] http://www.nltk.org/_modules/nltk/text.html#Text.similar
 
-[fn:22] Eve Kofosky Sedgwick, "Paranoid Reading"; Felski, /Limits of
-Critique/, Best, Stephen and Sharon Marcus. "Surface Reading: An
-Introduction." Representations 108 (2009): 1-21.
+[fn:2] Eve Kofosky Sedgwick, "Paranoid Reading."
+
+[fn:1] Amin, Kadji, Amber Jamilla Musser, and Roy Pérez “Queer Form:
+Aesthetics, Race, and the Violences of the Social” ASAP/Journal,
+Volume 2, Number 2, May 2017, p. 235.
 

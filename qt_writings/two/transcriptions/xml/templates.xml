@@ -20,34 +20,17 @@
       <body>
          <p>Some text here.</p>
 MOD
-         <app>
-            <rdg wit="#MS">
-               <mod type="subst">
-                  <del></del>
-                  <add place="above"></add>
-               </mod>
-            </rdg>
-         </app>
+
+      <mod type="subst">
+         <del rend='strikethrough'></del>
+         <add place="above"></add>
+      </mod>
 GAP
-         <app>
-            <rdg wit="#MS">
-               <del>
-                  <gap reason="illegible"></gap>
-               </del>
-            </rdg>
-         </app>
+<gap reason="illegible"></gap>
 DEL
-         <app>
-            <rdg wit="#MS">
-               <del></del>
-            </rdg>
-         </app>
+<del rend='strikethrough'></del>
 ADD
-         <app>
-            <rdg wit="#MS">
-               <add place="above"></add>
-            </rdg>
-         </app>
+<add place="above"></add>
    
       </body>
   </text>

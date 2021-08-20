@@ -47,7 +47,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
             
                
                   <mod type="subst">
-                     <del rend="strikethrough" strokes="2">
+                     <del rend="strikethrough">
                         was his custom,
                      </del>
                      <add place="above">
@@ -59,7 +59,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
             innumerable cigarettes, Lord Henry Wotton could just catch the 
             
                
-                  <del rend="strikethrough" strokes="inconclusive">
+                  <del rend="strikethrough">
                      <gap reason="illegible"></gap>
                   </del>
                
@@ -104,7 +104,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
             
                
                   <mod type="subst">
-                     <del rend="strikethrough" strokes="2">
+                     <del rend="strikethrough">
                         <gap reason="illegible"></gap>
                      </del>
                      <add place="above">
@@ -121,18 +121,20 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                   </add>
                
             
-            the full-length portrait of a young man of extraodinary personal beauty, and in front 
+            the full-length portrait of a young man of extraordinary personal beauty, and in front 
             of it, some little distance away, 
             
                
-                  <del rend="strikethrough" strokes="2">was sitting</del>
+                  <del rend="strikethrough">
+                     <gap reason="illegible"></gap>
+                  </del>
                
             
             sat the 
             
                
                   <mod type="subst">
-                     <del rend="strikethrough" strokes="1">painter</del>
+                     <del rend="strikethrough">painter</del>
                      <add place="above">artist himself,</add>
                   </mod>
                
@@ -153,7 +155,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
             
                
                   <mod type="subst">
-                     <del rend="strikethrough" strokes="1">
+                     <del rend="strikethrough">
                         <gap reason="illegible"></gap>
                      </del>
                      <add place="above">gave rise to so many strange</add>
@@ -167,7 +169,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
             a 
             
                
-                  <del implication="inconclusive" strokes="2">
+                  <del>
                      <unclear reason="illegible">delicate</unclear>
                   </del>
                
@@ -178,7 +180,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
             
                
                   <mod type="subst">
-                     <del rend="strikethrough" implication="illegible" strokes="2">
+                     <del rend="strikethrough">
                         <gap reason="illegible"></gap>
                         <add place="above">
                            <gap reason="illegible"></gap>
@@ -192,7 +194,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
          </p>
          <p>
             <quote>"It is your best work, Basil, the best thing you have ever done,"
-            said Lord Henry languidly. "You must certainly send it
+            said Lord Henry languidly."You must certainly send it
                
                   
                      <add place="above">next year</add>
@@ -209,15 +211,17 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
             
                
                   <mod type="subst">
-                     <del rend="strikethrough" strokes="1">
-                        <unclear reason="illegible">us</unclear>
+                     <del>
+                        <gap reason="illegible"></gap>
                      </del>
                      <add place="above">his friends</add>
                   </mod>
                
             
-               laugh at him in Oxford. "No: I won't send it anywhere. And yet, you are quite right 
-               about it. It is my best work."
+            laugh at him in Oxford.
+            <quote>
+               "No: I won't send it anywhere. And yet, you are quite right about it. It is my best
+               work."
             </quote>
          </p>
          <p>
@@ -225,7 +229,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
             wreathes of smoke that curled
 
                   <mod type="subst">
-                     <del rend="strikethrough" strokes="1">
+                     <del>
                         <gap reason="illegible"></gap>
                      </del>
                      <add place="above">up in such fanciful whorls</add>
@@ -240,7 +244,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                
                   
                      <mod type="subst">
-                        <del rend="strikethrough" strokes="1">it</del>
+                        <del>it</del>
                         <add place="above">one</add>
                      </mod>
                   
@@ -284,12 +288,12 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                I didn't know you were so vain, and I really can't see any resemblance between you 
                with your rugged strong face, and your coal-black hair, and this young Adonis, who 
                looks as if he was made of ivory and rose-leaves. Why, my dear Basil, he is a 
-               Narcissus! And you–-well of course you have an intellectual expression, and all that. 
+               narcissus! And you–well of course you have an intellectual expression, and all that. 
                But Beauty, real Beauty, 
                
                   
                      <mod type="subst">
-                        <del rend="strikethrough" strokes="2">only begins</del>
+                        <del>only begins</del>
                         <add place="above">ends</add>
                      </mod>
                   
@@ -298,7 +302,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                destroys the harmony of any face. The moment one 
                
                   
-                     <del rend="strikethrough" strokes="2">
+                     <del>
                         <gap reason="illegible"></gap>
                      </del>
                   
@@ -308,10 +312,10 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                
                   
                      <mod type="subst">
-                        <del rend="strikethrough" strokes="inconclusive">
+                        <del>
                            <gap reason="illegible"></gap>
                         </del>
-                        <add place="above">of the</add>
+                        <add>of the</add>
                      </mod>
                   
                
@@ -345,8 +349,10 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                
                   
                      <mod type="subst">
-                        <del rend="strikethrough" strokes="2">the</del>
-                        <add place="above">through history the faltering</add>
+                        <del>
+                           <gap reason="illegible"></gap>
+                        </del>
+                        <add>through history the faltering</add>
                      </mod>
                   
                
@@ -356,22 +362,22 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                
                   
                      <mod type="subst">
-                        <del rend="strikethrough" strokes="1">
-                           <unclear>saved</unclear>
+                        <del>
+                           <gap reason="illegible"></gap>
                         </del>
                         <add>at least spared</add>
                      </mod>
                   
                
                the knowledge of defeat. They live as we all should live, undisturbed, indifferent, 
-               and without disquiet. They neither bring ruin upon others, nor ever receive it from 
+               and without disquiet. They neither bring ruin upon ohers, nor ever receive it from 
                alien hands. Your rank and wealth, Harry; my brains, such as they are, my fame, 
                whatever it may be worth; Dorian Grey's 
                
                   
                      <mod type="subst">
-                        <del rend="strikethrough" strokes="2" implication="beauty">beauty;</del>
-                        <add place="above">good looks;</add>
+                        <del>beauty</del>
+                        <add>good looks</add>
                      </mod>
                   
                
@@ -380,9 +386,9 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
          </p>
          <p>
             <quote>
-               "Dorian Grey? Is that his name?" said Lord Henry, walking across the studio toward 
-               Basil Hallward. 
-            </quote> 
+               "Dorian Grey? Is that his name?" 
+            </quote>
+            said Lord Henry, walking across the studio toward Basil Hallward. 
          </p>
          <p>
             <quote>
@@ -405,7 +411,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                "Oh! I can't explain.
                
                   
-                     <del rend="strikethrough" strokes="1" implication="illegible">
+                     <del>
                         <gap reason="illegible"></gap>
                      </del>
                   
@@ -414,7 +420,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                
                   
                      <mod type="subst">
-                        <del rend="strikethrough" strokes="1">cannot</del>
+                        <del>cannot</del>
                         <add place="above">never</add>
                      </mod>
                   
@@ -425,7 +431,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                
                   
                      <mod type="subst">
-                        <del rend="strikethrough" strokes="2">dine out</del>
+                        <del>dine out</del>
                         <add place="above">leave town</add>
                      </mod>
                   
@@ -434,7 +440,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                is a silly habit, I daresay, but somehow it
                
                   
-                     <del rend="strikethrough" strokes="1">
+                     <del>
                         <gap reason="illegible"></gap>
                      </del>
                   
@@ -452,7 +458,9 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                
                   
                      <mod type="subst">
-                        <del rend="strikethrough" strokes="1">what</del>
+                        <del>
+                             <gap reason="illegible"></gap>
+                        </del>
                         <add place="above">where</add>
                      </mod>
                   
@@ -460,14 +468,18 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                my wife is
                
                   
-                     <del rend="strikethrough" strokes="1">doing</del>
+                     <del>
+                        <gap reason="illegible"></gap>
+                     </del>
                   
                
                , and my wife never knows
                
                   
                      <mod type="subst">
-                        <del rend="strikethrough" strokes="2">where</del>
+                        <del>
+                           <gap reason="illegible"></gap>
+                        </del>
                         <add place="above">what</add>
                      </mod>
                   
@@ -478,13 +490,13 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                      <add place="above">doing</add>
                   
                
-               When we meet--we do meet occasionally, when we dine, out
+               When we meet – we do meet occasionally, when we dine, out
                
                   
                      <add place="above">together</add>
                   
                
-               or go down to the Duke's--we tell each other the most absurd stories with the most 
+               or go down to the Duke's – we tell each other the most absurd stories with the most 
                serious faces. My wife is very good at it, much better in fact than I am. She never 
                gets confused over her dates, and I always do. But when she does find me out, she 
                never makes a row. I sometimes wish she did, but she merely laughts at me." 
@@ -505,7 +517,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                
                   
                      <mod type="subst">
-                        <del rend="strikethrough" strokes="2">said</del>
+                        <del>said</del>
                         <add place="above">cried</add>
                      </mod>
                   
@@ -514,7 +526,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                time they did not speak. 
                
                   
-                     <del rend="strikethrough" strokes="2">to each other.</del>
+                     <del>to each other.</del>
                   
                
             </quote>
@@ -526,7 +538,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                
                   
                      <mod type="subst">
-                        <del rend="strikethrough" strokes="3">said</del>
+                        <del>said</del>
                         <add place="above">murmured</add>
                      </mod>
                   
@@ -535,7 +547,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                
                   
                      <mod type="subst">
-                        <del rend="strikethrough" strokes="2">
+                        <del>
                            <gap reason="illegible"></gap>
                         </del>
                         <add place="above">half an hour</add>
@@ -576,7 +588,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                
                   
                      <mod type="subst">
-                        <del rend="strikethrough" strokes="1" implication="inconclusive">tell</del>
+                        <del>tell</del>
                         <add place="above">explain to</add>
                      </mod>
                   
@@ -600,16 +612,14 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                "Harry," said Basil Hallward,
                
                   
-                  <del rend="strikethrough" strokes="1" implication="intimacy">
-                     taking hold of his hand and
-                  </del>
+                     <del>taking hold of his hand and</del>
                   
                
                looking him straight in the face, "Every portrait that is painted with 
                
                   
                      <mod type="subst">
-                        <del rend="strikethrough" strokes="2" implication="passion">passion</del>
+                        <del>passion</del>
                         <add place="above">feeling</add>
                      </mod>
                   
@@ -619,7 +629,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                who 
                
                   
-                     <add place="above">on the colours of the canvas</add>
+                     <add>on the colours of the canvas</add>
                   
                
                reveals himself. The reason why I will not exhibit this picture, is that I am afraid 
@@ -631,9 +641,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
             
                
                   <mod type="subst">
-                     <del rend="strikethrough" strokes="1" implication="tension">
-                        hesistated for a moment
-                     </del>
+                     <del>hesistated for a moment</del>
                      <add place="above">laughed</add>
                   </mod>
                
@@ -644,9 +652,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                "And what is that?" he asked. 
                
                   
-               <del rend="strikethrough" strokes="1" implication="tension">
-                  in a low voice
-               </del>
+                     <del>in a low voice</del>
                   
                
             </quote>
@@ -657,10 +663,17 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                
                   
                      <mod type="subst">
-                        <del rend="strikethrough" strokes="inconclusive" implication="fatality">
-                           a look of pain
-                        </del>
-                        <add place="above">an expression of perplexity</add>
+                        <del>a look</del>
+                        <add place="above">an expression</add>
+                     </mod>
+                  
+               
+               of 
+               
+                  
+                     <mod type="subst">
+                        <del>pain</del>
+                        <add place="above">perplexity</add>
                      </mod>
                   
                
@@ -672,9 +685,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                
                   
                      <mod type="subst">
-                        <del rend="strikethrough" strokes="1" implication="tension">
-                           "Don't if you would rather not"
-                        </del>
+                        <del>"Don't if you would rather not"</del>
                         <add place="above">"I am all expectation, Basil"</add>
                      </mod>
                   
@@ -696,7 +707,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                
                   
                      <mod type="subst">
-                        <del rend="strikethrough">you</del>
+                        <del>you</del>
                         <add place="above">it</add>
                      </mod>
                   
@@ -704,9 +715,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                ," he replied, gazing intently at the little golden white-feathered disk. 
                
                   
-               <del rend="strikethrough">
-                  that has charmed all our poets from Chaucer to Tennyson
-               </del>
+                     <del>that has charmed all our poets from Chaucer to Tennyson</del>
                   
                
             </quote>
@@ -717,7 +726,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
             
                
                   <mod type="subst">
-                     <del rend="strikethrough">bird</del>
+                     <del>bird</del>
                      <add place="above">grasshopper</add>
                   </mod>
                
@@ -726,7 +735,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
             
                
                   <mod type="subst">
-                     <del rend="strikethrough">sing</del>
+                     <del>sing</del>
                      <add place="above">chirrup</add>
                   </mod>
                
@@ -735,7 +744,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
             
                
                   <mod type="subst">
-                     <del rend="strikethrough">a thicket</del>
+                     <del>a thicket</del>
                      <add place="above">the grass</add>
                   </mod>
                
@@ -744,7 +753,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
             
                
                   <mod type="subst">
-                     <del rend="strikethrough">past</del>
+                     <del>past</del>
                      <add place="above">by</add>
                   </mod>
                
@@ -754,9 +763,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
             
                
                   <mod type="subst">
-                     <del rend="strikethrough" strokes="2" implication="tension">
-                        heard his own breath, with a sense almost of fear
-                     </del>
+                     <del>heard his own breath, with a sense almost of fear</del>
                      <add place="above">wondered what was coming.</add>
                   </mod>
                
@@ -774,7 +781,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                
                   
                      <mod type="subst">
-                        <del rend="strikethrough">am afraid</del>
+                        <del>am afraid</del>
                         <add place="above">daresay</add>
                      </mod>
                   
@@ -799,7 +806,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                
                   
                      <mod type="subst">
-                        <del rend="strikethrough">felt</del>
+                        <del>felt</del>
                         <add place="above">became conscious</add>
                      </mod>
                   
@@ -809,7 +816,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                
                   
                      <mod type="subst">
-                        <del rend="strikethrough">grew</del>
+                        <del>grew</del>
                         <add place="above">was growing</add>
                      </mod>
                   
@@ -818,15 +825,17 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                
                   
                      <mod type="subst">
-                        <del rend="strikethrough">feeling</del>
-                        <add place="above"><gap reason="illegible"></gap></add>
+                        <del>
+                           <gap reason="illegible"></gap>
+                        </del>
+                        <add place="above">feeling</add>
                      </mod>
                   
                
                of terror came over me. I knew that I had 
                
                   
-                     <del rend="strikethrough">
+                     <del>
                         <gap reason="illegible"></gap>
                      </del>
                   
@@ -835,7 +844,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                
                   
                      <mod type="subst">
-                        <del rend="strikethrough">across</del>
+                        <del>across</del>
                         <add place="above">face to face</add>
                      </mod>
                   
@@ -844,8 +853,8 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                
                   
                      <mod type="subst">
-                        <del rend="strikethrough" strokes="3" implication="illegible">
-                           be<gap reason="illegible"></gap>
+                        <del>be
+                           <gap reason="illegible"></gap>
                         </del>
                         <add place="above">absorb</add>
                      </mod>
@@ -855,7 +864,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                
                   
                      <mod type="subst">
-                        <del rend="strikethrough" strokes="2" implication="passion">life</del>
+                        <del>life</del>
                         <add place="above">nature</add>
                      </mod>
                   
@@ -866,9 +875,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                      <mod type="subst">
                         <add place="above">extreme</add>
                         influence 
-                        <del rend="strikethrough" strokes="1" implication="inconclusive">
-                           of that kind
-                        </del>
+                        <del>of that kind</del>
                      </mod>
                   
                
@@ -879,7 +886,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                master; had at least always been so till I met Dorian Gray. Then – but I 
                
                   
-                     <del rend="strikethrough">
+                     <del>
                         <gap reason="illegible"></gap>
                      </del>
                   
@@ -888,7 +895,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                verge of 
                
                   
-                     <del rend="strikethrough">
+                     <del>
                         <gap reason="illegible"></gap>
                      </del>
                   
@@ -897,7 +904,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                
                   
                      <mod type="subst">
-                        <del rend="strikethrough">
+                        <del>be
                            <gap reason="illegible"></gap>
                         </del>
                         <add place="above">fate</add>
@@ -909,12 +916,8 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                
                   
                      <mod type="subst">
-                        <del rend="strikethrough" strokes="1" implication="fatality">
-                           never leave him till either he or I were dead
-                        </del>
-                        <add place="above">
-                           become absolutely devoted to him, and that I ought not to speak to him.
-                        </add>
+                        <del>never leave him till either he or I were dead</del>
+                        <add place="above">become absolutely devoted to him, and that I ought not to speak to him.</add>
                      </mod>
                   
                
@@ -922,7 +925,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                
                   
                      <mod type="subst">
-                        <del rend="strikethrough">leave</del>
+                        <del>leave</del>
                         <add place="above">quit</add>
                      </mod>
                   
@@ -936,7 +939,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                it was cowardice. I 
                
                   
-                     <del rend="strikethrough">
+                     <del>
                         <gap reason="illegible"></gap>
                      </del>
                   
@@ -956,7 +959,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                
                   
                      <mod type="subst">
-                        <del rend="strikethrough">am not sure of that
+                        <del>am not sure of that
                            <add place="above">Harry</add>
                         </del>
                         <add place="above">don't believe that, Harry</add>
@@ -995,7 +998,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                
                   
                     <mod type="subst">
-                       <del rend="strikethrough">
+                       <del>
                           <gap reason="illegible"></gap> of fame
                        </del>
                        <add place="above">standard of immortality</add>
@@ -1006,7 +1009,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                
                   
                      <mod type="subst">
-                        <del  rend="strikethrough" strokes="2" implication="beauty">beauty</del>
+                        <del>beauty</del>
                         <add place="above">personality</add>
                      </mod>
                   
@@ -1029,7 +1032,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                
                   
                      <mod type="subst">
-                        <del rend="strikethrough" strokes= "2" implication="beauty">narcissus</del>
+                        <del>narcissus</del>
                         <add place="above">man</add>
                         <del></del>
                      </mod>
@@ -1044,14 +1047,14 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                her guests. I remember her bringing
                
                   
-                     <del rend="strikethrough">up to</del>
+                     <del>up to</del>
                   
                
                me up to a most truculent and red-faced old 
                
                   
                      <mod type="subst">
-                        <del rend="strikethrough">man</del>
+                        <del>man</del>
                         <add place="above">gentleman</add>
                      </mod>
                   
@@ -1064,8 +1067,8 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                   successful man – 
                   
                      
-                  <del rend="strikethrough">quite inconsolable</del>
-                  <del rend="strikethrough">wants to marry</del>
+                        <del>quite inconsolable</del>
+                        <del>wants to marry</del>
                      
                   
                   wife killed by an elephant – quite inconsolable – wants to marry a 
@@ -1083,7 +1086,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                   – hates Mr. Gladstone – but very much interested in beetles – ask him about the new 
                   
                      
-                        <del rend="strikethrough">
+                        <del>
                            <gap reason="illegible"></gap>
                         </del>
                      
@@ -1092,7 +1095,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                </quote>
                
                   
-                     <del rend="strikethrough">
+                     <del>
                         <gap reason="illegible"></gap>
                      </del>
                   
@@ -1108,7 +1111,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                
                   
                      <mod type="subst">
-                        <del rend="strikethrough">that one does not</del>
+                        <del>that one does not</del>
                         <add place="above">except what one</add>
                      </mod>
                   
@@ -1139,7 +1142,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
             Hallward burried his face 
             
                
-                 <del rend="strikethrough">
+                  <del>
                      <gap reason="illegible"></gap>
                   </del>
                
@@ -1151,7 +1154,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                
                   
                      <mod type="subst">
-                        <del rend="strikethrough">which is the same as
+                        <del>which is the same as
                            <gap reason="illegible"></gap>
                         </del>
                         <add place="above">that is to say</add>
@@ -1234,14 +1237,14 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                democracy 
                
                   
-                     <del rend="strikethrough">to English</del>
+                     <del>to English</del>
                   
                
                against what they call the vices of the upper classes. They 
                
                   
                      <mod type="subst">
-                        <del rend="strikethrough">seem to think</del>
+                        <del>to think</del>
                         <add place="above">feel</add>
                      </mod>
                   
@@ -1263,7 +1266,9 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                
                   
                      <mod type="subst">
-                        <del rend="strikethrough">he is</del>
+                        <del>
+                           <gap reason="illegible"></gap>
+                        </del>
                         <add place="above">we are</add>
                      </mod>
                   
@@ -1272,7 +1277,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                
                   
                      <mod type="subst">
-                        <del rend="strikethrough">rage</del>
+                        <del>rage</del>
                         <add place="above">indignation</add>
                      </mod>
                   
@@ -1297,15 +1302,15 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                "Lord Henry 
                
                   
-                     <del rend="strikethrough">pulled his little straw-colored mousatache, and</del>
+                     <del>pulled his little straw-colored mousatache, and</del>
                   
                
                stroked his pointed 
                
                   
                      <mod type="subst">
-                        <del rend="strikethrough">
-                           <unclear>Henry</unclear>
+                        <unclear>Henry</unclear>
+                        <del>
                            <gap reason="illegible"></gap>
                         </del>
                         <add place="above">brown</add>
@@ -1316,7 +1321,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                
                   
                      <mod type="subst">
-                        <del rend="strikethrough">thick</del>
+                        <del>thick</del>
                         <add place="above">tassled</add>
                      </mod>
                   
@@ -1326,7 +1331,9 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                idea is right or wrong. the only thing he considers of any important is whether one 
                
                   
-                     <del rend="strikethrough">is sincere or putting it forward</del>
+                     <del>is sincere or putting it
+                        <gap reason="illegible"></gap>
+                     </del>
                   
                
                believes it oneself. Now the value of an idea has nothing whatsoever to do with the 
@@ -1341,7 +1348,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                However, I don't propose to discuss 
                
                   
-                     <del rend="strikethrough">
+                     <del>
                         <gap reason="illegible"></gap>
                      </del>
                   
@@ -1352,30 +1359,24 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
          </p>
          <p>
             <quote>
-               "Every day, Harry. I could
-               <mod type='subst'>
-                  <del rend="strikethrough" strokes="2" implication="fatality">not live</del>
-                  <add>n't be happy</add>                  
-               </mod> 
-               if I did 
-               <mod type='subst'>
-                  <del rend="strikethrough">not</del>
-                  <add>n't</add>
-               </mod>
+               "Every day, Harry. I coudln't 
+               [—] 
+               be 
+               [–] 
+               [happy] 
+               if I didn't 
+               [–]
                see him every day. Of course, sometimes it is only for a few minutes, But a few 
                minutes with somebody one worships mean a great deal." 
             </quote>
          </p>
          <p>
             <quote>
-               <mod type='subst'>
-                  <bdel rend="strikethrough">
-                     And
-                  </bdel>
-                  <add place='above'>But</add>
-               </mod>
+               "
+               [—] 
+               [But] 
                you 
-               <add place='above'>don't</add> 
+               [don't] 
                really worship him?"
             </quote>
          </p>
@@ -1387,196 +1388,112 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
          <p>
             <quote>
                "How extraordinary! I thought you would never care for anything but your painting – 
-               your art, I should say. Art sounds better, doesn't it?" 
+               your art, I should say. Art souns better, doesn't it?" 
             </quote>
          </p>
          <p>
             <quote>
                "He is all my art to me now. I sometimes think, Harry, that there are only two eras 
-               <add place='above'>of any importance</add>
+               [of any importance] 
                in the history of 
-               <mod type='subst'>
-                  <del rend='strikethrough'>
-                     earth
-                  </del>
-                  <add place='above'>
-                     the world. The first is
-                  </add>
-               </mod>
+               [the world] [-earth-], 
+               [the first is] 
                the difference of a new medium 
-               <add place='above'>in art</add> 
+               [in art], 
                and the second is 
-               <add place='above'>the</add>
+               [the] 
                difference of a new personality 
-               <add place='above'>for art also.</add> 
+               [for art also.] 
                What the invention of oil-painting was to the Venetians, the 
-               <mod type='subst'>
-                  <del rend='strikethrough' strokes='1' implication='beauty'>
-                     beauty
-                  </del>
-                  <add place='above'>face</add>
-               </mod>
+               [-beauty-] 
+               [face] 
                of Antinous was to late Greek sculpture, and the 
-               <mod type='subst'>
-                  <del rend='strikethrough' strokes='2' implication='beauty'>
-                     beauty
-                  </del>
-                  <add place='above'>face</add>
-               </mod> 
+               [-beauty-] [face] 
                of Dorian Gray will some day be to me. It is not merely that I paint from him, draw 
                from him, model from him. Of course I have done all that. He has stood as Paris in 
                dainty armour, and as Adonis with huntsman's cloak and polished boar-spear. Crowned 
                with heavy lotus-blossoms he has sat on the prow of Adrian's barge lookinginto the 
                green turbid Nile. He has leaned over the still pool of some Greek woodland, and 
                seen in the water's silent silver the wonder of his own 
-               <mod type='subst'>
-                  <del rend='strikethrough' strokes='1' implication='beauty'>
-                     beauty
-                  </del>
-                  <add place='above'>face</add>
-               </mod> 
+               [-face:-] [beauty:] 
                But he is much more to me than that. I won't tell you that I am dissatisfied with 
                what I have done of him, or that his beauty is such that art cannot expres it. There
                is nothing that art cannot express, and I know the work that I have done, since I 
-               met Dorian Gray, is 
-               <del rend='strikethrough'>the</del>
-               good work, is the best work of my life. But in some curious 
+               met Dorian Gray, is [—] good work, is the best work of my life. But in some curious 
                way – I wonder will you understand me – his personality has suggested to me an 
                entirely new manner in art, an entirely new mode of style. I see things differently, 
                I think of them differently. I can now recreate life in a way that was hidden from 
                me before. "A dream of form in days of thought" – who is it 
-               <mod type='subst'>
-                  <del rend='strikethrough'>that</del>
-                  <add place='above'>who</add>
-               </mod>
+               [-that-] [who] 
                says that? – I forget; – but it is what Dorian Gray has been to me. The merely 
                visible presence of this 
-               <mod type='subst'>
-                  <del rend='strikethrough'>boy</del>
-                  <add place='above'>lad</add>
-               </mod>
+               [-boy-] [lad,] 
                though 
-               <mod type='subst'>
-                  <del rend='strikethrough'>
-                     twenty summers have shown him roses less scarlet than his lips
-                  </del>
-                  <add place='above'>he is 
-                     <del rend="strikethrough">just</del>over twenty
-                  </add>
-               </mod>
+               [-twenty summer have shown him-] 
+               [he is -just- over twenty] 
+               [-roses less scarlet than his lips-] 
                his merely visible presence, ah! I wonder can you realize all that that means. 
                Unconsciously he defines for me the lines of a fresh school, a school that is to 
-               have in itself all the passion of the 
-               <mod type="subst">
-                  <del rend='strikethrough'>
-                     <gap reason='illegible'</gap>
-                  </del>
-                  <add place="above">romantic</add>
-               </mod>
-               spirit, all the perfection of the spirit that is Greek. The harmony of soul and body
-               – how much that is! We in our madness have separated the two, and have invented as a
-               realism that is bestial, an ideality that is void. Harry! Harry! if you only knew 
-               what Dorian Gray is
-               <add place='above'>to me.</add>
+               have in itself all the passion of the [–—] [romanic] spirit, all the perfection of 
+               the spirit that is Greek. The harmony of soul and body – how much that is! We in our 
+               madness have separated the two, and have invented as a realism that is bestial, an 
+               ideality that is void. Harry! Harry! if you only knew what Dorian Gray is 
+               [to me!] 
                You remember that landscape of mine, for which Agnew offered me such 
-               <gap reason="illegiible"></gap> 
-               a
-               <gap reason="illegible"></gap>
-               <add place="above">huge</add>
-               price, but which I would not part with? It is one of the best things I have ever 
-               done. And why is it so? Because, while I was painting it, Dorian Gray sat beside me. 
-               <del rend="strikethrough" strokes='1' implication='passion'>
-                  and as he leaned across to look at it, his 
-                  <mod>
-                     cheek just brushed my cheek.
-                     <add place="above">hair just touched my hand.</add>
-                  </mod>
-                  The world becomes young to me when I hold his hand, as when I ask him the 
-                     <gap reason="illegible"></gap>
-                  yield
-                     <gap reason="illegible"></gap>
-                  their
-                     <gap reason="illegible"></gap>
-               </del>
+               [—] a [-—] [huge] 
+               price, but whcih I would not part with? It is one of the best things I have ever 
+               done. And why is it so? Because, while I was painting it, Dorian Gray sat beside me, 
+               [-and as he leaned across to look at it, his cheek [-hair-] hair just brushed [-touched my] my cheek [-hand]. The world becomes young to me when I hold his hand, as when I ask him the --- yield --- their ----–—"] 
             </quote>
          </p>
          <p>
             <quote>
-               "Basil, this is
-                <mod type='subst'>
-                   <del rend='strikethrough' strokes='inconclusive' implication='fatality'>
-                      <gap reason="illegible"></gap>
-                      you must not talk
-                      <gap reason="illegible"></gap>
-                      his power, you
-                      <gap reason="illegible"></gap>
-                      to make yourself the
-                      <gap reason="illegible"></gap>
-                      of
-                      <gap reason="illegible"></gap> 
-                      slave! It is worse that wicked, it is silly. I hate Dorian Gray."
-                   </del>
-                   <add place="above">quite wonderful. I must see Dorian Gray.</add>
-                </mod>
+               "Basil, this is 
+               [–—] [quite wonderful. I must see Dorian Gray] 
+               [-not talk--–—with you----------–—his power, you--------–—to make yourself the--–—of—slave! It is worse than wicked, it is silly. I hate Dorian Gray-]" 
             </quote>
          </p>
          <p>
-            Hallward got up from the seat, and walked up and down the garden.
-            <del rend="strikethrough">
-               A curious smile curled his lips. He seemed like a man in a dream.
-            </del> 
-            After some time he came back. 
-            <quote>
-               "You don't understand, Harry..." he said. "Dorian Gray is merely to me a motive 
-                in art. He is never more present in my work then when no image of him is there. 
-                He is simply a suggestion, as I have said, of a new manner. I see him in the 
-                curves of certain lines, in the loveliness and subtleties of certain colours. 
-                That is all."
-             </quote>
+            Hallward got up from the seat, and walked up and down the garden. 
+            [-A curious smile curled his lips. He seemed like a man in a dream-]. 
+            After some time he came back.
          </p>
-         <p> 
+         <p>
             <quote>
-               "Then why won't you exhibit his
-               <mod>
-                  <del rend="strikethrough">picture?</del>
-                  <add place="above">portrait?</add>
-               </mod>
+               ‘You don’t understand Harry..." he said. "Dorian Gray is merely to me a motive in 
+               art. He is never more present in my work, then when no image of him is there. He is 
+               simply a suggestion, as I have said, of a new manner. I see him in the curves of 
+               certain lines, in the loveliness and subtleties of certain colours. That is all." 
+            </quote>
+         </p>
+         <p>
+            <quote>
+               "Then why won’t you exhibit his 
+               [-picture-] [portrait]
+               ?"
             </quote>
          </p>
          <p>
             <quote>
                "Because I have put into it 
-               <add place="above">all</add>
-               the
-               <add place="above">extraordinary</add>
-               romance of which,
-               <add place="above">of course,</add>
-               I have never dared to speak to him. He knows nothing about it,
-               <add place="above">he will never know anything about it,</add>
-               but the world
-               <mod type='subst'>
-                  <del rend='strikethrough'>would</del>
-                  <add place='above'>might</add>
-               </mod>
-               guess it,
-               <add place="above">and</add>
-               <del rend="strikethrough" strokes='2' implication='passion'>
-                  where there is merely love, they would see something evil, where there is 
-                  spectacular passion they would suggest something vile.
-               </del>
-               I will not bear my soul to their shallow
-                  <add place="above">prying</add>
-               eyes. My heart shall
-               <mod type='subst'>
-                  <del rend="strikethrough" strokes='1' implication='fatality'>
-                     not be made their mockery
-                  </del>
-                  <add place="above">never be put under their microscope.</add>
-               </mod>
+               [all] 
+               the 
+               [extraordinary] 
+               romance of which, 
+               [of course,] 
+               I have never dared to speak to him. He knows nothing about it, 
+               [he will never know anything about it] 
+               but the world 
+               [-would-] [might] 
+               guess it, and 
+               [-where there is merely love, they would see something evil, where there is spectacular passion they would suggest something vile-] 
+               I will not bear my soul to their shallow 
+               [prying] 
+               eyes. My heart shall 
+               [-not be made their mockery.-] [never be put under their microscope.] 
                There is too much of myself in 
-               <gap reason="illegible"></gap>
-               <add place="above">the thing,</add>
-               Harry, too much of myself!
+               [—] [the thing,] 
+               Harry, too much of myself!"
             </quote>
          </p>
          <p>
@@ -1605,57 +1522,21 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
             <quote>
                "He likes me," he answered after a pause; "I know he likes me. Of course I flatter 
                him dreadfully. I find a strange pleasure in saying things to him that I know I 
-               <mod type="subst">
-                  <del rend='strikethrough'>will</del>
-                  <add place="above">shall</add>
-               </mod>
+               [-will-] [shall] 
                be sorry for having said. I give myself away. 
-               <del rend='strikethrough' strokes='' implication='beauty'>
-                  I told him that beauty like his is genius, is higher
-                  <add place='above'>
-                     <gap reason='illegible'></gap>
-                  </add>
-                  than genius, as it needs no explanation, and is one of the great facts of the 
-                  world, like sunlight or spring time, or what 
-                  <gap reason='illegible'></gap>
-                  the explanation in dark waters of that thin silver shell we call the moon.
-               </del>
+               [-I told him that beauty like his is genius, is higher-[^—] -than genius, as it needs no explanation, and is one of the great facts of the world, like sunlight or spring time, or what ---- the explanation in dark waters of that thin silver shell we call the moon.-] 
                As a rule, he is charming to me, and we walk home together, from the club, arm in 
                arm, or sit in the studio 
-               <del rend='strikethrough' strokes='1' implication='intimacy'>
-                  beside each other
-               </del>
+               [-— each other-] 
                and talk of a thousand things. Now and then, 
-               <del rend='strikethrough' strokes='3' implication='illegible'>
-                  <gap reason='illegible'></gap>
-                  <add place='above'>
-                     <gap reason='illegible'></gap>
-                  </add>
-                  <gap reason='illegible'></gap>   
-               </del> 
+               [-the -----------------–—] 
+               [^—] 
                however, he is horribly thoughtless, and seems to take a real delight in giving me 
                pain. Then I feel, Harry, that I have given away my whole soul to someone 
-               <del rend='strikethrough' strokes='inconclusive' implication='fatality'>
-                  seems to take a real delight in giving me pain. I can quite understand it. I can 
-                  imagine myself doing it. But not to him, not to him. Once or twice we have been 
-                  away together, then I have
-                  <add place='above'>
-                     had
-                  </add>
-                  him all to myself. I am horribly jealous of him, of course. I never let him talk 
-                  to me of the people he knows. I like to isolate him from the rest of life, and to 
-                  think that he absolutely belongs to me. He does not, I know. But it gives me 
-                  pleasure to think that he does. Harry! I have given this 
-                  <mod type="subst">
-                     boy
-                     <add place="above">young man</add>
-                  </mod>
-                  my whole
-                  <gap reason='illegible'></gap>
-               </del>
-               <add>who</add>
-               treats
-               <gap reason='illegible'></gap>
+               [-seems to take a real delight in giving me pain. I can quite understand it. I can imagine myself doing it. But not to him, not to him. Once or twice we have been away together, then I have-] 
+               [had] [-him all to myself. I am horribly jealous of him, of course. I never let him talk to me of the people he knows. I like to isolate him from the rest of life, and to think that he absolutely belongs to me. He does not, I know. But it gives me pleasure to think that he does. Harry! I have given this [-boy-] [-young man-] my whole –—] 
+               [who treats]
+               [-------------] 
                it as if it were a flower to put in his coat, a bit of decoration to charm his 
                vanity, an ornament for a summer's day." 
             </quote>
@@ -1663,72 +1544,50 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
          <p>
             <quote>
                "Days in summer, Basil, are apt 
-               <mod type="subst">
-                  <del rend='strikethrough'>wax long</del>
-                  <add place="above">linger</add>
-               </mod>
-               Perhaps you will tire sooner than he will. It is a bad thing to think of, but there
-               is no doubt that genius lasts longer than beauty. That accounts for the fact that 
-               <mod type="subst">
-                  <del rend='strikethrough'>we are all horribly overeducated</del>
-                  <add place="above">we all take such pains to overeducate ourselves</add>
-               </mod>
+               [-wax long.-] [to linger.] 
+               Perhaps you will tire ssooner than he will. It is a sbad thing to think of, but 
+               there is no doubt that genius lasts llonger than beauty. That accounts ffor the fact 
+               that 
+               [we all take such pains to overeducate ourselves] [-we are all horribly overeducated-] 
                in the wild struggle for existence, we want to have something that endures, and so 
-               we fill our minds with rubbish and facts, in the silly hope of keeping our place. 
-               The thoroughly well-informed man – that is 
-               <mod type="subst">
-                  <del rend='strikethrough'>what we all try to be.</del>
-                  <add place="above">the modern ideal.</add>
-               </mod>
-               And the mind of the thoroughly well-informed man is a dreadful thing. It is like a 
-               bric-a-brac shop, all monsters and dust, and every thing priced above its proper 
+               we fill our minds with rubbish and facts, in the silly hope of keeping oour place. 
+               The thoroughly well-informed mman – that is 
+               [the modern ideal.] 
+               [-what we all try to be.-] 
+               And the mind of the thoroughly wwell-informed man is a dreadful thing. It is like a 
+               bric-a-brac shop, all monsters and dust, and eevery thing priced above its proper 
                value. I think you will tire first, all the same. Some day you will look at him, and 
-               he will seem to you to be a little out of drawing, or you won't like his tone of 
+               he will seem to you to be a little out of drawing, oor you won't like his tone of 
                colour, or something. You will bitterly reproach him in your own heart, and 
                seriously think that he has behaved 
-               <mod type="subst">
-                  <del rend='strikethrough'>
-                     <gap reason='illegible'></gap>
-                  </del>
-                  <add place="above">very badly to</add>
-               </mod>
-               you. The next time he calls, you will be perfectly cold aand indifferent. It will be
-               a great pity, for it will alter you. The worst of having a romance is that it makes
-               one so unromantic."
+               [—] [very badly to] 
+               you. The next time he ccalls, you will be perfectly cold aand indifferent. It will 
+               be a great pity, for it will alter you. The worst of having a romance is that it 
+               makes one so unromantic."
             </quote>
          </p>
          <p>
             <quote>
                "Harry, don't talk like that. 
-               <del rend='strikethrough'>
-                  I am not afraid of things, but I am afraid of words. I cannot understand how it 
-                  is that no prophecy has ever been fulfilled. None has, I know. And yet it seems 
-                  to me that to say a thing, is to bring it to pass. Whatever has found expression 
-                  becomes true, and what has not found expression can never happen. As for genius 
-                  lasting longer than beauty – it is only the transitory that stirs me. What is 
-                  permanent is monotonous, and produces no effect. Our senses become dulled by 
-                  what is always with us.
-               </del> 
-               As long as I live, the personality of Dorian Gray will dominate me.  
-               <del rend='strikethrough' strokes='inconclusive' implication='illegible'>
-                  If it
-                  <gap reason='illegible'></gap>
-                  memory, there will be a magic in it
-                  <gap reason='illegible'></gap>
-                  dream it will be more real than reality
-               </del>
+               [-I am not afriad of things, but I am afraid of words. I cannot understand how 
+               it is that no prophecy has ever been fulfilled. None has, I know. And yet it 
+               seems to me that to say a thing, is to bring it to pass. Whatever has found expression 
+               becomes true, and what has not found expression can never happen. As for genius 
+               lasting longer than beauty – it is only the transitory that stirs me. What is 
+               permanent is monotonous, and produces no effect. Our senses become dulled by 
+               what is always with us.-]. 
+               As long as I live, the personality of Dorian Gray will dominate me. 
+               [-If it -–—]memory, there will be a magic in it----–—dream it will be more 
+               real than reality-] 
                You 
-               <mod type="subst">
-                  <del rend='strikethrough'>cannot realize</del>
-                  <add place="above">can't feel</add>
-               </mod>
+               [-cannot realize-] [can't feel] 
                what I feel. You change too often." 
             </quote>
          </p>
          <p>
             <quote>
                "Ah! My dear Basil, that is exactly why I can feel it. Those who are faithful know 
-               only the pleasures of love, it is the faithless who know love's tragedies," and Lord 
+               only the pleasures of love, it is the faithless who know love's tragedie," and Lord 
                Henry struck a light on a dainy silver case, and began to smoke a cigarette with a 
                self-conscious and self-satisfied air, as if he had summed up life in a phrase.
             </quote>
@@ -1759,9 +1618,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
          <p>
             <quote>
                "Where 
-               <del rend='strikethrough'>
-                  I heard the name of
-               </del>
+               [-I heard the name of-] 
                was it?" Asked Hallward, with a slight frown. 
             </quote>
          </p>
@@ -1773,15 +1630,9 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                good-looking. Women have no appreciation of good looks. At least, good women have 
                not. She saw that he was very earnest, and had a beautiful nature. I at once 
                pictured to myself a creature with spectacles and 
-               <mod type="subst">
-                  <del rend='strikethrough'>no</del>
-                  <add place="above">lank</add>
-               </mod>
+               [-no-] [lank] 
                hair, horribly freckled, and 
-               <mod type="subst">
-                  <del rend='strikethrough'>with</del>
-                  <add place="above">tramping abouty on</add>
-               </mod>
+               [tramping about on] [-with-] 
                huge feet. I wish I had known it was your friend." 
             </quote>
          </p>
@@ -1808,19 +1659,13 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
          <p>
             <quote>
                "You must introduce me now," 
-               <mod type="subst">
-                  <del rend='strikethrough'>said</del>
-                  <add place="above">cried</add>
-               </mod>
+               [-said-] [cried] 
                Lord Henry, laughing. 
             </quote>
          </p>
          <p>
             Basil Hallward turned to the 
-            <mod type="subst">
-               <del rend='strikethrough'>servant</del>
-               <add place="above">butler</add>
-            </mod>
+            [-servant-] [butler] 
             who stood blinking in the sunlight. 
             <quote>
                "Ask Mr. Gray to wait, Parker; I will be in in a few moments." 
@@ -1834,7 +1679,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                nature. Your aunt was quite right in what she said of him. Don't spoil him for me. 
                Don't try to influence him. Your influence would be bad. The world is wide, and has 
                many marvellous people in it. Don't take away from me the one person that makes life 
-               <del rend='strikethrough'>lovely</del>
+               [-lovely-] 
                absolutely lovely to me, and that gives me my art whatever wonder or charm it 
                possesses. Mind, Harry, I trust you."
             </quote>

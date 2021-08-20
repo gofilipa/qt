@@ -1,23 +1,27 @@
 * sketch two
+
 ** chapter overview
-This chapter looks at TEI, the text editing standard, by encoding two
-chapters from Oscar Wilde's manuscript of /Dorian Gray/. The encoding
-work employs TEI to indicate how the homosexual elements have been
-edited out of this manuscript. 
+This chapter looks at TEI, the text editing standard, by encoding the
+first two chapters from Oscar Wilde's manuscript of /Dorian Gray/. The
+encoding work employs TEI to explore how the homosexual elements were
+handled during revision. I use TEI tags to indicate the elements which
+have been edited out of this manuscript, and the degree to which they
+have been obscured by Wilde's editorial pen.
 
 Questions:
 - /What kind of analysis and investigation does the encoded document
   make possible?/
-    - to explore queer desire, sensuality that has been obscured. 
+    - to explore how queer eroticism has been obscured.
     - to explore the levels of obscurity.
 - /What kind of knowledge are we making from it?/
     - In keeping with the momentum from the last chapter, which is how
       do we compute queer, how do we /mark/ queerness? And doing so in
       a way that opens up what we think of as queer?
 
-** on queer encoding
 
-*** Marion Thain et al, eds, [[https://mf.dev.cdhsc.org/home][Dairies of Michael Field]]
+** Readings on queer encoding
+
+*** Thain, Marion et al, eds, [[https://mf.dev.cdhsc.org/home][Dairies of Michael Field]]
 "In addition to their own aesthetic response to events both
 contemporaneous and historically-resonant, it offers powerful
 historical documentation of the construction of a queer identity
@@ -33,20 +37,45 @@ Yeats, Algernon Charles Swinburne, and Walter Pater" ("Home").
 *** Thain, Marion, "[[https://www.tandfonline.com/doi/abs/10.1080/13555502.2016.1156014][Perspective: Digitizing the Diary - Experimentsin Queer Encoding]]," /Journal of Victorian Culture/, Volume 21, Issue
 2, 1 June 2016, Pages 226–241.
 
-TEI can encode queer identity construction: 
+"The name ‘Michael Field’ is therefore a bipartite name, signifying
+the assumed names of two separate women, as well as appearing to
+signify one single male identity" (228).
 
-"One of the great benefits of using TEI is that it renders searchable
-words not in the text but intimately tied to it. This is not a small
-issue in a diary in which Katharine Bradley herself is referred to by
-more than 20 different names. Indeed, the proliferation and
-slipperiness of names is no mere childish caprice but a core part of
-the articulation of queer: an unhinging of ‘given’ or apparently
-predetermined identity through a strategy that articulates identity as
-constantly shifting, constructed, and performative. Text encoding can,
-in a simple but powerful way, help us explore and map this crucial
-strand of queer identity construction across the diary" (233).
+"they express their unity through their joint composition, but they do
+not efface their distinctness... the volumes do not pretend to record
+the life of a single male, as two different hands record the
+experience of two clearly differentiated people. It is the nature of
+the expression of their lived, ‘queer’, identity that particularly
+interests me in this essay: how is this queer narrative constructed,
+and how might technology offer new ways to analyse it?" (228-9).
 
-objectivity is actually the encoder's decision:
+"Phillipe Lejeune’s definition of the ‘autobiographical pact’, which
+relies on the proper name as the guarantee of ‘a contract of
+identity’,17 for example, is clearly troubled by this example of dual
+authorship presented under what appears to be a single male
+sobriquet.18 Bradley and Cooper’s play with names tests particularly,
+then, notions of authenticity one might think of as central to
+autobiography" (232).
+
+"Using the ~<persName>~ tag ... renders searchable words not in the
+text but intimately tied to it. This is not a small issue in a diary
+in which Katharine Bradley herself is referred to by more than 20
+different names. Indeed, the proliferation and slipperiness of names
+is no mere childish caprice but a core part of the articulation of
+queer: an unhinging of ‘given’ or apparently predetermined identity
+through a strategy that articulates identity as constantly shifting,
+constructed, and performative. Text encoding can, in a simple but
+powerful way, help us explore and map this crucial strand of queer
+identity construction across the diary" (233).
+
+"One of the most interesting opportunities that encoding opens up in
+relation to the diary of Michael Field is the potential for analysis
+of voice in a way that has not previously been possible. Encoding will
+enable, for the first time, a systematic separation of the women’s
+contributions" (234).
+
+"the drama of multiple selves contained within the ‘Michael Field’
+signature" (235).
 
 "The seductive illusion of computation more generally might be the
 promise of objectivity, but what is delivered is objectivity not about
@@ -54,7 +83,17 @@ the corpus but about the premises of the algorithm – or, in this case,
 the decisions made earlier by the team who chose what and how to
 encode" (237).
 
-on queer encoding as "deviant encoding": 
+
+"even basic acts of encoding are often much less objective than we
+would like to think. Separating the two voices in the diary of Michael
+Field, for example, is more of an interpretative endeavour than an
+empirical one. Noting which passages are in which hand might seem
+straightforward given the obvious difference in script, but
+dislocations between hand and voice (one woman writing the other’s
+words) require interpretative marking up... Encoding the diary can
+make evident structures in the text otherwise not communicated in the
+artefact or in the digital object that represents it: not only formal
+attributes, but also interpretative structures" (238).
 
 "It must be stressed that the experiments outlined above aim to enable
 analysis not just of this one productive instance, but to use the
@@ -142,7 +181,7 @@ wonder, always subject to producing essentialist representations of
 gender?" (238).
 
 "Any proposed solution to the project of gender ontologies forces us
-to confront a conundrum.  On the one hand, gender ontologies, for all
+to confront a conundrum. On the one hand, gender ontologies, for all
 their hierarchical, Anglocentric, and metaphysical baggage, are
 crucial if we are going to map the formation and de-formation of
 gender across texts, times, and cultures. Ontologies could be helpful
@@ -150,7 +189,7 @@ in showing where similar terms are being used in different ways,
 within a text and across texts, or how one person’s gender/sexuality
 is being defined in different ways within a text. On the other hand,
 there may not be a technological solution to the difficulties posed by
-gender ontologies.  Data will always be contextual, limited, and only
+gender ontologies. Data will always be contextual, limited, and only
 proximate to any individual identity.  Returning to our earlier
 question, can identities ever be ontologized?, our answer is, only if
 we revise our concept of what the end result is: the linked data
@@ -179,7 +218,7 @@ provided by Hirschfeld himself. His theory of sexual intermediaries
 undid the binary opposition of man and woman, positing an endless
 range of variants between these extremes. The pure man or pure woman
 are, he says, “only abstractions, invented extremes; in reality they
-have not as yet been observed.” 104 Sexual identifi cation becomes an
+have not as yet been observed.” Sexual identification becomes an
 ongoing task in which categorical distinctions are only provisional"
 (19).
 
@@ -199,10 +238,10 @@ inherent in computational logic, queerness as 'self shattering'.
 otherwise? Does markup contain the potential for queering?
 
 Markup is queerable: TEI encourages and even permits dissent. 
-- "Markup disrupts this insistence on semantics, on a meaningful
-connection between the label, the term that we use for something, and
-the identity of the thing. The tag in markup is just a signifier, and
-its association with a specific meaning or entity is conventional."
+- "Markup disrupts this connection between the label, the term that we
+  use for something, and the identity of the thing. The tag in markup
+  is just a signifier, and its association with a specific meaning or
+  entity is conventional."
 - The meaning really depends on what the consensus is -- unless we use
 it in a private exercise, then it means what we want it to mean. 
 - "Customization in the TEI is a way of expressing dissent" (This is
@@ -241,7 +280,7 @@ the parts we need are there, and avoiding unnecessary and excess
 materials" (Bauman, Overview of TEI Customization, 2). 
 
 
-** on technology / queerness
+** Readings on technology / queerness
 
 *** Flanders, "Building Otherwise," /Bodies of Information/,
 https://dhdebates.gc.cuny.edu/read/untitled-4e08b137-aec5-49a4-83c0-38258425f145/section/f627035f-5fd0-4bd6-ad74-361374ed9a2a#ch16 
@@ -298,15 +337,15 @@ stable."
 to show us categories like race as they have been experienced, not as
 they have been captured and advanced by businesses and governments?" 
 
-"It may sound as though I am asking us to develop data models that pin
-a person’s identity down in even greater detail, in the way Facebook’s
-expanded gender categories do (Molloy). But that is not it at all. I
-would like us to start understanding markers like gender and race not
-as givens but as constructions that are actively created from time to
-time and place to place. In other words, I want us to stop acting as
-though the data models for identity are containers to be filled in
-order to produce meaning and recognize instead that these structures
-themselves constitute data."
+/"It may sound as though I am asking us to develop data models that
+pin a person’s identity down in even greater detail, in the way
+Facebook’s expanded gender categories do (Molloy). But that is not it
+at all. I would like us to start understanding markers like gender and
+race not as givens but as constructions that are actively created from
+time to time and place to place. In other words, I want us to stop
+acting as though the data models for identity are containers to be
+filled in order to produce meaning and recognize instead that these
+structures themselves constitute data."/
 
 "It is not only about shifting the focus of projects so that they
 feature marginalized communities more prominently; it is about ripping
@@ -398,31 +437,34 @@ Scale, 1880-2000"
 
 
 ** to read eventually
-**** Bode on Close & Distant reading
-who talks about a new object for
-study, the scholarly edition. 
+*** Bode on Close & Distant reading
+who talks about a new object for study, the scholarly edition. 
 
-**** From Flander's CV: https://juliaflanders.wordpress.com/about/cv/
-**** “Writing, Reception, Intertextuality: Networking Women’s Writing,”
+*** From Flander's CV: https://juliaflanders.wordpress.com/about/cv/
+***** “Writing, Reception, Intertextuality: Networking Women’s Writing,”
   co-authored with Sarah Connell. Journal of Medieval and Early Modern
   Studies 50.1 (January 2020):
   161–180. https://doi.org/10.1215/10829636-7986649.
-**** “From Modeling to Interpretation to Spielraum,” keynote lecture at
+***** “From Modeling to Interpretation to Spielraum,” keynote lecture at
   DHd conference, University of Paderborn, March 9, 2020. Online at
   https://www.youtube.com/watch?v=H7ULStTL-bQ.
-**** “Art, Data, and Formalism,” (Digital) Humanities Revisited,
+***** “Art, Data, and Formalism,” (Digital) Humanities Revisited,
   Herrenhausen Palace, Hanover,
   December 2013.    http://www.volkswagenstiftung.de/veranstaltungen/veranstaltungskalender/veranstaltungsseite/digitalhumanities/digital-humanities-2013-selected-audio-recordings.html  
-**** "A Matter of Scale,” keynote lecture co-presented with Matthew
+***** "A Matter of Scale,” keynote lecture co-presented with Matthew
   Jockers at “Boston-Area Days of DH 2013.” Northeastern University,
   March 2013. Available
   online. http://digitalcommons.unl.edu/englishfacpubs/106 
-**** “TEI and Scholarship,” keynote lecture at the annual conference of
+***** “TEI and Scholarship,” keynote lecture at the annual conference of
   the Text Encoding Initiative Consortium. Texas A&M University,
   November 2012., https://juliaflanders.wordpress.com/2013/08/31/tei-and-scholarship-in-the-crlowud/  
 
-**** http://v-machine.org/
-**** Crompton/Schwartz's Lesbian Historiography
+***** http://v-machine.org/
+***** Crompton/Schwartz's Lesbian Historiography
+
+*** Jed Deppman, Daniel Ferrer, and Michael Groden, eds. Genetic
+  Criticism: Texts and Avant-textes. Philadelphia: University of
+  Pennsylvania Press, 2004.
 
 
 ** TEI notes
@@ -590,7 +632,7 @@ simultaneously. Especially when paragraphs run over pages. Not 'well
 formed' XML. This mostly happens within the physical structure markup 
 
 
-** what is the intervention I'm trying to make
+** Potential interventions
 
 *Preservation*: 
 If quantitative analysis attempts to reproduce or verify answers/facts
@@ -609,6 +651,12 @@ XML as a technology for bounding text within elements
 XML as a technology for subscribing elements to an organized hierarchy
 
 
+*** brainstorm
+Perhaps the intervention here is about semantic markup & queerness as
+something irresolvable. Queerness is not something to be resolved or
+recuperated. 
+
+
 ** Planning my project:
 
 *** guiding questions
@@ -623,11 +671,20 @@ Research question: why am I doing this?
  meaning of the tags. I need to find this thing which constrains TEI,
  and also work through and against it to queer TEI.
 
+ The constraint of TEI is the /semantic nature of the markup/, which
+ means that we impute meaning to markup. TEI can be customized to
+ include whatever tags that we want. This means there is an infinite
+ number of ways that we can tag a document. But does this abundance of
+ option actually create more possibilities for identifying /
+ preserving textual elements? It actually problematizes the markup
+ process. 
+
 Goals: where do I want to go?
 
- To create a genetic critical edition for the first two chapters of
- the text in the manuscript. Rather than digitize the whole thing, I
- want to create an example of this kind of queer encoding.
+ To create a genetic &/or diplomatic edition for the first two
+ chapters of the text in the manuscript. Rather than digitize the
+ whole thing, I want to create an example of this kind of queer
+ encoding.
 
 Non-goals: where do I want to stop?
 
@@ -641,12 +698,16 @@ Methodology: what am I doing? how am I going to do it?
  will use the oXygen editor. Once encoding is concluded, I will
  publish my work in an online format.
 
+ As I encode, I will begin writing preliminary parts of the chapter. A
+ brief history of textual scholarship, some current approaches, and a
+ summary of the changes that Wilde made on the text.
+
  Then, I will turn to queer theory to examine what kind of theory
  applies to the process of encoding. I will also read and re-read my
  secondary materials on both queer encoding and scholarship on this
  novel.
 
- Finally, I will write up my argument and insights. 
+ Finally, I will write up the rest of my argument and insights.
 
 Logistics: who will I do it with? When will I do it?
 
@@ -674,4 +735,141 @@ Creating attributes for the <del> and <add> elements, to mark the
 number of strokes and the theme of the content that is removed/added. 
 
    <del strokes="1" theme="erotic">
+
+
+* Preliminary Outline
+
+** History of Textual Scholarship
+**** textual scholarship: from restorative to distorting
+** Oscar Wilde's changes to Dorian Gray
+*** the changes in the first chapter
+- beauty
+- physical intimacy & affection
+- fatality
+- passion, romance
+- erotics
+
+The revisions center on the nature of Basil's devotion to
+Dorian. Signs of it's intensity and drama are
+suppressed. Additionally, Wilde obscures the sense of intimacy and
+affection between Basil and LH which arises in moments when Basil
+struggles articulate his feelings for Dorian.
+
+Wilde will substitute words to temper the intensity of meaning, like
+"passion" for "feeling". 
+
+Suppression of "beauty" in exchange for less suggestive words. 
+
+Wilde takes out signs of fatality about Basil's devotion to Dorian. 
+
+Wilde alters suggestions of eroticism into aestheticism.
+
+    
+** Customization as Constraint
+The constraint of TEI is the /semantic nature of the markup/, which
+means that we impute meaning to markup. TEI can be customized to
+include whatever tags that we want. This means there is an infinite
+number of ways that we can tag a document. But does this abundance of
+option actually create more possibilities for identifying / preserving
+textual elements? It actually problematizes the markup process.
+
+The constraint is containment. TEI bounds what it names. There are
+boundaries, it cannot overlap, or contain pluralities. This creats a
+problem for preservation, because things have to be fixed in order to
+be "marked up." Labels are compulsory. So how do we label something
+static and keep it fluid at the same time?
+
+** Some engagement with Queer Theory
+
+Heather Love's /Feeling Backward/.
+
+*** p. Rescue & Recovery
+
+The impulse of the queer theorist to "rescue" queer figures from the
+past is akin to that of the textual scholar who wants to "rescue" and
+preserve texts of the past. 
+
+"Queer critics tend to disavow their need for the past by focusing on
+the heroic aspect of their work of historical recovery. Like many
+demanding lovers, queer critics promise to rescue the past when in
+fact they dream of being rescued themselves" (33).
+
+"Such is the relation of the queer historian to the past: we cannot
+help wanting to save the figures from the past, but this mission is
+doomed to fail. In part, this is because the dead are gone for good;
+in part, because the queer past is even more remote, more deeply
+marked by power's claw; and in part because this rescue is an
+emotional rescue, and in that sense, we are sure to botch it. But,
+according to Blanchot, not to botch it would be a betrayal. Such a
+rescue effort can only take place under the shadow of loss and in the
+name of loss; success would constitute failure" (51).
+
+*** queerness as irredeemable
+
+We cannot redeem, rescue, rescusitate queerness, because ultimately
+what we want is the thing in recession. Bringing queerness to the
+light of day would cease to make it queer. This is this thing which
+remains inscrutable.
+
+"Rather than attempt to 'overcome' identity, I want to suggest a mode
+of historiography that recognizes the inevitability of a 'play of
+recognitions' but that also sees these recognitions not as consiling
+but as shattering" (45).
+
+"Foucault does not end by expressing a desire for the intact
+document. He does not, it seems, want to look history in the face;
+rather, the fascination here is with the face that turns away, and,
+even more, perhaps, with the darkness toward which it turns" (49).
+
+"Foucault's desire for the boy has a queer specificity; he would not
+easily give up the dreamy and rueful retrospect he inspires. He wanst
+the love of 'that boy,' already receding into the distance--not the
+daytime love, the easy intimacies of a domestic partner. He wants him
+in the taxi, just as Orpheus wants Eurydice in the night, in the
+underworld.  
+This structure of feeling is not a pathology, nor does it describe the
+essential nature of the homosexual... Anyone, I want to insist, might
+be seduced by the figure of Eurydice: she is radiant in her
+withdrawal. But her specific attraction for queer subjects is an
+effect, I want to argue, of a historical experience of love as bound
+up with loss. To recognize Eurydice as desirable in her turn away is a
+way of identifying through that loss. Such an approach would be
+consistent with an important aspect of contemporary queer politics,
+which has tended to define community not as constituted by a shared
+set of traits, but rather as emerging from a shared expereince of
+social violence. In this sense, following the trace of violence and
+marginalization--studying not only obscure men, but obscurity
+itself--would allow us to deflect questions of identity and to
+acknowledge the losses of both the past and present" (51).
+
+*** connection to TEI
+
+TEI is an exercise in trying to name, but failing to name. In trying
+to solidify a schema, but having it still fall short. You create a
+customization, only for things to still fall by the wayside. Nothing
+can be detailed enough.
+
+
+** My customization of the TEI   
+
+<del> @strokes=
+      "n" 
+      "inconclusive"
+
+<del> @implication=
+      "intimacy", 
+      "tension", 
+      "affection", 
+      "fatality",
+      "passion",  
+      "beauty", 
+      "inconclusive",
+      "illegible"
+
+intimacy vs affection? 
+- 603, 
+passion vs romance?
+- 612, 
+beauty vs eroticism?
+- 373, 
 

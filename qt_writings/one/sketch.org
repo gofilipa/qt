@@ -157,3 +157,28 @@ this process reveals the hidden "enabling structure" of the imagination
 *** TODO conclusion: performative citation queers distant reading
 insubordination through subservience, displacement through repetition
 
+
+** networkx visualization
+
+Using networkx to make a network graph of terms related to "woman" and
+"man" in Orlando. 
+
+The nodes are the terms, and the edges connect terms that have been
+computed as ~similar_words()~. 
+
+For the first level, create a list of words that are similar to
+woman. Then, create a nested list of words that are similar to the
+first level of similar words. Finally, add the nodes and edges for the
+first level of similar words.
+
+For the second level, create a dict which will take key:list of values
+relationships as node & edge pairs.
+- First, create a list of second level similar words, filtering out the
+  term 'woman' (and any duplicates?  maybe later). 
+- Second, create a dict that with the key 'woman' and a list of values
+  that are first level similar words. Then, create more keys of each
+  of the first level similar words. To those keys, add lists of words
+  computed to be similar to them.
+
+This worked. Now I'm going to 
+
