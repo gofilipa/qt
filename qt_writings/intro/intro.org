@@ -1972,6 +1972,68 @@ impression Foucault gave that what I should expect from the archive is
 the estrangement of myself and others, or that I could call that
 estrangement queer" (216). 
 
+*** Clement, Bode, recent applications of deformance
+
+More recently, textual scholars have taken McGann's influential ideas
+about Deformative Criticism and used them to study the ways that texts
+are transformed in the process of digitization. Katherine Bode, for
+example, engages McGann's ideas about deformance with theoretical
+physics in working with electronic text. Bode explains that attention
+to the "apparatus," or the instrument of analysis, allows her to
+trouble the traditional subject/object binary between researcher and
+text to examine "how... we inscribe the boundaries we often presume to
+represent" ("Data Beyond Representation" par 11). Drawing from a
+theoretical physics understanding, where "an apparatus is a specific
+material configuration, including of physicists, wherein certain
+properties become determinate, while others are excluded," Bode
+applies the figure of the apparatus to literary databases (Bode "Data
+Beyond Representation, par. 24). Bode offers an example with her
+current project, /Reading at the Interface/, which explores the ways
+that Australian literature has been characterized in literary
+databases by various "paratexts," or "writings about literature"
+("Data Beyond Representation" par 11). Bode looks at how the process
+of data collection for these databases makes a distinction between the
+main text and the "paratext," which includes metadata like title,
+author, and publication information of the text. The project explores
+how paratexts across various platforms, including academic journals,
+newspapers, /Goodreads/, and /Librarything/ have represented the
+boundary of "Australian Literature," literally creating the boundary
+of what we understand to be "text" and "paratext" in Australian
+literature. Bode explains that she's "not interested in representing
+discussion of 'Australian literature' on Goodreads so much as in
+materialising that platform in ways that cannot be separated from
+[the] categories of analysis" ("Data Beyond Representation"
+par. 19). This activity reveals, for Bode, how the researcher (via the
+"apparatus") intevenes with the object of analysis.
+
+Applying McGann's ideas about deformative criticism to sound studies,
+Tanya Clement explores how deformance enables embodied interactions
+with text. In a project on visualization, she uses the audio analysis
+tool "ProseVis" to visualize the prosodic elements of Gertrude Stein's
+poetry, which creates dynamic spaces for the reader to interact with
+the visualization. Using ProseVis, the reader can navigate through the
+visualizations and manipulate the metrics for analysis. Clement points
+out that just as a musical score "is read, but it is also meant to be
+played, to be spatialized in time and embodied by voices (or
+instruments) within a certain physical and hermeneutical context," the
+same can be true for quantitative visualizations of text: "One 'reads'
+a visualization, but to 'play' the visualisation is to engage the
+spatialized interpretation of that visualisation as an embodied reader
+in a situated context within a specific hermeneutical framework
+("Distant Listening" par. 10). From this project, Clement theorizes
+critical analysis as "play," where the critic "performs" the work just
+as musicians might interpret a musical score, by "creat[ing] another
+level of abstraction with which the interpreter engages" ("Distant
+Listening par. 7). According to Clement, the multiple levels of
+abstraction for containing the "work" of the text multiply the levels
+of engagement with that text.
+
+The unique affordance of digital environments, according to McGann,
+Bode and Clement, is that they allow for numerable interventions upon
+the textual object. The above authors approach computation as an
+opportunity to examine the material specificities of eletronic
+formats.
+
 *** Altschuler and Weimar on reproducibility
 
 --> reproducing something perfectly overlooks the ways that all

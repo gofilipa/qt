@@ -1632,7 +1632,6 @@ Theory*. 28:2, 2018. pp. 143-158. Web.
   of being” (11).
 
 
-
 * Theories of Perception
 ** Thinking/Feeling: Philosophy
 *** Hume, David. *An Enquiry Concerning Human Understanding*, 1748.
@@ -2980,6 +2979,66 @@ of ephemera" (65).
       connections. Love here evokes Shaviro’s “contact-at-a-distance”
       and Pitts-Taylor’s discussion about mirror neurons.
 
+
+**** Rescue & Recovery
+
+The impulse of the queer theorist to "rescue" queer figures from the
+past is akin to that of the textual scholar who wants to "rescue" and
+preserve texts of the past. 
+
+"Queer critics tend to disavow their need for the past by focusing on
+the heroic aspect of their work of historical recovery. Like many
+demanding lovers, queer critics promise to rescue the past when in
+fact they dream of being rescued themselves" (33).
+
+"Such is the relation of the queer historian to the past: we cannot
+help wanting to save the figures from the past, but this mission is
+doomed to fail. In part, this is because the dead are gone for good;
+in part, because the queer past is even more remote, more deeply
+marked by power's claw; and in part because this rescue is an
+emotional rescue, and in that sense, we are sure to botch it. But,
+according to Blanchot, not to botch it would be a betrayal. Such a
+rescue effort can only take place under the shadow of loss and in the
+name of loss; success would constitute failure" (51).
+
+**** queerness as irredeemable
+
+We cannot redeem, rescue, rescusitate queerness, because ultimately
+what we want is the thing in recession. Bringing queerness to the
+light of day would cease to make it queer. This is this thing which
+remains inscrutable.
+
+"Rather than attempt to 'overcome' identity, I want to suggest a mode
+of historiography that recognizes the inevitability of a 'play of
+recognitions' but that also sees these recognitions not as consiling
+but as shattering" (45).
+
+"Foucault does not end by expressing a desire for the intact
+document. He does not, it seems, want to look history in the face;
+rather, the fascination here is with the face that turns away, and,
+even more, perhaps, with the darkness toward which it turns" (49).
+
+"Foucault's desire for the boy has a queer specificity; he would not
+easily give up the dreamy and rueful retrospect he inspires. He wants
+the love of 'that boy,' already receding into the distance--not the
+daytime love, the easy intimacies of a domestic partner. He wants him
+in the taxi, just as Orpheus wants Eurydice in the night, in the
+underworld.  
+This structure of feeling is not a pathology, nor does it describe the
+essential nature of the homosexual... Anyone, I want to insist, might
+be seduced by the figure of Eurydice: she is radiant in her
+withdrawal. But her specific attraction for queer subjects is an
+effect, I want to argue, of a historical experience of love as bound
+up with loss. To recognize Eurydice as desirable in her turn away is a
+way of identifying through that loss. Such an approach would be
+consistent with an important aspect of contemporary queer politics,
+which has tended to define community not as constituted by a shared
+set of traits, but rather as emerging from a shared expereince of
+social violence. In this sense, following the trace of violence and
+marginalization--studying not only obscure men, but obscurity
+itself--would allow us to deflect questions of identity and to
+acknowledge the losses of both the past and present" (51).
+
 *** Love, Heather. “Truth and Consequences: Close Reading and
       Reparative Reading.” Criticism, vol. 52, no. 2, 2010,
       pp. 235–241. JSTOR, www.jstor.org/stable/23131405
@@ -3669,6 +3728,29 @@ The archive is the site of a tension between "intimate tracing" and
 - "the profile of the queer archive as a site for the repetitive,
 radical defamiliarization of knowledge" (introduction, 7) 
 
+** Historiography
+*** Goldberg, Menon "Queering History" Goldberg, Jonathan, and
+Madhavi Menon. “Queering History.” PMLA, vol. 120, no. 5, 2005,
+pp. 1608–1617
+
+Their position is that historiography demarcates the queer in a way
+that normativizes queer. They resist the idea that queerness is
+different across time, while also resisting that we can ever /know/
+queerness. 
+
+
+"unhistoricism... history as it is hegemonically understood today is
+inadequate to housing the project of queering. In opposition to a
+history based on hetero difference, we propose homohistory... with all
+its connotations of sameness, similarity, proximity, and anachronism"
+(1609).
+
+"similarity should lead not to identity but rather to the non
+self-identical nonpresent" (1609).
+
+"the impossibility of the final difference between, say, sodomy and
+homosexuality, even as it gestures toward the impossibility of final
+definition that both concepts share" (1609).
 ** Autobiography Theory
 *** Lejeune, Philippe, Annette Tomarken and Edward Tomarken. "Autobiography in the Third Person." /New Literary History/, Vol. 9, No 1, pp. 27-50. 
 - "Every speaker bears within him two polarities, that of sender and

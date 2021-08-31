@@ -604,7 +604,7 @@ running text or external to it.
 variation.
 
 
-** Editing Approaches
+*** Editing Approaches
 
 "The history of textual editing is a history of arguments about the
 meaning of terms such as authenticity and authority" (Onge, "Textual
@@ -630,31 +630,6 @@ Cummings: One issue of TEI is when two hierarchichal structures
 conflict or overlap. The encoder may want to mark both
 simultaneously. Especially when paragraphs run over pages. Not 'well
 formed' XML. This mostly happens within the physical structure markup 
-
-
-** Potential interventions
-
-*Preservation*: 
-If quantitative analysis attempts to reproduce or verify answers/facts
-about literary history, then textual editing attempts to restore or
-preserve textual documentary history. 
-
-*Semantics:*
-As Flanders says, the main thing about TEI is that the tags are
-semantic. The meaning is imputed to them by humans, they do not have
-meaning (beyond differentiation) to a machine. 
-
-*Containment*
-XML as a technology for bounding text within elements
-
-*Hierarchy*
-XML as a technology for subscribing elements to an organized hierarchy
-
-
-*** brainstorm
-Perhaps the intervention here is about semantic markup & queerness as
-something irresolvable. Queerness is not something to be resolved or
-recuperated. 
 
 
 ** Planning my project:
@@ -729,12 +704,22 @@ An ending: what form of publication?
  queer theory framework, and a digital resource that is a prototype
  for a longer edition. 
 
-*** my customization
 
-Creating attributes for the <del> and <add> elements, to mark the
-number of strokes and the theme of the content that is removed/added. 
+*** Potential interventions
 
-   <del strokes="1" theme="erotic">
+*Preservation*: 
+If quantitative analysis attempts to reproduce or verify answers/facts
+about literary history, then textual editing attempts to restore or
+preserve textual documentary history. 
+
+*Containment*
+XML as a technology for bounding text within elements
+
+
+*** brainstorm
+Perhaps the intervention here is about containment & queerness as
+something irresolvable. Queerness is not something that can be
+contained with certain markers. 
 
 
 * Preliminary Outline
@@ -764,93 +749,15 @@ Wilde takes out signs of fatality about Basil's devotion to Dorian.
 
 Wilde alters suggestions of eroticism into aestheticism.
 
-    
-** Customization as Constraint
-The constraint of TEI is the /semantic nature of the markup/, which
-means that we impute meaning to markup. TEI can be customized to
-include whatever tags that we want. This means there is an infinite
-number of ways that we can tag a document. But does this abundance of
-option actually create more possibilities for identifying / preserving
-textual elements? It actually problematizes the markup process.
-
+** TEI
+*** containment
 The constraint is containment. TEI bounds what it names. There are
 boundaries, it cannot overlap, or contain pluralities. This creats a
 problem for preservation, because things have to be fixed in order to
 be "marked up." Labels are compulsory. So how do we label something
 static and keep it fluid at the same time?
 
-** Some engagement with Queer Theory
-
-Heather Love's /Feeling Backward/.
-
-*** p. Rescue & Recovery
-
-The impulse of the queer theorist to "rescue" queer figures from the
-past is akin to that of the textual scholar who wants to "rescue" and
-preserve texts of the past. 
-
-"Queer critics tend to disavow their need for the past by focusing on
-the heroic aspect of their work of historical recovery. Like many
-demanding lovers, queer critics promise to rescue the past when in
-fact they dream of being rescued themselves" (33).
-
-"Such is the relation of the queer historian to the past: we cannot
-help wanting to save the figures from the past, but this mission is
-doomed to fail. In part, this is because the dead are gone for good;
-in part, because the queer past is even more remote, more deeply
-marked by power's claw; and in part because this rescue is an
-emotional rescue, and in that sense, we are sure to botch it. But,
-according to Blanchot, not to botch it would be a betrayal. Such a
-rescue effort can only take place under the shadow of loss and in the
-name of loss; success would constitute failure" (51).
-
-*** queerness as irredeemable
-
-We cannot redeem, rescue, rescusitate queerness, because ultimately
-what we want is the thing in recession. Bringing queerness to the
-light of day would cease to make it queer. This is this thing which
-remains inscrutable.
-
-"Rather than attempt to 'overcome' identity, I want to suggest a mode
-of historiography that recognizes the inevitability of a 'play of
-recognitions' but that also sees these recognitions not as consiling
-but as shattering" (45).
-
-"Foucault does not end by expressing a desire for the intact
-document. He does not, it seems, want to look history in the face;
-rather, the fascination here is with the face that turns away, and,
-even more, perhaps, with the darkness toward which it turns" (49).
-
-"Foucault's desire for the boy has a queer specificity; he would not
-easily give up the dreamy and rueful retrospect he inspires. He wanst
-the love of 'that boy,' already receding into the distance--not the
-daytime love, the easy intimacies of a domestic partner. He wants him
-in the taxi, just as Orpheus wants Eurydice in the night, in the
-underworld.  
-This structure of feeling is not a pathology, nor does it describe the
-essential nature of the homosexual... Anyone, I want to insist, might
-be seduced by the figure of Eurydice: she is radiant in her
-withdrawal. But her specific attraction for queer subjects is an
-effect, I want to argue, of a historical experience of love as bound
-up with loss. To recognize Eurydice as desirable in her turn away is a
-way of identifying through that loss. Such an approach would be
-consistent with an important aspect of contemporary queer politics,
-which has tended to define community not as constituted by a shared
-set of traits, but rather as emerging from a shared expereince of
-social violence. In this sense, following the trace of violence and
-marginalization--studying not only obscure men, but obscurity
-itself--would allow us to deflect questions of identity and to
-acknowledge the losses of both the past and present" (51).
-
-*** connection to TEI
-
-TEI is an exercise in trying to name, but failing to name. In trying
-to solidify a schema, but having it still fall short. You create a
-customization, only for things to still fall by the wayside. Nothing
-can be detailed enough.
-
-
-** My customization of the TEI   
+*** My customization of the TEI
 
 <del> @strokes=
       "n" 
@@ -873,3 +780,22 @@ passion vs romance?
 beauty vs eroticism?
 - 373, 
 
+** Some engagement with Queer Theory
+
+Queer Historicist debate about whether queerness is something that can
+be known in in the past. Different approaches, the "yes it can" or "no
+it cannot". Heather Love reframes this question--it becomes about
+"affective history"--to what is the manner of the relationship between
+queer critics and the subjects they study. Love's position is that we
+will always attempt to rescusitate the queer, but that this is a
+project doomed to fail. 
+
+We might take this as inspiration in using TEI--using markup not to
+demarcate, but to point to moments where queerness eludes our grasp. 
+
+Applying McGann's idea of /deformance/, we might reconsider how our
+attempts to rescusitate the queer creates new forms of queerness. 
+
+
+** deformative TEI
+How can we apply McGann's idea of deformance to Love's position?

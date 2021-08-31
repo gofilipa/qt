@@ -1,16 +1,50 @@
 * two
-** chapter overview
-** introduction
 
-This chapter explores how to use TEI in order to work with queerness
-in literary data. In this case, the literary data consists of a
-manuscript of /The Picture of Dorian Gray/ by Oscar Wilde.
+** "Encoding Queer Erasure in Oscar Wilde's..."
 
-I examine how Wilde edited out suggestions and insituations of
-homosexuality during the revising process of this manuscript.
+Literary scholars generally agree that the aestheticism of Oscar
+Wilde’s novel, /The Picture of Dorian Gray/ (1891) classifies it as a
+proto-modernist text. At the same time, textual scholars have long
+speculated over the role of aesthetics as Wilde wrote and revised the
+text, particularly in the manuscript version (/MS/. Among the various
+changes to /MS/, Wilde suppressed suggestions of homoerotic overtones
+in the relationship between the three main characters: the painter
+Basil Hallward, his subject Dorian Gray, and their friend, Lord Henry
+Wotton. Scholars generally agree that the revision of homoerotic
+elements were part of a larger project to emphasize Dorian as an
+aesthetic rather than erotic object in the story, as part of a larger
+project of "modernizing" the text.
 
-I propose a method for marking these alterations and deletions in TEI
-formal language. My customization ... 
+This project examines in detail Wilde's revisions to the manuscript's
+homoerotic elements by using a digital tool that allows researchers to
+mark and describe each change in the manuscript. I follow an
+electronic editing standard, the Text Encoding Initiative (TEI) to
+encode or "mark up" the changes that Wilde imposed on the first
+chapter of this text. Text encoding with TEI (explained further below)
+allows researchers to isolate and describe in detail various features
+of text, in this case, the deletions and additions that Wilde made on
+his manuscript. In marking these changes, I draw from debates in Queer
+Studies about Queer Historiography, which informs my approach of
+handling of the homoerotic subject matter in digital contexts. I find
+that debates in Textual Scholarship and Queer Historiography similarly
+emphasize the relation between the critic and the object of study. My
+inquiry draws out the parallel debate, which center on whether
+scholarship ought to restore or "rescue" objects from the past, or if
+there are other kinds of relationship between critic and text.
+
+I end with proposing a method for marking Wilde's alterations and
+deletions in TEI formal language. My customization of the TEI probes
+whether this tool is "queerable," in the words of TEI and Literary
+Scholar Julia Flanders. Flanders question, /do we need to queer markup
+or is markup already queerable?/ follows from two approaches to "Queer
+DH". First, the approach that wants to disrupt formal systems by
+imagining alternative ones (such as that outlined in Fiona Barnett et
+al's "Queer OS: A User's Manual");[fn:14] and second, the approach in
+which queerness is built into computing, is inherent in computational
+logic (championed by Jacob Gaboury).[fn:15] My examination of the TEI
+explores TEI as a as a tool of containment--which literally encloses
+textual elements in "tags"--for queer elements. I examine how
+queerness works within and through this quality of containment. 
 
 ** textual scholarship
 *** history of textual scholarship
@@ -159,65 +193,136 @@ blank spaces, all of which the reader can only process a limited
 amount. In its potentiality, McGann asserts, “Every page, even a blank
 page... is n-dimensional” (2001, 184).
 
-More recently, textual scholars have taken McGann's influential ideas
-about Deformative Criticism and used them to study the ways that texts
-are transformed in the process of digitization. Katherine Bode, for
-example, engages McGann's ideas about deformance with theoretical
-physics in working with electronic text. Bode explains that attention
-to the "apparatus," or the instrument of analysis, allows her to
-trouble the traditional subject/object binary between researcher and
-text to examine "how... we inscribe the boundaries we often presume to
-represent" ("Data Beyond Representation" par 11). Drawing from a
-theoretical physics understanding, where "an apparatus is a specific
-material configuration, including of physicists, wherein certain
-properties become determinate, while others are excluded," Bode
-applies the figure of the apparatus to literary databases (Bode "Data
-Beyond Representation, par. 24). Bode offers an example with her
-current project, /Reading at the Interface/, which explores the ways
-that Australian literature has been characterized in literary
-databases by various "paratexts," or "writings about literature"
-("Data Beyond Representation" par 11). Bode looks at how the process
-of data collection for these databases makes a distinction between the
-main text and the "paratext," which includes metadata like title,
-author, and publication information of the text. The project explores
-how paratexts across various platforms, including academic journals,
-newspapers, /Goodreads/, and /Librarything/ have represented the
-boundary of "Australian Literature," literally creating the boundary
-of what we understand to be "text" and "paratext" in Australian
-literature. Bode explains that she's "not interested in representing
-discussion of 'Australian literature' on Goodreads so much as in
-materialising that platform in ways that cannot be separated from
-[the] categories of analysis" ("Data Beyond Representation"
-par. 19). This activity reveals, for Bode, how the researcher (via the
-"apparatus") intevenes with the object of analysis.
 
-Applying McGann's ideas about deformative criticism to sound studies,
-Tanya Clement explores how deformance enables embodied interactions
-with text. In a project on visualization, she uses the audio analysis
-tool "ProseVis" to visualize the prosodic elements of Gertrude Stein's
-poetry, which creates dynamic spaces for the reader to interact with
-the visualization. Using ProseVis, the reader can navigate through the
-visualizations and manipulate the metrics for analysis. Clement points
-out that just as a musical score "is read, but it is also meant to be
-played, to be spatialized in time and embodied by voices (or
-instruments) within a certain physical and hermeneutical context," the
-same can be true for quantitative visualizations of text: "One 'reads'
-a visualization, but to 'play' the visualisation is to engage the
-spatialized interpretation of that visualisation as an embodied reader
-in a situated context within a specific hermeneutical framework
-("Distant Listening" par. 10). From this project, Clement theorizes
-critical analysis as "play," where the critic "performs" the work just
-as musicians might interpret a musical score, by "creat[ing] another
-level of abstraction with which the interpreter engages" ("Distant
-Listening par. 7). According to Clement, the multiple levels of
-abstraction for containing the "work" of the text multiply the levels
-of engagement with that text.
+** Queer Historiography
 
-The unique affordance of digital environments, according to McGann,
-Bode and Clement, is that they allow for numerable interventions upon
-the textual object. The above authors approach computation as an
-opportunity to examine the material specificities of eletronic
-formats.
+There is a discouse in Queer Historicism that parallels the one I've
+highlighted in Textual Scholarship. It centers on the potential for
+critics in the present to adequately know what queerness was in the
+past. On the one side, there is the "Queer Historicist" position,
+advocated by scholars like David Halperin and Valerie Traub, who
+maintain that homosexuality is historically constructed, that it means
+something different today than it does in the past, and that we can
+get at what it means by applying Michel Foucault's method of
+genealogy, tracing the ways that discussions about sex and sexuality
+over time have always been determined by power.[fn:16] On the other
+side are the "unhistoricists," including Jonathan Goldberg, Madhavi
+Menon, and Carla Freccero, who are wary of historiographical methods
+that demarcate queer subjectivity across history in ways that are
+teleological or imply progress.[fn:17] They maintain that although one
+can not fully know what "queer" is or has meant, one may pursue a
+method of /homohistory/, "with all its connotations of sameness,
+similarity, proximity, and anachronism" (Goldberg, Menon
+1609). Goldberg and Menon caution that historiographical methods that
+attempt to pin down "queer" throughout history have the effect of
+normalizing queerness: "to produce queerness as an object of our
+scrutiny would mean the end of queering itself, a capitulation to
+teleology" (1608).
+
+In the middle of this debate about methodology, Heather Love refocuses
+the question on the relationship between the critic and the object of
+study. Love explains, "The turn from a focus on 'effective history' to
+a focus on to a focus on 'affective history' has meant that critics
+have stopped asking, 'Were there gay people in the past?' but rather
+have focused on questions such as: 'Why do we care so much if there
+were gay people in the past?' or even, perhaps, 'What relation with
+these figures do we hope to cultivate'" (31). Love focuses the dark
+side of queer history, asserting that "Queer history has been an
+education in absence: the experience of social refusal and of the
+denigration of homosexual love has taught us the lessons of solitude
+and heartbreak" (52). Her methodology takes negative affects like
+shame, anger, disgust, hatred, dissapointment as phenomena that cannot
+be resolved, recuperated, or rescued. She offers the methodology of
+"feeling backward," an accounting of "the social, psychic, and
+corporeal effects of homophobia" (2). Love examines a series of
+authors throughout the late 19th and early 20th century whose writing
+is marked by "queer suffering," such as Radclyffe Hall, Willa Cather,
+Walter Pater, and Sylvia Townsend Warner. These writers often create
+queer subjects typified by their "backwardness," such as Stephen
+Gordon from Radclyffe's /The Well of Loneliness/ (1928). Unlike
+criticism that attempts to redeem such characters, re-framing their
+histories of pain into narratives of perseverence or affirmation, Love
+endeavors to give them full rein over their own darkness. For example,
+in /The Well of Loneliness/ Love resists the labeling of Stephen
+Gordon as a transgender ancestor. To do so would constitute another
+act of historical rescue, and Stephen is “beyond the reach of such
+redemptive narratives” (119). Love's reading attends, instead, to
+Stephen’s loneliness as "a social experience insistently internalized
+and corporeal" (108). The question, for Love, is not whether Stephen
+is a pre-op Female-to-Male transgender subject, but whether and how
+Stephen’s existential negativity can be confronted.
+
+Love's method emphasizes queer modes of relationality that do not
+presume full connections between the critic and subject of study. She
+explains that "I want to suggest a mode of historiography that
+recognizes the inevitability of a 'play of recognitions' but that also
+sees these recognitions not as consoling but as shattering" (45). Love
+seeks to identify with her subjects, she is interested in the way that
+subjects turn away or refuse the critic's attempt to "redeem" or
+"rescue" them. She gives the example of the myth of Orpheus and
+Eurydice. Orpheus seeks to rescue Eurydice from Hades, the lord of the
+Underworld, on the condition that he does not turn around to look back
+at her until they exit the Underworld and re-emerge into the
+sunlight. Unable to restrain himself, Orpheus turns back to gaze at
+Eurydice just as they are about to pass through the threshhold. He
+manages to catch a glimpse of his lover, but she is already turning
+away, into the interminable darkness where she will be forever
+imprisoned. Love points out that Orpheus turns back not because he
+cannot wait any longer to behold his beloved, rather that he /prefers/
+to behold her in her darkness, in the image of loss. This is a crucial
+lesson for queer critics, as it informs the root of the desire for
+identification. Love explains:
+#+BEGIN_QUOTE
+Anyone, I want to insist, might be seduced by the figure of Eurydice:
+she is radiant in her withdrawal. But her specific attraction for
+queer subjects is an effect, I want to argue, of a historical
+experience of love as bound up with loss. To recognize Eurydice as
+desirable in her turn away is a way of identifying through that
+loss. Such an approach would be consistent with an important aspect of
+contemporary queer politics, which has tended to define community not
+as constituted by a shared set of traits, but rather as emerging from
+a shared expereince of social violence. 51
+#+END_QUOTE
+Because queer history is what Love describes as "an education in
+absence," queer critics and historians are predisposed toward
+figurations of solitude and heartbreak (52). Eurydice represents the
+image of "love as bound up with loss." Bringing her into the light of
+day would transform her into something else, something less
+desirable. 
+
+In both queer historiography and textual scholarship (and indeed
+across various fields), there is a central concern with what to do
+with the materials from the past. The impulse that Love describes of
+the queer theorist to "rescue" queer figures from the past is similar
+to that of textual scholars like Tanselle who wants to "recover" the
+ideal texts of the past. But this rescue is impossible, as Love
+explains:
+#+BEGIN_QUOTE
+Such is the relation of the queer historian to the past: we cannot
+help wanting to save the figures from the past, but this mission is
+doomed to fail. In part, this is because the dead are gone for good;
+in part, because the queer past is even more remote, more deeply
+marked by power's claw; and in part because this rescue is an
+emotional rescue, and in that sense, we are sure to botch
+it. But... not to botch it would be a betrayal. Such a rescue effort
+can only take place under the shadow of loss and in the name of loss;
+success would constitute failure. 51
+#+END_QUOTE
+Taking this impossibilty as inspiration, one might rethink what to do
+with, or how to access or preserve, our queer historical
+inheritance. Love shows one way out by attending to the historical
+record without attempting to redeem or rescue it. Her way is to pay
+attention to the negative and elusive affects without trying to
+convert or transform them to something more intelligible or palatable.
+
+This is a lesson for how one might approach using TEI within a Queer
+Studies context. One might use to mark up in a way that avoids
+demarcating queerness. Taking Love's position as a guide, we might
+proceed by knowing that success is impossible, that there will always
+be something that eludes containment. This knowledge, rather than
+discourage analysis, would encourage the critic to search for and
+plumb the ways that queerness continues to escape our grasp.
+
 
 ** Oscar Wilde's changes to Dorian Gray
 *** overview
@@ -358,58 +463,29 @@ him" (Frankel 30). In this way, Frankel argues, Wilde aimed to bring
 "the novel to a moral conclusion that he thought would silence his
 critics" (30).
 
-*** on the moral
-
-In one of his letters to the /St James Gazette/, Wilde divulges what
-he calls the "moral" of the story: "all excess, as well as all
-renunciation, brings its own punishment" ("To the Editor of the St
-James Gazette," June 26 1890). One of the questions this chapter poses
-is whether Wilde’s treatment of homosexual and homoerotic themes
-during the revision of the manuscript relates to the presentation of
-the story’s moral. Critics generally agree that Wilde's revisions on
-the print version of the story work to conceal what Bristow calls the
-"implicit moral," which Wilde felt was too apparent in the periodical
-version (Bristow xxxvii). Lawler, for example, argues that “The
-controlling purpose of the author in revising his novel was to
-suppress the original moral so that it would become subordinate to an
-aesthetic end" (22). According to Lawler, the revisions therefore work
-to make "the moral a dramatic element in the work of art and not the
-object of the work of art itself” (20). For example, by solidifying
-Dorian’s character as thoroughly corrupt, the story could then draw
-the reader’s attention to its dramatic, rather than didactic,
-effects. This paper questions how Wilde’s revisions in the manuscript
-might also affect the presentation of the moral. In my conclusion, I
-will open some possibilities for engaging Wilde’s revisionary practice
-with the complex question of Wilde’s moral.
-
--------------------> what does this moral mean, in other words? "All
-excess, as well as all renunciation, brings about its own punishment"
---> refers to both hedonistic lifestyle and to closeted lifestyle. 
-
 *** changes to the first chapter
 
-But first, I consider how Wilde revised the first and second
-chapter. The evocative opening scene, which consists of a lively
-dialogue between Basil Hallward and Lord Henry, sets the tone, reveals
-character dynamics, and lays out the conflict for the ensuing
-story. In these first few pages, Basil comes across as a sympathetic,
-sensitive, albeit slightly exasperated artist, who confides to his
-close friend the powerful influence that Dorian Gray has had upon his
-life and work. Lord Henry, by contrast, appears as an affable and
-witty gentleman aesthete, who counters Basil’s confessional utterances
-with offbeat aphorisms and paradoxes. Many of the revisions in these
-pages focus on Basil’s hesitance and difficulty in explaining the
-nature of his devotion to Dorian. Throughout these revisions, the
-figure of Dorian is reformulated into an artistic subject, rather than
-romantic object, for Basil’s painting. Additionally, the revisions
-also work to stifle the emotional intensity, affection, and intimacy
-in the dialogue between Basil and Lord Henry, replacing it with a
-lighter tone.
+Now I will review how Wilde revised the first chapter. The evocative
+opening scene, which consists of a lively dialogue between Basil
+Hallward and Lord Henry, sets the tone, reveals character dynamics,
+and lays out the conflict for the ensuing story. In these first few
+pages, Basil comes across as a sympathetic, sensitive, albeit slightly
+exasperated artist, who confides to his close friend the powerful
+influence that Dorian Gray has had upon his life and work. Lord Henry,
+by contrast, appears as an affable and witty gentleman aesthete, who
+counters Basil’s confessional utterances with offbeat aphorisms and
+paradoxes. Many of the revisions in these pages focus on Basil’s
+hesitance and difficulty in explaining the nature of his devotion to
+Dorian. Throughout these revisions, the figure of Dorian is
+reformulated into an artistic subject, rather than romantic object,
+for Basil’s painting. Additionally, the revisions also work to stifle
+the emotional intensity, affection, and intimacy in the dialogue
+between Basil and Lord Henry, replacing it with a lighter tone.
 
 I will begin with the revisions that suppress suggestions of intimacy
 between Basil and Lord Henry. In the manuscript, Wilde’s pen slashes
 through evidence of physical contact, such as on page nine, which
-describes Basil “taking hold of [Lord Henry’s] hand.”[fn:7] Besides
+describes Basil “taking hold of [Lord Henry’s] hand.”[fn:6] Besides
 removing evidence of their touching, Wilde also alters the mood of
 their conversation, replacing tense pauses with laughter or exchanging
 dramatic statements and descriptions with more playful ones. Two
@@ -444,7 +520,7 @@ perplexity”. And lastly, Lord Henry, rather than sympathizing with his
 friend’s difficulty and releasing him from the obligation to explain
 himself, instead encourages him to speak, “I am all expectation,
 Basil”. Together, these changes work to lighten the mood of the scene
-and obscure Basil’s internal suffering.[fn:6]
+and obscure Basil’s internal suffering.[fn:7]
 
 A second revision that similarly tempers the scene’s emotional energy
 occurs on the next page, when Basil is on the verge of revealing the
@@ -747,16 +823,149 @@ revisions work to fully sever the erotic from the aesthetic, which
 were inseparable prior to revision in the manuscript.
 
 
+*** debates on purpose of revisions
+One of the questions this chapter poses is whether Wilde’s treatment
+of homosexual and homoerotic themes during the revision of the
+manuscript relates to the presentation of the story’s moral. Critics
+generally agree that Wilde's revisions on the print version of the
+story work to conceal what Bristow calls the "implicit moral," which
+Wilde felt was too apparent in the periodical version (Bristow
+xxxvii). Lawler, for example, argues that “The controlling purpose of
+the author in revising his novel was to suppress the original moral so
+that it would become subordinate to an aesthetic end" (22). In one of
+his letters to the /St James Gazette/, Wilde divulges what he calls
+the "moral" of the story: "all excess, as well as all renunciation,
+brings its own punishment" ("To the Editor of the St James Gazette,"
+June 26 1890). According to Lawler, the revisions therefore work to
+make "the moral a dramatic element in the work of art and not the
+object of the work of art itself” (20). For example, by solidifying
+Dorian’s character as thoroughly corrupt, the story could then draw
+the reader’s attention to its dramatic, rather than didactic,
+effects. This paper questions how Wilde’s revisions in the manuscript
+might also affect the presentation of the moral. In my conclusion, I
+will open some possibilities for engaging Wilde’s revisionary practice
+with the complex question of Wilde’s moral.
+
+Might there be a possible connection between Wilde’s revision of the
+homosexual content and the moral of the story? The textual scholarship
+on /Dorian Gray/ generally agrees that Wilde’s aimed to silence a
+moral that was too apparent, and there appears to be a similar motive
+in his handling of the homosexual elements. Joseph Bristow argues that
+Wilde aimed to obscure the moral from the story’s early stages, when
+he was preparing it for publication in /Lippincott’s/: “In keeping
+with the manuscript, in the typescript Wilde proved reluctant… to
+preserve any statements that might lend unnecessary emphasis to what
+might be viewed as the implicit moral of the tale’” (xxxvii). Bristow
+draws from Donald Lawler’s extensive work on the story’s transmission
+history, in which he argues that Wilde attempted to obscure the moral
+in each round of revisions, from the manuscript to the book
+version. In his book, /An Inquiry into Oscar Wilde's Revisions of the
+Picture of Dorian Gray/, Lawler explains that “the dominant motive
+underlying all of the important changes made by Wilde was an artistic
+desire to suppress an underlying moral which Wilde considered to be
+too obvious and, for that reason, distracting” (2). The solution,
+according to Lawler, was for Wilde to transform the moral into a
+dramatic element in the story. For example, by emphasizing Dorian’s
+corruption, Wilde could “make that moral function as a dramatic
+principle of character and action” (Lawler 23). Lawler demonstrates
+how Wilde altered the ending of the story in order to settle the
+ambiguity about Dorian’s sense of remorse. The new ending emphasizes
+Dorian’s monstrosity by removing signs of a sincere repentance behind
+his decision to destroy the portrait. In this way, the moral action
+could serve a dramatic role. According to Lawler, this revision makes
+the moral “subordinate to an aesthetic end” (22).
+
+Lawler goes further, arguing that subordination of the moral to
+aesthetic concerns extends to Wilde’s treatment of the homosexual
+content in the story. He argues that Wilde cut and revised this type
+of content for two reasons: first, to emphasize Dorian’s
+responsibility over his own degeneration, and second, to improve the
+quality of the writing. According to Lawler, “By Wilde’s shifting his
+emphasis in the /Lippincott’s/ and in the Ward, Lock & Company /Dorian
+Gray/ from homsexual passion to aesthetic interest, Basil’s
+culpability is Dorian’s fall from grace is muffled and reduced finally
+to that of the author of the detested painting” (26). The result of
+the revision is that Dorian becomes responsible for his own
+corruption, assuming the dramatic role as the fallen one. Lawler’s
+second explanation behind Wilde’s revisions is more superficial. Here,
+he argues that “in most cases the offensive passages shown above in
+the notes were cut because of their mawkish and sentimental writing as
+much for their affront to contemporary moral standards” (65). So, from
+this view, the homosexual content was removed either to reduce Basil’s
+complicity in Dorian’s corruption or for the sake of style.
+
+Nicolas Ruddick offers another perspective on Wilde’s treatment of the
+homosexual content as it relates to the moral. Examining the
+differences between the /DG90/ and /DG91/, Ruddick argues that /DG90/
+is the “aesthetically superior” text, because it does a better job
+than /DG91/ maintaining a coherence between the story’s two
+morals. According to Ruddick, while /DG90/ creates a disjunction
+between the two morals—what he calls the “overt” and “covert”
+parables, of the story—the revisions in DG91 fail to resolve this
+flaw. The two parables concern the dangers of vanity and the
+liberalization of homosexuality: while the overt parable “dramatize[s]
+the disastrous consequences of the preference of the beautiful at the
+expense of the good”, the covert parable, by contrast, “explores the
+destructive effects of the clandestine or closeted life” (126,
+128). Ruddick contends that Wilde, in /DG91/, “chose the route of
+suppression,” reducing the homoerotic elements and including a preface
+defending art from the moral judgements of the bourgeois critic
+(133). Ruddick makes a fair point that, when read together, the two
+parables appear to associate vanity and homosexuality with corruption:
+“the appalling changes to Dorian’s painted image in /DG90/ strongly
+suggest that the unspeakable practices indulged in by the protagonist
+are unspeakable in themselves” (129). So, according to Ruddick,
+Wilde’s later story emphasizes a moral that warns against the dangers
+of vanity at the expense of one about the liberalization of
+homosexuality.
+
+Both Lawler and Ruddick argue that Wilde had to diminish the
+homosexual elements in order to further develop and highlight the
+moral of the story. Though Lawler asserts that the homosexual content
+was removed to emphasize Dorian’s corruption and for stylistic
+reasons, it seems that the revisions also work to remove the negative
+connotations of Basil’s attachment: much of the original content in
+the first chapter serves to emphasize Basil’s passion as a tortuous
+struggle, and the revisions mitigate this passion and resultingly
+present Dorian as an aesthetic object. In this way, the revisions
+appear to lay the groundwork for severing Dorian’s corruption from the
+homosexual or homoerotic and associating it more firmly with
+vanity. This result also accords with Ruddick’s contention, that the
+revisions emphasize a moral that warns against the dangers of vanity
+at the expense of a moral about the liberalization of
+homosexuality. It seems that, by tempering Basil’s passion and
+aestheticizing Dorian, Wilde is able to remove the negative
+consequences of passion and replace them with the ones of worshipping
+beauty. However, while the earliest version of the story appears to
+associate homosexuality and vanity with corruption, it also warns
+against interpreting passion as a negative quality. Indeed, Basil
+makes precisely this argument when he explains to Lord Henry his
+reason for not exhibiting the portrait: “where there is merely love,
+they would see something evil, where there is spectacular passion,
+they would suggest something vile” (MS 21). This line, struck from the
+manuscript, leaves one with the suspicion that Wilde may have silenced
+the homosexual themes for the same reason that Basil could not exhibit
+his portrait.
 
 *** conclusion on revisions
-Together, the changes between the different textual witnesses suggest that Wilde had a deliberate purpose in revising the first chapter of the story. It appears that the revisions work to obscure or diminish the homosexual and homoerotic elements by turning Dorian into an aesthetic object. They achieve this goal in three ways: first, by removing the negative connotations of Basil’s attachment to Dorian, particularly the consuming intensity of his devotion; second, by easing the tension surrounding his dialogue with Lord Henry, sometimes lightening the heavier moments with a touch of comedy; and finally, by emphasizing Dorian as an ideal subject for art, expanding his appeal from the romantic and the physical toward a spiritual influence that inflects his surroundings. In these ways, the revisions turn something troubling and potentially fatal into a celebration of ideal beauty.
+Together, the changes between the different textual witnesses suggest
+that Wilde had a deliberate purpose in revising the first chapter of
+the story. It appears that the revisions work to obscure or diminish
+the homosexual and homoerotic elements by turning Dorian into an
+aesthetic object. They achieve this goal in three ways: first, by
+removing the negative connotations of Basil’s attachment to Dorian,
+particularly the consuming intensity of his devotion; second, by
+easing the tension surrounding his dialogue with Lord Henry, sometimes
+lightening the heavier moments with a touch of comedy; and finally, by
+emphasizing Dorian as an ideal subject for art, expanding his appeal
+from the romantic and the physical toward a spiritual influence that
+inflects his surroundings. In these ways, the revisions turn something
+troubling and potentially fatal into a celebration of ideal beauty.
 
 
 
 
-
-** TODO What is TEI?
-
+** TEI
 *** overview
 TEI (short for Text Encoding Initiative) is a method for encoding, or
 marking up, texts in such a way that humans and computers can make
@@ -778,10 +987,11 @@ TEI consists of a set of guidelines that facilitates electronic
 editing, digitization, and transcription. Maintained by the TEI
 Consortium, the guidelines contains rules for using various "tags" to
 mark up certain textual elements, such as ~<line>~ to indicate a line
-of text, ~<del>~, to indicate deleted text, and ~<person>~, for a
-reference to a person. Here is an image of TEI text, in this case the
-manuscript from Mary Shelley's /Frankenstein/, digitized and encoded
-by the Shelley-Godwin Archive.
+of text, ~<del>~, to indicate deleted text (if the source document is
+a manuscript, for example), and ~<person>~, for a reference to a
+person. Here is an image of TEI text, in this case the manuscript from
+Mary Shelley's /Frankenstein/, digitized and encoded by the
+Shelley-Godwin Archive.
 
 [[./sga_diplo.png]]
 
@@ -853,7 +1063,7 @@ went to
 and had a very pleasant time.
 #+END_SOURCE
 
-*** TEI is built on XML, nesting & containment. 
+*** extensibility & nesting 
 
 TEI is an extension of XML, or eXtensible Markup Language,
 specifically made to render humanities textual data. XML is not
@@ -892,16 +1102,18 @@ and paragraph elements might be formalized into XML as the following:
 #+END_SOURCE
 
 As an extension of XML, TEI carries with it many aspects and qualities
-that are inherent to XML, such as customization, nesting and
-containment. First, "eXtensible" means that you can extend, or
-customize, the XML. In other words, XML allows you to create custom
-tags that suit particular projects. Though the strict tagging schema
-of TEI may inadvertantly encourage encoders to resolve a text’s
-ambiguity, it does a good job addressing the more fixed and
-disambiguated textual elements in a way that reflects widespread
-consensus about these. The Women Writers Project, directed by Julia
-Flanders, adequately frames how TEI's inherent extensibility can
-handle textual ambiguity. According to the WWP:
+that are inherent to XML, particularly customization, nesting and
+containment. 
+
+First, "eXtensible" in XML means that one may extend, or customize,
+the XML. In other words, XML allows one to create custom tags that
+suit particular projects. Though the strict tagging schema of TEI may
+inadvertantly encourage encoders to resolve a text’s ambiguity, it
+does a good job addressing the more fixed and disambiguated textual
+elements in a way that reflects widespread consensus about these. /The
+Women Writers Project/, directed by Julia Flanders, adequately frames
+how TEI's inherent extensibility can handle textual
+ambiguity. According to the /WWP/:
 #+BEGIN_SOURCE 
 Unlike many standardization efforts, the TEI ... explicitly
 accommodat[es] variation and debate within its technical
@@ -916,18 +1128,18 @@ turn, to build their own version of that language. As a result, there
 is potential for representing the elements necessary to a project by
 customizing these elements on a project-by-project basis.
 
-Second, the documents must be "nested" or well-formed according within
-the XML structure. Each element contains an opening tag and a closing
-tag. These tags must be contained within other tags, with no
-overlapping of tags. In the below example, the ~<emphasis>~ tags are
-contained within the ~<sentence>~ tags.
+In addition to extensibility, the documents must be "nested" or
+well-formed according within the XML structure. Each element contains
+an opening tag and a closing tag. These tags must be contained within
+other tags, with no overlapping of tags. In the below example, the
+~<emphasis>~ tags are contained within the ~<sentence>~ tags.
 
 #+BEGIN_SOURCE xml
 <sentence>This is <emphasis>bad</sentence>form.</emphasis> 
 <sentence>This is <emphasis>good</emphasis>form.</sentence>
 #+END_SOURCE
 
-*** TEI standardization
+*** TEI containment
 
 When working with TEI, there is a trade-off between standardization
 and dynamicity, which applies in particular to encoding queer
@@ -950,8 +1162,8 @@ textual data. English Studies and TEI Scholar Julia Flanders explains
 that markup imposes fixity on textual elements. She gives an example
 with the ~<person>~ element, which describes persons referenced within
 a text. Flanders explains that this ~<person>~ element is limited in
-the kind of information it can hold, such as one sex for each
-individual. 
+the kind of information it can hold, such as one gender identity for
+each individual.
 
 For scholars working to encode multiple or diverse sexual identities,
 this data structure creates obstacles. For example, Pamela Caughie and
@@ -985,7 +1197,7 @@ may appear to grapple with the same problem that Caughie and Meyer
 encounter with Lili Elbe. Like Caughie and Meyer, Thain works with a
 complex writing subject, a late 19th century English lesbian couple,
 Katharine Bradley and Edith Cooper, who write collectively under the
-shared penname, Michael Field. The name "Michael Field," therefore,
+shared pen name, Michael Field. The name "Michael Field," therefore,
 contains a multiplicity; Thain explains that it is "a bipartite name,
 signifying the assumed names of two separate women, as well as
 appearing to signify one single male identity" (228). For Thain, the
@@ -996,35 +1208,35 @@ intimately tied to it. This is not a small issue in a diary in which
 Katharine Bradley herself is referred to by more than 20 different
 names" (233). Thain can solve the problem of multiple identities by
 encoding each one to its proper person, either Cooper or Bradley,
-within the TEI. 
+within the TEI.
 
 If both the Lili Elbe and Michael Field projects deal distinctly with
 queer identities, why do Caughie and Meyer struggle to encode Elbe's
 identity while Thain appears to succeed with Field? The answer is that
 Michael Fields's identity is /multiple/ while Lili Elbe's is /plural/,
-and TEI works best when the data is discrete. As Julia Flanders points
-out, markup is a tool for naming, bounding, and containment. As such,
-it works best with information that can be separated into distinct
-components in tagging. It does not work well with smooth information,
-or ambiguous information, which can be categorized as partial or
-shared ("Queer Encoding"). In TEI, tags must be nested or side by
-side, they cannot overlap. Therefore, TEI works well to encode
-multiple identities or identities contained within certain entities,
-as long as these identities do not blend or overlap. The queerness of
-Michael Field's identity is that it contains multitudes of distinct
-identities connected to either Cooper or Bradley. Thain explains that
-the diaries "do not pretend to record the life of a single male, as
-two different hands record the experience of two clearly
-differentiated people" (229). Elbe's narrative, by contrast, not
-multiple as much as she is plural, containing several identities whose
-relationship to each other is amibguous or continually shifting within
-one identity. Elbe's relation to gender is a smooth or qualitative
-one. How might one encode a single entity that alternatively
-"masquerades" or "inhabits" simultaneous gender identities? While a
-queerness like Fields might be be delineated and contained, with each
-identity named, and linked, in Elbe's there is a quality of blending
-in identity which the markup, by its nature, is meant to separate and
-fix.
+and TEI works best when the data, like Fields's, is discrete. As Julia
+Flanders points out, markup is a tool for naming, bounding, and
+containment. As such, it works best with information that can be
+separated into distinct components in tagging. It does not work well
+with smooth information, or ambiguous information, which can be
+categorized as partial or shared ("Queer Encoding"). In TEI, tags must
+be nested or side by side, they cannot overlap. Therefore, TEI works
+well to encode multiple identities or identities contained within
+certain entities, as long as these identities do not blend or
+overlap. The queerness of Michael Field's identity is that it contains
+multitudes of distinct identities connected to either Cooper or
+Bradley. Thain explains that the diaries "do not pretend to record the
+life of a single male, as two different hands record the experience of
+two clearly differentiated people" (229). Elbe's narrative, by
+contrast, not multiple as much as she is plural, containing several
+identities whose relationship to each other is amibguous or
+continually shifting within one identity. Elbe's relation to gender is
+a smooth or qualitative one. How might one encode a single entity that
+alternatively "masquerades" or "inhabits" simultaneous gender
+identities? While a queerness like Fields might be be delineated and
+contained, with each identity named, and linked, in Elbe's there is a
+quality of blending in identity which the markup, by its nature, is
+meant to separate and fix.
 
 "the proliferation and slipperiness of names is no mere childish
 caprice but a core part of the articulation of queer: an unhinging of
@@ -1034,25 +1246,19 @@ performative. Text encoding can, in a simple but powerful way, help us
 explore and map this crucial strand of queer identity construction
 across the diary" (233).
 
-
 *** should the TEI be used to deconstruct or create
 
-This quality of TEI as it engages with queerness recalls Julia
-Flanders explanation of the two queer approaches to computation:
-first, the approach that wants to disrupt formal systems by imagining
-alternative ones (such as that outlined in Fiona Barnett et al's
-"Queer OS: A User's Manual");[fn:15] and second, the approach in which
-queerness is built into computing, is inherent in computational logic
-(championed by Jacob Gaboury).[fn:14] When it comes to TEI, Flanders
-asserts, the question is /do we need to queer markup or is markup
-already queerable?/ For Flanders, TEI is already queerable, because it
+For Flanders, TEI is already queerable, because it
 encourages dissent though customization. Each project can create its
-own tags that suit particular projects: "We can imagine descriptive
-systems for identity that would operate in specific contexts (rather
-than totalizing contexts)... with appropriate places for saying 'there
-is also something uncontestable here'" ("Queer Encoding"). On the
-contrary, scholars like Caughie and Meyer's use of TEI only reinforces
-the fundamental elusiveness of mapping gender ontologies:
+own tags that suit its particular needs. The ability for researchers
+to create their own custom tags, for example, allow them to "imagine
+descriptive systems for identity that would operate in specific
+contexts (rather than totalizing contexts)... with appropriate places
+for saying 'there is also something uncontestable here'" ("Queer
+Encoding"). Opposing the view that TEI is flexible enough to engage
+queerness, scholars like Caughie and Meyer maintain that it falls
+short. In their work, TEI reinforces the fundamental elusiveness of
+mapping gender ontologies:
 #+BEGIN_QUOTE
 On the one hand, gender ontologies, for all their hierarchical,
 Anglocentric, and metaphysical baggage, are crucial if we are going to
@@ -1066,82 +1272,135 @@ always be contextual, limited, and only proximate to any individual
 identity. 238
 #+END_QUOTE
 So while TEI encourages the creation of customized tags, there is
-still something that eludes queerability. The potential for
-customization does not enable one to avoid the limitations of
-containemnt. TEI bounds what it names in ways that preclude plural
-ontologies. Though the potential for labels are limitless, they are
-still compulsory and fixed. 
+still something that eludes what Flanders describes as its
+"queerability". The potential for customization does not enable one to
+avoid the limitations of containment, in which all data must be
+rigidly demarcated within semantic tags. Though the potential for new
+semantic labels are limitless, they are still fixed by the structure
+of the label. TEI bounds what it names in ways that preclude plural
+ontologies.
 
-** My customization of the TEI
-The question, in working with TEI, is how to queer this quality of
-fixity. How do we label something as static and keep it fluid at the
-same time?
 
-** Some engagement with Queer Theory
+** TODO My customization of the TEI
+
+So what to do with this constraint of containment? I have tried to
+describe the changes to the manuscript using a custom set of tags that
+register both physical (renditional) and conceptual (thematic)
+elements. My work is an attempt to formalize a method that marks the ways
+that homoeroticism has been elided or transformed as Wilde prepared
+the story for publication. 
+
+To indicate sections of text that are struck out by Wilde's pen, I
+created the new attribute, "strokes," and set its value to a
+number. Often, Wilde alternates using one or two or more strokes of his
+pen. Sometimes, the strokes are so numerous or thick as to be
+uncountable. For these, I used the value "inconclusive."
+
+[image of 1 stroke, 2 strokes, and inconclusive strokes]
+
+In addition to strokes, I also created the new attribute,
+"implication," and set its value to a number of recurring themes from
+the deleted text. The values are, "tension," "intimacy," "affection,"
+"beauty," "passion," and "fatality," with the additional values of
+"inconclusive" or "illegible" to describe ambiguous elements. 
+
+My work with these attribute values surfaces the textual connotations
+within a spectrum of smooth information, in which the boundaries are
+not clearly demarcated, in which I have to make final decisions. There
+are moments where I have to decide between intimacy or affection, or
+fatality and passion, for example. 
+
+[example of intimacy vs affection (hand touch/brush)]
+
+[example of fatality & passion (a look of pain)]
+
+To fix these ambiguities, I could tag them with multiple values, even
+all of the above. But this would dilute the analytical utility of the
+TEI, which is meant to be decisive rather than exhaustive. On the
+other hand, I could also be even more specific, employing qualitative
+markers that are ever more precise, "tenderness" in addition to
+"affection," or "ardor," or "devotion," in addition to "passion."
+However, the more specific the tags, the more demarcated the
+possibilities for analysis. The more the data is fixed into rigid
+categories. 
+
+The question, moving forward, is how do we label something as static
+and keep it fluid at the same time?
+
+*** Conclusion: deformative TEI, toward a queer form
+How can we apply McGann's idea of deformance to Love's position?
+
+
 * commands
 c-c c-x f => create a new footnote
 c-u c-c c-x f then select sort then renumber footnotes
 
 block quotes: #+BEGIN_QUOTE & #+END_QUOTE
+
 * Footnotes
 
-[fn:14] Gaboury, Jacob. "Becoming NULL: Queer relations in the
-excluded middle." Women & Performance: a journal of feminist theory
-28.2 (2018): 143-158.
+[fn:1] Greg, Walter W. "The Rationale of Copy-Text," /Studies in
+Bibliography/ Vol. 3, 1950/1951, pp. 19-36.
 
-[fn:15] Barnett, Fiona, Zach Blas, Micha Cárdenas, Jacob Gaboury,
-Jessica Marie Johnson, and Margaret Rhee. "QueerOS: A User’s Manual"
-/Debates in the Digital Humanities/ 2016.
+[fn:2] Tanselle, Thomas. /A Rationale of Textual Criticism/, 1992.
 
-[fn:13] Willa Cather to Helen Louise Stevens Stowell, August
-31, 1888. https://cather.unl.edu/writings/letters/let0001 
+[fn:3] All references to DG90 and DG91 pertain to the Norton Critical
+Edition of The Picture of Dorian Gray, edited by Michael Patrick
+Gillespie.
 
-[fn:12] This passage is further revised in /DG90/, where Wilde
-rearranges lines and cuts them. In /DG90/, it reads:
+[fn:4] Though this paper considers some of Stoddart’s editorial
+influence on the typescript, see pp. 40-54 in Nicolas Frankel's /The
+Picture of Dorian Gray: An Annotated, Uncensored Edition/ for a more
+complete accounting of his role in preparing the typescript for
+publication. Frankel's edition attempts to reinstate Wilde’s original
+intentions in the typescript, "representing the novel as Wilde
+envisioned it in the spring of 1890, before Stoddart began to work his
+way through the typescript with his pencil and before Wilde’s later
+self-censorship of the novel" (21).
 
-#+BEGIN_QUOTE 
-Now and then, however, he is horribly thoughtless, and seems to take a
-real delight in giving me pain. Then I feel, Harry, that I have given
-away my whole soul to some one who treats it as if it were a flower to
-put in his coat, a bit of decoration to charm his vanity, an ornament
-for a summer’s day. Gillespie 194
-#+END_QUOTE
+[fn:5] See the Norton Critical Edition of /The Picture of Dorian
+Gray/, ed. Michael Patrick Gillespie, for a selected list of
+full-length reviews from /The Scots Observer/, /The St James Gazette/
+and the /Daily Chronicle/, and Wilde’s responses.
 
-Wilde here deletes a series of lines from the manuscript that describe
-Basil’s possessiveness and his sense of complicity in his
-suffering. In /DG90/, the passage maintains a few hints about Basil’s
-suffering—-"giving me pain"-—but he emphasizes Dorian’s response-—his
-frivolous regard for Basil’s affection, “as if it were a flower to put
-in his coat, a bit of decoration to charm his vanity, an ornament for
-a summer’s day” (MS 23). The revision shifts the focus away from
-Basil’s tortured and jealous attachment to Dorian, and toward Dorian’s
-careless regard for his devotion. In this way, Wilde diminishes the
-serious and destructive effects of Basil’s attachment and instead
-emphasizes Dorian’s oblivious attitude toward him.
+[fn:6]  And later on, in /DG91/, Wilde deletes more evidence of
+touching, this time by Lord Henry, “Laying a hand on [Basil’s]
+shoulder” and again from Basil, “shaking his hand off” (Gillespie
+187-188). These changes are only the beginning a series of more
+discrete revisions that work to obscure the intimacy and understanding
+between Basil and Lord Henry.
 
-[fn:11] Interestingly, while this line appears in the /Lippincott’s/
-version of the story, it is completely omitted from DG91. The passage
-here reads: “I had a strange feeling that Fate had in store for me
-exquisite joys and exquisite sorrows. I grew afraid, and turned to
-quit the room” (Gillespie 10).  Wilde may have removed the line due to
-its awkward, slightly repetitive phrasing, or he may have meant to
-completely eliminate the suggestion about Dorian’s influence over
-Basil. Either way, it remains clear that the revision is driven, at
-least in part, by a desire to reduce the fatal seriousness of Basil’s
-devotion to Dorian.
+[fn:7] The revisions in these lines continue past the manuscript, into
+/DG91/. In the book version, “and” is exchanged for “but”, “murmured”
+for “continued”, and “looking” for “glancing”; so the line finally
+reads, “‘I will tell you,’ said Hallward; but an expression of
+perplexity came over his face. ‘I am all expectation, Basil,’
+continued his companion, glancing at him” (Gillespie, 188). The change
+in coordinating conjunction—“but” for “and”—opposes Basil’s words
+against his “expression of perplexity”, suggesting that Basil is able
+to maintain a degree of composure, at least in his speech, if not his
+expression. The other, more obvious changes shift the emotional tenor
+of Lord Henry’s speech and action. Rather than “murmur”, Lord Henry
+“continue[s]”; and rather than “look”, he “glance[s]” at Basil. These
+alterations, which might appear insignificant when isolated, together
+work to further neutralize the tension and sense of mutual
+understanding that originally permeates their exchange.
 
-[fn:10] Another replacement, which occurs in the revisions between
-/DG90/ and /DG91/, also diminishes Basil’s emotional
-intensity. Describing his first meeting with Dorian, Basil admits, “It
-was mad of me, but I asked Lady Brandon to introduce me to him”
-(Gillespie 190). In DG91, Wilde switches the word “mad” for
-“reckless”, so the line reads: “It was reckless of me, but I asked...”
-(my italics; Gillespie 10). By using “reckless” instead of "mad,"
-Basil acknowledges the irrational element as a deliberate choice,
-taking a greater responsibility for his action. In this way, Dorian
-Gray’s influence shifts from a dominating one that compels Basil
-almost against his will, to one that tempts him but ultimately defers
-to his volition.
+[fn:8] The revisions in these lines continue past the manuscript, into
+/DG91/. In the book version, “and” is exchanged for “but”, “murmured”
+for “continued”, and “looking” for “glancing”; so the line finally
+reads, “‘I will tell you,’ said Hallward; but an expression of
+perplexity came over his face. ‘I am all expectation, Basil,’
+continued his companion, glancing at him” (Gillespie, 188). The change
+in coordinating conjunction—“but” for “and”—opposes Basil’s words
+against his “expression of perplexity”, suggesting that Basil is able
+to maintain a degree of composure, at least in his speech, if not his
+expression. The other, more obvious changes shift the emotional tenor
+of Lord Henry’s speech and action. Rather than “murmur”, Lord Henry
+“continue[s]”; and rather than “look”, he “glance[s]” at Basil. These
+alterations, which might appear insignificant when isolated, together
+work to further neutralize the tension and sense of mutual
+understanding that originally permeates their exchange.
 
 [fn:9] This dialogue is further revised for the book version to solidify
 Dorian’s position as an aesthetic subject, removing any indication of
@@ -1175,65 +1434,70 @@ thereby succeeds in eliminating a sense of sympathy and sensitive
 understanding between the two characters, and turns a jealous tension
 into an exchange that ends in a jaunty dismissal.
 
-[fn:8] The revisions in these lines continue past the manuscript, into
-/DG91/. In the book version, “and” is exchanged for “but”, “murmured”
-for “continued”, and “looking” for “glancing”; so the line finally
-reads, “‘I will tell you,’ said Hallward; but an expression of
-perplexity came over his face. ‘I am all expectation, Basil,’
-continued his companion, glancing at him” (Gillespie, 188). The change
-in coordinating conjunction—“but” for “and”—opposes Basil’s words
-against his “expression of perplexity”, suggesting that Basil is able
-to maintain a degree of composure, at least in his speech, if not his
-expression. The other, more obvious changes shift the emotional tenor
-of Lord Henry’s speech and action. Rather than “murmur”, Lord Henry
-“continue[s]”; and rather than “look”, he “glance[s]” at Basil. These
-alterations, which might appear insignificant when isolated, together
-work to further neutralize the tension and sense of mutual
-understanding that originally permeates their exchange.
+[fn:10] Another replacement, which occurs in the revisions between
+/DG90/ and /DG91/, also diminishes Basil’s emotional
+intensity. Describing his first meeting with Dorian, Basil admits, “It
+was mad of me, but I asked Lady Brandon to introduce me to him”
+(Gillespie 190). In DG91, Wilde switches the word “mad” for
+“reckless”, so the line reads: “It was reckless of me, but I asked...”
+(my italics; Gillespie 10). By using “reckless” instead of "mad,"
+Basil acknowledges the irrational element as a deliberate choice,
+taking a greater responsibility for his action. In this way, Dorian
+Gray’s influence shifts from a dominating one that compels Basil
+almost against his will, to one that tempts him but ultimately defers
+to his volition.
 
-[fn:7]  And later on, in /DG91/, Wilde deletes more evidence of
-touching, this time by Lord Henry, “Laying a hand on [Basil’s]
-shoulder” and again from Basil, “shaking his hand off” (Gillespie
-187-188). These changes are only the beginning a series of more
-discrete revisions that work to obscure the intimacy and understanding
-between Basil and Lord Henry.
+[fn:11] Interestingly, while this line appears in the /Lippincott’s/
+version of the story, it is completely omitted from DG91. The passage
+here reads: “I had a strange feeling that Fate had in store for me
+exquisite joys and exquisite sorrows. I grew afraid, and turned to
+quit the room” (Gillespie 10).  Wilde may have removed the line due to
+its awkward, slightly repetitive phrasing, or he may have meant to
+completely eliminate the suggestion about Dorian’s influence over
+Basil. Either way, it remains clear that the revision is driven, at
+least in part, by a desire to reduce the fatal seriousness of Basil’s
+devotion to Dorian.
 
-[fn:6] The revisions in these lines continue past the manuscript, into
-/DG91/. In the book version, “and” is exchanged for “but”, “murmured”
-for “continued”, and “looking” for “glancing”; so the line finally
-reads, “‘I will tell you,’ said Hallward; but an expression of
-perplexity came over his face. ‘I am all expectation, Basil,’
-continued his companion, glancing at him” (Gillespie, 188). The change
-in coordinating conjunction—“but” for “and”—opposes Basil’s words
-against his “expression of perplexity”, suggesting that Basil is able
-to maintain a degree of composure, at least in his speech, if not his
-expression. The other, more obvious changes shift the emotional tenor
-of Lord Henry’s speech and action. Rather than “murmur”, Lord Henry
-“continue[s]”; and rather than “look”, he “glance[s]” at Basil. These
-alterations, which might appear insignificant when isolated, together
-work to further neutralize the tension and sense of mutual
-understanding that originally permeates their exchange.
+[fn:12] This passage is further revised in /DG90/, where Wilde
+rearranges lines and cuts them. In /DG90/, it reads:
 
-[fn:5] See the Norton Critical Edition of /The Picture of Dorian
-Gray/, ed. Michael Patrick Gillespie, for a selected list of
-full-length reviews from /The Scots Observer/, /The St James Gazette/
-and the /Daily Chronicle/, and Wilde’s responses.
+#+BEGIN_QUOTE 
+Now and then, however, he is horribly thoughtless, and seems to take a
+real delight in giving me pain. Then I feel, Harry, that I have given
+away my whole soul to some one who treats it as if it were a flower to
+put in his coat, a bit of decoration to charm his vanity, an ornament
+for a summer’s day. Gillespie 194
+#+END_QUOTE
 
-[fn:4] Though this paper considers some of Stoddart’s editorial
-influence on the typescript, see pp. 40-54 in Nicolas Frankel's /The
-Picture of Dorian Gray: An Annotated, Uncensored Edition/ for a more
-complete accounting of his role in preparing the typescript for
-publication. Frankel's edition attempts to reinstate Wilde’s original
-intentions in the typescript, "representing the novel as Wilde
-envisioned it in the spring of 1890, before Stoddart began to work his
-way through the typescript with his pencil and before Wilde’s later
-self-censorship of the novel" (21).
+Wilde here deletes a series of lines from the manuscript that describe
+Basil’s possessiveness and his sense of complicity in his
+suffering. In /DG90/, the passage maintains a few hints about Basil’s
+suffering—-"giving me pain"-—but he emphasizes Dorian’s response-—his
+frivolous regard for Basil’s affection, “as if it were a flower to put
+in his coat, a bit of decoration to charm his vanity, an ornament for
+a summer’s day” (MS 23). The revision shifts the focus away from
+Basil’s tortured and jealous attachment to Dorian, and toward Dorian’s
+careless regard for his devotion. In this way, Wilde diminishes the
+serious and destructive effects of Basil’s attachment and instead
+emphasizes Dorian’s oblivious attitude toward him.
 
-[fn:3] All references to DG90 and DG91 pertain to the Norton Critical
-Edition of The Picture of Dorian Gray, edited by Michael Patrick
-Gillespie.
+[fn:13] Willa Cather to Helen Louise Stevens Stowell, August
+31, 1888. https://cather.unl.edu/writings/letters/let0001
 
-[fn:1] Greg, Walter W. "The Rationale of Copy-Text," /Studies in
-Bibliography/ Vol. 3, 1950/1951, pp. 19-36. 
+[fn:14] Barnett, Fiona, Zach Blas, Micha Cárdenas, Jacob Gaboury,
+Jessica Marie Johnson, and Margaret Rhee. "QueerOS: A User’s Manual"
+/Debates in the Digital Humanities/ 2016.
 
-[fn:2] Tanselle, Thomas. /A Rationale of Textual Criticism/, 1992.
+[fn:15] Gaboury, Jacob. "Becoming NULL: Queer relations in the
+excluded middle." Women & Performance: a journal of feminist theory
+28.2 (2018): 143-158.
+
+[fn:16] See Traub, Valerie. “The New Unhistoricism in Queer Studies.”
+PMLA, vol. 128, no. 1, 2013, pp. 21–39; and Halperin, David M. "How to
+Do the History of Male Homosexuality." GLQ: A Journal of Lesbian and
+Gay Studies, vol. 6 no. 1, 2000, p. 87-123.
+
+[fn:17] See Goldberg, Jonathan, and Madhavi Menon. “Queering History.”
+PMLA, vol. 120, no. 5, 2005, pp. 1608–1617; and Freccero, Carla, et
+al. “Historicism and Unhistoricism in Queer Studies.” PMLA, vol. 128,
+no. 3, 2013, pp. 781–786.

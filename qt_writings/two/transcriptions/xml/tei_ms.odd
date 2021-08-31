@@ -71,7 +71,23 @@
         <moduleRef key="transcr"/>
         <moduleRef key="figures"/>
         <moduleRef key="msdescription" except="accMat"/>
-      <moduleRef key="textcrit" include="lem listWit rdg rdgGrp variantEncoding wit witDetail witEnd witness witStart"/><moduleRef key="nets" include="leaf"/><moduleRef key="tagdocs" include="listRef schemaSpec sequence"/><moduleRef key="dictionaries" include="mood per sense xr"/><moduleRef key="spoken" include="pause shift transcriptionDesc u"/><moduleRef key="certainty" include="precision respons"/><moduleRef key="corpus" include="preparedness"/><moduleRef key="analysis" include="span spanGrp"/><classSpec ident="att.strokes" type="atts" mode="add"><desc versionDate="2021-06-24" xml:lang="undefined">The quantity of strikeout lines through a span of text which indicate that text is deleted</desc><classes/><attList/></classSpec><classSpec ident="att.theme" type="atts" mode="add"><desc versionDate="2021-06-24" xml:lang="undefined">indicates the theme of the span of text, e.g. "erotic," "aesthetic,"</desc><classes/><attList/></classSpec></schemaSpec>
+        <moduleRef key="textcrit" include="lem listWit rdg rdgGrp variantEncoding wit witDetail witEnd witness witStart"/>
+        <moduleRef key="nets" include="leaf"/>
+        <moduleRef key="tagdocs" include="listRef schemaSpec sequence"/>
+        <moduleRef key="dictionaries" include="mood per sense xr"/>
+        <moduleRef key="spoken" include="pause shift transcriptionDesc u"/>
+        <moduleRef key="certainty" include="precision respons"/>
+        <moduleRef key="corpus" include="preparedness"/><moduleRef key="analysis" include="span spanGrp"/>
+        <classSpec ident="att.strokes" type="atts" mode="add">
+          <desc versionDate="2021-06-24" xml:lang="en">The quantity of strikeout lines through a span of text which indicate that text is deleted</desc>
+          <classes/>
+        </classSpec>
+        <classSpec ident="att.implication" type="atts" mode="add">
+          <desc versionDate="2021-06-24" xml:lang="en">indicates the theme of the span of text, e.g.
+            "intimacy", or "tension"</desc>
+          <classes/>
+        </classSpec>
+      </schemaSpec>
     </body>
   </text>
 </TEI>
