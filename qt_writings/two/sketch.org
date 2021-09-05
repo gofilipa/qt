@@ -18,7 +18,7 @@ Questions:
       do we compute queer, how do we /mark/ queerness? And doing so in
       a way that opens up what we think of as queer?
 
-
+      
 ** Readings on queer encoding
 
 *** Thain, Marion et al, eds, [[https://mf.dev.cdhsc.org/home][Dairies of Michael Field]]
@@ -779,6 +779,7 @@ passion vs romance?
 - 612, 
 beauty vs eroticism?
 - 373, 
+
 
 ** Some engagement with Queer Theory
 
