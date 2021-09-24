@@ -1,10 +1,12 @@
 ---
 layout: page
-permalink: /chapter_1/
-title: Chapter 1
+permalink: /introduction/
+title: Introduction
 ---
 
 <script src="https://hypothes.is/embed.js" async></script> 
+
+*NOTE: this is a first draft of the introductory chapter which has since been updated. This older version is being maintained to keep a record of the peer comments visible on the sidebar.*
 
 chapter summary
 ===

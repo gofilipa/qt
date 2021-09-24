@@ -2,6 +2,22 @@
   
     {
 
+      "title"    : "Drafting Chapter Two",
+      "url"      : "/qt/drafting-chap-two/",
+      "category" : "TEI, text encoding, Oscar Wilde, Dorian Gray, Manuscript",
+      "date"     : "September 24, 2021"
+    } ,
+  
+    {
+
+      "title"    : "Revisting Chapter One",
+      "url"      : "/qt/revisiting-ch-1/",
+      "category" : "text analysis, queer distant reading, revision",
+      "date"     : "April 30, 2021"
+    } ,
+  
+    {
+
       "title"    : "Closing Up Chapter One",
       "url"      : "/qt/closing-up-chapter-one/",
       "category" : "text analysis, queer distant reading",

@@ -1,6 +1,11 @@
 
 ###############
 
+### 9.24.2021
+
+Same issue as 3.10.2021, resolved using the same solution.
+
+
 ### 3.10.2021
 
 Running: 

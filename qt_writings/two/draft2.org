@@ -1124,6 +1124,7 @@ what can and cannot be encoded, one recognizes what escapes or eludes
 our structures for understanding and analyzing queerness to rework
 those forms into new configurations.
 
+
 * commands
 c-c c-x f => create a new footnote
 c-u c-c c-x f then select sort then renumber footnotes
