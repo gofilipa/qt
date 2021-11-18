@@ -44,7 +44,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                   <del rend="strikethrough"> was his custom, </del>
                   <add place="above"> usual </add>
                </mod> innumerable cigarettes, Lord Henry Wotton could just catch the <del
-                  rend="strikethrough>
+                  rend="strikethrough">
                   <gap reason="illegible"/>
                </del> gleam of the honey-sweet and hony-colored blossoms of the laburnum, that was
                hanging from the tremulous branches that seemed hardly able to bear the burden of a
@@ -66,8 +66,8 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                   <add place="above"> clamped to </add>
                </mod> an upbright easel, <add place="above"> was standing </add> the full-length
                portrait of a young man of extraodinary personal beauty, and in front of it, some
-               little distance away, <del rend="strikethrough">was sitting</del> sat the
-                  <mod type="subst">
+               little distance away, <del rend="strikethrough">was sitting</del> sat the <mod
+                  type="subst">
                   <del rend="strikethrough">painter</del>
                   <add place="above">artist himself,</add>
                </mod> Basil Hallward, whose sudden disappearance some years ago caused <add
@@ -201,17 +201,16 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                      implication="illegible">
                      <gap reason="illegible"/>
                   </del> When I like people immensely, I <mod type="subst">
-                     <del rend="strikethrough" strokes="1">cannot</del>
+                     <del rend="strikethrough">cannot</del>
                      <add place="above">never</add>
                   </mod> tell their names to any one. It seems like surrendering a part of them. You
                   know how I love secrecy. It is the only thing that can make a modern life
                   woderful, or mysterious to us. The commonest thing is delightful if one only hides
                   it. When I <mod type="subst">
-                     <del rend="strikethrough" strokes="2">dine out</del>
+                     <del rend="strikethrough">dine out</del>
                      <add place="above">leave town</add>
                   </mod> I never tell my people where I am going. If I did, I would lose all my
-                  pleasure. It is a silly habit, I daresay, but somehow it <del rend="strikethrough"
-                     strokes="1">
+                  pleasure. It is a silly habit, I daresay, but somehow it <del rend="strikethrough">
                      <gap reason="illegible"/>
                   </del> seems to bring a great deal of romance into one's life. I suppose you think
                   me awfully foolish about it?" </quote>
@@ -221,11 +220,11 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                   all, my dear Basil. You seem to forget that I am married, and the one charm of
                   marriage is that it makes a life of deception absolutely necessary for both
                   parties. I never know <mod type="subst">
-                     <del rend="strikethrough" strokes="1">what</del>
+                     <del rend="strikethrough">what</del>
                      <add place="above">where</add>
-                  </mod> my wife is <del rend="strikethrough" strokes="1">doing</del> , and my wife
-                  never knows <mod type="subst">
-                     <del rend="strikethrough" strokes="2">where</del>
+                  </mod> my wife is <del rend="strikethrough">doing</del> , and my wife never knows
+                     <mod type="subst">
+                     <del rend="strikethrough">where</del>
                      <add place="above">what</add>
                   </mod> I am <add place="above">doing</add> When we meet--we do meet occasionally,
                   when we dine, out <add place="above">together</add> or go down to the Duke's--we
@@ -307,25 +306,28 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                   I have shown in it the secret of my own soul." </quote>
             </p>
             <p> Lord Henry <mod type="subst">
-                  <del rend="strikethrough" strokes="1" implication="tension"> hesistated for a moment </del>
+                  <del rend="strikethrough" strokes="1" implication="intimacy"> hesistated for a
+                     moment </del>
                   <add place="above">laughed</add>
                </mod>
             </p>
             <p>
                <quote> "And what is that?" he asked. <del rend="strikethrough" strokes="1"
-                     implication="tension"> in a low voice </del>
+                     implication="intimacy"> in a low voice </del>
                </quote>
             </p>
             <p>
                <quote> "I will tell you," said Hallward, and <mod type="subst">
-                     <del rend="strikethrough" strokes="inconclusive" implication="fatality"> a look of pain </del>
+                     <del rend="strikethrough" strokes="inconclusive" implication="fatality"> a look
+                        of pain </del>
                      <add place="above">an expression of perplexity</add>
                   </mod> came over his face. </quote>
             </p>
             <p>
                <quote>
                   <mod type="subst">
-                     <del rend="strikethrough" strokes="1" implication="tension"> "Don't if you would rather not" </del>
+                     <del rend="strikethrough" strokes="1" implication="fatality">"Don't if you
+                        would rather not" </del>
                      <add place="above">"I am all expectation, Basil"</add>
                   </mod> murmured his companion, looking at him. </quote>
             </p>
@@ -357,8 +359,8 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                   <add place="above">by</add>
                </mod> on its brown gauze wings. Lord Henry felt as if he coul hear Basil Hallward's
                heart beating, and he <mod type="subst">
-                  <del rend="strikethrough" strokes="2" implication="tension"> heard his own breath,
-                     with a sense almost of fear </del>
+                  <del rend="strikethrough" strokes="2" implication="fatality"> heard his own
+                     breath, with a sense almost of fear </del>
                   <add place="above">wondered what was coming.</add>
                </mod>
             </p>
@@ -387,12 +389,10 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                      <gap reason="illegible"/>
                   </del> come <mod type="subst">
                      <del rend="strikethrough">across</del>
-                     <add place="above">face to face</add>
+                     <add place="above">face to face with</add>
                   </mod> someone whose mere personality was so fascinating that it would <mod
                      type="subst">
-                     <del rend="strikethrough" strokes="3" implication="illegible"> be<gap
-                           reason="illegible"/>
-                     </del>
+                     <del rend="strikethrough" strokes="3" implication="fatality"> be Lord over </del>
                      <add place="above">absorb</add>
                   </mod> my <mod type="subst">
                      <del rend="strikethrough" strokes="2" implication="passion">life</del>
@@ -402,7 +402,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                         strokes="1" implication="inconclusive"> of that kind </del>
                   </mod> in my life. You know yourself, Harry, how independant I have always been.
                   My father destined me for the army. I insisted on going to Oxford. Then he made me
-                  enter my name at the middle temple. Before I had eaten half a dozed dinners I gave
+                  enter my name at the middle temple. Before I had eaten half a dozen dinners I gave
                   up the Bar, and announced my intention of becoming a painter. I have always been
                   my own master; had at least always been so till I met Dorian Gray. Then – but I
                      <del rend="strikethrough">
@@ -683,18 +683,15 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                   and body – how much that is! We in our madness have separated the two, and have
                   invented as a realism that is bestial, an ideality that is void. Harry! Harry! if
                   you only knew what Dorian Gray is <add place="above">to me.</add> You remember
-                  that landscape of mine, for which Agnew offered me such <gap reason="illegiible"/>
-                  a <gap reason="illegible"/>
+                  that landscape of mine, for which Agnew offered me such <gap reason="illegiible"
+                  />a <gap reason="illegible"/>
                   <add place="above">huge</add> price, but which I would not part with? It is one of
                   the best things I have ever done. And why is it so? Because, while I was painting
-                  it, Dorian Gray sat beside me. 
-                  <del rend="strikethrough" strokes="1" implication="passion"> and as he leaned across to look at it, his 
-                     <mod implication="affection"> cheek just brushed my cheek. 
-                        <add place="above">hair just touched my hand.</add>
-                     </mod> The world becomes young to me when I hold his hand, as when I ask him the 
-                        <gap reason="illegible"/> 
-                        yield 
-                        <gap reason="illegible"/> their <gap reason="illegible"/>
+                  it, Dorian Gray sat beside me. <del rend="strikethrough" strokes="1"
+                     implication="passion"> and as he leaned across to look at it, his <del
+                        implication="intimacy"> cheek just brushed my cheek. <add place="above">hair
+                           just touched my hand.</add></del> The world becomes young to me when I
+                     hold his hand, as when I see him, the centuries yield up all their secrets!"
                   </del>
                </quote>
             </p>
@@ -718,10 +715,8 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                   loveliness and subtleties of certain colours. That is all." </quote>
             </p>
             <p>
-               <quote> "Then why won't you exhibit his <mod>
-                     <del rend="strikethrough">picture?</del>
-                     <add place="above">portrait?</add>
-                  </mod>
+               <quote> "Then why won't you exhibit his <mod><del rend="strikethrough"
+                        >picture?</del><add place="above">portrait?</add></mod>
                </quote>
             </p>
             <p>
@@ -737,7 +732,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                      love, they would see something evil, where there is spectacular passion they
                      would suggest something vile. </del> I will not bear my soul to their shallow
                      <add place="above">prying</add> eyes. My heart shall <mod type="subst">
-                     <del rend="strikethrough" strokes="1" implication="fatality"> not be made their
+                     <del rend="strikethrough" strokes="1" implication="passion"> not be made their
                         mockery </del>
                      <add place="above">never be put under their microscope.</add>
                   </mod> There is too much of myself in <gap reason="illegible"/>
@@ -912,15 +907,17 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                   said of him. Don't spoil him for me. Don't try to influence him. Your influence
                   would be bad. The world is wide, and has many marvellous people in it. Don't take
                   away from me the one person that makes life <del rend="strikethrough">lovely</del>
-                  absolutely lovely to me, and that gives me my art whatever wonder or charm it
-                  possesses. Mind, Harry, I trust you." </quote> He spoke very slowly, and the words
-               seemed wrung out of him as almost against his will. </p>
+                  <add place="above">absolutely</add> lovely to me, and that gives me my art
+                  whatever wonder or charm it possesses. Mind, Harry, I trust you." </quote> He
+               spoke very slowly, and the words seemed wrung out of him as almost against his will. </p>
             <p>
-               <quote> "What nonsense you talk," said Lord Henry smiling, and, taking Hallward by
-                  the arm, he almost led him into the house. </quote>
+               <quote>
+                  <del strokes="inconclusive" implication="passion"> I don't suppose I shall care
+                     for him, and I am quite sure he won't care for me,"</del>
+                  <add place="above">"What nonsense you talk," said</add> Lord Henry smiling, and,
+                  taking Hallward by the arm, he almost led him into the house. </quote>
             </p>
          </div>
-
       </body>
    </text>
 </TEI>

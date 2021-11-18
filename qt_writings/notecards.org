@@ -686,6 +686,37 @@ represent a perspective” (98).
 motives. Underwood is not trying to distinguish, he’s trying to
 simplify.
 
+*** Underwood, 2017. "A Genealogy of Distant Reading" Digital Humanities Quarterly 11 (2). 
+Concerned with establishing the history of distant reading as
+connected to a certain mode of inquiry which is empirical, which
+borrows from the social sciences: "the central practice that
+distinguishes distant reading from other forms of literary criticism
+is not at bottom a technology. It is, I will argue, the practice of
+framing historical inquiry as an experiment, using hypotheses and
+samples (of texts or other social evidence) that are defined before
+the writer settles on a conclusion" (par. 5).
+
+What ties together projects in "distant reading" is the kinds of
+questions asked, the historical scope, and the method of sampling
+evidence: "The common denominator that links all these projects is
+simply that they pose broad historical questions about literature, and
+answer them by studying samples of social or textual evidence" (par
+10). 
+
+Distant reading *aspires* to a science: "In calling this approach
+minimally “scientific,” I don’t mean to imply that we must suddenly
+adopt all the mores of chemists, or even psychologists. Imaginative
+literature matters because readers enjoy it; criticism would gain
+nothing if we let meticulous hypothesis-testing drain all the warmth
+and flexibility from our writing. Literary historians who use numbers
+will have to somehow combine rigor with simplicity, and prune back a
+thicket of fiddly details that would be fatal to our reason for caring
+about the subject. But within those rhetorical limits, distant reading
+can, let us say, aspire to the methods of social science: it is
+defined not only by a commitment to historical breadth, but by a
+version of the scientific method appropriate for a historical
+discipline" (par. 22).
+
 ** Networks
 *** Galloway, Alexander. *Protocol*, 2004. PDF.
 - Codes that append all data…controlling power lies in the technical
@@ -1158,6 +1189,7 @@ dynamic nature of gender identities?”
 *** Flanders, Julia. "Encoding Identity." Keynote, /Queer Encoding: Encoding
 Diverse Identities/, the Digital Scholarship Center, Temple
 University. April 28, 2017.
+
 ** Critical Race
 *** Tara McPherson’s “U.S. Operating Systems at Mid-Century: The
   Intertwining of Race and UNIX," Race After The Internet, ed. Lisa
@@ -1599,7 +1631,6 @@ forge new relationships and connections" (154).
 *** Fiona Barnett, Zach Blas, Micha Cárdenas, Jacob Gaboury, Jessica
 Marie Johnson, and Margaret Rhee, "QueerOS: A User’s Manual",
 https://dhdebates.gc.cuny.edu/read/untitled/section/e246e073-9e27-4bb2-88b2-af1676cb4a94#ch05
-
 
 
 *** Gaboury, Jacob. ["Becoming NULL: Queer Relations in the Excluded
