@@ -1,4 +1,123 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/qt/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/qt/" rel="alternate" type="text/html" /><updated>2021-09-24T11:20:29-04:00</updated><id>http://localhost:4000/qt/feed.xml</id><title type="html">Queer Tools</title><subtitle>Notes Toward a Dissertation</subtitle><author><name>Filipa Calado</name></author><entry><title type="html">Drafting Chapter Two</title><link href="http://localhost:4000/qt/drafting-chap-two/" rel="alternate" type="text/html" title="Drafting Chapter Two" /><published>2021-09-24T00:00:00-04:00</published><updated>2021-09-24T00:00:00-04:00</updated><id>http://localhost:4000/qt/drafting-chap-two</id><content type="html" xml:base="http://localhost:4000/qt/drafting-chap-two/">&lt;p&gt;The goal for the summer was to address the remaining small edits of
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/qt/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/qt/" rel="alternate" type="text/html" /><updated>2022-02-04T14:23:13-05:00</updated><id>http://localhost:4000/qt/feed.xml</id><title type="html">Queer Tools</title><subtitle>Notes Toward a Dissertation</subtitle><author><name>Filipa Calado</name></author><entry><title type="html">Envisioning Chapter Three</title><link href="http://localhost:4000/qt/envisioning-chap-three/" rel="alternate" type="text/html" title="Envisioning Chapter Three" /><published>2022-02-03T00:00:00-05:00</published><updated>2022-02-03T00:00:00-05:00</updated><id>http://localhost:4000/qt/envisioning-chap-three</id><content type="html" xml:base="http://localhost:4000/qt/envisioning-chap-three/">&lt;p&gt;These are some speculations for my third chapter, which I’m going to
+begin researching this spring. Whereas the first two chapters were
+about text analysis and text encoding, this chapter will be about
+&lt;em&gt;media&lt;/em&gt;. I’m looking to explore how an attention to the material
+specificity of media enhances our reading of eletronic literary work,
+such as hypertext and interactive fiction.&lt;/p&gt;
+
+&lt;p&gt;The theoretical focus on this paper will engage New Materialisms and
+Black Feminist studies. Here, I’ll be drawing from my class last
+semester with Amber Musser, where we read so many fascinating accounts
+about materiality being lively, animated, vital, and about humanity
+being imbricated with it. I’m thinking of authors like Jayna Brown and
+Zakiyyah Iman Jackson, who work with (or work around) traditionally
+white male dominated discourses about materiality and liberal humanism
+to offer black female lineages of this kind of thinking. I’m also
+interested in Musser’s work, whose discussion of sensuality and
+fleshiness will be key for my reading of media.&lt;/p&gt;
+
+&lt;p&gt;The technological focus of this paper will be on early computer
+equipment. The reason that I’m interested in older versus newer
+computers is I’m interested in what Katherine N. Hayles calls
+“distributed cognitive environments,” that is, the perceptual
+engagement between user and computer. I think it will be easier to
+study this from a historical remove, and I am also interested in the
+continuous updating of technologies which forces data to shift from
+one structure to another.&lt;/p&gt;
+
+&lt;p&gt;Here, I am heavily indebted to Matt Kirschenbaum’s work in his book
+&lt;em&gt;Mechanisms&lt;/em&gt; (2008), his “media archeological” method of examining the
+material specificities of what is commmonly thought of “immaterial”
+computing processes. I’m thinking particularly of his chapter on hard
+drives. My plan is to visit a few archives (ideally the Maryland
+Institute of Technology, where Kirschenbaum is based, the Media
+Archeology Lab in Boulder, and the Computer History Museum in
+California) to look at old hardware and software.&lt;/p&gt;
+
+&lt;p&gt;Last step is to find a literary text for all of this. I’ve been
+writing about hypertext fiction (and obsolesence of Flash software)
+which is one option. Probably will still with this.&lt;/p&gt;</content><author><name>Filipa Calado</name></author><category term="media archeology" /><category term="New Materialisms" /><category term="Black Feminisms" /><summary type="html">These are some speculations for my third chapter, which I’m going to begin researching this spring. Whereas the first two chapters were about text analysis and text encoding, this chapter will be about media. I’m looking to explore how an attention to the material specificity of media enhances our reading of eletronic literary work, such as hypertext and interactive fiction.</summary></entry><entry><title type="html">TEI and Queer Form</title><link href="http://localhost:4000/qt/TEI-queer-form/" rel="alternate" type="text/html" title="TEI and Queer Form" /><published>2022-01-24T00:00:00-05:00</published><updated>2022-01-24T00:00:00-05:00</updated><id>http://localhost:4000/qt/TEI-queer-form</id><content type="html" xml:base="http://localhost:4000/qt/TEI-queer-form/">&lt;p&gt;The work on chapter two has been taking longer than I thought-
+there were three weeks of heavy revision in October/November, where I
+made the following changes at the request of my peer reviewers. Then
+a round of copyediting, which is done, and the final round of
+proofreading, to be completed next week, after which the thing will
+finally go to press. The major revisions included:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Clarifiying and foregrounding the central arguments w/r/t/ “queer
+encoding” and “queer form”&lt;/li&gt;
+  &lt;li&gt;Expanding sections on TEI, particularly discussion on my
+customization and the limitations of the tool&lt;/li&gt;
+  &lt;li&gt;Expanding engagement with Queer DH and Queer Historiography
+scholarship&lt;/li&gt;
+  &lt;li&gt;Cut down the overly descriptive sections on the history of the
+Manuscript&lt;/li&gt;
+  &lt;li&gt;Standardizing the writing style and in-text citations (to Harvard
+style)&lt;/li&gt;
+  &lt;li&gt;Including links to online images of the manuscript, rather than
+images I took with my phone, as the Morgan did not let me use my
+images for free.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As I was doing this work, I was also preparing fellowship and grant
+applicaitons. I applied for the ACLA, Ford, and Graduate Center
+Dissertation Fellowships. I also applied for two research grants (was
+awarded one of them so far) and to a postdoctoral position at the New
+School. This is to say, I’ve been spending a lot of time theorizing my
+project across cover letters, proposals, abstracts, and research,
+personal, and teaching statements.&lt;/p&gt;
+
+&lt;p&gt;One thing that I’ve been carefully theorizing is the importance of
+&lt;em&gt;form&lt;/em&gt; as a connection between the queer and digital—specifically
+looking at how queerness takes certain forms in literary narrative and
+voice, on the one hand, and how textual data takes certain forms when
+it is digitized and/or computed. To explore queer form, I’ve been
+marshalling Kadji Amin, Amber Musser, and Roy Perez’s definition of
+the term. They discuss queer form as a strategy for avoiding
+compulsory visibility:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;For our purposes, queer form means challenging the primacy of the
+visual, which has too often been a site for pernicious power
+relations […]. At their base, such operations of surveillance and
+classification rely on the concept of immutable difference, on sharp
+boundaries, and on the possibility of exhaustively knowing the other
+[…]. We see queer form as an aesthetics that moves persistently
+around the visual, thereby avoiding this flattening. To the extent
+that form operates behind the scenes as ideological impulse and
+materiality, queer formal practices can resist the dictates of
+transparency normally required of non-normative subjects by
+illuminating the unseen. In this way it not only troubles the
+epistemic assurances of the visual regime, but it also asks how
+shifting away from static visuality can circumnavigate questions of
+objectification. A move toward the diffusely sensual, and away from
+the linearity of visual gazing, articulates difference in terms that
+are not about dominance or norms, but that underscore the importance
+of thinking with other modes of knowing, theorizing, and
+experiencing. Queer form is about other ways of understanding
+relationships to power and relationships to being. 232-3&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;My work strives to show how Queer Form as an “aesthetics” can
+productively mirror and offer openings to study digital forms. I’ve
+been plumbing this connection between “queer formalism” and
+“deformance” — “queer formalism” is a term from Tyler Bradway’s
+&lt;em&gt;PMLA&lt;/em&gt; article, “Queer Narrative Theory and the Relationality of
+Form”; and “deformance” I take from Jerome McGann and Lisa Samuel’s
+foundational essay, “Deformance and Interpretation.” Bradway describes
+that, while Queer has been seen as a disrupter of form, such as
+narrative form by disrupting chronology, linearity, or “reproductive
+futurism,” etc, Queerness is still accessible through form. He admits
+that “Queerness tells no tales. It only disturbs, troubles, or
+shatters them” (711). However, taking Amin, Musser, and Perez’s ideas
+about form as a strategy for opacity, he points out that “Queerness is
+shaped by passionate attachments to certain forms,” such as the “the
+vivid interleavings of narrative and social theory in Gloria
+Anzaldua’s &lt;em&gt;Borderlands&lt;/em&gt;, Eve Kosofsky Sedgwick’s &lt;em&gt;Tendencies&lt;/em&gt;, or
+Jose Esteban Munoz’s &lt;em&gt;Cruising Utopia&lt;/em&gt;” (712). In my reading, McGann
+and Samuels take a similar stance in their turn to digital forms, by
+valuating any formal shift in text (such as from print to digital) for
+the way it opens interpretive possiblities.&lt;/p&gt;</content><author><name>Filipa Calado</name></author><category term="TEI" /><category term="queer form" /><category term="queer formalism" /><category term="deformance" /><category term="revising" /><summary type="html">The work on chapter two has been taking longer than I thought- there were three weeks of heavy revision in October/November, where I made the following changes at the request of my peer reviewers. Then a round of copyediting, which is done, and the final round of proofreading, to be completed next week, after which the thing will finally go to press. The major revisions included:</summary></entry><entry><title type="html">Drafting Chapter Two</title><link href="http://localhost:4000/qt/drafting-chap-two/" rel="alternate" type="text/html" title="Drafting Chapter Two" /><published>2021-09-24T00:00:00-04:00</published><updated>2021-09-24T00:00:00-04:00</updated><id>http://localhost:4000/qt/drafting-chap-two</id><content type="html" xml:base="http://localhost:4000/qt/drafting-chap-two/">&lt;p&gt;The goal for the summer was to address the remaining small edits of
 the first chapter and to complete a readable draft of the second
 chapter by August 31. I managed to make that goal, though a few days
 late.&lt;/p&gt;
@@ -428,136 +547,4 @@ alternative ways of reading that involve speculation and play. They
 require formalizing and abstracting what cannot be touched into a
 touchable format. It involves playing with vantages (Lauren Klein),
 provisionality (Julia Flanders, Susan Brown), and performance
-(Katherine Bode, Tanya Clement).&lt;/p&gt;</content><author><name>Filipa Calado</name></author><category term="dissertation" /><category term="queer of color critique" /><summary type="html">In my last post, I started to organize my thoughts on feminist distant reading. My focus was to work out how we might open up the way we interface with queerness as “untouchable,” as the raw data that cannot be quantified. The solution is to abstract and formalize so we can move or “interface” with it.</summary></entry><entry><title type="html">Feminist Army II</title><link href="http://localhost:4000/qt/feminist-army-II/" rel="alternate" type="text/html" title="Feminist Army II" /><published>2020-03-27T00:00:00-04:00</published><updated>2020-03-27T00:00:00-04:00</updated><id>http://localhost:4000/qt/feminist-army-II</id><content type="html" xml:base="http://localhost:4000/qt/feminist-army-II/">&lt;p&gt;It’s been difficult to stay focused during the pandemic. Only the past
-week have I been able to return to my dissertation work, and just to
-go over my reading notes taken in the weeks prior to march 16, when I
-left New York. I was working through a mountain of reading and
-research in response to a
-&lt;a href=&quot;https://twitter.com/Caladoscope/status/1232711183288934400&quot;&gt;tweet&lt;/a&gt; I
-sent out about a month ago asking for examples of
-non-white-cis-male-het distant reading.&lt;/p&gt;
-
-&lt;p&gt;So after this time of research and note-taking, I feel ready to start
-writing again, and I’m starting to constellate some of the central
-findings in the work of great feminist scholarship on distant
-reading.&lt;/p&gt;
-
-&lt;p&gt;In my last post, I zeroed in on what I see as the crux of my chapter’s
-argument, where I think much of this research will be deployed. The
-chapter starts off with this conundrum—pointing out the necessity of
-touch, and then the reality of queer experience and “raw data” which
-are untouchable, sharing in the status of being constructed in some
-way. The answer to handling this construction is to celebrate the
-necessity of critical detachment and how it opens up the way we
-interface with constructions. By abstracting data we can move with
-them and find new modes of moving with with them. The method lies in
-bodies “touching” through their own abstraction.&lt;/p&gt;
-
-&lt;p&gt;In my reading, I found that much of the writers were inspired by
-Drucker, or build off Drucker’s ideas as foundational to their
-thinking. There is this general agreement that all data is capta. They
-build off this notion into different directions, and below are the two
-strands I find most useful for my project:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;the first is the strand of &lt;em&gt;criticism as performance&lt;/em&gt;. Critics like
-Katherine Bode and Tanya Clement stress the performativity of the
-critical process; Bode emphasizing more the materiality of the
-critical apparatus, and Clement emphasizing the process of
-discovery. Both are heavily indebted to ideas from textual
-criticism, particularly of Jerome McGann. They are formalists.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;the second strand is of &lt;em&gt;dynamicity&lt;/em&gt; or &lt;em&gt;vantages&lt;/em&gt;. These critics
-look at how computation affords possibilities for social critique by
-refusing “totalizing” narratives and approaching modeling as
-something partial yet dynamic. Lauren Klein looks for methods that
-engage multiple dimensions of the invisible in data; Laura Mandell
-at how we might “animate numerical processes” rather than establish
-them; and Susan Brown’s category work exhorts critics to work with
-provisionality, rather than aim for permanence. I could also add
-Julia Flanders and Pamela Caughie to this list.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Does it make sense for me to separate these two strands? They are both
-based on approaching criticism as a vital exercise, but they seem to
-differ on the emphasis of social vs formal critique. Is that a
-separation I want to uphold here?&lt;/p&gt;
-
-&lt;p&gt;What I’m really interested is in how these critics address the body in
-their processes. How can I incorporate a concern for affect here?&lt;/p&gt;</content><author><name>Filipa Calado</name></author><category term="dissertation" /><category term="performance" /><summary type="html">It’s been difficult to stay focused during the pandemic. Only the past week have I been able to return to my dissertation work, and just to go over my reading notes taken in the weeks prior to march 16, when I left New York. I was working through a mountain of reading and research in response to a tweet I sent out about a month ago asking for examples of non-white-cis-male-het distant reading.</summary></entry><entry><title type="html">Feminist Army</title><link href="http://localhost:4000/qt/feminist-army/" rel="alternate" type="text/html" title="Feminist Army" /><published>2020-02-28T00:00:00-05:00</published><updated>2020-02-28T00:00:00-05:00</updated><id>http://localhost:4000/qt/feminist-army</id><content type="html" xml:base="http://localhost:4000/qt/feminist-army/">&lt;p&gt;Over the past two weeks, I continue to interweave discussions on queer
-theory and dh methods, focusing on what they share—the sensitivity
-to textual objects, mediated by the critic’s self-consciousness of her
-distance from the object.&lt;/p&gt;
-
-&lt;p&gt;It has been difficult to keep a structure, and I continue to revise my
-outlines as I add more theorists. So far, I’ve come up with this
-master sketch for the chapter:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;touch as a reading method: making &amp;amp; opening connections
-    &lt;ul&gt;
-      &lt;li&gt;anzaldua and sedgwick on touch as connective and multiplying&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;queerness as untouchable: something we cannot fully grasp
-    &lt;ul&gt;
-      &lt;li&gt;love and cvetkovitch on queer negativity&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;data as unknowable: something we cannot fully grasp
-    &lt;ul&gt;
-      &lt;li&gt;drucker and underwood on studying cooked data&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;the illusion of critical detachment, we need bodies
-    &lt;ul&gt;
-      &lt;li&gt;felski’s affective method&lt;/li&gt;
-      &lt;li&gt;sedgwick on reparative reading&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;abstraction as necessary in order to bring things into relation
-    &lt;ul&gt;
-      &lt;li&gt;sedgwick on generative shame&lt;/li&gt;
-      &lt;li&gt;klein on figuring what is absent&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;the parallels between DH and Queer theorists, different reading
-styles; refocus on touch
-    &lt;ul&gt;
-      &lt;li&gt;feminist distant reading&lt;/li&gt;
-      &lt;li&gt;mcgann, ramsay on deformance, piper on close &amp;amp; distant.&lt;/li&gt;
-      &lt;li&gt;example of queer theorist who is guided by
-touching/feeling… affect theories? Munoz, Anzaldua, Ahmed…&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;my reading of /voyant-tools/ &amp;amp; /waves/&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The progression builds off the notion of touch, then immediately
-brings in that which is untouchable—queerness and data, and starts
-to plot how we might move from there, into a criticism that celebrates
-detachment by turning to the body and abstraction. Bodies engaging
-with the subject matter through abstraction. By abstracting data, we
-can move within them and interface with them. Something along those
-lines.&lt;/p&gt;
-
-&lt;p&gt;The writing process is slow, as I’m trying to coordinate my readings
-of the critics and bring them into a narrative. There are moments,
-however, when I break free from my critics, to articulate without
-substantiation the focus on touch and the necessity of critical
-distance. In those moments the writing is loose and easy.&lt;/p&gt;
-
-&lt;p&gt;At this point, I’m trying very deliberately to base my method on work
-done by women and especially queer women of color. When it comes to
-digital humanities, this has been tough, because as Sara Ahmed says,
-whiteness and maleness automatically reproduce themselves. We
-reproduce them without intention, and it takes a willful effort to
-center other voices.&lt;/p&gt;
-
-&lt;p&gt;In that vein, I tweeted out a call for “non-cishet-white-male distant
-reading.” The responses I got were overwhelming, with people citing
-their own work and others. So I’m inundated with some exciting reading
-for the next couple of weeks.&lt;/p&gt;</content><author><name>Filipa Calado</name></author><category term="dissertation" /><category term="distant reading" /><category term="methods" /><category term="feminism" /><summary type="html">Over the past two weeks, I continue to interweave discussions on queer theory and dh methods, focusing on what they share—the sensitivity to textual objects, mediated by the critic’s self-consciousness of her distance from the object.</summary></entry></feed>
+(Katherine Bode, Tanya Clement).&lt;/p&gt;</content><author><name>Filipa Calado</name></author><category term="dissertation" /><category term="queer of color critique" /><summary type="html">In my last post, I started to organize my thoughts on feminist distant reading. My focus was to work out how we might open up the way we interface with queerness as “untouchable,” as the raw data that cannot be quantified. The solution is to abstract and formalize so we can move or “interface” with it.</summary></entry></feed>
