@@ -449,6 +449,38 @@ gender”
   idiosyncrasies? What about examining the way that these processes
   encode subjectivity?
 
+*** Rockwell, Geoffrey and Stefan Sinclair. *Hermeneutica: Computer Assisted Interpretation in the Humanities* MIT Press 2016. 
+
+"Hermeneutica tries to correct for the Cartesian solitudes of text and
+method by showing how analytical tools /are/ instantiations of
+interpretive methods that can be woven closely into other
+hermeneutical things, like text" (4).
+
+They are using Descartes (and Ramsay uses Roberto Busa) to build up
+the theoretical understanding of text analysis. (But I want to do
+something different.) Whereas Descartes takes the solitary thinker as
+his method, they take thinking as a communal, participatory activity,
+which can be further enhanced with tools and texts - "this story is
+more about what is needed when one wants to augment interpretation
+with the development of software tools for thinking through" (5). 
+
+"Agile Hermeneutics" (6) -- moving between tool and text in a seamless
+way. Quick. 
+
+"a 'black-box' problem. Technique is either encapsulated in the black
+box of technology or is unfolded in a mind-numbing tedium of
+detail. Either way, something is hidden and something is shown" (15).
+
+"To be as effective as close reading, analytical methods have to be
+significantly easier to apply and understand. They have to be like
+reading, or better yet, a part of reading. Those invested in the use
+of digital analytics need to think differently about what is shown and
+what is hidden: the rhetorical presentation of analytics matters"
+(16). 
+
+
+
+
 *** So, Richard Jean. "All Models Are Wrong," /PMLA/, 132.3 (2017),
   pp. 668-773. 
 
@@ -1631,7 +1663,6 @@ forge new relationships and connections" (154).
 *** Fiona Barnett, Zach Blas, Micha Cárdenas, Jacob Gaboury, Jessica
 Marie Johnson, and Margaret Rhee, "QueerOS: A User’s Manual",
 https://dhdebates.gc.cuny.edu/read/untitled/section/e246e073-9e27-4bb2-88b2-af1676cb4a94#ch05
-
 
 *** Gaboury, Jacob. ["Becoming NULL: Queer Relations in the Excluded
 Middle."](https://www.tandfonline.com/doi/abs/10.1080/0740770X.2018.1473986)
@@ -3711,6 +3742,107 @@ penalized.
 We need to center BIPOC femmes and children. We need to continue to
 document how masculinity and contest culture has necropolitical
 consequences. 
+
+*** Prosser, Jay. /Second Skins: The Body Narratives of
+Trannsexuality/, Columbia U Press, 1998. 
+
+Prosser's main argument is that queer theory, and gender
+performativity in particular, has relied on transgender
+identification in ways that elide the specificity of the trans body. 
+
+"The question of how to represent the narratives of
+transsexuality... to put into narrative its remarkable bodily
+trajectories" (4). 
+
+Goal is to read the materiality of transsexual body into narratives:
+"To bring into view the mateirality of the body" (12).  
+
+Critique of Butler and queer theory generally: Butler considers
+"transitions as discursive but not explored in the bodiliness of
+gendered crossings" (6). 
+
+Butler's work considers gender, not sex, crossings, sex is "what was
+beneath the favored terrain of performativity" (6). Transsexuality is
+about embodiment. 
+- "deliteralization of sex" - displaced from materiality to fantacized
+  surface.
+- on "Gender is Burning" in BTM: "According to Butler, transgressive
+crossings can simultaneously reinscribe symbolic norms" (45). There is
+a "metaphorization of the transsexual body" (55). If Venus got her sex
+change, she would cease to be subversive" (49). This is a "critical
+perversity" (49). 
+
+Queer studies has depended on the transgender, has relied on
+transgender desires (21).
+
+Critique of Sedgwick: Theorizing about homosexuality relies on
+cross-gendered identifications. In /Between Men/, normative sexuality
+depends on male identification, and the avowal of such, with women as
+objects of desire (22). 
+
+
+
+Criticism:
+
+"transsexuality's somatic transitions are spurred and enabled by the
+formal transitions of narrative... Sex change is a plot... [Prosser's
+book suggests transsexuality, with its extraordinary conjunctions of
+body and narrative, as an identity story that transitions across the
+body/language divide that currently stalls poststucturalist thought."
+
+From Judith Halberstam's review: 
+
+  Second Skins: The Body Narratives of Transsexuality. Jay Prosser
+  Trans Liberation: Beyond Pink or Blue. Leslie Feinberg FTM:
+  Female-to-Male Transsexuals in Society. Holly Devor Judith Halberstam
+  /Signs: Journal of Women in Culture and Society/ 2000 26:1, 313-317
+
+  "Jay Prosser delineates three major areas for discussion: first,
+  the (mis)representation of the transgender body within queer theory
+  as a privileged example of gender performativity" (313).
+
+   "In a discussion of poststructuralist treatments of the transsexual
+   body, Prosser vigorously contests the notion that the body is
+   simply an inscribed surface or a discursive effect; such a reading
+   of the body becomes particularly problematic for the transsexual
+   whose desire for a sex change suggests a return to the literal, the
+   real, the intractable flesh" (314).
+
+   "In a dense and complex chapter on the work of Judith Butler,
+   Prosser argues that her texts, central as they are to queer theory,
+   simultaneously invoke and repudiate the transsexual body as a
+   figure for gender crossing.  In Gender Trouble, Prosser argues, the
+   transgender figures of the drag queen and the butch lesbian "come
+   to appear the empirical subjects of gender performativity, their
+   crossing illustrating both the inessentiality of sex and the
+   nonoriginality of heterosexuality that was the book's thesis"
+   (26). And yet, when Butler shifts her gaze from the transgender
+   figure to the transsexual in /Bodies That Matter/, the transsexual
+   represents a limit to performativity. Prosser claims that, while
+   transgender and queer may be allied in Butler's work, transsexual
+   and queer are most certainly in opposition.  Prosser's reading of
+   Butler is crucial to the political stakes of his book.  In true
+   deconstructive fashion, he aims his critical attention at Butler's
+   mis- reading of a footnote in Freud about the relationship between
+   body and ego. When she misreads /ego/ as /body/, Prosser claims,
+   Butler dematerializes the body as a fantasy/fiction of the ego
+   while Freud wanted to make the body the materialization of the
+   psyche. This misreading sets up a series of priorities for queer
+   performativity that are all at odds with transsexuality.
+   Accordingly, Prosser understands queer theory to validate surface
+   over depth, gender over sex, fiction over the real, the visual over
+   the felt, the queer over the heterosexual. "In its representation
+   of sex as a figurative effect of straight gender's constative
+   performance," he claims, "/Gender Trouble/ cannot account for the
+   transsexual desire for sexed embodiment S I G N S Autumn 2000 1 315
+   /telos/" (33). I think Prosser's reading of Butler is compelling,
+   and it is partic- ularly persuasive when Prosser tackles the most
+   problematic chapter in /Bodies That Matter/, a close reading of the
+   limits of performativity in relation to the transsexual drag queens
+   in Jennie Livingston's film /Paris is Burning/." (314-315)
+
+*** Stryker, White. /The Transgender Studies
+   Reader/. Routeledge. 2006. 
 
 ** Archives
 *** Arondekar, A., Cvetkovich, A., Hanhardt, CB, Kunzel, R., Nyong’O, T.,

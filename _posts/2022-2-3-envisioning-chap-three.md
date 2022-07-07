@@ -42,4 +42,4 @@ California) to look at old hardware and software.
 
 Last step is to find a literary text for all of this. I've been
 writing about hypertext fiction (and obsolesence of Flash software)
-which is one option. Probably will still with this. 
+which is one option. Probably will stick with this. 

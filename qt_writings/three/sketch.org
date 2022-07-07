@@ -1,0 +1,589 @@
+* sketch
+
+** summary notes
+*** overview
+
+Title: Embodiment.. 
+
+Question: How does reading the "fleshiness" of digital media enables
+the analysis of literary/textual material?
+
+Fields: Black Feminist Studies (Jayna Brown, Zakiyyah Iman Jackson,
+and Amber Musser), Media Archaeology/New Materialisms (Kirschenbaum).
+
+Object: Hyperfiction /These Waves/, Science Fiction /Dawn/. 
+
+Method: Close reading of /Dawn/, Media archaeological reading of
+/Waves/. A methodology of studying digital media which attends to its
+physicality, what Kirschenbaum describes as the forensic and formal
+levels of materiality.
+
+*** tentative outline
+**** Black feminist theorizing
+**** Close reading of Butler's Dawn
+**** Media Archaeological methods
+**** Close reading of /Waves/
+** readings notes
+*** dissertations
+**** TODO Bury, L. (2011). Exercises in criticism: The theory and practice
+of literary constraint 
+
+*** black feminisms and qocq
+**** Audre, Lorde. "Uses of the erotic: the erotic as power." Sister Outsider (1984), pp. 53-59. 
+
+Need to reclaim the erotic as a source of power, empowerment through
+desire and joy. 
+
+The difference between the erotic and the pornographic: both have to
+do with pleasure, but the pornographic supresses feeling, pursuing
+only sensation.  “The erotic is a measure between the beginnings of
+our sense of self and the chaos of our strongest feelings. It is an
+internal sense of satisfaction to which, once we have experienced it,
+we know we can aspire” (54).  “erotic… is a question of how actually
+and fully we can feel in the doing” (54).
+
+Quantity vs quality: “There is a difference between painting a back
+fence and writing a poem, but only one of quantity. And there is, for
+me, no difference between writing a good poem and moving into sunlight
+against the body of a woman l love” (58).
+
+I wonder --- is she saying that the pornographic has to do with
+quantity -- of sensation without feeling, and that the erotic has to
+do with quality -- depth of feeling? This question of quantity over
+quality interests me because it relates to the digital, and digital
+aesthetics. To the question of digitization. There’s the claim by
+Kittler that the digital brings us to a new regime of aesthetics where
+media is just numbers, what Kittler calls “eyewash,” as opposed to
+analogue media like photography and phonography, which stores data as
+physical effects or traces. From the first page of Media, Film,
+Typewriter: The general digitization of channels and information
+erases the differences among individual media. Sound and image, voice
+and text are reduced to surface effects, known to consumers as
+interface. Sense and the senses turn into eyewash.. Inside the
+computers themselves everything becomes a number: quantity without
+image, sound or voice. 1 The claim that digital media lacks
+physicality has been countered by media/literary theorists like
+N. Katherine Hayles and Matt Kirschenbaum, who explore the very
+physical effects of digital media, in Kirschenbaum’s case, looking at
+how traces on a hard drive, for example, are as sensual and unique as
+any other physical objects, though they perpetuate an illusion of
+immateriality.
+
+The use of Lord’s “erotic,” emphasizing the role of chaos in creating
+intimacy or new modes of connection---something I had read, this word
+“chaos,” and didn’t know what to do with: “The erotic is a measure
+between the beginnings of our sense of self and the chaos of our
+strongest feelings. It is an internal sense of satisfaction to which,
+once we have experienced it, we know we can aspire” (54). This idea
+that chaos can be a bridge of connection. Reminds me of Brown, and
+also of Jackson, who talks about dissolving the boundaries of the self
+as a way of forming new ethical connections (we’ve seen this in
+Brown’s Black Utopias). This is very smart, and it’s in keeping with
+structures of thought from black lesbian feminists.
+
+**** TODO Snorton, C. Riley. Black on both sides: A racial history of trans
+identity. U of Minnesota Press, 2017.
+
+Looking at the quality that has been used (black flesh) to denigrate
+as a tool of empowerment.
+
+The ways that white bodies & gender has been constructed out of black
+flesh. This black flesh, this reduction, can be a place of
+possibility, of fugitivity, of escape, for example.
+ 
+Chapter 1: how the field of gynecology, which is about sex/gender in
+white women, was only possible by the scopic access to black
+flesh. Captive flesh is ungendered. Echoes here of Hartman’s method,
+of critical fabulation. Wondering what kinds of ways did the female
+slaves care for each other during the “scientific procedures.” They
+are the raw materials for creating a gender from which they are
+excluded.
+
+ “The narratives of American gynecology’s founding clarify how chattel
+ slavery functioned as one cultural apparatus that brought sex and
+ gender into arrangement; the instrument in such an encounter occurred
+ in and as flesh” (52).
+
+Chapter 2: how does this state of gender indefiniteness create
+possibilities of resistance, of escape? The cross dressing of runaway
+slaves.
+
+ “the black’s figurative capacity to change form as a commoditized
+ being engendered flow” (59).
+
+**** TODO Zakiyyah Iman Jackson. /Becoming Human/. NYU Press, 2020.
+Dismantles Enlightenment thought -- saying that blackness has not been
+“denied” or “evacuated” but rather reappropriated, plasticized to suit
+liberal humanist needs. What we think of as "Humanism" emerges from
+the appropriation of black being and knowing. Human–animal dichotomies
+inscribe, through their hierarchisation, violent orders.
+
+The ideas from contemporary science (plasticization, symbiosis) which
+she takes and applies to her critique of Enlightenment. This is
+essential, necessary work, and makes me think of feminist scientists
+like Haraway (whom she cites) who began by critiquing patriarchal
+approaches to empirical science (like the idea that primate society is
+driven by competitions for dominance, rather than collective
+cooperation). Also makes me think of New Materialist ideas like Jane
+Bennett (whom she cites) who talk about consciousness being something
+not only contained within the human or other beings but also with
+objects. About the assemblage rather than the individual. There seems
+to be this move in Black/AfAm Studies that’s drawing on newer ideas in
+Materialisms and the Philosophy of Science.
+
+The ideas from Butler, which Jackson brings up, are key here. Butler
+reimagines human subjectivity as not individual but collective,
+arising from symbiosis between a variety of bodies and species. In
+“Bloodchild,” Jacson reads “receptivity” rather than passivity. She
+also claims that Butler doesn’t idealize symbiosis, but instead looks
+at how conditions of unequal power can make it problematic.
+
+**** TODO Jessica Marie Johnson. /Wicked Flesh/. 
+Johnson takes something very constraining--marriage and baptism
+records--and turns it into a mechanism for reading intimacy. 
+
+I am interested in projects like Jessica Marie Johnson’s which examine
+existing structures for modes of resistance, and in particular for
+modes of resistance that emerge from the logics of those
+structures. Johnson takes something very constraining, that is, the
+social structures available to African and African-descent women who
+lived during and sometimes operated within the slave-trading 18th
+century. She studies civil records of marriage and baptism for the
+ways they enable new productions of intimacy, which is a practice of
+freedom.
+
+From my point of view, Johnson’s project addresses the problem of
+data, which is the problem of the archive in the Atlantic World. Her
+methodology is to close-read the civil records to create a
+“promiscuous accounting of blackness not as bondage and subjection,
+but as future possibility” (10). The records, on their own, tell a
+story of bondage and subjection to power. Johnson’s job is to
+construct a narrative around these records, about the “ways black
+women sought out profane, pleasurable, and erotic entanglements as
+practices of freedom” (12). In “Markup Bodies,”another piece by this
+author, Johnson argues that data on its own re-enacts the
+commodification of black bodies---that black bodies are reduced to
+data points. In order to subvert the reduction of bodies to “data,”
+data has to be supplemented with “black digital practice,” which are
+the rich histories of black embodiment, the narrative that surrounds
+the data, which accompanies the database.
+
+How are the records themselves constituted and structured? Databases
+themselves are far from neutral (as Johnson undoubtedly would
+agree). They are constructed, structured data. I’m curious about the
+formal aspects of this database, in the decisions made not only in
+their creation but in their preservation. What if we think of these
+records as their own data format, and examine the structures /
+boundaries of that format?
+
+Is there something within this structure that allows us to read an
+emergent freedom?
+
+**** TODO Jennifer L. Morgan. /Reckoning with Slavery/. 
+
+From [[https://criticalinquiry.uchicago.edu/li_qipehreviews_reckoning_with_slavery/][review]]:
+
+ "Over the course of six chapters, Reckoning with Slavery models a way
+ of accounting for and filling in this archival silence, namely by
+ reading references to gender and kinship “as a type of irruption”
+ (p. 49). Attending to the canonical writings of the fifteenth-century
+ Portuguese chronicler Gomes Eannes de Zurara, for instance, Morgan
+ demonstrates how Zurara’s description of the grief of the enslaved
+ reveals the damage that market forces wreak on networks of
+ kinship. Similarly, in her analysis of a diagrammatic cross section
+ of the crowded hold of a slave ship, she notes movingly that the
+ easily missed image of an enslaved woman giving birth on board
+ signals the horrors of children being viewed as commodities. Such a
+ mode of reading reframes early colonial texts about slavery as
+ implicit critiques of it and, in doing so, offers a way of
+ interpreting narratives as counternarratives and a glimpse at the
+ radical forms historical reconstruction can take. No longer is
+ historical reconstruction merely about writing a more expansive
+ history including the previously excluded voices of women and
+ girls—itself a formidable task. It is also about rethinking the
+ foundations of this history in terms of their movements and roles.
+
+ What Reckoning with Slavery brings to literary-historical studies,
+ then, is an archival practice that is at once historicist and
+ reparative. On one hand, it is invested in interpreting a spotty
+ historical record ethically, and this is shown in the book by Morgan
+ as she brings together different archives to map a more accurate and
+ comprehensive global history. That it leans so productively on
+ Portuguese texts to chart a partial history of the slave trade in the
+ English Americas is but one example. On the other hand, however, the
+ book is also not bound by what is present in historical archives, and
+ this is where it shines. Many of the stories of enslaved women might
+ never be recovered, but Reckoning with Slavery shows how their
+ stories might still be told by reading their silences creatively. The
+ absence of women from the history of slave revolts, for instance,
+ might not necessarily mean that they failed to participate in these
+ uprisings or that they only participated in tiny, quotidian ways. It
+ might also mean that their deeds were erased because women were so
+ foundational to these uprisings that they inspired unease. Such a
+ creative methodology paves the way for new, provocative historical
+ narratives to be written."
+
+**** TODO Jayna Brown. /Black Utopias/
+
+I’m interested in how Brown is re-conceiving sensation and desire to
+transcend the bounded subject. She asks, “Does the self need bounded
+wholeness in order to feel, or can it thrive in the effluent?”
+(14). She zeroes in on the potentiality of “flesh” as a site that can
+avoid the “markings” of subjectivity: “Flesh… is free of the need for
+subjectivity. I contend that there is freedom in the flesh, in the
+moments when it is excluded from being marked, as it feels, and
+responds to, touch” (11). Sensation, desire, and flesh all reach
+toward a kind of merging.
+
+- Black subjects, being excluded from the ‘human’, have a mobility, an
+‘untethered state’ (7). “Does the self need bounded wholeness in order
+to feel, or can it thrive in the effluent?” (14).  
+
+- “Perhaps we can think of desire differently: not as consumption but as
+relation of and charged with the potential to explode all attempts to
+order and contain it” (14).
+
+**** TODO Musser, Amber. /Sensual Excess/
+Sexuality/desire cannot be severed from domination. 
+
+The pornotrope (from Hotense Spillers): severing the body from social
+network, gender, etc. Makes the body just flesh. And also mysterious,
+and desirable.
+
+**** Saidiya, Hartman. "Venus in Two Acts." Small Axe 12.2 (2008): 1-14.
+
+How do we know what was never recorded? How do we represent what was
+never recorded without reinscribing the violence of exclusion,
+mutilation?
+
+ “How does one resist the scene of subjection without replicating the
+ grammar of violence?” (4).
+
+ "Picture them: The relics of two girls, one cradling the other,
+ plundered innocents; a sailor caught sight of them and later said
+ they were friends. Two world-less girls found a country in each
+ other’s arms. Beside the defeat and the terror, there would be this
+ too: the glimpse of beauty, the instant of possibility” (8).
+
+By critical fabulation:
+
+ “Is it possible to exceed or negotiate the constitutive limits of the
+ archive? By advancing a series of speculative arguments and
+ exploiting the capacities of the subjunctive (a grammatical mood that
+ expresses doubts, wishes, and possibilities), in fashioning a
+ narrative, which is based upon archival research, and by that I mean
+ a critical reading of the archive that mimes the figurative
+ dimensions of history, I intended both to tell an impossible story
+ and to amplify the impossibility of its telling” (11).
+
+ “By playing with and rearranging the basic elements of the story, by
+ re-presenting the sequence of events in divergent stories and from
+ contested points of view, I have attempted to jeopardize the status
+ of the event, to displace the received or authorized account, and to
+ imagine what might have happened or might have been said or might
+ have been done” (11).
+
+ “The intent of this practice is not to give voice to the slave, but
+ rather to imagine what cannot be verified, a realm of experience
+ which is situated between two zones of death—social and corporeal
+ death—and to reckon with the precarious lives which are visible only
+ in the moment of their disappearance” (12).
+
+ "the essay mimes the violence of the archive and attempts to redress
+ it by describing as fully as possible the conditions that determine
+ the appearance of Venus and that dictate her silence” (1).
+
+**** Dereck Scott, Extravagant Abjection: “Slavery, Rape, and the
+ Black Male Abject”
+
+Analyzing abjection - “Even in the abject there is something with
+which to work” (146).
+
+“Or is it possible that there is a self-seeking in the act (especially
+as the violating act becomes systematized, routinized), a subject
+questing after its own forms of relief and, in so doing, questing
+after the terms by which to know and to experience itself?” (162).
+
+Toni Morrison reworks tropes of male emasculation into male rape,
+while doing so both figures it as a possibility and surrounding it
+with silence: “to figure both the possibility of sexual exploitation
+of men and the silence surrounding this possibility” (132). It eludes
+our access for a few reasons.
+
+Representational strategy -- to shape a silence while breaking it… the
+emptiness left by a boom or a cry”
+
+Reminds me of William James’s idea about thought being continuous, a
+“stream”, illustrated by the word: “Thunder-breaking-upon-silence-and-contrasting-with-it…. the feeling
+of the thunder is also a feeling of the silence as just gone” (234).
+
+ Language can work with and against this idea. It works against this
+ idea by using discrete names for things, when everything is actually
+ part of an ecosystem of interconnection, a continuous sensorium. But
+ we can see this in syntactic structures, particularly in
+ conjunctions, prepositions, and inflections of voice. James talks
+ about how the stream of thought is continually moving from idea to
+ idea, and there are moments of “flight” between the ideas, the
+ “resting places.” In the moments of flight we can grasp the movement,
+ but not completely: “Our experiences actually match the shadings and
+ nuances of language, so we ‘ought to say a feeling of and, and a
+ feeling of if, a feeling of but, and a feeling of by, quite as
+ readily as we say a feeling of blue or a feeling of cold’ (The
+ Principles of Psychology 378).”  “Rapid premonitory perspective views
+ of schemes of thought not yet articulate” (245).  I’m thinking of
+ language as a representational strategy, as a way to represent what
+ is unrepresentable, à la Hartman. To tell an impossible story.
+
+We don’t normally easily imagine the male submission, even though it’s
+a repressed trauma--- “testeria”: the complicated relationship of
+control and desire.
+
+**** TODO Omise'eke Natasha Tinsley, /Ezili’s Mirrors/
+
+The issue of queer identity: is it a performance or an inhabitation:
+Gender as plurality, inhabitation or construction. Gender is not a
+performance, but an ecosystem. This writing tries to do away with
+systems that already exist (43).
+
+What is “femme”? Femme is a “je ne sais quoi of desiring difference
+prior to any determination of sexual preference or gender identity”
+(40).
+
+I know I mentioned this in class, but I keep on getting stuck on this
+idea of gender as inhabitation. This idea emerges when Tinsley
+describes the “submerged epistemology of gender variance” in the drag
+king, “MilDred”: "All people have the possibility to be simultaneously
+man and woman, Shaft and Foxy Brown, packing and lacy—but not because
+gender is constructed, or performative, or any other queer theoretical
+word. No, because they’re always surrounded by multiple, multiply
+gendered spirits and may temporarily become any of these spirits at
+any time" (43). I have been conceiving gender as a performance
+(according to Butler, “performativity”), which precedes and constructs
+the subject, while also creating the possibility for resistance by
+resignifying gender norms. Describing this resistance, Butler famously
+asks: "What would it mean to cite the law to produce it differently,
+to 'cite' the law in order to reiterate and coopt its power, to expose
+the heterosexual matrix and to displace the effect of its necessity?"
+(p. 15).  As someone who has been thinking of gender as a kind of
+enabling constraint, I wonder at what it means to reconceive gender as
+something which is purely enabling, as a kind of freeing, creative,
+and spiritual force. Gender as something which inhabits bodies,
+something which exists outside (maybe prior to?) the body, that can
+move easily in between bodies.
+
+This seriously disrupts my thinking about gender. For much of the work that I’m doing, I need gender to be constituted by power relations, and to be something constraining, which subjects can resist. Much of the work I’m doing looks for this kind of structure in queerness and technology. But I do wonder about thinking of gender as something spiritual and emergent. I would have to think more about the kind of work that this perspective will allow me to do.
+
+**** Roderick A. Ferguson, "Queer of Color Critique"
+https://oxfordre.com/literature/view/10.1093/acrefore/9780190201098.001.0001/acrefore-9780190201098-e-33
+
+Queer of Color Critique is reactung against the collapsing of
+difference in identity politics--queer theory was creating identities
+for things in a way that incorporates/ignores intra-group
+differences. Intersectionality disrupts the pluralism of
+multiculturalism. 
+
+"To the extent that queer studies understood sexuality to be singularly
+constituted, the field betrayed its own investments in Eurocentric
+presumptions of uniformity"
+
+Building of Norma Alarcon, Kimberle Williams Crenshaw. Showing how
+QOCC appears in Munoz.
+
+"Queer of color critique began as a U.S.-based critical discourse
+responding to the circumstances of migration, neoliberal state and
+economic formations, and the developments of racial knowledges and
+subjectivities about sexual and gender minorities within the United
+States. As a convergence with and a departure from queer studies,
+queer of color critique signaled the ways in which the dominant
+literary, philosophical, and aesthetic engagements with queer
+sexuality distanced themselves from the study of race and from
+politico-economic concerns."
+
+"As an effort designed to address connections between race, sexuality,
+and political economy, queer of color critique had to begin by
+confronting a founding limitation of queer studies, a limitation that
+obscured the very connections that queer of color critique was
+interested in exposing. That limitation had to do with an initial
+ambivalence within queer studies about the connections that sexuality
+has to other modes of difference....This presumed equivalence and
+authenticity imply a liberal pluralism aimed at including racial and
+gender subjects into existing normative institutions and systems."
+
+"Consider, for instance, Norma Alarcón’s critique of the identity
+politics of Anglo-American feminism in her 1990 essay “The Theoretical
+Subjects of This Bridge Called My Back.” In that essay Alarcón
+considers the epistemological impact of women of color feminism, in
+general, and the 1981 anthology This Bridge Called My Back: Writings
+by Radical Women of Color. For Alarcón, the overall work of women of
+color feminists and the volume are significant not because they
+offered a “rainbow theory” or a discourse of authenticity. They were
+significant because they called into question the implicit subject of
+Anglo-American feminism. As Alarcón put it, “[The] most popular
+subject of Anglo-American feminism is an autonomous, self-making,
+self-determining subject who first proceeds according to the logic of
+identification with regard to the subject of consciousness, a notion
+usually viewed as the purview of man, but now claimed for women.”"
+
+"For Alarcón, This Bridge and women of color feminism analyzed the
+ways in which patriarchal and liberal notions of agency account for
+the ideological structure of Anglo-American feminism. In doing so,
+Alarcón produces a devastating critique of how Anglo-American feminism
+attempted to base feminist authenticity on a replication rather than a
+repudiation of heteropatriarchal agency."
+
+"Kimberlé Williams Crenshaw’s classic article “Mapping the Margins:
+Intersectionality, Identity Politics, and Violence against Women of
+Color” provided another example of how intersectional work was a
+critique of authenticity politics. For instance, in her discussion of
+identity politics, she argued, “The problem with identity politics is
+not that it fails to transcend differences, as some critics charge,
+but rather the opposite—that it frequently conflates or ignores
+intra-group differences.”11 Crenshaw offered intersectionality as a
+critique of the ways in which race and gender were politicized as
+consistent with ideologies of discreteness and authenticity. As she
+stated, “Feminist efforts to politicize experiences of women and
+antiracist efforts to politicize people of color have frequently
+proceeded as though the issues and experiences they each detail occur
+in mutually exclusive terrains.”12 In designating race and gender as
+categories that are constituted in relation to each other as well as
+other social differences, Crenshaw presented intersectionality as a
+means for disrupting discourses of authenticity and providing
+alternatives to those discourses."
+
+"Instead of arguing for the authenticity of categories of race and
+gender, women of color feminism and its intersectional strategies can
+be productively interpreted as attempts to show the limits of
+authenticity discourses and the ways that those discourses
+marginalized women of color. Contrary to the notion that modes of
+difference can be understood singularly, women of color feminists
+advanced arguments that posited those modes as necessarily constituted
+in relation to one another, for historical and political reasons."
+
+"Muñoz defines the hermeneutical properties of disidentification by
+arguing, “For the critic, disidentification is the hermeneutical
+performance of decoding mass, high, or any other cultural field from
+the perspective of a minority subject who is disempowered in such a
+representational hierarchy.”
+
+**** Roderick A. Ferguson’s Aberration in Black: Toward a Queer of Critique
+"The book attempted to demonstrate the ways in which the discipline’s
+liberal regard for African Americans was precisely the mechanism for
+constructing African American culture as outside of the normative
+boundaries of the archetypal Western subject and the citizen-subject
+of the United States."
+**** TODO Kyla Wazana Tompkins, "Intersections of Race, Gender, and Sexuality: Queer of Color Critique"Kyla Wazana Tompkins, "Intersections of Race, Gender, and Sexuality: Queer of Color Critique"
+https://d1wqtxts1xzle7.cloudfront.net/73757732/0b6ddb31eb5e591a549808f0f452a8d68c09-with-cover-page-v2.pdf?Expires=1646781190&Signature=OuVOtUFXdNpSWcIb0OzaWCTvKU60kmsBPodlB-76fzil6fIDRhROktvC6ItdoYsmz~UPnML8hqkysQapuoUahCh50umsSd~bfYSn4dLRqO-zUZFQTR7LMNE-yia~GE0o-6vQZWRSZRkrUWaONc-rdfud9xSL3FATOXDDt9QxIhneVPEIS~m5wR5Cf7KLY7uPGok9Qm9XuEcUA85amkfgufkVNvVgKwxyLnGa92URE3pMW29v53gN96SGEKoB8s-PFXi44AS12Vr39hB3rZy5bD25I~D0yzZWMczDwJRbv02u~fGNX15H4ZHOPYZy-OVeqSadyy1cRfH8SIhOdulRrw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
+
+**** TODO Blocket, Reginald. "Thinking with Queer of Color Critique: A
+Multidimensional Approach to Analyzing and Interpreting Data
+**** TODO Omise'eke Natasha Tinsley, "Black Atlantic, Queer Atlantic: Queer Imaginings of the Middle Passage," GLQ: A Journal of Lesbian and Gay Studies 14, no. 2–3 (2008)
+
+*** media studies and archaeology
+**** "Black Code" issue of /The Black Scholar/
+https://www.theblackscholar.org/now-available-black-code/
+**** Kirschenbaum, Matt /Mechansims/, 2008
+**** Whitney Trettien. /Cut/Copy/Paste/ https://www.upress.umn.edu/book-division/books/cut-copy-paste. 
+**** Lori Emerson. /Reading Writing Interfaces/
+**** Jussi Parikka. /What Is Media Archaeology?/
+
+**** Kara Keeling. /Queer Times, Black Futures/ NYU Press,
+https://nyupress.org/9780814748336/queer-times-black-futures.
+
+**** Maher, /The Future was Here/
+
+*** Butler's /Dawn/ reading notes
+**** Queerness in Dawn:
+Not typically queer, in that there are no queer characters, but the
+novel calls into question the role of individual sovereignty, the
+boundaries of the body and subjectivity, which resists
+heteronormativity as theorized by liberal subjectivity. 
+
+The debate about whether Octavia Butler was queer or not, and the
+speculation into her archive. The debate shows perhaps that her
+queerness in life is besides the point. What is more queer, is the
+debate itself. The speculation. 
+
+There is a deep ambivalence between the ethical and the practical
+course of action in the novel. Each time that I read /Dawn/, I get a
+different message of what a human ought to do. The writing reinforces
+this ambivalence, the way that the narrator's resolution wavers, or is
+revealed to the reader piecemeal.
+**** Inter-subjectivity/Collectivity:
+Dawn presents the radical question of interspecies breeding. The
+interspecies breeding, which emerges as part of the essential
+collectivity of the Oankali, resists notions of human autonomy and
+subjectivity. 
+
+The relation between this and the distributed cognitive
+environment. Perhaps this fear of being part of the collective is a
+fear of being subsumed by technological advancement?
+
+** brainstorms 
+*** methodology: flipping the reductions
+
+The way that black feminist thinkers are using what has been
+weaponized against them for their own power. Using the pornotrope as a
+site of possibility (Musser and Snorton). 
+
+This has to do with queer form -- it's about taking what has been a
+method of reduction, what has been a tool for appropriating the
+complexity of real world objects for the purpose of exploitation, and
+using that to instead seek out moments of illegibility, opacity. To
+multiply rather than resolve meaning. 
+
+*** Black Feminist Thinking and New Materialisms
+Writers in Black Studies have been revising New Materialisms, reorient
+discussions on materiality away from white masculinist perspectives
+and celebrating a lineage of marginalized thinkers
+**** The Flesh, Subjectivity, Desire by Brown, Musser, Snorton
+My question here: is there pleasure in the sensation that transcends
+the boundaries of the subject? I’m thinking of Musser’s point about
+how sexual desire is produced by violence and pleasure together, and
+that “To think with the flesh and to inhabit the pornotrope is to hold
+violence and possibility in the same frame” (Musser 12). It seems that
+some kind of violence---the violence of marking the subject---is
+necessary in the experience of flesh and pleasure.
+
+“Flesh… is free of the need for subjectivity. I contend that there is
+freedom in the flesh, in the moments when it is excluded from being
+marked, as it feels, and responds to, touch” (Brown B11).
+
+The idea that sexuality (sexual desire) is irreparably produced by
+violence and pleasure, that they are both contained within the
+pornotrope. 
+
+And additionally, that there is this contradiction (or paradox?)
+within desire, which is between possession and dissolution---desire is
+about a sovereign subject attempting to possess another, this is the
+drive or impulse of desire; but at the same time, at the height of
+desire, its ultimate goal, is about dissolution, about the melting
+away of the subject. What if we reconceptualize desire as the impulse
+to possess or dissolve, but without a subject?
+
+Also snorton’s transcapable.
+
+**** confusion on the flesh - engaging Lorde with Snorton/Musser
+The misalignment between the pornographic in Lorde and the pornotropic
+in Snorton/Musser. 
+
+ If the pornographic is just flesh, just pure sensation, how do we
+ build an erotics out of it? 
+
+ Flesh (Snorton) is supposed to be this thing which eludes capture,
+ but at the same time creates possibility. Snorton seems to suggest
+ that we can get at resistance through the reduction to flesh, in the
+ concept of the “transcapable”. That the pornotrope suggests a state
+ of chaos which can resist the fixity of gender. 
+
+ I wonder what Audre Lorde might say to this? Maybe that yes, the
+ flesh represents a state of possibility. But not in its vacuity,
+ rather, in the potential for depth of feeling. Looking at the flesh
+ for it’s erotic potential rather than the pornographic which is
+ imposed upon it.
+ 
+**** Humanity
+Folks from afam studies, like Jackson and Brown, are reconceptualizing
+the human to go beyond the confines of the body, into ecology,
+environment, via affective registers. 
+
+Connect to Hayles's work (?)

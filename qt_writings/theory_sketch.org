@@ -1,0 +1,49 @@
+* My critical approach
+
+Introduction:
+------------
+
+- Deformance and Queer Form
+
+
+Chapter one:
+------------ 
+
+- Critique of *Distant Reading*, "falsifiable criticism" which is
+  "reproducible". And generative reading of DR that attends to the
+  ways that computation can access marginalization.
+
+- Judith Butler's idea of *Gender Performativity* and how it aligns
+  with iterativity in Python. Bringing these two together allows us to
+  understand how gender theory can open up the way we think about text
+  analysis.
+
+---> I might add a discussion of *Trans Studies*?
+---> I might add critiques of gender theory?
+
+Chapter two:
+------------
+
+- Critique of *Textual Editing*, which asserts that the goal of the
+  editor is to bring to the surface the intentions of the author. 
+
+- Critique of *Queer Historiography*, which debates the extent to which
+  historians can know or label queerness in the past.
+
+- Heather Love's idea of *Feeling Backward*, to account for queer
+  affects without attempting to pin them down, redeem them.
+
+---> In place of the emphasis on Queer Historiography, I might add a
+     discussion of *Queer Negativity/Futurity*, and a meditation on
+     the role of trauma in creating queerness. Queerness that emerges
+     from reconciling pain. Anzaldua and Munoz.
+
+Chapter three:
+--------------
+
+- Critique of *Media Archaeology*? or marshalling from it?
+
+- Incorporation of *Disability Studies*: to inform the way we describe
+  human/machine interaction. Victoria Pitts-Taylor on mis/fitting.
+
+- Incorporation of Sensuality/Fleshiness in *Black Feminisms/QOCC*. 

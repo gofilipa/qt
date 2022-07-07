@@ -2241,6 +2241,122 @@ impulses "rely on the concept of immutable difference, on sharp
 boundaries, and on the possibility of exhaustively knowing the other"
 (232).
 
+*** The debates about TEI illustrates this tension between the
+“conservative” and the “creative” impulses in textual editing, and
+shows how an encoding method that is highly structured can be used to
+mark or explore moments of textual instability or ambiguity.
+
+*** felski on affects beside suspicion
+
+
+
+Postcritical Reading…  “in this sense, is not just a cognitive
+activity but an embodied mode of attentiveness that involves us in
+acts of sensing, perceiving, feeling, registering, and engaging”
+(Felski 176). 
+
+Felski: At stake is our receptivity: “to allow ourselves to be marked,
+struck, impressed by what we read” (Felski 12). 
+
+"the reader-text connection becomes part of a network rather than a
+self-enclosed dyad— yet a connection that remains vital to literary
+studies, especially in the classroom. Reading, in this light, is a
+matter of attaching, collating, negotiating, assembling—of forging
+links between things that were previously unconnected. It is not a
+question of plumbing depths or tracing surfaces… Interpretation
+becomes a coproduction between actors that brings new things to light
+rather than an endless rumination on a text’s hidden meanings or
+representational failures” (Felski 174)
+
+Surface reading challenges that search for absence by compelling a
+reader to stay with what the text says and how it says it rather than
+moving ahead to probe how it reflects and refracts larger cultural
+patterns. This critique reifies aesthetic objects and suggests that
+literary critics should embrace the literary.
+
+*** mcpherson, benjamin on race and tech
+Major developments in technology also perpetuate racial
+assumptions. Moving from networking technologies to software
+development, Tara McPherson explores the parallels between the
+Operating Systems and race relations, to show how the development of
+computer software betrays hegemonic assumptions about whiteness and
+elisions of difference.[fn:16] She focuses on the key moment of 1960s
+United States, when Operating Systems, which is the foundational
+software that supports a computer's programs and basic functioning,
+developed alongside civil rights discourses. Her research focuses on
+how "the organization of information and capital" in OS development
+resonates in the struggles for racial justice: "Many of these shifts
+were enacted in the name of liberalism, aimed at distancing the overt
+racism of the past even as they contained and cordoned off progressive
+radicalism" (30). McPherson deconstructs the UNIX operating system
+which includes a hierarchical file system, a command line interpreter
+(the Terminal on Mac or Command Prompt on Windows), and a variety of
+software programs that are designed to work in tandem. McPherson
+points out that UNIX-based Operating Systems (like Mac and Linux) are
+distinguished by the ways that they partition and simplify complex
+processes into discrete components, similar to the ways that identity
+politics cordones off parts of the (social and technological) system
+into distinct units. While this cordoning was productive for the
+promotion of civil rights, it also, according to McPherson, "curtailed
+and short-circuited more radical forms of political praxis, reducing
+struggle to fairly discrete parameters" (30).
+
+Crystallizing the intersection between Operating Systems and race
+relations, McPherson asserts that "Certain modes of racial visibility
+and knowing coincide or dovetail with specific ways of organizing
+data" (24). McPherson emphasizes the "rules" of UNIX philosophy, which
+lay out how UNIX's development prioritized the organization and
+simplification of data processing:
+#+BEGIN_QUOTE
+Rule of Simplicity: Design for simplicity; add complexity only where
+you must. Rule of Parsimony: Write a big program only when it is clear
+by demonstration that nothing else will do. Rule of Transparency:
+Design for visibility to make inspection and debugging easier... Rule
+of Representation: Fold knowledge into data so program logic can be
+stupid and robust. 26
+#+END_QUOTE
+The rules of "Simplicity" and "Parsimony" ensure that programs will be
+composed of small, interlocking parts that can be easily updated and
+transported to newer versions. The rule of "Transparency" flattens
+nuance and ambiguity, making program components as legible as
+possible. The rule of "Representation," particularly the suggestion to
+"Fold knowledge into data" reduces the complexity of raw data, so that
+it can be easily input into multiple processes. According to
+McPherson, all of these rules work together to shore up the central
+design theory of "modularity,"[fn:17] which stipulates that components
+are self-contained and interoperable, so they can be independently
+created, modified, and replaced without affecting the whole system.
+
+The role of control in creating the internet and the emphasis on data
+reduction in developing operating stystems leave their legacies on
+21st century digital technology, where race becomes collapsed into
+data. Echoing McPherson, Ruha Benjamin asserts that technology
+reproduces social inequities under the guise of objectivity and
+progressivism.[fn:18] Turning to technology, Benjamin explores how
+innovations in Artificial Intelligence and algorithmic computing
+extend racist paradigms into ever new tools, particularly in data
+gathering and surveillance. The creators of these new technologies
+mark, track, and quantify blackness, for example, in databases for
+healthcare or financial services that associate "black names" with
+criminality (Benjamin 5). With each update, technology is continually
+promoted as efficient and progressive in a way that masks how it
+exploits data about its subjects. Benjamin explains, "we are told that
+how tech sees “difference” is a more objective reflection of reality
+than if a mere human produced the same results... bias enters through
+the backdoor of design optimization in which the humans who create the
+algorithms are hidden from view" (5-6). As she points out, "the road
+to inequity is paved with technical fixes” (7). Like the creators of
+UNIX, the creators of such tools and algorithms operate under
+assumptions of white universality that inevitably marks blackness as
+"other."
+
+*** sedgwick on liberatory vs prohibition
+Sedgwick searches for "some ways of understanding human desire that might
+be quite to the side of prohibition and repression, that might hence
+be structured quite differently from the heroic, 'liberatory,'
+inescapably dualistic righteousness of hunting down and attacking
+prohibition/repression in all its chameleonic guises" (10).
+
 
 * commands
 c-c c-x f => create a new footnote
