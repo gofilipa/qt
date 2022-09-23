@@ -84,7 +84,7 @@ as a way of forming new ethical connections (we’ve seen this in
 Brown’s Black Utopias). This is very smart, and it’s in keeping with
 structures of thought from black lesbian feminists.
 
-**** TODO Snorton, C. Riley. Black on both sides: A racial history of trans
+**** Snorton, C. Riley. Black on both sides: A racial history of trans
 identity. U of Minnesota Press, 2017.
 
 Looking at the black flesh that has been used to denigrate as a tool
@@ -233,6 +233,42 @@ subject coherence.
 Violence produces flesh. Violence produces an excess (like hunger in
 Holiday) which it cannot incorporate. 
 
+"In Origin of the Universe 1 Thomas places rhinestones where we might
+expect to see shadows. They appear in the creases of sheets, to mark the
+contours of flesh, to demarcate nipples, pubic hair, and labial folds. They
+disrupt the flat planes of color with their raised and sparkling presence.
+Instead of peeking inward, we are distracted by surface and ornamentation.
+Rhinestones offer Thomas a palette beyond oils; they provide a way
+to expand the surface of her paintings and to gesture toward epistemologies
+not captured by realism" (49).
+
+
+"surface as a formal strategy of producing opacity. This activation of
+a surface aesthetic serves as a rejection of the mandate of
+transparency, while also enabling alternate modes of apprehending
+pleasure and selfhood. There are several layers to thinking Thomas’s
+relation to surface. First, there is the question of size. Origin of
+the Universe 1 is a large painting (sixty by forty-eight inches),
+which invites the contemplation of surface as a spectacle. In this
+way, I understand spectacle to be operating in opposition to the
+pornographic or scientific gaze in that through its excess, it
+disrupts the possibility of contained knowledge.  Additionally, the
+nature of spectacle invites us into the specific realm of black
+hypervisuality through Thomas’s use of the rhinestone and the
+reflective dimensions of their shine. Instead of vagina as void, the
+rhinestones emphasize the ways that this vulva’s materiality lies at
+the center of two epistemologies of intimacy—friction and narcissism"
+(48).
+
+"Thinking the rhinestone as a trace or residue of Thomas’s wetness and
+excitement allows us to hold violence, excess, and possibility in the
+same frame. Even as the source is ambiguous, the idea that rhinestones
+might offer a record of pleasure—-pleasure that is firmly constituted
+in and of the flesh—-shows us a form of self-possession.  This self is
+not outside of objectification, but its embellishment and insistence
+on the trace of excitement speaks to the centrality of pleasure in
+theorizations of self-love." (63).
+
 **** Johnson, Jessica Marie. /Wicked Flesh/. 
 Johnson takes something very constraining--marriage and baptism
 records--and turns it into a mechanism for reading intimacy. 
@@ -273,41 +309,32 @@ emergent freedom?
 
 **** TODO Brown, Jayna. Black Utopias: Speculative Life and the Music of Other Worlds. Duke University Press, 2021. JSTOR, https://doi.org/10.2307/j.ctv1dgmm37. Accessed 8 Jul. 2022.
 
-Brown is re-conceiving sensation and desire to transcend the bounded
-subject.
-
-- She asks, “Does the self need bounded wholeness in order to feel, or
-  can it thrive in the effluent?” (14). She zeroes in on the
-  potentiality of “flesh” as a site that can avoid the “markings” of
-  subjectivity: “Flesh… is free of the need for subjectivity. I
-  contend that there is freedom in the flesh, in the moments when it
-  is excluded from being marked, as it feels, and responds to, touch”
-  (11). Sensation, desire, and flesh all reach toward a kind of
-  merging.
-
-- Black subjects, being excluded from the ‘human’, have a mobility, an
-  ‘untethered state’ (7). “Does the self need bounded wholeness in
-  order to feel, or can it thrive in the effluent?” (14).
-
-- “Perhaps we can think of desire differently: not as consumption but
-  as relation of and charged with the potential to explode all
-  attempts toorder and contain it” (14).
-
-- Sensation is operating as a register. “I was tickled…” (126). 
-
-- P.10-11 “Flesh… is free of the need for subjectivity. I contend that
-  there is freedom in the flesh, in the moments when it is excluded
-  from marked, as it feels, and responds to, touch” (11).  This
-  reminds me of snorton’s transcapable.
-
-Do we hate that she cites Bergson? Do we think that she’s giving a
-fair reading to Malabou, unlike Jackson?
-
 Brown points out in Bulter the tension between what in our human
 nature allows us to transcend our species and what prevents us from
 doing so. Either humanity will “grow” or it will “prevail.
 
-**** TODO Jennifer L. Morgan. /Reckoning with Slavery/. 
+Brown is re-conceiving sensation and desire to transcend the bounded
+subject.
+
+Black subjects, being excluded from the ‘human’, have a mobility, an ‘untethered state’ (7). 
+
+She asks, “Does the self need bounded wholeness in order to feel, or
+can it thrive in the effluent?” (14). She zeroes in on the
+potentiality of “flesh” in its reduction to avoid the markings of
+subjectivity: “Flesh… is free of the need for subjectivity. I contend
+that there is freedom in the flesh, in the moments when it is excluded
+from being marked, as it feels, and responds to, touch”
+(11). Sensation, desire, and flesh all reach toward a kind of merging.
+
+The freedom in this reduction recalls snorton’s transcapable.
+
+She creates a model for understanding the role of the flesh in
+reconceiving the subject, which allows us to rethink agency and
+consent. 
+
+quotes:
+
+**** Jennifer L. Morgan. /Reckoning with Slavery/. 
 
 From [[https://criticalinquiry.uchicago.edu/li_qipehreviews_reckoning_with_slavery/][review]]:
 
@@ -351,7 +378,7 @@ From [[https://criticalinquiry.uchicago.edu/li_qipehreviews_reckoning_with_slave
  creative methodology paves the way for new, provocative historical
  narratives to be written."
 
-**** TODO Dereck Scott, Extravagant Abjection: “Slavery, Rape, and the
+**** Dereck Scott, Extravagant Abjection: “Slavery, Rape, and the
  Black Male Abject”
 
 Analyzing abjection - “Even in the abject there is something with
@@ -431,9 +458,9 @@ move easily in between bodies.
 
 This seriously disrupts my thinking about gender. For much of the work that I’m doing, I need gender to be constituted by power relations, and to be something constraining, which subjects can resist. Much of the work I’m doing looks for this kind of structure in queerness and technology. But I do wonder about thinking of gender as something spiritual and emergent. I would have to think more about the kind of work that this perspective will allow me to do.
 
-**** Omise'eke Natasha Tinsley, "Black Atlantic, Queer Atlantic: Queer Imaginings of the Middle Passage," GLQ: A Journal of Lesbian and Gay Studies 14, no. 2–3 (2008)
+**** TODO Omise'eke Natasha Tinsley, "Black Atlantic, Queer Atlantic: Queer Imaginings of the Middle Passage," GLQ: A Journal of Lesbian and Gay Studies 14, no. 2–3 (2008)
 
-**** Roderick A. Ferguson, "Queer of Color Critique"
+**** TODO Roderick A. Ferguson, "Queer of Color Critique"
 https://oxfordre.com/literature/view/10.1093/acrefore/9780190201098.001.0001/acrefore-9780190201098-e-33
 
 Queer of Color Critique is reactung against the collapsing of
@@ -531,12 +558,14 @@ liberal regard for African Americans was precisely the mechanism for
 constructing African American culture as outside of the normative
 boundaries of the archetypal Western subject and the citizen-subject
 of the United States."
-**** Kyla Wazana Tompkins, "Intersections of Race, Gender, and Sexuality: Queer of Color Critique"Kyla Wazana Tompkins, "Intersections of Race, Gender, and Sexuality: Queer of Color Critique"
+
+**** TODO Kyla Wazana Tompkins, "Intersections of Race, Gender, and Sexuality: Queer of Color Critique"Kyla Wazana Tompkins, "Intersections of Race, Gender, and Sexuality: Queer of Color Critique"
 https://d1wqtxts1xzle7.cloudfront.net/73757732/0b6ddb31eb5e591a549808f0f452a8d68c09-with-cover-page-v2.pdf?Expires=1646781190&Signature=OuVOtUFXdNpSWcIb0OzaWCTvKU60kmsBPodlB-76fzil6fIDRhROktvC6ItdoYsmz~UPnML8hqkysQapuoUahCh50umsSd~bfYSn4dLRqO-zUZFQTR7LMNE-yia~GE0o-6vQZWRSZRkrUWaONc-rdfud9xSL3FATOXDDt9QxIhneVPEIS~m5wR5Cf7KLY7uPGok9Qm9XuEcUA85amkfgufkVNvVgKwxyLnGa92URE3pMW29v53gN96SGEKoB8s-PFXi44AS12Vr39hB3rZy5bD25I~D0yzZWMczDwJRbv02u~fGNX15H4ZHOPYZy-OVeqSadyy1cRfH8SIhOdulRrw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
 
 **** Blocket, Reginald. "Thinking with Queer of Color Critique: A
 Multidimensional Approach to Analyzing and Interpreting Data
 
+**** TODO Horton Stallings. 
 *** media studies and archaeology
 **** "Black Code" issue of /The Black Scholar/
 https://www.theblackscholar.org/now-available-black-code/
@@ -549,34 +578,100 @@ https://nyupress.org/9780814748336/queer-times-black-futures.
 **** Maher, /The Future was Here/
 
 *** Butler's /Dawn/ reading notes
-**** Queerness in Dawn:
-Not typically queer, in that there are no queer characters, but the
-novel calls into question the role of individual sovereignty, the
-boundaries of the body and subjectivity, which resists
-heteronormativity as theorized by liberal subjectivity. 
+**** Dunkley, Kitty. “Becoming Posthuman: The Sexualized, Racialized,
+and Naturalized Others of Octavia E. Butler’s Lilith’s Brood," The
+Bloomsbury Handbook to Octavia Butler. pp. 95-115.
 
-The debate about whether Octavia Butler was queer or not, and the
-speculation into her archive. The debate shows perhaps that her
-queerness in life is besides the point. What is more queer, is the
-debate itself. The speculation. 
+/Dawn/ concept of posthumanism revises the anthropocentric and
+patriarchal hegemony of humanism. The key difference for this kind of
+posthumanism is a craving to integrate and accumulate difference,
+rather than define themselves against it.
 
-There is a deep ambivalence between the ethical and the practical
-course of action in the novel. Each time that I read /Dawn/, I get a
-different message of what a human ought to do. The writing reinforces
-this ambivalence, the way that the narrator's resolution wavers, or is
-revealed to the reader piecemeal.
-**** Inter-subjectivity/Collectivity:
-Dawn presents the radical question of interspecies breeding. The
-interspecies breeding, which emerges as part of the essential
-collectivity of the Oankali, resists notions of human autonomy and
-subjectivity. 
+"Lilith’s Brood prompts us to question how our relationships and sense
+of kinship with the racialized, sexualized, and naturalized Other
+might look, if, like the Oankali, we chose to “embrace difference”
+(Adulthood Rites 329); might we, as a result, now recognize the Other
+within us?" (Dunkley 113-114).
 
-The relation between this and the distributed cognitive
-environment. Perhaps this fear of being part of the collective is a
-fear of being subsumed by technological advancement?
+"Humanism functions on the apotheosis of the anthropos and a belief in
+its inherent worth, autonomy, rationality, and capabilities—-qualities
+intended to affirm our status at the pinnacle of the Cartesian
+hierarchy, above animals, machines, and the Other" (Dunkley 97).
 
-**** sex in Dawn
-drawing attention to the role of the body in mediating sex. 
+"Oankali are ostensibly constructed so as to invert our Humanistic
+egocentrism—-not only is difference not considered the source of fear
+for the Oankali, but they are physiologically engineered to hunger for
+it" (Dunkley 96).
+
+"In fact, the ontological danger that the ooloi pose to the system of
+Humanism is most acutely felt by the men, for whom the ooloi come to
+represent rival figures... threaten to usurp the men’s position at the
+pinnacle of a gendered hierarchy, usurpation that is especially
+calamitous given the ooloi’s role as sexual penetrator—-an
+ideologically loaded function, connoting uniquely masculine traits of
+power, virility, and strength" (Dunkley 100).
+
+**** Barnes, Steven. "What Octavia E. Butler Feared Most about Human
+Nature," The Bloomsbury Handbook to Octavia Butler. pp. 11-13.
+
+"she tended to ground her opinions of humanity in her biological
+research" (Barnes 11). 
+
+Butler said often that humans have an "emergent" property which
+creates tribalism: hierarchy and superiority (Barnes 11).
+
+**** TODO Ramirez, Catherine S. "Cyborg Feminism: The Science Fiction of
+Octavia E. Butler and Gloria Anzaldua", Flanagan, Mary, and Booth,
+Austin, eds. Reload: Rethinking Women + Cyberculture. Cambridge,
+Mass.: MIT Press, 2002. p. 374-402.
+**** TODO Nanda, Aparajita. “POWER, POLITICS, AND DOMESTIC DESIRE IN
+OCTAVIA BUTLER’S ‘LILITH’S BROOD.’” Callaloo, vol. 36, no. 3, 2013,
+pp. 773–88. JSTOR, http://www.jstor.org/stable/24264846. 
+**** Nanda, Aparajita. "Teaching the 'Other' of Colonialism: The Mimic
+(Wo)Men of /Xenogenesis/." The Bloomsbury Handbook to Octavia
+Butler. pp. 117-131. 
+
+the /Xenogenesis/ trilogy is "a narrative replete with nuanced
+deconstructions of power structures" (118).
+
+"the triad of compulsion, attraction, and repulsion lock the Self and
+the Other in fascinatingly interlinked forms of desire" (118).
+
+Reading Butler in the classroom through the lens of post-colonial
+studies. Said's other, Bhaba's hybrid. 
+
+**** TODO Hampton, Gregory Jerome. "Octavia E. Butler's Discourse on Colonialism
+and Identity in 'Bloodchild,' /Dawn/, and /Survivor/" The Bloomsbury
+Handbook to Octavia Butler. pp. 133-
+
+**** TODO Belk, Nolan. “The Certainty of the Flesh: Octavia Butler’s
+Use of the Erotic in the Xenogenesis Trilogy.” Utopian Studies,
+vol. 19, no. 3, 2008, pp. 369–89. JSTOR,
+http://www.jstor.org/stable/20719917.
+
+
+**** TODO Jesser, Nancy. "Blood, Genes and Gender in Octavia Butler's
+Kindred and Dawn." Extrapolation (Pre-2012), vol. 43, no. 1, 2002,
+pp. 36-61. 
+
+**** TODO Mann, Justin Louis. "Pessimistic futurism: Survival and
+reproduction in Octavia Butler’s Dawn" /Feminst Theory/ Volume 19,
+Issue 1. 
+
+**** TODO Bonner, Frances. "Difference and Desire, Slavery and
+Seduction: Octavia Butler's "Xenogenesis"." Foundation, vol. 0, 1990,
+pp. 50-62.
+
+**** TODO Butler, Octavia, et al. “‘Radio Imagination’: Octavia Butler
+on the Poetics of Narrative Embodiment.” MELUS, vol. 26, no. 1, 2001,
+pp. 45–76
+
+**** TODO Burnett, Joshua Yu. "Troubling Issues of Consent in /Dawn/,"
+M. Japtok, J. R. Jenkins (eds.), /Human Contradictions in Octavia
+E. Butler’s Work/, https://doi.org/10.1007/978-3-030-46625-1_7
+
+
+
 
 
 ** brainstorms 
@@ -716,3 +811,44 @@ Potential connection to media archaeology: the way that the immaterial
 level (what we cannot see or touch) influences the formal level. How
 the immaterial enables a continuous sensorium, an ecosystem of
 interconnection. 
+
+** BANK/ UNUSED
+*** resisting violence in the archive: Snorton, Hartman
+For his "black and trans historiographical project," Snorton
+demonstrates flesh as the physical and malleable material that enables
+the construction of social categories like race and gender. Similar to
+scholars of slavery's archive like Saidiya Hartman, Snorton's method
+takes the details of the archival record as "conditions of
+possibility" in his study, and reads for hints of resistance contained
+within the dominant narrative that suggest the ommitted, obscured, or
+elided experience of black subjects (Snorton 11). This methodology
+uses the critical imagination to read into what Hartman and others
+call "the violence of the archive," a violence not only in the form of
+evidence, that the records literally obscure or overlook information,
+but also in the tools of expression, in the language that cannot
+approximate experience, and in the discourse that dictates silence
+(2). Like "Critical fabulation," Snorton's reading of archival
+material draws narrative from the gaps and lacunae of the evidence,
+working to "expose and exploit the incommensurability between the
+experience of the enslaved and the fictions of history" (Hartman
+10). One example concerns a slave woman, Anarcha, whose severe case of
+Vaginal Fistula made her an object of medical experimentation. Because
+the record that hardly mentions her by name (when it does not misname
+her) is silent about her experience of what certainly were painful and
+prolonged surgeries without anesthetics, Snorton turns to seemingly
+minor details like smell and the presence of other enslaved women to
+"further imaginative capacities" for reading resistance
+(14). Anarcha's reportedly offensive smell, what Snorton calls the
+"discourse of disgust," for example, indexes both her subjection to
+social hierarchy and her resistance, for "the recurrent descriptors of
+Anarcha's body odor provides an opening to imagine what modicums of
+protection might have been afforded by smelling noxious to one's
+enslaver" (27). Additionally, the banal reality of servitude implies
+that other slave women such as Lucy and Betsey (among others who were
+unnamed), stood as medical assitants when necessary, which opens
+speculation into "modes of nourishment and care" they provided one
+another (Snorton 29); In one procedure on Betsey, for example, Snorton
+explains that "the opacity in the archive... leaves room to imagine
+how Betsey might have somehow resisted the performance of stoic
+bravery or willing subjectivity that she was compelled to produce"
+(25). 
