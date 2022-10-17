@@ -392,6 +392,16 @@ categories" (So and Roland 63). So, rather than being "fundamentally
 mismatched," in Da's words, computational methods can be harnessed to
 deconstruct social categories (Da 620).
 
+**** TODO insert queerness and race
+"Our reading’s destailization of the machine’s logic of white and
+black arises directly from the novel’s expression of queerness. By
+queering the machine’s color line, Baldwin’s novel challenges our
+initial classifications of the novels as white or black, which had
+necessarily effaced a more sophisticated, intersectional view of
+social identity. In their current form, our data and model are not
+robust enough to handle this kind of intersectionality" (So and Roland
+72).
+
 Just as quantification can probe racial categories, so it can
 destabilize gender ones. Laura Mandell, for example, uses distant
 reading to deconstruct what she calls the "M/F binary," which is the
