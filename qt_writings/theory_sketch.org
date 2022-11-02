@@ -9,49 +9,40 @@ Introduction:
 Chapter one:
 ------------ 
 
-- Critique of *Distant Reading*, "falsifiable criticism" which is
++ Critique of *Distant Reading*, "falsifiable criticism" which is
   "reproducible". And generative reading of DR that attends to the
   ways that computation can access marginalization.
 
-- Judith Butler's idea of *Gender Performativity* and how it aligns
++ Judith Butler's idea of *Gender Performativity* and how it aligns
   with iterativity in Python. Bringing these two together allows us to
   understand how gender theory can open up the way we think about text
   analysis.
 
----> I might add a discussion of *Trans Studies*?
----> I might add critiques of gender theory?
+- Critique of discursivity from Trans Studies and QOCC. Overlooks
+  embodied realities.
 
 Chapter two:
 ------------
 
-- Critique of *Textual Editing*, which asserts that the goal of the
++ Critique of *Textual Editing*, which asserts that the goal of the
   editor is to bring to the surface the intentions of the author. 
 
-- Critique of *Queer Historiography*, which debates the extent to which
++ Critique of *Queer Historiography*, which debates the extent to which
   historians can know or label queerness in the past.
 
-- Heather Love's idea of *Feeling Backward*, to account for queer
-  affects without attempting to pin them down, redeem them.
-
----> In place of the emphasis on Queer Historiography, I might add a
-     discussion of *Queer Negativity/Futurity*, and a meditation on
-     the role of trauma in creating queerness. Queerness that emerges
-     from reconciling pain. Anzaldua and Munoz.
+- *Queer Futurity* - The XML format encodes power structures, so how
+  do we resist? The critique from QOCC, Munoz, that queerness is not
+  yet here.
 
 Chapter three:
 --------------
 
-- Critique of *Media Archaeology*? or marshalling from it?
++ *Black Feminist studies* theorizing on the flesh and resisting the
+  reduction of the flesh.
 
-- Incorporation of *Disability Studies*: to inform the way we describe
-  human/machine interaction. Victoria Pitts-Taylor on mis/fitting.
+- *Media Archaeology* and *Critical code/platform/software studies* on
+  the abstraction of the stack, the way formal and forensic engage.  
 
-- Incorporation of Sensuality/Fleshiness in *Black Feminisms/QOCC*. 
-
-I'm thinking more and more about how white my first two chapters
-are. I do not want to keep it this way. There's too much going on, too
-much work by POC critics and QOCC, as well as Disability
-folks. Queerness intersects with all of these.
 
 *** Disability Studies
 ----------------------
