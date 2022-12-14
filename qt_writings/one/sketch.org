@@ -498,3 +498,334 @@ From Judith Halberstam's review:
    limits of performativity in relation to the transsexual drag queens
    in Jennie Livingston's film /Paris is Burning/." (314-315)
   
+
+** BANK etc
+
+*** biographer's struggle with crisis of signification
+Interestingly, moments in the novel that convey this crisis in
+signification occur across two levels of the story, that is, within
+the central action of Orlando's life, and also within the narration
+itself, by the biographer who endeavors to relate Orlando's life to
+the reader. 
+
+
+
+*** toy boat and space break
+
+After Orlando's sex change, her issues with language begin to resolve,
+and language suddenly takes on significatory power. In one scene,
+Orlando watches a toy boat on a river in Hyde Park. When the boat
+disappears then re-emerges on the other side of the wavelet, Orlando
+suddenly realizes that language can take on extraordinary
+significatory power, in which a "toy boat" can mean "ecstasy":
+#+BEGIN_QUOTE
+'A toy boat, a toy boat, a toy boat,' she repeated, thus enforcing upon
+herself the fact that it is not articles by Nick Greene on John Donne nor
+eight-hour bills nor covenants nor factory acts that matter; it's
+something useless, sudden, violent; something that costs a life; red,
+blue, purple; a spirit; a splash; like those hyacinths (she was passing a
+fine bed of them); free from taint, dependence, soilure of humanity or
+care for one's kind; something rash, ridiculous, like my hyacinth,
+husband I mean, Bonthrop: that's what it is--a toy boat on the
+Serpentine, ecstasy--it's ecstasy that matters. 
+#+END_QUOTE
+In direct contrast to the earlier scene, where Orlando "despaired of
+being able to solve the problem of what poetry is and what truth is
+and fell into a deep dejection" (75), language now has the power to
+signify. This concentration of meaning, in which "a toy boat" and
+"ecstasy" are reduced to a common denominator of an ecstatic feeling,
+elevates the potential for language to express. The symmetry of these
+two episodes, which occur on opposite sides of the sex change, show
+how Orlando moves beyond a disappointment in the limitations of
+language for expression to a credibility in its power to mean.
+
+As Orlando resolves her struggle with language, so does the
+biographer. As the story progresses, the biographer increasingly drops
+his pretension toward accuracy and boldly speculates upon events of
+Orlando's life, for example, when Orlando first meets her lover Shel:
+#+BEGIN_QUOTE
+'Shel, my darling,' she began again, 'tell me...' and so they talked
+two hours or more, perhaps about Cape Horn, perhaps not, and really it
+would profit little to write down what they said, for they knew each
+other so well that they could say anything, which is tantamount to
+saying nothing, or saying such stupid, prosy things as how to cook an
+omelette, or where to buy the best boots in London, things which have
+no lustre taken from their setting, yet are positively of amazing
+beauty within it. For it has come about, by the wise economy of
+nature, that our modern spirit can almost dispense with language; the
+commonest expressions do, since no expressions do; hence the most
+ordinary conversation is often the most poetic, and the most poetic is
+precisely that which cannot be written down. For which reasons we
+leave a great blank here, which must be taken to indicate that the
+space is filled to repletion.
+#+END_QUOTE
+The use of the space break, which is meant to signify everything that
+passes between Orlando and Shel and more ("it is filled to repletion")
+functions by signifying nothing. According to critics like Katheryn
+N. Benzel, this moment creates literal space for the reader to fill in
+with her own interpretation of the scene. And Caughie points out, such
+a device works "not because of what it says about sexual identity but
+because of what it manages not to say," which reinfoces what she calls
+the "double discourse" of the novel (Caughie 41). The text creates
+oppositions, even paradoxes, which purposefully cannot be resolved,
+such as "the most ordinary conversation is often the most poetic, and
+the most poetic is precisely that which cannot be written down." As a
+formal device, the space break works to reinforce the capacity to
+signify through language, even while, to repeat Smith's words,
+"bemoaning the inadequacy of language" (Smith 68).
+
+
+
+*** Queer distant reading
+For this reason, I argue (and demonstrate below) how the study of
+gender in the text can be accomplished through a quantitative analysis
+of language. This quantitative analysis of language attends to gender
+as an /iterative/ practice, rather than a /reproducible/ one which as
+Underwood and Da demonstrate, reifies already existing conceptual
+structures that bind social categories like gender. Underwood readily
+admits that his work has "discovered stable 'structural positions'
+only because it explores gender, for the most part, as a binary
+opposition" (/Distant Horizons/ 140). This work, by contrast, turns to
+the iteration--which cuts across both text analysis methods with NLTK
+and Butler's theory of gender performativity--as the key for
+understanding how a repetitive practice (like that of performative
+citation) will reveal the expanding ways that gender is characterized
+in /Orlando/. By shifting the understanding of reproducibility to
+iteration, I apply the particular constraint of this tool, which is
+repetition, to interpret elements of gender and sexuality in the text.
+
+The idea of taking performativity into a methodology for digital
+scholarship is not new. In particular, Katherine Bode's critical
+approach, what she calls "performative materiality," draws from, not
+Bulter's ideas about gender, but feminist scientist Karen Barad's
+studies of quantum physics. This approach takes Barad's concept of
+"agential realism," that objects in the world do not precede their
+actions, but emerge through particular "intra-actions," and applies it
+to her quantitative analysis of literary databases (Barad 58). Bode
+brings Barad's "agential realism" from theoretical physics to explain
+the /productive/ qualites of using computational analysis to study
+literary databases. She approaches data as "effects of material-semiotic
+engagements," where "entities don’t pre-exist engagements but
+are generated in an ongoing or emergent way, by those intra-actions"
+("Data Beyond Represenation" par. 15, 2). For Bode, attention to
+performative materiality encourages scholars to focus on the material
+processes of using their tools, rather than attempt to secure a
+factual or objective status of data.
+
+Though they are dealing with vastly different objects of study, Bode
+and Butler both converge on their critique of reproducibility, or
+"representationalist" methods, and the proposal of a
+counter-methodology, which is "productive" through iteration. The
+productive approach, according to Bode, understands data "as part of
+the ongoing materialisation of literary texts, as emerging events
+always arising from an altering how the literary past as reconfigured"
+(Bode "Computational Modeling: From Data Representation to
+Performative Materiality"). Similarly, Butler distinguishes a
+representationalist approach toward language and materiality, in which
+language can refer to materiality as something that is prior, against
+the performative approach, by which language works through repetition
+to resignify meaning:
+#+BEGIN_QUOTE
+If the body signified as prior to signifiation is an effect of
+signification, then the mimetic or representational status of
+language, which claims that signs follow bodies as their necessary
+mirrors, is not mimetic at all. On the contrary, it is productive,
+constitutive, one might even argue performative, inasmuch as this
+signifying act delimits and contours the body that it then claims to
+find prior to any and all signifcation. Butler 6
+#+END_QUOTE
+This alignment between Bode and Butler centers on the productive power
+of iteration in resignifying meaning. There is something fundamentally
+productive about the process of iteration, which has nothing to do
+with representing or re-representing some real quality or object in
+the world, but with the way that iteration constitutes and
+re-constitutes meaning.
+
+In what follows, I use NLTK to analyze gender in /Orlando/. Drawing my
+methodology from Butler's concept of performative citation, I compute
+the words associated with "woman" and "man" within the text, with the
+end goal of visualizing theses various associations in a network
+graph, that is, a web of of "re-significations" of the words "woman"
+and "man."  See Appendix A for a copy of the program code.
+
+I begin the process by running the ~similar_words()~ method, which
+takes a word, such as "woman," and returns the top words that appear
+most similarly to that word in the text. The NLTK documentation
+explains that similarity is computed by processing the words that
+directly surround the given word, or its "context," and finding other
+words that have similar contexts.[fn:1] It then returns a list of the
+most frequent terms which have similar contexts to the given
+word. Below are the words associated with "woman" and "man,"
+respectively:
+
+#+BEGIN_QUOTE
+> similar_words("woman")
+'reached till friend word moment saw always could cried sailor wit
+scarcely petticoat go servant conclusion'
+
+> similar_words("man") 
+'hurry father window tongue carriage still even countrywoman indulged
+old fortune title ship writing fell become always love grown never'
+#+END_QUOTE
+	  
+Each time a text is processed in computation, it is submitted to a
+governing code. In this case of the ~similar_words()~ method, the code
+enforces whatever conditions are contained within the function loop.
+In the source code for the ~similar_words()~ method, there is an ~if
+loop~ that instructs the program to search if the words in the context
+also are associated with other words throughout the text.[fn:14] The
+output therefore is directly constrained to the conditions in the
+input.
+
+However, there are ways to resist this control. Alexander Galloway,
+who writes about the protocols, or control structures, which enable
+network connections, explains that "Protocol is synonymous with
+possibility" (Galloway 167). Galloway shows how protocols that drive
+the internet connectivity, such as DNS and ISP, are instituted through
+code, which must conform to a certain standard in order to
+successfully communicate. For Galloway, resistance is possible by
+manipulating the controlling structure by coopting its protocol. In
+this case, I take the constraint of iterativity, which is contained
+within the repetitive processes of the ~similar_words()~ method, and
+feed new data into its computation. For example, when I feed the
+output of the first computation to a new one, running
+~similar_words()~ method again, it results in an exapanded list of
+words that are associated with "woman" and "man." Below are the
+results of running ~similar_words()~ under these conditions, taking
+the output of the previous calculation for "woman" as new input:
+
+#+BEGIN_SOURCE
+'come friend scarcely make happiness could say wisdom used thing grown
+love shape dog wit saw always explain understood ran time prophet
+indeed word stood met laughing sailor none able mixture allied woman
+fly way year bird might known man toss sake thought reached cried
+leave till account first petticoat fool would roused encumbrance
+become window rust another madam london'
+#+END_SOURCE
+
+Below are the results for the same process, this time with the output
+of for ~similar_words("man")~ as new input: 
+
+#+BEGIN_SOURCE 
+'title come need fault carriage tongue fortune death hungry passion
+gloomy grown love written still must always saw exactly alone almost
+perhaps take word matter determined orlando beautiful hear hurry woman
+boy plump sens man soon little morning full strength whose two father
+monstrously without ever would roused kinsman admit become old window
+sink moment'
+#+END_SOURCE
+
+I may continue to run this ~similar_words()~ analysis, feeding the
+output as new input, to gain an ever expanding sense of words which
+are associated with each gender. However, to avoid what would
+inevitably result in more and more shared terms between the two
+genders, I slightly refine the the input before running the
+computation again. Here, I filter out any words that are shared
+between the categories of "woman" and "man". This filtering will allow
+me to get a better sense of gender distinction in the text. After
+filtering out shared words, and placing the unique associated words
+for "man" and for "woman" into a new list, I run ~similar_words()~
+again, with the following result for words associated "woman":
+
+#+BEGIN_SOURCE
+'among slipping launched child beneath shape new gently prophet indeed
+true knee denied fasten bird hot found finger person bred leave nail
+reflection character hid used month profit green since ran spoke omit
+standing prayer bald frequent good heard scramble try bethink burst
+ring street none may happiness wisdom let draw sawings top summer day
+upstairs went ribbon known catching case thought ask flung fool voyage
+observed minute able people come ala raising gave laughing looked
+third side allied fly might slept suddenly thousand going blackness
+groping rust sag london'
+#+END_SOURCE
+
+And the following result for "man":
+
+#+BEGIN_SOURCE
+'certain need fault wicket agitate hungry long passion talk circle
+ague whatever written turn said explain treachery husband beast
+remembered sleep longer pared filled tell princess deep beard tied
+beautiful hear put mixture profound fumbled inborn rout immovable
+plump awkwardness sens sofa whole mind morning imagine toss many made
+iron blush round set whose raised first part monstrously without
+needing taste story boyish admitted longed insisted looking glance
+pushing'
+#+END_SOURCE
+
+
+
+[[./orlando/second_level_woman.png]]
+[Visualization of gender distinctiveness in /Orlando/ using the python
+networkx module]
+
+The resulting image of gender distinctiveness in /Orlando/ shows how
+the central term, "woman," has expanded over two levels of
+similarity. Here, one can see that clusters form around certain words,
+like "go," "could," "moment," and "wit," for example. Femininity is
+associated at once with action, cognitive ability, and
+conditionality. From a traditionally feminine point of view, some of
+the terms appear fitting, such as "petticoat" and "friend," though
+others appear less so, such as "sailor." Overall, this visualization
+demonstrates an understanding of gender which is perhaps not
+altogether unexpected, but certainly challenges any coherent
+conception of "woman" in this novel. In doing so, it keeps gender
+ontology unresolved. As Pamela Caughie and her team work to visualize
+gender ontology the life narrative of Lili Elbe, one of the first
+persons to undergo gender affirmation surgery, they point out that
+some issues with ontology /should/ remain unresolved: "Confusion in
+gender and sexual terminologies... is part of the experienceof gender
+and sexuality in the modernist era, something to be realized and
+negotiated in readings of the narrative" (239). As Caughie and her
+team struggle to mark gender shifts throughout the text in a way that
+accords with the constraints of the archival methodology, they realize
+that the issue with categorizing gender doesn't need a
+solution. Rather, computational processes and models might be used to
+capture the taxonomic chaos of gender ontology.
+
+Although one may attempt to formalize such a method, my goal is not to
+build reproducible schemas and models for analyzing gender in
+novels. Rather, I look to harness opacity and unintelligibility as
+resources for resisting inclusion. As Butler affirms, "radical and
+inclusive representability is not precisely the goal" (/Bodies/
+25). Resisting the logic of phallogocentrism, the process of
+performative citation--of displacement through repetition--is meant to
+preserve that which is excluded or unintelligible as a resource for
+continual resignification, as "the point of departure for a set of
+historical reflections and futural imaginings" (Butler /Bodies/ 173).
+*** Klein's Image of Absence
+*** gio on voyant / nltk
+    I'm playing around with voyant tools on Giovanni's Room, and realizing
+that my movements are carefully guided by this impression from textual
+scholarship of deformance. At every step I am deforming the text,
+creating a new text, with new potentials for reading. 
+
+This deformance is an iterative process. 
+
+There's a dip in the word "don't" toward the end of the novel, in
+section 9. But when we get get the contexts into its own text
+submission, there's a rise in this same sector. What's going on? 
+
+Turns out, there's a little spike in "don't"s in the middle of chapter
+five, a spike that is surrounded with a dearth of don'ts. This
+explains why there's a dip in the graph on the general text, and an
+uptick in the graph that isolates don'ts from the general text.
+
+This activity calls for closer attention to the area of the spike, and
+its surroundings.
+
+What if we read only the sentences with the word "don't" in them?
+
+*** so this has been done before
+https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/bd5a43c1-bbfe-4c5c-8c0d-c3db1776eb99
+
+
+** more sources
+https://jitp.commons.gc.cuny.edu/numbering-ulysses-digital-humanities-reductivism-and-undergraduate-research/#ftn1
+https://jitp.commons.gc.cuny.edu/data-fail-teaching-data-literacy-with-african-diaspora-digital-humanities/
+
+* commands
+c-c c-x f => create a new footnote
+c-u c-c c-x f then select sort then renumber footnotes
+
+block quotes: #+BEGIN_QUOTE & #+END_QUOTE
+

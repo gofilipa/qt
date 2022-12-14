@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2022-07-02 Sat 14:20 -->
+<!-- 2022-07-05 Tue 15:14 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>&lrm;</title>
@@ -233,93 +233,41 @@ for the JavaScript code in this tag.
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#org6c8e5ad">1. one</a>
+<li><a href="#org88c78dc">1. one</a>
 <ul>
-<li><a href="#orga0db336">1.1. chapter summary</a></li>
-<li><a href="#org736f607">1.2. intro</a></li>
-<li><a href="#org9723b7e">1.3. the fantasy of the falsifiable</a></li>
-<li><a href="#orgd7bbd43">1.4. NLTK, Gender Trouble, Orlando</a>
+<li><a href="#org9fdd11a">1.1. chapter summary</a></li>
+<li><a href="#org7b42403">1.2. intro</a></li>
+<li><a href="#org73c447e">1.3. the fantasy of the falsifiable</a></li>
+<li><a href="#org29846d6">1.4. NLTK, Gender Trouble, Orlando</a>
 <ul>
-<li><a href="#org8785dc5">1.4.1. Python and NLTK</a></li>
-<li><a href="#org64691c4">1.4.2. Butler and Gender Performativity</a></li>
-<li><a href="#orgaa0d377">1.4.3. Woolf's <i>Orlando</i></a></li>
+<li><a href="#orgd203f80">1.4.1. Python and NLTK</a></li>
+<li><a href="#org923ad4a">1.4.2. Butler and Gender Performativity</a></li>
+<li><a href="#org6d75d5b">1.4.3. Woolf's <i>Orlando</i></a></li>
 </ul>
 </li>
-<li><a href="#orgb50151f">1.5. <span class="todo TODO">TODO</span> Queer Distant Reading</a>
+<li><a href="#org84b6783">1.5. Queer Distant Reading</a></li>
+<li><a href="#orgcce9d01">1.6. etc</a>
 <ul>
-<li><a href="#orgf0b1511">1.5.1. bode and butler parallel on productivity in iteration</a></li>
-<li><a href="#orgf835cb4">1.5.2. similar<sub>words</sub>("woman" &amp; "man")</a></li>
-<li><a href="#org271df45">1.5.3. iterating over code resignifies it</a></li>
-<li><a href="#org7f8464f">1.5.4. <span class="todo TODO">TODO</span> Findings: new configurations of gender</a></li>
-<li><a href="#org6d403d2">1.5.5. <span class="todo TODO">TODO</span> the constraint: the power of the imagination</a></li>
-<li><a href="#org8af5892">1.5.6. preserving the unintelligible</a></li>
-<li><a href="#org1318572">1.5.7. Conclusion: performative citation queers distant reading:</a></li>
-</ul>
-</li>
-<li><a href="#orgf74ea3b">1.6. etc:</a>
-<ul>
-<li><a href="#orgbc968ca">1.6.1. Klein's Image of Absence, Caughie's Storm Cloud</a></li>
-<li><a href="#org579fd96">1.6.2. gio on voyant / nltk</a></li>
-<li><a href="#org860f7fe">1.6.3. so this has been done before</a></li>
-<li><a href="#org8cf82d5">1.6.4. Altschuler and Weimar on reproducibility</a></li>
-<li><a href="#org4b365fa">1.6.5. The debates about TEI illustrates this tension between the</a></li>
-<li><a href="#org0e91ee8">1.6.6. felski on affects beside suspicion</a></li>
-<li><a href="#org10a531c">1.6.7. mcpherson, benjamin on race and tech</a></li>
-<li><a href="#org1513e98">1.6.8. sedgwick on liberatory vs prohibition</a></li>
+<li><a href="#orgc74fe0e">1.6.1. Klein's Image of Absence</a></li>
+<li><a href="#orgd4cb488">1.6.2. gio on voyant / nltk</a></li>
+<li><a href="#org309fd40">1.6.3. so this has been done before</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#org22dd672">2. more sources</a></li>
-<li><a href="#orgd0f67ce">3. commands</a></li>
-<li><a href="#org0b18767">4. annotated bib</a>
-<ul>
-<li>
-<ul>
-<li><a href="#org97c80bc">4.0.1. Moretti, Franco. Graphs, Maps, Trees: Abstract Models for Literary</a></li>
-<li><a href="#org3b30003">4.0.2. Drucker, Johanna. "Introduction," SpecLab: Digital Aesthetics and</a></li>
-<li><a href="#orga9fb386">4.0.3. Ramsay, Stephen. Reading Machines: Toward an Algorithmic</a></li>
-<li><a href="#org007cd4a">4.0.4. Drucker, Johanna. "Humanities Approaches to Graphical Display." DHQ:</a></li>
-<li><a href="#org378c961">4.0.5. Felski, Rita. The Limits of Critique. 2015.</a></li>
-<li><a href="#org9f1fe73">4.0.6. Piper, Andrew. Enumerations: Data and Literary Study. 2018.</a></li>
-<li><a href="#orgec48d1b">4.0.7. Landow, George. Hypertext 3.0: Critical Theory and New Media in an Era</a></li>
-<li><a href="#orgba73789">4.0.8. Fisher, Caitlin. These Waves of Girls, 2001. Web.</a></li>
-<li><a href="#org47e5f70">4.0.9. Tenen, Dennis. Plain Text: the Poetics of Computation, 2017. Epub.</a></li>
-<li><a href="#org202bde1">4.0.10. Rockwell, Geoffrey and Stefan Sinclair. Voyant-Tools. 2018.</a></li>
-<li><a href="#org3d88b2a">4.0.11. Galloway, Alexander. Protocol: How Control Exists after</a></li>
-<li><a href="#org35b8219">4.0.12. Chun, Wendy. Control and Freedom: Power and Paranoia in the Age of</a></li>
-<li><a href="#orgf22db9d">4.0.13. Bennett, Jane. Vibrant Matter: A Political Ecology of Things. 2010.</a></li>
-<li><a href="#orge9296da">4.0.14. Moten, Fred and Stefano Harney. The Undercommons: Fugitive Planning &amp;</a></li>
-<li><a href="#org28286da">4.0.15. Tufekci, Zeynep. Twitter and Tear Gas: the Power and Fragility of</a></li>
-<li><a href="#orgf05c0f8">4.0.16. Gaboury, Jacob. "Becoming NULL: Queer Relations in the Excluded</a></li>
-<li><a href="#orgc13a5a3">4.0.17. Kittler, Friedrich. Gramophone, Film, Typewriter. 1999.</a></li>
-<li><a href="#org6290f97">4.0.18. Hayles, N. Katherine. Writing Machines. 2002.</a></li>
-<li><a href="#orga8bd55f">4.0.19. Kirschenbaum, Matthew. Mechanisms: New Media and the Forensic</a></li>
-<li><a href="#orgfde2bdc">4.0.20. Blanchette, Jean-François, "A Material History of Bits." Journal of</a></li>
-<li><a href="#orgdff689a">4.0.21. Hansen, Mark. Feed-Forward: On The Future of 21st Century Media. 2014.</a></li>
-<li><a href="#org4d8f033">4.0.22. Woolf, Virginia, Emily McGinn, Amy Leggette, Matthew Hannah, and Paul</a></li>
-<li><a href="#org11e502e">4.0.23. Peters, John Durham. The Marvelous Clouds: Toward a Philosophy of</a></li>
-<li><a href="#org4cdbdc6">4.0.24. McKenzie, D.F. Bibliography and the Sociology of Texts. 1986.</a></li>
-<li><a href="#orgd437c79">4.0.25. Tanselle, Thomas. "A Rationale of Textual Criticism." 1992.</a></li>
-<li><a href="#org9cc6b00">4.0.26. Derrida, Jacques. “Archive Fever: A Freudian Impression.”</a></li>
-<li><a href="#org0656628">4.0.27. McGann, Jerome. Radiant Textuality: Literature after the World Wide</a></li>
-<li><a href="#org3008cdd">4.0.28. Singer, Kate. “Digital Close Reading: TEI for Teaching Poetic</a></li>
-<li><a href="#org9f83ef3">4.0.29. Caughie, Emily Datskou and Rebecca Parker. “Storm Clouds on the</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li><a href="#orgf34fabc">5. Works Cited</a></li>
+<li><a href="#orgc4153f1">2. more sources</a></li>
+<li><a href="#orga7a4e7f">3. commands</a></li>
+<li><a href="#org995efda">4. Works Cited</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org6c8e5ad" class="outline-2">
-<h2 id="org6c8e5ad"><span class="section-number-2">1</span> one</h2>
+<div id="outline-container-org88c78dc" class="outline-2">
+<h2 id="org88c78dc"><span class="section-number-2">1</span> one</h2>
 <div class="outline-text-2" id="text-1">
 </div>
 
-<div id="outline-container-orga0db336" class="outline-3">
-<h3 id="orga0db336"><span class="section-number-3">1.1</span> chapter summary</h3>
+<div id="outline-container-org9fdd11a" class="outline-3">
+<h3 id="org9fdd11a"><span class="section-number-3">1.1</span> chapter summary</h3>
 <div class="outline-text-3" id="text-1-1">
 <p>
 The burden of this chapter is to describe how to do text analysis, or
@@ -361,8 +309,8 @@ binary structure into a plural understanding.
 </div>
 
 
-<div id="outline-container-org736f607" class="outline-3">
-<h3 id="org736f607"><span class="section-number-3">1.2</span> intro</h3>
+<div id="outline-container-org7b42403" class="outline-3">
+<h3 id="org7b42403"><span class="section-number-3">1.2</span> intro</h3>
 <div class="outline-text-3" id="text-1-2">
 <p>
 The novel <i>Orlando: A Biography</i> (1928), by Virginia Woolf, famously
@@ -426,8 +374,8 @@ gender in <i>Orlando</i>.
 </div>
 
 
-<div id="outline-container-org9723b7e" class="outline-3">
-<h3 id="org9723b7e"><span class="section-number-3">1.3</span> the fantasy of the falsifiable</h3>
+<div id="outline-container-org73c447e" class="outline-3">
+<h3 id="org73c447e"><span class="section-number-3">1.3</span> the fantasy of the falsifiable</h3>
 <div class="outline-text-3" id="text-1-3">
 <p>
 Because computers can process hundreds of texts at a time, "reading"
@@ -857,12 +805,12 @@ analysis.
 </div>
 
 
-<div id="outline-container-orgd7bbd43" class="outline-3">
-<h3 id="orgd7bbd43"><span class="section-number-3">1.4</span> NLTK, Gender Trouble, Orlando</h3>
+<div id="outline-container-org29846d6" class="outline-3">
+<h3 id="org29846d6"><span class="section-number-3">1.4</span> NLTK, Gender Trouble, Orlando</h3>
 <div class="outline-text-3" id="text-1-4">
 </div>
-<div id="outline-container-org8785dc5" class="outline-4">
-<h4 id="org8785dc5"><span class="section-number-4">1.4.1</span> Python and NLTK</h4>
+<div id="outline-container-orgd203f80" class="outline-4">
+<h4 id="orgd203f80"><span class="section-number-4">1.4.1</span> Python and NLTK</h4>
 <div class="outline-text-4" id="text-1-4-1">
 <p>
 This section now turns to the programming language Python to get a
@@ -1205,8 +1153,8 @@ reductions have the potential to affect meaning.
 </div>
 </div>
 
-<div id="outline-container-org64691c4" class="outline-4">
-<h4 id="org64691c4"><span class="section-number-4">1.4.2</span> Butler and Gender Performativity</h4>
+<div id="outline-container-org923ad4a" class="outline-4">
+<h4 id="org923ad4a"><span class="section-number-4">1.4.2</span> Butler and Gender Performativity</h4>
 <div class="outline-text-4" id="text-1-4-2">
 <p>
 Now that we have a sense of Python, and its qualities of recursion and
@@ -1417,8 +1365,8 @@ gender.
 </div>
 </div>
 
-<div id="outline-container-orgaa0d377" class="outline-4">
-<h4 id="orgaa0d377"><span class="section-number-4">1.4.3</span> Woolf's <i>Orlando</i></h4>
+<div id="outline-container-org6d75d5b" class="outline-4">
+<h4 id="org6d75d5b"><span class="section-number-4">1.4.3</span> Woolf's <i>Orlando</i></h4>
 <div class="outline-text-4" id="text-1-4-3">
 <p>
 I now turn to looking at gender in Virginia Woolf's novel, <i>Orlando: A
@@ -1797,69 +1745,63 @@ vew of gender as discursive.
 </div>
 </div>
 
-<div id="outline-container-orgb50151f" class="outline-3">
-<h3 id="orgb50151f"><span class="section-number-3">1.5</span> <span class="todo TODO">TODO</span> Queer Distant Reading</h3>
+
+<div id="outline-container-org84b6783" class="outline-3">
+<h3 id="org84b6783"><span class="section-number-3">1.5</span> Queer Distant Reading</h3>
 <div class="outline-text-3" id="text-1-5">
 <p>
 For this reason, I argue (and demonstrate below) how the study of
-gender in the text can be accomplished through a programmatic study of
-language. This programmatic study of language attends to gender as an
-<i>iterative</i> practice, to discover expanding ways that gender is
-characterized in <i>Orlando</i>. This notion of iteration&#x2013;which cuts
-across both text analysis methods with NLTK and Butler's theory of
-gender performativity&#x2013;is the key for understanding how a repetitive
-action (like gender performativity) can lead to new output. In my
-previous discussion of reproducibility, I explain how Underwood's
-analysis on gender differences reproduces his assumptions about gender
-dynamics as oppositional, as he readily admits: "this chapter has
-discovered stable 'structural positions' only because it explores
-gender, for the most part, as a binary opposition" (<i>Distant Horizons</i>
-140). By shifting the understanding of reproducibility to iteration, I
-open up the possibility for using these tools to interpret elements of
-gender and sexuality in text.
-</p>
-</div>
-
-<div id="outline-container-orgf0b1511" class="outline-4">
-<h4 id="orgf0b1511"><span class="section-number-4">1.5.1</span> bode and butler parallel on productivity in iteration</h4>
-<div class="outline-text-4" id="text-1-5-1">
-<p>
-Iteration departs from reproducibility because iteration
-self-consciously harnesses the productive qualities of
-reproducibility. We begin to see this in the way that Katherine Bode
-describes her critical approach, "agential realism," which mirrors
-Butler's explanation of gender performativity. Bode incorporates
-insights from Karen Barad's feminist scientific interventions in
-theoretical physics to demonstrate that the researcher is always
-implicated in the object of study. Barad's thesis argues that objects
-in the world do not precede their actions, but rather, 'objects'
-emerge through particular "intra-actions" (Barad 58). Bode brings
-Barad's point from theoretical physics to computational modelling,
-explaining that "entities don’t pre-exist engagements but are
-generated in an ongoing or emergent way, by those intra-actions"
-("Data Beyond Represenation" par. 2). In practice, this means that
-rather than attempt to secure a factual or objective status of the
-data, literary scholars should double down on the material processes
-of using their tools. For Bode, what statisticians value as
-“representativeness” or “reproducibility” isn’t as important (within a
-humanities context) as the materiality of the apparatus. Bode thus
-approaches literary databases in performative terms, as "effects of
-material-semiotic engagements," taking a self-conscious approach
-toward the tools of analysis ("Data Beyond Representation" par. 15).
+gender in the text can be accomplished through a quantitative analysis
+of language. This quantitative analysis of language attends to gender
+as an <i>iterative</i> practice, rather than a <i>reproducible</i> one which as
+Underwood and Da demonstrate, reifies already existing conceptual
+structures that bind social categories like gender. Underwood readily
+admits that his work has "discovered stable 'structural positions'
+only because it explores gender, for the most part, as a binary
+opposition" (<i>Distant Horizons</i> 140). This work, by contrast, turns to
+the iteration&#x2013;which cuts across both text analysis methods with NLTK
+and Butler's theory of gender performativity&#x2013;as the key for
+understanding how a repetitive practice (like that of performative
+citation) will reveal the expanding ways that gender is characterized
+in <i>Orlando</i>. By shifting the understanding of reproducibility to
+iteration, I apply the particular constraint of this tool, which is
+repetition, to interpret elements of gender and sexuality in the text.
 </p>
 
 <p>
-Bode describes two approaches for literary criticism, the
-"representationalist" approach (in which data represents or expresses
-real objects and subjects in the world) and the another approach
-understands data "as part of the ongoing materialisation of literary
-texts, as emerging events always arising from an altering how the
-literary past as reconfigured" (Bode "Computational Modeling: From
-Data Representation to Performative Materiality"). Similarly, Butler
-distinguishes a representationalist approach toward language and
-materiality, in which language can <i>refer</i> to materiality as something
-that is prior, against the performative approach, by which language
-works through repetition to signify and resignify meaning:
+The idea of taking performativity into a methodology for digital
+scholarship is not new. In particular, Katherine Bode's critical
+approach, what she calls "performative materiality," draws from, not
+Bulter's ideas about gender, but feminist scientist Karen Barad's
+studies of quantum physics. This approach takes Barad's concept of
+"agential realism," that objects in the world do not precede their
+actions, but emerge through particular "intra-actions," and applies it
+to her quantitative analysis of literary databases (Barad 58). Bode
+brings Barad's "agential realism" from theoretical physics to explain
+the <i>productive</i> qualites of using computational analysis to study
+literary databases. She approaches data as "effects of material-semiotic
+engagements," where "entities don’t pre-exist engagements but
+are generated in an ongoing or emergent way, by those intra-actions"
+("Data Beyond Represenation" par. 15, 2). For Bode, attention to
+performative materiality encourages scholars to focus on the material
+processes of using their tools, rather than attempt to secure a
+factual or objective status of data.
+</p>
+
+<p>
+Though they are dealing with vastly different objects of study, Bode
+and Butler both converge on their critique of reproducibility, or
+"representationalist" methods, and the proposal of a
+counter-methodology, which is "productive" through iteration. The
+productive approach, according to Bode, understands data "as part of
+the ongoing materialisation of literary texts, as emerging events
+always arising from an altering how the literary past as reconfigured"
+(Bode "Computational Modeling: From Data Representation to
+Performative Materiality"). Similarly, Butler distinguishes a
+representationalist approach toward language and materiality, in which
+language can refer to materiality as something that is prior, against
+the performative approach, by which language works through repetition
+to resignify meaning:
 </p>
 <blockquote>
 <p>
@@ -1873,76 +1815,33 @@ find prior to any and all signifcation. Butler 6
 </p>
 </blockquote>
 <p>
-The alignment here between Bode and Butler indicates an intersection
-between the digital and gender as processes, which center on the role
-of iteration in conveying meaning. There is something fundamentally
-productive about these phenomena, and not in the way that they purport
-to represent some real quality or object in the world. Rather, the
-productive aspect has to do with how they iterate their material over
-and again in ways that are fundamentally creative.
-</p>
-</div>
-</div>
-
-<div id="outline-container-orgf835cb4" class="outline-4">
-<h4 id="orgf835cb4"><span class="section-number-4">1.5.2</span> similar<sub>words</sub>("woman" &amp; "man")</h4>
-<div class="outline-text-4" id="text-1-5-2">
-<p>
-In what follows, I will use the python text analysis library NLTK to
-analyze gender in Woolf's novel, <i>Orlando</i>. Specifically, I will
-explore the words associated with "woman" and "man" across this text,
-toward the goal of making a kind of "model" for gender performativity
-in <i>Orlando</i>. Thinking back to my close reading of <i>Orlando</i>, I found
-that the way that gender works is closely tied to the way that
-language works&#x2013;Orlando and the biographer conflate the difficulty of
-expressing gender to that of telling a story, or writing a poem,
-thoughout the text. There is something about gender and language which
-is highly constrained, as both Orlando and the narrator are oppressed
-by them, but also highly imaginative, eventually allowing both
-subjects the potential for signification. Therefore, I will begin my
-text analysis by exploring how the terms "woman" and "man" are
-characterized in the novel. The computational process that I use will
-draw from Butler's theory of performativity by "resignifying" the
-terms "woman" and "man" in repeated computations. The final output
-will present a series of terms associated with man and woman after
-various reiterative computations of the terms throughout the text.
+This alignment between Bode and Butler centers on the productive power
+of iteration in resignifying meaning. There is something fundamentally
+productive about the process of iteration, which has nothing to do
+with representing or re-representing some real quality or object in
+the world, but with the way that iteration constitutes and
+re-constitutes meaning.
 </p>
 
 <p>
-We begin by running the <code>similar_words()</code> method from the
-nltk.text.ContextIndex class, which functions very nearly like the
-<code>Text.similar()</code> method described previously. This <code>similar_words()</code>
-method takes a word, such as "woman," and returns the top words that
-appear most similarly to that word in the text. Below is the
-definition of the ContextIndex class from the NLTK source code:
-</p>
-
-<div class="SOURCE">
-<p>
-class ContextIndex(object):
-    """
-    A bidirectional index between words and their 'contexts' in a text.
-    The context of a word is usually defined to be the words that occur
-    in a fixed window around the word; but other definitions may also
-    be used by providing a custom context function.
-    """
-</p>
-
-</div>
-
-<p>
-The NLTK documentation explains that similarity is computed by
-processing the words that directly surround the given word, or its
-"context," and finding other words that have similar contexts. In the
-source code for the <code>similar_words()</code> method, there is an <code>if loop</code>
-that instructs the program to search if the words in the context also
-are associated with other words throughout the text. It then returns a
-list of the 20 most frequent terms which have similar contexts to the
-given word.<sup><a id="fnr.7" class="footref" href="#fn.7">7</a></sup>
+In what follows, I use NLTK to analyze gender in <i>Orlando</i>. Drawing my
+methodology from Butler's concept of performative citation, I compute
+the words associated with "woman" and "man" within the text, with the
+end goal of visualizing theses various associations in a network
+graph, that is, a web of of "re-significations" of the words "woman"
+and "man."  See Appendix A for a copy of the program code.
 </p>
 
 <p>
-Below is the output for the words, "woman" and "man," respectively:
+I begin the process by running the <code>similar_words()</code> method, which
+takes a word, such as "woman," and returns the top words that appear
+most similarly to that word in the text. The NLTK documentation
+explains that similarity is computed by processing the words that
+directly surround the given word, or its "context," and finding other
+words that have similar contexts.<sup><a id="fnr.7" class="footref" href="#fn.7">7</a></sup> It then returns a list of the
+most frequent terms which have similar contexts to the given
+word. Below are the words associated with "woman" and "man,"
+respectively:
 </p>
 
 <blockquote>
@@ -1958,23 +1857,35 @@ scarcely petticoat go servant conclusion'
 old fortune title ship writing fell become always love grown never'
 </p>
 </blockquote>
-</div>
-</div>
 
-<div id="outline-container-org271df45" class="outline-4">
-<h4 id="org271df45"><span class="section-number-4">1.5.3</span> iterating over code resignifies it</h4>
-<div class="outline-text-4" id="text-1-5-3">
 <p>
 Each time a text is processed in computation, it is submitted to a
 governing code. In this case of the <code>similar_words()</code> method, the code
-reduces the text to whatever conditions are contained within the
-function loop. The output therefore is directly constrained to the
-conditions in the input. Each time one feeds the output of our
-computation to a new one, running <code>similar_words()</code> method again, they
-gain an even more refined list of words that are associated with
-"woman" and "man."  Below are the results of running <code>similar_words()</code>
-taking the output of the previous run of <code>similar_words("woman")</code> as
-the new input:
+enforces whatever conditions are contained within the function loop.
+In the source code for the <code>similar_words()</code> method, there is an <code>if
+loop</code> that instructs the program to search if the words in the context
+also are associated with other words throughout the text.<sup><a id="fnr.8" class="footref" href="#fn.8">8</a></sup> The
+output therefore is directly constrained to the conditions in the
+input.
+</p>
+
+<p>
+However, there are ways to resist this control. Alexander Galloway,
+who writes about the protocols, or control structures, which enable
+network connections, explains that "Protocol is synonymous with
+possibility" (Galloway 167). Galloway shows how protocols that drive
+the internet connectivity, such as DNS and ISP, are instituted through
+code, which must conform to a certain standard in order to
+successfully communicate. For Galloway, resistance is possible by
+manipulating the controlling structure by coopting its protocol. In
+this case, I take the constraint of iterativity, which is contained
+within the repetitive processes of the <code>similar_words()</code> method, and
+feed new data into its computation. For example, when I feed the
+output of the first computation to a new one, running
+<code>similar_words()</code> method again, it results in an exapanded list of
+words that are associated with "woman" and "man." Below are the
+results of running <code>similar_words()</code> under these conditions, taking
+the output of the previous calculation for "woman" as new input:
 </p>
 
 <div class="SOURCE">
@@ -1990,7 +1901,8 @@ become window rust another madam london'
 </div>
 
 <p>
-And the output for <code>similar_words("man")</code>, running it a second time:
+Below are the results for the same process, this time with the output
+of for <code>similar_words("man")</code> as new input: 
 </p>
 
 <div class="SOURCE">
@@ -2006,24 +1918,17 @@ sink moment'
 </div>
 
 <p>
-One may continue to run this <code>similar_words()</code> analysis, feeding the
-output as new input, to get an ever expanding sense of words which are
-associated with gender. This would be interesting, as the repertoire
-for "woman" and "man" would swell to significations that elude the
-gender as a binary. Eventually, however, the repertoire would include
-more and more shared terms between the two genders. To avoid what
-would inevitably be a merging of words associated with each gender, we
-can slightly change the input before running the computation again. We
-will filter out any words that were shared between the categories of
-"woman" and "man". This will allow us to get a better sense of gender
-<i>distinction</i> in the text.
-</p>
-
-<p>
-Filtering out shared words, and placed unique, similar words for "man"
-and for "woman" into a new list, we can run <code>similar_words()</code>
-again. For <code>similar_words()</code> on the words associated with "woman," we
-get the following <i>unique</i> words:
+I may continue to run this <code>similar_words()</code> analysis, feeding the
+output as new input, to gain an ever expanding sense of words which
+are associated with each gender. However, to avoid what would
+inevitably result in more and more shared terms between the two
+genders, I slightly refine the the input before running the
+computation again. Here, I filter out any words that are shared
+between the categories of "woman" and "man". This filtering will allow
+me to get a better sense of gender distinction in the text. After
+filtering out shared words, and placing the unique associated words
+for "man" and for "woman" into a new list, I run <code>similar_words()</code>
+again, with the following result for words associated "woman":
 </p>
 
 <div class="SOURCE">
@@ -2042,7 +1947,7 @@ groping rust sag london'
 </div>
 
 <p>
-For "man," we get:
+And the following result for "man":
 </p>
 
 <div class="SOURCE">
@@ -2060,39 +1965,28 @@ pushing'
 </div>
 
 <p>
-By filtering out shared words between "woman" and "man," we come
-closer to modelling gender distinctiveness in this text. To be clear,
-gender in this sense descends from a binary system&#x2013;from the initial
-analysis of "woman" and "man." However, from this initial
-binarization, it leads to a plurality of significations.  
+In filtering out shared words between "woman" and "man," coming closer
+to a sense of gender <i>distinctiveness</i> in this text, it is important
+to emphasize that gender descends from a binary system&#x2013;from the
+initial analysis of "woman" and "man." However, by iterating through
+the code, the terms swell with significations that pluralize the
+binary. This kind of iterative analysis, where the data is being
+adjusted to increase the distinctiveness and complexity of the output,
+works toward <i>resignifying</i> the initial understanding of "woman" and
+"man."
 </p>
 
 <p>
-This kind of iterative analysis, where the data is being adjusted to
-increase the distinctiveness and complexity of the output, works
-toward <i>resignifying</i> the initial understanding of "woman" and "man."
-It takes what Butler says about gender being an iterative performance,
-which is continually "citing" the regulatory norm, and submits this
-performance to the highly iterative process of running text through
-computational analysis. 
-</p>
-
-<p>
-Like gender subversion, this kind of computational analysis works
-through strict protocols of repetition and iteration toward some kind
-of disruptive end goal. As Alexander Galloway affirms, “Protocol is
-synonymous with possibility” (167). Galloway here is discussing
-network theory, and by "protocol," he refers specifically to the codes
-that append data which mades connections possible in a network. Like
-gender performativity, networks are constrained by protocols, which
-enable and structure connections between nodes. Despite the
-restrictions of protocol, however, there is a freedom in the
-possibility of connection, where each node is free to connect to
-another within the system.<sup><a id="fnr.8" class="footref" href="#fn.8">8</a></sup> Similarly to hackers in a network,
-Butler's idea of gender subversion is is looking for the "exploit,"
-the way to disrupt the system by using the system’s own rules. The key
-to Butler's exploit is the iterative nature of gender performativity,
-which can be used to repeat and resignify meaning.
+Like Butler's account of gender subversion, this kind of computational
+analysis works through strict processes of repetition and iteration
+toward resignification. Despite the tight constraints of these
+computations, however, there is a freedom in the possibility of
+manipulating the results and re-inserting them into the
+workflow. Similarly to Galloway's description of hacking, where one
+searches for a logical "exploit" contained within existing computer
+code, the way to resist cooption into a system is by manipulating its
+rules (Galloway 168). The rule here is iterativity which, as Butler
+suggests, opens up the opportunity for subversion:
 </p>
 <blockquote>
 <p>
@@ -2105,146 +1999,71 @@ from the impossibility of choice. 83
 </p>
 </blockquote>
 <p>
-Butler explains that the repetition of language is what enables
-a certain agency to emerge in repetition. Repetition is the means by
-which dominant or established meaning can be resignified. 
-</p>
-</div>
-</div>
-
-<div id="outline-container-org7f8464f" class="outline-4">
-<h4 id="org7f8464f"><span class="section-number-4">1.5.4</span> <span class="todo TODO">TODO</span> Findings: new configurations of gender</h4>
-<div class="outline-text-4" id="text-1-5-4">
-<p>
-<a href="https://github.com/rafadavis/intro_net_analysis/blob/master/1_intro.md">https://github.com/rafadavis/intro_net_analysis/blob/master/1_intro.md</a>
+Butler explains that the repetition of language is the condition
+enables a certain agency to emerge. Through, repetition, dominant or
+established meaning can be resignified. Taking Butler's concept of
+"performative citation" as guidance, then, one may repeat the same
+computation over and over again, with each new result expanding and
+resignifying the initial understanding of binary gender.
 </p>
 
 <p>
+<img src="./orlando/second_level_woman.png" alt="second_level_woman.png" />
 [Visualization of gender distinctiveness in <i>Orlando</i> using the python
 networkx module]
 </p>
 
 <p>
-This [forthcoming!] model of gender distinctiveness in <i>Orlando</i> draws
-from the same principles as Pamela Caughie et al. in their work in
-visualizing gender ontology in <i>Man Into Woman</i> (1931), the life
-narrative of Lili Elbe, one of the first persons to undergo gender
-affirmation surgery. As Caughie and her team struggle to mark gender
-shifts throughout the text in a way that accords with the constraints
-of the archival methodology, they wonder whether computational models
-can capture such taxonomic chaos of gender ontology. However, they
-ultimately find that the issue with categorizing gender doesn't need a
-solution. Rather, it needs a way of showing gender dynamicity while
-still being readable. The scholars point out that the issue with
-ontology <i>should</i> remain unresolved: "Confusion in gender and sexual
-terminologies&#x2026; is part of the experienceof gender and sexuality in
-the modernist era, something to be realized and negotiated in readings
-of the narrative" (239). Thus they ended up creating a "storm cloud"
-of gender, showing clusters of different gender traits in the text
-over time.
-</p>
-</div>
-</div>
-
-<div id="outline-container-org6d403d2" class="outline-4">
-<h4 id="org6d403d2"><span class="section-number-4">1.5.5</span> <span class="todo TODO">TODO</span> the constraint: the power of the imagination</h4>
-<div class="outline-text-4" id="text-1-5-5">
-<p>
-In my previous close reading of <i>Orlando</i>, I found that gender is
-linked to the role of language in the way that they both are highly
-constructed phenomena that activate significatory power. After
-exploring the ways that gender and language are coordinately
-constructed in the novel, I was left with a question about the role of
-the imagination in influencing gender and language. This text analysis
-of Orlando attempts to bear out the implications of this question, to
-explore how the imaginative use of language, represented in the ever
-expanding networks of gender signification, troubles the idea of
-gender as a binary system. The process of running the gender terms
-"woman" and "man" reveals how even a constrained process of repeated
-computations can help to complicate or diversify the data, rather than
-simplify or reduce it. This notion of displacement through repetition
-is applied back to text analysis to illustrate how the iterative
-process of analyzing text can surface new textual structures that
-re-signify certain elements of that text.
+The resulting image of gender distinctiveness in <i>Orlando</i> shows how
+the central term, "woman," has expanded over two levels of
+similarity. Here, one can see that clusters form around certain words,
+like "go," "could," "moment," and "wit," for example. Femininity is
+associated at once with action, cognitive ability, and
+conditionality. From a traditionally feminine point of view, some of
+the terms appear fitting, such as "petticoat" and "friend," though
+others appear less so, such as "sailor." Overall, this visualization
+demonstrates an understanding of gender which is perhaps not
+altogether unexpected, but certainly challenges any coherent
+conception of "woman" in this novel. In doing so, it keeps gender
+ontology unresolved. As Pamela Caughie and her team work to visualize
+gender ontology the life narrative of Lili Elbe, one of the first
+persons to undergo gender affirmation surgery, they point out that
+some issues with ontology <i>should</i> remain unresolved: "Confusion in
+gender and sexual terminologies&#x2026; is part of the experienceof gender
+and sexuality in the modernist era, something to be realized and
+negotiated in readings of the narrative" (239). As Caughie and her
+team struggle to mark gender shifts throughout the text in a way that
+accords with the constraints of the archival methodology, they realize
+that the issue with categorizing gender doesn't need a
+solution. Rather, computational processes and models might be used to
+capture the taxonomic chaos of gender ontology.
 </p>
 
 <p>
-[incorporate scholarship of Orlando to this end - about pluralistic
-genders and sexualities: Jessica Berman, Christy L. Burns, Jane de
-Gay, VL Smith&#x2026;].
-</p>
-</div>
-</div>
-
-<div id="outline-container-org8af5892" class="outline-4">
-<h4 id="org8af5892"><span class="section-number-4">1.5.6</span> preserving the unintelligible</h4>
-<div class="outline-text-4" id="text-1-5-6">
-<p>
-Although I aim to offer a model of gender in the novel, as Butler
-affirms, "radical and inclusive representability is not precisely the
-goal" (<i>Bodies</i> 25). Remaining <i>outside</i> what Butler calls the "logic
-of phallogocentrism" is necessary to prevent being coopted into that
-logic. The process of performative citation is meant to preserve that
-which is excluded or unintelligible as a resource for continual
-resignification, as "the point of departure for a set of historical
-reflections and futural imaginings" (Butler <i>Bodies</i> 173). For, Butler
-explains that, "to bring in every marginal and excluded position
-within a given discourse is to claim that a singular discourse meets
-its limits nowhere, that it can and will domesticate all signs of
-difference" (25). Rather than aim for inclusion, one ought to position
-the "necessary outside" as a target that is beyond reach, as a fount
-for future subversions. This positioning allows individuals to harness
-opacity and unintelligibility as a resource for resisting the
-"violence of this exclusion," using unrepresentability as a tool for
-disruption. 
-</p>
-</div>
-</div>
-
-<div id="outline-container-org1318572" class="outline-4">
-<h4 id="org1318572"><span class="section-number-4">1.5.7</span> Conclusion: performative citation queers distant reading:</h4>
-<div class="outline-text-4" id="text-1-5-7">
-<p>
-Displacement through repetition; insubordination through subservience;
-deception through resemblance&#x2013;these are the tools available to the
-subject that remains outside the logic of phallogocentrism. I began
-this analysis into <i>Orlando</i> by close reading sections of the text, to
-explore how gender functions as an enabling structure. This reading
-found that gender is closely coordinated with language, as Orlando and
-the biographer, across different narrative levels of the story,
-struggle with both simultaneously. I read for gender as an enabling
-structure, and then used text analysis to play with gender by
-repeating the same processes of computing "gendered" term similarities
-over and over again. I saw how gender in this novel resembles an
-expanding web of terms that multiply while remaining distinct, which
-complicates the notion of gender as a binary system even within that
-system. This method of iterating over text allowed me to illuminate
-the structure of the signifying power without giving that power the
-ability to counter that which is questioning its authority. Although
-one may attempt to formalize such a method, my goal is not to build
-reproducible schemas and models for analyzing gender in
+Although one may attempt to formalize such a method, my goal is not to
+build reproducible schemas and models for analyzing gender in
 novels. Rather, I look to harness opacity and unintelligibility as
-resources for resisting inclusion. This method posits gender as a kind
-of technology of resistance, which the technology of digital tools can
-help to surface. I hope this work will encourage the further
-development of such approaches, which, as Butler nicely articulates,
-"begin, without ending, without mastering, to own – and yet never
-fully to own – the exclusions by which we proceed" (25).
+resources for resisting inclusion. As Butler affirms, "radical and
+inclusive representability is not precisely the goal" (<i>Bodies</i>
+25). Resisting the logic of phallogocentrism, the process of
+performative citation&#x2013;of displacement through repetition&#x2013;is meant to
+preserve that which is excluded or unintelligible as a resource for
+continual resignification, as "the point of departure for a set of
+historical reflections and futural imaginings" (Butler <i>Bodies</i> 173).
 </p>
 </div>
 </div>
-</div>
 
 
-<div id="outline-container-orgf74ea3b" class="outline-3">
-<h3 id="orgf74ea3b"><span class="section-number-3">1.6</span> etc:</h3>
+<div id="outline-container-orgcce9d01" class="outline-3">
+<h3 id="orgcce9d01"><span class="section-number-3">1.6</span> etc</h3>
 <div class="outline-text-3" id="text-1-6">
 </div>
-<div id="outline-container-orgbc968ca" class="outline-4">
-<h4 id="orgbc968ca"><span class="section-number-4">1.6.1</span> Klein's Image of Absence, Caughie's Storm Cloud</h4>
+<div id="outline-container-orgc74fe0e" class="outline-4">
+<h4 id="orgc74fe0e"><span class="section-number-4">1.6.1</span> Klein's Image of Absence</h4>
 </div>
-<div id="outline-container-org579fd96" class="outline-4">
-<h4 id="org579fd96"><span class="section-number-4">1.6.2</span> gio on voyant / nltk</h4>
+<div id="outline-container-orgd4cb488" class="outline-4">
+<h4 id="orgd4cb488"><span class="section-number-4">1.6.2</span> gio on voyant / nltk</h4>
 <div class="outline-text-4" id="text-1-6-2">
 <p>
     I'm playing around with voyant tools on Giovanni's Room, and realizing
@@ -2281,249 +2100,19 @@ What if we read only the sentences with the word "don't" in them?
 </div>
 </div>
 
-<div id="outline-container-org860f7fe" class="outline-4">
-<h4 id="org860f7fe"><span class="section-number-4">1.6.3</span> so this has been done before</h4>
+<div id="outline-container-org309fd40" class="outline-4">
+<h4 id="org309fd40"><span class="section-number-4">1.6.3</span> so this has been done before</h4>
 <div class="outline-text-4" id="text-1-6-3">
 <p>
 <a href="https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/bd5a43c1-bbfe-4c5c-8c0d-c3db1776eb99">https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/bd5a43c1-bbfe-4c5c-8c0d-c3db1776eb99</a>
 </p>
 </div>
 </div>
-<div id="outline-container-org8cf82d5" class="outline-4">
-<h4 id="org8cf82d5"><span class="section-number-4">1.6.4</span> Altschuler and Weimar on reproducibility</h4>
-<div class="outline-text-4" id="text-1-6-4">
-<p>
-&#x2013;&gt; reproducing something perfectly overlooks the ways that all
-digital objects are unique, differentiated. Theory of textual
-criticism which shows how ther are more interesting things to do then
-create a digital "copy texte". 
-</p>
-
-<p>
-This notion extends to digital humanist practitioners. 
-</p>
-
-<p>
-they call to overturn the "unproblematic translatability of
-information between the senses" while maintaining that reproduction is
-the highest value. They argue to "texture the humanities", pointing
-out that much of DH prioritizes the visual over other senses &#x2013;
-"privilege sight as the sense through which knowledge is accessible"
-(74). Rightly so, they argue, “The textured DH we call for here
-acknowledges that we cannot study knowledge only abstractly, apart
-from the senses, and that we cannot study literature, art, and history
-without including the history of embodied experiences” (74-75).
-</p>
-<ul class="org-ul">
-<li>“Touch This Page! uses 3-D printed facsimiles of raised-letter text
-to inspire reflection on the assumptions most people make about
-which senses are involved in reading” (82).</li>
-</ul>
-
-<p>
-But they elide the one interesting trajectory when they place
-reproduction over remediation/deformance. They state their aims: “to
-expand the sensory accessibility of archives for all users and to do
-so through the digital reproduction&#x2014;rather than the translation&#x2014;of
-tactile knowledge” (76). Case example of the perfect reproduction:
-</p>
-<ul class="org-ul">
-<li>A scenario where “users&#x2026; can download a visual copy with</li>
-</ul>
-<p>
-descriptive data, engage with the text in virtual reality, and create
-their own textured facsimile. This technology once more makes possible
-the tactile reading experiences for which this volume was designed and
-promises library patrons a richer engagement with touch than most
-archives can currently provide&#x2014;even in person (85-86). 
-</p>
-
-<p>
-The use case scenario makes the assumption that a reproduction is the
-ideal form of textuality, despite their asserted aims for "diversity
-of embodied experiences":
-</p>
-<ul class="org-ul">
-<li>“we must avoid tilting after the fiction of some ideal digital
-surrogate&#x2014;like a virtual reality system that would flawlessly
-mimic original objects&#x2014;lest we become digital Pierre Menards,
-expending extensive energy to improve our reproductions to discover,
-at last, that only the original perfects represents itself… Instead,
-we envision in our tactile futures multiple strategies that could
-not only open up access to varied experiences&#x2014;past and
-present&#x2014;but also diversity the ways embodied experiences structure
-our digital worlds” (86).</li>
-<li>in order to open up “multiple strategies” and diversity embodied
-experiences, we need a theory of text that is capacious enough to
-accept variation and transmediation.</li>
-<li>This argument overlooks deformance is a solution: the ways that
-creating new texts, paratexts, creates new objects of knowledge. It
-overlooks the performative, ala McGann, Clement.</li>
-</ul>
-
-<p>
-In this view, digital becomes a means of optimization, efficiency,
-total knowledge and understanding.
-</p>
 </div>
 </div>
 
-<div id="outline-container-org4b365fa" class="outline-4">
-<h4 id="org4b365fa"><span class="section-number-4">1.6.5</span> The debates about TEI illustrates this tension between the</h4>
-<div class="outline-text-4" id="text-1-6-5">
-<p>
-“conservative” and the “creative” impulses in textual editing, and
-shows how an encoding method that is highly structured can be used to
-mark or explore moments of textual instability or ambiguity.
-</p>
-</div>
-</div>
-
-<div id="outline-container-org0e91ee8" class="outline-4">
-<h4 id="org0e91ee8"><span class="section-number-4">1.6.6</span> felski on affects beside suspicion</h4>
-<div class="outline-text-4" id="text-1-6-6">
-<p>
-Postcritical Reading…  “in this sense, is not just a cognitive
-activity but an embodied mode of attentiveness that involves us in
-acts of sensing, perceiving, feeling, registering, and engaging”
-(Felski 176). 
-</p>
-
-<p>
-Felski: At stake is our receptivity: “to allow ourselves to be marked,
-struck, impressed by what we read” (Felski 12). 
-</p>
-
-<p>
-"the reader-text connection becomes part of a network rather than a
-self-enclosed dyad— yet a connection that remains vital to literary
-studies, especially in the classroom. Reading, in this light, is a
-matter of attaching, collating, negotiating, assembling—of forging
-links between things that were previously unconnected. It is not a
-question of plumbing depths or tracing surfaces… Interpretation
-becomes a coproduction between actors that brings new things to light
-rather than an endless rumination on a text’s hidden meanings or
-representational failures” (Felski 174)
-</p>
-
-<p>
-Surface reading challenges that search for absence by compelling a
-reader to stay with what the text says and how it says it rather than
-moving ahead to probe how it reflects and refracts larger cultural
-patterns. This critique reifies aesthetic objects and suggests that
-literary critics should embrace the literary.
-</p>
-</div>
-</div>
-
-<div id="outline-container-org10a531c" class="outline-4">
-<h4 id="org10a531c"><span class="section-number-4">1.6.7</span> mcpherson, benjamin on race and tech</h4>
-<div class="outline-text-4" id="text-1-6-7">
-<p>
-Major developments in technology also perpetuate racial
-assumptions. Moving from networking technologies to software
-development, Tara McPherson explores the parallels between the
-Operating Systems and race relations, to show how the development of
-computer software betrays hegemonic assumptions about whiteness and
-elisions of difference.<sup><a id="fnr.9" class="footref" href="#fn.9">9</a></sup> She focuses on the key moment of 1960s
-United States, when Operating Systems, which is the foundational
-software that supports a computer's programs and basic functioning,
-developed alongside civil rights discourses. Her research focuses on
-how "the organization of information and capital" in OS development
-resonates in the struggles for racial justice: "Many of these shifts
-were enacted in the name of liberalism, aimed at distancing the overt
-racism of the past even as they contained and cordoned off progressive
-radicalism" (30). McPherson deconstructs the UNIX operating system
-which includes a hierarchical file system, a command line interpreter
-(the Terminal on Mac or Command Prompt on Windows), and a variety of
-software programs that are designed to work in tandem. McPherson
-points out that UNIX-based Operating Systems (like Mac and Linux) are
-distinguished by the ways that they partition and simplify complex
-processes into discrete components, similar to the ways that identity
-politics cordones off parts of the (social and technological) system
-into distinct units. While this cordoning was productive for the
-promotion of civil rights, it also, according to McPherson, "curtailed
-and short-circuited more radical forms of political praxis, reducing
-struggle to fairly discrete parameters" (30).
-</p>
-
-<p>
-Crystallizing the intersection between Operating Systems and race
-relations, McPherson asserts that "Certain modes of racial visibility
-and knowing coincide or dovetail with specific ways of organizing
-data" (24). McPherson emphasizes the "rules" of UNIX philosophy, which
-lay out how UNIX's development prioritized the organization and
-simplification of data processing:
-</p>
-<blockquote>
-<p>
-Rule of Simplicity: Design for simplicity; add complexity only where
-you must. Rule of Parsimony: Write a big program only when it is clear
-by demonstration that nothing else will do. Rule of Transparency:
-Design for visibility to make inspection and debugging easier&#x2026; Rule
-of Representation: Fold knowledge into data so program logic can be
-stupid and robust. 26
-</p>
-</blockquote>
-<p>
-The rules of "Simplicity" and "Parsimony" ensure that programs will be
-composed of small, interlocking parts that can be easily updated and
-transported to newer versions. The rule of "Transparency" flattens
-nuance and ambiguity, making program components as legible as
-possible. The rule of "Representation," particularly the suggestion to
-"Fold knowledge into data" reduces the complexity of raw data, so that
-it can be easily input into multiple processes. According to
-McPherson, all of these rules work together to shore up the central
-design theory of "modularity,"<sup><a id="fnr.10" class="footref" href="#fn.10">10</a></sup> which stipulates that components
-are self-contained and interoperable, so they can be independently
-created, modified, and replaced without affecting the whole system.
-</p>
-
-<p>
-The role of control in creating the internet and the emphasis on data
-reduction in developing operating stystems leave their legacies on
-21st century digital technology, where race becomes collapsed into
-data. Echoing McPherson, Ruha Benjamin asserts that technology
-reproduces social inequities under the guise of objectivity and
-progressivism.<sup><a id="fnr.11" class="footref" href="#fn.11">11</a></sup> Turning to technology, Benjamin explores how
-innovations in Artificial Intelligence and algorithmic computing
-extend racist paradigms into ever new tools, particularly in data
-gathering and surveillance. The creators of these new technologies
-mark, track, and quantify blackness, for example, in databases for
-healthcare or financial services that associate "black names" with
-criminality (Benjamin 5). With each update, technology is continually
-promoted as efficient and progressive in a way that masks how it
-exploits data about its subjects. Benjamin explains, "we are told that
-how tech sees “difference” is a more objective reflection of reality
-than if a mere human produced the same results&#x2026; bias enters through
-the backdoor of design optimization in which the humans who create the
-algorithms are hidden from view" (5-6). As she points out, "the road
-to inequity is paved with technical fixes” (7). Like the creators of
-UNIX, the creators of such tools and algorithms operate under
-assumptions of white universality that inevitably marks blackness as
-"other."
-</p>
-</div>
-</div>
-
-<div id="outline-container-org1513e98" class="outline-4">
-<h4 id="org1513e98"><span class="section-number-4">1.6.8</span> sedgwick on liberatory vs prohibition</h4>
-<div class="outline-text-4" id="text-1-6-8">
-<p>
-Sedgwick searches for "some ways of understanding human desire that might
-be quite to the side of prohibition and repression, that might hence
-be structured quite differently from the heroic, 'liberatory,'
-inescapably dualistic righteousness of hunting down and attacking
-prohibition/repression in all its chameleonic guises" (10).
-</p>
-</div>
-</div>
-</div>
-</div>
-
-
-<div id="outline-container-org22dd672" class="outline-2">
-<h2 id="org22dd672"><span class="section-number-2">2</span> more sources</h2>
+<div id="outline-container-orgc4153f1" class="outline-2">
+<h2 id="orgc4153f1"><span class="section-number-2">2</span> more sources</h2>
 <div class="outline-text-2" id="text-2">
 <p>
 <a href="https://jitp.commons.gc.cuny.edu/numbering-ulysses-digital-humanities-reductivism-and-undergraduate-research/#ftn1">https://jitp.commons.gc.cuny.edu/numbering-ulysses-digital-humanities-reductivism-and-undergraduate-research/#ftn1</a>
@@ -2531,8 +2120,9 @@ prohibition/repression in all its chameleonic guises" (10).
 </p>
 </div>
 </div>
-<div id="outline-container-orgd0f67ce" class="outline-2">
-<h2 id="orgd0f67ce"><span class="section-number-2">3</span> commands</h2>
+
+<div id="outline-container-orga7a4e7f" class="outline-2">
+<h2 id="orga7a4e7f"><span class="section-number-2">3</span> commands</h2>
 <div class="outline-text-2" id="text-3">
 <p>
 c-c c-x f =&gt; create a new footnote
@@ -2545,436 +2135,18 @@ block quotes: #+BEGIN<sub>QUOTE</sub> &amp; #+END<sub>QUOTE</sub>
 </div>
 </div>
 
-<div id="outline-container-org0b18767" class="outline-2">
-<h2 id="org0b18767"><span class="section-number-2">4</span> annotated bib</h2>
+
+<div id="outline-container-org995efda" class="outline-2">
+<h2 id="org995efda"><span class="section-number-2">4</span> Works Cited</h2>
 <div class="outline-text-2" id="text-4">
-</div>
-<div id="outline-container-org97c80bc" class="outline-4">
-<h4 id="org97c80bc"><span class="section-number-4">4.0.1</span> Moretti, Franco. Graphs, Maps, Trees: Abstract Models for Literary</h4>
-<div class="outline-text-4" id="text-4-0-1">
-<p>
-History. 2007.
-</p>
-
-<p>
-This monograph defines and demonstrates “distant reading”, a deliberate abstraction and visualization of textual, bibliographic, and historical data about literature in order to answer questions about form and history of literature as a whole. 
-</p>
-</div>
-</div>
-
-<div id="outline-container-org3b30003" class="outline-4">
-<h4 id="org3b30003"><span class="section-number-4">4.0.2</span> Drucker, Johanna. "Introduction," SpecLab: Digital Aesthetics and</h4>
-<div class="outline-text-4" id="text-4-0-2">
-<p>
-Projects in Speculative Computing. 2009.
-</p>
-
-<p>
-From a series of literary experiments at SpecLab at UVA, Drucker
-posits a method of speculative computing that pushes against ideology
-of mathesis&#x2014;the idea that formal logic can represent or unlock human
-thought and experience, that knowledge is information&#x2014;by using
-computational methods to provoke and push against what we think we
-know.
-</p>
-</div>
-</div>
-
-<div id="outline-container-orga9fb386" class="outline-4">
-<h4 id="orga9fb386"><span class="section-number-4">4.0.3</span> Ramsay, Stephen. Reading Machines: Toward an Algorithmic</h4>
-<div class="outline-text-4" id="text-4-0-3">
-<p>
-Criticism. 2011.
-</p>
-
-<p>
-Ramsay proposes a method of Algorithmic Criticism, which approaches
-the constraints of computation as a liberating force that allows the
-critic to reflect on her own phenomenal experience of texts rather
-than seek definitive answers.
-</p>
-</div>
-</div>
-
-<div id="outline-container-org007cd4a" class="outline-4">
-<h4 id="org007cd4a"><span class="section-number-4">4.0.4</span> Drucker, Johanna. "Humanities Approaches to Graphical Display." DHQ:</h4>
-<div class="outline-text-4" id="text-4-0-4">
-<p>
-Digital Humanities Quarterly. 2011.
-</p>
-
-<p>
-Digital Humanities needs graphical expressions that question, resist,
-and reveal the assumptions of graphical display&#x2014;that it is
-observer-independent, objective, universal representations of
-knowledge, that data is “raw” rather than captured.
-</p>
-</div>
-</div>
-
-<div id="outline-container-org378c961" class="outline-4">
-<h4 id="org378c961"><span class="section-number-4">4.0.5</span> Felski, Rita. The Limits of Critique. 2015.</h4>
-<div class="outline-text-4" id="text-4-0-5">
-<p>
-Examines the role of affect in literary criticism, showing how the
-hermeneutics of suspicion, as a militant mode of reading, forecloses
-the possibilities of connection between reader and text.  
-</p>
-</div>
-</div>
-
-<div id="outline-container-org9f1fe73" class="outline-4">
-<h4 id="org9f1fe73"><span class="section-number-4">4.0.6</span> Piper, Andrew. Enumerations: Data and Literary Study. 2018.</h4>
-<div class="outline-text-4" id="text-4-0-6">
-<p>
-Mixes distant and close reading in order to interrogate how the study
-of literary quantity can lead to insights about literature.
-</p>
-</div>
-</div>
-
-<div id="outline-container-orgec48d1b" class="outline-4">
-<h4 id="orgec48d1b"><span class="section-number-4">4.0.7</span> Landow, George. Hypertext 3.0: Critical Theory and New Media in an Era</h4>
-<div class="outline-text-4" id="text-4-0-7">
-<p>
-of Globalization, 2006. Print.
-</p>
-
-<p>
-The hypertext format engages the postmodern
-(structuralist/post-structuralist and deconstructive) theories about
-the multiplicity and instability of meaning in texts, as well as new
-radical conceptions of authorship
-</p>
-</div>
-</div>
-
-<div id="outline-container-orgba73789" class="outline-4">
-<h4 id="orgba73789"><span class="section-number-4">4.0.8</span> Fisher, Caitlin. These Waves of Girls, 2001. Web.</h4>
-<div class="outline-text-4" id="text-4-0-8">
-<p>
-The profusion of hyperlinks frustrates the reader by offering too many
-narrative paths. The reader’s frustration in navigating through the
-hypertext relates to the work’s theme of sexual discovery. In
-following the narrator as she develops her sexuality, the reader
-experiences her own cycles of desire and frustration.
-</p>
-</div>
-</div>
-
-<div id="outline-container-org47e5f70" class="outline-4">
-<h4 id="org47e5f70"><span class="section-number-4">4.0.9</span> Tenen, Dennis. Plain Text: the Poetics of Computation, 2017. Epub.</h4>
-<div class="outline-text-4" id="text-4-0-9">
-<p>
-Tenen proposes a microanalysis, computational poetics, or an
-archaeology of platforms and infrastructures (behind surface
-content). We don’t engage directly with the textual conduit, so we
-need to perform a media archaeology in order to have access to these
-processes and be in charge of them.
-</p>
-</div>
-</div>
-
-<div id="outline-container-org202bde1" class="outline-4">
-<h4 id="org202bde1"><span class="section-number-4">4.0.10</span> Rockwell, Geoffrey and Stefan Sinclair. Voyant-Tools. 2018.</h4>
-<div class="outline-text-4" id="text-4-0-10">
-<p>
-The par excellence example of literary criticism, which encourages
-discovery.
-</p>
-</div>
-</div>
-
-<div id="outline-container-org3d88b2a" class="outline-4">
-<h4 id="org3d88b2a"><span class="section-number-4">4.0.11</span> Galloway, Alexander. Protocol: How Control Exists after</h4>
-<div class="outline-text-4" id="text-4-0-11">
-<p>
-Decentralization. 2004.
-</p>
-
-<p>
-Horizontal freedom requires universalization,
-standardization. Resistance comes from within the system, using
-exploits.
-</p>
-</div>
-</div>
-
-<div id="outline-container-org35b8219" class="outline-4">
-<h4 id="org35b8219"><span class="section-number-4">4.0.12</span> Chun, Wendy. Control and Freedom: Power and Paranoia in the Age of</h4>
-<div class="outline-text-4" id="text-4-0-12">
-<p>
-Fiber Optics. 2006.
-</p>
-
-<p>
-The potential for individual empowerment comes from harnessing our own
-vulnerabilities and exposure. Without exposure, give and take, there
-is no network.
-</p>
-</div>
-</div>
-
-<div id="outline-container-orgf22db9d" class="outline-4">
-<h4 id="orgf22db9d"><span class="section-number-4">4.0.13</span> Bennett, Jane. Vibrant Matter: A Political Ecology of Things. 2010.</h4>
-<div class="outline-text-4" id="text-4-0-13">
-<p>
-Approaches the network as a vital non-anthropocentric ecology,
-connecting humans to inert matter, endowing them with agency.
-</p>
-</div>
-</div>
-
-<div id="outline-container-orge9296da" class="outline-4">
-<h4 id="orge9296da"><span class="section-number-4">4.0.14</span> Moten, Fred and Stefano Harney. The Undercommons: Fugitive Planning &amp;</h4>
-<div class="outline-text-4" id="text-4-0-14">
-<p>
-Black Study. 2013.
-</p>
-
-<p>
-A way of being in but not of the university, system,
-network. Studying, collecting debt, being shipped are ways of relating
-to one another that resists the system.
-</p>
-</div>
-</div>
-
-<div id="outline-container-org28286da" class="outline-4">
-<h4 id="org28286da"><span class="section-number-4">4.0.15</span> Tufekci, Zeynep. Twitter and Tear Gas: the Power and Fragility of</h4>
-<div class="outline-text-4" id="text-4-0-15">
-<p>
-Networked Protest. 2017.
-</p>
-
-<p>
-How humans aided with technology create networks, and how these
-operate on the ground. What capacities do they have, how does their
-horizontalism both help and hurt?
-</p>
-</div>
-</div>
-
-<div id="outline-container-orgf05c0f8" class="outline-4">
-<h4 id="orgf05c0f8"><span class="section-number-4">4.0.16</span> Gaboury, Jacob. "Becoming NULL: Queer Relations in the Excluded</h4>
-<div class="outline-text-4" id="text-4-0-16">
-<p>
-Middle." Women &amp; Performance: a Journal of Feminist
-Theory. 28:2, 2018. pp. 143-158. Web.
-</p>
-
-<p>
-What are queer modes of being within technological systems, modes that
-refuse the gesture of capture and extraction? The NULL marker in SQL
-offers a way of becoming that enacts a queer logic that is explicitly
-situated within the logic of information systems but refuses this
-gesture of capture and extraction.
-</p>
-</div>
-</div>
-
-<div id="outline-container-orgc13a5a3" class="outline-4">
-<h4 id="orgc13a5a3"><span class="section-number-4">4.0.17</span> Kittler, Friedrich. Gramophone, Film, Typewriter. 1999.</h4>
-<div class="outline-text-4" id="text-4-0-17">
-<p>
-At first, media passes through symbols (written signifier), then
-analog media is stored as physical traces, and now, new media loses
-its specificity as a stream of numbers (“eyewash”), surface effects
-which are then reassembled in the human. The human perceptual system
-disperses into the apparatus.
-</p>
-
-<p>
-What sense perceptions are we not aware of or not tapping? This opens
-up the potentials of bits and fiber.
-</p>
-</div>
-</div>
-
-<div id="outline-container-org6290f97" class="outline-4">
-<h4 id="org6290f97"><span class="section-number-4">4.0.18</span> Hayles, N. Katherine. Writing Machines. 2002.</h4>
-<div class="outline-text-4" id="text-4-0-18">
-<p>
-Media is re-conceived, written, mediated for different formats&#x2014;the
-concept of remediation.
-</p>
-
-<p>
-Reading technotexts takes place within a distributed cognitive
-environment. We are part of a larger cybernetic circuit.
-</p>
-</div>
-</div>
-
-<div id="outline-container-orga8bd55f" class="outline-4">
-<h4 id="orga8bd55f"><span class="section-number-4">4.0.19</span> Kirschenbaum, Matthew. Mechanisms: New Media and the Forensic</h4>
-<div class="outline-text-4" id="text-4-0-19">
-<p>
-Imagination. 2008.
-</p>
-
-<p>
-Digital media create an illusion of immateriality&#x2014;screen
-essentialism. We should approach materiality on two levels, the formal
-and forensic, to counter misunderstandings and occlusions of new
-media. Electronic texts are not ephemeral or homogenous, they are
-inscribed and made of unique traces.
-</p>
-</div>
-</div>
-
-<div id="outline-container-orgfde2bdc" class="outline-4">
-<h4 id="orgfde2bdc"><span class="section-number-4">4.0.20</span> Blanchette, Jean-François, "A Material History of Bits." Journal of</h4>
-<div class="outline-text-4" id="text-4-0-20">
-<p>
-the American Society for Information Science and Technology. No. 62:
-pp. 1042-1057, 2011.
-</p>
-</div>
-</div>
-
-<div id="outline-container-orgdff689a" class="outline-4">
-<h4 id="orgdff689a"><span class="section-number-4">4.0.21</span> Hansen, Mark. Feed-Forward: On The Future of 21st Century Media. 2014.</h4>
-<div class="outline-text-4" id="text-4-0-21">
-<p>
-The way that media works in the 21st century both marginalizes and
-expands human perception. Things we have no awareness of are out there
-feeling for us. We have an expanded perceptual reach, but our
-sensations are indirect. This puts consciousness in an anticipatory
-mode, always future oriented, focusing on what is nearly emergent&#x2014;
-“feed forward”.
-</p>
-</div>
-</div>
-
-<div id="outline-container-org4d8f033" class="outline-4">
-<h4 id="org4d8f033"><span class="section-number-4">4.0.22</span> Woolf, Virginia, Emily McGinn, Amy Leggette, Matthew Hannah, and Paul</h4>
-<div class="outline-text-4" id="text-4-0-22">
-<p>
-Bellew. "Comparing Marks: A Versioning Edition of Virginia Woolf's
-'The Mark on the Wall.'" Scholarly Editing: The Annual of the
-Association for Documentary Editing. Vol. 35, 2014.
-</p>
-
-<p>
-Presents a “versioning edition” of the various print witnesses of
-Woolf’s short story, the Mark on the Wall, from 1917-1944.  The
-versioning edition’s attention to the story over time also implicitly
-draws attention to the way that time functions on the level of
-narrative.
-</p>
-</div>
-</div>
-
-<div id="outline-container-org11e502e" class="outline-4">
-<h4 id="org11e502e"><span class="section-number-4">4.0.23</span> Peters, John Durham. The Marvelous Clouds: Toward a Philosophy of</h4>
-<div class="outline-text-4" id="text-4-0-23">
-<p>
-Elemental Media. 2016.
-</p>
-</div>
-</div>
-
-<div id="outline-container-org4cdbdc6" class="outline-4">
-<h4 id="org4cdbdc6"><span class="section-number-4">4.0.24</span> McKenzie, D.F. Bibliography and the Sociology of Texts. 1986.</h4>
-<div class="outline-text-4" id="text-4-0-24">
-<p>
-Individual texts are witnesses of an ideal text that is never to be
-fully realized&#x2014;the florid branches of an invisible trunk.
-Bibliography is about tracking the book’s history as a social
-document, the social relations involved in its transmission, and about
-recognizing different critic’s “misreadings”. Book history is a
-history of misreadings.
-</p>
-</div>
-</div>
-
-<div id="outline-container-orgd437c79" class="outline-4">
-<h4 id="orgd437c79"><span class="section-number-4">4.0.25</span> Tanselle, Thomas. "A Rationale of Textual Criticism." 1992.</h4>
-<div class="outline-text-4" id="text-4-0-25">
-<p>
-Texts are corrupted in physical form and require assistance of an
-editor to present in an authentic state. The imperative of textual
-criticism is to restore and correct.
-</p>
-</div>
-</div>
-
-<div id="outline-container-org9cc6b00" class="outline-4">
-<h4 id="org9cc6b00"><span class="section-number-4">4.0.26</span> Derrida, Jacques. “Archive Fever: A Freudian Impression.”</h4>
-<div class="outline-text-4" id="text-4-0-26">
-<p>
-Diacritics. Vol. 25, no. 2. 1995.
-</p>
-
-<p>
-The archive works against itself: creating an archive also creates the
-potential to forget and destroy. Externalization.  The instant of
-archivization involves technology: ‘the prosthetic experience of the
-technical substrate’ (22).
-</p>
-</div>
-</div>
-
-<div id="outline-container-org0656628" class="outline-4">
-<h4 id="org0656628"><span class="section-number-4">4.0.27</span> McGann, Jerome. Radiant Textuality: Literature after the World Wide</h4>
-<div class="outline-text-4" id="text-4-0-27">
-<p>
-Web. 2001.
-</p>
-
-<p>
-Electronic editing ought to capture what is inherently n-dimensional
-about literary texts&#x2014;to engage in the quantum poetics of each
-textual detail.
-</p>
-</div>
-</div>
-
-<div id="outline-container-org3008cdd" class="outline-4">
-<h4 id="org3008cdd"><span class="section-number-4">4.0.28</span> Singer, Kate. “Digital Close Reading: TEI for Teaching Poetic</h4>
-<div class="outline-text-4" id="text-4-0-28">
-<p>
-Vocabularies.” The Journal of Interactive Technology and Pedagogy. 3,
-May 15, 2013.
-</p>
-
-<p>
-Using TEI to teach close reading finds that one can approach it to
-engage individualized readings&#x2014;marking moments of textual
-instability rather than formal aspects. Given that the tool is
-flexible enough, we do not have to agree on a schema, standardize a
-schema, in order to use the tool to engage the incommensurable.
-</p>
-</div>
-</div>
-
-
-<div id="outline-container-org9f83ef3" class="outline-4">
-<h4 id="org9f83ef3"><span class="section-number-4">4.0.29</span> Caughie, Emily Datskou and Rebecca Parker. “Storm Clouds on the</h4>
-<div class="outline-text-4" id="text-4-0-29">
-<p>
-Horizon: Feminist Ontologies and the Problem of Gender.” Feminist
-Modernist Studies. 1:3, 230-242. 2018.
-</p>
-
-<p>
-What do we do when our tools won’t allow us to capture or convey
-certain elements of the text? It turns out that the limitations of the
-computer are actually a good indicator of things that maybe should be
-left unresolved or unfixed&#x2014;like gender ontology.
-</p>
-</div>
-</div>
-</div>
-
-<div id="outline-container-orgf34fabc" class="outline-2">
-<h2 id="orgf34fabc"><span class="section-number-2">5</span> Works Cited</h2>
-<div class="outline-text-2" id="text-5">
 <p>
 Amin, Kadji, Amber Jamilla Musser, and Roy Pérez “Queer Form:
 Aesthetics, Race, and the Violences of the Social” ASAP/Journal,
 Volume 2, Number 2, May 2017, p. 235.
+</p>
+
+<p>
+Barad, Karen. <i>Meeting the Universe Halfway</i>. 
 </p>
 
 <p>
@@ -2987,6 +2159,13 @@ Biography.’” Style, vol. 28, no. 2, 1994, pp. 169–82. JSTOR,
 Berman, Jessica. “Is the Trans in Transnational the Trans in
 Transgender?"  Modernism/modernity, vol. 24 no. 2, 2017,
 pp. 217-244. Project MUSE, <a href="10.1353/mod.2017.0019">10.1353/mod.2017.0019</a>
+</p>
+
+<p>
+Bode, Katherine. "Computational modeling: From data representation to
+performative materiality." <i>Animating Text Newcastle Univeristy (ATNU)
+Speaker Series</i>, no. 3: Thursday, 26th of
+November 2020. <a href="https://research.ncl.ac.uk/atnu/news/atnuiesvirtualspeakerseries202020213.html">https://research.ncl.ac.uk/atnu/news/atnuiesvirtualspeakerseries202020213.html</a>
 </p>
 
 <p>
@@ -3009,8 +2188,28 @@ Butler, Judith, <i>Gender Trouble</i>,
 </p>
 
 <p>
+Caughie, Emily Datskou and Rebecca Parker. “Storm Clouds on the
+Horizon: Feminist Ontologies and the Problem of Gender.” Feminist
+Modernist Studies. 1:3, 230-242. 2018.
+</p>
+
+<p>
 Channing, Jill.  "Magical realism and gender variability in Orlando."
 Virginia Woolf Miscellany, no. 67, 2005, p. 11+.
+</p>
+
+<p>
+"ContextIndex." NLTK Documentation. Accessed July
+4, 2022. <a href="https://www.nltk.org/_modules/nltk/text.html#ContextIndex">https://www.nltk.org/_modules/nltk/text.html#ContextIndex</a>
+</p>
+
+<p>
+"ContextIndex.similar<sub>words</sub>." NLTK Documentation. Accessed July
+4, 2022. <a href="https://www.nltk.org/_modules/nltk/text.html#ContextIndex.similar_words">https://www.nltk.org/_modules/nltk/text.html#ContextIndex.similar_words</a>
+</p>
+
+<p>
+Galloway, Alexander. <b>Protocol</b>, 2004.
 </p>
 
 <p>
@@ -3021,7 +2220,6 @@ Critical Survey, vol. 19, no. 1, 2007, p. 62+.
 <p>
 Halberstam, (Jack) Judith. “Second Skins: The Body Narratives of Transsexuality. Jay Prosser Trans Liberation: Beyond Pink or Blue. Leslie Feinberg FTM: Female-to-Male Transsexuals in Society. Holly Devor.” Signs: Journal of Women in Culture and Society, vol. 26, no. 1, Oct. 2000, pp. 313–17, <a href="https://doi.org/10.1086/495591">https://doi.org/10.1086/495591</a>.
 </p>
-
 
 <p>
 Hovey, Jaime. “‘Kissing a Negress in the Dark’: Englishness as a
@@ -3145,41 +2343,50 @@ for (i = 0; i &lt; word.length; i++) {
 </div></div></div>
 
 <div class="footdef"><sup><a id="fn.7" class="footnum" href="#fnr.7">7</a></sup> <div class="footpara"><p class="footpara">
-NLTK.text.ContextIndex <a href="https://github.com/nltk/nltk/blob/develop/nltk/text.py">https://github.com/nltk/nltk/blob/develop/nltk/text.py</a>
-</p></div></div>
+The <code>similar_words()</code> method from the nltk.text.ContextIndex
+class functions very nearly like the <code>Text.similar()</code> method described
+previously. Below is the definition of the ContextIndex class from the
+NLTK source code. For more information, see "ContextIndex," NLTK Docs.
+</p>
+
+<div class="SOURCE">
+<p>
+class ContextIndex(object):
+    """
+    A bidirectional index between words and their 'contexts' in a text.
+    The context of a word is usually defined to be the words that occur
+    in a fixed window around the word; but other definitions may also
+    be used by providing a custom context function.
+    """ContextIndex
+</p>
+
+</div></div></div>
 
 <div class="footdef"><sup><a id="fn.8" class="footnum" href="#fnr.8">8</a></sup> <div class="footpara"><p class="footpara">
-Chun, Wendy, <i>Control and Freedom: Power and Paranoia in the
-Age of Fiber Optics</i>, 2006. Print.
-</p></div></div>
+Docs for NLTK.text.ContextIndex.similarwords:
+</p>
 
-<div class="footdef"><sup><a id="fn.9" class="footnum" href="#fnr.9">9</a></sup> <div class="footpara"><p class="footpara">
-Tara McPherson’s “U.S. Operating Systems at Mid-Century: The
-Intertwining of Race and UNIX," Race After The Internet, ed. Lisa
-Nakamura and Peter A. Chow-White. Routledge, 2012.
-</p></div></div>
+<div class="SOURCE">
+<p>
+def similar<sub>words</sub>(self, word, n=20):
+        scores = defaultdict(int)
+        for c in self.<sub>word</sub><sub>to</sub><sub>contexts</sub>[self.<sub>key</sub>(word)]:
+            for w in self.<sub>context</sub><sub>to</sub><sub>words</sub>[c]:
+                if w != word:
+                    scores[w] += (
+                        self.<sub>context</sub><sub>to</sub><sub>words</sub>[c][word] * self.<sub>context</sub><sub>to</sub><sub>words</sub>[c][w]
+                    )
+        return sorted(scores, key=scores.get, reverse=True)[:n]
+</p>
 
-<div class="footdef"><sup><a id="fn.10" class="footnum" href="#fnr.10">10</a></sup> <div class="footpara"><p class="footpara">
-Potentially revise and deepen this section by linking to Barad
-&amp; Haraway on situated knowledges and feminist science: Being modular
-in itself isn't bad, as long as you are aware of the ways that
-modularity creates limitations/reductions of data. Modularity needs a
-critical awareness of its own tools.
-</p></div></div>
-
-<div class="footdef"><sup><a id="fn.11" class="footnum" href="#fnr.11">11</a></sup> <div class="footpara"><p class="footpara">
-Her work also extends Michelle Alexander's ideas from <i>The New
-Jim Crow</i> (2010), which argues that modern society perpetuates racist
-violence and segregation by criminalizing race through the war on
-drugs and mass incarceration.
-</p></div></div>
+</div></div></div>
 
 
 </div>
 </div></div>
 <div id="postamble" class="status">
 <p class="author">Author: Filipa  Calado</p>
-<p class="date">Created: 2022-07-02 Sat 14:20</p>
+<p class="date">Created: 2022-07-05 Tue 15:14</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>

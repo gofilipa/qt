@@ -1,5 +1,4 @@
 * sketch
-
 ** summary notes
 *** overview
 
@@ -19,21 +18,565 @@ Method: Close reading of /Dawn/, Media archaeological reading of
 attends to its physicality, what Kirschenbaum describes as the
 forensic and formal levels of materiality.
 
-*** tentative outline
-**** Black feminist theorizing
-**** Close reading of Butler's Dawn
-**** Media Archaeological methods
-
-**** Close reading of /skinonskinonskin/
-
 ** readings notes
+*** /skin/
+http://auriea.org/skinonskinonskin
+http://entropy8zuper.org/skinonskinonskin/
+
+**** TODO /skinonskinoxonreonskin/
+https://sites.rhizome.org/anthology/skinonskinonskin.html
+
+Collaborative name: Entropy8Zuper!
+
+25 letters total in JavaScript, HTML, and Flash. 
+
+Designed for the Nestcape 4 browser, so no longer viewable in that
+context except through an emulator.
+
+view-source:http://entropy8zuper.org/skinonskinonskin/rhizome/
+Entropy8zuper.org/skinonskinonskin/rhizome/images/
+Entropy8zuper.org/skinonskinonskin/rhizome/gr
+Entropy8zuper.org/skinonskinonskin/rhizome/movies
+
+***** Landing page: 
+- title carved into flesh. 
+
+Epigraph: "if ( 1 + 1 == 1 ) { e8z = true; };"
+- conditional statement, which is false. But what's it saying? That
+"if" is carrying a lot. It's a statement of possibility, saying 1 + 1
+might be equal to 1. That the two lovers might be able to combine. 
+
+***** DONE breath.html
+      CLOSED: [2022-12-04 Sun 11:19]
+By Samyn
+
+Image of white/blue torso with bright glowing point in center (heart?)
+on black background. When mouse pans over the image, the chest
+englarges slightly and the sound of breath emits. Can happen at fast
+speeds, though is a bit glitchy. 
+
+Code consists of an array of whispers, containing erotic professions
+and exhortations.
+
+#+BEGIN_SOURCE 
+<SCRIPT LANGUAGE="Javascript">
+
+<!--
+whispers = new Array();
+whispers[0] = "breath me";
+whispers[1] = "i will love you forever";
+whispers[2] = "skin";
+whispers[3] = "skin on skin";
+whispers[4] = "skin on skin on skin";
+whispers[5] = "implode";
+whispers[6] = "soft";
+whispers[7] = "slow";
+whispers[8] = "can you feel me?";
+whispers[9] = "touch me";
+whispers[10] = "one more cigarette";
+whispers[11] = "i am so open";
+whispers[12] = "i want to feel you inside of me";
+whispers[13] = "smoke";
+whispers[14] = "i want to breathe you";
+whispers[15] = "we are smoke";
+whispers[16] = "yesss";
+whispers[17] = "deeper";
+whispers[18] = "i am disappearing";
+whispers[19] = "warm";
+//-->
+	</SCRIPT>
+#+END_SOURCE
+
+***** smoke.html
+By Harvey
+
+HTML tables, like cells, animated to move up and down and across the
+page following the mouse. The movement flutters to evoke smoke. Words
+in read are contained at the bottom of each cell.
+
+See screenshot "smoke.png". Here you can apprehend all of the words at
+once. 
+
+The script parses out where table elements are defined/assigned,
+styled, and animated (JavaScript), and then where they are positioned
+(HTML).
+
+***** TODO close.html
+By Samyn
+
+The page here only makes sense if you glimpsed the code in the
+previous page, "smoke.html". At the center of the page is an image of
+the chest from the first vignette, "breath.html." The filenames for
+the images populating the tables overlay the image of the chest. At
+the bottom two corners are closed fists, which open when clicked to
+release an animation of butterflies that flutter over the chest. The
+butterflies will move again if the user pans over them, animated by a
+whoosing sound like the breathing in "breath.html," but they stay
+within the confines of the image. 
+
+The page signifies not only butterflies, but also the words associated
+with the filenames overlaid on the chest. These include "sensitive,"
+"smoke," "again," and any others in the user's memory. 
+
+Here, code names stand for words. It's surfacing the significatory
+system inherent in code, which appends and defines data. It's showing
+us the code name for the file rather than the contents of that file. 
+
+***** grid.html
+By Samyn
+
+A torso (masculine, different from the first) stuck in a grid, evoking
+Neuromancer's cyberspace.
+
+"cursor_mac_flip.gif"?
+
+***** TODO hands.html
+By Harvey
+
+You get here after opening the "hands" in "close." The image is of a
+black hand pressing on a white outline. Presumably, Harvey's hand
+against Samyn's, perhaps on a screen. The code has a message that
+confirms: ~<!-- we touch -->~, and confirms Harvey is the
+author. Hence the black hand. 
+***** horoscope.html
+Image of a horoscope exhorting the gemini to be receptive to "hav[ing]
+your mind stolen and your heart blown," with alt-text in the HTML
+source code (visible when panning over the image): "head to toe
+receptive".
+***** DONE air.html
+      CLOSED: [2022-12-03 Sat 19:58]
+view-source:http://entropy8zuper.org/skinonskinonskin/rhizome/air.html
+By Samyn
+
+Two bodies in flying position following the mouse as it pans over a
+field of rotating lines, evoking a cyberlandscape. The animations are
+like magnets moving toward the mouse when it moves, but the strength
+of attraction depends on the mouse's speed. So you can get them to
+almost touch with some difficulty. 
+
+The code is just layers of moving lines, with the images as gifs that
+are animated by "flyNow()" and "flyMouse" functions, which I do not
+understand.
+
+Learning the haptics of the animation. Deeply sensual. 
+
+#+BEGIN_SOURCE
+function flyMouse()
+{
+var mLeft = dMeasure('flyingmL','document.','left');
+var mTop = dMeasure('flyingmL','document.','top');
+var aLeft = dMeasure('flyingaL','document.','left');
+var aTop = dMeasure('flyingaL','document.','top');
+
+if ( mouseX < halfW )
+	{
+	var mFactor = 0.1;
+	var aFactor = 0.01;
+	}
+else
+	{
+	var mFactor = 0.01;
+	var aFactor = 0.1;
+	};
+
+thisXDiff = mouseX - (mLeft+halfmW);
+thisYDiff = mouseY - (mTop+halfmH);
+dMove('flyingmL','document.',mLeft + thisXDiff*mFactor,mTop + thisYDiff*mFactor);
+thisXDiff = mouseX - (aLeft+halfaW);
+thisYDiff = mouseY - (aTop+halfaH);
+dMove('flyingaL','document.',aLeft + thisXDiff*aFactor,aTop + thisYDiff*aFactor);
+moveGround();
+};
+#+END_SOURCE
+
+***** entropy8zuper.html & entropy8zuper2.html
+Close up of images so pixels are magnified. Words shown: "what's
+related" (from Samyn) and "Connection: Keep-Alive" (from Harvey). 
+
+***** untouched.html
+By Samyn
+
+We may have our second flash animation. A SWF file of Samyn shirtless,
+laying on his back, folding his arms over his body then turning on his
+side. A loop. Techno music repeats the same melody. 
+
+Cannot see the SWF file, but interesting filename, "whitem.sfw" -
+white Michael.
+
+***** come.html
+Bt Harvey, cannot open the source. 
+
+Tiles that animate when clicked. Word "come" at bottom of the tile,
+and Harvey (?) walking toward viewer, fading to white when she
+arrives. Samyn's (?) voice says "Yes." 
+
+***** freezing.html
+#+BEGIN_SOURCE
+<HTML>
+<HEAD><TITLE>freezing</TITLE>
+<!-- by Auriea Harvey for Michael Samyn -->
+<!-- 14 02 1999 -->
+</HEAD>
+<BODY bgcolor=000000>
+<MAP NAME="ImageMap65363">
+<AREA SHAPE="rect"
+ALT="Z" COORDS="510,598,516,608" HREF="http://www.entropy8zuper.org"  target="_blank" onMouseover="javascript:document.embeds['soundMovie'].GotoFrame(5);" onMouseout="javascript:document.embeds['soundMovie'].GotoFrame(10);">
+</AREA>
+</MAP>
+<IMG NAME="frozen" SRC="hair/frozen.jpg" border=0 WIDTH=593 HEIGHT=825
+USEMAP="#ImageMap65363">
+<EMBED SRC="./movies/cometome.swf" WIDTH=2 HEIGHT=2 PLAY="false"
+NAME="soundMovie" SWLIVECONNECT="true" BGCOLOR="#000000">
+</BODY>
+</HTML>
+#+END_SOURCE
+			   
+***** obsessed.html
+By Samyn
+
+Animation of a green spiral that moves against the cursor in a circular
+motion, its fulcrum on a green circle which, if clicked, opens a new
+page, "control.html". 
+
+Again, this is playing with haptics, the effect of opposing and
+attracting forces (like "air.html"). 
+
+***** control.html
+view-source:http://entropy8zuper.org/skinonskinonskin/rhizome/control.html
+No attribution. Title: "you:controlMe"
+
+Complicated to describe. It's a green tinted gif of Harvey's head that
+rolls with the mouse, like the cursor is physically moving her
+head. Can see more or less of her face this way. Alt text contains a
+message with words like "go" "believe" "ocean" "mind." Can only get
+the full sentence when reading the code. 
+
+Again, we are playing with haptics, so I think it's Samyn, though this
+is opposite of what we expect. The suggests the work is created from
+Harvey's perspective, saying "you control me," and Harvey presumably
+being the intended user. Or maybe Samyn is taking control by demanding
+that Harvey's image submit to the user's mouse. 
+
+How the code works: there are ~<AREA>~ html elements that are coded
+with coordinates, image links, and alt text when the mouse pans over
+them. The effect is to animate the image according to movement. 
+
+***** missing.html
+Large, glitchy, soundless video of Harvey writing "I miss you" on her
+arm and showing it to the camera. Cannot see the code, appears to be a
+flash file. 
+
+***** control2.html
+The same as the original control.html, but with Samyn's face looping
+through. 
+***** TODO words.html
+view-source:http://entropy8zuper.org/skinonskinonskin/rhizome/words.html
+By Samyn on valentines day, 1999.
+
+A beating heart, animated by words that move in various arcs from its
+center. 
+
+Line 98: "$we are disembodied arms and mouths "
+
+The JavaScript is very detailed in its animation. It sets loops
+through words, calculates their trajectory and timing, then resets
+their position and starts again.
+
+***** sunday.html
+by e8z on 21 February 1999
+
+Very calming. Flash video of views presumably of Belgium. 
+
+Along with "but.html," "travel.html" are flash videos. Not a lot of
+access here.
+
+***** unsaid.html
+No attribution or date
+
+Image of Mac desktop (Harvey's?) with draggable chat boxes filled with
+their conversation. Typical and intense avowals of enduring
+love. Inside each chat box is an unsent message in the composition
+area. Harvey is showing Samyn her unsent thoughts, in one case, a
+thought that was withheld over several of his messages, and then
+changed to another. 
+
+One of them contains the interesting phrase by womanonfire: "-i+o",
+which evokes a loop (i=0, i<n, i++) and I/O. 
+
+***** TODO hug.html
+By Harvey, very clearly with context clues. 
+
+Animation of swirling pieces to the background of upbeat funk music
+which collapse into a whole image of Harvey and Samyn hugging when
+clicked. Music also changes to a refrain, "This could have been
+something, this could have been really something." There's also a
+text that appears line by line, which begins hopeful but turns more
+and more apologetic and despondant. The breakup betweeh Harvey and her
+current partner. She doesn't know if she can leave him and she doesn't
+want to leave her whole life. But she loves Samyn and will do what she
+can. 
+
+Michael's response, "perfect.html," is a chatbox that says
+"bullshit. We would be the perfect couple. Maybe I just say that ..."
+
+**** DONE entropy8zuper.org 
+     CLOSED: [2022-11-30 Wed 16:44]
+http://entropy8zuper.org/
+Text only verision: http://entropy8zuper.org/text
+
+"Flash was murdered, net technologies moved on. Let us mourn! Let us
+CELEBRATE!"
+
+"It is deeply ironic that what survives of our interactive net
+artworks are texts and sounds written and recorded for an offline
+exhibition, and dead code on our server, but here we are."
+
+WHISPERING WINDOWS
+
+They must be using some kind of audio synthesizer.
+
+Racialization? When distributed over the net, the body becomes
+something that is partitioned, distributed in peices, like
+packet-switching. This happens with voice and with skin. 
+
+What's the effect? When things are coming across slowly, we can better
+/feel/ the components.
+
+#+BEGIN_QUOTE
+womanonfire: i wonder wht your voice is like
+zuper: my voice?
+zuper: let's try
+zuper: it's weird to talk in a silent office at night
+womanonfire: yes
+womanonfire: i can just barely make you out
+womanonfire: how fitting
+womanonfire: it sounds so far away but you feel so close
+zuper: yes
+zuper: i am close
+zuper: i don't understand myself
+womanonfire: i will write you a very long letter tonight
+zuper: I'm falling in love with a 160x120 pixel video...
+zuper: Yes please write me a long letter
+womanonfire: it is dificult for me here right now
+zuper: why is it difficult?
+womanonfire: i was just about to write one about this
+womanonfire: because i love you
+zuper: ...
+womanonfire: seems so 
+womanonfire: strange
+womanonfire: maybe it is lust
+womanonfire: i cant tell anymore
+zuper: pixellust?
+womanonfire: right
+zuper: I my case only ASCIIlust...
+womanonfire: but i want to make a home for us
+womanonfire: in the network
+zuper: Have you read Sterlings 'Holy Fire'?
+womanonfire: no
+zuper: They have places called 'Memory Palaces' on the net
+zuper: where they keep all their souvenirs and where people can meet
+womanonfire: i just heard you that time
+womanonfire: !
+zuper: in dutch!
+womanonfire: yes!
+zuper: (private) I realised today that I have never been in love with somebody who doesn't speak Dutch before.
+womanonfire -> zuper: i have never been in love with someone in another country before
+zuper: (private) I have never been in love with someone with green dreadlocks before
+zuper: (private) let alone black skin
+womanonfire -> zuper: yes i hope you wiwll like my skin
+zuper: (private) I already do.
+womanonfire -> zuper: :)
+#+END_QUOTE
+
+
+
+**** DONE "/skinonskinonskin/ 1999. /Net Art Anthology/, Rhizome
+     CLOSED: [2022-11-30 Wed 10:59]
+https://anthology.rhizome.org/skinonskinonskin 
+"digital love letters" (Rhizome, /Net Art Anthology/) that document a
+romance between net artists Auriea Harvey and Michaël Samyn, who met
+online in 1999.
+
+"In /skinonskinonskin/, artistic collaboration and love are shown to be
+closely related, two facets of the same fundamental question of how to
+relate to the other. The work is a complex portrait of an artistic and
+romantic relationship that shows that online intimacy is as deeply
+felt, embodied, and full of risk and reward as any other form"
+(Rhizome, /Net Art Anthology/)"
+
+Met on hell.com, members only space. Then Michael sent breath.html,
+where "Messages of love are hidden in the code" (Rhizome, /Net Art
+Anthology/). Proceeded to trade small works of net art on the server
+~hell.com/NO/SUCH/PLACE/EXISTS/seasideMOTEL/~. 
+
+"Putting the user in the role of recipient of their love letters, it
+allows one to feel a touch that runs through the wires, from a body
+that doesn’t end at its fingertips" (Rhizome, /Net Art Anthology/).
+
+**** DONE Rindon Johnson, "Re: skinonskinonskin" May 26, 2017
+     CLOSED: [2022-11-30 Wed 14:24]
+https://rhizome.org/editorial/2017/may/26/re-skinonskinonskin/
+
+"as much as they wanted to hear one another’s voices (and they did see
+glimpses of each other via slow glitchy webcam), they wanted more to
+feel a deeper connection with one another, touching one another
+through the cursor, hearing the other’s heart beat, listening to the
+other breathe" (Johnson).
+
+"Each image follows the same pattern, as if to imply “come to me,” or
+“I will come to you,” and upon arrival bliss, over and over."
+(Johnson).
+
+Why did they decide to sell this eventually? Out of some capitalistic
+impulse? 
+
+"Is love meant to be bought and sold? Having been in love myself, I
+know there is a great deal of labor involved. These life-altering
+loves take over your life, steal your time, masquerade as obsession,
+pick you up, knock you down, steal your mind, time. There are the
+tokens to be given and received; the fits of insecurity, infidelity,
+failure, excitement. It’s a lot of work to be in love. To make that
+life-altering preoccupation available to others to witness is another
+added form of work, and since this is a society revolving around
+capitalism, it would make sense for the creators of such a love to
+charge to view the ephemera from it."
+
+"Compulsively, as the now hyper-social, hyper-subjective, hyper-mobile
+web mandates, we share our thoughts, curate them, they’re meant to be
+scrolled through, not sat with, nor read over and over again."
+
+**** DONE Harvey, Aurelia and Michaël Samyn. "Wire­fire: A Complete
+     CLOSED: [2022-11-30 Wed 14:24]
+History of Love in the Wires (parts 17–24)."
+CyPosium 2012. https://www.cyposium.net/selected-presentations/harvey_samyn/#recording
+
+#+BEGIN_QUOTE 
+"He sent me this webpage
+as i moved my mouse, it mirrored the motion of my pointer.
+it breathed.
+i fell in love. he fell in love. 5
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+the content of skinonskinonskin was what it felt like to be in love, inside a
+computer screen.
+to be a human and the only means of touching was with a mouse
+pointer. 6
+#+END_QUOTE
+
+"We eventually let other people see skinonskinonskin. It was a story,
+we felt, worth telling. In a way this was the beginning of our
+autobiographical exhibitionism. Our love affair with performative
+romace" (8). 
+
+Speaking on their new work, an interactive game series called "Tale of
+Tales," where the user takes on a deer avatar in a forest to interact
+with other deer and elements of the forest without text. Harvey says,
+"One need not understand each other to communicate. In fact, keeping
+words away. Not being literal but rather allowing aesthetics and in
+the case of The Forest, body language, to be the communication" (29).
+
+In another game, /Bientôt l’été/: "As it turns out, the entire world
+your avatar lives in is artificial. The other player is real. But they
+are playing on another artificial world, far away from yours. When you
+close your eyes in the game, you get an impression of the computer
+systems that are running this simulation. In a way, /Bientôt l’été/ is
+a metaphor for playing videogames." (32).
+
+Discussion recording:
+https://www.cyposium.net/selected-presentations/discussion-block-1/ 
+
+**** DONE Harvey & Samyn chat, April 12 1999
+     CLOSED: [2022-11-30 Wed 14:24]
+http://entropy8zuper.org/underyourdesk/a+z/chat04-12-99.txt
+
+#+BEGIN_QUOTE
+Au-: i have to start packing tomorrow
+Au-: i have two weeks
+zuper8: :)
+zuper8: two weeks?
+zuper8: what are you angry about?
+Au-: just the arguing
+Au-: having to explain myself
+Au-: it has been far too emotional today
+zuper8: veerle was very angry too... she was actually bossing me around... so i got angry...
+Au- -> zuper8: 1.6fps
+Au- -> zuper8: :)
+Au- -> zuper8: almost realtime
+zuper8: but we both realise now that we need to take one step at the time and let time do its work
+zuper8: still it's sad
+zuper8: (private) almost
+Au-: yes time
+#+END_QUOTE
+
+
+The different levels of communication made possible by technology, but
+technology that is not seamless, is not totally engrossing. Only one
+of them can see the other. 
+
+#+BEGIN_QUOTE
+u- -> zuper8: so good to see you
+zuper8: (private) i wish i could say the same ;p
+Au- -> zuper8: i will fix it up for tomorrow
+zuper8: (private) that would be nice, but let's not cling too much to these digital meetings anymore, they are so frustrating
+zuper8: (private) now
+Au- -> zuper8: yes
+Au- -> zuper8: but sometimes
+zuper8: (private) i wish i could feel you
+zuper8: (private) hold you
+zuper8: (private) close
+Au-: actually i cant do this much anyway
+zuper8: (private) stroke your back
+Au-: ive got alot of work work
+zuper8: (private) smell your hair
+zuper8: (private) kiss your
+zuper8: (private) your
+Au- -> zuper8: o
+zuper8: (private) your
+Au- -> zuper8: oo
+Au- -> zuper8: oooo
+Au- -> zuper8: ooooooooooooooooooooooooo!
+zuper8: i've got a lot of work too
+zuper8: (private) mmmmmmmmmmmmmmmmmmmmmmm!
+Au- -> zuper8: touch
+Au- -> zuper8: 	right,,,,,,, frustrating
+zuper8: (private) shivers
+zuper8: tell me you're mine
+Au- -> zuper8: i'm yours
+Au- -> zuper8: forever 
+zuper8: (private) :) no hesitation
+zuper8: (private) forever
+zuper8: (private) :)
+Au-: we must be good to one another
+zuper8: (private) i love you 
+zuper8: we will be
+Au-: i love you
+#+END_QUOTE 
+
+**** DONE Original site (to see the code)
+     CLOSED: [2022-11-30 Wed 10:56]
+http://entropy8zuper.org/skinonskinonskin/onskin/skintro.html
+
+All the code does is to check for Flash, which is discontinued. So it
+cannot work.
+
+**** TODO auriea.org http://auriea.org/skinonskinonskin
+
+The internet browser that allowed them to communicate across
+platforms. 
+"Whispers to each other left in the source code." 
+#+BEGIN_QUOTE
+There will always be a special place in my heart for Netscape 4. In 1999 it was the only browser that was the same on a Mac and on Windows. I was on a Mac he was on Windows. One morning after a night when we met, online, in the wires. I open my mail to find a link to a page “breath.html”
+Do artists and designers still work somewhere in secret... come together in clandestine meetings on locked servers? Whispers to each other left in the source code?
+#+END_QUOTE
 
 *** dissertations
 **** TODO Bury, L. (2011). Exercises in criticism: The theory and practice
 of literary constraint 
-
 *** black feminisms and qocq
-**** Lorde, Audre. "Uses of the erotic: the erotic as power." Sister Outsider (1984), pp. 53-59. 
+**** Lorde, Audre. "Uses of the erotic: the erotic as power." Sister
+Outsider (1984), pp. 53-59.
+
 
 Need to reclaim the erotic as a source of power, empowerment through
 desire and joy. 
@@ -85,7 +628,8 @@ as a way of forming new ethical connections (we’ve seen this in
 Brown’s Black Utopias). This is very smart, and it’s in keeping with
 structures of thought from black lesbian feminists.
 
-**** Snorton, C. Riley. Black on both sides: A racial history of trans
+**** DONE Snorton, C. Riley. Black on both sides: A racial history of trans
+     CLOSED: [2022-11-02 Wed 13:53]
 identity. U of Minnesota Press, 2017.
 
 Looking at the black flesh that has been used to denigrate as a tool
@@ -192,7 +736,9 @@ that continually produce black and trans death" (Snorton 195).
 
 Her method is to read into the details of the archival record....
 
-**** Jackson, Zakiyyah Iman. /Becoming human: Matter and meaning in an antiblack world/. NYU Press, 2020.
+**** TODO Jackson, Zakiyyah Iman. /Becoming human: Matter and meaning
+in an antiblack world/. NYU Press, 2020.
+
 
 There seems to be this move in Black/AfAm Studies that’s drawing on
 newer ideas in Materialisms and the Philosophy of Science to overturn
@@ -222,7 +768,8 @@ arising from symbiosis between a variety of bodies and species. In
 also claims that Butler doesn’t idealize symbiosis, but instead looks
 at how conditions of unequal power can make it problematic.
 
-**** TODO Musser, Amber. /Sensual Excess/
+**** DONE Musser, Amber. /Sensual Excess/
+     CLOSED: [2022-11-02 Wed 13:52]
 Sexuality/desire cannot be severed from domination. The pornotrope
 (from Hotense Spillers): severing the body from social network,
 gender, etc. Makes the body just flesh. And also mysterious, and
@@ -270,7 +817,9 @@ not outside of objectification, but its embellishment and insistence
 on the trace of excitement speaks to the centrality of pleasure in
 theorizations of self-love." (63).
 
-**** TODO Brown, Jayna. Black Utopias: Speculative Life and the Music of Other Worlds. Duke University Press, 2021. JSTOR, https://doi.org/10.2307/j.ctv1dgmm37. Accessed 8 Jul. 2022.
+**** TODO Brown, Jayna. Black Utopias: Speculative Life and the Music
+of Other Worlds. Duke University Press, 2021. JSTOR, https://doi.org/10.2307/j.ctv1dgmm37. Accessed 8 Jul. 2022.
+
 
 Brown points out in Bulter the tension between what in our human
 nature allows us to transcend our species and what prevents us from
@@ -386,18 +935,233 @@ We don’t normally easily imagine the male submission, even though it’s
 a repressed trauma--- “testeria”: the complicated relationship of
 control and desire.
 
-**** TODO Horton Stallings. 
+**** DONE Horton Stallings. 
+     CLOSED: [2022-11-02 Wed 13:53]
 *** media studies and archaeology
-**** "Black Code" issue of /The Black Scholar/
+**** Chun, Wendy Hui Kyong. Programmed visions: Software and
+memory. Mit Press, 2011.
+**** DONE Barad, Karen. /On Touching – The Inhuman That Therefore I Am
+     CLOSED: [2022-11-11 Fri 11:24]
+(v1.1)/. differences 1 December 2012; 23 (3): 206–223. doi:
+https://doi.org/10.1215/10407391-1892943
+
+Joins feminist science studies with feminist and postcolonial theories
+to explore how touch as a physical theoretical concept opens up an
+queer ethical dimension. Touch is not direct contact, but it is
+imbrication, involvement, with everything and especially with the
+stranger. 
+
+Purpose in part to "trouble the notion of touch as an innocent form of
+engagement... toubling its positioning in the history of philosophy as
+a mutually consenting act between individuals, free of culture,
+history, and politics" (Barad, footnote 2, p. 153). 
+
+To reframe physics as a study of touch /torques/ traditional
+physics. Measurement as a form of touching, for example.
+
+#+BEGIN_QUOTE 
+In an important sense, touch is the primary concern of physics. Its
+entire history can be understood as a struggle to articulate what
+touch entails. How do particles sense one another? Through direct
+contact, an ether, action-at-a-distance forces, fields, the exchange
+of virtual particles? What does the exchange of energy entail? How is
+a change in motion effected? What is pressure? What is temperature?
+How does the eye see? How do lenses work? What are the different kinds
+of forces that particles experience? How many kinds are there? What is
+the nature of measurement?8 Once you start looking at it this way, you
+get a dizzying feeling as things shift. This particular take on
+physics, and its history, entails a torquing, a perturbation from the
+usual storylines. 155
+#+END_QUOTE
+
+From a physics point of view, touch is "electromagnetic interaction"
+(155). Does not involve actual touching, contact between two things,
+but the repulsion, "electromagnetic repulsion," the force of repulsion
+between electrons at the perimeters of atoms, which are negatively
+charged, "cannot bear direct contact" (156). 
+ 
+This "quantum theory of touching...." that "repulsion is at the core
+of attraction... is radically queer" (156). 
+- Quantum physics is queer in that electrons touch themselves when
+  they're not supposed to. They release and reabsorb photons
+  arbitrarily. They do not act in ways we expect them to.
+- there are "an infinite set of possibilities involving every possible
+  kind of interaction with every possible kind of virtual particle it
+  can interact with" (158).
+- "Hence, self-touching is an encounter with the infinite alterity of
+  the self. Matter is an enfolding, an involution, it cannot help
+  touching itself, and in this self-touching it comes in contact with
+  the infinite alterity that it is." (158).
+- "all of matter, matter in its “essence” (of course, that is
+  precisely what is being troubled here), is a massive overlaying of
+  perversities: an infinity of infinities" (159).
+
+Physicists often work as if these infinities cancel each other
+out. What Barad calls a process of "renormalization": 
+#+BEGIN_QUOTE
+Renormalisation is the mathematical handling/taming of these
+infinities. That is, the infinities are “subtracted” from one another,
+yielding a finite answer.18 Mathematically speaking, this is a tour de
+force. Conceptually, it is a queer theorist’s delight. It shows that
+all of matter, matter in its “essence” (of course, that is precisely
+what is being troubled here), is a massive overlaying of perversities:
+an infinity of infinities. 159
+#+END_QUOTE
+
+Touch is touching the strange, the inhuman. It is a connection with
+everything:
+-  "All touching entails an infinite alterity, so that touching the
+  other is touching all others, including the “self,” and touching the
+  “self” entails touching the strangers within" (160).
+
+#+BEGIN_QUOTE 
+what would it mean to acknowledge that responsibility extends to the
+insensible as well as the sensible, and that we are always already
+opened up to the other from the “inside” as well as the “outside”? How
+might we come in contact with or least touch upon an ethics that is
+alive to the virtual? This would seem to require, at the very least,
+being in touch with the infinite in/determinacy at the heart of
+matter, the abundance of nothingness, the infinitude of the void and
+its in/determinate murmurings, the muted cries, and silence that
+speaks of the possibilities of justice-to-come.
+#+END_QUOTE
+
+The "inhuman... may be the very condition of possibility of feeling
+the suffering of the other, of literally being in touch with the
+other, of feeling the exchange of e-motion in the binding obligations
+of entanglements" (164). 
+
+**** DONE Blanchette, J.-F. (2011), A material history of
+     CLOSED: [2022-11-14 Mon 09:29]
+bits. J. Am. Soc. Inf. Sci., 62:
+1042-1057. https://doi.org/10.1002/asi.21542
+
+Like Kirschenbaum, works to demystify the "trope of immateriality"
+that governs theorizing around digital media (1044). 
+
+Bits are both logical and material and create real constraints on
+computing systems. There is a trade-off between two opposing forces:
+abstraction (modularity and layering) and computing efficiency. We
+create higher order structures (like programming languages) so that we
+can work better with them, but this higher order requires more
+computational power. Like python, which needs a compiler to run, as
+opppsed to C++ or Assembly.
+- "in abstracting from the noise that different materials bring to the
+  digital abstraction, from specific implementations of physical
+  resources, from their distribution in space, and from their sharing
+  among multiple users, such decoupling necessarily involve efficiency
+  trade-offs."  (1054).
+- "This is the classical dilemma of high-level programming languages:
+  the more a language’s constructs abstract away from the underlying
+  physical machine, the less efficient the resulting code tends to be"
+  (1046).
+
+cites Hayles on her study of how information lost its body. 
+
+cites Kirschenbaum (and figures in the field of descriptive
+bibliography) as one of the first to delve into the material history
+of computation: "The task then is to map how the particular material
+condition of electronic media makes possible or impossible new
+potentialities for reading" (1044).
+- Kirschenbaum has two things to say about "formal
+  materiality". First, the point on "how computers’ ability to
+  continually perform error-correction enables them to present digital
+  information as 'noiseless,'" the second "points to file formats and
+  the structuration they impose on digital data as powerful
+  constraints on mutability of bits—-for example, in the case of JPEG
+  images, different levels of compression result in images
+  perceptually indistinguishable, but from which some information has
+  been irretrievably lost" (1045).
+
+
+**** TODO Drucker, Johanna. "Performative Materiality and Theoretical
+Approaches to Interface." /DHQ: Digital Humanities Quarterly/. 2013,
+Vol. 7 Issue 1.
+
+**** TODO "Black Code" issue of /The Black Scholar/
 https://www.theblackscholar.org/now-available-black-code/
-**** Kirschenbaum, Matt /Mechansims/, 2008
+**** TODO Montfort, Nick, and Ian Bogost. Racing the beam: The Atari
+video computer system. Mit Press, 2020.
+
+**** DONE Kirschenbaum, Matt /Mechansims/, 2008
+     CLOSED: [2022-11-14 Mon 09:29]
 **** Whitney Trettien. /Cut/Copy/Paste/ https://www.upress.umn.edu/book-division/books/cut-copy-paste. 
 **** Lori Emerson. /Reading Writing Interfaces/
-**** Jussi Parikka. /What Is Media Archaeology?/
+**** TODO Jussi Parikka. /What Is Media Archaeology?/
 **** Kara Keeling. /Queer Times, Black Futures/ NYU Press,
 https://nyupress.org/9780814748336/queer-times-black-futures.
-**** Maher, /The Future was Here/
+**** TODO Maher, /The Future was Here/
+**** TODO Hayles, Katherine. *How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics*, 2000.
+- When did information lose its body, and how is this tied to the
+  liberalization of the human subject?
+- Hayles is concerned that scientific discourses about technology
+  overlook the role of the body and embodiment in thinking. She wants
+  to bring back feeling. Thought needs a body.
+    - The Turing test, for example, indicates one place where humans
+      conceive of informaiton (or intelligence) as separate from
+      embodiment. The inclusion of gender in the test suggests that
+      the question is about represented, rather than enacted,
+      intelligence. The assumptions behind this test suggest that we
+      are already posthuman.
+    - The concept of the Posthuman extends assumptions from liberal
+      humanism: rationality is prioritized, the head controls the
+      body. A rational mind that possesses a body becomes intelligence
+      (information) that inhabits a body or container.
+- She examines the waves of cybernetic development, in particular the
+  Macy conferences where scientists and philosophers discussed
+  development of information and communication theory. Throughout
+  these waves of cybernetic development, from homeostasis (the body is
+  a regulating system), to reflexivity (the observer is part of the
+  system), and virtuality (information makes information, emergence),
+  Hayles finds that the body becomes more and more displaced.
+- Hayles's idea of flickering signifiers show how inscription and
+  materiality are further elided. What happens to words when we see
+  them as constantly refreshed and moveable on a screen? They attain
+  a fluidity and volatility that goes beyond the floating signifier,
+  beyond semiotics. This flickering wouldn't be possible if they were
+  in hard copy.
 
+**** TODO Hayles, N. Katherine. *Writing Machines*, 2002. PDF.
+- Remediation --- the idea that media is re-conceived or re-written
+  for electronic formats. The “recycling” of different media formats
+  through electronic media (Bolter and Grusin).
+- Technotexts are literary works that self-reflexively engage with
+  their own inscription practices. They explore how many levels of
+  text entwine with bodies, a distributed cognitive environment in
+  which reading takes place.
+- How mediation affects subjectivity, how the interaction between
+  physical and verbal forms construct meaning and therefore, the
+  user/reader.
+- In *House of Leaves*, the remediated narrator evacuates
+  consciousness as the source of production and replaces it with
+  mediated subjectivities. “Consciousness is no longer the relevant
+  frame but rather consciousness fused with technologies of
+  inscription” (116-117).
+
+**** TODO Hayles, Katherine N. *Cognitive Unconscious*, 2017. 
+- Hayles proposes a "planetary cognitive ecology" extends the focus of
+  ethical inquiry from humans to machines that operate with humans
+  within larger "cognitive assemblages." Distinguishes cognition by
+  interpretation or choice, rather than free will. This allows her to
+  include machines in discussions about ethics.
+- Cognition involves more than what we consciously recognize, and more
+  than the unconscious. It is "unthought", or thinking without
+  thinking, being in the eternal present and eluding the belated grasp
+  of consciousness.
+    - There are three layers to consciousness: higher consciousness
+      (abstraction), nonconscious cognition (interpretation and
+      choice), material processes (storms). Nonconscious cognition is
+      inaccessible to our awareness, like neuronal processing,
+      synthesizing sensory inputs so they appear consistent across
+      time and space, finding patterns in chaos, keeping our
+      consciousness from being overwhelmed.  --> there are N
+      Dimensions for reading a page.
+- Our cognition also operates with other technical systems to form
+  "cognitive assemblages"---human technical interactions that operate
+  collectively, in automated technical systems, for example. Often
+  consist of low level processors or sensors which are connected to
+  higher level processors that draw inferences or take actions /
+  decisions. Like the traffic control in LA.
 *** Butler's /Dawn/ reading notes
 **** Dunkley, Kitty. “Becoming Posthuman: The Sexualized, Racialized,
 and Naturalized Others of Octavia E. Butler’s Lilith’s Brood," The
@@ -470,7 +1234,6 @@ Use of the Erotic in the Xenogenesis Trilogy.” Utopian Studies,
 vol. 19, no. 3, 2008, pp. 369–89. JSTOR,
 http://www.jstor.org/stable/20719917.
 
-
 **** TODO Jesser, Nancy. "Blood, Genes and Gender in Octavia Butler's
 Kindred and Dawn." Extrapolation (Pre-2012), vol. 43, no. 1, 2002,
 pp. 36-61. 
@@ -490,9 +1253,6 @@ pp. 45–76
 **** TODO Burnett, Joshua Yu. "Troubling Issues of Consent in /Dawn/,"
 M. Japtok, J. R. Jenkins (eds.), /Human Contradictions in Octavia
 E. Butler’s Work/, https://doi.org/10.1007/978-3-030-46625-1_7
-
-
-
 
 ** revisions
 *** first half october 2022
@@ -716,6 +1476,220 @@ Potential connection to media archaeology: the way that the immaterial
 level (what we cannot see or touch) influences the formal level. How
 the immaterial enables a continuous sensorium, an ecosystem of
 interconnection. 
+
+*** formal materiality
+We need an attention to materiality that allows us to trace formal
+materiality up the stack and in surface effects. 
+- Hayles and Kirschenbaum enable us to deconstruct how what we think
+  is immaterial is actually embodied/inscripted. 
+- First, to understand, as Hayles explains, that "information loses
+  its body" and see how this perpetuates liberal humanist reductions
+  of the subject. Hayles frames this within a discussion of the
+  posthuman.
+- Second, to examine K's concept of formal formal materiality, where
+  abstraction engages manipulation and sensuality, the shifting of
+  registers. 
+- K's torque enables us to read sensuality into Hayles's concept of
+  flickering signifiers.
+
+**** Hayles
+Hayles on the feminist perspective of technological materiality,
+bringing the body into technology. 
+ 
+***** how information lost its body (/Posthuman/). 
+- information "losing its body" is tied to liberal humanist
+  ideology which imposes dominance systems for subjugating
+  embodied difference. 
+- throughout cybernetic development, the body becomes more and
+  more displaced. Liberal humanism (natural self) ->  Posthumanism
+  (cyborg/cybernetic). Rational mind possessing a body ->
+  intelligence in informational patterns, inhabiting a body. Free
+  will & agency -> cannot distinguish one will from another.
+
+A dialectic of information as "pattern/randomness" is taking over, or
+working in tandem with, "absence/presence" to dominate cultural views
+about informatics and technology. 
+
+"I believe that our best hope is to intervene constructively in this
+development is to put an interpretive spin on it that opens up the
+possibilities of seeing pattern and presence as complimentary rather
+than antagonistic. Information, like humaninity, cannot exist apart
+from embodiment that brings it into being as a material entity in the
+world; and embodiment is always instantiated, local, and specific"
+("Virtual Bodies and Flickering Signifiers", 1993, 91).
+
+***** flickering signifiers elide materiality 
+The privileging of pattern/randomness over presence/absence in
+contemporary sci fi and scientific conceptions of
+intelligence/information leads to a systematic *devaluation of
+materiality and embodiment* ("Virtual Bodies and Flickering
+Signifiers", 1993, 91). Information becomes a series of codes
+interspersed with randomness/mutations, rather than something that is
+present or absent.
+
+- Posthumanist conceptions extend poststructuralist ideas about
+  signification. 
+    - "Carrying the instabilities implicit in Lacanian floating
+      signifiers one step further, information technologies create
+      what I will call /flickering signifiers/, characterized by their
+      tendency toward unexpected metamorphoses, attenuations, and
+      dispersions" ("Virtual Bodies and Flickering Signifiers", 1993,
+      76).
+
+    - Derrida, announcing the advent of grammatology, focused on the
+      gap that separates speaking from writing; such a change
+      transforms the narrator from speaker to scribe, or more
+      precisely an absence toward which the inscriptions
+      point. Informatics pushes this transformation further. As
+      writing yields to flickering signifiers underwritten by binary
+      digits, the narrator becomes not so much a scribe as a cyborg
+      authorized to access the relevant codes" ("Virtual Bodies and
+      Flickering Signifiers", 1993, 87). 
+
+    - "When a text presents itself as a constantly refreshed image
+      rather than durable inscription, transformations would occur
+      that would be unthinkable if matter or energy, rather than
+      informational patterns, formed the primary basis for the
+      systemic exchanges. This textual fluidity, which humans learn in
+      their bodies as they interact with the system, imply that
+      signifiers flicker rather than float" (30). 
+
+    - "In informatics the signifier can no longer be understood as a
+      single marker, for example an ink mark on a page. Rather it
+      exists as a flexible chain of markers bound together by the
+      arbitrary relations specified by the relevant codes. As I write
+      these words on my computer, I see the lights on the video
+      screen, but for the computer the relevant signifiers are
+      magnetic tracks on disks. Intervening between what I see and
+      what the computer reads are the machine code that correlates
+      alphanumeric symbols with binary digits, the compiler language
+      that correlates these symbols with higher-level instructions
+      determining how the symbols are to be manipulated, the
+      processing program that mediates between these instructions and
+      the commands I give the computer, and so forth. A signifier on
+      one level becomes a signified on the next higher
+      level. Precisely because the relation between signifier and
+      signified at each of these levels is arbitrary, it can be
+      changed with a single global command" ("Virtual Bodies and
+      Flickering Signifiers", 1993, 77).
+
+    - "/Patchwork Girl/ demonstrates that despite such important
+      critical developments as deconstruction and Lacanian theory, we
+      continue to operate from assumptions that are grounded in print
+      technologies and that become problematic in the context of
+      digital media. Why do we talk and write incessantly about the
+      'text,' a term that obscures differences between technologies of
+      production and implicitly promotes the work as an immaterial
+      construct? Why do we continue to talk about the signifier as if
+      it were a flat mark with no internal structure, when the coding
+      chains of the digital computer operate in a completely different
+      fashion? Why do our discussions of reading and writing largely
+      focus on the author and reader, ignoring the cognitively
+      sophisticated actions of intelligent machines that are active
+      participants in the construction of meaning?" ("Flickering
+      connectivities in Shelley Jackson's Patchwork Girl: the
+      Importance of Media-Specific Analysis," 2000, par. 57)
+
+***** reading "technotexts" to resist immaterialization
+- "technotexts" - "literary works that self-reflexively engage with
+  their own inscription technologies and integrate semiotic elements
+  such as kineticism and navigational structures", "mobilizing
+  reflexive loops between its imaginative world and the material
+  apparatus embodying that creation as a fictional presence" (25).
+  How digital levels of texts entwine with bodies, creating
+  "distributed cognitive environment".
+- "the materiality of inscription thoroughly interpenetrates the
+  represented world" (Hayles /Writing/ 131).
+- REMEDIATED NARRATOR: "a literary invention foregrounding a
+  proliferation of inscription technologies that evacuate
+  consciousness as the source of production and recover in its place a
+  mediated subjectivity that cannot be conceived as an independent
+  entity (116-117)
+- MINDBODY: "When the simulated environment takes literary and
+  narrative form, potent possibilities arise for reflexive loops that
+  present the user with an imaginative fictional world while
+  simultaneously engaging her with a range of sensory inputs that
+  structure bodily interactions to reinforce, resist, or otherwise
+  interact with the cognitive creation of the imagined world. The
+  MINDBODY is engaged, not merely mind or body alone" (48).
+- ILLEGIBILITY: in /Lexia to Perplexia/, moves toward a creole devised
+  from the merging of English with programming code.
+    - illegibility "reminds us that the computer is also a writer, and
+      moreover a writer whose operations we cannot wholly grasp in all
+      their semiotic complexity. Illegibility is not simply a lack of
+      meaning, then, but a signifier of distributed cognitive
+      processes that construct reading as an active production of a
+      cybernetic circuit and not merely as an internal activity of the
+      human mind" (51).
+    - "the occluded display signifies a trajectory in which we become
+      part of a cybernetic circuit. Interpolated into the circuit, we
+      metamorphose from individual interiorized subjectivities to
+      actors exercising agency within the extended cognitive systems
+      that include non-human actors." (51)
+
+***** material cognition, interpretation & choice --> decision trees
+- Distinguishes cognition by interpretation or choice, rather than
+  free will. This allows her to include machines in discussions about
+  ethics.
+- Cognition involves more than what we consciously recognize, and more
+  than the unconscious. It is "unthought", or thinking without
+  thinking, being in the eternal present and eluding the belated grasp
+  of consciousness.
+    - There are three layers to consciousness: higher consciousness
+      (abstraction), nonconscious cognition (interpretation and
+      choice), material processes (storms). Nonconscious cognition is
+      inaccessible to our awareness, like neuronal processing,
+      synthesizing sensory inputs so they appear consistent across
+      time and space, finding patterns in chaos, keeping our
+      consciousness from being overwhelmed.  --> there are N
+      Dimensions for reading a page.
+- Hayles proposes a "planetary cognitive ecology" extends the focus of
+  ethical inquiry from humans to machines that operate with humans
+  within larger "cognitive assemblages." Human technical interactions
+  that operate collectively, in automated technical systems, for
+  example. Often consist of low level processors or sensors which are
+  connected to higher level processors that draw inferences or take
+  actions / decisions. Like the traffic control in LA.
+
+- how all systems contain unconscious thought
+    - Could Hayles's thinking about the levels of cognition offer us
+      an insight into thinking about the sexual interface in /Dawn/?
+      There are levels where we are conscious, and there are levels of
+      unconscious. Could these then be mapped to levels of materiality
+      in digital media?
+
+***** turing test (like performativity) presents gender as formal construction
+
+- "the enacted and represented bodies are brought into conjunction
+  through the technology that connects them. If you distinguish
+  correctly which is the man and which the woman, you in effect reunite
+  the enacted and the represented bodies into a single gender
+  identity. The very existence of the text, however, implies that you
+  might also make the wrong choice. Thus the test functions to create
+  the possibility of a disjunction between the enacted and represented
+  bodies, regardless of the choice you make. What the Turing test
+  "proves" is that the overlay between the enacted and represented
+  bodies is no longer a natural inevitability but a contingent
+  production, mediated by a technology that has become so entwined with
+  the production of identity that it can no longer meaningfully be
+  separated from the human subject" (/Posthuman/ xiii).
+- "the test puts you into a cybernetic circuit that splices your will,
+  desire, and perception into a distributed cognitive system in which
+  represented bodies are joined with enacted bodies through mutating
+  and flexible machine interfaces" (/Posthuman/ xiv).
+
+But the imitation game isn't about proving who or what can think. It's
+about proving that intelligence can be performed. Turing doesn't erase
+embodiment, he avoids it. He purposefully made the test to gauge
+performance, representation, because he admits that it's easier than
+establishing criteria for genuine intelligence. The "imitation game"
+is precisely about proving that performance can simulate the real
+thing, perhaps at some level, that performance /is/ the real
+thing. Which is what Butler argues with Gender Performativity, the
+inaugural moment of queer studies. 
+
+
+
 
 ** BANK/ UNUSED
 *** resisting violence in the archive: Snorton, Hartman

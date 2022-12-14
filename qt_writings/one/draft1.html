@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2022-07-05 Tue 15:14 -->
+<!-- 2022-12-08 Thu 16:42 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>&lrm;</title>
@@ -233,41 +233,56 @@ for the JavaScript code in this tag.
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#org88c78dc">1. one</a>
+<li><a href="#org756ad77">1. one</a>
 <ul>
-<li><a href="#org9fdd11a">1.1. chapter summary</a></li>
-<li><a href="#org7b42403">1.2. intro</a></li>
-<li><a href="#org73c447e">1.3. the fantasy of the falsifiable</a></li>
-<li><a href="#org29846d6">1.4. NLTK, Gender Trouble, Orlando</a>
+<li><a href="#org4e05b68">1.1. chapter summary</a>
 <ul>
-<li><a href="#orgd203f80">1.4.1. Python and NLTK</a></li>
-<li><a href="#org923ad4a">1.4.2. Butler and Gender Performativity</a></li>
-<li><a href="#org6d75d5b">1.4.3. Woolf's <i>Orlando</i></a></li>
+<li><a href="#org2e3b962">1.1.1. intro</a></li>
 </ul>
 </li>
-<li><a href="#org84b6783">1.5. Queer Distant Reading</a></li>
-<li><a href="#orgcce9d01">1.6. etc</a>
+<li><a href="#org4384f5d">1.2. the fantasy of the falsifiable</a>
 <ul>
-<li><a href="#orgc74fe0e">1.6.1. Klein's Image of Absence</a></li>
-<li><a href="#orgd4cb488">1.6.2. gio on voyant / nltk</a></li>
-<li><a href="#org309fd40">1.6.3. so this has been done before</a></li>
+<li><a href="#orga07547c">1.2.1. <span class="todo TODO">TODO</span> streamline problem of scale to falsifiability</a></li>
+<li><a href="#org58b0f6c">1.2.2. <span class="todo TODO">TODO</span> add to Ramasy's critique? whats the point here? recursivity?</a></li>
+<li><a href="#orgf367816">1.2.3. <span class="todo TODO">TODO</span> reinforce/reframe w/r/t/ reproducibility</a></li>
+</ul>
+</li>
+<li><a href="#orgd267e25">1.3. iteration</a>
+<ul>
+<li><a href="#org3d61cd9">1.3.1. Butler and Gender Performativity</a></li>
+<li><a href="#org78fad44">1.3.2. Python and NLTK</a></li>
+<li><a href="#orgb6668be">1.3.3. <span class="todo TODO">TODO</span> How should I proceed here?</a></li>
+<li><a href="#orga7b22ee">1.3.4. <span class="todo TODO">TODO</span> word embeddings (machine learning)</a></li>
+</ul>
+</li>
+<li><a href="#orgba1b557">1.4. queer distant reading</a>
+<ul>
+<li><a href="#org123a1e5">1.4.1. Woolf's <i>Orlando</i></a></li>
+<li><a href="#org17ac5f3">1.4.2. Queer distant reading</a></li>
+</ul>
+</li>
+<li><a href="#org966d8c5">1.5. etc</a>
+<ul>
+<li><a href="#orgfa660c4">1.5.1. Klein's Image of Absence</a></li>
+<li><a href="#org6b669b8">1.5.2. gio on voyant / nltk</a></li>
+<li><a href="#orge76d32e">1.5.3. so this has been done before</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#orgc4153f1">2. more sources</a></li>
-<li><a href="#orga7a4e7f">3. commands</a></li>
-<li><a href="#org995efda">4. Works Cited</a></li>
+<li><a href="#orgd92b99e">2. more sources</a></li>
+<li><a href="#org9eeaade">3. commands</a></li>
+<li><a href="#orgcead967">4. Works Cited</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org88c78dc" class="outline-2">
-<h2 id="org88c78dc"><span class="section-number-2">1</span> one</h2>
+<div id="outline-container-org756ad77" class="outline-2">
+<h2 id="org756ad77"><span class="section-number-2">1</span> one</h2>
 <div class="outline-text-2" id="text-1">
 </div>
 
-<div id="outline-container-org9fdd11a" class="outline-3">
-<h3 id="org9fdd11a"><span class="section-number-3">1.1</span> chapter summary</h3>
+<div id="outline-container-org4e05b68" class="outline-3">
+<h3 id="org4e05b68"><span class="section-number-3">1.1</span> chapter summary</h3>
 <div class="outline-text-3" id="text-1-1">
 <p>
 The burden of this chapter is to describe how to do text analysis, or
@@ -287,31 +302,39 @@ categories. My own method of text analysis draws from these
 deconstructive approaches to create a new way for understanding gender
 ontolgies in quantitative form. For the middle portion of the chapter,
 I draw connections between computer programming and gender
-theory. First, I delve into python programming, focusing on the
-structure of the <code>for loop</code> and processes for cleaning and
-regularizing text, with the goal of bringing out the recursive quality
-of running python code. Then, I dip into Judith Butler's concept of
-gender performativity, which lends an understanding to the ways that
-critical processes can subvert dominant structures through iteration,
-or what she calls "performative citation." To wrap up this section, I
-do a close-reading of my source text, Woolf's <i>Orlando</i>, to examine
-the ways that gender is closely coordinated with the significatory
-power of language throughout the novel. In the final section of the
-chapter, I apply Butler's notion of displacement through repetition in
-gender performativity back to text analysis to illustrate how the
-iterative process of analyzing text can surface new textual structures
-that re-signify certain elements of that text. The chapter ends with
-my text analysis of gender in <i>Orlando</i> to demonstrate how the terms
-"man" and "woman" in that text are re-signified from their initial
-binary structure into a plural understanding.
+theory. This chapter looks to moments where computational processes
+collapse or evacuate the nuances of gender, sex, and sexuality in
+literary text. Such moments engage what I call the "reproducible"
+methodologies in current distant reading scholarship, which largely
+analyzes gender in text as a binary system and reproduces this
+assumption in their results. To resist such methods, I explore how
+distant reading practices might borrow from the "iterativity" of
+gender theory in Queer Studies. Here, I take Judith Butler’s concept
+of gender performativity as a basis for modeling a new approach that
+uses text analysis to deepen the study of gender in <i>Orlando</i>.First, I
+delve into python programming, focusing on the structure of the <code>for
+loop</code> and processes for cleaning and regularizing text, with the goal
+of bringing out the recursive quality of running python code. Then, I
+dip into Judith Butler's concept of gender performativity, which lends
+an understanding to the ways that critical processes can subvert
+dominant structures through iteration, or what she calls "performative
+citation." The chapter ends with my text analysis of gender in
+<i>Orlando</i> to demonstrate how the terms "man" and "woman" in that text
+are re-signified from their initial binary structure into a plural
+understanding. Here, I ground a distant reading of Woolf's text in
+close-reading to examine the ways that gender is represented as a
+problem of signification. Here, I apply Butler's notion of
+displacement through repetition in gender performativity back to text
+analysis to illustrate how the iterative process of analyzing text can
+surface new textual structures that re-signify certain elements of
+that text.
 </p>
 </div>
-</div>
 
 
-<div id="outline-container-org7b42403" class="outline-3">
-<h3 id="org7b42403"><span class="section-number-3">1.2</span> intro</h3>
-<div class="outline-text-3" id="text-1-2">
+<div id="outline-container-org2e3b962" class="outline-4">
+<h4 id="org2e3b962"><span class="section-number-4">1.1.1</span> intro</h4>
+<div class="outline-text-4" id="text-1-1-1">
 <p>
 The novel <i>Orlando: A Biography</i> (1928), by Virginia Woolf, famously
 opens with an assertive gender designation followed by an immediate
@@ -321,25 +344,22 @@ slicing at the head of a Moor which swung from the rafters” (11). When
 performing quantitative text analysis on this text, the standard tasks
 of “pre-processing” the text evacuate the ways that gender is
 unsettled in this sentence. In order to computationally analyze a
-text, a process known as “distant reading” or “text mining” which
-involves calculating, generating, and visualizing textual patterns,
-the text must first be transformed into a computable format. This task
-of pre-processing (also called “cleaning” or “normalizing”) strips the
-original text of capitalized words, punctuation, “stop words” (such as
-articles and prepositions), and inflections in word endings, all of
-which are deemed to be semantically minor, in order to make the text
-amenable to quantitative analysis. After pre-processing Orlando, the
-following list of computable words, or “tokens,” remains in the first
-sentence: 
+text, a process known as “distant reading” which involves calculating
+and visualizing textual patterns, the text must first be transformed
+into a computable format. This task of pre-processing (also called
+“cleaning” or “normalizing”) strips the original text of capitalized
+words, punctuation, “stop words” (such as articles and prepositions),
+and inflections in word endings, all of which are deemed to be
+semantically minor, in order to make the text amenable to quantitative
+analysis. After pre-processing Orlando, the following list of
+computable words, or “tokens,” remains in the first sentence:
 </p>
-<div class="SOURCE">
+<blockquote>
 <p>
-‘could’, ‘doubt’, ‘sex’, ‘though’, ‘fashion’, ‘time’,
-‘something’, ‘disguise’, ‘act’, ‘slicing’, ‘head’, ‘moor’, ‘swung’,
-‘rafter’.  
+‘could’, ‘doubt’, ‘sex’, ‘though’, ‘fashion’, ‘time’, ‘something’,
+‘disguise’, ‘act’, ‘slicing’, ‘head’, ‘moor’, ‘swung’, ‘rafter’.
 </p>
-
-</div>
+</blockquote>
 <p>
 Cleaning this text not only strips it of its pronouns, including the
 gender assertion in the first word, “He.” It also cuts the em dash
@@ -351,51 +371,50 @@ there could be no doubt of his sex…."
 <p>
 This chapter examines how quantitative text analysis works with
 gender, using Woolf's <i>Orlando</i> as a test case. Text analysis borrows
-from quantitative methods in the social sciences to do analyses like
-topic modelling, sentiment analysis, and logistic regression, which
-involve tasks for identifying textual patterns, classifying textual
-elements and semantic structures, and calculating probabilities across
-text-based datasets. Though these methods differ in important ways,
-they share a faith in using the speed of computation, which can
-process very precise elements like word frequency or syntactic
-patterns, to analyze large collections of textual data. This chapter
-looks to moments where computational processes collapse or evacuate
-the nuances of gender, sex, and sexuality in literary text. Such
-moments engage what I call the "reproducible" methodologies in current
-distant reading scholarship, which largely analyzes gender in text as
-a binary system and reproduces this assumption in their results. To
-resist such methods, I explore how distant reading practices might
-borrow from the "iterativity" of gender theory in Queer Studies. Here,
-I take Judith Butler’s concept of gender performativity as a basis for
-modeling a new approach that uses text analysis to deepen the study of
-gender in <i>Orlando</i>.
+from natural language processing methods to do analyses like topic
+modelling and sentiment analysis and machine learning methods like
+logistic regression and word embeddings (discussed below), which
+involves counting, classifying, and predicting textual
+patterns. Though these methods differ in important ways, they share a
+faith in using the speed of computation, which can process very
+precise elements like word frequency or syntactic patterns, to analyze
+large collections of textual data.
 </p>
 </div>
 </div>
+</div>
 
 
-<div id="outline-container-org73c447e" class="outline-3">
-<h3 id="org73c447e"><span class="section-number-3">1.3</span> the fantasy of the falsifiable</h3>
-<div class="outline-text-3" id="text-1-3">
+<div id="outline-container-org4384f5d" class="outline-3">
+<h3 id="org4384f5d"><span class="section-number-3">1.2</span> the fantasy of the falsifiable</h3>
+<div class="outline-text-3" id="text-1-2">
+</div>
+<div id="outline-container-orga07547c" class="outline-4">
+<h4 id="orga07547c"><span class="section-number-4">1.2.1</span> <span class="todo TODO">TODO</span> streamline problem of scale to falsifiability</h4>
+<div class="outline-text-4" id="text-1-2-1">
 <p>
 Because computers can process hundreds of texts at a time, "reading"
 at much faster rates than humans, they offer critics an opportunity
 for solving the problem of literary scale. This opportunity attracts
-literary critics like Franco Moretti, Ted Underwood, among others, who
-pose ambitious questions about literary history. According to Moretti,
-the process of quantification involves steps that reduce or abstract
-textual elements into computable form in ways that open the potential
-for analysis: "fewer elements, hence a sharper sense of their overall
-interconnection" (<i>Graphs</i> 1). <sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup> Moretti, who is largely
-responsible for popularizing the practice of "distant reading" in
-English Studies contexts, explores how social and economic forces
-impacts literary form in the development of the modern novel. His
-purview extends to thousands of texts from about 1750 to the present
-day&#x2013;a database that would otherwise be too large and unweildy to
-analyze though non-digital means. According to Moretti, the computer
-not only enables large-scale analysis but creates a formal stucture
-for understanding texts, whereby "distance &#x2026; is not an obstacle, but
-a condition of knowledge" (<i>Distant Reading</i> 48).
+literary critics like Franco Moretti, Matthew Jockers, Ted Underwood,
+among others, who pose ambitious questions about literary
+history. According to Moretti, the process of quantification involves
+steps that reduce or abstract textual elements into computable form in
+ways that open the potential for analysis: "fewer elements, hence a
+sharper sense of their overall interconnection" (<i>Graphs</i> 1). <sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>
+Moretti, who is largely responsible for popularizing the practice of
+"distant reading" in English Studies contexts, explores how social and
+economic forces impacts literary form in the development of the modern
+novel. While critiques of Moretti abound (not least the #metoo ones),
+I want to focus here on an early moment in his career which reveals
+his motivations for moving toward what I call "the fantasy of the
+falsifiable." His purview extends to thousands of texts from about
+1750 to the present day&#x2013;a database that would otherwise be too large
+and unweildy to analyze though non-digital means. According to
+Moretti, the computer not only enables large-scale analysis but
+creates a formal stucture for understanding texts, whereby "distance
+&#x2026; is not an obstacle, but a condition of knowledge" (<i>Distant
+Reading</i> 48).
 </p>
 
 <p>
@@ -448,24 +467,21 @@ step forward on the road of methodological solidity" (22).
 </p>
 
 <p>
-Moretti's falsifiable criticism eventually grows into "distant
-reading," and particularly, "quantitative formalism," which attributes
-the bulk of analytical work to computational and visualization
-processes, and relegates the literary critic to the role of explaining
-the results of the computer's analyses. The essays in his most popular
-collection, <i>Distant Reading</i>, demonstrate the streamlining of his
-critical method into a recursive process of posing hypotheses,
-collecting and assembling data, and making inferences. The results are
-often unexpected, and sometimes bring Moretti to reframe his
-hypotheses. For example, in “Style, Inc.: Reflections on 7,000 Titles
-(British Novels, 1740-1850),” Moretti plots book titles on a series of
-graphs in order to explore how market forces influence the size and
-content of the titles. He finds that titles are quite sensitive to the
-market: "As the market expands, titles contract; as they do that, they
-learn to compress meaning; and as they do that, they develop special
-‘signals’ to place books in the right market niche” (204). Moretti's
-incisive interpretation, which is borne by the various graphs of title
-lengths over time, obscures the fact that it is, fundamentally, an
+As Moretti's falsifiable criticism eventually grows into "distant
+reading," he streamlines his critical method into a recursive process
+of posing hypotheses, collecting and assembling data, and making
+inferences. The results are often unexpected, and sometimes bring
+Moretti to reframe his hypotheses. This move relegates the literary
+critic to the role of explaining results. For example, in “Style,
+Inc.: Reflections on 7,000 Titles (British Novels, 1740-1850),”
+Moretti plots book titles on a series of graphs in order to explore
+how market forces influence the size and content of the titles. He
+finds that titles are quite sensitive to the market: "As the market
+expands, titles contract; as they do that, they learn to compress
+meaning; and as they do that, they develop special ‘signals’ to place
+books in the right market niche” (204). Moretti's incisive
+interpretation, which is borne by the various graphs of title lengths
+over time, obscures the fact that it is, fundamentally, an
 interpretation. A closer look at his language betrays the extent to
 which he makes interpretative moves at every step:
 </p>
@@ -481,50 +497,62 @@ specific genres. Three sections, three pieces in the large puzzle of
 the literary field. (181-2; emphasis mine)
 </p>
 </blockquote>
+</div>
+</div>
+<div id="outline-container-org58b0f6c" class="outline-4">
+<h4 id="org58b0f6c"><span class="section-number-4">1.2.2</span> <span class="todo TODO">TODO</span> add to Ramasy's critique? whats the point here? recursivity?</h4>
+<div class="outline-text-4" id="text-1-2-2">
 <p>
-Moretti’s word choices diminish the subjective work of critical
-analysis&#x2013;he <i>describe[s]</i>, <i>tr[ies to explain</i>, <i>suggest[s]</i> and
-<i>make[s] a little attempt</i>, <i>examin[es]</i>. This language presents the
-literary critic's work as an objective description of unproblematic
-reality, as if his conclusions are supplementary to the graphs and
-other visualizations. However, it is Moretti who poses the question,
-inputs the data, and draws conclusions from the graphs. The computer's
-ability to quantify textual data emboldens Moretti toward making
-seemingly objective claims about literary history, all the while
-diminishing his role as in analysis.<sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup>
+Moretti’s word choices here diminish the subjective work of critical
+analysis&#x2013;he <i>describe[s]</i>, <i>suggest[s]</i>, <i>examin[es]</i>, etc. As
+Stephen Ramsay points out, this language presents the literary
+critic's work as an objective description of unproblematic reality, as
+if his conclusions are supplementary to the graphs and other
+visualizations. According to Ramsay, Moretti’s claims that his
+insights are “independent of interpretation” suggest that “data is
+presented to us…  not as something that is also in need of
+interpretation” (<i>Reading Machines</i> 5). The computer's ability to
+quantify textual data emboldens Moretti toward making seemingly
+objective claims about literary history, all the while diminishing his
+role as in analysis.
 </p>
 
 <p>
-The faith in the "falsifiable," or the objectivity of quantitative
-methods, even affects those who are critical of its use in literary
-studies. For example, Nan Z. Da argues that quantitative methods,
-which trade "speed for accuracy, and coverage for nuance," reveal a
-"fundamental mismatch betwen the statistical tools that are used and
-the objects to which they are applied," (620, 601). In her critique,
-which cites "technical problems, logical fallacies," Da emphasizes the
-lack of <i>reproducible</i> results&#x2013;that one researcher's process can be
-reproduced by another researcher with identical output (601). She
-demonstrates her point with an experiment in Topic Modeling, which
-generates a number of "topics" from a textual corpus and is often used
-to "speed-read" massive datasets to get a sense of their content. Da
-attempts to verify the results of a Topic Modeling experiment by
-replicating the process on her own machine, a replication which
-fails. She concludes that, "if the method were effective, someone with
-comparable training should be able to use the same parameters to get
-basically the same results" (628-629). As Ben Schmidt points out,
-however, Da in fact uses different parameters and software to run her
-experiments, which explains her results. His critique points out that
-Da, in taking down the quantification for literary studies, reinforces
-its role in positivist inquiry:
+The faith in the "falsifiable" gets its strongest expression in a
+famous detraction of quantitative methods in literary studies by Nan
+Z. Da. Da argues that quantitative methods, which trade "speed for
+accuracy, and coverage for nuance," reveal a "fundamental mismatch
+betwen the statistical tools that are used and the objects to which
+they are applied," (620, 601). In her critique, which cites "technical
+problems, logical fallacies," Da emphasizes the lack of <i>reproducible</i>
+results&#x2013;that one researcher's process can be reproduced by another
+researcher with identical output (601). She demonstrates her point
+with an experiment in Topic Modeling, which generates a number of
+"topics" from a textual corpus and is often used to "speed-read"
+massive datasets to get a sense of their content. Da attempts to
+verify the results of a Topic Modeling experiment by replicating the
+process on her own machine, a replication which fails. She concludes
+that, "if the method were effective, someone with comparable training
+should be able to use the same parameters to get basically the same
+results" (628-629). As Ben Schmidt points out, however, Da in fact
+uses different parameters and software to run her experiments, which
+explains her results. His critique points out that Da, in taking down
+the quantification for literary studies, reinforces its role in
+positivist inquiry:
 </p>
 <blockquote>
 <p>
 Rather than pooh-pooh statistical reasoning, she elevates it by
 incanting the language of quantification against itself. Far <i>more</i>
 than anyone I’ve seen in any humanities article, she asserts that
-scientists do something arcane, powerful, and true. <sup><a id="fnr.3" class="footref" href="#fn.3">3</a></sup> 
+scientists do something arcane, powerful, and true. <sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup> 
 </p>
 </blockquote>
+</div>
+</div>
+<div id="outline-container-orgf367816" class="outline-4">
+<h4 id="orgf367816"><span class="section-number-4">1.2.3</span> <span class="todo TODO">TODO</span> reinforce/reframe w/r/t/ reproducibility</h4>
+<div class="outline-text-4" id="text-1-2-3">
 <p>
 Despite their vastly different committments and conclusions, Da and
 Moretti align on the value that they place in the objective capacieis
@@ -534,41 +562,22 @@ been traditionally ascribed to the human.
 </p>
 
 <p>
-With similar investments in studying literary history, Ted Underwood
-works to visualize the "distant horizon" of literary trends across
-centuries. Part of Underwood's project uses predictive data analysis,
-in which a sample of data is used to make predictions about larger
-groups of data, to study the way that gender markers in novels change
-over time. This process involves using computer programs which are
-"trained" by certain data sets to create new programs that can then
-make predictions on other datasets. Underwood calls his approach
-"perspectival modelling," explaining that "Since learning algorithms
-rely on examples rather than fixed definitions, they can be used to
-model the tacit assumptions shared by particular communities of
-production or reception" ("Machine Learning and Human Perspective"
-93). Dan Sinykin claims that Underwood's ingenuity comes from
-reworking statistical methods from "measurement to modelling." Rather
-than simply report patterns from the data, Underwood uses
-"perspectival modeling," in this case, logistic regression analysis,
-to to model relationships between patterns, as a point on a continuum
-between two perspectives. According to Sinykin, this method allows
-Underwood "to leverag[e] the human prejudices built into modeling
-toward humanistic ends" (par. 4).
-</p>
-
-<p>
-Unlike Moretti, Underwood demonstrates an awareness about bias
-contained with computational processes. He explains that "Machine
-learning algorithms are actually bad at being objective and rather
-good at absorbing human perspectives implicit in the evidence used to
-train them" ("Machine Learning and Human Perspective" 92). In his
-study of gender from the 18th to the 21st century, for example,
-Underwood carefully asserts that these models suggest, not the truth
-of gender ontology, but the approaches and choices made by those who
-create the models. This project examines gender roles in novels by
-using a model that predicts the the sex of a fictional character based
-on the words associated with that character. Underwood explains the
-process of training the predictive program:
+Unlike Moretti and Da, Ted Underwood demonstrates a working awareness
+with computational bias. Underwood's project uses machine learning
+methods, in which a sample of data is used to make predictions about
+larger groups of data, to visualize the "distant horizon" of literary
+trends across centuries. One of his projects concerns studying how
+gender markers in novels change over time, using a process he calls
+"perspectival modelling." Underwood explains that "Machine learning
+algorithms are actually bad at being objective and rather good at
+absorbing human perspectives implicit in the evidence used to train
+them" ("Machine Learning and Human Perspective" 92). According to Dan
+Sinykin, this method allows Underwood "to leverag[e] the human
+prejudices built into modeling toward humanistic ends" (par. 4). For
+example, in his study of gender, Underwood uses a model that predicts
+the the sex of a fictional character based on the words associated
+with that character. Underwood explains the process of training the
+predictive program:
 </p>
 <blockquote>
 <p>
@@ -599,143 +608,99 @@ possible.
 
 <p>
 Underwood's methodology, however reinscribes the binary that he
-attempts to deconstruct. First, his specific method for text analysis
-is logistic regression analysis, which is made for modelling binary
-variables. A logistic regression expresses information in the form of
-a probability, often between yes/no, pass/fail, win/lose, etc. In
-Underwood's case, the probability is male/female. The output therefore
-conforms to this binary model. In other project where he similarly
-measures the "transformations" of gender across time periods,
-Underwood explains that simplification is necessary ("Machine Learnig
-and Human Perspective" 93).<sup><a id="fnr.4" class="footref" href="#fn.4">4</a></sup> In this project, Underwood admits
-that he needs a "simple" model in order to bring into relation the
-dynamics of gender (See Fig. 2). He explains:
+attempts to deconstruct. This becomes most clear in his study that
+measures the "gendering of words used in characterization" ("Machine
+Learning and Human Perspective" 95). Here, Underwood uses uses
+logistic regression analysis, which is an algorithm specifically
+designed to study binary values, to see whether words align with
+masculine or feminine characters. This algorithm, which is an
+entry-level machine learning method, is designed for making
+predictions on a scale of probability, from 1 to 0, for example,
+between yes/no, pass/fail, win/lose, etc. In Underwood's case, the
+probability is male/female, so the output necessarily reifies this
+binary structure of gender. For this project, Underwood admits that he
+needs a "simple" model in order to bring into relation the dynamics of
+gender (See Fig. 2). He admits that "gender theorists will be
+frustrated by the binary structure of the diagram" which "reduce[s]
+the complex reality of gender identification to two public roles: men
+and women" ("Machine Learning" 98). In aiming for simplicity,
+Underwood indicates that his initial assumptions will affect the final
+result. 
 </p>
-<blockquote>
+
 <p>
-I recognize that gender theorists will be frustrated by the binary
-structure of the diagram. To be sure, this binary has folded back on
-itself, in order to acknowledge that social systems look different
-from different positions in the system. But the diagram does still
-reduce the complex reality of gender identification to two public
-roles: men and women. I needed a simple picture, frankly, in order to
-explain how a quantitative model can be said to represent a
-perspective. "Machine Learning" 98
+<img src="./img/Underwood.png" alt="Underwood.png" /> Caption: Underwood's logistic regression model. The
+verticle axis visualizes the representation of words by women, and the
+horizontal by men, with positive numbers signifying overrepresentation
+of these terms. So terms on the top right are words that are used
+often by men and women writers, and terms in the upper left and lower
+right are ones used most often by women and men, respectively.
 </p>
-</blockquote>
+
 <p>
-In aiming for simplicity, Underwood indicates that his initial
-assumptions will affect the final result. Although he considers the
-possibility that he finds a structural tension between gender "because
-[he] explores gender, for the most part, as a binary opposition"
-(<i>Distant Horizons</i> 140), the assumptions behind the categories male
-and female remain beyond his study. Collapsing of gender into a single
-graph reifies the structural categories of male and female, rather
-than deconstructing them. This process is replicated as the search for
-meaning takes on other texts, imposing the same structure on new
-material. Underwood himself states: "the data I can legally provide &#x2013;
-lists of word frequencies associated with each volume or fictional
-character &#x2013; should allow intrepid readers to retrace the most
-debatable parts of the argument. An argument that can be retraced in
-this manner is 'reproducible'" (Underwood, <i>Distant Horizons</i>
-173). Asking a machine to compute the conscription of gender as male
+Collapsing of gender into a single graph might bring to the surface
+the various "perspectives" on gender markers across time, but it does
+so within a larger reification of the categories of male and
+female. Underwood himself admits the possibility that he finds a
+structural tension between gender "because [he] explores gender, for
+the most part, as a binary opposition" (<i>Distant Horizons</i>
+140). Asking a machine to compute the conscription of gender as male
 or female for the purpose of seeing how male and female roles in
-novels change over time only creates a model of gender that is
+novels change over time only <i>reproduces</i> a model of gender that is
 "simple" enough to be computed.
 </p>
 
 <p>
-<img src="./img/Underwood.png" alt="Underwood.png" />
-Caption: Underwood's logistic regression model
+Without a doubt, reproducing conceptions of gender is useful for
+historicizing gender identities and ideologies over time. In my view,
+however, these approaches fail to harness the potential of both
+computation and gender. Regardless of the methodology, it seems that
+the goal of establishing some kind of knowledge about literary
+history, whether that be a "distant horizon," or "the great unread,"
+side-steps some of the more novel and novel insightful processes a
+computer might undertake. Distant reading methods might, for example,
+harness what Stephen Ramsay calls "the objectivity of the machine," to
+destabilize the binary, readings that are inescapably partial and
+speculative(x). Drawing from the deformative critical methods of
+Jerome McGann and Lisa Samuels, Ramsay proposes that researchers
+harness the enabling constraints of computation to "unleash the
+potentialities" of the text, offering opportunities for new readings
+(33).
 </p>
 
 <p>
-Some text analysis practitioners, in contrast to Moretti and
-Underwood, apply these or similar tools toward exploratory
-methodologies, harnessing what Stephen Ramsay calls "the objectivity
-of the machine" to do self-consciously subjective work (CITATION FROM
-READING MACHINES). Ramsay's methodology, which he calls "Algorithmic
-Criticism," take the constraints of computation as a liberating force
-that allows the critic to reflect on her own phenomenal experience of
-texts rather than seek definitive answers. Acknowledging that
-quantitative analysis can reproduce assumptions, such methods avoid
-falling into the fantasy of falsifiable criticism.
+Resisting the temptations of falsifiable criticism, work by critics
+like Susan Brown and Laura Mandell apply distant reading methods
+toward deconstructing the historical concepts of gender. In their
+introduction to <i>The Journal for Cultural Analytics</i>'s "Identity
+Issue," Brown and Mandell situate feminist debates around identity
+politics as a necessary context for understanding how computational
+processes engage gender identity. They explain that, "The goal is to
+acknowledge the subjective effects of belonging to an identity
+constituted historically through oppression without believing that the
+identity itself exists independently from historical conditions"
+(Mandell and Brown 6). In other words, because identity labels are
+historically constructed, the computer can be used to study this
+construction as a historical phenomena. Crucially, this position
+places computational methods within a discursive frame, aligning it
+with debates from post-structuralist feminist theory that explore and
+provoke the representative capacities of language. The computer can
+become a tool, not for verifying/reifying what we know, but for
+exploring how language constructs (and can deconstruct) categories.
 </p>
 
 <p>
-Going further than Ramsay, critics like Edwin Roland and Richard Jean
-So apply exploratory methods to study some of the more slippery
-concepts of social categories, such as questions of racial identity
-and discourse. So and Roland explore the constructedness of racial
-categories by experimenting with an algorithm that evaluates an
-author's race according to the vocabulary used by the author. Applying
-this algorithm to analyze a large corpora of novels by white and black
-authors, they find that, black authors, in general, display more
-varied vocabulary than white authors (66). From this they infer that
-white authorship, as a category, only coheres against the variance of
-black authorship. Whiteness, as they explain, <i>depends</i> on the
-characterization of blackness.<sup><a id="fnr.5" class="footref" href="#fn.5">5</a></sup>
-</p>
-
-<p>
-This quantitative exercise, rather than draw So and Roland toward
-making general conclusions about race and authorship, points them
-toward a peculiarity in the results: that the algorithm wrongly
-categorizes James Baldwin's novel <i>Giovanni's Room</i> (1956) as being
-written by a white author. Apparently, the computer reads Baldwin's
-use of the term "appalled" as proof of white authorsip. Going back to
-examine this word in the text, So and Roland discover that this term
-occurs only once, in the early scene where David (the narrator)
-describes his strained relationship to his father: "I did not want to
-be his buddy. I wanted to be his son. What passed between us as
-masculine candor exhausted and <i>appalled</i> me" (my emphasis; Rpt. in So
-and Roland 71). Noting the connotations of whiteness in "appalled,"
-which has the middle French root, "apalir," meaning "to grow pale," So
-and Roland insightfully conclude that this term indexes an
-intersection of gender with race: "the moment David develops a
-troubled relationship to normative masculinity [as] also the moment he
-becomes 'white'" (71). The computer's misclassification, as they point
-out, reinforces this text's notorious elision of explicit references
-to race, whereby racial markers are displaced in favor of an implicit
-whiteness, as critics have observed in the scholarship on this
-novel. Taking the computer's mistake as a starting point, So and
-Roland's analysis thus contributes to the ongoing debate about the
-complex relationship between race and sexuality in the novel.
-</p>
-
-<p>
-In a sense, So and Roland are confronting the same problem as Da: what
-is the effect of computational error in literary criticism? But
-instead of writing off quantitative methods, they suggest an
-interesting way out of the problem&#x2013;to use the error as a starting
-point for further analysis. Because race is a social construct, and
-machines only impute meaning that is encoded into them, So and Roland
-reason that machines are be ideal instruments for studying the
-construction of race (60). This single computational error opens a
-site for more daring leaps of speculation about how whiteness gestures
-toward a troubled understanding of gender and potentially,
-sexuality. In this way, computational methods, which work to "identify
-and label objects," may operate in tandem with minority discourse
-analysis, which "critique[s] and problematize[s] the very idea of
-categories" (So and Roland 63). So, rather than being "fundamentally
-mismatched," in Da's words, computational methods can be harnessed to
-deconstruct social categories (Da 620).
-</p>
-
-<p>
-Just as quantification can probe racial categories, so it can
-destabilize gender ones. Laura Mandell, for example, uses distant
-reading to deconstruct what she calls the "M/F binary," which is the
-reduction of gender into data. In her critique of Matthew Jockers and
-Jan Rybicki, Mandell demonstrates that the M/F binary reifies
-stereotypes in their premises, by "presenting conclusions about 'male'
-and 'female' modes of thinking and writing as if the M/F terms were
-simple pointers to an unproblematic reality, transparently referential
-and not discursively constituted" (par. 5). Mandell's examination
-marshalls key findings from feminist theory, drawing from Judith
-Butler, among others, to assert that gender is a socially constituted
-category which is "constructed both by the measurer and the measured"
-(par. 38).
+Laura Mandell, for example, uses distant reading to deconstruct what
+she calls the "M/F binary," which is the reduction of gender into
+data. In her critique of Matthew Jockers and Jan Rybicki, Mandell
+demonstrates that the M/F binary reifies stereotypes in their
+premises, by "presenting conclusions about 'male' and 'female' modes
+of thinking and writing as if the M/F terms were simple pointers to an
+unproblematic reality, transparently referential and not discursively
+constituted" (par. 5). Mandell's examination marshalls key findings
+from feminist theory, drawing from Judith Butler, among others, to
+assert that gender is a socially constituted category which is
+"constructed both by the measurer and the measured" (par. 38).
 </p>
 
 <p>
@@ -765,58 +730,285 @@ Mandell's words, "parallax, multiple perspectives for viewing a very
 complex reality” (par. 38).
 </p>
 
+<p>
+Deconstructing binaries also works with race. Edwin Roland and Richard
+study explore the constructedness of racial categories by
+experimenting with an algorithm that evaluates whether an author is
+white or black based on diction. Analyzing a large corpora of novels
+by white and black authors, they find that, black authors generally
+display more varied vocabulary than white authors (66). From this they
+infer that white authorship, as a category, only coheres against the
+variance of black authorship. Whiteness, in other words, <i>depends</i> on
+the characterization of blackness.<sup><a id="fnr.3" class="footref" href="#fn.3">3</a></sup>
+</p>
 
 <p>
-Mandell's work opens up the consideration of how gender theory, in
-particular, Butler's theory of gender performativity, might influence
-computational analysis. However, her reading of Butler recapitulates
-an assumption about performativity that Butler has been careful to
-clarify in her writings since <i>Gender Trouble</i>. Mandell argues that
-both gender and genre as a performance "are&#x2026; highly imitable"
-(par. 30), and asserts that "Anyone can adopt gendered modes of
+This quantitative exercise, rather than draw So and Roland toward
+making general conclusions about race and authorship, points them
+toward a peculiarity in the results: that the algorithm wrongly
+categorizes James Baldwin's novel <i>Giovanni's Room</i> (1956) as being
+written by a white author. Apparently, the computer reads Baldwin's
+use of the term "appalled" as proof of white authorsip. Going back to
+examine this word in the text, So and Roland discover that this term
+occurs only once, in the early scene where David (the narrator)
+describes his strained relationship to his father: "I did not want to
+be his buddy. I wanted to be his son. What passed between us as
+masculine candor exhausted and <i>appalled</i> me" (my emphasis; Rpt. in So
+and Roland 71). Noting the connotations of whiteness in "appalled,"
+which has the middle French root, "apalir," meaning "to grow pale," So
+and Roland insightfully conclude that this term indexes an
+intersection of gender with race: "the moment David develops a
+troubled relationship to normative masculinity [as] also the moment he
+becomes 'white'" (71). The computer's misclassification, as they point
+out, reinforces this text's notorious elision of explicit references
+to race, whereby racial markers are displaced in favor of an implicit
+whiteness, as critics have observed in the scholarship on this
+novel. Taking the computer's mistake as a starting point, So and
+Roland's analysis thus contributes to the ongoing debate about the
+complex relationship between race and sexuality in the novel.
+</p>
+
+<p>
+Here, in direct opposition to the "falsifiable" position,
+computational error becomes a starting point for analysis. Because
+race is a social construct, and machines only impute meaning that is
+encoded into them, So and Roland reason that machines are be ideal
+instruments for studying the construction of race (60). In particular,
+the machine errors surface a yet unexplored fulcrum around which the
+binary of race turns: 
+</p>
+<blockquote>
+<p>
+Our reading’s destabilization of the machine’s logic of white and
+black arises directly from the novel’s expression of queerness. By
+queering the machine’s color line, Baldwin’s novel challenges our
+initial classifications of the novels as white or black, which had
+necessarily effaced a more sophisticated, intersectional view of
+social identity. In their current form, our data and model are not
+robust enough to handle this kind of intersectionality. 72
+</p>
+</blockquote>
+<p>
+In this case, a single computational error opens a site for more
+daring leaps of speculation about how whiteness gestures toward a
+troubled understanding of sexuality. So and Roland find that queerness
+here operates as an articulation (both structurally and semantically)
+of race. In the next section, I lay the groundwork for computationally
+analyzing queerness by turning to the inaugural moment in Queer
+Theory, gender performativity.
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgd267e25" class="outline-3">
+<h3 id="orgd267e25"><span class="section-number-3">1.3</span> iteration</h3>
+<div class="outline-text-3" id="text-1-3">
+</div>
+<div id="outline-container-org3d61cd9" class="outline-4">
+<h4 id="org3d61cd9"><span class="section-number-4">1.3.1</span> Butler and Gender Performativity</h4>
+<div class="outline-text-4" id="text-1-3-1">
+<p>
+So, Roland, Mandell and Brown demonstrate how computation can be
+reworked toward deconstructing social categories. Mandell's work, in
+particular, opens up the consideration of how gender theory, Judith
+Butler's theory of gender performativity, might influence
+computational analysis.
+</p>
+
+<p>
+She points out that both gender and genre "are&#x2026; highly imitable"
+(par. 30), asserting that "Anyone can adopt gendered modes of
 behavior, just as anyone can write in genres stereotypically labeled
-M/F" (par.30). However, as Butler emphasizes in her later work,
-performativity is compulsory and habitual, a process, rather than a
-singular act which can be imitated at will. Butler explicitly warns
-against the interpretation that gender is decided by the subject, to
-be put on and off at will like clothing, and instead asserts that
-gender precedes and <i>constitutes</i> the subject. Gender functions more
-like a mechanism that allows the subject to emerge: "construction is
-neither a subject nor its act, but a process of reiteration by which
-both 'subjects' and 'acts' come to appear at all" (<i>Bodies</i>
-xviii). 
-</p>
-
-<p>
-This reading of Butler brings up the question of performativity, and
-in what ways it can might align with computational processes. As So,
-Roland, and Mandell demonstrate, the constraints of computation can
-help point the bounds of social categories as a constructed
-phenomenoa. In what follows, I demonstrate how gender, in particular,
-and computation, share a high level of constraint, which can be
-mutually reinforcing in text analysis. As Mandell points out,
-"Computation enables complexity" (par. 36), and gender, like
+M/F" (par.30). While this reading of Butler echoes a common assumption
+about performativity, which Butler has been careful to clarify in her
+writings since <i>Gender Trouble</i>, it also perceives a generative
+alignment between gender and computation. In what follows, I explore
+this alignment between gender and computation, which evoke
+similarities that are productive for text analysis. As Mandell points
+out, "Computation enables complexity" (par. 36), and gender, like
 computation, contains rules and protocols that build toward higher
-levels of complexity. In the next section, I will examine how the
-constraints of computation align with those of gender theory and
-analysis.
+levels of complexity.
+</p>
+
+<p>
+In her groundbreaking book, <i>Gender Trouble: Feminism and the
+Subversion of Identity</i> (1990), Judith Butler famously disrupts
+essentialist views of sex and gender in contemporary feminist thought:
+first, that sex is biological while gender is constructed; and second,
+the gender, as a construction, is a self-expression of the
+subject. Because sex and gender are both constructions that exist
+prior to identity. In fact, according to Butler, there is no such
+thing as a subject that exists prior to gender expression, as a
+subject only comes into being by participating in a gender norm. Here
+emerges the common misreading of performativity, that performativity
+denotes an act or series of acts that can be imitated at will, to be
+put on and off like clothing. As Butler emphasizes in her later work,
+performativity is compulsory and habitual, a process that <i>precedes</i>
+and <i>constitutes</i> the subject. Gender is a mechanism that allows the
+subject to emerge: "construction is neither a subject nor its act, but
+a process of reiteration by which both 'subjects' and 'acts' come to
+appear at all" (<i>Bodies</i> xviii). This process of <i>reiteration</i> is
+fully delineated in her follow up book, <i>Bodies That Matter</i> (1995),
+where she gives it the term "performative citation." Here, Butler
+argues that what is experienced as the physical body, its boundaries
+and its sexuality, only materialize through the repetition, the
+"citation," of gender norms, whereby each act signals an authorizing
+norm.
+</p>
+
+<p>
+As I will demonstrate, Butler's theory of gender performativity has a
+lot to lend to the study of computational text analysis. Before moving
+to the details of this theory, however, it is important to understand
+what such a theory can and cannot do. For example, common critiques of
+Butler point out the limits of this theory for working with discursive
+notions of gender and sexuality.<sup><a id="fnr.4" class="footref" href="#fn.4">4</a></sup> Jay Prosser, coming from the
+field of Trans Studies, problematizes Butler's "deliteralization of
+sex," a critique that he applies to Queer Studies more
+generally. Prosser explains that because Butler's analysis attends to
+performativity as a discursive phenomenon, it elides the real-world
+concerns of the body's materiality. Prosser offers the example of
+Butler's reading of <i>Paris Is Burning</i>'s Venus Xtravaganza who, Butler
+argues, occupies a space of transgression due to her inability to
+attain her sex change. According to Butler, a sex change that would
+"make [her]self complete" would also fulfill the desire for a
+masculine body would reinscribe heterosexual hegemony (45). Prosser
+points out that this reading fails to reckon with the material body
+and its real and precarious existence, as Venus's death illustrates
+(55). Here, Butler's "metaphorization of the transgender body"
+demonstrates one crucial way that Queer Theory has subsumed, without
+fully accounting for, transgressive desires in cross-gendered
+identifications. This thread of critique is picked up in the
+conclusion, where it instigates the next move within a larger
+trajectory of Queer Studies presented in this dissertation.
+</p>
+
+<p>
+To understand the constraints of performativity as a discursive
+phenomenon, it is helpful to situate Butler's work within the context
+of second-wave feminism and its post-structural approach toward gender
+binaries. Here, Butler draws from the work of feminist theorist Luce
+Irigaray, whose critique of gender undermines what Jacques Derrida's
+defines as "phallogocentrism," the idea that man, symbolized by the
+phallus, is the center and focus of knowledge. Irigaray asserts that
+influential Western thinkers, like Plato, Aristotle, and Freud, for
+example, have defined women and feminity "on the basis of masculine
+parameters" (Irigaray, <i>The Sex Which Is Not One</i> 23). The resulting
+binaries that associate "woman" with "matter" (such as
+"rationality/emotion" and "mind/body"), and set it subordinate to male
+"form," effectively erase the possibility of representing woman at
+all. Rather, the binary actually "<i>produces</i> the feminine as that
+which must be excluded for that [gender] economy to operate" (10; my
+emphasis). The produced "domesticated" feminine term contrasts the
+excessive feminine which cannot be expressed within the terms of the
+binary (13). This "necessary outside" of the excluded feminine, which
+is in fact is the enabling condition of the binary in the first place,
+creates a "field of disruptive possibilities" (13). However, this
+"unspeakable" element cannot be invoked directly, "through the figures
+that philosophy provides," without subscribing itself to the ruling
+structure (12). Butler illustrates this quandry with a hypothetical:
+"how can one read a text for what does <i>not</i> appear within its own
+terms, but which nevertheless constitutes the illegible conditions of
+its own legibility?" (11). For Butler, this question&#x2013;how to express
+what is not there, what is refused by the system of the visible&#x2013;will
+guide her theorization of gender subversion, what she calls
+resignification, through performativity.
+</p>
+
+<p>
+The process of resignification begins by positing a body that exists
+prior to signification, that is, a body that has not yet been imbued
+with meaning through language. Butler wonders, "Can language simply
+refer to materiality, or is language also the very condition under
+which materiality may be said to appear?" (6). Butler finds that, in
+order to refer to a body, language must first assume a
+body. Therefore, she reasons, the signification of the body actually
+creates the body which it appears to reference: "This signification
+produces as an <i>effect</i> of its own procedure the very body that it
+nevertheless and simultaneously claims to discover as that which
+<i>precedes</i> its own action" (emphasis original; 6). Butler explains
+that "the mimetic or representational status of language&#x2026;. is not
+mimetic at all. On the contrary, it is productive, constitutive, one
+might even argue performative" (6). This point, that language produces
+the reality that it claims to merely reference, has two crucial
+ramifications: first, that subjects are always interpellated, and in
+fact brought into subjectivity, by a discourse prior to their their
+participation in it; and second, that this productive power of
+language nonetheless offers a way out of the significatory circle.
+</p>
+
+<p>
+For, amid this regulatory structure lies the possibility of what
+Butler describes as <i>resignifying</i> meaning. Because language
+transcends a merely representative function, because it works to
+<i>produce</i> meaning, language can be resignified toward subversive
+usages by "citing" what Bulter calls the "repudiated" meaning implied
+by signification. Butler offers a rather famous example in the
+resignification of the term "queer," which has been transformed from a
+term of abjection to one of empowerment. "Queer" achieves this
+resignification by harnessing its own repudiation, which is an implied
+but "disavowed abjection [that] will threaten to expose the
+self-grounding presumptions of the sexed subject" (3). In other words,
+each time the term "queer" is used, it draws from that abjection which
+is repudiated in every identification with heterosexuality. Butler
+proposes that one "cite" this repudiation as a resource for
+resignification: "to consider this threat and disruption&#x2026; as a
+critical resource in the struggle to articulate the very terms of
+symbolic legitimacy and intelligibility" (3). Here, the concept
+"citation" indicates an act of signification that draws from the
+authorizing power. By citing the repudiated meaning, the term "queer"
+"resignifyi[es] the abjection of homosexuality into defiance and
+legitimacy" (xxviii). The resignification works because this
+"performative citation" takes on the repudiation as its signification.
+</p>
+
+<p>
+Because language is productive, it also offers a possibility of
+resistance from within the signification system. Butler illustrates
+how Irigaray achieves this resistance by performing the
+phallogocentric language of the thinkers that she criticizes: "she
+mimes philosophy&#x2026; and, in the mime, takes on a language that
+effectively cannot belong to her" (12). Butler reads Irigaray's use
+performative citation as a strategy of undermining his authority
+through repetition: "She cites Plato again and again, but the
+citations expose precisely what is excluded from them, and seek to
+show and to reintroduce the excluded into the system itself"
+(18). Through repetition, Irigaray displaces the logic of
+phallogocentrism, introducing something external to the system while
+remaining within its terminology. Narrating what Butler imagines to be
+Irigaray's thought process in an invigorating monologue, she lays out
+the process of resistance:
+</p>
+<blockquote>
+<p>
+I will not be a poor copy in your system, but I will resemble you
+nevertheless by miming the textual passages through which you
+construct your system and showing that what cannot enter it is already
+inside it (as its necessary outside), and I will mime and repeat the
+gestures of your operation until this emergence of the outside within
+the system calls into question its systematic closure and its
+pretension to be self-grounding" (18).
+</p>
+</blockquote>
+<p>
+In this description of resistance within the cycle of signification,
+where deception emerges from resemblance and insubordiation through
+subservience, the key is repetition. Resistance looks like repetition,
+a continual activity, the miming of the authorizing norm, which
+displaces it by introducing what is outside the logic of
+phallogocentrism.
 </p>
 </div>
 </div>
 
-
-<div id="outline-container-org29846d6" class="outline-3">
-<h3 id="org29846d6"><span class="section-number-3">1.4</span> NLTK, Gender Trouble, Orlando</h3>
-<div class="outline-text-3" id="text-1-4">
-</div>
-<div id="outline-container-orgd203f80" class="outline-4">
-<h4 id="orgd203f80"><span class="section-number-4">1.4.1</span> Python and NLTK</h4>
-<div class="outline-text-4" id="text-1-4-1">
+<div id="outline-container-org78fad44" class="outline-4">
+<h4 id="org78fad44"><span class="section-number-4">1.3.2</span> Python and NLTK</h4>
+<div class="outline-text-4" id="text-1-3-2">
 <p>
-This section now turns to the programming language Python to get a
-closer look at how text analysis works through constraint. We will
-look into Python's syntax to examine the processes and protocols for
-cleaning text.
+Now that we have a sense of gender peformativity, we turn to Python to
+get a closer look at how its syntax might evoke the process of
+iteration.
 </p>
 
 <p>
@@ -827,83 +1019,19 @@ the Python programming language, which offers a number of custom
 analyzing textual data. The most popular text analysis library in
 python is the Natural Language ToolKit (NLTK), which contains useful
 computational "methods" and "functions" that count, categorize, and
-visualize textual patterns. One such method, <code>concordance()</code>, will
-return all the immediate words surrounding a chosen word. For example,
-below is a concordance of the word "woman" from the text of <i>Orlando</i>,
-which shows the context of the first 25 instances of this word in the
-novel:
-</p>
-
-<div class="SOURCE">
-<p>
-charm &#x2013; all qualities which the old woman loved the more the more they failed 
-yed her cheeks scarlet . For the old woman loved him . And the Queen , who knew
-rladen with apples . The old bumboat woman , who was carrying her fruit to mark
-a figure , which , whether boy 's or woman 's , for the loose tunic and trouser
- , for alas , a boy it must be &#x2013; no woman could skate with such speed and vigo
-s not a handsbreadth off . She was a woman . Orlando stared ; trembled ; turned
-mult of emotion , until now ? An old woman , he answered , all skin and bone . 
-e for sea birds and some old country woman hacking at the ice in a vain attempt
-h their heat , and pity the poor old woman who had no such natural means of tha
-agan ; of this man 's beard and that woman 's skin ; of a rat that fed from her
-of melancholy ; the sight of the old woman hobbling over the ice might be the c
-en waters or night coming or the old woman or whatever it was , and would try t
-anners were certainly not those of a woman bred in a cattle-shed . What , then 
-st career in the world for a Cossack woman and a waste of snow &#x2013; it weighed no
- arms and vociferating . There was a woman in white laid upon a bed . Rough tho
-y , and when the Moor suffocated the woman in her bed it was Sasha he killed wi
- the cobbles , or at the rustle of a woman 's dress . But the traveller was onl
-hant , making home belated ; or some woman of the quarter whose errand was noth
- in water he hurled at the faithless woman all the insults that have ever been 
-obinson by way of making a Christian woman of her , understood what they were a
-ght or the left ? The hand of man or woman , of age or youth ? Had it urged the
- with sobs , all for the desire of a woman in Russian trousers , with slanting 
-</p>
-<ul class="org-ul">
-<li>like a dog chasing a cat or an old woman blowing her nose into a red cotton h</li>
-</ul>
-<p>
-to talk about &#x2013; a dog , a horse , a woman , a game of cards &#x2013; seem brutish in
-out somehow to allude to this humble woman and her milk-pails , when the poet f
-</p>
-
-</div>
-
-<p>
-This <code>concordance()</code> method is related in its process to another one,
-<code>similar()</code>, which also uses word context to calculate its output. The
-result for running <code>similar</code> on the word "woman" is the following:
-</p>
-
-<div class="SOURCE">
-<p>
-man moment night boy word world child pen ship door one room window
-light little lady table book queen king
-</p>
-
-</div>
-
-<p>
-To compute the results of <code>similar()</code>, NLTK first takes the context of the term from
-<code>concordance()</code>, then it searches the text for other terms that
-contain similar contexts. In this sense, the <code>similar()</code> method
-searches the text for words that appear <i>similarly</i> to the chosen
-word. It is a useful strategy for getting a sense of which words are
-treated in comaprable ways across the text.
+visualize textual patterns. 
 </p>
 
 <p>
-In order to run methods like <code>concordance()</code> and <code>similar()</code>, however,
-the text needs to be ready for analysis. As illustrated in the opening
-example in this chapter, the process of preparing a text for text
-analyis always requires a reduction of data in which some semantic
-value has escaped. In this example, "cleaning" the first sentence of
-Woolf's novel, <i>Orlando</i>, strips it of its pronouns and punctuation
-which has the effect of surpressing the gender qualification: "He–for
-there could be no doubt of his sex, though the fashion of the time did
-something to disguise it—-was in the act of slicing at the head of a
-Moor which swung from the rafters" (11). After processing, the
-following words remain:
+As illustrated in the opening example in this chapter, the process of
+preparing a text for text analyis always requires a reduction of data
+in which some semantic value has escaped. In this example, "cleaning"
+the first sentence of Woolf's novel, <i>Orlando</i>, strips it of its
+pronouns and punctuation which has the effect of surpressing the
+gender qualification: "He–for there could be no doubt of his sex,
+though the fashion of the time did something to disguise it—-was in
+the act of slicing at the head of a Moor which swung from the rafters"
+(11). After processing, the following words remain:
 </p>
 
 <div class="SOURCE">
@@ -914,37 +1042,19 @@ following words remain:
 </div>
 
 <p>
-The emphasis on readability in Python's vocabulary and syntax makes it
-a relatively straightforward programming language, where beginners may
-intuit the gist of the code by simply reading it. For example, the
-expression <code>print(1)</code> will display the number 1 when executed. The
-below program sets a variable <code>x</code> to the number 1, uses an <code>if
-statement</code> to check if the variable is set to the number one, and
-prints the string <code>x equals 1</code> if the answer is affirmative:
-</p>
-
-<div class="SOURCE">
-<p>
-x = 1
-</p>
-
-<p>
-if x = 1:
-    print('x equals 1')
-</p>
-
-</div>
-
-<p>
-When analyzing text, Python works with data in the form of words, or
+For analyzing text, Python works with data in the form of words, or
 <code>strings</code>, contained within groupings called <code>lists</code>. Then, Python
 <i>iterates</i> through the list, that is, it performs a similar task to
 each item in the list. For this purpose, an expression called the <code>for
 loop</code> consists of six words over two lines which instruct Python to do
 something to each item in the list, in other words, to "loop" through
-data, carrying out some specified action to each peice. A <code>for loop</code>
-that iterates through the first sentence of <i>Orlando</i> would consist of
-the following:
+data, carrying out some specified action to each peice. The first line
+of the loop (<code>for word in sentence:</code>) specifies each word in the list,
+and the second line (<code>print(word)</code>) instructs the computer to display
+each word in the sentence. Essentially, this loop will go through each
+item in the data, in this case, each word saved in the list
+<code>sentence</code>, and it will <code>print</code> or display that data.<sup><a id="fnr.5" class="footref" href="#fn.5">5</a></sup> The the
+output will appear thus:
 </p>
 
 <div class="SOURCE">
@@ -957,25 +1067,10 @@ sentence = ['He', '&#x2013;', 'for', 'there', 'could', 'be', 'no', 'doubt',
 </p>
 
 <p>
-for word in sentence: 
+for word in first<sub>sentence</sub>:
     print(word)
 </p>
 
-</div>
-
-<p>
-Here, the first sentence of the novel is saved as the variable,
-<code>sentence</code>. Then, the <code>for loop</code> instructs the computer to display
-each word in this sentence. The first line of the loop (<code>for word in
-sentence:</code>) specifies each word in the list, and the second line
-(<code>print(word)</code>) instructs the computer to display each word in the
-sentence. Essentially, this loop will go through each item in the
-data, in this case, each word saved in the list <code>sentence</code>, and it
-will <code>print</code> or display that data.<sup><a id="fnr.6" class="footref" href="#fn.6">6</a></sup> The the output will appear
-thus:
-</p>
-
-<div class="SOURCE">
 <p>
 ['He',
  '&#x2013;',
@@ -1041,68 +1136,48 @@ through the text to remove punctuation and capital letters:
 
 <div class="SOURCE">
 <p>
-lower<sub>no</sub><sub>punct</sub> = []
+normalized = []
 for word in full<sub>text</sub>:
     if word.isalpha():
-        lower<sub>no</sub><sub>punct.append</sub>(word.lower())
+        normalized.append(word.lower())
 </p>
 
 </div>
 
 <p>
-Here, it begins by creating an empty list, <code>lower_no_punct</code>, where
+Here, it begins by creating an empty list, <code>normalized</code>, where
 words will be dropped after filtering through them. The next line
 begins the <code>for loop</code>, which iterates through each word in the
 <code>full_text</code> list of words. The third line, an <code>if statement</code> creates
 the condition specifying alphabetic characters (containing no numbers
 or punctuation), and if the word fulfills that condition, then it
 passes to the fourth line, which will add that word to the
-<code>lower_no_punct</code> list. At the moment that this word is added to the
+<code>normalized</code> list. At the moment that this word is added to the
 list, its letters will be transformed to lowercase format. The final
 list, therefore, will contain words that are all lowercase and contain
 no punctuation.
 </p>
 
 <p>
-Using Python's brevity, we can accomplish the above with just one line
-of code, which is known as a "list comprehension":
+The next step involves removing stop words, then
+stemming/lemmatizing. For this process, the <code>for loop</code> can be
+compressed into a <code>list comprehension</code>:
 </p>
 
 <div class="SOURCE">
 <p>
-lower<sub>no</sub><sub>punct</sub> = [word.lower() for word in tokens if word.isalpha()]
+no<sub>stops</sub> = [word for word in normalized if word not in stops]
 </p>
 
 </div>
 
 <p>
-Reading from left to right, this expression first creates an empty
-list, called <code>lower_no_punct</code>. Then, for each word in the text, it
-makes the word entirely lowercase, and if that word is alphabetic, it
-will be added to the empty list. Expressions like this one condense
-the processes and conditions contained within the previous block of
-code into one line.
-</p>
-
-<p>
-To remove stop words, for example, we can use another list
-comprehension:
-</p>
-
-<div class="SOURCE">
-<p>
-no<sub>stops</sub> = [word for word in lower<sub>no</sub><sub>punct</sub> if word not in stops]
-</p>
-
-</div>
-
-<p>
-This expression takes each word in a list, in this case,
-<code>lower_no_punct</code>, and checks to see if that word is also contained
-within the list of stop words in <code>stops</code>. If the word is <i>not</i> a stop
-word, then it will be added to a new list, <code>no_stops</code>. Once this
-filtering is done, the final list contains all lowercase words without
-punctuation or stop words. For example:
+This expression takes each word in a list, in this case, <code>normalized</code>,
+and checks to see if that word is also contained within the list of
+stop words in <code>stops</code>. If the word is <i>not</i> a stop word, then it will
+be added to a new list, <code>no_stops</code>. Once this filtering is done, the
+final list contains all lowercase words without punctuation or stop
+words. For example:
 </p>
 
 <div class="SOURCE">
@@ -1114,13 +1189,99 @@ punctuation or stop words. For example:
 </div>
 
 <p>
-After cleaning the text in this way, the next step is regularization,
-which includes stripping the grammatical structure to get the word
-root. One of these processes, called "stemming", involves cutting off
-the endings from the word. For example, "rafters" will be stripped to
-"rafter." In another process, called "lemmatizing," the computer will
-look up each word, one by one, find its appropriate root, and then
-revert to that root.
+After cleaning the text in this way, the next step involves stripping
+the grammatical structure to get the word root. One of these
+processes, called "stemming", involves cutting off the endings from
+the word. For example, "rafters" will be stripped to "rafter." In
+another process, called "lemmatizing," the computer will look up each
+word, one by one, find its appropriate root, and then revert to that
+root.
+</p>
+
+<div class="SOURCE">
+<p>
+clean<sub>text</sub> = [WordNetLemmatizer.lemmatize(word, word) for word in no<sub>stops</sub>]
+</p>
+
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgb6668be" class="outline-4">
+<h4 id="orgb6668be"><span class="section-number-4">1.3.3</span> <span class="todo TODO">TODO</span> How should I proceed here?</h4>
+<div class="outline-text-4" id="text-1-3-3">
+<p>
+Then, we can proceed with analysis. 
+</p>
+
+<p>
+One such method, <code>concordance()</code>, will return all the immediate words
+surrounding a chosen word. For example, below is a concordance of the
+word "woman" from the text of <i>Orlando</i>, which shows the context of
+the first 25 instances of this word in the novel:
+</p>
+
+<div class="SOURCE">
+<p>
+charm &#x2013; all qualities which the old woman loved the more the more they failed 
+yed her cheeks scarlet . For the old woman loved him . And the Queen , who knew
+rladen with apples . The old bumboat woman , who was carrying her fruit to mark
+a figure , which , whether boy 's or woman 's , for the loose tunic and trouser
+ , for alas , a boy it must be &#x2013; no woman could skate with such speed and vigo
+s not a handsbreadth off . She was a woman . Orlando stared ; trembled ; turned
+mult of emotion , until now ? An old woman , he answered , all skin and bone . 
+e for sea birds and some old country woman hacking at the ice in a vain attempt
+h their heat , and pity the poor old woman who had no such natural means of tha
+agan ; of this man 's beard and that woman 's skin ; of a rat that fed from her
+of melancholy ; the sight of the old woman hobbling over the ice might be the c
+en waters or night coming or the old woman or whatever it was , and would try t
+anners were certainly not those of a woman bred in a cattle-shed . What , then 
+st career in the world for a Cossack woman and a waste of snow &#x2013; it weighed no
+ arms and vociferating . There was a woman in white laid upon a bed . Rough tho
+y , and when the Moor suffocated the woman in her bed it was Sasha he killed wi
+ the cobbles , or at the rustle of a woman 's dress . But the traveller was onl
+hant , making home belated ; or some woman of the quarter whose errand was noth
+ in water he hurled at the faithless woman all the insults that have ever been 
+obinson by way of making a Christian woman of her , understood what they were a
+ght or the left ? The hand of man or woman , of age or youth ? Had it urged the
+ with sobs , all for the desire of a woman in Russian trousers , with slanting 
+</p>
+<ul class="org-ul">
+<li>like a dog chasing a cat or an old woman blowing her nose into a red cotton h</li>
+</ul>
+<p>
+to talk about &#x2013; a dog , a horse , a woman , a game of cards &#x2013; seem brutish in
+out somehow to allude to this humble woman and her milk-pails , when the poet f
+</p>
+
+</div>
+
+<p>
+This <code>concordance()</code> method is related in its process to another one,
+<code>similar()</code>, which also uses word context to calculate its output. The
+result for running <code>similar</code> on the word "woman" is the following:
+</p>
+
+<div class="SOURCE">
+<p>
+man moment night boy word world child pen ship door one room window
+light little lady table book queen king
+</p>
+
+</div>
+
+<p>
+To compute the results of <code>similar()</code>, NLTK first takes the context of the term from
+<code>concordance()</code>, then it searches the text for other terms that
+contain similar contexts. In this sense, the <code>similar()</code> method
+searches the text for words that appear <i>similarly</i> to the chosen
+word. It is a useful strategy for getting a sense of which words are
+treated in comaprable ways across the text.
+</p>
+
+<p>
+In order to run methods like <code>concordance()</code> and <code>similar()</code>, however,
+the text needs to be ready for analysis. 
 </p>
 
 <p>
@@ -1153,221 +1314,26 @@ reductions have the potential to affect meaning.
 </div>
 </div>
 
-<div id="outline-container-org923ad4a" class="outline-4">
-<h4 id="org923ad4a"><span class="section-number-4">1.4.2</span> Butler and Gender Performativity</h4>
-<div class="outline-text-4" id="text-1-4-2">
+<div id="outline-container-orga7b22ee" class="outline-4">
+<h4 id="orga7b22ee"><span class="section-number-4">1.3.4</span> <span class="todo TODO">TODO</span> word embeddings (machine learning)</h4>
+<div class="outline-text-4" id="text-1-3-4">
 <p>
-Now that we have a sense of Python, and its qualities of recursion and
-reduction, I will turn to gender. In her groundbreaking book, <i>Gender
-Trouble: Feminism and the Subversion of Identity</i> (1990), Judith
-Butler famously disrupts popular theorizations about sex and gender in
-contemporary feminist thought: namely, that sex is biological while
-gender is constructed; and that the gender, as a construction, is a
-self-expression of the subject. According to Butler, sex and gender
-are both social constructions, and there is no such thing as a stable
-gender identity, or even a subject that exists prior to gender
-expression. Rather, Butler argues, gender is performative&#x2013;a series of
-repeated acts by which the subject performs normative gender roles. In
-her follow up book, <i>Bodies That Matter</i> (1995), Butler further
-delineates the process of gender performativity, where what is
-experienced as the physical body, its boundaries and its sexuality,
-only materialize through the repetition, or what she calls the
-"citation," of gender norms. Her concept of "citation" emphasizes the
-iterability of the performative practice, whereby each action
-implicitly signals an authorizing norm.
-</p>
-
-<p>
-As I will demonstrate, this theory of gender performativity has a lot
-to lend to the study of computational text analysis. Before moving to
-the details of Butler's theory, however, it is important to situate
-her work within the context of second-wave feminism, and in
-particular, with the work of feminist theorist Luce Irigaray, whom
-Butler draws from. Writing in the 1970s and 80s, Irigaray takes
-Jacques Derrida's concept of phallogocentrism&#x2013;that man, symbolized by
-the phallus, is the center and focus of knowledge&#x2013;as a lens for her
-critical analysis of the ways influential Western thinkers like Plato,
-Aristotle, and Freud have discussed women and feminity; which she
-claims "has always been conceptualized on the basis of masculine
-parameters" (Irigaray, <i>The Sex Which Is Not One</i> 23). In one essay,
-Irigaray demonstrates how the binaries like form/matter and
-bodies/souls, which associate "woman" with "matter" (materiality or
-the mother) and set it subordinate to male "form" (rationality),
-erases the possibility of representing woman at all. Butler points out
-that this binary, which claims to represent the feminine as the
-subordinated term in masculine/feminine binaries, actually "produces
-the feminine as that which must be excluded for that economy to
-operate" (10). In other words, the feminine which appears in the
-feminine/masculine binary is a "domesticated" feminine, and the other
-feminine, which is excessive, remains outside the binary (13). Butler
-calls the "field of disruptive possibilities" which exist outside the
-binary (13) the "necessary outside," which creates the conditions for
-the binary to exist in the first place. She then describes what
-Irigaray describes as the "unspeakable" feminine within this field:
-</p>
-<blockquote>
-<p>
-One cannot interpret the philosophical relation to the feminine
-through the figures that philosophy provides, but, rather, [Irigaray]
-argues, through siting [sic] the feminine as the unspeakable condition
-of figuration, as that which, in fact, can never be figured within the
-terms of philosophy proper, but whose exclusion from that propriety is
-its enabling condition. 12
-</p>
-</blockquote>
-<p>
-Because phallogocentrism determines all expression, this outside
-feminine is "unspeakable," remaining beyond figuration and
-expression. Butler illustrates this quandry with a question: "how can
-one read a text for what does <i>not</i> appear within its own terms, but
-which nevertheless constitutes the illegible conditions of its own
-legibility?" (11). For Butler, this question&#x2013;how to express what is
-not there, what is refused by the system of the visible&#x2013;will guide
-her theorization of gender subversion, what she calls resignification,
-through performativity.
-</p>
-
-<p>
-The process of resignification begins with an examination of the
-referential power of language. Butler first posits a body that exists
-prior to signification, that is, a body that has not yet been imbued
-with meaning through language. She wonders, "Can language simply refer
-to materiality, or is language also the very condition under which
-materiality may be said to appear?" (6). Butler finds that, in order
-to refer to a body, language must first posit that body, and in the
-positing the body, the body assumes meaning. Therefore, she reasons,
-the signification of the body actually creates the body which it
-appears to reference: "This signification produces as an <i>effect</i> of
-its own procedure the very body that it nevertheless and
-simultaneously claims to discover as that which <i>precedes</i> its own
-action" (emphasis original; 6). Butler explains that "the mimetic or
-representational status of language&#x2026;. is not mimetic at all. On the
-contrary, it is productive, constitutive, one might even argue
-performative" (6). This point, that language produces the reality that
-it claims to merely reference, has two crucial ramifications: first,
-that subjects are always interpellated, and in fact brought into
-subjectivity, by a discourse prior to their their participation in it;
-and second, that this productive power of language nonetheless offers
-a way out of the significatory circle.
-</p>
-
-<p>
-For, amid this regulatory structure lies the possibility of what
-Butler describes as <i>resignifying</i> meaning. Because language
-transcends a merely representative function, because it works to
-<i>produce</i> meaning, language can be resignified toward subversive
-usages by "citing" what Bulter calls the "repudiated" meaning implied
-by signification. Butler offers a rather famous example in the
-resignification of the term "queer," which has been transformed from a
-term of abjection to one of empowerment. "Queer" achieves this
-resignification by harnessing its own repudiation, which is an implied
-but "disavowed abjection [that] will threaten to expose the
-self-grounding presumptions of the sexed subject" (3). In other words,
-each time the term "queer" is used, it draws from that abjection which
-is repudiated in every identification with heterosexuality. Butler
-proposes that one "cite" this repudiation as a resource for
-resignification: "to consider this threat and disruption&#x2026; as a
-critical resource in the struggle to articulate the very terms of
-symbolic legitimacy and intelligibility" (3). Here, the concept
-"citation" indicates an act of signification that draws from the
-authorizing power. By citing the repudiated meaning, the term "queer"
-"resignifyi[es] the abjection of homosexuality into defiance and
-legitimacy" (xxviii). The resignification works because this
-"performative citation" takes on the repudiation as its signification.
-</p>
-
-<p>
-Because language is productive, it also offers a possibility of
-resistance from within the signification system. Butler illustrates
-how Irigaray achieves this resistance by performing the
-phallogocentric language of the thinkers that she criticizes: "she
-mimes philosophy&#x2026; and, in the mime, takes on a language that
-effectively cannot belong to her" (12). Butler reads Irigaray's use
-performative citation as a strategy of undermining his authority
-through repetition: "She cites Plato again and again, but the
-citations expose precisely what is excluded from them, and seek to
-show and to reintroduce the excluded into the system itself"
-(18). Through repetition, Irigaray displaces the logic of
-phallogocentrism, introducing something external to the system while
-remaining within its terminology. Narrating what Butler imagines to be
-Irigaray's thought process in an invigorating monologue, she lays out
-the process of resistance:
-</p>
-<blockquote>
-<p>
-I will not be a poor copy in your system, but I will resemble you
-nevertheless by miming the textual passages through which you
-construct your system and showing that what cannot enter it is already
-inside it (as its necessary outside), and I will mime and repeat the
-gestures of your operation until this emergence of the outside within
-the system calls into question its systematic closure and its
-pretension to be self-grounding" (18).
-</p>
-</blockquote>
-<p>
-In this description of resistance within the cycle of signification,
-where deception emerges from resemblance and insubordiation through
-subservience, the key is repetition. Resistance looks like repetition,
-a continual activity, the miming of the authorizing norm, which
-displaces it by introducing what is outside the logic of
-phallogocentrism.
-</p>
-
-<p>
-Before moving forward, it is important to discuss some of the
-criticism of gender performativity since <i>Gender Trouble</i> was
-published in 1990. It has had two significant critiques, one from the
-field of Trans Studies and the other from political philosophy more
-generally. Both of them concern Butler's concept of gender
-performativity as a discursive phenomenon. Jay Prosser discusses the
-mutual imbrication between Trans and Queer Studies: while Queer
-Studies created the conditions for the emergence of Trans Studies, it
-also depends on the figure of the transgender and cross-gender
-identification in its theorizations. Beyond the common (and obvious)
-critique Butler's use of drag in her famous description of gender
-performativity in <i>Gender Trouble</i>, Prosser critiques Butler's
-"deliteralization of sex" in <i>Bodies that Matter</i>, her follow-up to
-<i>Gender Trouble</i> (27). Prosser's critique&#x2013;which applies to Queer
-Studies generally&#x2013;is that Butler's analysis elides the materiality of
-the body. He points out that Butler reads the figure Venus from
-<i>Gender Is Burning</i> as transgressive only because she was not able to
-attain her sex change, which would "make [her]self complete" (45). In
-other words, Prosser points out that according to Butler, a sex change
-that fulfills the desire for a masculine body would reinscribe
-heterosexual hegemony. This "metaphorization of the transgender body"
-demonstrates one crucial way that Queer Theory has subsumed
-transgressive desires in cross-gendered identifications without
-reckoning with the material body and its real and precarious
-existence, as Venus's death illustrates (55).
-</p>
-
-<p>
-The other critique concerns a logical inconsitency in the way that
-Butler theorizes subjectivity. If the resistance to signification
-comes from outside the cycle of signification, from where does that
-external resistance emerge? Does it not imply a pre-discursive
-identity or at least desire for resistance? Geoff Boucher writes that
-Butler locates the potential for subversion "in a disembodied
-intentionality that appears to stand outside of the
-culturally-scripted subject positions that the individual occupies"
-(115). He aptly questions: "Who (or what) decides 'how to repeat'? On
-what basis is the decision to subvert power made?" (119).
-</p>
-
-<p>
-These critiques are generative because they bring to the surface the
-qualities of Butler's theory which makes it amenable to studying text
-analysis. That is, these critiques surface aspects, such as executable
-language and recursivity, respectively, which will help to understand
-how programmatically analyzing text might align with the study of
-gender.
+This process involves using computer programs which are "trained" by
+certain data sets to create new programs that can then make
+predictions on other datasets.
 </p>
 </div>
 </div>
+</div>
 
-<div id="outline-container-org6d75d5b" class="outline-4">
-<h4 id="org6d75d5b"><span class="section-number-4">1.4.3</span> Woolf's <i>Orlando</i></h4>
-<div class="outline-text-4" id="text-1-4-3">
+
+<div id="outline-container-orgba1b557" class="outline-3">
+<h3 id="orgba1b557"><span class="section-number-3">1.4</span> queer distant reading</h3>
+<div class="outline-text-3" id="text-1-4">
+</div>
+<div id="outline-container-org123a1e5" class="outline-4">
+<h4 id="org123a1e5"><span class="section-number-4">1.4.1</span> Woolf's <i>Orlando</i></h4>
+<div class="outline-text-4" id="text-1-4-1">
 <p>
 I now turn to looking at gender in Virginia Woolf's novel, <i>Orlando: A
 Biography</i>. For those who are unfamiliar with the text, <i>Orlando</i> is a
@@ -1743,12 +1709,10 @@ vew of gender as discursive.
 </p>
 </div>
 </div>
-</div>
 
-
-<div id="outline-container-org84b6783" class="outline-3">
-<h3 id="org84b6783"><span class="section-number-3">1.5</span> Queer Distant Reading</h3>
-<div class="outline-text-3" id="text-1-5">
+<div id="outline-container-org17ac5f3" class="outline-4">
+<h4 id="org17ac5f3"><span class="section-number-4">1.4.2</span> Queer distant reading</h4>
+<div class="outline-text-4" id="text-1-4-2">
 <p>
 For this reason, I argue (and demonstrate below) how the study of
 gender in the text can be accomplished through a quantitative analysis
@@ -1838,7 +1802,7 @@ takes a word, such as "woman," and returns the top words that appear
 most similarly to that word in the text. The NLTK documentation
 explains that similarity is computed by processing the words that
 directly surround the given word, or its "context," and finding other
-words that have similar contexts.<sup><a id="fnr.7" class="footref" href="#fn.7">7</a></sup> It then returns a list of the
+words that have similar contexts.<sup><a id="fnr.6" class="footref" href="#fn.6">6</a></sup> It then returns a list of the
 most frequent terms which have similar contexts to the given
 word. Below are the words associated with "woman" and "man,"
 respectively:
@@ -1864,7 +1828,7 @@ governing code. In this case of the <code>similar_words()</code> method, the cod
 enforces whatever conditions are contained within the function loop.
 In the source code for the <code>similar_words()</code> method, there is an <code>if
 loop</code> that instructs the program to search if the words in the context
-also are associated with other words throughout the text.<sup><a id="fnr.8" class="footref" href="#fn.8">8</a></sup> The
+also are associated with other words throughout the text.<sup><a id="fnr.7" class="footref" href="#fn.7">7</a></sup> The
 output therefore is directly constrained to the conditions in the
 input.
 </p>
@@ -2053,18 +2017,19 @@ historical reflections and futural imaginings" (Butler <i>Bodies</i> 173).
 </p>
 </div>
 </div>
+</div>
 
 
-<div id="outline-container-orgcce9d01" class="outline-3">
-<h3 id="orgcce9d01"><span class="section-number-3">1.6</span> etc</h3>
-<div class="outline-text-3" id="text-1-6">
+<div id="outline-container-org966d8c5" class="outline-3">
+<h3 id="org966d8c5"><span class="section-number-3">1.5</span> etc</h3>
+<div class="outline-text-3" id="text-1-5">
 </div>
-<div id="outline-container-orgc74fe0e" class="outline-4">
-<h4 id="orgc74fe0e"><span class="section-number-4">1.6.1</span> Klein's Image of Absence</h4>
+<div id="outline-container-orgfa660c4" class="outline-4">
+<h4 id="orgfa660c4"><span class="section-number-4">1.5.1</span> Klein's Image of Absence</h4>
 </div>
-<div id="outline-container-orgd4cb488" class="outline-4">
-<h4 id="orgd4cb488"><span class="section-number-4">1.6.2</span> gio on voyant / nltk</h4>
-<div class="outline-text-4" id="text-1-6-2">
+<div id="outline-container-org6b669b8" class="outline-4">
+<h4 id="org6b669b8"><span class="section-number-4">1.5.2</span> gio on voyant / nltk</h4>
+<div class="outline-text-4" id="text-1-5-2">
 <p>
     I'm playing around with voyant tools on Giovanni's Room, and realizing
 that my movements are carefully guided by this impression from textual
@@ -2100,9 +2065,9 @@ What if we read only the sentences with the word "don't" in them?
 </div>
 </div>
 
-<div id="outline-container-org309fd40" class="outline-4">
-<h4 id="org309fd40"><span class="section-number-4">1.6.3</span> so this has been done before</h4>
-<div class="outline-text-4" id="text-1-6-3">
+<div id="outline-container-orge76d32e" class="outline-4">
+<h4 id="orge76d32e"><span class="section-number-4">1.5.3</span> so this has been done before</h4>
+<div class="outline-text-4" id="text-1-5-3">
 <p>
 <a href="https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/bd5a43c1-bbfe-4c5c-8c0d-c3db1776eb99">https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/bd5a43c1-bbfe-4c5c-8c0d-c3db1776eb99</a>
 </p>
@@ -2111,8 +2076,8 @@ What if we read only the sentences with the word "don't" in them?
 </div>
 </div>
 
-<div id="outline-container-orgc4153f1" class="outline-2">
-<h2 id="orgc4153f1"><span class="section-number-2">2</span> more sources</h2>
+<div id="outline-container-orgd92b99e" class="outline-2">
+<h2 id="orgd92b99e"><span class="section-number-2">2</span> more sources</h2>
 <div class="outline-text-2" id="text-2">
 <p>
 <a href="https://jitp.commons.gc.cuny.edu/numbering-ulysses-digital-humanities-reductivism-and-undergraduate-research/#ftn1">https://jitp.commons.gc.cuny.edu/numbering-ulysses-digital-humanities-reductivism-and-undergraduate-research/#ftn1</a>
@@ -2121,8 +2086,8 @@ What if we read only the sentences with the word "don't" in them?
 </div>
 </div>
 
-<div id="outline-container-orga7a4e7f" class="outline-2">
-<h2 id="orga7a4e7f"><span class="section-number-2">3</span> commands</h2>
+<div id="outline-container-org9eeaade" class="outline-2">
+<h2 id="org9eeaade"><span class="section-number-2">3</span> commands</h2>
 <div class="outline-text-2" id="text-3">
 <p>
 c-c c-x f =&gt; create a new footnote
@@ -2136,8 +2101,8 @@ block quotes: #+BEGIN<sub>QUOTE</sub> &amp; #+END<sub>QUOTE</sub>
 </div>
 
 
-<div id="outline-container-org995efda" class="outline-2">
-<h2 id="org995efda"><span class="section-number-2">4</span> Works Cited</h2>
+<div id="outline-container-orgcead967" class="outline-2">
+<h2 id="orgcead967"><span class="section-number-2">4</span> Works Cited</h2>
 <div class="outline-text-2" id="text-4">
 <p>
 Amin, Kadji, Amber Jamilla Musser, and Roy Pérez “Queer Form:
@@ -2234,7 +2199,9 @@ Matthew K. Gold and Lauren Klein. University of Minnesota Press, 2019.
 </p>
 
 <p>
-Moretti, Franco. <i>Distant Reading</i>
+Franco Moretti, “Conjectures on World Literature”, <i>New Left Review</i> 1
+(2000): 54-68, <a href="https://">https://</a> tinyurl.com/moretti2000conjwl.Moretti,
+Franco. <i>Distant Reading</i>
 </p>
 
 <p>
@@ -2297,39 +2264,33 @@ objects” (Piper, Andrew. Enumerations: Data and Literary Study, 2018,
 </p></div></div>
 
 <div class="footdef"><sup><a id="fn.2" class="footnum" href="#fnr.2">2</a></sup> <div class="footpara"><p class="footpara">
-Stephen Ramsay makes a very similar point in his critique of
-Moretti in <i>Reading Machines</i>. According to Ramsay, Moretti’s claims
-that his insights are “independent of interpretation” and his goal of
-“falsification” suggest that “data is presented to us…  not as
-something that is also in need of interpretation” (<i>Reading Machines</i>
-5).
-</p></div></div>
-
-<div class="footdef"><sup><a id="fn.3" class="footnum" href="#fnr.3">3</a></sup> <div class="footpara"><p class="footpara">
 For a more thorough critique of Da's aims and methodology in
 this article, please see Ben Schmidt's "A computational critique of a
 computational critique of computational critique," <i>Ben Schmidt</i>, Dec
 5, 2019. <a href="https://benschmidt.org/post/critical_inquiry/2019-03-18-nan-da-critical-inquiry/">https://benschmidt.org/post/critical_inquiry/2019-03-18-nan-da-critical-inquiry/</a>
 </p></div></div>
 
-<div class="footdef"><sup><a id="fn.4" class="footnum" href="#fnr.4">4</a></sup> <div class="footpara"><p class="footpara">
-He measures the "gendering of words used in characterization"
-("Machine Learning and Human Perspective" 95), that is, gender
-portrayed in novels by women and in novels by men. The verticle axis
-visualizes the representation of words by women, and the horizontal by
-men, with positive numbers signifying overrepresentation of these
-terms. So terms on the top right are words that are used often by men
-and women writers, and terms in the upper left and lower right are
-ones used most often by women and men, respectively.
-</p></div></div>
-
-<div class="footdef"><sup><a id="fn.5" class="footnum" href="#fnr.5">5</a></sup> <div class="footpara"><p class="footpara">
+<div class="footdef"><sup><a id="fn.3" class="footnum" href="#fnr.3">3</a></sup> <div class="footpara"><p class="footpara">
 Tie this relationship on the white/black binary to Eve
 Sedgwick's points about binaries containing an oppostional dynamic in
 which the subordinated term props up the dominant term.
 </p></div></div>
 
-<div class="footdef"><sup><a id="fn.6" class="footnum" href="#fnr.6">6</a></sup> <div class="footpara"><p class="footpara">
+<div class="footdef"><sup><a id="fn.4" class="footnum" href="#fnr.4">4</a></sup> <div class="footpara"><p class="footpara">
+Another popular critique comes from Political Philosophy, and
+concerns a logical inconsitency in the way that Butler theorizes
+subjectivity. If the resistance to signification comes from outside
+the cycle of signification, from where does that external resistance
+emerge? Does it not imply a pre-discursive identity or at least desire
+for resistance? Geoff Boucher writes that Butler locates the potential
+for subversion "in a disembodied intentionality that appears to stand
+outside of the culturally-scripted subject positions that the
+individual occupies" (115). He aptly questions: "Who (or what) decides
+'how to repeat'? On what basis is the decision to subvert power made?"
+(119).
+</p></div></div>
+
+<div class="footdef"><sup><a id="fn.5" class="footnum" href="#fnr.5">5</a></sup> <div class="footpara"><p class="footpara">
 In JavaScript, for example, the <code>for loop</code> is more convoluted:
 </p>
 
@@ -2342,7 +2303,7 @@ for (i = 0; i &lt; word.length; i++) {
 
 </div></div></div>
 
-<div class="footdef"><sup><a id="fn.7" class="footnum" href="#fnr.7">7</a></sup> <div class="footpara"><p class="footpara">
+<div class="footdef"><sup><a id="fn.6" class="footnum" href="#fnr.6">6</a></sup> <div class="footpara"><p class="footpara">
 The <code>similar_words()</code> method from the nltk.text.ContextIndex
 class functions very nearly like the <code>Text.similar()</code> method described
 previously. Below is the definition of the ContextIndex class from the
@@ -2362,7 +2323,7 @@ class ContextIndex(object):
 
 </div></div></div>
 
-<div class="footdef"><sup><a id="fn.8" class="footnum" href="#fnr.8">8</a></sup> <div class="footpara"><p class="footpara">
+<div class="footdef"><sup><a id="fn.7" class="footnum" href="#fnr.7">7</a></sup> <div class="footpara"><p class="footpara">
 Docs for NLTK.text.ContextIndex.similarwords:
 </p>
 
@@ -2386,7 +2347,7 @@ def similar<sub>words</sub>(self, word, n=20):
 </div></div>
 <div id="postamble" class="status">
 <p class="author">Author: Filipa  Calado</p>
-<p class="date">Created: 2022-07-05 Tue 15:14</p>
+<p class="date">Created: 2022-12-08 Thu 16:42</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
