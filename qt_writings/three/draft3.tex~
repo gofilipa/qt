@@ -1,4 +1,4 @@
-% Created 2022-10-14 Fri 18:44
+% Created 2022-10-14 Fri 19:52
 % Intended LaTeX compiler: pdflatex
 \documentclass[11pt]{article}
 \usepackage[utf8]{inputenc}
@@ -29,10 +29,10 @@
 \tableofcontents
 
 \section{three}
-\label{sec:org90dbda8}
+\label{sec:orgd81b138}
 
 \subsection{chapter overview}
-\label{sec:org87ba350}
+\label{sec:orgb5e1e19}
 This paper juxtaposes two unlikely texts--an early hypertext work from
 1999, and a science fiction novel from 1987--to unpack the role of
 “media” across physiological and technological systems. The early
@@ -97,9 +97,9 @@ medium--be it technical or physiological--for the ways it offers a
 kind of capacious mode for theorizing new forms of ethical relations.
 
 \subsection{sex}
-\label{sec:org612adcd}
+\label{sec:orga4fb3d7}
 \subsubsection{section overview}
-\label{sec:orge148915}
+\label{sec:orge0a3d05}
 These sections examine human vs Oankali social structures to read the
 priortization of sensuality and feeling as a basis for more ethical
 relationship. While human nature struggles within the "contradition"
@@ -126,7 +126,7 @@ resisted overcome by bypassing the flesh, which is the topic of my
 next section.
 
 \subsubsection{1. \emph{Dawn} overview}
-\label{sec:orgcc718a1}
+\label{sec:orgee152d1}
 Octavia Butler's novel, \emph{Dawn}, published in 1987, is the first book
 of a trilogy, initially titled \emph{Xenogenesis} and more recently,
 \emph{Lilith's Brood}, about humans who are coerced into interbreeding with
@@ -145,7 +145,7 @@ that their children will look far from human, what she describes as
 "Medusa children" (Butler 87).
 
 \subsubsection{2. the human contradiction}
-\label{sec:orgb9394bb}
+\label{sec:org61dea06}
 One reason that humans cannot accept the gene trade can be attributed
 to their own genetics which contain, in the words of the Oankali
 themselves, the "human contradiction." As explained by Jhdaya, the
@@ -197,7 +197,7 @@ certain men like Peter and Curt eventually attack Lilith and her
 followers, who they regard as responsible, with deadly force.
 
 \subsubsection{3. fear of the unknown}
-\label{sec:org9efc1cb}
+\label{sec:org0991e26}
 One of the implications of the human contradiction is how the
 hierarchical tendency works in tandem with the propensity for
 intelligence to create a fear of the other. Early in the story, this
@@ -282,8 +282,8 @@ knows. The two sides of the contradiction, hierarchy and intelligence,
 work together here to engender a sense of all-consuming fear of the
 other.
 
-\subsubsection{4. fear if the known}
-\label{sec:orgcee9766}
+\subsubsection{4. fear of the known}
+\label{sec:org4b192df}
 The comparison to Medusa, however, demonstrates that the fear of the
 other is based not on the unknown, but on the known. Lilith's use of
 similitude evokes a point that Cherrie Moraga, Chicana feminist
@@ -315,8 +315,8 @@ process is about finding similarity in difference as it is being felt,
 in the form of "aches" and "longings." Who has lighter skin and more
 education than most in her Latino, working-class background,
 
-\subsubsection{{\bfseries\sffamily TODO} 5. sensuality of oppression [add Anzaldua]}
-\label{sec:org0431218}
+\subsubsection{{\bfseries\sffamily TODO} 5. sensuality in communication [add Anzaldua]}
+\label{sec:orgbf3a897}
 For Chicana theorists like Moraga and Gloria Anzaldua, the body is
 both the central obstacle and the solution for achieving interpersonal
 connection with the other. To overcome the fear of the other, it is
@@ -344,29 +344,29 @@ understanding while keeping the specificity of oppression local and
 situated, which is to say in some way unknowable or
 un-essentializable. The power of this kind of connection comes from
 its incompletion, its partiality, its lack of fulfillment. 
-p
-Other Chicana and Latin American theorists, like Ofelia Schutte and
-Norma Alarcon, discusses another side of the process of overcoming
-difference in communication. Ofelia Schutte, for example, explores the
-possibilities for "cross-cultural communication," specifically, the
-question of "how to speak to the 'other' who is different from
-oneself" (Schutte 53). Schutte's strategy is to emphasize attention to
-what she calls "incommensurability," that is, the "residue of meaning
-that will not be reached in cross-cultural endeavors"
-(56). Incommensurability refers to the quality that is lost in
-translation, so to speak, when members from two cultures interact. In
-order to tap into incommensurability, Schutte explains, interlocutors
-might attend to moments when the other's speech "resonates in [one] as
-a kind of strangeness, a kind of dsiplacement of the usual
-expectation" (Schutte 56). The point here is to not subsume that
-quality of strangeness in the other into familiar structures of
-knowledge, like the way that Lilith subsumes Jhadaya's strangeness
-into the similitude of the terrifying Medusa. Rather, the point is to
-sustain the feelings of difference without trying to incorporate them
-into pre-existing (dominant) modes of thought. Norma Alarcon makes a
-similar point in her argument about the dangers of "ontologiz[ing]
-difference," that is, of subsuming specific difference into a
-universal identity politics. She explains that,
+
+Chicana and Latin American theorists like Ofelia Schutte and Norma
+Alarcon emphasize the danger in achieving perfect communication.
+Schutte, for example, explores the problem of "cross-cultural
+communication," specifically, the question of "how to speak to the
+'other' who is different from oneself" (Schutte 53). Schutte's
+strategy is to emphasize attention to what she calls
+"incommensurability," that is, the "residue of meaning that will not
+be reached in cross-cultural endeavors" (56). Incommensurability
+refers to the quality that is lost in translation, so to speak, when
+members from two cultures interact. In order to tap into
+incommensurability, Schutte explains, interlocutors might attend to
+moments when the other's speech "resonates in [one] as a kind of
+strangeness, a kind of dsiplacement of the usual expectation" (Schutte
+56). The point here is to not subsume that quality of strangeness in
+the other into familiar structures of knowledge, like the way that
+Lilith subsumes Jhadaya's strangeness into the similitude of the
+terrifying Medusa. Rather, the point is to sustain the feelings of
+difference without trying to incorporate them into pre-existing
+(dominant) modes of thought. Norma Alarcon makes a similar point in
+her argument about the dangers of "ontologiz[ing] difference," that
+is, of subsuming specific difference into a universal identity
+politics. She explains that,
 \begin{quote}
 The desire to translate as totalizing metphorical substitution without
 acknowledging the "identity-in-difference," so that one's own system
@@ -382,6 +382,8 @@ feelings of the body, of both the "emotional, heartfelt grappling"
 within the self \emph{and} the "incommensurability" of the other, which
 seeks to feel without attempting to recodify.
 
+\subsubsection{6. Oankali social collectivism}
+\label{sec:orgf479b49}
 For most humans, who are bound and determined by their biological
 impulses and social conditioning, this process is nearly
 impossible. It is only through significant effort and supra-human
@@ -405,14 +407,11 @@ collectivism based on mutual sensation, in particular, through
 pleasure. It offers the human-Oankali couplings allow for a
 reconsideration of the role of agency in ethics.
 
-\subsubsection{acquisitiveness leads to collectivity, refiguring ethics}
-\label{sec:orgf13651a}
-
-It is important to situate, however, Oankali collectivism within their
-own innate tendencies as a colonizing, alien species. For the Oankali,
-ther deepest instinct is to acquire new species for their "gene
-trade." Jhadaya explains: "We acquire new life, seek it, investigate
-it, manipulate it, sort it, use it. We carry the drive to do this in a
+Before moving forward, however, it is important to situate Oankali
+collectivism within a larger purpose of colonization. Jhadaya explains
+that the deepest drive for the Oankali is to acquire new species for
+their "gene trade": "We acquire new life, seek it, investigate it,
+manipulate it, sort it, use it. We carry the drive to do this in a
 minuscule cell within a cell, a tiny organelle within every cell of
 our bodies" (84). The Oankali compulsion to acquire may seem to have
 some similarities with the human drive for hierarchy, in particular,
@@ -435,11 +434,11 @@ unanimous agreement. Agency is distributed among the beings, who are
 singular and plural at once, "ourself and ourselves."
 
 Their method of acquisition, though arguably similar to human acts of
-colonization in the way they expand through incorporation, presents a
-drastically different understanding of ethical relationships. Because
+colonization in the way they expand through incorporation, presents
+different priorities when it comes to ethical relations. Because
 health and vitality are necessary in order to trade genes, the Oankali
 do not admit any form of harm or desctruction of life. At several
-points in the book, this attachment to life becomes a blind spot,
+points in the book, this attachment to life creates a blind spot,
 preventing them from anticipating acts of violence and at one point,
 even death, by humans. Toward the end of the novel, Lilith's partner,
 Joseph, is killed by a group of humans who rebel and attempt to escape
@@ -453,36 +452,29 @@ mother. You could never have said so. Just as Joseph could never have
 invited me into his bed--no matter how much he wanted me
 there. Nothing about you but your words reject this child." 468-9.
 \end{quote}
-Nikanj's explanation here reformulates the question of agency from
-conscious acknowledgement ("You could never have said so") into
-subconcious desire. For the Oankali, pleasure is the principal factor
-for decision-making. For, unlike humans, Oankali lack the capacity to
+Nikanj's reasoning is simple: no matter what Lilith says, it knows she
+will love and accept the child. For the Oankali, pleasure, not
+preference or choice, is the principal factor for
+decision-making. For, unlike humans, Oankali lack the capacity to
 self-delude through language. When Lilith protests that "It won't be
-human," Nikanj points out the facts: "You shouldn't begin to lie to
+human," Nikanj warns that "You shouldn't begin to lie to
 yourself. It's a deadly habit. The child will be yours and Joseph's"
-(469). Nikanj's reasoning is simple: no matter what she says, it knows
-she will love and accept the child. The collective nature of the
-Oankali prioritizes pleasure, in this case pleasure tied both to
-concieving a child and mothering a child, over what the organism says
-or thinks. The question of agency, and therefore what counts as
-coercion and manipulation, depends on pleasure rather than individual
-choice, which has significant implications for ethics.
+(469). That agency depends on pleasure rather than individual choice
+has significant implications for ethics, particularly for what counts
+as coercion and manipulation.
 
-\subsubsection{pleasure in flesh breaches bounds of the subject}
-\label{sec:orgb17c0cb}
-These qualities of materiality in the black flesh enable us to return
-to Butler's novel with a heightened sensibility about the role of
-flesh in the sex act between humans and aliens. For, even when this
-sex act appears contained to the mind, it is always portrayed as
-something that relies on and is guided by the material exegencies of
-the body. When being seduced by the ooloi, the humans' sex drive is so
-strong that it overrides the question of consent. Jayna Brown points
-out that "the pleasurable experience of sex with the Ooloi is so
-highly compelling it is sometimes likened to rape in the text"
-(105). Lilith, however, apepars to willingingly surrender to the
-Oankali when it comes to sex, even when she resists their control at
-all other points of the novel. This tension emerges when Nikanj it
-invites Lilith to join it and Joseph in bed:
+\subsubsection{7. pleasure overrides choice}
+\label{sec:org4b9b962}
+For, even when this sex act appears contained to the mind, it is
+always portrayed as something that relies on and is guided by the
+material exegencies of the body. When being seduced by the ooloi, the
+humans' sex drive is so strong that it overrides the question of
+consent. Jayna Brown points out that "the pleasurable experience of
+sex with the Ooloi is so highly compelling it is sometimes likened to
+rape in the text" (105). Lilith, however, apepars to willingingly
+surrender to the Oankali when it comes to sex, even when she resists
+their control at all other points of the novel. This tension emerges
+when Nikanj invites Lilith to join it and Joseph in bed:
 \begin{quote}
 “Lie here with us,” it said, speaking alone. “Why should you be down
 there by yourself?”
@@ -506,35 +498,14 @@ drive and determinacy, one instead encounters their collapse or
 conflation. This total surrender to her sexual desire appears in stark
 contrast to her other attempts to resist Oankali colonization,
 summarized what can be considered her motto, "Learn and run!", that
-she repeats up until the last page of the novel. The irony of a sex
-drive that vies against survival instincts recalls a tension that
-critic Jayna Brown points about Bulter's work more generally, a
-tension between change and perseverance. Brown explains that the
-question of survival hinges on how one defines survival: is it by
-maintaining humanity, what she calls "prevailing," or by adapting to
-the demands of the external world, what she calls "change" (Brown
-94). Brown points out that although humans "must adapt to survive,
-[\ldots{}] species are never stable over time if they successfully adapt"
-(94).
-
-[moved from sex section]
-Lilith's aversion to the prospect of humanity changing signals a deep
-predicament which she and other humans will struggle against for the
-rest of the series. Like other of Butler's work, this novel explores
-the paradox that humanity must fundamentally change in order to
-survive. Speaking of the \emph{Parable} novels, which also depict the
-events following societal collapse, Jayna Brown explains that, for
-humanity, "changing and prevailing cannot coexist\ldots{} We must adapt to
-survive, but species are never stable over time if they successfully
-adapt" (Brown 94). Throughout the novel, Lilith toes the line of this
-paradox, simultaneously encouraging the humans to obey the aliens'
-directions while preparing them for escape, encouraging them to "learn
-and run."  Nonetheless, for more than a few humans in her group, she
-represents acquiesence to their new captors, and becomes a recepticle
-for their anger and resistance to colonization. Despite the Oankali's
-promise of long, healthy lives for their human mates, it is difficult
-for the humans to take their advances as promising anything but
-annihilation.
+she repeats up until the last page of the novel. Speaking of the
+\emph{Parable} novels, which also depict the events following societal
+collapse, Jayna Brown explains that, for humanity, "changing and
+prevailing cannot coexist\ldots{} We must adapt to survive, but species are
+never stable over time if they successfully adapt" (Brown
+94). Throughout the novel, Lilith toes the line of this paradox,
+simultaneously encouraging the humans to obey the aliens' directions
+while preparing them for escape.
 
 In this novel, adaptation requires changes that necessarily
 re-formulate what constitutes subjectivity, that is, the boundaries of
@@ -548,9 +519,7 @@ sensations, is to loosen the bounds of individualism, to mingle with
 other flesh and with the elements" (11). Her concept of the flesh
 mends Spillers's earlier differentiation between flesh, or "captive
 body," from "motive will," to offer a model of collective subjectivity
-enabled by feeling. She wonders whether the "self need[s] bounded
-wholeness in order to feel, or can it thrive in the effluent?" (Brown
-14). Her answer--that while the senses "individuate us, demarcate our
+enabled by feeling. While the senses "individuate us, demarcate our
 boundaries," they also "mark the ways our bodies are open. The body,
 the self, is porous, receptive, impressionable" (Brown 14). This
 openness recalls the immersion between Lilith and Joseph during sex:
@@ -560,8 +529,6 @@ perfectly matched, ablaze in sensation, lost in one another"
 (309). The pleasure in the flesh appears to momentarily dissolve the
 boundaries of the individual.
 
-\subsubsection{ethical formations based on feeling}
-\label{sec:orgd5223bd}
 Basing subjectivity in the volition of the flesh dismantles one of the
 core tenets of liberal subjectivity, that of agency. The notion of
 choice becomes re-formulated to the sharing mutual feeling, of feeling
@@ -611,6 +578,8 @@ affirms, "The erotic is a measure between the beginnings of our sense
 of self and the chaos of our strongest feelings," then individuality
 is central for the experience of its own dissolution (54).
 
+\subsubsection{{\bfseries\sffamily TODO} 8. the posthuman critique}
+\label{sec:orgec4a08f}
 This ethics based on feeling revises traditional humanist and
 poshumanist elisions of the body. As N. Katherine Hayles's work
 demonstrates, such elisions emerge from early conceptualizing of the
@@ -626,10 +595,8 @@ markers of bodily difference, including sex, race, and ethnicity"
 fiction spun in over the history of cybernetic development, mending
 the rift between body and mind.
 
-This is centering the flesh in conversations about embodied 
-
-\subsubsection{Flesh as interface scrambling sense/thought registers}
-\label{sec:org0267dc7}
+\subsubsection{9. scrambling sense and thought}
+\label{sec:org9df3466}
 One of the consequnces of the Oankali focus on pleasure as a
 foundation for ethics may seem perhaps paradoxical from a human
 perspective. The method that Oankali have sex dispenses with what is
@@ -684,8 +651,6 @@ into the brain's pleasure centers. By routing sensual connection to
 the brain, they eliminate the space for discomfort and even repulsion
 which can occur when in flesh-to-flesh contact.
 
-\subsubsection{first implication: materiality inexctricable from mind}
-\label{sec:orgfe64a39}
 The elimination of flesh in sex reveals a complex imbrication between
 physical sensation and mental experience, which pushes against a
 tendency in narratives that feature the "posthuman," that is, figures
@@ -733,18 +698,18 @@ inextricable from physical sensation.
 
 \begin{enumerate}
 \item Dawn Quotes
-\label{sec:orgeb4de67}
+\label{sec:org2b53189}
 
 \begin{enumerate}
 \item Colonialist intentions, Crossbreeding vs Trade:
-\label{sec:org804887d}
+\label{sec:org4d32cbb}
 "'It is crossbreeding, then, no matter what you call it.' 'It's what I
 said it was. A trade. The ooloi will make changes in your reproductive
 cells before conception and they’ll control conception.'" (Butler
 87). 
 
 \item Irresitable sex drive
-\label{sec:orgb9cb9a1}
+\label{sec:orga03ea18}
 \begin{quote}
 “Lie here with us,” it said, speaking alone. “Why should you be down
 there by yourself?”
@@ -766,77 +731,20 @@ Earth.
 \end{enumerate}
 \end{enumerate}
 
+
 \subsection{flesh}
-\label{sec:org12f548c}
+\label{sec:orgbfbf778}
 \subsubsection{section overview}
-\label{sec:org09eb497}
-Bound by the impulses of the "human contradiction," the flesh is a
+\label{sec:org8685594}
+Bound by the impulses of the "human contradiction," the flesh poses a
 problem for interpersonal relationships. It functions as a barrier to
 more pleasurable forms of social organization. Black Feminist studies
-help us to see how the Flesh can be redeployed. Their emphasis on the
-surface, for example, finds fugitivity, foreclosure as possible modes
-of resistance.
+help us to see how the Flesh can be redeployed, through their
+examination of flesh as surface. Their emphasis on the surface finds
+fugitivity and foreclosure as possible modes of resistance.
 
-\subsubsection{unmappability, collision of registers}
-\label{sec:orgb50023c}
-This inexctricability of physical sensation from mental interpretation
-has an analogue in the collision of registers, such as the visual and
-the material. C. Riley Snorton describes this collision as
-"unmappability," relating this ambiguous and liminal space to the
-process of racialization. As an example, Snorton does a close reading
-of a the material qualities of a daguerrotype, an early method of
-photography:
-\begin{quote}
-To view a daguerreotype is to look at an image that does not sit on a
-surface but appears to be floating in space. Rather than an antiquated
-form of modern photography, as Foucault’s characterization implies,
-the daguerreotype provides a series of lessons about power, and racial
-power in particular, as a form in which an image takes on myriad
-perspectives because of the interplay of light and dark, both in the
-composition of the shot and in the play of light on the display. That
-the image does not reside on the surface but floats in an unmappable
-elsewhere offers an allegory for race as a procedure that exceeds the
-logics of a bodily surface, occuring by way of flesh, a racial
-mattering that appears through puncture in the form of a wound or
-covered by skin and screened from view. 40
-\end{quote}
-The format of the dagguereotype evokes the method by which meaning is
-stripped then reapplied to flesh that, for captive bodies, "functioned
-as a disarticulation of human form from its anatomical features"
-(18). The physical material of the image, that is the silvered copper
-plate of the daguerreotype, at once solidifies its ground and indexes
-an ambiguous space, what Snorton describes as the "unmappable
-elsewhere" which swells to obscure while simultaneously containing the
-evidence of racial significations. Snorton's curious use of the word
-"puncture" here recalls Roland Barthes's concept of the "punctum,"
-which indexes the experience of being pierced by a detail of the
-photograph (\emph{Camera Lucida} 27). Opposed to the concept of the
-\emph{studium}, which represents the dominant historical, social, or
-cultural meaning portrayed within and by the photograph, the \emph{punctum}
-is the "sting, speck, cut, little hole\ldots{} that accident which pricks
-me (but also buises me, is poignant to me)" (Barthes \emph{Camera Lucida}
-27-28). Barthes explains that, "However lightning-like it may be, the
-\emph{punctum} has, more or less potentially, the power of expansion. This
-power is often metonymic" (\emph{Camera Lucida} 45). For Barthes, the
-\emph{punctum} is that detail of a photograph which at once pierces the
-viewer and suggests an expansion, an effect which is exagerrated in
-erotic photographs, where the \emph{punctum}, "is a kind of subtle
-\emph{beyond}--as if the image launched desire beyond what it permits us to
-see" (59). Barthes's theorization of the \emph{punctum} allows us to see
-how the flesh can be at once a \emph{mattering}, a becoming matter, and an
-accumulation of meaning, which in simulteneity, has the effect peirces
-the viewer. We cannot, as Snorton points out, locate the image at a
-specific point on the copper-plate is essential, though we can feel
-its puncture. That the image cannot be traced back to a single
-location, yet is contained and signifies within that physical space,
-is crucial for undersanding the way that the physical registers
-interact with symbolic ones. The meeting between this liminal space of
-the image's visual content and its silver-plated copper ground offers
-another perspective for understanding the collision of flesh and
-racialization.
-
-\subsubsection{transition: concept of flesh to understand the gap}
-\label{sec:orgba1e629}
+\subsubsection{1. the reduction of flesh}
+\label{sec:orgc79175c}
 The process of racialization, which builds from the flesh not only
 helps us to understand the inextricability of the material from the
 mental, but also offers a possibility for developing social relations
@@ -845,28 +753,26 @@ inexctricability between registers, I turn to thinkers in Black
 Feminist Studies whose theorizations of the flesh enables them to
 parse various racial and gendered processes, the "symbolic order" or
 "American grammar," in Hortense Spillers words, ascribed to Black
-bodies over time (68). These theorizations of the flesh, which indexes
-a liminal space where meaning is simultaneously ascribed and obscured,
+bodies over time (68). These theorizations of the flesh, which index a
+liminal space where meaning is simultaneously ascribed and obscured,
 will become the ground for my working through the intersections of
-materiality and meaning. They will allow me to trace in more detail
-how the process of reduction to flesh creates an opportunity for
-resisting the compulsions of the liberal humanist subject.
+physical materiality and symbolic meaning in my next section,
+\emph{skin}. They will allow me to trace in more detail how the process of
+reduction to flesh simultaneously creates an opportunity for resisting
+certain kinds of reading(s) [definitely rephrase].
 
-\subsubsection{the reduction of flesh: fugitivity \& opacity}
-\label{sec:org494d757}
-In the nearly impossible task of accounting of the egregious yet
-overlooked of horrors of transatlantic slavery, thinkers in Black
-Feminist Studies have flipped the reduction of the body to flesh from
-a tool of subjectification to one of (not unproblematic)
-potential. The idea of black flesh as a reduction of the black body is
-first theorized by Hortense Spillers in her influential essay, "Mama's
-Baby, Papa's Maybe: An American Grammar Book." Here Spillers puts
-forth the conception of the black body as a stack of "attentuated
-meanings, made in excess over time, assigned by a particular
-historical order" (65). These meanings developed from the Black body
-that had been reduced to flesh, "severing of the captive body from its
-motive will," that Spillers traces to the middle passage. Spillers
-enumerates four effects of this violent process (67):
+In the nearly impossible task of the history of transatlantic slavery,
+thinkers in Black Feminist Studies have redeployed the systematic
+reduction of the body to flesh into a tool of resistence. The idea of
+black flesh as a reduction of the black body is first theorized by
+Hortense Spillers in her influential essay, "Mama's Baby, Papa's
+Maybe: An American Grammar Book." Here Spillers puts forth the
+conception of the black body as a stack of "attentuated meanings, made
+in excess over time, assigned by a particular historical order"
+(65). These meanings developed from the Black body that had been
+reduced to flesh, "severing of the captive body from its motive will,"
+that Spillers traces to the middle passage. Spillers enumerates four
+effects of this violent process (67):
 \begin{quote}
 \begin{enumerate}
 \item the captive body becomes the source of an irresistible, destructive
@@ -885,96 +791,83 @@ Imposed by the reduction of Black bodies to bare physicality, to a
 material substance for labor and exchange, there is, in "stunning
 contradiction," some form of meaning which aheres to the flesh. This
 process of the reduction to flesh, which Spillers calls
-"pornotroping," opens a gap for the layering of sensuality,
+"pornotroping," opens a space for the layering of sensuality,
 objectificaiton, otherness, and powerlessness (Spillers 67).
 
+\subsubsection{2. fungibility -> fugitivity}
+\label{sec:org3012942}
 Following Spillers, who poses flesh as the "zero degree of social
 conceptualization", thinkers in Black Feminist Studies have drawn from
 the flesh as a ground for theorizing the intersection of materiality
-and meaning (Spillers 67). For example, Snorton attends to flesh as a
-site of resistance against the imposition of racial
+and meaning (Spillers 67). For example, C. Riley Snorton attends to
+flesh as a site of resistance against the imposition of racial
 signification. Snorton explains that that the whittling down of black
 subjectivity, which enabled chattel slavery, imposes a state of
 interchangeability, what he calls the "fungible." This fungibility in
 Black flesh creates a possibility for for "fugitivity," or escape,
-from the trappings of sex and gender. He explains that "Captive and
-divided flesh functions as malleable matter for mediating and remaking
-sex and gender as matters of human categorization and personal
-definition" (20). To examine the imbrication of flesh, gender, sex,
-and race, Snorton demonstrates how the reduction of black female
-bodies to flesh for experimental purposes enabled the emergence of
-field of gynecology as a white women's science. Snorton explains that,
-while white femininity prevents the inspection of white female
-genitalia, it is constructed out of the "scopic availability" of black
-flesh (33). Beyond facilitating the study of white bodies, however,
-Black flesh also creates a "capacitating structure" that enables
-"fungibility for fugitive movement" (Snorton 53). Here, Snorton
-interweaves various narratives of fugitivity, such as that of Harriet
-Jacobs, whose story of escape in 1842 is documented in \emph{Incidents in
-the Life of a Slave Girl} (1861). While traditional racial "passing"
-assumes an ambiguity that enables one to pass for white, the reduction
-to Black flesh, by contrast, endows a "gender indefiniteness" for
-"cross-gendered modes of escape" (56). In other words, it is the
-"blackening" of Jacobs that allows her to obtain a level of
-"fungibility, thingness" that precludes her recognition (Snorton
-71). Being suceptible to multiple mappings of meaning, the Black flesh
-opens a site for potentiality that paradoxically facilitates escape
-from signification. The reduction to flesh here creates an almost
-chaotic state where the body can slip in and out of signification.
+from the trappings of sex and gender: "Captive and divided flesh
+functions as malleable matter for mediating and remaking sex and
+gender as matters of human categorization and personal definition"
+(20). Snorton describes how the reduction of black female bodies to
+flesh for experimental purposes enabled the emergence of field of
+gynecology as a white women's science. While white femininity prevents
+the inspection of white female genitalia, it is constructed out of the
+"scopic availability" of black flesh (Snorton 33). Beyond facilitating
+the study of white bodies, however, Black flesh also creates a
+"capacitating structure" that enables "fungibility for fugitive
+movement" (Snorton 53). Here, Snorton interweaves various narratives
+of fugitivity, such as that of Harriet Jacobs, whose story of escape
+in 1842 is documented in \emph{Incidents in the Life of a Slave Girl}
+(1861). While traditional racial "passing" assumes an ambiguity that
+enables one to pass for white, the reduction to Black flesh, by
+contrast, endows a "gender indefiniteness" for "cross-gendered modes
+of escape" (56). In other words, it is the "blackening" of Jacobs that
+allows her to obtain a level of "fungibility, thingness" that
+precludes her recognition (Snorton 71). Being suceptible to multiple
+mappings of meaning here, the Black flesh therefore opens a site for
+potentiality that paradoxically facilitates escape from
+signification. The reduction to flesh creates an almost chaotic state
+where the body can slip in and out of signification.
 
+\subsubsection{3. opacity -> foreclosure}
+\label{sec:org36a4f85}
 Like Snorton, Musser builds off Spillers' theorization of the Black
-flesh as a reduced state. Part of Musser's project is to consider the
-inherent violence that adheres in the concept of the
-pornotrope. Drawing from Alexander G. Weheliye's analysis of the
-pornotrope, which he argues is explicitly embedded with the violence
-of sexual desire which seeks to possess the object, Musser points out
-that "to think with the flesh and to inhabit the pornotrope is to hold
-violence and possibility in the same frame" (12). Musser explains that
-while desire cannot be severed from domination, emphasis on fleshiness
-brings to the surface other modes of relationality, which exist
-alongside and are in tension with the desire to dominate. One of these
-modes is hunger, which she theorizes through her idea \emph{brown
-jouissance}, or the "reveling in fleshiness" of "excess forms of
-embodiment" (\emph{Sensual Excess} 3). Like Snorton, Musser uses
-photography to read the effects of materiality, in this case, of what
-she calls the "surface aesthetics" of the image. Musser examines a
-photograph of the artist Lyle Ashton Harris's impersonation, what she
-calls a "citation," of Billie Holiday. Musser's reading of the
-photograph emphasizes how its surface reveals a self that is excessive
-yet inaccessible. Musser notes the details of Harris's dress, such as
-the "pearls, eye shadow and lipstick" that capture the light of the
-image, as the "Shine [which] plays joyfully with the idea of the body
-as body while rejecting the demand to present anything other than
-surface" ("Surface-Becoming" par. 3). Emphasis on the surface here,
-like Snorton's reading of "unmappability" in the photograph, indexes
-the matter, the material aspects, of the image. However, Mussers
-reading of the photograph also \emph{forecloses} access to that which we
-cannot know. In this way, the surface aesthetics of the image exist in
-tension with the inescapable violence of the pornotrope, that is, the
-desire to possess, to know, the object. She explains, "we can
-understand surface as the underside of the scientific/pornographic
-drive toward locating knowledge in an 'objective' image"
-("Surface-Becoming" par. 2). The material of the surface,
-"highlight[ing] the mutability of the flesh rather than interiority,"
-creates a barrier against this kind of knowledge (Musser,
-"Surface-Becoming" par. 11). Musser explains that the opacity of the
-surface, while foreclosing the reading of interiority, still
-facilitates other readings, in this case, in the evocation of
-hunger. Harris's open mouth, for example, suggests a mode of
-relationality that resists the reading of possessive domination:
+flesh as a reduced state. For Musser, this means thinking alongside
+the inherent violence that adheres in the concept of the pornotrope:
+""to think with the flesh and to inhabit the pornotrope is to hold
+violence and possibility in the same frame" (12). Drawing from
+Alexander G. Weheliye's point that sexual desire cannot be severed
+from domination, Musser's emphasis on fleshiness brings to the surface
+other modes of relationality that exist alongside and are in tension
+with the desire to dominate. One of these modes is hunger, which she
+reads through a photograph of the artist Lyle Ashton Harris's
+impersonation of Billie Holiday. Musser's reading of its surface
+emphasizes a self that is excessive yet inaccessible. Musser notes the
+details of the Harris's dress, such as the "pearls, eye shadow and
+lipstick" that capture the light of the image, as the "Shine [which]
+plays joyfully with the idea of the body as body while rejecting the
+demand to present anything other than surface" ("Surface-Becoming"
+par. 3). Musser explains that Harris's open mouth, for example: 
 \begin{quote}
-This tells us nothing of Holiday or Harris, but it reveals a
-sensuality or mode of being and relating that prioritizes openness,
-vulnerability, and a willingness to ingest without necessarily
-choosing what one is taking in. This is not the desire born of
-subjectivity in which subject wishes to possess object, but an
-embodied hunger that takes joy and pain in this gesture of radical
-openness toward otherness. 5
+tells us nothing of Holiday or Harris, but it reveals a sensuality or
+mode of being and relating that prioritizes openness, vulnerability,
+and a willingness to ingest without necessarily choosing what one is
+taking in. This is not the desire born of subjectivity in which
+subject wishes to possess object, but an embodied hunger that takes
+joy and pain in this gesture of radical openness toward otherness. 5
 \end{quote}
-Musser's conception of surface aesthetics focuses on how \emph{opacity}, in
-foreclosing access to interiority, opens relational possibilities that
-transcend the boundaries of the possessive subject.
+While emphasis on the surface here indexes the matter, the material
+aspects, of the image, it also \emph{forecloses} access to that which we
+cannot know. In this way, Musser explains, the surface aesthetics of
+the image exist in tension with the inescapable violence of the
+pornotrope: "we can understand surface as the underside of the
+scientific/pornographic drive toward locating knowledge in an
+'objective' image" ("Surface-Becoming" par. 2). In foreclosing access
+to interiority, opacity opens relational possibilities that transcend
+the boundaries of the possessive subject.
 
+\subsubsection{4. surface -> shifting registers}
+\label{sec:org14bc0e6}
 In another example, Musser moves to a painting by artist Mickalene
 Thomas entitled \emph{Origin of the Universe 1} (2012), whose depiction of
 a female vulva evokes French realist painter Gustave Courbet's
@@ -1005,20 +898,20 @@ I want to emphasize the movement between these registers here. While
 the significatory system that works on the image of the black vulva is
 inescapable, the effect of objectification exists alongside the
 projection of pleasure. The surface of the image facilitates this
-shift in registers. I am interested in how attention to materiality,
-to opacity of the brilliant surface, enables one to apprehend this
-shifting from one register to another, like the the shifting of
-torque.
+shift in registers. Attention to materiality, to opacity of the
+brilliant surface, enables one to apprehend this movement from one
+frame to another, from "violence, [to] excess, [and to] possibility."
 
+[connect this to the notion of "torque" in M. Kirschenbaum]
 
 \subsection{skin}
-\label{sec:org27b4063}
-Here, the scrambling of the physical and symbolic registers 
+\label{sec:org9243bee}
+incoming. 
 
 \subsection{unstructured fragments}
-\label{sec:orga5c55b2}
+\label{sec:orgf80d4d8}
 \subsubsection{flesh becomes a queer form}
-\label{sec:org7bef9a6}
+\label{sec:org08d9e69}
 Snorton explains that the materiality of a daguerreotype suggests "a
 visual grammar for reading the imbrications of 'race' and 'gender'
 under captivity" (40). In the daguerrotype, the surface becomes the
@@ -1043,7 +936,7 @@ the technological stack. But first, it will be helpful to ground our
 discussion in Media Archaeological debates.
 
 \subsubsection{Media Archaeology overview}
-\label{sec:org1fc1f35}
+\label{sec:org8f56daf}
 New Media studies poses an understanding of digital media as
 alternately undifferentiated or immaterial, or then as durable and
 particular inscription. Media theorist Friedrich Kittler, who famously
@@ -1104,9 +997,67 @@ realities of hardware and networks
 
 
 
+\subsubsection{unmappability, collision of registers}
+\label{sec:org690564c}
+This inexctricability of physical sensation from mental interpretation
+has an analogue in the collision of registers, such as the visual and
+the material. C. Riley Snorton describes this collision as
+"unmappability," relating this ambiguous and liminal space to the
+process of racialization. As an example, Snorton does a close reading
+of a the material qualities of a daguerrotype, an early method of
+photography:
+\begin{quote}
+To view a daguerreotype is to look at an image that does not sit on a
+surface but appears to be floating in space. Rather than an antiquated
+form of modern photography, as Foucault’s characterization implies,
+the daguerreotype provides a series of lessons about power, and racial
+power in particular, as a form in which an image takes on myriad
+perspectives because of the interplay of light and dark, both in the
+composition of the shot and in the play of light on the display. That
+the image does not reside on the surface but floats in an unmappable
+elsewhere offers an allegory for race as a procedure that exceeds the
+logics of a bodily surface, occuring by way of flesh, a racial
+mattering that appears through puncture in the form of a wound or
+covered by skin and screened from view. 40
+\end{quote}
+The format of the dagguereotype evokes the method by which meaning is
+stripped then reapplied to flesh that, for captive bodies, "functioned
+as a disarticulation of human form from its anatomical features"
+(18). The physical material of the image, that is the silvered copper
+plate of the daguerreotype, at once solidifies its ground and indexes
+an ambiguous space, what Snorton describes as the "unmappable
+elsewhere" which swells to obscure while simultaneously containing the
+evidence of racial significations. Snorton's curious use of the word
+"puncture" here recalls Roland Barthes's concept of the "punctum,"
+which indexes the experience of being pierced by a detail of the
+photograph (\emph{Camera Lucida} 27). Opposed to the concept of the
+\emph{studium}, which represents the dominant historical, social, or
+cultural meaning portrayed within and by the photograph, the \emph{punctum}
+is the "sting, speck, cut, little hole\ldots{} that accident which pricks
+me (but also buises me, is poignant to me)" (Barthes \emph{Camera Lucida}
+27-28). Barthes explains that, "However lightning-like it may be, the
+\emph{punctum} has, more or less potentially, the power of expansion. This
+power is often metonymic" (\emph{Camera Lucida} 45). For Barthes, the
+\emph{punctum} is that detail of a photograph which at once pierces the
+viewer and suggests an expansion, an effect which is exagerrated in
+erotic photographs, where the \emph{punctum}, "is a kind of subtle
+\emph{beyond}--as if the image launched desire beyond what it permits us to
+see" (59). Barthes's theorization of the \emph{punctum} allows us to see
+how the flesh can be at once a \emph{mattering}, a becoming matter, and an
+accumulation of meaning, which in simulteneity, has the effect peirces
+the viewer. We cannot, as Snorton points out, locate the image at a
+specific point on the copper-plate is essential, though we can feel
+its puncture. That the image cannot be traced back to a single
+location, yet is contained and signifies within that physical space,
+is crucial for undersanding the way that the physical registers
+interact with symbolic ones. The meeting between this liminal space of
+the image's visual content and its silver-plated copper ground offers
+another perspective for understanding the collision of flesh and
+racialization.
+
 
 \section{Works}
-\label{sec:org7ff2d2a}
+\label{sec:orgeca1451}
 Alarcon, Norma. "Conjugating Subjects in the Age of Multiculturalism"
 \emph{Mapping Multiculturalism}. Avery F. Gordon and Christopher Newfield,
 editors. University of Minnesota Press. pp. 127-148.

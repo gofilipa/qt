@@ -1,5 +1,8 @@
 * three
 
+"Containment and Dominance: Encoding Queer Erasure in Oscar Wilde's
+/The Picture of Dorian Gray/"
+
 ** chapter overview
 This paper juxtaposes two unlikely texts--an early hypertext work from
 1999, and a science fiction novel from 1987--to unpack the role of

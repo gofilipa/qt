@@ -205,6 +205,48 @@ History of the Internet:
   standardization and freedom? Make this more evident.
 
 
+** Queer DH
+*** Two approaches 
+the first approach wants to disrupt formal systems by imagining
+alternative ones, and the second, by contrast, maintains that
+queerness is built into computing and is inherent in computational
+logic.  
+
+The first approach consists of speculative or critical making projects
+that problematize the constructed nature of technical objects. For
+example, Zach Blas and micha cárdenas propose a speculative codebase
+disrupts the expected functionality of computational programs. This
+project, /transCoder/, describes hypothetical computer programs such
+as the ‘destabilizationLoop', which ‘breaks apart any process that
+acts as a continuously iterating power' and ‘nonteleo()', which
+‘strips any program of a goal-oriented result' (Blas and cárdenas:
+2007--2012). Another project that probes the possibilities of queering
+digital tools is ‘Queer OS: A User's Manual', which describes how
+various components of an operating system might function within an
+ethos of queerness. For example, ‘Queer OS' reconceives how a digital
+interface ‘might seek out self-modification as its ontological
+premise... transform[ing] both the user and the system' (Barnett et
+al., 2016). Such work imagines technological systems and projects that
+‘[do] not yet exist and may never come to exist [... do] not yet
+function and may never function' (Barnett et al., 2016). The other
+side of the debate explores how current technological systems and
+tools already contain elements that encourage queer modes of analysis.
+For example, work by Jacob Gaboury explores how the ‘NULL value' in
+computation signals a ‘refusal to cohere, to become legible' as a
+built-in option in computational systems. Gaboury explains how the
+NULL value ‘corresponds with the epistemological condition of
+queerness as an excessive illegibility collapsed into an unwieldy
+frame, an aberrant third-ness within an otherwise normative system of
+relations' (Gaboury, 2018). In another project, ‘The Queer History of
+Computing', Gaboury exposes and interrogates the ways in which
+technology creates opportunities for resisting conscription within its
+systems. Gaboury asserts that ‘there exists a structuring logic to
+computational systems that, while nearly totalizing, does not account
+for all forms of knowledge, which excludes certain acts, behaviors,
+and modes of being' (Gaboury, 2013: para. 13). According to Gaboury,
+it is from within this structuring logic that queerness finds the
+space to operate.
+
 ** I: Queerness, the Digital & Touch
 No sooner have I written this than it strikes me as an avowal of the
 imaginary; I should have uttered it as a dreamy speech which seeks to

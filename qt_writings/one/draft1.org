@@ -6,70 +6,60 @@
 "'A Melon, an Emerald, a Fox in the Snow': Quantifying Gender in
 Virginia Woolf's /Orlando: A Biography/"
 
-The burden of this chapter is to describe how to do text analysis, or
-"distant reading," in a way that attends to queer concepts of gender
-performativity, and how that method might leverage computational
-processes to analyze literary material that expresses complex gender
-ontologies. This chapter proposes a method for text analysis to study
-the phenomenon of gender in Virginia Woolf's novel, /Orlando: A
-Biography/ (1931). 
+This chapter explores how text analysis, or "distant reading," might
+leverage computational processes to analyze literary material that
+expresses complex gender ontologies. It proposes a method for text
+analysis that engages Judith Butler's theory of Gender Performativity
+to study gender in Virginia Woolf's novel, /Orlando: A Biography/
+(1931).
 
-I begin the chapter by critiquing what I call "the fantasy of
-falsifiable criticism," which contrasts traditional distant reading
-practices with experimental methods that deconstruct social
-categories. My own method of text analysis draws from these
-deconstructive approaches to create a new way for understanding gender
-ontolgies in quantitative form. For the middle portion of the chapter,
-I draw connections between computer programming and gender
-theory. This chapter looks to moments where computational processes
-collapse or evacuate the nuances of gender, sex, and sexuality in
-literary text. Such moments engage what I call the "reproducible"
-methodologies in current distant reading scholarship, which largely
-analyzes gender in text as a binary system and reproduces this
-assumption in their results. To resist such methods, I explore how
-distant reading practices might borrow from the "iterativity" of
-gender theory in Queer Studies. Here, I take Judith Butler’s concept
-of gender performativity as a basis for modeling a new approach that
-uses text analysis to deepen the study of gender in /Orlando/.First, I
-delve into python programming, focusing on the structure of the ~for
-loop~ and processes for cleaning and regularizing text, with the goal
-of bringing out the recursive quality of running python code. Then, I
-dip into Judith Butler's concept of gender performativity, which lends
-an understanding to the ways that critical processes can subvert
-dominant structures through iteration, or what she calls "performative
-citation." The chapter ends with my text analysis of gender in
-/Orlando/ to demonstrate how the terms "man" and "woman" in that text
-are re-signified from their initial binary structure into a plural
-understanding. Here, I ground a distant reading of Woolf's text in
-close-reading to examine the ways that gender is represented as a
-problem of signification. Here, I apply Butler's notion of
-displacement through repetition in gender performativity back to text
-analysis to illustrate how the iterative process of analyzing text can
-surface new textual structures that re-signify certain elements of
-that text.
+It begins by tracing how the adoption of quantitative methods to
+Literary Studies, creating what I call "the fantasy of falsifiable
+criticism," generally reproduces assumptions about gender binaries. I
+contrast this "falsifiable" approach with more experimental ones that
+use quantitative methods to deconstruct social categories like gender
+and race. Then, the middle portion of the chapter draws connections
+between computer programming and gender theory. First, it delves into
+python programming, focusing on the repetative processes for cleaning
+and regularizing text, as well as the transformation of words into
+numerical representations for quantitative processing, with the goal
+of bringing out the reductive and recursive quality of working with
+python code. It then moves to Judith Butler’s concept of gender
+performativity, which poses how gender expression might subvert
+traditional social structures through repeatedly acting out, or
+"performing," gender constraints in ways that deviate from the
+norm. Taking this shared quality of iteration between python and
+gender, I then propose a text analysis methodology for studying gender
+in /Orlando/. Here, I interweave distant and close readings of Woolf's
+text to illustrate how both text analysis and gender draw iteration as
+a logic and constraint for the production of meaning. The results of
+my text analysis reveal gender to be one dimension of a larger crisis
+of signification in the novel, which explores how language and gender
+are closely coordinated as tools for representing reality. I conclude
+by considering the limitations of this method, which poses gender as a
+discursive phenonmenon, and its place within a larger trajectory of
+Gender Studies since Butler's inaugural text.
 
 ** intro
 
 The novel /Orlando: A Biography/ (1928), by Virginia Woolf, famously
 opens with an assertive gender designation followed by an immediate
-qualification: “He--for there could be no doubt of his sex, though the
-fashion of the time did something to disguise it—-was in the act of
-slicing at the head of a Moor which swung from the rafters” (11). For
-those who are unfamiliar with the text, /Orlando/ is a fictional
-biography that follows the life of the eponymous 16th-century English
-nobleman as he undergoes a sex change and lives into the 20th century
-as a woman. When performing quantitative text analysis on this text,
-the standard tasks of “pre-processing” the text evacuate the ways that
-gender is unsettled in this sentence. In order to computationally
-analyze a text, a process known as “distant reading” which involves
-calculating and visualizing textual patterns, the text must first be
-transformed into a computable format. This task of pre-processing
-(also called “cleaning” or “normalizing”) strips the original text of
-capitalized words, punctuation, “stop words” (such as articles and
-prepositions), and inflections in word endings, all of which are
-deemed to be semantically minor, in order to make the text amenable to
-quantitative analysis. After pre-processing Orlando, the following
-list of computable words, or “tokens,” remains in the first sentence:
+qualification: “He-for there could be no doubt of his sex, though the
+fashion of the time did something to disguise it—was in the act of
+slicing at the head of a Moor which swung from the rafters” (11). When
+performing quantitative text analysis on this text, a fictional
+biography of a 16th-century English nobleman who undergoes a sex
+change, the standard tasks of “pre-processing” text evacuate the ways
+that gender is unsettled in this sentence. In order to computationally
+analyze a text, a process known which involves calculating and
+visualizing textual patterns, the text must first be transformed into
+a computable format. This task of pre-processing (also called
+“cleaning” or “normalizing”) strips the original text of capitalized
+words, punctuation, “stop words” (such as articles and prepositions),
+and inflections in word endings, all of which are deemed to be
+semantically minor, in order to make the text amenable to quantitative
+analysis. Afterward, the following list of computable words, or
+“tokens,” remain in the first sentence:
 #+BEGIN_QUOTE
 ‘could’, ‘doubt’, ‘sex’, ‘though’, ‘fashion’, ‘time’, ‘something’,
 ‘disguise’, ‘act’, ‘slicing’, ‘head’, ‘moor’, ‘swung’, ‘rafter’.
@@ -77,7 +67,7 @@ list of computable words, or “tokens,” remains in the first sentence:
 Cleaning this text not only strips it of its pronouns, including the
 gender assertion in the first word, “He.” It also cuts the em dash
 immediately following this "He," which signals the entrance of a
-narrator that layers this assertion with conspicuous certitude: "—-for
+narrator that layers this assertion with conspicuous certitude: "—for
 there could be no doubt of his sex…."
 
 This chapter examines how quantitative text analysis works with
@@ -91,9 +81,7 @@ faith in using the speed of computation, which can process very
 precise elements like word frequency or syntactic patterns, to analyze
 large collections of textual data.
 
-
 ** the fantasy of the falsifiable
-*** TODO streamline problem of scale to falsifiability 
 Because computers can process hundreds of texts at a time, "reading"
 at much faster rates than humans, they offer critics an opportunity
 for solving the problem of literary scale. This opportunity attracts
