@@ -18,7 +18,7 @@ Method: Close reading of /Dawn/, Media archaeological reading of
 attends to its physicality, what Kirschenbaum describes as the
 forensic and formal levels of materiality.
 
-** readings notes
+** TODO readings notes
 *** /skin/
 http://auriea.org/skinonskinonskin
 http://entropy8zuper.org/skinonskinonskin/
@@ -1162,97 +1162,308 @@ https://nyupress.org/9780814748336/queer-times-black-futures.
   consist of low level processors or sensors which are connected to
   higher level processors that draw inferences or take actions /
   decisions. Like the traffic control in LA.
-*** Butler's /Dawn/ reading notes
+*** TODO Butler's /Dawn/ reading notes
 **** Dunkley, Kitty. “Becoming Posthuman: The Sexualized, Racialized,
-and Naturalized Others of Octavia E. Butler’s Lilith’s Brood," The
-Bloomsbury Handbook to Octavia Butler. pp. 95-115.
+     andNaturalized Others of Octavia E. Butler’s Lilith’s Brood," The
+     Bloomsbury Handbook to Octavia Butler. pp. 95-115.
 
-/Dawn/ concept of posthumanism revises the anthropocentric and
-patriarchal hegemony of humanism. The key difference for this kind of
-posthumanism is a craving to integrate and accumulate difference,
-rather than define themselves against it.
+Butler's posthumanism incorporates difference to imagine "diverse
+embodiments" (Dunkley 96).
 
-"Lilith’s Brood prompts us to question how our relationships and sense
-of kinship with the racialized, sexualized, and naturalized Other
-might look, if, like the Oankali, we chose to “embrace difference”
-(Adulthood Rites 329); might we, as a result, now recognize the Other
-within us?" (Dunkley 113-114).
+***** intevention on Posthumanism:
 
-"Humanism functions on the apotheosis of the anthropos and a belief in
-its inherent worth, autonomy, rationality, and capabilities—-qualities
-intended to affirm our status at the pinnacle of the Cartesian
-hierarchy, above animals, machines, and the Other" (Dunkley 97).
+/Dawn/'s posthumanism revises the anthropocentric and patriarchal
+hegemony of humanism. The key difference for this kind of posthumanism
+is a craving to integrate and accumulate difference, rather than
+define themselves against it.
 
-"Oankali are ostensibly constructed so as to invert our Humanistic
-egocentrism—-not only is difference not considered the source of fear
-for the Oankali, but they are physiologically engineered to hunger for
-it" (Dunkley 96).
+  "Lilith’s Brood prompts us to question how our relationships and sense
+  of kinship with the racialized, sexualized, and naturalized Other
+  might look, if, like the Oankali, we chose to 'embrace difference'
+  (Adulthood Rites 329); might we, as a result, now recognize the Other
+  within us?" (Dunkley 113-114).
 
-"In fact, the ontological danger that the ooloi pose to the system of
-Humanism is most acutely felt by the men, for whom the ooloi come to
-represent rival figures... threaten to usurp the men’s position at the
-pinnacle of a gendered hierarchy, usurpation that is especially
-calamitous given the ooloi’s role as sexual penetrator—-an
-ideologically loaded function, connoting uniquely masculine traits of
-power, virility, and strength" (Dunkley 100).
+  "Humanism functions on the apotheosis of the anthropos and a belief in
+  its inherent worth, autonomy, rationality, and capabilities—-qualities
+  intended to affirm our status at the pinnacle of the Cartesian
+  hierarchy, above animals, machines, and the Other" (Dunkley 97).
+
+***** on Fear: 
+
+  "Oankali are ostensibly constructed so as to invert our Humanistic
+  egocentrism—-not only is difference not considered the source of fear
+  for the Oankali, but they are physiologically engineered to hunger for
+  it" (Dunkley 96).
+
+  "In fact, the ontological danger that the ooloi pose to the system of
+  Humanism is most acutely felt by the men, for whom the ooloi come to
+  represent rival figures... threaten to usurp the men’s position at the
+  pinnacle of a gendered hierarchy, usurpation that is especially
+  calamitous given the ooloi’s role as sexual penetrator—-an
+  ideologically loaded function, connoting uniquely masculine traits of
+  power, virility, and strength" (Dunkley 100).
 
 **** Barnes, Steven. "What Octavia E. Butler Feared Most about Human
-Nature," The Bloomsbury Handbook to Octavia Butler. pp. 11-13.
+     Nature," The Bloomsbury Handbook to Octavia Butler. pp. 11-13.
 
+Butler's interest in human behavior as extension of animal behavior. 
+
+***** biological tendency toward hierarchy
 "she tended to ground her opinions of humanity in her biological
 research" (Barnes 11). 
 
 Butler said often that humans have an "emergent" property which
 creates tribalism: hierarchy and superiority (Barnes 11).
+**** Nanda, Aparajita. “POWER, POLITICS, AND DOMESTIC DESIRE IN
+     OCTAVIA BUTLER’S ‘LILITH’S BROOD.’” Callaloo, vol. 36, no. 3,
+     2013, pp. 773–88. JSTOR, http://www.jstor.org/stable/24264846.
 
-**** TODO Ramirez, Catherine S. "Cyborg Feminism: The Science Fiction of
-Octavia E. Butler and Gloria Anzaldua", Flanagan, Mary, and Booth,
-Austin, eds. Reload: Rethinking Women + Cyberculture. Cambridge,
-Mass.: MIT Press, 2002. p. 374-402.
-**** TODO Nanda, Aparajita. “POWER, POLITICS, AND DOMESTIC DESIRE IN
-OCTAVIA BUTLER’S ‘LILITH’S BROOD.’” Callaloo, vol. 36, no. 3, 2013,
-pp. 773–88. JSTOR, http://www.jstor.org/stable/24264846. 
+Butler deconstructs traditional binaries between oppressor/oppressed: 
+"embraces insidious forms of force, compulsion" in desire (Nanda,
+"Power" 773). 
+
+***** colonization with a difference / critiquing colonization
+What makes the Oankali interesting as colonizers is that they of the
+traits of colonizers without easily being branded as oppressive or
+British colonizers. What Butler achieves, then, is a situation in
+which the colonial narrative as such is critiqued as an
+administratively coercive, inegalitarian of "domestic trysts" (as
+opposed to "domestic bliss") even when its motives are genuine (Nanda,
+"Power" 774). )
+
+***** Lilith's choice
+"She gives into the seduction; she is the one who chooses to do so"
+(Nanda, "Power 780). 
+
 **** Nanda, Aparajita. "Teaching the 'Other' of Colonialism: The Mimic
 (Wo)Men of /Xenogenesis/." The Bloomsbury Handbook to Octavia
 Butler. pp. 117-131. 
 
+Reading Butler in the classroom through the lens of post-colonial
+studies. Said's other, Bhaba's hybrid. 
+
+***** conflict between self/other
 the /Xenogenesis/ trilogy is "a narrative replete with nuanced
 deconstructions of power structures" (118).
 
 "the triad of compulsion, attraction, and repulsion lock the Self and
 the Other in fascinatingly interlinked forms of desire" (118).
 
-Reading Butler in the classroom through the lens of post-colonial
-studies. Said's other, Bhaba's hybrid. 
+**** Mann, Justin Louis. "Pessimistic futurism: Survival and
+reproduction in Octavia Butler’s Dawn" /Feminst Theory/ Volume 19,
+Issue 1. 
 
-**** TODO Hampton, Gregory Jerome. "Octavia E. Butler's Discourse on Colonialism
-and Identity in 'Bloodchild,' /Dawn/, and /Survivor/" The Bloomsbury
-Handbook to Octavia Butler. pp. 133-
+Butler's "pessimistic futurism" combines hope for an equitable future
+with skepticism about a violent and unjust past: "couches the
+prospects of tomorow in the uncertainties conditioned by the past"
+(Mann 61). 
 
-**** TODO Belk, Nolan. “The Certainty of the Flesh: Octavia Butler’s
+***** pessimistic futurism straddles tension in black studies
+Draws on Saidiya Hartmann's critique of Black Studies: the tethering
+of blackness to death and slavery and the "paradoxical terms of
+imagining black subjectivity" (Mann 64), creating a tension that
+resolves as two opposing theories: afro-pessimism (refuses ontological
+possibility of blackness) and afrofuturism (radical world-making).
+
+"pessimistic futurism" mobilizes the historic markers of blackness to
+unsettle and destabilize the arrangements of power in the present and
+to try to think beyond those arrangements in the future" (Mann 66). 
+
+The "noose is resignifed... [s]ex with the Oankali is consequently
+presented as strange and dangerous, yet, like the noose, also oddly
+comfortable and immensely pleasurable" (Mann 67). 
+**** Belk, Nolan. “The Certainty of the Flesh: Octavia Butler’s
 Use of the Erotic in the Xenogenesis Trilogy.” Utopian Studies,
 vol. 19, no. 3, 2008, pp. 369–89. JSTOR,
 http://www.jstor.org/stable/20719917.
+
+Butler utilizes Lorde's "power of the erotic," the flesh or "body
+intelligence", to combat logic of hierarchy, "mind-based intelligence"
+(Belk 380).
+
+***** erotic flesh overcoming rational mind
+"For Butler, the locus of hope is in the power of the erotic, "the
+trust in the body s deep desires for propagation, love, and
+connection" (Belk 373). The erotic is the feeling of rightness, of
+desire, which "has been too long relegated to the realm of sexuality"
+(Belk 376). 
+
+"it is the truth of the flesh rather than the mind that matters in
+decision making" (Belk 374).
+
+**** Ramirez, Catherine S. "Cyborg Feminism: The Science Fiction of
+Octavia E. Butler and Gloria Anzaldua", Flanagan, Mary, and Booth,
+Austin, eds. Reload: Rethinking Women + Cyberculture. Cambridge,
+Mass.: MIT Press, 2002. p. 374-402.
+
+Butler and Anzaldua articulate the tension between essence and
+position (constructedness), central to women of color feminism, by
+using essence strategically. 
+
+***** cyborg feminism
+Draws from Haraway's cyborg: "'cyborg identity' reconceives identity
+(a static and fixed essense) as /position/ (within a particular
+history, narrative, ideology, and/or social system" (Ramirez 384).
+
+Identification through shared difference: 
+- Draws from Chela Sandoval's "US Third World Feminism", the idea of
+  "differential consciousness" -- "a /tactical subjectivity/ with the
+  capacity to recenter depending upon the kinds of oppression to be
+  confronted" (rpt. Sandoval 1991,14, italics in original; Ramirez
+  384).
+- For example, "the term "woman of color" forges links between women
+  from distant and disparate locations (both geographic and
+  socioeconomic) by positioning them—and recognizing that they have
+  been positioned—within particular histories of exclusion, oppression
+  and resistance" (Ramirez 384). 
+
+The body: "the body is simultaneously material and discursive. Our
+conceptions and experiences of it as material are always socially
+mediated" (Ramirez 387). 
+
+***** strategic essense
+Essence is something that is used strategically in order to claim
+validity and rights; rather than to denigrate. 
+
+"Butler and Anzaldua deploy essence by emphasizing a particular social
+or subject position (e.g., Butler always identifies the race,
+ethnicity, and gender of her characters and Anzaldua stresses
+"homosexuality" in delineating a global, queer community)."
+
+"The tension between affinity and essence, and between plurality and
+specificity in the work of Anzaldua and Butler, highlights a
+contradiction of woman-of-color subjectivity and feminism: The
+histories of racism, imperialism, patriarchy, and homophobia have
+rendered women of color abject, yet, via history, women of color must
+claim some sort of position in order transform themselves into
+(speaking) subjects (without replicat ing the regime [s] that silenced
+them)" (Ramirez 395-396)
+
+**** Hampton, Gregory Jerome. "Octavia E. Butler's Discourse on Colonialism
+and Identity in 'Bloodchild,' /Dawn/, and /Survivor/" The Bloomsbury
+Handbook to Octavia Butler. pp. 133-148.
+
+Colonization based on biological imperative has the effect of blurring
+the difference between colonizer and colonized.
 
 **** TODO Jesser, Nancy. "Blood, Genes and Gender in Octavia Butler's
 Kindred and Dawn." Extrapolation (Pre-2012), vol. 43, no. 1, 2002,
 pp. 36-61. 
 
-**** TODO Mann, Justin Louis. "Pessimistic futurism: Survival and
-reproduction in Octavia Butler’s Dawn" /Feminst Theory/ Volume 19,
-Issue 1. 
+Butler exhibits a "biological essentialism" when it comes to sex and
+sex traits which enhaces her feminist politics. 
 
-**** TODO Bonner, Frances. "Difference and Desire, Slavery and
-Seduction: Octavia Butler's "Xenogenesis"." Foundation, vol. 0, 1990,
-pp. 50-62.
+***** biolgoical essensialist sex
+Asks how Butler can be a femininist if she's drawing from
+essentialized notions of sex?: "what kind of feminism does a
+biologically informed notion make possible?" (Jesser 37).
+- "Genetics is the science of Butler's fiction. The translation of
+  genotype to phenotype is the plot" (Jesser 52).
 
-**** TODO Butler, Octavia, et al. “‘Radio Imagination’: Octavia Butler
-on the Poetics of Narrative Embodiment.” MELUS, vol. 26, no. 1, 2001,
-pp. 45–76
+She de-constructs race, shows it as a construct, while reinforcing
+the genetic facts that underpin behaviorial tendencies and
+predispositions, like hierarchy, aggression (male) and relational,
+nurturing (female).  
+- #+BEGIN_QUOTE
+  "Difference matters in Butler, but racial difference matters
+  differently than sexual difference, which makes possible future
+  generations... it is fair to say that Butler is 'constructivist,' when
+  relating to racial identities; however, when relating to sex/gender
+  her female characters are often, biologically coded as female--that
+  is, devoted to self-sacrifice in the name of nurturing at one's own
+  expense and the urging of maternal instincts" (Jesser 38).
+  #+END_QUOTE 
+- The women and men reinforce sexual differences. (Jesser 42-43),
+  males being more hierarchical (Jesser 44).
+- "the plot relentlessly reinforces certain sociobiological notions of
+  essential and 'natural' male and female through the concept of
+  biological 'tendency'" (Jesser 41-42).
 
-**** TODO Burnett, Joshua Yu. "Troubling Issues of Consent in /Dawn/,"
+This emphasis on biology is feminist, proposing female biological
+traits as those which will enable humanity to expand beyond its
+destructive tendencies, exemplified by the male aggression, dominance
+and possessiveness.  
+- Example with rape being "both natural and avoidable... human nature
+  proves flexible, but only with serious forms of social and
+  biological intervention" (Jesser 43).
+- "The way out is through a narrative of biological extra-individual
+  drives; the ability/need to see beyond individual survival to
+  survival of one's kin" (Jesser 40)
+- "a vision of bodies that are often bad for us. At least as far as
+  sex and sexuality go. Butler's bodies have a will of their own, and
+  it is to be found most often lodged in genetic "tendencies" if not
+  fixities" (Jesser 45). 
+- Women's "connections to their bodies are more than a form of
+  bondage... In place of the enslaved female body, Butler imagines a
+  powerful, emancipating intersubjective body in which the social
+  bosom and the maternal bosom are newly coherent" (Jesser 56). 
+
+ 
+**** Ackerman, Erin M. P. "Becoming and Belonging: The
+  Productivity of Pleasures and Desires in Octavia Butler's
+  Xenogenesis Trilogy." Extrapolation (Pre-2012), vol. 49, no. 1,
+  2008, pp. 24-43,3.
+
+"this paper traces how Butler explores a specifically erotic pleasure
+that is integral for such a shift in subjectivity to begin, in the
+process arguing that Butler's work explores not just a new communal
+ethics, but new individual pleasures as well" (Ackerman 25). 
+
+"While Lilith may love and desire her Oankali mates, she also is
+painfully aware of how that desire and love causes losses as well as
+gains. Desire is inextricably linked with and implicated in power,
+both for those desiring and those desired" (Ackerman 40). 
+
+**** Burnett, Joshua Yu. "Troubling Issues of Consent in /Dawn/,"
 M. Japtok, J. R. Jenkins (eds.), /Human Contradictions in Octavia
 E. Butler’s Work/, https://doi.org/10.1007/978-3-030-46625-1_7
+
+Consent in the novel is hardly discussed; the Oankali compel desire in
+a way that troubles consent. Difference between pheromones released by
+humans (which is involuntary) verus releasing them as a deliberate
+act. (115-116). 
+- "Humans may release pheramones involuntarily; with Oankali, it is a
+  conscious, deliberate act" (Burnett 116).
+- Joseph was raped (Burnett 116). 
+
+Disturbed by the depiction, which he links to slavery:
+- On the episode with Paul Titus, the Oankali "strongly mirror slave
+  owners, pairing off their slaves without consent or consultation,
+  and not giving a second thought to their slaves' right to consent or
+  refuse" (Burnett 113).
+
+Says the point is to see need for consent. 
+- "We might read /Dawn/ as a parable for the need for affirmative
+  consent in sexual encounters, particularly ones which transcend
+  barriers or break taboos" (Burnett 118).
+
+**** TODO Haraway, Donna. /Primate Visions/. 1989. 
+About primatology and where primates sit on the human-animal
+hierarchy. To what extent can we consider primates to have human
+status? On the "techno-bio-politics of difference" (Haraway
+376). Haraway reads /Dawn/ "as if it were a report from the primate
+field in the allotopic space of earth after a nuclear holocaust"
+(376). 
+
+"Gender is kind, syntax, relation, genre; gender is not the
+transubstantiation of biological sexual difference" (Haraway 377). 
+
+Use of the word 'monster' to describe the aliens: 
+- "Her fiction, especially in Xenogenesis, is about the monstrous fear
+  and hope that the child will not, after all, be like the
+  parent. There is never just one parent. Monsters share more than the
+  word's root with the verb "to demonstrate"; monsters signify"
+  (Haraway 378).
+
+While Butler disrupts social and sexual assumptions, the boundaries of
+species and sex, she does not disrupt heterosexuality:
+- "Heterosexuality remains unquestioned, if more complexly
+  mediated. The different social subjects, the different genders that
+  could emerge from another embodiment of resistance to compulsory
+  heterosexual reproductive politics, do not inhabit this Dawn. In
+  this critical sense, Dawn fails in its promise to tell another
+  story, about another birth, a xenogenesis. Too much of the sacred
+  image of the same is left intact" (Haraway 380).
 
 ** revisions
 *** first half october 2022
