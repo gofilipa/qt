@@ -1398,7 +1398,6 @@ and possessiveness.
   powerful, emancipating intersubjective body in which the social
   bosom and the maternal bosom are newly coherent" (Jesser 56). 
 
- 
 **** Ackerman, Erin M. P. "Becoming and Belonging: The
   Productivity of Pleasures and Desires in Octavia Butler's
   Xenogenesis Trilogy." Extrapolation (Pre-2012), vol. 49, no. 1,
@@ -1413,6 +1412,75 @@ ethics, but new individual pleasures as well" (Ackerman 25).
 painfully aware of how that desire and love causes losses as well as
 gains. Desire is inextricably linked with and implicated in power,
 both for those desiring and those desired" (Ackerman 40). 
+
+"The Oankali in the narrative, with their ability to perceive and
+manipulate genes, certainly view human genetics as fundamentally and
+essentially flawed" (Ackerman 32). 
+
+
+"What the trilogy does not present as so surmountable, however, is a
+heteronormative standard" (Ackerman 39).
+
+"heterosexuality does read as the standard, or even, only erotic
+option available" (Ackerman 40).
+
+"Nancy Jesser's point that "the sexual biology in Butler's story is
+remarkably fixed" is an important one (3 7); even if the standard
+number is now three rather than two, the narrative never presents an
+erotic scene with an ooloi and two individuals of the same sex/gender"
+(Ackerman 40). 
+
+**** TODO Patricia Meltzer, /Alien Constructions: Science Fiction and
+Feminist Thought/. Austin: U of Texas P, 2006. 
+
+pages 236, 238-241.
+
+Genderqueer reading of gender in Xenogenesis, based off the construct
+ooloi in the third book which shift bodies according to desires of
+their partner. Draws from Butler's concept of gender as performance,
+an act, which reenacts heteronormative assumptions. Butler creates a
+"queer essence" of identity based on desire (Meltzer 238). 
+
+There are distruptions to normativity, like in liberal feminism where
+the binary is destabilized, upended, where gender roles are
+reimagined. And then there are alternate visions for sex/gender/desire
+altogether. Queerness is resisting the normative correlation of
+sex/gender/desire, with an emphasis on identity, according to
+Butler. Butler says that there is not inner "self" of gender or any
+identity, that it is produced discursively. It is produced through
+performativity, which is melancholic in that a subject desires a
+gender which it can never inhabit. This failure is what opens up the
+possibility of imagining otherwise. That identification and desire can
+coexist, that desire can precede identification, is queer, according
+to Butler in "Imitation and Gender Insubordination", which is mirrored
+in the construct ooloi (Meltzer 237). 
+
+"genderqueer" is not about neutrality or blending. It is about
+"placing masculine and feminine into contradictory relationships with
+each other" (Meltzer 227). It "poses a challenge to the gender binary
+without necessarily erasing sexual difference as the source of erotic
+pleasure" (Melzter 227).
+
+In /Imago/, Butler "explores the notion of the body as constructed by
+desire" (Meltzer 228). 
+
+"Butler's concepts here are positioned neither in a biological
+essentialism that insists on gender identity (woman) as derivated of a
+body's sex (female), nor in a social and/or psychological
+constructivism that udnerstands the body's materiality as dominated by
+(social) discourse. Instead, desire and sexuality are based in the
+body's need for others... the body follows desire" (Meltzer 241). 
+
+On sex: 
+- "the exchange is physical but mediated" (Melzter 236). 
+- "The lack of physical genitals as indicators of this sexual practice
+renders Oankali-human sex impossible to classify in terms of sexual
+identities. It is even impossible to separate the 'act' from 'fantasy'
+since partners never actually touch, yet they share intense sexual
+experiences through parallel stimulation of brains" (Melzter 236).
+- "Desire, then, is... rooted in the body's amorphous craving for
+physical pleasure" (Melzter 236).
+
 
 **** Burnett, Joshua Yu. "Troubling Issues of Consent in /Dawn/,"
 M. Japtok, J. R. Jenkins (eds.), /Human Contradictions in Octavia
@@ -1437,7 +1505,7 @@ Says the point is to see need for consent.
   consent in sexual encounters, particularly ones which transcend
   barriers or break taboos" (Burnett 118).
 
-**** TODO Haraway, Donna. /Primate Visions/. 1989. 
+**** Haraway, Donna. /Primate Visions/. 1989. 
 About primatology and where primates sit on the human-animal
 hierarchy. To what extent can we consider primates to have human
 status? On the "techno-bio-politics of difference" (Haraway

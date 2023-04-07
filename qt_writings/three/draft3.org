@@ -95,13 +95,12 @@ intelligence--a contradiction which the novel demonstrates can be
 resisted overcome by bypassing the flesh, which is the topic of my
 next section.
 
-*** intro
+*** TODO /Xenogenesis/ to xenophobia: intro
 In the novel /Dawn/, by Octavia Butler, the main character, Lilith
-Iyapo, is seduced by an alien. Lying next to Lilith's human partner,
-Joseph, who is unconscious, the alien coaxes Lilith to join them: "Lie
-here with us... Why should you be down there by yourself?" (PAGE
-NUMBER). Lilith's response shows the hold that a sex drive can have
-over a person:
+Iyapo, is seduced by an alien. The alien coaxes Lilith to join it and
+her human partner, Joseph: "Lie here with us," it says, "Why should
+you be down there by yourself?" (PAGE NUMBER). Lilith response
+displays the power of erotic impulses in overcoming logic or reason: 
 #+BEGIN_QUOTE
 She thought there could be nothing more seductive than an ooloi
 speaking in that particular tone, making that particular
@@ -115,30 +114,88 @@ that she wanted to resist it. Nikanj could give her an intimacy with
 Joseph that was beyond ordinary human experience. And what it gave, it
 also experienced. PAGE NUMBER
 #+END_QUOTE
-The alien, Nikanj, is a third, non-binary gendered being. It has sex
-by creating a neural connection between two partners, in this case,
-between Lilith and Joe. It makes this connection by inserting its
-sexual organ, which it calls it's "sensory hand," into the spinal cord
-at the back of the neck. Though it is brain sex, it is intensely
-physical and embodied, lasting hours and leaving Lilith with a hoarse
-throat. The pleasure that she experiences is even good enough to make
-her temporarily ignore that the aliens, who call themselves "Oankali,"
-have descended upon earth following an nuclear holocaust with one
-goal: to coerce the surviving humans to reproduce with their species,
-creating a human-alien race. The Oankali want Lilith to help them in
-their goal by shepherding a group of humans to accept what they call
-the "gene trade." As the "Judas goat" who leads the sheep to
-slaughter, Lilith must convince the humans to accept a fate which she
-herself cannot bear: that humanity will become something profoundly
-different from what it is; that their children will look far from
-human, what she describes as "Medusa children" (Butler 87).
+The pleasure that Lilith experiences is intense enough to make her
+temporarily ignore that the aliens, who call themselves "Oankali,"
+have descended upon earth following a nuclear holocaust with one goal:
+to coerce the surviving humans to reproduce with their species,
+creating a human-alien race. This alien, Nikanj, has sex by creating a
+neural connection between a male and female partner, in this case,
+between Lilith and Joeseph. It makes this connection by inserting its
+its "sensory hand," a sexual organ, into the spinal cord at the back
+of the neck. Then, during the sex act, the alien then collects the
+reproductive material necessary to engineer a viable embryo made of
+human and Oankali genes. The novel is part of a larger trilogy called
+/Xenogenesis/ or /Lilith's Brood/.
 
-How can Lilith, who is horrified and repulsed by the aliens and their
-purpose, accept sex with Nikanj? The answer to this question has to do
-with the primacy of the erotic. Something about irresistabiltiy of sex
-with the Oankali enables humans to (at least temporarily) get over
-their fear of them. The key is pleasure--and what happens when thought
-and feeling are scrambled in pleasure.
+Despite her apparent willingness to join Nikanj, Lilith harbors a deep
+ambivalence about the Oankali. Like the other humans in the novel,
+Lilith was "rescued" from nuclear war by the aliens, and is now being
+held on the spaceship until the humans are ready to do their part in
+the "gene trade"--that is, to help re-populate the earth with the new
+human-Oankali species. Lilith's job to be a shepherd, what she calls a
+"Judas goat," to guide humans to accept a fate that she herself cannot
+tolerate: that humanity will change forever, that their children will
+look like "Medusa children" (Butler 87). For that reason, the moments
+like the one above where Lilith surrenders to her sexual desire appear
+in stark contrast to her determination to eventually escape,
+summarized by her motto, "Learn and run!", that she repeats up until
+the last page of the novel. This tension speaks to deeper biological
+imperatives at battle within the human psyche in which, as Jayna Brown
+puts it, "changing and prevailing cannot coexist" (94). Brown
+emphasizes a seeming paradox about species survival in Butler's
+novels: the human species "must adapt to survive, but species are
+never stable over time if they successfully adapt" (Brown
+94). Throughout /Dawn/, Lilith toes the line of this paradox,
+simultaneously encouraging the humans to obey the aliens' directions
+while preparing them for escape.
+
+[Re-organize: Haraway's work inspired Ramirez and Dunkley] In the
+paradox between changing and prevailing, the novel interrogates the
+primacy of erotic impulses. It reformulates the the role of physical
+pleasure in cultivating and sustaining new social
+organizations. Critics tend to agree that it does so within a larger
+femininist politics that resists essentializing notions of biology and
+identity. For example, Kitty Dunkley, Donna Haraway, and Catherine
+S. Ramirez argue that the novel and trilogy as a whole uses
+inter-species couplings to challenge assumptions about sex and
+gender. Dunkley situates the novel within a radical posthuman
+framework, that is, upending the anthropocentric and patriarchal
+hegemony of humanism, toward cross-species, race, and gender
+formulations: the novel, she argues, "prompts us to question how our
+relationships and sense of kinship with the racialized, sexualized,
+and naturalized Other might look, if, like the Oankali, we chose to
+'embrace difference'" (Dunkley 113-114). Haraway also reads the novel
+within a posthuman framework, "as if it were a report from the primate
+field in the allotopic space of earth after a nuclear holocaust,"
+toward the purpose of destabilizing human-animal hierarchies and
+divisions (Haraway 376). Building from this deconstruction of the
+human, Catherine Ramirez argues that Butler's novels "critique fixed
+concepts of race, gender, sexuality and humanity, and, subsequently,
+'fictions' of identity and community" (Ramirez 375). On the other
+hand, critics like Stephen Barnes, Erin Ackerman, and Nancy Jesser
+argue for the primacy of biological notions of identity, emphasizing
+the importance of genetically-encoded human characteristics. For
+example, Nancy Jesser argues that "the plot relentlessly reinforces
+certain sociobiological notions of essential and 'natural' male and
+female through the concept of biological 'tendency'" (Jesser 41-42).
+
+This chapter is interesting in untangling the power of the erotic as a
+physical, sensual phenomenon. Thinking to Nikanj's seduction of
+Lilith, and Lilith's willingness to submit, to what extent does the
+sex drive, portrayed here as primal and primary, indicate an
+essentialist or naturalizing understanding about the body? Is sex or
+gender determined by bodily traits? What about sexuality? To answer
+these questions, this paper will explore /sensuality/ in the text,
+like descriptions of embodied feelings in the passage above. These
+tend to occur in moments of sexual intimacy, but also in moments of
+intense fear, such as those that overtake many of the humans in their
+first encounters with the Oankali. The experience of desire and fear
+are closely related, as the title /Xenogensis/, recalling xenophobia,
+suggests. Fear and sex, then, are intimately routed together through
+the body. 
+
+[include overview of why we are going into Black Feminist Studies and
+Media Archaeology]
 
 *** the human contradiction
 One reason that humans cannot accept the gene trade can be attributed
@@ -273,16 +330,172 @@ other qualities, the sensory organs, intelligence steps in to create
 an analogy. Here, her mind makes the leap between what she sees and
 what she can imagine.
 
-*** fear of the known 
-The two sides of the contradiction, hierarchy and intelligence, work
-together to engender a sense of all-consuming fear of the other. But
-the comparison to Medusa suggests that the fear of the other is based
-on the /known/ rather than the unknown. The reason, according to
-Chicana feminist and writer Cherrie Moraga, is that similarity is more
-threatening when it emerges across difference. Those in dominant
-social positions, she explains, tend to fear those in inferior ones,
-not because they are lesser in status or privileges, but because they
-perceive similarity across the differences between them:
+*** Oankali social collectivism
+Like the humans, the Oankali also have their own biological
+imperatives. They are obsessed with seeking out incorporating new
+species for their "gene trade," as Jhadaya explains to Lilith: "We
+acquire new life, seek it, investigate it, manipulate it, sort it, use
+it. We carry the drive to do this in a minuscule cell within a cell, a
+tiny organelle within every cell of our bodies" (84). The Oankali
+compulsion to acquire may seem to have some similarities with the
+human drive for hierarchy, in particular, that it requires taking in
+and incorporating new beings into an existing structure. But it
+crucially differs within the context of an alternative, even
+antithetical social collectivism. As one of the Oankali children,
+Nikanj, explains to Lilith, they evolved from a collective life form:
+"'Six divisions ago, on a white-sun water world, we lived in great
+shallow oceans,' it said. 'We were many-bodied and spoke with body
+lights and color patterns among ourself and among ourselves'"
+(123). From these numerous interconnected beings, the current Oankali
+inheirited a constitution of collective, rather than individual,
+consciousness, which affects the way they communicate and the way they
+make decisions. Agency is distributed among the beings, who are
+singular and plural at once, "ourself and ourselves," and everything
+is decided by unanimous agreement.
+
+This social paradigm is made possible by what which the humans find
+most disturbing about their captors--the Oankali sense organs that
+grow like tentacles from their skin. These sense organs transmit all
+external sensory information such as sight, hearing, touch, smell, and
+taste, as well as provide new sensory capacities in intra-Oankali
+communication: they enable direct neural connections based the
+immediate sharing of thoughts and feelings. Moreover, the neural
+linkages enabled by their prime sensory organ, their "sensory hand,"
+facilitates gene manipulation and sexual experiences. This sensory
+hand, which connects to the spinal nerve at the base of the brain,
+creates a direct connection between bodies and minds, a sharing of
+experiences that is so total and unreserved that it does away with
+concepts like deception and lies. This form of connection enables the
+novel to explore new alternatives for collectivism based on mutual
+sensation, and specifically, through life/pleasure.
+
+*** life overrides choice - pregnancy
+Their method of acquisition, though arguably similar to human acts of
+colonization in the way they expand through incorporation, presents
+different priorities when it comes to ethical relations. Because
+health and vitality are necessary in order to trade genes, the Oankali
+do not admit any form of harm or destruction to life. At several
+points in the book, this attachment to life comes into tension with
+human tendencies for violence. Because of their regard for life, the
+Oankali struggle to anticipate acts of violence when they do occur,
+even those that lead to death. One episode toward the end of the novel
+demonstrates the significance of this point. Here, Lilith's partner,
+Joseph, is killed by a group of humans who the Oankali have let
+escape. The Oankali did not attempt to interfere in the humans'
+rebellion and the resulting in-fighting among the humans. As a result,
+Joseph is murdered before they act. Soon after his murder, Nikanj then
+uses Joseph's genetic material to impregnate Lilith without her
+knowledge. It explains to Lilith that it only gives her what she truly
+wants, which is a child:
+#+BEGIN_QUOTE
+"You'll have a daughter," it said. "And you are ready to be her
+mother. You could never have said so. Just as Joseph could never have
+invited me into his bed--no matter how much he wanted me
+there. Nothing about you but your words reject this child." 468-9.
+#+END_QUOTE
+Nikanj's reasoning is simple: it knows Lilith will love and accept the
+child. For the Oankali, sustaining and cultivating life is the
+principal factor for decision-making. When Lilith protests that "It
+won't be human," Nikanj warns that "You shouldn't begin to lie to
+yourself. It's a deadly habit. The child will be yours and Joseph's"
+(469). Unlike humans, Oankali lack the capacity to delude
+themselves. That life is prioritized over individual choice has
+significant implications for their ethics, particularly for what
+counts as coercion and manipulation.
+
+*** scrambling sense and thought
+One of the consequnces of the Oankali focus on pleasure as a
+foundation for ethics may seem perhaps paradoxical from a human
+perspective. The method that Oankali have sex dispenses with what is
+for humans a main source of sexual pleasure--the flesh. Flesh, which
+is essential for human sexual contact, is an obstacle for Oankali. In
+the Oankali sexual union, the male and female do not touch, but are
+rather routed through the ooloi, an intermediary, nonbinary being
+whose "sensory arms" plug directly into into the brain. This
+intermediary dispenses not only with the flesh, but also with human
+modes of communication and intimacy, to achieve direct stimulation of
+the brain's pleasure centers. Once Lilith has "plugged in," she
+#+BEGIN_QUOTE 
+immediately recieved Joseph as a blanket of warmth and security, a
+compelling, steadying presence. 
+
+She never knew whether she was receiving Nikanj's approximation of
+Joseph, a true transmission of what Joseph was feeling, some
+combination of truth and approximation, or just a pleasant fiction. 
+
+What was Joseph feeling from her?
+
+It seemed to her that she had always been with him. She had no
+sensation of shifting gears, no "time alone" to contrast with the
+present "time together." He had always been there, part of her,
+essential. 
+
+Nikanj focused on the intensity of their attraction, their union. It
+left Lilith no other sensation. It seemed, itself, to vanish. She
+sensed only Joseph, felt that he was aware only of her. 
+
+Now their delight in one another ignited and burned. They moved
+together, sustaining an impossible intensity, both of them tireless,
+perfectly matched, ablaze in sensation, lost in one another. 308-309
+#+END_QUOTE
+The terms that Lilith uses to describe their sexual union appear to
+blend sensation and thought. She receives Joseph as a "blanket of
+warmth" and a "steadying presence," physical sensations that she
+augments with mental interpretations of "security" and "compelling."
+Then, she begins to question the objective reality of her experience,
+wondering whether Joseph also shares in the same sensations. However,
+this doubt soon fades to certainty and reassurance, as she senses "He
+had always been there, part of her, essential." From physical
+pleasure, the mind builds mental interpretations that seem to be
+inextricable from physical sensation with Nikanj, who is mediating the
+experience, imperceptible to the two of them. The intensity of their
+connection dissolves not only Lilith's doubt, but also her sense of
+time and the space between her and Joseph, who she felt "was aware
+only of her" (308). The lovemaking between the two of them appears to
+fuse physical and mental experience, with them "sustaining an
+impossible intensity... ablaze in sensation, lost in one other."
+Afterward, when Lilith asks if the sex is simulated, Nikanj explains
+that although sensory experience is shared between partners,
+"Intellectually, [Joseph] made his interpretations and you made
+yours." To this, Lilith remarks that she "wouldn't call them
+intellectual" (310-311). 
+
+That Lilith questions whether her mental experiences are true or not,
+that she doubts her experience on the level of objective reality,
+points to a serious problem for humans. This problem, evidenced by the
+clumsiness and frustration that plagues sexual intimacy, is a gap that
+exists between human bodies which creates the potential for
+miscommunication and misunderstanding. While humans must navigate this
+gap to attain unity, the Oankali, by contrast, bypass it entirely,
+plugging directly into the brain's pleasure centers. This immediate
+connection facilitated by the ooloi offers a sensual and cognitive
+experience which cannot be paralleled by traditional intercourse. As
+Nikanj explains, it "offer[s] a oneness that your people strive for,
+dream of, but can't truly attain alone" (359). By routing sensual
+connection to the brain, they eliminate the space for discomfort and
+even repulsion which can occur when in flesh-to-flesh contact.
+ TODO 
+Bypassing the flesh creates a direct neural connection where the
+distinction between mind and body, self and other, become
+blurred. This connection is what enables the Oankali to crave instead
+of fear difference, as they can attain immediate fusion with toh
+*** TODO fear of the known
+Bypassing the flesh creates a direct neural connection where the
+distinction between mind and body, self and other become blurred.  In
+the moment of immediate fusion, there is no separation between us and
+them. This is what enables the Oankali to crave rather than fear
+difference. Humans, by contrast, are bound by different biological
+imperatives. As evidenced by the example of "Medusa," the two sides of
+the human contradiction, hierarchy and intelligence, work together to
+engender a sense of all-consuming fear of the other.
+
+Interestingly, however, the fear of the other is rooted in fear of not
+difference, but similarity. Chicana feminist and writer Cherrie Moraga
+explains that similarity is more threatening when it emerges across
+difference. Those in dominant social positions, she explains, tend to
+fear those in inferior ones, not because they are lesser in status or
+privileges, but because they perceive similarity across the
+differences between them:
 #+BEGIN_QUOTE
 it is not really difference the oppressor fears so much as
 similarity. He fears he will discover in himself the same aches, the
@@ -380,7 +593,7 @@ identity is necessary in order to "forg[e] links between women from
 distant and disparate locations" (Ramirez 384). It is a quality that
 enables connection and recognition across differences. 
 
-*** TODO smooth over sensuality in communication
+*** TODO SMOOTH sensuality in communication
 Accoring to this view, overcoming the fear of the other necessitates
 coming to terms with similarity in the body that is coded
 different--by race, gender, class, disability, for example. According
@@ -445,181 +658,88 @@ borderlands. In Moraga's words, these are the "aches," "longings," and
 But it is a necessary process for healing. "Let the wound caused by
 the serpent be cured by the serpent," Anzaldua explains (50).
 
-*** Oankali social collectivism
-Like the humans, the Oankali also have their own biological
-imperatives. They are obsessed with seeking out incorporating new
-species for their "gene trade," as Jhadaya explains to Lilith: "We
-acquire new life, seek it, investigate it, manipulate it, sort it, use
-it. We carry the drive to do this in a minuscule cell within a cell, a
-tiny organelle within every cell of our bodies" (84). The Oankali
-compulsion to acquire may seem to have some similarities with the
-human drive for hierarchy, in particular, that it requires taking in
-and incorporating new beings into an existing structure. But it
-crucially differs within the context of an alternative, even
-antithetical social collectivism. As one of the Oankali children,
-Nikanj, explains to Lilith, they evolved from a collective life form:
-"'Six divisions ago, on a white-sun water world, we lived in great
-shallow oceans,' it said. 'We were many-bodied and spoke with body
-lights and color patterns among ourself and among ourselves'"
-(123). From these numerous interconnected beings, the current Oankali
-inheirited a constitution of collective, rather than individual,
-consciousness, which affects the way they communicate and the way they
-make decisions. Agency is distributed among the beings, who are
-singular and plural at once, "ourself and ourselves," and everything
-is decided by unanimous agreement.
+*** debate on biological determinism
 
-This societal paradigm is made possible by what which the humans find
-most disturbing about their captors--the Oankali sense organs that
-grow like tentacles from their skin. These sense organs transmit all
-external sensory information such as sight, hearing, touch, smell, and
-taste, as well as provide new sensory capacities in intra-Oankali
-communication: they enable direct neural connections based the
-immediate sharing of thoughts and feelings. Moreover, the neural
-linkages enabled by their prime sensory organ, their "sensory hand,"
-facilitates gene manipulation and sexual experiences. This sensory
-hand, which connects to the spinal nerve at the base of the brain,
-creates a direct connection between bodies and minds, a sharing of
-experiences that is so total and unreserved that it does away with
-concepts like deception and lies. This form of connection enables the
-novel to explore new alternatives for collectivism based on mutual
-sensation, and specifically, through life/pleasure.
+Crucially, the novel refrains from offering an easy solution to the
+problem of influence of biology on behavior.
 
-*** TODO life overrides choice - pregnancy
-Their method of acquisition, though arguably similar to human acts of
-colonization in the way they expand through incorporation, presents
-different priorities when it comes to ethical relations. Because
-health and vitality are necessary in order to trade genes, the Oankali
-do not admit any form of harm or destruction to life. At several
-points in the book, this attachment to life comes into tension with
-human tendencies for violence. Because of their regard for life, the
-Oankali struggle to anticipate acts of violence when they do occur,
-even those that lead to death. One episode toward the end of the novel
-demonstrates the significance of this point. Here, Lilith's partner,
-Joseph, is killed by a group of humans who the Oankali have let
-escape. The Oankali did not attempt to interfere in the humans'
-rebellion and the resulting in-fighting among the humans. As a result,
-Joseph is murdered before they act. Soon after his murder, Nikanj then
-uses Joseph's genetic material to impregnate Lilith without her
-knowledge. It explains to Lilith that it only gives her what she truly
-wants, which is a child:
-#+BEGIN_QUOTE
-"You'll have a daughter," it said. "And you are ready to be her
-mother. You could never have said so. Just as Joseph could never have
-invited me into his bed--no matter how much he wanted me
-there. Nothing about you but your words reject this child." 468-9.
-#+END_QUOTE
-Nikanj's reasoning is simple: it knows Lilith will love and accept the
-child. For the Oankali, sustaining and cultivating life is the
-principal factor for decision-making. When Lilith protests that "It
-won't be human," Nikanj warns that "You shouldn't begin to lie to
-yourself. It's a deadly habit. The child will be yours and Joseph's"
-(469). Unlike humans, Oankali lack the capacity to delude
-themselves. That life is prioritized over individual choice has
-significant implications for their ethics, particularly for what
-counts as coercion and manipulation.
-
-*** add bio determinism in surrender vs resistance
-For most humans, accepting the Oankali is (and will always be) an
-impossible prospect. It is only through a seemingly supra-human
-capacity for self control that Lilith is able to move through her own
-fear into a kind of tolerance for them. And even then, she spends much
-of the book vacillating between positions--between sexual surrender
-and defiant stubborness, for example. The moments where she surrenders
-to her sexual desire appear in stark contrast to her other attempts to
-endure their colonization with the goal of escape, summarized by what
-may be considered her motto, "Learn and run!", that she repeats up
-until the last page of the novel. This tension speaks to deeper
-biological imperatives at battle within the human psyche in which, as
-critic Jayna Brown puts it, "changing and prevailing cannot coexist"
-(94). Speaking of the events surrounding societal collapse in Butler's
-/Parable/ novels, Brown explains that humanity, "must adapt to
-survive, but species are never stable over time if they successfully
-adapt" (Brown 94). Throughout this novel, Lilith toes the line of this
-paradox, simultaneously encouraging the humans to obey the aliens'
-directions while preparing them for escape.
-
-Crucially, this novel refrains from offering an easy solution to the
-problem of biological impulses. Rather, it problematizes an easy
-division between biology and social conditioning, which literary
-critics have taken into a larger debate about Butler's feminist
-politics. Critics generally argue that the story supports a liberatory
-feminism, though they disagree on the role of biological essentialism
-within this feminism. On one hand, critics like Donna Haraway,
-Catherine S. Ramirez, and Kitty Dunkley have noted that the novel
-troubles the essentializing of identity through the figure of Lilith
-and through the blurring of boundaries in the inter-species
-couplings. On the other hand, critics like Stephen Barnes, Erin
-Ackerman, and Nancy Jesser argue for the primacy of biological notions
-of identity, emphasizing the importance of genetically-encoded human
-characteristics. Stephen Barnes, who often spoke with Butler about the
-topic, explains that her research in biology influenced her beliefs
-about human nature, such as the development of hierarchical tendencies
-into tribalism. According to Barnes, Butler described "emergent
+Stephen Barnes, who knew Butler professionally during her life and
+often spoke with her researches in biology, maintains that these
+influenced her beliefs about human nature, particularly as the
+development of hierarchical tendencies into tribalism. According to
+Barnes, Butler was fascinated by what she called "emergent
 properties," like the tendency to look at something as either similar
 or different, as the beginnings of complex social behaviors and
-structures. Barnes explains that "Tiny individual tendencies
+structures. According to this view, "Tiny individual tendencies
 multiplied across thousands or millions of interactions over lifetimes
 create the kind of dangerous, intractable sexism and racism that
 Octavia saw as the building blocks of Armageddon" (Barnes 12).
 
-In the same vein, Nancy Jesser asserts that "Genetics is the science
-of Butler's fiction. The translation of genotype to phenotype is the
-plot" (52). Importantly, for Jesser, this biological determinism is
-central to Butler's feminist project, which deploys feminine traits,
-like maternal self-sacrifice, nurture, and relationality, to correct
-tendencies of dominance, possessiveness, and aggression typically
-displayed by the males. According to Jesser, "the plot relentlessly
+Nancy Jesser asserts that "Genetics is the science of Butler's
+fiction. The translation of genotype to phenotype is the plot"
+(52). Erin Ackerman agrees, explaining that "Butler does present the
+possibility for that nature to change and shift away from hierarchical
+thinking" (Ackerman 33). For some critics, this biological determinism
+is central to Butler's feminist project. According to Jesser, Butler
+deploys feminine traits, like maternal self-sacrifice, nurture, and
+relationality, to correct tendencies of dominance, possessiveness, and
+aggression typically displayed by the males: "the plot relentlessly
 reinforces certain sociobiological notions of essential and 'natural'
-male and female through the concept of biological 'tendency'" (Jesser
-41-42). Jesser cites several examples of male behavior from the text,
-particularly moments of violence and attempted rape. Jesser argues
-that these aggresions are "both natural and avoidable," which is
-possible with the help of female intervention (Jesser 43). To move
-beyond an individualistic frame toward a communitarian one, the women
-of the story provide relationality, cooperation, and
-flexibility. According to Jesser, these distinctly feminine capacities
-will enable humanity to expand beyond its destructive tendencies.
+male and female through the concept of biological 'tendency'," for
+example, in moments of violence and attempted rape in the story
+(Jesser 41-42). Jesser explains that such moments of male aggression
+is "both natural and avoidable," thanks to the intervention of
+feminine traits of relationality, cooperation, and flexibility (Jesser
+43). Such feminine capacities are what will enable humanity to expand
+beyond its destructive tendencies.
 
-*** TODO Most of the novel's criticism, however, emphasizes the
-deconstruction of identity markers and categories, particularly gender
-and race. Haraway, for example, even within her scientific frame as a
+Most of the novel's criticism, however, emphasizes the deconstruction
+of identity markers and categories, particularly of gender and
+race. Haraway, for example, even within her scientific frame as a
 biologist, maintains that "gender is not the transubstantiation of
 biological sexual difference," rather, it is "kind, syntax, relation,
-genre"(/Primate Visions/ 377). Building from Haraway's reading,
-Ramirez and Kitty Dunkley emphasize the crossing of identity
-boundaries across Butler's work. Ramirez, for example, argues that
-Butler's novels "critique fixed concepts of race, gender, sexuality
-and humanity, and, subsequently, 'fictions' of identity and community"
-(Ramirez 375). Ramirez explains that Butler strategically deploys
-identity categories, or "potent myth," in Haraway's words, with the
-purpose of destabilizing those categories. In the same vein, Dunkley
-frames her reading of Butler as a revision the anthropocentric and
-patriarchial structures of traditional humanism. Dunkley points out
-that "Humanism functions on the apotheosis of the anthropos and a
-belief in its inherent worth, autonomy, rationality, and capabilities"
-(Dunkley 97). In this scheme, the Oankali "are ostensibly constructed
-invert our Humanistic egocentrism" (Dunkley 96). Dunkley brings up the
-men's fear of the ooloi, not as an example that reinforces the
-inherent order of things, but one that displays in practice the
-principles of humanism being brought to the test.
+genre" (/Primate Visions/ 377). Ramirez explains that Butler
+strategically deploys essentialist identity categories, that "potent
+myth," in Haraway's words, with the purpose of destabilizing those
+categories.
 
+ In the same vein, Kitty Dunkley frames her reading of Butler as a
+revision the anthropocentric and patriarchial structures--which
+necessitates essential notions of gender--in traditional humanism. The
+men's fear of the sexual seduction and penetration by the ooloi, for
+example, displays in practice the principles of humanism, "the
+apotheosis of the anthropos" (Dunkley 97), that are in danger, by
+"threaten[ing] to usurp the men’s position at the pinnacle of a
+gendered hierarchy" (100). According to Dunkley, the Oankali "are
+ostensibly constructed invert our Humanistic egocentrism" (96).
 
---> MY VIEW -- HETEROSEXUALITY IS CHALLENGED THROUGH SEX ACT, WHICH IS
-QUEER 
+*** TODO the body matters
+- debate between constructed and essentializing gender points to
+  embodiment.
+- critics generally say that sexuality is hetero. 
 
+The debate between whether gender is naturalized or constructed points
+to a question about the way that embodiment /matters/ in the
+novel. Here it is necessary to examine the sex act itself, to explore
+how thoughts, emotions, and more importantly, pleasure is mediated
+between the bodies involved. Here, critics tend to agree that the
+novel supports a naturalization of heterosexuality. To support this
+position, they refer to the male and female pairings across humans,
+Oankali, and in even human-Oankali couplings, where the insertion of
+an ooloi partner merely extends the heterosexual connection. Haraway's
+early critique of the story affirms that "Heterosexuality remains
+unquestioned, if more complexly mediated. The different social
+subjects, the different genders that could emerge from another
+embodiment of resistance to compulsory heterosexual reproductive
+politics, do not inhabit this /Dawn/" (Haraway 380). Similarly,
+according to Ackerman, "heterosexuality does read as the standard, or
+even, only erotic option available" (Ackerman 40). 
 
+A close examination of a sex scene between Lilith and the Oankali
+serves to revise this position. 
 
-
-Does this story, and Lilith's character in particular, support a
-biological determinist view--the idea that human action is determined
-by biological dispensations and imperatives--or does it support an
-anti-essentialist view of biology? Is Lilith deconstructing
-naturalizing assumptions about sex and gender, or is she reinforcing
-them?
-
-But I disagree with the heterosexual reading by Haraway and others. It
-offers a queer sexuality, because queer sexualities are ones that
-scramble sense and thought. We will see this in flesh!
+ 
+This emphasis on bodies is kind of essentialism? 
 
 Bodies as material entities, importance of sensuality. 
  "a vision of bodies that are often bad for us. At least as far as
@@ -632,8 +752,10 @@ Women's "connections to their bodies are more than a form of
   powerful, emancipating intersubjective body in which the social
   bosom and the maternal bosom are newly coherent" (Jesser 56). 
 
+*** TODO the body's drives eviscerate choice
 
-*** TODO add black studies, burnett, man in consent
+add black studies, burnett, man in consent
+
 For, even when this sex act appears contained to the mind, it is
 always portrayed as something that relies on and is guided by the
 material exegencies of the body. When being seduced by the ooloi, the
@@ -666,7 +788,7 @@ one might expect a split between embodied instinct and free will, or
 drive and determinacy, one instead encounters their collapse or
 conflation. 
 
-*** TODO add posthuman? in free will and individual
+*** the individual/agency dissolves
 The novel uses sexual pleasure in the flesh to destabilize the
 assumptions underpinning free will, which has the effect of
 challenging the boundaries of what is traditionally considered the
@@ -736,105 +858,46 @@ affirms, "The erotic is a measure between the beginnings of our sense
 of self and the chaos of our strongest feelings," then individuality
 is central for the experience of its own dissolution (54).
 
-*** scrambling sense and thought
-One of the consequnces of the Oankali focus on pleasure as a
-foundation for ethics may seem perhaps paradoxical from a human
-perspective. The method that Oankali have sex dispenses with what is
-for humans the source of sexual pleasure--the flesh. Flesh, which is
-the means through which humans achieve sexual contact, is an obstacle
-for Oankali sex. In the Oankali sexual union, the male and female do
-not touch, but are rather routed through an intermediary, nonbinary
-being whose "sensory arms" plug directly into into the brain. The
-ooloi intermediary dispenses not only with the clumsiness of human
-bodies and the flesh, but also with human modes of communication and
-intimacy, to achieve direct stimulation of the brain's pleasure
-centers. In the process of seducing Joseph, Nikanj explains that it
-"offer[s] a oneness that your people strive for, dream of, but can't
-truly attain alone" (359). The direct connection facilitated by the
-ooloi offers a sensual and cognitive experience which cannot be
-paralleled by physical intercourse. Once Nikanj has her "plugged in",
-Lilith
-#+BEGIN_QUOTE 
-immediately recieved Joseph as a blanket of warmth and security, a
-compelling, steadying presence. 
-
-She never knew whether she was receiving Nikanj's approximation of
-Joseph, a true transmission of what Joseph was feeling, some
-combination of truth and approximation, or just a pleasant fiction. 
-
-What was Joseph feeling from her?
-
-It seemed to her that she had always been with him. She had no
-sensation of shifting gears, no "time alone" to contrast with the
-present "time together." He had always been there, part of her,
-essential. 
-
-Nikanj focused on the intensity of their attraction, their union. It
-left Lilith no other sensation. It seemed, itself, to vanish. She
-sensed only Joseph, felt that he was aware only of her. 
-
-Now their delight in one another ignited and burned. They moved
-together, sustaining an impossible intensity, both of them tireless,
-perfectly matched, ablaze in sensation, lost in one another. 308-309
-#+END_QUOTE
-While Lilith's experience of sex with Joseph and Nikanj explains a lot
-about the relationship between physical pleasure and mental
-experience, it also instructs one crucial lesson about human
-relationships. That Lilith questions whether her mental experiences
-are true or not, the fact that she doubts, points to an issue with
-human intimacy--that there is exists a gap for miscommunication and
-misunderstanding. This gap is created and sustained by the flesh,
-which can be a clumsy, cumbersome, and unreliable space through which
-two sexual partners must navigate to reach sexual unity. By contrast,
-the Oankali sexual experience bypasses this gap directly, plugging
-into the brain's pleasure centers. By routing sensual connection to
-the brain, they eliminate the space for discomfort and even repulsion
-which can occur when in flesh-to-flesh contact.
-
+*** -> posthuman perpetuates erasure of body:
+- This ethics based on feeling revises traditional humanist and
+  poshumanist elisions of the body. As N. Katherine Hayles's work
+  demonstrates, such elisions emerge from early conceptualizing of the
+  *liberal humanist subject*, in which the rational mind /possesses/ a
+  body, into the posthuman, where cognition and feeling are
+  /collapsed/ into informational patterns. Hayles explains that the
+  dualism of mind/body and the attendent erasure of the body from
+  cognitive processes enables further suppressions: "Only because the
+  body is not identified with the self is it possible to claim for the
+  liberal subject its notorious universality, a claim that depends on
+  erasing markers of bodily difference, including sex, race, and
+  ethnicity" (4-5). The model of sex in Butler's novel revises this
+  esssential fiction spun in over the history of cybernetic
+  development, mending the rift between body and mind.
+*** -> the posthuman theorizes the mind as superior to the body
 The elimination of flesh in sex reveals a complex imbrication between
 physical sensation and mental experience, which pushes against a
 tendency in narratives that feature the "posthuman," that is, figures
 who extend the bounds of the traditional human subject by
 technological, biological, or spiritual modification. Because the
 sexual experience occurs entirely in the brain, it is easy to assume,
-as Lilith and Joseph do, that the experience is a simulation. Their
-assumption perpetuates one crucial tenet of liberal human
-subjectivity, according to N. Katherine Hayles, that the rational mind
-/possess/ a fleshy body which functions as an extension of the
-mind. Hayles explains that for the posthuman, the mind represents pure
-intelligence, a set of informational patterns, while the body
-functions as a sort of prosthesis, which can be substituted, updated,
-or even removed from the intelligent mind. The classic example is
-William Gibson's /Neuromancer/ novel, which poses a a virtual
-"dataspace," known as a "matrix," where users can move and interact
-without the need of a physical body. This emphasis on cognition
-creates an "erasure of embodiment" which assumes that feelings and
-sensations that occur in the body can be experienced in a flesh-less
-environment (Hayles 4-5). 
+as the humans in the novel do, that the experience is entirely a
+simulation. This assumption perpetuates one crucial tenet of liberal
+human subjectivity: that the rational mind /possess/ a fleshy body
+which functions as an extension to the mind. N. Katherine Hayles
+explains that the posthuman imaginary preserves liberal humanist
+ideology by prioritizing intelligence, which it conceives as
+informational patterns, as superior to and controlling a body, which
+becomes a prosthesis that can be substituted, updated, or even removed
+from the intelligent component. A classic example of the posthuman
+imaginary appears William Gibson's /Neuromancer/ novel, which poses a
+a virtual "dataspace," known as a "matrix," where users can move and
+interact without the need of a physical body. According to Hayles,
+"abstract pattern can never fully capture the embodied actuality"
+(22). An "erasure of embodiment" assumes feelings and sensations that
+occur in the body can be experienced in a flesh-less environment
+(Hayles 4-5).
 
-In the novel, Lilith appears to make the same assumptions as the
-posthuman when she questions whether the feelings she recieves from
-Joseph are "true." However, as her conversation with Nikanj develops,
-she brings the body back into consideration:
-#+BEGIN_QUOTE
-"He... felt everything I felt?"
-"On a sensory level. Intellectually, he made his interpretations and
-you made yours.
-"I wouldn't call them intellectual." 310-311
-#+END_QUOTE
-Lilith's response here indicates that sense and thought are not as
-distinct as might have been assumed, in Hayles words, that "abstract
-pattern can never fully capture the embodied actuality" (22).Indeed,
-during the sex act, the terms that she uses to describe their sexual
-union appear to blend feeling and thought. The physical "warmth" with
-which she receives Joseph is immediately augmented with mental
-interpretations of "security," that is, comfort and
-protection. Further on, the intensity of their connection appears not
-only to dissolve her sense of time, as she feels "she had always been
-with him," but also to intuit what he was feeling, "that he was aware
-only of her" (308). While sex with the Oankali focuses on physical
-pleasure, the mind builds mental interpretations that seem to be
-inextricable from physical sensation.
+
 
 
 **** Dawn Quotes
@@ -864,6 +927,27 @@ also experienced. This was what had captured Paul Titus, she
 thought. This, not sorrow over his losses or fear of a primitive
 Earth.
 #+END_QUOTE
+
+*** -> alarcon: sustain strangeness rather than incorporating it
+Alarcon Alarcon makes a similar point in her argument about the
+dangers of "ontologiz[ing] difference," that is, of subsuming specific
+difference into a universal identity politics. She explains that,
+  #+BEGIN_QUOTE
+  The desire to translate as totalizing metphorical substitution without
+  acknowledging the "identity-in-difference," so that one's own system
+  of signification is not disrupted through a historical concept whose
+  site of emergence is implicated in our own history, may be viewed as
+  a desire to dominate, constrain, and contain. 133 
+  #+END_QUOTE
+  The challenge is to achieve connection without totally subsuming the
+  other into totalizing and therefore oppressive paradigms of
+  subjectivity 
+
+The point here is to not subsume that quality of strangeness in the
+  other into familiar structures of knowledge, like the way that
+  Lilith subsumes Jhadaya's strangeness into the similitude of the
+  terrifying Medusa. Rather, the point is to sustain the strangeness
+  without attempting to block it out.
 
 
 ** flesh
