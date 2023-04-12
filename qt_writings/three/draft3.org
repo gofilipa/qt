@@ -96,11 +96,13 @@ resisted overcome by bypassing the flesh, which is the topic of my
 next section.
 
 *** TODO /Xenogenesis/ to xenophobia: intro
-In the novel /Dawn/, by Octavia Butler, the main character, Lilith
-Iyapo, is seduced by an alien. The alien coaxes Lilith to join it and
-her human partner, Joseph: "Lie here with us," it says, "Why should
-you be down there by yourself?" (PAGE NUMBER). Lilith response
-displays the power of erotic impulses in overcoming logic or reason: 
+In the novel /Dawn/, the first of the /Xenogenesis/ trilogy by Octavia
+Butler, the main character, Lilith Iyapo, is seduced by an alien. The
+alien, known as an "ooloi" with the name "Nikanj," coaxes Lilith to
+join it and her human partner, Joseph: "Lie here with us," Nikanj
+says, "Why should you be down there by yourself?" (PAGE
+NUMBER). Lilith response suggests the strength of erotic impulses on
+human decision-making:
 #+BEGIN_QUOTE
 She thought there could be nothing more seductive than an ooloi
 speaking in that particular tone, making that particular
@@ -115,71 +117,75 @@ Joseph that was beyond ordinary human experience. And what it gave, it
 also experienced. PAGE NUMBER
 #+END_QUOTE
 The pleasure that Lilith experiences is intense enough to make her
-temporarily ignore that the aliens, who call themselves "Oankali,"
-have descended upon earth following a nuclear holocaust with one goal:
-to coerce the surviving humans to reproduce with their species,
-creating a human-alien race. This alien, Nikanj, has sex by creating a
-neural connection between a male and female partner, in this case,
-between Lilith and Joeseph. It makes this connection by inserting its
-its "sensory hand," a sexual organ, into the spinal cord at the back
-of the neck. Then, during the sex act, the alien then collects the
-reproductive material necessary to engineer a viable embryo made of
-human and Oankali genes. The novel is part of a larger trilogy called
-/Xenogenesis/ or /Lilith's Brood/.
+temporarily ignore that these aliens, the "Oankali," have descended
+upon earth with one goal: to coerce humans to reproduce with them,
+creating a human-alien species. As an ooloi, Nikanj has a special
+sexual organ that enables a neural connection between a male and
+female partner, in this case, between Lilith and Joseph. It makes this
+connection by inserting its sexual organ, a "sensory hand," into its
+partner's spinal cord, located at the back of the neck. Then, during
+the sex act, the alien collects reproductive material which it will
+eventually use to engineer a viable embryo made of human and Oankali
+genes.
 
-Despite her apparent willingness to join Nikanj, Lilith harbors a deep
-ambivalence about the Oankali. Like the other humans in the novel,
-Lilith was "rescued" from nuclear war by the aliens, and is now being
-held on the spaceship until the humans are ready to do their part in
-the "gene trade"--that is, to help re-populate the earth with the new
-human-Oankali species. Lilith's job to be a shepherd, what she calls a
-"Judas goat," to guide humans to accept a fate that she herself cannot
-tolerate: that humanity will change forever, that their children will
-look like "Medusa children" (Butler 87). For that reason, the moments
-like the one above where Lilith surrenders to her sexual desire appear
-in stark contrast to her determination to eventually escape,
-summarized by her motto, "Learn and run!", that she repeats up until
-the last page of the novel. This tension speaks to deeper biological
-imperatives at battle within the human psyche in which, as Jayna Brown
-puts it, "changing and prevailing cannot coexist" (94). Brown
-emphasizes a seeming paradox about species survival in Butler's
-novels: the human species "must adapt to survive, but species are
-never stable over time if they successfully adapt" (Brown
-94). Throughout /Dawn/, Lilith toes the line of this paradox,
-simultaneously encouraging the humans to obey the aliens' directions
-while preparing them for escape.
+Scenes like the one above, in which Lilith surrenders to her sexual
+desire, appear in stark contrast to her determination to escape,
+conveyed by her invocation to "Learn and run!" which she repeats up
+until the last page of the novel. Despite her eagerness to join Nikanj
+in sex, Lilith harbors a deep resistance against the Oankali's
+intention to procreate with humanity. Having barely survived a nuclear
+apocalypse only to be "rescued" by the aliens, Lilith, along with the
+surviving humans, is being held on the Oankali spaceship in
+preparation to do their part in the "gene trade"--that is, to help
+re-populate the earth with the new human-Oankali species. The Oankali
+have given Lilith a special job to be a shepherd, what she calls a
+"Judas goat," to guide humans to accept that humanity will change
+forever, that their children will look like "Medusa children" (Butler
+87).
 
-[Re-organize: Haraway's work inspired Ramirez and Dunkley] In the
-paradox between changing and prevailing, the novel interrogates the
-primacy of erotic impulses. It reformulates the the role of physical
-pleasure in cultivating and sustaining new social
-organizations. Critics tend to agree that it does so within a larger
-femininist politics that resists essentializing notions of biology and
-identity. For example, Kitty Dunkley, Donna Haraway, and Catherine
-S. Ramirez argue that the novel and trilogy as a whole uses
-inter-species couplings to challenge assumptions about sex and
-gender. Dunkley situates the novel within a radical posthuman
+The conflict between various biological drives, such as sex drive
+versus the survival drive, speaks to a larger debate among the novel's
+critics about the primacy of biological impulses in determining human
+behavior and characteristics. Donna Haraway, Catherine Ramirez, and
+Kitty Dunkley, for example, argue that the interspecies couplings
+challenge assumptions about biological essentialism. Haraway's
+influential critique from her book /Primate Visions: Gender, Race, and
+Nature in the World of Modern Science/ (1989) situates the novel
+within a feminist, posthuman critique of patriarchal knowledge
+structures in Primatology and science studies more generally. Reading
+the novel "as if it were a report from the primate field in the
+allotopic space of earth after a nuclear holocaust," Haraway draws
+from the inter-species relations and couples as examples of
+destabilizing human-animal hierarchies and divisions (Haraway
+376). Building from Haraway's work, Catherine Ramirez argues that the
+novel articulates the tension between essentialism and
+constructedness, which is central to Women of Color Feminism, by
+"critiqu[ing] fixed concepts of race, gender, sexuality and humanity,
+and, subsequently, 'fictions' of identity and community" (Ramirez
+375).
+
+*** TODO Dunkley situates the novel within a radical posthuman
 framework, that is, upending the anthropocentric and patriarchal
 hegemony of humanism, toward cross-species, race, and gender
 formulations: the novel, she argues, "prompts us to question how our
 relationships and sense of kinship with the racialized, sexualized,
 and naturalized Other might look, if, like the Oankali, we chose to
-'embrace difference'" (Dunkley 113-114). Haraway also reads the novel
-within a posthuman framework, "as if it were a report from the primate
-field in the allotopic space of earth after a nuclear holocaust,"
-toward the purpose of destabilizing human-animal hierarchies and
-divisions (Haraway 376). Building from this deconstruction of the
-human, Catherine Ramirez argues that Butler's novels "critique fixed
-concepts of race, gender, sexuality and humanity, and, subsequently,
-'fictions' of identity and community" (Ramirez 375). On the other
-hand, critics like Stephen Barnes, Erin Ackerman, and Nancy Jesser
-argue for the primacy of biological notions of identity, emphasizing
-the importance of genetically-encoded human characteristics. For
-example, Nancy Jesser argues that "the plot relentlessly reinforces
-certain sociobiological notions of essential and 'natural' male and
-female through the concept of biological 'tendency'" (Jesser 41-42).
+'embrace difference'" (Dunkley 113-114). 
 
-This chapter is interesting in untangling the power of the erotic as a
+On the other hand, critics like Stephen Barnes, Erin Ackerman, and
+Nancy Jesser argue for the primacy of biological notions of identity,
+emphasizing the importance of genetically-encoded human
+characteristics. For example, Nancy Jesser argues that "the plot
+relentlessly reinforces certain sociobiological notions of essential
+and 'natural' male and female through the concept of biological
+'tendency'" (Jesser 41-42).
+
+[paragraph about queerness and embodiment, looking at sex, flesh, and
+skin, corresponding to three areas of knowledge--science fiction,
+black feminist studies, media archaeology. Tracing the sensual across
+these three]
+
+In this first section, untangling the power of the erotic as a
 physical, sensual phenomenon. Thinking to Nikanj's seduction of
 Lilith, and Lilith's willingness to submit, to what extent does the
 sex drive, portrayed here as primal and primary, indicate an
@@ -192,7 +198,7 @@ intense fear, such as those that overtake many of the humans in their
 first encounters with the Oankali. The experience of desire and fear
 are closely related, as the title /Xenogensis/, recalling xenophobia,
 suggests. Fear and sex, then, are intimately routed together through
-the body. 
+the body.
 
 [include overview of why we are going into Black Feminist Studies and
 Media Archaeology]
@@ -714,32 +720,16 @@ gendered hierarchy" (100). According to Dunkley, the Oankali "are
 ostensibly constructed invert our Humanistic egocentrism" (96).
 
 *** TODO the body matters
-- debate between constructed and essentializing gender points to
-  embodiment.
-- critics generally say that sexuality is hetero. 
+Critics generally say that sexuality is hetero BUT this becomes
+complicated with the issue of consent. 
 
-The debate between whether gender is naturalized or constructed points
-to a question about the way that embodiment /matters/ in the
-novel. Here it is necessary to examine the sex act itself, to explore
-how thoughts, emotions, and more importantly, pleasure is mediated
-between the bodies involved. Here, critics tend to agree that the
-novel supports a naturalization of heterosexuality. To support this
-position, they refer to the male and female pairings across humans,
-Oankali, and in even human-Oankali couplings, where the insertion of
-an ooloi partner merely extends the heterosexual connection. Haraway's
-early critique of the story affirms that "Heterosexuality remains
-unquestioned, if more complexly mediated. The different social
+Haraway's early critique of the story affirms that "Heterosexuality
+remains unquestioned, if more complexly mediated. The different social
 subjects, the different genders that could emerge from another
 embodiment of resistance to compulsory heterosexual reproductive
 politics, do not inhabit this /Dawn/" (Haraway 380). Similarly,
 according to Ackerman, "heterosexuality does read as the standard, or
-even, only erotic option available" (Ackerman 40). 
-
-A close examination of a sex scene between Lilith and the Oankali
-serves to revise this position. 
-
- 
-This emphasis on bodies is kind of essentialism? 
+even, only erotic option available" (Ackerman 40).
 
 Bodies as material entities, importance of sensuality. 
  "a vision of bodies that are often bad for us. At least as far as
@@ -788,7 +778,7 @@ one might expect a split between embodied instinct and free will, or
 drive and determinacy, one instead encounters their collapse or
 conflation. 
 
-*** the individual/agency dissolves
+*** -> ethics: the individual/agency dissolves
 The novel uses sexual pleasure in the flesh to destabilize the
 assumptions underpinning free will, which has the effect of
 challenging the boundaries of what is traditionally considered the
@@ -858,7 +848,6 @@ affirms, "The erotic is a measure between the beginnings of our sense
 of self and the chaos of our strongest feelings," then individuality
 is central for the experience of its own dissolution (54).
 
-*** -> posthuman perpetuates erasure of body:
 - This ethics based on feeling revises traditional humanist and
   poshumanist elisions of the body. As N. Katherine Hayles's work
   demonstrates, such elisions emerge from early conceptualizing of the
@@ -948,6 +937,12 @@ The point here is to not subsume that quality of strangeness in the
   Lilith subsumes Jhadaya's strangeness into the similitude of the
   terrifying Medusa. Rather, the point is to sustain the strangeness
   without attempting to block it out.
+
+*** -> Jayna Brown
+Jayna Brown puts it, "changing and prevailing cannot coexist"
+(94). Brown explains that although humans "must adapt to survive [...]
+species are never stable over time if they successfully adapt" (Brown
+94).
 
 
 ** flesh
