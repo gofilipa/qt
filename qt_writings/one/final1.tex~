@@ -1,4 +1,4 @@
-% Created 2023-02-06 Mon 10:03
+% Created 2023-02-16 Thu 10:50
 % Intended LaTeX compiler: pdflatex
 \documentclass[11pt]{article}
 \usepackage[utf8]{inputenc}
@@ -29,10 +29,10 @@
 \tableofcontents
 
 \section{"'A Melon, an Emerald, a Fox in the Snow': Quantifying Gender in Virginia Woolf's \emph{Orlando: A Biography}"}
-\label{sec:orge82bf16}
+\label{sec:org09af1b4}
 
-\subsection{abstract}
-\label{sec:org34e230b}
+\subsection{Abstract}
+\label{sec:org391aa6b}
 
 This chapter explores how the analysis of gender in text might
 leverage gender theory to create a distant reading
@@ -57,7 +57,7 @@ place within a larger trajectory of Gender Studies since Butler's text
 inaugurating the field.
 
 \subsection{Introduction}
-\label{sec:org759b39f}
+\label{sec:orge515638}
 
 The novel \emph{Orlando: A Biography} (1928), by Virginia Woolf, famously
 opens with an assertive gender designation followed by an immediate
@@ -99,7 +99,7 @@ precise elements like word frequency or syntactic patterns, to analyze
 large collections of textual data.
 
 \subsection{The Fantasy of the Falsifiable}
-\label{sec:orgb450bab}
+\label{sec:orgad9de97}
 Because computers can process hundreds of texts at a time, "reading"
 at much faster rates than humans, attract critics who are interested
 in the problem of scale in studying literary history. Critics like
@@ -424,7 +424,7 @@ understanding of sexuality, where queerness operates as an
 articulation (both structurally and semantically) of race.
 
 \subsection{Iteration}
-\label{sec:org15ef4d1}
+\label{sec:orgab89f7a}
 As Mandell points out, both gender and genre "are\ldots{} highly
 imitatable," so that "anyone can adopt gendered modes of behavior,
 just as anyone can write in genres stereotypically labeled M/F"
@@ -908,7 +908,7 @@ formula remains obvious: the woman is computed according to her
 relation to a man.
 
 \subsection{Queer Distant Reading}
-\label{sec:org8a2a25e}
+\label{sec:org449749c}
 I now turn to Virginia Woolf's novel, \emph{Orlando: A Biography}. This
 novel is ideal for a computational study of gender for two
 reasons. First it is perhaps the most salient example of transgender
@@ -1434,8 +1434,8 @@ thinkers like Tinsley, who attend to what has been submerged, washed
 away "in the process of unmarking whiteness and global northernness"
 (206).
 
-\section{Works Cited}
-\label{sec:org5e4affc}
+\section{References}
+\label{sec:orgb2f47ea}
 
 Amin, Kadji, Amber Jamilla Musser, and Roy Pérez “Queer Form:
 Aesthetics, Race, and the Violences of the Social” ASAP/Journal,

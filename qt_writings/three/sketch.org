@@ -18,7 +18,7 @@ Method: Close reading of /Dawn/, Media archaeological reading of
 attends to its physicality, what Kirschenbaum describes as the
 forensic and formal levels of materiality.
 
-** TODO readings notes
+** readings notes
 *** /skin/
 http://auriea.org/skinonskinonskin
 http://entropy8zuper.org/skinonskinonskin/
@@ -821,23 +821,6 @@ theorizations of self-love." (63).
 of Other Worlds. Duke University Press, 2021. JSTOR, https://doi.org/10.2307/j.ctv1dgmm37. Accessed 8 Jul. 2022.
 
 
-Brown points out in Bulter the tension between what in our human
-nature allows us to transcend our species and what prevents us from
-doing so. Either humanity will “grow” or it will “prevail.
-
-Brown is re-conceiving sensation and desire to transcend the bounded
-subject.
-
-Black subjects, being excluded from the ‘human’, have a mobility, an ‘untethered state’ (7). 
-
-She asks, “Does the self need bounded wholeness in order to feel, or
-can it thrive in the effluent?” (14). She zeroes in on the
-potentiality of “flesh” in its reduction to avoid the markings of
-subjectivity: “Flesh… is free of the need for subjectivity. I contend
-that there is freedom in the flesh, in the moments when it is excluded
-from being marked, as it feels, and responds to, touch”
-(11). Sensation, desire, and flesh all reach toward a kind of merging.
-
 The freedom in this reduction recalls snorton’s transcapable.
 
 She creates a model for understanding the role of the flesh in
@@ -1272,6 +1255,7 @@ to try to think beyond those arrangements in the future" (Mann 66).
 The "noose is resignifed... [s]ex with the Oankali is consequently
 presented as strange and dangerous, yet, like the noose, also oddly
 comfortable and immensely pleasurable" (Mann 67). 
+
 **** Belk, Nolan. “The Certainty of the Flesh: Octavia Butler’s
 Use of the Erotic in the Xenogenesis Trilogy.” Utopian Studies,
 vol. 19, no. 3, 2008, pp. 369–89. JSTOR,
@@ -1346,7 +1330,7 @@ Handbook to Octavia Butler. pp. 133-148.
 Colonization based on biological imperative has the effect of blurring
 the difference between colonizer and colonized.
 
-**** TODO Jesser, Nancy. "Blood, Genes and Gender in Octavia Butler's
+**** Jesser, Nancy. "Blood, Genes and Gender in Octavia Butler's
 Kindred and Dawn." Extrapolation (Pre-2012), vol. 43, no. 1, 2002,
 pp. 36-61. 
 
@@ -1430,7 +1414,7 @@ number is now three rather than two, the narrative never presents an
 erotic scene with an ooloi and two individuals of the same sex/gender"
 (Ackerman 40). 
 
-**** TODO Patricia Meltzer, /Alien Constructions: Science Fiction and
+**** Patricia Meltzer, /Alien Constructions: Science Fiction and
 Feminist Thought/. Austin: U of Texas P, 2006. 
 
 pages 236, 238-241.
@@ -1453,7 +1437,7 @@ gender which it can never inhabit. This failure is what opens up the
 possibility of imagining otherwise. That identification and desire can
 coexist, that desire can precede identification, is queer, according
 to Butler in "Imitation and Gender Insubordination", which is mirrored
-in the construct ooloi (Meltzer 237). 
+in the construct ooloi (Meltzer 237).
 
 "genderqueer" is not about neutrality or blending. It is about
 "placing masculine and feminine into contradictory relationships with
@@ -1480,7 +1464,6 @@ since partners never actually touch, yet they share intense sexual
 experiences through parallel stimulation of brains" (Melzter 236).
 - "Desire, then, is... rooted in the body's amorphous craving for
 physical pleasure" (Melzter 236).
-
 
 **** Burnett, Joshua Yu. "Troubling Issues of Consent in /Dawn/,"
 M. Japtok, J. R. Jenkins (eds.), /Human Contradictions in Octavia
@@ -1516,6 +1499,11 @@ field in the allotopic space of earth after a nuclear holocaust"
 "Gender is kind, syntax, relation, genre; gender is not the
 transubstantiation of biological sexual difference" (Haraway 377). 
 
+"Octavia Butler's speculative/science fiction is preoccupied with
+forced reproduction, unequal power, the ownership of self by another,
+the siblingship of humans with aliens, and the failure of siblingship
+within species" (Haraway 378). 
+
 Use of the word 'monster' to describe the aliens: 
 - "Her fiction, especially in Xenogenesis, is about the monstrous fear
   and hope that the child will not, after all, be like the
@@ -1523,8 +1511,15 @@ Use of the word 'monster' to describe the aliens:
   word's root with the verb "to demonstrate"; monsters signify"
   (Haraway 378).
 
+- "At the end of Dawn, Butler has Lilith—whose name recalls her
+  original unfaithful double, the repudiated wife of Adam—pregnant
+  with the child of five progenitors, who come from two species, at
+  least three genders, two sexes, and an indeterminate number of
+  races. Adam's rib would be poor starting material to mold this new
+  mother of humanity or her offspring" (Haraway 378). 
+
 While Butler disrupts social and sexual assumptions, the boundaries of
-species and sex, she does not disrupt heterosexuality:
+species and sex, she does not disrupt heterosexuality or gender:
 - "Heterosexuality remains unquestioned, if more complexly
   mediated. The different social subjects, the different genders that
   could emerge from another embodiment of resistance to compulsory
@@ -1533,7 +1528,7 @@ species and sex, she does not disrupt heterosexuality:
   story, about another birth, a xenogenesis. Too much of the sacred
   image of the same is left intact" (Haraway 380).
 
-** revisions
+** TODO revisions
 *** first half october 2022
 **** overview of alien and flesh sections:
 The "aliens" section examines human vs Oankali social structures to
@@ -1591,6 +1586,36 @@ technological.
 2. fungibility -> fugitivity
 5. opacity -> foreclosure
 6. surface -> shifting registers
+
+*** FLESH may 2023
+In SEX section, the sex act with the Oankali demonstrates two things: 
+ 
+- first, that flesh is an obstacle for human communication/interaction
+  and society. It is something that humans cannot get past, and
+  creates all sorts of problems for how they relate and organize
+  themselves.
+- second, as Oankali sex demonstrates, the way of overcoming the
+  obstacle of flesh is by experiencing the cognitive/mental as
+  inextricable from the physical. This creates a relation, unity,
+  through feeling.
+
+Now, in FLESH section, we ask how this obstacle, the flesh, to human
+connection can also be a solution? 
+
+Black Feminist Studies: *Foreclosure, Opacity* (denial of access, of
+depth)
+
+  -> Media Archeology: relates to *Displacement* (via flickering
+  signifiers)
+
+  -> /skin/: appears in computer code, culminates in Flash code
+
+Black Feminist Studies: *Fugitivity* (perspective shift /
+escape/change through reduction)
+
+  -> Media Archaeology: relates to *Volatility*
+
+  -> /skin/: appears in haptics
 
 
 ** brainstorms 
@@ -2010,3 +2035,108 @@ explains that "the opacity in the archive... leaves room to imagine
 how Betsey might have somehow resisted the performance of stoic
 bravery or willing subjectivity that she was compelled to produce"
 (25). 
+
+*** pleasure distributes agency
+Jayna Brown argues that feeling, the receptivity to feeling, can be a
+basis for a kind of subjectivity that moves beyond the individual
+subject: "to surrender to touch, to our sensations, is to loosen the
+bounds of individualism, to mingle with other flesh and with the
+elements" (11). 
+
+Basing subjectivity in the volition of the flesh dismantles one of the
+core tenets of liberal subjectivity, that of agency. The notion of
+choice becomes re-formulated to the sharing mutual feeling, of feeling
+in the flesh. This proposes a model of ethics based on receptivity and
+vulnerability, rather than agency.
+
+Although relationships based on pleasure admit less opportunity for
+exploitation, there are still hierarchical systems without the Oankali
+society. For example, the ooloi, the third-gender beings who have
+sensory arms that can manipulate genes, are in charge of the gene
+trade and act as a matchmakers among the males and females. They
+demonstrate that individuals within collective structures require some
+level of separateness and delegation in order to work cooperatively.
+
+*** bodies are bad for us
+Bodies are not positive
+ "a vision of bodies that are often bad for us. At least as far as
+  sex and sexuality go. Butler's bodies have a will of their own, and
+  it is to be found most often lodged in genetic "tendencies" if not
+  fixities" (Jesser 45). 
+
+*** -> the posthuman
+The elimination of flesh in sex reveals a 
+
+. This assumption perpetuates one 
+
+ A classic example of the posthuman
+imaginary appears William Gibson's /Neuromancer/ novel, which poses a
+a virtual "dataspace," known as a "matrix," where users can move and
+interact without the need of a physical body. According to Hayles,
+"abstract pattern can never fully capture the embodied actuality"
+(22). An "erasure of embodiment" assumes feelings and sensations that
+occur in the body can be experienced in a flesh-less environment
+(Hayles 4-5).
+
+This ethics based on feeling revises traditional humanist and
+poshumanist elisions of the body. As N. Katherine Hayles's work
+demonstrates, such elisions emerge from early conceptualizing of the
+*liberal humanist subject*, in which the rational mind /possesses/ a
+body, into the posthuman, where cognition and feeling are /collapsed/
+into informational patterns. Hayles explains that the dualism of
+mind/body and the attendent erasure of the body from cognitive
+processes enables further suppressions: "Only because the body is not
+identified with the self is it possible to claim for the liberal
+subject its notorious universality, a claim that depends on erasing
+markers of bodily difference, including sex, race, and ethnicity"
+(4-5). The model of sex in Butler's novel revises this esssential
+fiction spun in over the history of cybernetic development, mending
+the rift between body and mind.
+
+
+
+
+**** Dawn Quotes
+
+***** Colonialist intentions, Crossbreeding vs Trade:
+"'It is crossbreeding, then, no matter what you call it.' 'It's what I
+said it was. A trade. The ooloi will make changes in your reproductive
+cells before conception and they’ll control conception.'" (Butler
+87). 
+
+***** Irresitable sex drive
+#+BEGIN_QUOTE
+“Lie here with us,” it said, speaking alone. “Why should you be down
+there by yourself?”
+
+She thought there could be nothing more seductive than an ooloi
+speaking in that particular tone, making that particular
+suggestion. She realized she had stood up without meaning to and taken
+a step toward the bed. She stopped, stared at the two of
+them. Joseph’s breathing now became a gentle snore and he seemed to
+sleep comfortably against Nikanj as she had awakened to find him
+sleeping comfortably against her many times. She did not pretend
+outwardly or to herself that she would resist Nikanj’s invitation—or
+that she wanted to resist it.  Nikanj could give her an intimacy with
+Joseph that was beyond ordinary human experience. And what it gave, it
+also experienced. This was what had captured Paul Titus, she
+thought. This, not sorrow over his losses or fear of a primitive
+Earth.
+#+END_QUOTE
+
+
+
+*** TODO MOVE humans coupling off - social stratifications
+The tendency to self-organize appears early on, when the humans are
+being woken up from suspended animation in order to prepare and train
+for survival. For example, the pressure to couple brings a remnant of
+human society into the strange, alien spaceship which offers some form
+of social stability for the survivors. When one woman hesitates to
+choose a mate, another woman remonstrates: "What the hell is she
+saving herself for?... It's her duty to get together with
+someone. There aren't that many of us left" (335). Throughout the
+novel, the social stratifications intensify as the humans become more
+desperate in their resistance against the Oankali
+colonization. Growing more and more agitated in their captivity,
+certain men like Peter and Curt eventually attack Lilith and her
+followers, who they regard as responsible, with deadly force.
