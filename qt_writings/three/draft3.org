@@ -1486,7 +1486,7 @@ racialization in a hypermedia literary work.
 
 ** skin
 *** revision TODOs
-**** SKIN: impose new schema
+**** TODO SKIN: impose new schema
 There is a tension between control and connection playing through the
 work. This tension emerges in "surface effects," like haptics. 
 
@@ -1528,28 +1528,37 @@ from one register (conceptual/logical) to another register
 - Racialization: intractible control. Most likely by Harvey. 
 
 ***** breath.html -> limitations of medium as enabling constraint
-- There are places where foreclosure of the software and hardware
-  stack has a stronger effect, to reinforce physicality of medium.
-- Foreclosure: love notes deliberately hidden in the code, meant to be
-  displaced and to be discovered.
+- foreclosure of the software and hardware stack can also reinforce
+  physicality of medium.
+  - Love notes deliberately hidden in the code, meant to be displaced
+    and to be discovered.
 - compare with dialogue between them in "WHISPERING WINDOWS", which is
   limited to just text, but at two different levels (public and
-  private). The limitations of the communication medium as an enabling
-  constraint.
-- the levels of media here enable different levels of communication. 
+  private) and imbued with tone, intimacy, reassurance. 
+  - The limitations of the communication medium facilitate a
+    sensuality. The limitation reinforces sensuality of the language,
+    of the utterance and of the tone.
 
-***** Heart.swf -> total inaccessibility of physical matter enables
-connection
-- Flash media is totally inaccessible, only through abstraction can we
-  engage with it.
-- The conversation between them: 
-  - the inaccessibility of the technological stack amplifies physical
-    aspects that normally would be a barrier, like geography, culture,
-    race.
-  - like sex in /Dawn/, makes sensual connections that blend feeling
-    and thought.  
+***** words.html -> flash foreclosure
+- Flash media is totally inaccessible, made up of machine code that is
+    unreadable to human eyes.
+- we can engage with it only through abstraction, where objects are
+  separated into components, into shapes, sounds, and movements.
+- What I call a total foreclosure, because underneath is completely
+  incomprehensible, a bytestream. 
 
-**** SKIN: conclusion
+***** TODO reduction of the black body
+- One surface effect is to turn depth of real physical objects in the
+  world into surface. 
+- Love is expressed in surface forms, "pixellust" or "ASCIIlust"
+  creating a "home for us" "in the network".
+- reduction to surface flattens aspects that might be obstacles in the
+  real world. Geography, culture, race. 
+-> this is the unmappable surface, where the signifier floats free of
+  its referent in the physical world. We cannot locate with precision
+  the skin color, hair color, country, as expressed on the screen.
+
+**** TODO SKIN: conclusion
 
    Here we see the layers of flesh as "surface effects." 
    - Hayles and Kirschenbaum enable us to deconstruct how what we think
@@ -1567,6 +1576,13 @@ connection
    -> Bringing back the flesh: pattern as material in the form of opacity,
      surface, torque.
    -> deep reading of different technologies in /skin/. 
+
+--> like sex in /Dawn/, makes sensual connections that blend feeling and
+  thought.
+    - What Snorton says about the reduction to flesh. Such a reduction
+      enables flesh to harness the chaos of significatory
+      possibility. Digital objects, as distillations of real world
+      referents, are imbued with expressive potential.
 
 *** /skinonskinonskin/
 **** intro
@@ -1852,21 +1868,19 @@ control of Harvey's head and full access to the message is not
 possible, there is something intractible about it. What's happening at
 the level of code influences this screen effect. 
 
-**** TODO breath.html
+**** breath.html
 Below the overt narrative of surface effects, lies another narrative
 within the source code, where hidden messages mix natural language
 with computer language to make verbal exhortations of love. On one
 page, "breath.html," the surface effects consists of an animated male
-torso that swells slightly when the mouse pans over it accompanied by
-the sound of breathing that also accelerates with each swipe of the
-mouse. The effect is sensual, tactile, and auditory. In the pages
-source code,, amid the HTML and JavaScript that defines the content
-and animations, lie words meant only for human eyes. Here, a list of
-"whispers" make romantic protestations like "i will love you forever"
-and "i want to breath you." Unlike the previous example with
-"control.html," these messages do not manifest directly on the
-browser, but wait for the curious user to come and find them in the
-source code.
+torso that swells slightly and emits a breathing sound when the mouse
+pans over it, accelerating with each swipe of the mouse. The effect is
+sensual, tactile, and auditory. In within the the HTML and JavaScript
+that defines the content and animations in the source code are words
+meant only for human eyes: a list of "whispers," romantic
+protestations like "i will love you forever" and "i want to breath
+you." Unlike "control.html," these messages do not manifest directly
+on the browser, but only appear in the pages's source code: 
 #+BEGIN_SOURCE
 whispers[0] = "breath me";
 
@@ -1909,18 +1923,26 @@ whispers[18] = "i am disappearing";
 whispers[19] = "warm";
 #+END_SOURCE
 Musser describes foreclosure as an overflow of surface effects that
-preclude access below the surface. Similarly, this piece illustrates
-how computer screens inherently contain a level of foreclosure that
-masks inaccessible elements, like the line containing the work's
-title, "skin on skin on skin." The hidden messages in the source code
-suggest that there is always a level of displacement which creates
-another channel for communication.
+precludes access below the surface. She describes the effect of
+foreclosure as encouraging alternative modes of relationality.  This
+peice not only demonstrates how computer screens inherently contain a
+level of foreclosure that masks inaccessible elements in the source
+code. It also suggests that displacement opens further channels for
+communication. Here, the works title, in the source code. It also
+suggests that displacement opens further channels for
+communication. Here, the work's title, "skin on skin on skin," is
+reserved for the curious user to come and find them in the source
+code.
 
-**** TODO
-The final aspect of this text I want to discuss is reduction. The love
-affair is reduced to digital objects which can pass over the
-wires. The couple make this point in a chat between the two of them,
-discussing how constraints constitute the relationship:
+**** whispering windows
+The foreclosure of the surface can open up sensual possibilities for
+communication across electronic media. An early chatroom conversation
+between Samyn and Harvey, published on their website under the title
+"Whispering Windows," uses two modes for communication. Samyn, under
+the username /zuper/, writes under a private mode, while Harvey, under
+/womanonfire/, uses the public one. If there are others in the
+chatroom, they have been removed from the transcript. The chat
+records their frustrated attempts to connect video and sound:
 #+BEGIN_QUOTE
 womanonfire: the sound is a bit distorted with these things
 
@@ -1948,69 +1970,34 @@ womanonfire: learn new ways
 
 zuper: (private) make DHTMLove to me... http://entropy8zuper.org/
 #+END_QUOTE
+The limitations of the medium, the "26 letters" of the alphabet and
+their appearance on the screen, are the only material for "making
+love."  These limitations, however, work to emphasize a sense of
+intimacy between the conversants. /womanonfire/ tends to cut her
+syntax into pithy expressions like "these limitations" and "we must"
+that arrest her thought and restart it on the next line. /zuper/
+responds in "private" mode with gentle reassurances ("but that's
+okay") and encouragement that sustains and reinforces her thoughts
+("make DHTML love to me"), and read like a whisper. Reduced to digital
+character on a screen, the love affair expresses a strong sense of
+intimacy and mutuality. It is because of the limitations of the
+medium, that elements like tone and syntax are magnified and able to
+portray this level of closeness.
 
-The way that digital objects play with reductions of complexity here
-evokes what Snorton says about the reduction of black bodies to
-flesh. Such a reduction enables flesh to harness the chaos of
-significatory possibility. I want to argue that digital objects, as
-distillations of real world referents, are imbued with expressive
-potential.
-
-
-
-This screen surfaces a displacement inherent in all
-significatory systems but particularly in machine language systems,
-which rely on levels of abstraction in its software stack.
-
-
-**** flash foreclosure
-In "words.html,"
-view-source:http://entropy8zuper.org/skinonskinonskin/rhizome/words.html
-By Samyn on valentines day, 1999.
-
-Samyn animates a beating heart, overlaid with words and phrases that
-move in various arcs from its center. [SEE IMAGE/GIF]
-
-The code for this page does various things: first, it defines the list
-of strings, or words/phrases, which will arc over and around the
-heart. Then, it includes a series of JavaScript functions that selects
-words, calculates their trajectory and timing, and resets their
-position to restart the loop.
+**** words.html
+Some levels of displacement are so removed that they can only be
+engaged through abstraction. On example appears on "words.html." This
+page, created by Samyn on Valetine's Day, 1999, displays a beating
+heart overlaid with phrases that fly in various arcs from the
+center. The JavaScript code for this page does reveals the workings of
+the animation: first, the phrases, which will arc over and around the
+beating heart, are saved into a list format. Then, a series JavaScript
+functions accomplishes the following in turn: it selects words from
+their position on the list, then calculates their trajectory across
+the screen, then the time limit for their movement, and finally resets
+their position to restart the loop.[fn:5] Below is an excerpt of the
+source code (the function ~floatWord()~) that defines this animation:
 #+BEGIN_SOURCE
-function startMove()
-
-{
-
-floatWords(0,Math.round(words.length/4));
-
-setTimeout("floatWords(Math.round(words.length/4),Math.round(words.length/2)
-);",5000);
-
-setTimeout("floatWords(Math.round(words.length/2),Math.round(words.length/4*
-3));",10000);
-
-setTimeout("floatWords(Math.round(words.length/4*3),Math.round(words.length));",15000);
-
-};
-
-function floatWords(startNumber,endNumber)
-
-{
-
-for ( i = startNumber ; i < endNumber ; i++ ) { floatWord(i); };
-
-};
-
-function rePos(thisNumber)
-
-{
-
-
-dMove('wordL'+thisNumber,'document.',halfW-rand(50),halfH-rand(50));
-floatWord(thisNumber);
-
-};
-
 function floatWord(thisNumber)
 
 {
@@ -2035,72 +2022,73 @@ dMoveStraight('wordL'+thisNumber,'document.',rand(stageW),stageH + rand(100),ran
 if ( rand(4) == 1 ) { dShow('wordL'+thisNumber,'document.','visible'); };
 }; "words.html"
 #+END_SOURCE
-I'm going to give a brief overview of each function. The first
-function, ~startMove()~, sets a series of timers that initiate and
-perpetuate the animation. The second function, ~floadWords()~, loops
-through the list of words and phrases and passes individual selections
-from this list to the next function, ~floatWord()~, which sets the
-trajectory and timing for their movement. Within this function, a call
-to ~rePos()~ repositions the word in a new location, to begin the
-cycle anew. 
+JavaScript, a notoriously complex language by today's standards, was
+relatively more convoluted in 1999. But even more inaccessible than
+the code animating the words is that animating the beating heart. The
+visual and sound effect of its beat is created with Flash, an
+animation authoring tool that was widely popular in the late 1990s and
+early 2000s. Flash gained popularity for its ability to deliver
+relatively advanced graphics (such as video and sound) at a time when
+media-rich content traveled slowly over the web. Over the last 10
+years, however, the development of newer, more efficient and secure
+animation technologies brought Flash into obsolescence. On December
+31st, 2020, the software was officially discontinued, though it had
+already been functionally replaced with updated versions of HTML and
+Javascript that could deliver what Flash offered in much more
+flexible, portable, and efficient ways. This termination, however,
+made a generation of internet games, net art, and electronic
+literature nearly completely inoperable. Today, the only way to view
+Flash content in something like its original context is through
+plugins or emulators, like the one hosted on /Rhizome.org/ that
+enables viewers to read /skin/ through a Netscape 4 window.
 
-On line 98: "$we are disembodied arms and mouths "
+[SEE IMAGE/GIF of BEATING HEART] 
 
-Let us look more closely into the flash animation, which contains its
-own foreclosures. Flash is a standalone application and web browser
-plugin for authoring and viewing animations. It began development in
-the mid-1990s and gained popularity for its ability to deliver
-relatively advanced graphics (such as video and sound, primarily) at a
-time when media-rich content traveled slowly over the web. However,
-with the development of newer, more efficient and secure animation
-technologies in the last 10 years, Flash began to fall out of
-popularity and was officially discontinued on December
-31st, 2020. Although the general internet user will not feel the
-difference, since newer technologies like HTML5 and Javascript have
-stepped up to deliver what Flash had initially offered in much more
-flexible, portable, and efficient ways, this development has cast a
-generation of internet games, net art, and electronic literature into
-obsolesence. Today, the only way to view Flash content is through
-plugins, emulators (like the one for /skin/), or "decompiler" programs
-(discussed below).
-
-The elements of foreclosure emerge most starkly with non-plain-text
-content like Flash files. This is due to Flash code, unlike
-plain-text, being a binary code format. If opened in a text editor,
-for example, Flash files (which usually have an ".swf" or ".fla"
-extention) would appear to be made of incomprehensible characters and
-symbols, some of which the text editor may recognize, and others which
-it would display as a question mark. For example, here is a plain text
-rendition of the file that contains the sound animation of of the
-heatbeat on "breath.html":
+Leaving aside its obsolescence, Flash code is a highly inaccesible
+software. This is due to Flash code being a binary code format, unlike
+text-based code like HTML and JavaScript, which is human-readable and
+renders in the source code of web pages and in text-editor. If a Flash
+file is opened in a text editor, it would appear as an
+incomprehensible stream of obscure characters and symbols, some of
+which the text editor may recognize, and others which the editor would
+display as a question mark. For example, the below image displays a
+flash file (which usually have an ".swf" or ".fla" extention) that
+defines the sound animation of of the heatbeat:
 
 [IMAGE OF TEXT EDITOR OF OF HEARTBEAT.SWF]
 
-Because binary code is unreadable to the human eye, it requires
-specific authoring software to work with it. A "Flash decompiler"
-program, for example, offers an interface for seeing the components of
-a Flash file without having to deal with the machine code layer. The
-file is separated into components. The above file, for example,
-contains components like "sounds," "frames," and "scripts." So the
-file becomes abstracted in a way that humans can make sense of
-it. Below is an image of the flash decompiler interface, with all of
-the components of the image on the left sidebar. Interestingly, when
-examining the frames, one can distort the sound of the heartbeat.
+Because this code is unreadable to the human eye, it requires specific
+authoring software to work with it. A "Flash Decompiler" program, for
+this purpose, offers an interface for seeing the components of a Flash
+file without having to work with the machine code layer. In the below
+image of one such program, the file is separated into individual
+components like "sounds," "frames," and "scripts," visible on the left
+sidebar. The interface here abstracts the machine code so that humans
+can make sense of it. For example, one can make changes to the
+animation, such as distort the sound of the heartbeat which is
+contained within the "frames" component.
 
 [IMAGE OF FLASH DECOMPILER INTERFACE ON "HEARTBEAT.SWF"]
 
-What I want to emphasize here is that this code cannot be edited
-directly. 
+The Flash elements throughout this work, which appear on many of its
+pages, illustrate the displacement inherent to electronic media. In
+order to work with Flash media, abstraction is necessary. Objects on
+the screen are separated into components, into shapes, sounds, and
+movements. But these components themselves are surface
+effects. Immediately beneath them is a bytestream, a torrent of
+symbols and characeters that cannot be read with human eyes. The
+object can be rendered in with the decompiler is only another kind of
+surface effect. This is an example of total foreclosure of formal
+materiality of the technological stack, a kind of foreclosure that
+points to physicality of the surface.
 
-How does an emulator work? Does emulation add another layer of
-sensuality to the peice?]
-
-
-In what follows, I'm going to examine the ways that Harvey's (black)
-body has been reduced with this effect. The question of Harvey's race
-emerges in a chat between Harvey and Samyn, though it is buffeted by
-questions of physicality more generally. To get a sense of the
-conversation, I quote the chat at some length: 
+**** TODO reduction of the black body
+Another surface effect is to turn the depth of real physical objects
+in the real world into surface. This especially includes physical
+objects or realities that create communicative barriers. In another
+online chat, Samyn and Harvey revel in the intimacy that this mode of
+communication enablesw, even while struggling with the limitations of
+the audio and video and video connection:
 #+BEGIN_QUOTE
 womanonfire: i wonder wht your voice is like
 
@@ -2157,23 +2145,22 @@ zuper: I my case only ASCIIlust...
 womanonfire: but i want to make a home for us
 
 womanonfire: in the network
-
-zuper: Have you read Sterlings 'Holy Fire'?
-
-womanonfire: no
-
-zuper: They have places called 'Memory Palaces' on the net
-
-zuper: where they keep all their souvenirs and where people can meet
-
-womanonfire: i just heard you that time
-
-womanonfire: !
-
-zuper: in dutch!
-
-womanonfire: yes!
-
+#+END_QUOTE
+The relationship between /womanonfire/ and /zuper/ is completely
+constrained by restrictions. That /womanonfire/ "can just barely
+make...out" /zuper/ is "fitting" because the physical barriers that
+separate their connection are considerable. Yet, /zuper/ responds that
+he feels "so close" despite his distance, a phenomenon which he
+"doesn't understand [himself]". Perhaps the reason can be traced to
+the surface effects of their communication, to the objects on the
+screen which enable a "pixellust." That they question whether the
+connection is really love, or if it's lust reinfoces a magnetic
+quality that this physically tenuous connection, which is full of
+network lags and failures, can enable. Later on in the conversation,
+the strength of their surface connection, which overcomes geography,
+seems to overcome additional obstacles like language difference and
+race:
+#+BEGIN_QUOTE
 zuper: (private) I realised today that I have never been in love with somebody who doesn't speak Dutch before.
 
 womanonfire -> zuper: i have never been in love with someone in another country before
@@ -2188,24 +2175,22 @@ zuper: (private) I already do.
 
 womanonfire -> zuper: :) http://entropy8zuper.org/ 
 #+END_QUOTE
-The question of race becomes one in a list of other physical
-attributes, is equated to speaking a foreign language, is buffeted by
-concerns about connectivity and finally, transported and made possible
-by network technologies. 
+The question of race becomes one in a list of other attributes like
+hair color or speaking another language. Here, the reduction of their
+communication to letters on a screen flattens physical aspects that
+would otherwise be obstacles. This flattening of attributes like hair
+and skin color severs them from their location on the physical body,
+instead transposing them to words on a screen. Separated from the
+referent, they flicker atop the highest level of computational
+abstraction. Loosened from its physical manifestation, these
+attributes reside somewhere like Snorton's "unmappable elsewhere," a
+place that cannot be pinned down. This surface effect, that of
+reduction, creates a tenuous connection between the signifier and the
+signified. This tenuous connection, while buffeted by concerns about
+connectivity that plague the chat, is nonetheless made possible by
+network technologies.
 
-The reduction of her body to certain attributes, her black skin and
-green hair, for example, endows her physical being with expressive
-possiblity. The dark-skinned green-haired floating woman. Here, the
-less detail an element has, the more meaning the viewer can impose to
-the elements.
-
-We see this in the black hand which touches our screen. It is a simple
-shape, but it is expressive.
-
-l materiality hearkening back to black fem theory 
-Sensuality in their shifts and their surface effects, particularly in
-the way they foreclose /forensic/ materiality, refuse depth. Here we
-draw from black feminist theorizing. 
+** unstructured fragments
 
 **** haptics
 Throughout this work, the user engages with HTML and JavaScript code
@@ -2214,10 +2199,14 @@ with properties and methods so that they can become manipulable at the
 level of surface. These constructs, which are defined under the hood
 of the browser, enable sensual experiences for the user. 
 
-**** foreclosure
+**** foreclosure / displacement
 The surface effects of the screen engage elements within the code,
 which are inaccessible to the general user, to surface additional
 layers of foreclosure.
+
+This screen surfaces a displacement inherent in all
+significatory systems but particularly in machine language systems,
+which rely on levels of abstraction in its software stack.
 
 **** obsolete elements
 Due to modernization, the browser languages HTML and JavaScript use
@@ -2226,8 +2215,7 @@ animation. Additionally, since Flash technology, a compiled software
 that is not "human-readable", has been discontinued, it is very
 difficult to find solutions for editing and viewing Flash elements.
 
-** unstructured fragments
-*** Hayles on data traveling up the stack
+**** Hayles on data traveling up the stack
 Hayles points out that, "Precisely because the relation between
 signifier and signified at each of these levels is arbitrary, it can
 be changed with a single global command" (Hayles, "Virtual Bodies"
@@ -2323,6 +2311,14 @@ Spillers, Hortense J. “Mama’s Baby, Papa’s Maybe: An American Grammar Book
 vol. 17, no. 2, 1987, pp. 65–81. JSTOR, https://doi.org/10.2307/464747
 
 * Footnotes
+
+[fn:5] The first function, ~startMove()~, sets a series of timers that
+initiate and perpetuate the animation. The second function,
+~floatWords()~, loops through the list of words and phrases and passes
+individual selections from this list to the next function,
+~floatWord()~, which sets the trajectory and timing for their
+movement. Within this function, a call to ~rePos()~ repositions the
+word in a new location, to begin the cycle anew.
 
 [fn:4]  For example, one could balance a twelve-inch ruler by placing
 a finger under the sixth inch. By applying some force to the center of
