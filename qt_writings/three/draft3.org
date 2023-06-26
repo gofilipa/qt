@@ -1486,7 +1486,8 @@ racialization in a hypermedia literary work.
 
 ** skin
 *** revision TODOs
-**** TODO SKIN: impose new schema
+**** DONE SKIN: impose new schema
+     CLOSED: [2023-06-26 Mon 13:46]
 There is a tension between control and connection playing through the
 work. This tension emerges in "surface effects," like haptics. 
 
@@ -1547,7 +1548,7 @@ from one register (conceptual/logical) to another register
 - What I call a total foreclosure, because underneath is completely
   incomprehensible, a bytestream. 
 
-***** TODO reduction of the black body
+***** reduction of the black body
 - One surface effect is to turn depth of real physical objects in the
   world into surface. 
 - Love is expressed in surface forms, "pixellust" or "ASCIIlust"
@@ -1558,31 +1559,9 @@ from one register (conceptual/logical) to another register
   its referent in the physical world. We cannot locate with precision
   the skin color, hair color, country, as expressed on the screen.
 
-**** TODO SKIN: conclusion
+**** DONE SKIN: conclusion
+     CLOSED: [2023-06-26 Mon 15:50]
 
-   Here we see the layers of flesh as "surface effects." 
-   - Hayles and Kirschenbaum enable us to deconstruct how what we think
-     is immaterial is actually embodied/inscripted. 
-   - First, to understand, as Hayles explains, that "information loses
-     its body" and see how this perpetuates liberal humanist reductions
-     of the subject. Hayles frames this within a discussion of the
-     posthuman.
-   - Second, to examine K's concept of formal materiality, where
-     abstraction engages manipulation and sensuality, the shifting of
-     registers.
-   - K's torque enables us to read sensuality into Hayles's concept of
-     flickering signifiers.
-
-   -> Bringing back the flesh: pattern as material in the form of opacity,
-     surface, torque.
-   -> deep reading of different technologies in /skin/. 
-
---> like sex in /Dawn/, makes sensual connections that blend feeling and
-  thought.
-    - What Snorton says about the reduction to flesh. Such a reduction
-      enables flesh to harness the chaos of significatory
-      possibility. Digital objects, as distillations of real world
-      referents, are imbued with expressive potential.
 
 *** /skinonskinonskin/
 **** intro
@@ -2082,7 +2061,7 @@ surface effect. This is an example of total foreclosure of formal
 materiality of the technological stack, a kind of foreclosure that
 points to physicality of the surface.
 
-**** TODO reduction of the black body
+**** reduction of the black body
 Another surface effect is to turn the depth of real physical objects
 in the real world into surface. This especially includes physical
 objects or realities that create communicative barriers. In another
@@ -2189,6 +2168,71 @@ reduction, creates a tenuous connection between the signifier and the
 signified. This tenuous connection, while buffeted by concerns about
 connectivity that plague the chat, is nonetheless made possible by
 network technologies.
+
+**** conclusion
+How does race operate on the same register as hair color and language?
+Like the bypassing of flesh in "Sex," the foreclosure of depth
+paradoxically creates a flattening effect that reinforces physicality
+of the uppermost layer, of the surface, the "skin." 
+
+Through vastly different methods, both /Dawn/ and /skin/ explore a
+kind of desire that bypasses the physical body with the effect of
+magnifying embodied sensation. In /Dawn/, the body proves to be an
+obstacle for communication, for the gap between bodies stokes a
+debilitating fear of the other that manifests as racialization. This
+obstacle is temporarily overcome in the neural connection that the
+Oankali facilitate between human partners. In /skin/, the physical
+body is also bypassed, but in this case, for a connection across
+geographic barriers. Bringing these two texts together enables me to
+think through materiality across various contexts, from the
+physiological, to the technological, and finally, to the social. The
+collapse of mind/body distinction in /Dawn/, and the way this collapse
+affects social relations, offers possibilities for reading materiality
+into seemingly immaterial media effects in /skin/. These readings, in
+turn, off an analogue for understanding how racialization operates
+through plays between matter and meaning.
+
+In the "Sex" section, I examine a sensuality that can only be achieved
+by bypassing the flesh. In the scrambling of sense and thought in the
+sex scenes, where participants cannot differentiate between physical
+sensation and mental experience, everything becomes a physical
+phenomenon. This paradox in which sensuality is made possible by the
+bypassing of flesh reveals a new ethics that prioritizes pleasure at
+the cost of consent.
+
+In the "Flesh" section, I explore how the reduction of body to flesh,
+a process that began during the violences and atrocities of the Middle
+Passage, creates an opportunity for rethinking the political potential
+of sensuality and the surface. Here, I examine how the concept of the
+Pornotrope creates a ground for new theorizations of meaning and
+materiality where exploitation and pleasure co-exist. The "surface
+effects" from this section include strategies like foreclosure,
+fugitivity, and unmappability--strategies in which the Black flesh,
+reduced to surface, is imbued with an intractible significatory
+potential.
+
+The theorization of surface effects then becomes a ground for
+understanding how physical registers interact with symbolic ones in
+the "Skin" section, where I analyze the net art work,
+/skinonskinonskin/ (1999). Here, I read surface aesthetics into
+multiple layers of formal materiality, such as the computer screen,
+but also in programming and machine language logics and structures. My
+readings find a tension between control and communication throughout
+the work, echoing the tension between pleasure and violence in the
+previous sections. The tactile qualities of the net art work, where
+the user can manipulate objects on the screen with her mouse, is
+complicated by laggy or intractible effects created by the parameters
+and structures of the underlying code. The displacement of certain
+elements like hidden messages reinforces the levels of formal
+materiality that operate throughout the stack with varying degress of
+accessibility. At times, total foreclosure precludes access to
+subordinate levels of abstraction, where formal materiality gives way
+to the forensic level of illegible characters and magnetic traces. In
+this state, objects are in tension with the signified, and the surface
+itself enables a kind of chaotic state, where everything becomes
+skin. This reduction enables racialized flesh to harness the chaos of
+significatory possibility. Here, digital objects, distillations of
+real world referents, become imbued with expressive potential.
 
 ** unstructured fragments
 
