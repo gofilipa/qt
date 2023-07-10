@@ -1,4 +1,4 @@
-% Created 2023-02-16 Thu 10:49
+% Created 2023-02-16 Thu 10:50
 % Intended LaTeX compiler: pdflatex
 \documentclass[11pt]{article}
 \usepackage[utf8]{inputenc}
@@ -29,10 +29,10 @@
 \tableofcontents
 
 \section{"'Where there is Spectacular Passion, they would Suggest Something Vile': Encoding Queer Erasure in Oscar Wilde’s \emph{The Picture of Dorian Gray}"}
-\label{sec:org9bf2241}
+\label{sec:orgb48d5d1}
 
 \subsection{Abstract}
-\label{sec:orgdf9a702}
+\label{sec:orga072e40}
 Literary and textual scholars have long speculated about Oscar Wilde's
 intentions for revising the homoerotic content of his famous novel,
 \emph{The Picture of Dorian Gray} (1891). More recently, electronic editing
@@ -67,9 +67,8 @@ highlighting examples of current projects that deploy collaborative
 and minimalist editorial practices to challenge the structuring modes
 of textual editing.
 
-
 \subsection{Introduction}
-\label{sec:org293988b}
+\label{sec:org8692cd0}
 In the first scene of the novel, \emph{The Picture of Dorian Gray} (1891),
 the painter Basil Hallward confesses to his friend Lord Henry Wotton
 why he cannot exhibit the portrait of the eponymous hero. Basil
@@ -130,7 +129,7 @@ about beauty and homosexuality, there is a third level of
 subject to it.
 
 \subsubsection{Is markup 'queerable'?}
-\label{sec:org1f5db72}
+\label{sec:org08de0c6}
 My project endeavors to answer a question posed by literary and
 electronic textual scholar Julia Flanders: "do we need to queer
 markup, or is markup already queerable?" (2017). Flanders's question
@@ -169,7 +168,7 @@ nature of this tool also suggests, on a deeper level, how dominance
 structures work to implicitly determine and delimit information. 
 
 \subsection{Textual Scholarship and Queer Historiography}
-\label{sec:org25fdbd8}
+\label{sec:orgbc8bde5}
 To inform my approach for handling homoerotic subject matter within
 digital contexts, I bring Textual Scholarship and Queer Historiography
 into conversation. Between these two fields, I identify a parallel
@@ -408,7 +407,7 @@ imagination and experimentation. But due to the death and violence
 that constitutes this archive, formal experimentation is not enough.
 
 \subsection{TEI}
-\label{sec:orgf93376e}
+\label{sec:org7b25dde}
 Created specifically for working with literary material, the TEI
 enables researchers to describe, transcribe and edit print text or
 manuscripts in electronic format. The TEI enables users to "mark up"
@@ -669,7 +668,7 @@ one, elements must be totally bounded and contained within the overall
 structure.
 
 \subsection{The Manuscript of \emph{Dorian Gray}}
-\label{sec:org1f1ddf7}
+\label{sec:org3124c74}
 For Wilde's text, I created a TEI customization that explores the
 potential of semantic labeling against the demands for fixity and
 structure within the TEI data structure. My customization registers
@@ -1092,7 +1091,7 @@ strict disambiguation, surfaces how these themes work together in ways
 that cannot be captured by its data structure.
 
 \subsection{Conclusion}
-\label{sec:orgd486e49}
+\label{sec:orgf83e36d}
 But this approach toward queer encoding also points to the
 ways that larger structures of dominance act as a silent but
 structuring force within text. The more that I work with the TEI, the
@@ -1319,8 +1318,8 @@ critically, however, the TEI might eventually surface that which
 escapes its own structure, in order to suggest, without resolving, the
 ever-shifting permutations of power.
 
-\subsection{References}
-\label{sec:org7c88967}
+\section{References}
+\label{sec:org4612143}
 
 Amin, K, Musser, A J and Pérez, R 2017 ‘Queer Form:
 Aesthetics, Race, and the Violences of the Social,' ASAP/Journal., (Vol.

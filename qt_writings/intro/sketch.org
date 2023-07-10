@@ -1,36 +1,99 @@
 * brainstorm
-what is the link between the dh values and queer theory?
-
-in the reading (distant reading) chapter it is performance/enacted - abstraction
-in the editing (encoding) chapter it is subjectivity - provisionality
-in the teaching chapter it is embodiment - materiality
-
 
 ** Rough outline for chapter:
-- touch as a reading method: abstracting & amplifying the senses
-  - queerness is not yet here, or lack activates the senses
-- the state of queerness being "untouchable"
-  - incommensurability is central to queer identity & experience
-  - paranoid critical methods attempt to resolve incommensurability 
-  - self-replicating/recovery criticism perpetuates assumptions
-  - readings: /confessions of the fox/, /waves/, /la frontera/ 
-- Abstracting, formalizing, making opaque:
-  - queer forms & values necessary to  bring things into relation
-  - hinting opacity, performance, abstraction, provisionality 
-- in DH, raw data as unknowable: something we cannot fully grasp
-  - tools are not neutral, analyses are not "objective"
-  - value of reproducible in DH mirrors paranoia
-  - Da, Underwood and Altschuler and Weimer, Drucker
-- Performance/movement as a reading method
-  - bode and clement: materiality and discovery
-- Vantages/Opacity, the view
-  - Klein, Mandell, Caughie, Gaboury
-  - against totalization
-  - the visible and the invisible, opting out, the null value
-- Provisionality/Indeterminacy
-  + Susan Brown, Julia Flanders
-  + against stability
 
+*** DONE hook - /Waves/
+    CLOSED: [2023-07-06 Thu 11:38]
+- Hyperlink structure: associative but also disorienting on a formal
+  level (creating structure while disrupting causal
+  relations/progress). 
+- In playing with this narrative elusiveness, the links **reinforce a
+  frustrated relationship to touch** operating in two levels in the
+  work, where the reader clicks through a narrative to encounter a
+  story she will never fully grasp, to read a story about a desire
+  that is never fully satisfied. 
+  - Thinking more deeply about hyperlink structure and the kind of
+    formal possibilities it creates, how it draws from poststructural
+    ideas about decentralization, nonlinearity, contingency, deferral
+    of meaning.
+
+*** DONE intervention
+    CLOSED: [2023-07-06 Thu 11:38]
+- Digital processes reduce complexity of queerness 
+- But they can be reworked
+- When computation and coding start to determine how we engage with
+  texts, what kinds of analysis or experience do they make possible? A
+  question I will return to at the end of this introduction.
+
+*** DONE Queer DH
+    CLOSED: [2023-07-07 Fri 11:43]
+- Tension: is queerness inherent to digital tools, or do we need to
+  work it into the tool?
+- Where is queerness located in the digital? 
+
+*** DONE the digital is reductive 
+    CLOSED: [2023-07-08 Sat 11:53]
+- history of interface: tools are not neutral (McPherson, Benjamin)
+- in DH, raw data as unknowable: something we cannot fully grasp
+
+
+*** DONE queer subjects and affects
+    CLOSED: [2023-07-10 Mon 12:49]
+- Queerness is an incommensurable quality, begins with a feeling if
+  "disidentification" - a feeling of difference from the majority,
+  which manifests as a choque. 
+- the incommensurable is that which cannot be pinned down. 
+- The choque opens a site for engaging with the disambiguation of the
+  machine.  
+
+*** DONE Queer Form: reductive but reworkable
+    CLOSED: [2023-07-10 Mon 12:49]
+- "queer form": digital abstraction amplifies the sensual
+- (from proposal) the digital reduces complexity, evacuates queerness,
+  but can also be reworked.
+
+*** chapter trajectory
+- critique of race, implicit whiteness
+- discursivity -> affect -> embodiment.
+- Affect studies not enough.
+- future of queer studies: a target beyond reach. Strategic dynamism,
+  fluidity.
+
+In Queer Studies, non-normative bodies and desires have been theorized
+into formal conceptualizations of performativity, negativity, affect,
+and flesh, to name a few. These theorizations are abstractions--they
+are schemas--created to figure the possibility of resistance against
+the oppressive forces that drive heteronormative society.
+
+*** sensual fullness of a lack
+- Returning to the question about /Waves/: How does its structure
+  relate to queerness? 
+- A lack of fulfillment/total understanding draws on this idea that
+  queerness strategically lacks a teleology.
+    - Insert: /Confessions/ reading?
+    - Munoz: queerness is not here. Queerness is a structuring mode of
+      desiring. 
+    - What does this gain us? A way of reading touch that is more
+      concerned with exploring the potential of a touch rather than
+      verifiable contact. The sensual fullness of a lack. 
+
+TEXT:
+
+The reader’s confusion in navigating through /Waves/, in
+re-interpreting fragments that had been previously integrated,
+reinforces desire, and queer desire in particular, as something
+elusive, a condition that is not fully intelligible. Clicking
+(touching) her way through the narrative, the reader is repeatedly
+reminded of her removal from the story, in her inability to grasp the
+story. This work thus literalizes the connection between touch, its
+frustration, and queer desire.
+
+It is interesting that this medium makes the story accessible through
+touch (the “click” on the hyperlinks) while not giving full visual
+access to the individual narratives like a traditional print work
+(which is a phenomenon exaggerated in the ticker tape). 
+
+** diss workshop notes
 *** 9.2.20: Overview for diss workshop
 Touching,'" lays out what Digital Humanities methodologies might learn
 from Queer Theory. This chapter looks at specific reading practices by

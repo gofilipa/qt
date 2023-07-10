@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2020-11-30 Mon 22:13 -->
+<!-- 2023-06-30 Fri 08:50 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>&lrm;</title>
@@ -233,93 +233,300 @@ for the JavaScript code in this tag.
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#orgd2962d8">1. one</a>
+<li><a href="#org9a3b6a0">1. new draft</a>
+<ul>
+<li><a href="#org3f98bc9">1.1. hook</a></li>
+</ul>
+</li>
+<li><a href="#org7fc3bef">2. old draft</a>
 <ul>
 <li>
 <ul>
-<li><a href="#org535a106">1.0.1. revision notes</a></li>
+<li><a href="#org24184d1">2.0.1. revision notes</a></li>
 </ul>
 </li>
-<li><a href="#org5102695">1.1. I: Queerness, the Digital &amp; Touch</a>
+<li><a href="#org0b32a9e">2.1. Queer DH</a>
 <ul>
-<li><a href="#org64047a8">1.1.1. touch intersects queer and digital, abstracting sense</a></li>
-<li><a href="#org8180f51">1.1.2. <i>Waves</i>: queerness frustrates closure, eludes touch</a></li>
-<li><a href="#orgaf3c6a5">1.1.3. <i>Confessions</i>: queerness and the denial of touch</a></li>
-<li><a href="#org25df8ca">1.1.4. queerness &amp; digital intersect on this desire for touch</a></li>
+<li><a href="#org2ef4a58">2.1.1. Two approaches</a></li>
 </ul>
 </li>
-<li><a href="#orgc0cbf6f">1.2. [floating!] technological context</a>
+<li><a href="#orgc904f73">2.2. I: Queerness, the Digital &amp; Touch</a>
 <ul>
-<li><a href="#org2baec83">1.2.1. history of computing shows non-neutrality of tools</a></li>
+<li><a href="#org3ff8ee2">2.2.1. touch intersects queer and digital, abstracting sense</a></li>
+<li><a href="#orga54770b">2.2.2. <i>Waves</i>: queerness frustrates closure, eludes touch</a></li>
+<li><a href="#orgcf5c99f">2.2.3. <i>Confessions</i>: queerness and the denial of touch</a></li>
+<li><a href="#org9f97c57">2.2.4. queerness &amp; digital intersect on this desire for touch</a></li>
 </ul>
 </li>
-<li><a href="#org6b85a20">1.3. II: the problem: queerness as untouchable</a>
+<li><a href="#org8dc541b">2.3. [floating!] technological context</a>
 <ul>
-<li><a href="#org53df307">1.3.1. the untouchable and identity formation</a></li>
-<li><a href="#orgc21729a">1.3.2. disidentification pOintsx to incommensurable affect</a></li>
-<li><a href="#org4077772">1.3.3. paranoia attempts to resolve incommens: sedgwick</a></li>
-<li><a href="#org4b7107f">1.3.4. <span class="todo TODO">TODO</span> clean replication, representation: haraway</a></li>
-<li><a href="#org85784bb">1.3.5. <span class="todo TODO">TODO</span> add Barad on replication / representationalism</a></li>
-<li><a href="#org96193c3">1.3.6. <span class="todo TODO">TODO</span> revise paranoia and recovery, hartman on limits of language</a></li>
-<li><a href="#org2d72194">1.3.7. <span class="todo TODO">TODO</span> cut/revise post-critical reading: sedgwick &amp; felski</a></li>
-<li><a href="#org650ab09">1.3.8. <span class="todo TODO">TODO</span> revise hesitation, critical distance is necessary: Lowe</a></li>
-<li><a href="#org46ad1f0">1.3.9. <span class="todo TODO">TODO</span> refine <i>feeling backward</i> as touching at a distance</a></li>
+<li><a href="#org3141b7a">2.3.1. history of computing shows non-neutrality of tools</a></li>
 </ul>
 </li>
-<li><a href="#org4baf8b1">1.4. III: solutions: abstraction, formalization, opacity</a>
+<li><a href="#orgee29744">2.4. [floating] reading styles</a>
 <ul>
-<li><a href="#orgb28860c">1.4.1. <span class="todo TODO">TODO</span> refine reparative reading is active</a></li>
-<li><a href="#org7e8ad6e">1.4.2. <span class="todo TODO">TODO</span> cut Waves on movement</a></li>
-<li><a href="#orgcf3a4d0">1.4.3. <span class="todo TODO">TODO</span> draft QPOC on opacity, recuperating absence</a></li>
-<li><a href="#org734cc7b">1.4.4. <span class="todo TODO">TODO</span> add Confessions on opacity</a></li>
-<li><a href="#orge29a1ce">1.4.5. <span class="todo TODO">TODO</span> revise invisibility is good, allows queers avoid being seen</a></li>
-<li><a href="#org9d89368">1.4.6. <span class="todo TODO">TODO</span> draft Toward a Queer Form</a></li>
-<li><a href="#orgf0d9fac">1.4.7. <span class="todo TODO">TODO</span> draft Butler on movement/contact/touch</a></li>
-<li><a href="#org1cb6ce2">1.4.8. <span class="todo TODO">TODO</span> draft the dimensions of touch: anzaldua</a></li>
-<li><a href="#orgd03bde8">1.4.9. <span class="todo TODO">TODO</span> draft Frontera on vitality</a></li>
+<li><a href="#orgd61993e">2.4.1. reading methods: paranoid</a></li>
+<li><a href="#org5f9e114">2.4.2. Ramsay and Drucker's speculative methods</a></li>
 </ul>
 </li>
-<li><a href="#org11dfeee">1.5. Vantanges/Opacity</a>
+<li><a href="#org1e2bf90">2.5. II: the problem: queerness as untouchable</a>
 <ul>
-<li><a href="#orgadcbcab">1.5.1. Klein, Mandell, Caughie, Gaboury</a></li>
-<li><a href="#org3579360">1.5.2. Interweave with Saidiya Hartmann?</a></li>
-<li><a href="#org9070d07">1.5.3. Against totalization</a></li>
-<li><a href="#orgc6a0dc1">1.5.4. The visible and the invisible, opting out</a></li>
+<li><a href="#orge4e4c48">2.5.1. the untouchable and identity formation</a></li>
+<li><a href="#org5bd46ce">2.5.2. disidentification points to incommensurable affect</a></li>
+<li><a href="#org88e8c54">2.5.3. paranoia attempts to resolve incommens: sedgwick</a></li>
+<li><a href="#org7f8d3c0">2.5.4. <span class="todo TODO">TODO</span> clean replication, representation: haraway</a></li>
+<li><a href="#org7898f66">2.5.5. <span class="todo TODO">TODO</span> add Barad on replication / representationalism</a></li>
+<li><a href="#org17d6e27">2.5.6. <span class="todo TODO">TODO</span> revise paranoia and recovery, hartman on limits of language</a></li>
+<li><a href="#org80dde0d">2.5.7. <span class="todo TODO">TODO</span> cut/revise post-critical reading: sedgwick &amp; felski</a></li>
+<li><a href="#org2c15ef3">2.5.8. <span class="todo TODO">TODO</span> revise hesitation, critical distance is necessary: Lowe</a></li>
+<li><a href="#orga0cbd0e">2.5.9. <span class="todo TODO">TODO</span> refine <i>feeling backward</i> as touching at a distance</a></li>
 </ul>
 </li>
-<li><a href="#orgb335dab">1.6. MISC</a>
+<li><a href="#orgc02a155">2.6. III: solutions: abstraction, formalization, opacity</a>
 <ul>
-<li><a href="#org340b7fd">1.6.1. Altschuler and Weimar on reproducibility</a></li>
-<li><a href="#orge4b48db">1.6.2. Defining queer, Amin on historicizing through affect</a></li>
-<li><a href="#org1306d95">1.6.3. Reading touching: within our bodies</a></li>
-<li><a href="#org4ba44e7">1.6.4. data reduction / queer assimilation</a></li>
-<li><a href="#org59c4c7d">1.6.5. Critique of affirmation: Cvetkovitch</a></li>
-<li><a href="#org17c3fd2">1.6.6. Munoz's disidentification quotes</a></li>
-<li><a href="#orga504eb5">1.6.7. Misc Quotes</a></li>
-<li><a href="#orgcdcee9d">1.6.8. <i>Voyant-Tools</i></a></li>
-<li><a href="#org387efaf">1.6.9. <i>These Waves of Girls</i></a></li>
-<li><a href="#orgf74ccd3">1.6.10. what are some print texts that enact these principles of movement?</a></li>
-<li><a href="#orgf2328d6">1.6.11. What, do you imagine that I would take so much trouble and so much</a></li>
-<li><a href="#orge4e053d">1.6.12. Kadji Amin, Amber Jamilla Musser, and Roy Pérez explain that paranoid</a></li>
+<li><a href="#org9a4d484">2.6.1. <span class="todo TODO">TODO</span> refine reparative reading is active</a></li>
+<li><a href="#orgf6588f1">2.6.2. <span class="todo TODO">TODO</span> cut Waves on movement</a></li>
+<li><a href="#org853fee6">2.6.3. <span class="todo TODO">TODO</span> draft QPOC on opacity, recuperating absence</a></li>
+<li><a href="#orge592791">2.6.4. <span class="todo TODO">TODO</span> add Confessions on opacity</a></li>
+<li><a href="#org36a11f5">2.6.5. <span class="todo TODO">TODO</span> revise invisibility is good, allows queers avoid being seen</a></li>
+<li><a href="#org287b09e">2.6.6. <span class="todo TODO">TODO</span> draft Toward a Queer Form</a></li>
+<li><a href="#orgeec73de">2.6.7. <span class="todo TODO">TODO</span> draft Butler on movement/contact/touch</a></li>
+<li><a href="#orgec2ecef">2.6.8. <span class="todo TODO">TODO</span> draft the dimensions of touch: anzaldua</a></li>
+<li><a href="#orgf2b1cb6">2.6.9. <span class="todo TODO">TODO</span> draft Frontera on vitality</a></li>
+</ul>
+</li>
+<li><a href="#org560928c">2.7. Vantanges/Opacity</a>
+<ul>
+<li><a href="#org2afb2c2">2.7.1. Klein, Mandell, Caughie, Gaboury</a></li>
+<li><a href="#orgdddf555">2.7.2. Interweave with Saidiya Hartmann?</a></li>
+<li><a href="#org3759fdb">2.7.3. Against totalization</a></li>
+<li><a href="#org76b1924">2.7.4. The visible and the invisible, opting out</a></li>
+</ul>
+</li>
+<li><a href="#orgc6ba622">2.8. MISC</a>
+<ul>
+<li><a href="#org197fc77">2.8.1. Clement, Bode, recent applications of deformance</a></li>
+<li><a href="#orgc030ec5">2.8.2. Altschuler and Weimar on reproducibility</a></li>
+<li><a href="#orga3a8ff9">2.8.3. Defining queer, Amin on historicizing through affect</a></li>
+<li><a href="#orgfe13d70">2.8.4. Reading touching: within our bodies</a></li>
+<li><a href="#org7b061e1">2.8.5. data reduction / queer assimilation</a></li>
+<li><a href="#org46475be">2.8.6. Critique of affirmation: Cvetkovitch</a></li>
+<li><a href="#org06afbd9">2.8.7. Munoz's disidentification quotes</a></li>
+<li><a href="#org9461cac">2.8.8. Misc Quotes</a></li>
+<li><a href="#org037a682">2.8.9. <i>Voyant-Tools</i></a></li>
+<li><a href="#org9c6b195">2.8.10. <i>These Waves of Girls</i></a></li>
+<li><a href="#org5eb042f">2.8.11. what are some print texts that enact these principles of movement?</a></li>
+<li><a href="#orgda8262a">2.8.12. What, do you imagine that I would take so much trouble and so much</a></li>
+<li><a href="#org2c2c9b3">2.8.13. Kadji Amin, Amber Jamilla Musser, and Roy Pérez explain that paranoid</a></li>
+<li><a href="#org9c4cdbb">2.8.14. The debates about TEI illustrates this tension between the</a></li>
+<li><a href="#org7d5d177">2.8.15. felski on affects beside suspicion</a></li>
+<li><a href="#orgf084265">2.8.16. mcpherson, benjamin on race and tech</a></li>
+<li><a href="#org6d5eba5">2.8.17. sedgwick on liberatory vs prohibition</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#orgb84d3ed">2. commands</a></li>
+<li><a href="#orgfe6c2b7">3. commands</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgd2962d8" class="outline-2">
-<h2 id="orgd2962d8"><span class="section-number-2">1</span> one</h2>
+<div id="outline-container-org9a3b6a0" class="outline-2">
+<h2 id="org9a3b6a0"><span class="section-number-2">1</span> new draft</h2>
 <div class="outline-text-2" id="text-1">
 </div>
-<div id="outline-container-org535a106" class="outline-4">
-<h4 id="org535a106"><span class="section-number-4">1.0.1</span> revision notes</h4>
-<div class="outline-text-4" id="text-1-0-1">
+<div id="outline-container-org3f98bc9" class="outline-3">
+<h3 id="org3f98bc9"><span class="section-number-3">1.1</span> hook</h3>
+<div class="outline-text-3" id="text-1-1">
+<p>
+[[/images/desire.png][The desire to write is the desire to fool you, seduce you. Here I am -
+again - always getting the girl, saying the right thing or (toss this
+in for effect) something deliciously, winsomely wrong. Look over there
+</p>
+<ul class="org-ul">
+<li>that's me, at four&#x2026;]]</li>
+</ul>
+
+<p>
+Caitlin Fisher's electronic work, <i>These Waves of Girls</i>, guides the
+reader through the story's various interconnected episodes with
+hyperlinks attached to seductive phrases like "the desire" or "that's
+me, at four&#x2026;" to link one page to another
+("desire<sub>to</sub><sub>write.htm</sub>"). These links connect and support this works
+associative structure while also tempting the reader to traverse (by
+clicking through) the story, which is an autobiographical account of
+the author's sexual coming-of-age.
+</p>
+
+<p>
+Though they are an associative tool, the hyperlinks that connect one
+page to the next frustrate the sense of narrative coherence across
+this text. The number of links presents what James Pope describes as
+"a baffling range of choices for movement which actually led to a
+stifling of movement altogether" ("Significance"). The profusion of
+these links offers too many narrative paths that disrupt the
+relationship between cause and effect in the story, scrambling the
+reader's sense of progress as she traverses the text.
+</p>
+
+<p>
+Not only do the links inform the narrative coherence, they also play
+on the reader's desire. In addition to pursuing a continually deferred
+sense of narrative closure, the reader also chases a elusive
+understanding of the narrator's sexual discovery, of which the reader
+only ever gets part of the story. For example, 
+</p>
+
+<p>
+For example, one repeatedly linked page displays words "and it was the
+most erotic year of my life" march across the screen like ticker tape
+is accessed from two separate points ("And it was…") 
+</p>
+
+<p>
+[GIF EROTIC TICKER TAPE]
+</p>
+
+<p>
+This disseration begins with a conviction that digital media and
+queerness share a preoccupation with a kind of frustrated
+sensuality. One way this emerges is through the sense of touch, the
+desire for touch, and its disappointment. Touch and its frustration is
+figured quite literally in an electronic work by 
+</p>
+
+<p>
+This node is accessed from two different pages that relate very
+different stories. The first access point comes from the “beam
+routine” episode, tells a story about the 15-year-old narrator,
+Tracey, and her close friend, Vivian, coaxing older men to buy them
+drinks at a bar ("warned.htm"). The narration interweaves the central
+action, which is the girls’ efforts to get attention from the adult
+men at the bar, with moments of intimacy between the girls. Tracey
+narrates that “Our third daiquiris arrive and, my hand hot on her
+waist, I tell her I love her. She loves me too, she says, just not as
+much as I love her” (“beamroutine5.htm”). After a few more drinks,
+Tracey goes into a hotel room with an older man, "the shoe-salesman,"
+where the following scene ensues: 
+</p>
+<blockquote>
+<p>
+‘I don’t want to have sex,’ I say. ‘Not with you.’
+</p>
+
+<p>
+But then, not wanting to disappoint, ‘I could do my beam routine.’  
+</p>
+
+<p>
+I take off my clothes and, fifteen, mount the line of the carpet to
+perform my entire junior beam routine, handstand press, two
+backhandsprings included. He jerks off. Dismount.  
+</p>
+
+<p>
+I hurry into my clothes and head home to Vivian (who loves me, but not
+as much as I love her). For years I worry that the shoe salesman was
+really disappointed, stuck with a fifteen year old virgin gymnast
+rather than a real bad girl. "Beamroutine8.htm"
+</p>
+</blockquote>
+<p>
+From this small excerpt, we can note a couple of crucial elements of
+the larger narrative. First is the instability or elusive nature of
+desire. Here, when the narrator says, “not with you,” she implies that
+the intended target of her desire may be Vivian, rather than the shoe
+salesman. The moving target of the narrator’s desire will prove to be
+a difficult one to follow as the story progresses. 
+</p>
+
+<p>
+The second point is the tension between sight and touch. The beam
+routine performance, while compensating for the sexual act that Tracey
+withholds from the shoe salesmen, also literalizes the modality of her
+desire. It is a performance which is accessed by sight rather than
+touch. It is interesting that this medium makes the story accessible
+through touch (the “click” on the hyperlinks) while not giving full
+visual access to the individual narratives like a traditional print
+work (which is a phenomenon exaggerated in the ticker tape). In other
+words, the tension between sight and touch for the reader in accessing
+the story mirrors the cycles of desire and frustration within the
+story world. The hyperlinks seduce and draw the reader to click
+through to new parts of the story, parts which can frustrate our grasp
+of the story as a whole.
+</p>
+
+<p>
+As the reader familiarizes herself with the events of the story, she
+is always losing context. The link to “He jerks off” leads to another
+page, aptly titled “erotic,” where the phrase “and it was the most
+erotic year of my life” marches across the screen like ticker
+tape. This “erotic” page can be accessed from (at least) two different
+narrative paths, both featuring sexual episodes between the narrator
+and men. In a story that mostly focuses on self-described “lesbian’
+desire, the association between eroticism and men creates a sense of
+dissonance, which is reinforced by another, inverse association,
+between women and lack of sexual desire. On this same page, the phrase
+“I don’t want to have sex” leads to an often-linked node about Jennie
+Winchester, the narrator’s “grade 11 girlfriend” (“want.htm”). This
+node details the following episode:
+</p>
+<div class="source">
+<p>
+I’m in bed with Jennie Winchester and I realize she wants me to undo
+her pants. She needs to be home by 11:00 and needs to leave my place
+by 10:45. I’m kissing her but opening my eyes at intervals to catch
+the clock. At exactly 10:43 I unbutton her Levis and shove my hand
+inside, barely undoing the zipper. “I’m in bed…”
+</p>
+
+</div>
+<p>
+This node, and the others which depict Jennie, presents her as a
+highly desirable sexual partner. However, by following the previous
+link, the reader experiences this familiar node from a new narrative
+path, originating from “I don’t want to have sex.” By sharing nodes
+like this, many of the potential pathways in this text interweave to
+complicate our understanding of the narrator’s sexual desire,
+presenting sexuality as something elusive or difficult to pin
+down. Now the reader experiences this familiar node in a new way that
+casts its former meaning into doubt. What is the connection between
+this episode and the phrase, "I don't want to have sex"? Why is the
+narrator watching the clock? Because the character's desires have been
+muddled by the unpredictable connections between episodes, what at
+first seems straightforward now appears to support alternate
+readings. The reader’s confusion in navigating through Waves, in
+re-interpreting fragments that had been previously integrated,
+reinforces queer identity as something elusive, a condition that is
+not fully intelligible. Clicking (touching) her way through the
+narrative, the reader is repeatedly reminded of her removal from the
+distance from the narrator.
+</p>
+
+<p>
+Associations between the digital and touch expand from numerical
+computation (the ten "digits" of the hand) to the haptic connections
+made through the intermediaries of mice, keyboards, and eventually,
+touch screens. These intermediaries demonstrate that humans engage
+with electronic data at a remove, through layers of computation and
+abstraction, which paradoxically puts them into direct contact. 
+</p>
+</div>
+</div>
+</div>
+
+
+
+<div id="outline-container-org7fc3bef" class="outline-2">
+<h2 id="org7fc3bef"><span class="section-number-2">2</span> old draft</h2>
+<div class="outline-text-2" id="text-2">
+</div>
+<div id="outline-container-org24184d1" class="outline-4">
+<h4 id="org24184d1"><span class="section-number-4">2.0.1</span> revision notes</h4>
+<div class="outline-text-4" id="text-2-0-1">
 </div>
 <ol class="org-ol">
-<li><a id="org6019fcc"></a>chapter summary<br />
-<div class="outline-text-5" id="text-1-0-1-1">
+<li><a id="org493d2aa"></a>chapter summary<br />
+<div class="outline-text-5" id="text-2-0-1-1">
 <p>
 This dissertation looks at new ways of reading <i>queer bodies</i> and
 <i>queer subjectivity</i> within technological contexts. How do digital
@@ -377,8 +584,8 @@ ontological). We see these examples in <i>these waves of girls</i>, and
 </div>
 </li>
 
-<li><a id="orgcaf3422"></a>feedback on intro from diss workshop<br />
-<div class="outline-text-5" id="text-1-0-1-2">
+<li><a id="org70176a0"></a>feedback on intro from diss workshop<br />
+<div class="outline-text-5" id="text-2-0-1-2">
 <p>
 The three heavy footnotes in the beginning, are tripping people up, a
 bit overwhelming. Work on spreading this out. In doing so, luxuriate
@@ -484,10 +691,10 @@ close readings of <i>Waves</i>? Mieke Bal perhaps.</li>
 </div>
 </li>
 
-<li><a id="org72f375e"></a>plan for problem section p<br />
+<li><a id="orgee6662c"></a>plan for problem section p<br />
 <ol class="org-ol">
-<li><a id="orgbc2387d"></a>Outline of this section:<br />
-<div class="outline-text-6" id="text-1-0-1-3-1">
+<li><a id="org8ec8bb5"></a>Outline of this section:<br />
+<div class="outline-text-6" id="text-2-0-1-3-1">
 <p>
 (1) defines queerness as affective&#x2013;the untouchable; 
 </p>
@@ -507,8 +714,8 @@ discourse;
 </div>
 </li>
 
-<li><a id="org10a838b"></a>(1) queer subjectivity based on affect, the untouchable<br />
-<div class="outline-text-6" id="text-1-0-1-3-2">
+<li><a id="orgb65076f"></a>(1) queer subjectivity based on affect, the untouchable<br />
+<div class="outline-text-6" id="text-2-0-1-3-2">
 <p>
 We are building an understanding of queer subjectivity that is based
 on affect. In the experience of disidentification (Munoz), there is an
@@ -526,8 +733,8 @@ deal with the incommensurable elements of queerness.
 </div>
 </li>
 
-<li><a id="org22f2d7c"></a>(2) paranoid reading<br />
-<div class="outline-text-6" id="text-1-0-1-3-3">
+<li><a id="org686901b"></a>(2) paranoid reading<br />
+<div class="outline-text-6" id="text-2-0-1-3-3">
 <p>
 The perspective of paranoia shows us the pitfalls of discursive
 methods.      
@@ -544,8 +751,8 @@ verify facts.
 </div>
 </li>
 
-<li><a id="org8a2c3e1"></a>(3) criticism needs affect &amp; embodiment (hesitation)<br />
-<div class="outline-text-6" id="text-1-0-1-3-4">
+<li><a id="org926b8e3"></a>(3) criticism needs affect &amp; embodiment (hesitation)<br />
+<div class="outline-text-6" id="text-2-0-1-3-4">
 <p>
 We cannot capture, grasp, or access queerness by discursive means, we
 must turn to affect.
@@ -559,8 +766,8 @@ embodiment. The challenge is to regain touch without resolving it.
 </div>
 </li>
 
-<li><a id="org25e2439"></a>(4) touching at a distance<br />
-<div class="outline-text-6" id="text-1-0-1-3-5">
+<li><a id="orgd07109f"></a>(4) touching at a distance<br />
+<div class="outline-text-6" id="text-2-0-1-3-5">
 <p>
 How do we touch without presuming full connections? We see Anzaldua's
 standing at both sides at once, and Love's touching at a distance.
@@ -570,8 +777,8 @@ standing at both sides at once, and Love's touching at a distance.
 </ol>
 </li>
 
-<li><a id="org5baeff3"></a>plan for historical section<br />
-<div class="outline-text-5" id="text-1-0-1-4">
+<li><a id="orgd2f4718"></a>plan for historical section<br />
+<div class="outline-text-5" id="text-2-0-1-4">
 <ul class="org-ul">
 <li>Who is important to the field and why?</li>
 
@@ -613,9 +820,63 @@ standardization and freedom? Make this more evident.</li>
 </div>
 
 
-<div id="outline-container-org5102695" class="outline-3">
-<h3 id="org5102695"><span class="section-number-3">1.1</span> I: Queerness, the Digital &amp; Touch</h3>
-<div class="outline-text-3" id="text-1-1">
+<div id="outline-container-org0b32a9e" class="outline-3">
+<h3 id="org0b32a9e"><span class="section-number-3">2.1</span> Queer DH</h3>
+<div class="outline-text-3" id="text-2-1">
+</div>
+<div id="outline-container-org2ef4a58" class="outline-4">
+<h4 id="org2ef4a58"><span class="section-number-4">2.1.1</span> Two approaches</h4>
+<div class="outline-text-4" id="text-2-1-1">
+<p>
+the first approach wants to disrupt formal systems by imagining
+alternative ones, and the second, by contrast, maintains that
+queerness is built into computing and is inherent in computational
+logic.  
+</p>
+
+<p>
+The first approach consists of speculative or critical making projects
+that problematize the constructed nature of technical objects. For
+example, Zach Blas and micha cárdenas propose a speculative codebase
+disrupts the expected functionality of computational programs. This
+project, <i>transCoder</i>, describes hypothetical computer programs such
+as the ‘destabilizationLoop', which ‘breaks apart any process that
+acts as a continuously iterating power' and ‘nonteleo()', which
+‘strips any program of a goal-oriented result' (Blas and cárdenas:
+2007&#x2013;2012). Another project that probes the possibilities of queering
+digital tools is ‘Queer OS: A User's Manual', which describes how
+various components of an operating system might function within an
+ethos of queerness. For example, ‘Queer OS' reconceives how a digital
+interface ‘might seek out self-modification as its ontological
+premise&#x2026; transform[ing] both the user and the system' (Barnett et
+al., 2016). Such work imagines technological systems and projects that
+‘[do] not yet exist and may never come to exist [&#x2026; do] not yet
+function and may never function' (Barnett et al., 2016). The other
+side of the debate explores how current technological systems and
+tools already contain elements that encourage queer modes of analysis.
+For example, work by Jacob Gaboury explores how the ‘NULL value' in
+computation signals a ‘refusal to cohere, to become legible' as a
+built-in option in computational systems. Gaboury explains how the
+NULL value ‘corresponds with the epistemological condition of
+queerness as an excessive illegibility collapsed into an unwieldy
+frame, an aberrant third-ness within an otherwise normative system of
+relations' (Gaboury, 2018). In another project, ‘The Queer History of
+Computing', Gaboury exposes and interrogates the ways in which
+technology creates opportunities for resisting conscription within its
+systems. Gaboury asserts that ‘there exists a structuring logic to
+computational systems that, while nearly totalizing, does not account
+for all forms of knowledge, which excludes certain acts, behaviors,
+and modes of being' (Gaboury, 2013: para. 13). According to Gaboury,
+it is from within this structuring logic that queerness finds the
+space to operate.
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgc904f73" class="outline-3">
+<h3 id="orgc904f73"><span class="section-number-3">2.2</span> I: Queerness, the Digital &amp; Touch</h3>
+<div class="outline-text-3" id="text-2-2">
 <p>
 No sooner have I written this than it strikes me as an avowal of the
 imaginary; I should have uttered it as a dreamy speech which seeks to
@@ -630,9 +891,9 @@ convert itself into theory.
 </ul>
 </div>
 
-<div id="outline-container-org64047a8" class="outline-4">
-<h4 id="org64047a8"><span class="section-number-4">1.1.1</span> touch intersects queer and digital, abstracting sense</h4>
-<div class="outline-text-4" id="text-1-1-1">
+<div id="outline-container-org3ff8ee2" class="outline-4">
+<h4 id="org3ff8ee2"><span class="section-number-4">2.2.1</span> touch intersects queer and digital, abstracting sense</h4>
+<div class="outline-text-4" id="text-2-2-1">
 <p>
 If digital humanists and queer theorists are going to find some common
 ground, they might start with <i>touch</i>. Touch is a means of interfacing
@@ -681,8 +942,8 @@ immaterial.<sup><a id="fnr.6" class="footref" href="#fn.6">6</a></sup>
 </div>
 
 <ol class="org-ol">
-<li><a id="orgdf6ae59"></a>Margot's point about queerness of two strains<br />
-<div class="outline-text-5" id="text-1-1-1-1">
+<li><a id="orga262465"></a>Margot's point about queerness of two strains<br />
+<div class="outline-text-5" id="text-2-2-1-1">
 <p>
 Margot says that in the first paragraph I'm drawing from canonical
 post-structural definition of queerness, which is produced
@@ -708,9 +969,9 @@ an emphasis of Butler/Ahmed on the body.
 </ol>
 </div>
 
-<div id="outline-container-org8180f51" class="outline-4">
-<h4 id="org8180f51"><span class="section-number-4">1.1.2</span> <i>Waves</i>: queerness frustrates closure, eludes touch</h4>
-<div class="outline-text-4" id="text-1-1-2">
+<div id="outline-container-orga54770b" class="outline-4">
+<h4 id="orga54770b"><span class="section-number-4">2.2.2</span> <i>Waves</i>: queerness frustrates closure, eludes touch</h4>
+<div class="outline-text-4" id="text-2-2-2">
 <p>
 Two close-readings will serve to demonstrate that queerness is
 concerned with touch, and more precisely, with <i>a desire for touch</i>
@@ -803,9 +1064,9 @@ removal from the distance from the narrator.
 </div>
 </div>
 
-<div id="outline-container-orgaf3c6a5" class="outline-4">
-<h4 id="orgaf3c6a5"><span class="section-number-4">1.1.3</span> <i>Confessions</i>: queerness and the denial of touch</h4>
-<div class="outline-text-4" id="text-1-1-3">
+<div id="outline-container-orgcf5c99f" class="outline-4">
+<h4 id="orgcf5c99f"><span class="section-number-4">2.2.3</span> <i>Confessions</i>: queerness and the denial of touch</h4>
+<div class="outline-text-4" id="text-2-2-3">
 <p>
 For queer subjects, touch and the desire for touching has always been
 a frought experience, which can in turn activates a sensorium of
@@ -908,9 +1169,9 @@ explore in depth.
 </div>
 </div>
 
-<div id="outline-container-org25df8ca" class="outline-4">
-<h4 id="org25df8ca"><span class="section-number-4">1.1.4</span> queerness &amp; digital intersect on this desire for touch</h4>
-<div class="outline-text-4" id="text-1-1-4">
+<div id="outline-container-org9f97c57" class="outline-4">
+<h4 id="org9f97c57"><span class="section-number-4">2.2.4</span> queerness &amp; digital intersect on this desire for touch</h4>
+<div class="outline-text-4" id="text-2-2-4">
 <p>
 The "desire for touching," without being able to fully touch, as the
 definition of queerness, is also where the digital and queer
@@ -924,13 +1185,13 @@ mediation, through an interface, mice, GUIs, keyboards, etc.
 </div>
 
 
-<div id="outline-container-orgc0cbf6f" class="outline-3">
-<h3 id="orgc0cbf6f"><span class="section-number-3">1.2</span> [floating!] technological context</h3>
-<div class="outline-text-3" id="text-1-2">
+<div id="outline-container-org8dc541b" class="outline-3">
+<h3 id="org8dc541b"><span class="section-number-3">2.3</span> [floating!] technological context</h3>
+<div class="outline-text-3" id="text-2-3">
 </div>
-<div id="outline-container-org2baec83" class="outline-4">
-<h4 id="org2baec83"><span class="section-number-4">1.2.1</span> history of computing shows non-neutrality of tools</h4>
-<div class="outline-text-4" id="text-1-2-1">
+<div id="outline-container-org3141b7a" class="outline-4">
+<h4 id="org3141b7a"><span class="section-number-4">2.3.1</span> history of computing shows non-neutrality of tools</h4>
+<div class="outline-text-4" id="text-2-3-1">
 <p>
 Before I turn to current examples of distant reading, it is useful to
 contextualize the technological development of digital tools in the
@@ -1093,13 +1354,251 @@ assumptions of white universality that inevitably marks blackness as
 </div>
 
 
-<div id="outline-container-org6b85a20" class="outline-3">
-<h3 id="org6b85a20"><span class="section-number-3">1.3</span> II: the problem: queerness as untouchable</h3>
-<div class="outline-text-3" id="text-1-3">
+<div id="outline-container-orgee29744" class="outline-3">
+<h3 id="orgee29744"><span class="section-number-3">2.4</span> [floating] reading styles</h3>
+<div class="outline-text-3" id="text-2-4">
 </div>
-<div id="outline-container-org53df307" class="outline-4">
-<h4 id="org53df307"><span class="section-number-4">1.3.1</span> the untouchable and identity formation</h4>
-<div class="outline-text-4" id="text-1-3-1">
+<div id="outline-container-orgd61993e" class="outline-4">
+<h4 id="orgd61993e"><span class="section-number-4">2.4.1</span> reading methods: paranoid</h4>
+<div class="outline-text-4" id="text-2-4-1">
+<p>
+There are several orientations toward reading in literary analysis,
+which determine the trajectory of readerly engagement with
+texts. Taking the name of "paranoid reading," "sympotmatic," and
+"militant reading," is a reading pratice that places importance in
+what a text does not say, or what it cannot say.<sup><a id="fnr.2.100" class="footref" href="#fn.2">2</a></sup> Descending from
+the critical styles popularized by Karl Marx, Sigmund Freud, and
+Friedrich Nietzsche, this reading practice drives the conviction that
+power structures (such as the economy, the unconscious, and moral
+systems, for example) encode ideology which can be demystified by
+critical analysis and exposure. In literary criticism, Eve Kofosky
+Sedgwick calls this kind of reading <i>paranoid</i> because it searches for
+hidden elements of text that play into a larger narrative about a
+system of oppression. For Sedgwick, this kind of reading places its
+faith in the "drama of exposure," which will, once and for all,
+finally reveal the truth (<i>Touching Feeling</i> 8). Stephen Best and
+Sharon Marcus define "symptomatic reading" in similar terms, as a
+reading style that locates latent patterns or “absences, gaps, and
+ellipses in texts,” to speculate upon “what those absences mean, what
+forces create them, and how they signify the questions that motivate
+the text” (3). Rita Felski describes this orientation as "militant"
+because it grows from an affect of disenchantment between between
+reader and text, where the reader enlists "to expose hidden truths and
+draw out unflattering and counterintuitive meanings that others fail
+to see" (1).
+</p>
+
+<p>
+The styles of paranoid, symptomatic, and militant reading are unified
+by a faith in something hidden in the text and in the power of its
+revelation. The preoccupation with depth and absence implies a belief
+in an underlying "correct" interpretation of a text, which will be
+finally unearthed by the careful and astute analysis by the critic. 
+</p>
+
+<p>
+In itself, so-called paranoid reading can be an exhilarating and
+rewarding intellectual exercise for literary criticism. The danger of
+this kind of reading, however, is that it encourages a kind of
+criticism that it turns reading into a kind of mechanical practice
+that searches for what is hidden within the text rather than what is
+on its surface. Despite the pleasure and satisfaction of this exercise
+in discovery, the process of analysis inevitably turns rote. It
+discourages attention from the aesthetic qualities on the surface of
+the text, focusing instead on what is hidden or absent. In the
+process, the textual elements are conscripted into participating in
+what Sedgwick calls "a binary mode of thinking," which searches
+beneath, behind, or beyond the text, for what might affirm or deny the
+overarching thesis. Rather than staying with the aesthetics of the
+surface, which contains elements like narration, figuration, and other
+devices, this process creates a formula for literary analysis where
+such elements are implicated into a larger narrative about "repression
+and liberation" (Sedgwick <i>Touching Feeling</i> 12). Then, reading
+becomes a mechanical practice of searching for what is hidden or
+absent which will finally explain some latent meaning in the
+text. This process is replicated as the search for meaning takes on
+other texts, imposing the same structure on new material. As paranoia
+seeks its own affirmation, its nature is to spread, reflecting and
+confirming its own image on every surface. This method, each time,
+will surface something new, but never entirely novel, and with each
+iteration, the "truth" with each revelation has less and less power to
+shock.
+</p>
+
+<p>
+Sedgwick rightly "see[s] a cognitive danger in these interpretations:
+a moralisitic tautology that became increasingly incabable of
+recognizing itself as such" (12). This kind of reading will never
+account for a range of responses to text, and particularly, to the
+subjects who perform text analysis. It will never move beyond the
+standardized script of reproducibility.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5f9e114" class="outline-4">
+<h4 id="org5f9e114"><span class="section-number-4">2.4.2</span> Ramsay and Drucker's speculative methods</h4>
+<div class="outline-text-4" id="text-2-4-2">
+<p>
+There are literary critics who, eschewing the temptation of the
+paranoia, employ the "distance" of distant reading toward more
+speculative and creative ends. Stephen Ramsay, for example, approaches
+"the rigid, inexorable, uncompromising logic of algorithmic
+transformations" as an opportunity for contemplative analysis
+(32). Rather than solve problems or answer questions definitively, he
+engages in readings that are inescapably partial and
+speculative. Ramsay explains that computational methods enhance
+current reading strategies by harnessing the constraints of
+computation so that new readings may flourish: “The computer
+revolutionizes, not because it proposes an alternative to the basic
+hermeneutical procedure, but because it reimagines that procedure at
+new scales, with new speeds, and among new sets of conditions”
+(31). Activities such as compiling word frequency lists, diagramming
+social relationships, or plotting various textual data not only
+transform texts into new forms from which the critic may speculate,
+but are grounded in inherently critical moves, such as asking
+questions or identifying problems. Ramsay maintains that all critical
+reading is a deformative activity insofar as it prioritizes certain
+textual data such as formal patterns, words, devices over others and
+delivers a new "paratext." For example, in his analysis of Virginia
+Woolf’s novel <i>The Waves</i>, Ramsay uses a computer program to generate
+lists of distinctive terms uttered by each of the six speakers in the
+novel. Ramsay emphasizes how this method “puts forth not the
+[original] text, but a new text in which the data has been
+paraphrased, elaborated, selected, truncated, and transduced” (16). To
+say, as a result, that the word frequencies "confirm" or "verify" what
+other critics have argued about the characters assumes that literary
+criticism aims for singular answers. Rather, the point of such an
+exercise is to “unleash the potentialities” of the text, offering
+opportunities for new readings (33). Ramsay point out that “we are not
+trying to solve Woolf. We are trying to ensure that discussion of <i>The
+Waves</i> continues” (15). Here, the goal is a rhetorical exercise:
+</p>
+<blockquote>
+<p>
+The understanding promised us by the critical act arises not from a
+presentation of facts, but from the elaboration of a gestalt, and it
+rightfully includes the vague reference, the conjectured similitude,
+the ironic twist, and the dramatic turn. In the spirit of inventio,
+the critic freely employs the rhetorical acts of conjecture—not so
+that a given matter can be settled, but in order that the matter might
+become richer, deeper, and ever more complicated. 16
+</p>
+</blockquote>
+<p>
+Ramsay's method uses speed and efficiency of the machine to reflect
+back upon the critic, to give the critic more material and more
+opportunity for the creativity and speculation that characterizes
+literary analysis. 
+</p>
+
+<p>
+Like Ramsay, Johanna Drucker is interested in exploring how the
+computer engages with the critic's analytical process. Drucker,
+however, directs her reading toward deconstructing the objectivity of
+the machine. She is careful to dispell the illusion of "raw data,"
+which comes already reduced to fit whatever parameters required by
+analysis. Because data always undergoes a transformation in order to
+be quantified, its complexity has already been compromised. As a
+result, Drucker argues, quantification techniques such as
+visualizations in graphs and charts inevitably misrepresent the data
+they are meant to convey. To illustrate this process, Drucker presents
+a chart displaying the amount of books published over several
+years. The chart appears to convey production during this specific
+time period, but Drucker explains that publication date is an
+arbitrary metric for capturing production.<sup><a id="fnr.8.100" class="footref" href="#fn.8">8</a></sup> She brings to the
+surface all the assumptions made in such a metric, for example, the
+limitations of "novel" as a genre and the connotations behind
+"published," which suggests date of appearance, but has no indication
+of composition, editing, review, distribution. Each piece of data
+carries with it the result of many interpretive decisions, that carry
+with them varying degrees of opacity, which are all necessary in order
+to present complex concepts like book production as a bar on a
+chart. Drucker explains: "the graphical presentation of supposedly
+self-evident information&#x2026; conceals these complexities, and the
+interpretative factors that bring the numerics into being, under a
+guise of graphical legibility" (Drucker par. 23).
+</p>
+
+<p>
+To resist the reductions of "data," a term that deceptively connotes
+that which is "given," Drucker proposes thinking of data as "capta,"
+which suggests that which is taken. Drucker's "capta" is deliberately
+creative, turning graphical expressions into expressive metrics:
+components used for measurement, like lines or bars on a graph, break,
+blur, or bleed into one another. Objects are not discrete entities,
+but interact with the other objects in the visualization. For example,
+in a bar graph of book publications by year, she warps the graphical
+metrics, making some of them fuzzy, wider, shorter, in an attempt to
+show that publication as a metric elides other information such as
+composition, editing, purchasing, etc.
+</p>
+
+
+<div class="figure">
+<p><img src="./img/Drucker.png" alt="Drucker.png" />
+</p>
+</div>
+
+<p>
+Emphasizing "capta" is a way of figuring elements that have been
+reduced, resolved, or ignored in traditional quantitative
+analysis. Drucker makes evident what is overlooked or assumed when
+dealing with complex subjects by muddling (rather than simplifying)
+the relationship between elements.
+</p>
+
+<p>
+In a certain sense, all of the above critics, Moretti, Da, Ramsay and
+Drucker, rely on speculation in their criticism. First, there is
+significant overlap between distant reading and speculative computing
+in that they visualize or arrange textual data to stimulate
+analysis. Moretti, after all, is using visualization to spark his
+imagination and make conjectures, which he describes as
+"explanations." In the pursuit of the falsifiable, Moretti evacuates
+much of his method's creative potential. The difference is that
+Moretti's Distant Reading uses makes conjectures within a falsifiable
+framework. The difference between them, therefore, has to do with
+their approach or orientation in using quantitative methods. Moretti
+and Da show how computational methods encourage a "falsifiable" method
+of literary criticism that mimics the methodologies of the
+sciences. Alternatively, Ramsay and Drucker demonstrate how these
+methods can also be used toward explicitly speculative ends, and for
+Drucker in particular, with a sensitivity that is critical of
+anlaytical processes.
+</p>
+
+<p>
+The role of paranoia in distant reading blocks out other kinds of
+connection to text. Moretti's method stems from a suspicious
+conviction that the archive of literary history has something to
+hide. Rita Felski explains that the desire in a “hermeneutics of
+suspicion,” which she calls a militant mode of reading forecloses
+possibilities of connection and being moved by these texts. Because
+critics are focused on unearthing or discovering secrets in the text,
+it reduces the interaction between reader and text to an intellectual
+activity. Felski wonders what if we allowed ourselves to be marked or
+struck by what we read. Then, rather than just be a cognitive
+activity, reading can become an “embodied mode of attentiveness that
+involves us in acts of sensing, perceiving, feeling, registering, and
+engaging” (176). A critic like Stephen Ramsay, for example, is not
+only willing to be surprised, his critical process is driven by a
+desire for surprise. And Johanna Drucker, although not driven by
+surprise, is searching for ways to disrupt assumptions about handling
+and processing graphical data.
+</p>
+</div>
+</div>
+</div>
+
+
+<div id="outline-container-org1e2bf90" class="outline-3">
+<h3 id="org1e2bf90"><span class="section-number-3">2.5</span> II: the problem: queerness as untouchable</h3>
+<div class="outline-text-3" id="text-2-5">
+</div>
+<div id="outline-container-orge4e4c48" class="outline-4">
+<h4 id="orge4e4c48"><span class="section-number-4">2.5.1</span> the untouchable and identity formation</h4>
+<div class="outline-text-4" id="text-2-5-1">
 <p>
 The idea of the "untouchable" builds off queer theorists who have
 isolated a queer experience of displacement, estrangement, or a
@@ -1156,9 +1655,9 @@ text.
 </div>
 </div>
 
-<div id="outline-container-orgc21729a" class="outline-4">
-<h4 id="orgc21729a"><span class="section-number-4">1.3.2</span> disidentification pOintsx to incommensurable affect</h4>
-<div class="outline-text-4" id="text-1-3-2">
+<div id="outline-container-org5bd46ce" class="outline-4">
+<h4 id="org5bd46ce"><span class="section-number-4">2.5.2</span> disidentification points to incommensurable affect</h4>
+<div class="outline-text-4" id="text-2-5-2">
 <p>
 This chapter unpacks the condition of "the untouchable" from theories
 of identity and communication developed by Queer Theorists from Latinx
@@ -1324,9 +1823,9 @@ deal with the incommensurable elements of queerness.
 </div>
 </div>
 
-<div id="outline-container-org4077772" class="outline-4">
-<h4 id="org4077772"><span class="section-number-4">1.3.3</span> paranoia attempts to resolve incommens: sedgwick</h4>
-<div class="outline-text-4" id="text-1-3-3">
+<div id="outline-container-org88e8c54" class="outline-4">
+<h4 id="org88e8c54"><span class="section-number-4">2.5.3</span> paranoia attempts to resolve incommens: sedgwick</h4>
+<div class="outline-text-4" id="text-2-5-3">
 <p>
 The goal here is to preserve the incommensurable in analysis. We want
 to give full rein to the elements that escape and elude
@@ -1357,20 +1856,15 @@ things&#x2014;what would we know then that we don't already know?"
 of systematic oppression, injustice, discrimination, does nothing. As
 Sedgwick explains, knowledge of a problem is not enough to "enjoin
 that person to any specific train of epistemological or narrative
-consequences" (123). Moreover, a paranoid or suspicious stance blocks
-out other possibilities for relation to the text. Paranoia often only
-affirms itself; reflecting and replicating itself in every surface,
-giving too much power to the act of exposure. The work of paranoia is
-never done, "for all its vaunted suspicion, [paranoia] acts as though
-its work would be accomplished if only it could finally, this time,
-somehow get its story truly known" (141). Like many other theorists,
-Sedgwick wonders what is the point of continually trying to reveal,
-unravel, deconstruct the injustices of the past. She searches for
-"some ways of understanding human desire that might be quite to the
-side of prohibition and repression, that might hence be structured
-quite differently from the heroic, 'liberatory,' inescapably dualistic
-righteousness of hunting down and attacking prohibition/repression in
-all its chameleonic guises" (10).
+consequences" (123).
+</p>
+
+<p>
+Sedgwick explains that, "for all its vaunted suspicion, [paranoia]
+acts as though its work would be accomplished if only it could
+finally, this time, somehow get its story truly known"
+(141). Moreover, a paranoid or suspicious stance blocks out other
+possibilities for relation to the text.
 </p>
 
 <p>
@@ -1380,9 +1874,9 @@ given knowledge structures.
 </div>
 </div>
 
-<div id="outline-container-org4b7107f" class="outline-4">
-<h4 id="org4b7107f"><span class="section-number-4">1.3.4</span> <span class="todo TODO">TODO</span> clean replication, representation: haraway</h4>
-<div class="outline-text-4" id="text-1-3-4">
+<div id="outline-container-org7f8d3c0" class="outline-4">
+<h4 id="org7f8d3c0"><span class="section-number-4">2.5.4</span> <span class="todo TODO">TODO</span> clean replication, representation: haraway</h4>
+<div class="outline-text-4" id="text-2-5-4">
 <p>
 To examine the way that paranoid reading works, it is useful to
 explore its workings in other disciplines. There is a lot we can learn
@@ -1431,9 +1925,9 @@ Cyborgs, and Women</i> 176).
 </div>
 </div>
 
-<div id="outline-container-org85784bb" class="outline-4">
-<h4 id="org85784bb"><span class="section-number-4">1.3.5</span> <span class="todo TODO">TODO</span> add Barad on replication / representationalism</h4>
-<div class="outline-text-4" id="text-1-3-5">
+<div id="outline-container-org7898f66" class="outline-4">
+<h4 id="org7898f66"><span class="section-number-4">2.5.5</span> <span class="todo TODO">TODO</span> add Barad on replication / representationalism</h4>
+<div class="outline-text-4" id="text-2-5-5">
 <p>
 Barad on representationalism. 
 </p>
@@ -1462,9 +1956,9 @@ text as referential&#x2014;there is rhetoric and form.
 </div>
 </div>
 
-<div id="outline-container-org96193c3" class="outline-4">
-<h4 id="org96193c3"><span class="section-number-4">1.3.6</span> <span class="todo TODO">TODO</span> revise paranoia and recovery, hartman on limits of language</h4>
-<div class="outline-text-4" id="text-1-3-6">
+<div id="outline-container-org17d6e27" class="outline-4">
+<h4 id="org17d6e27"><span class="section-number-4">2.5.6</span> <span class="todo TODO">TODO</span> revise paranoia and recovery, hartman on limits of language</h4>
+<div class="outline-text-4" id="text-2-5-6">
 <p>
 Not only does paranoid inquiry tend to replicate the assumptions of
 the observer, but it blocks out other forms of knowledge. This is
@@ -1602,9 +2096,9 @@ the way.]
 </div>
 </div>
 
-<div id="outline-container-org2d72194" class="outline-4">
-<h4 id="org2d72194"><span class="section-number-4">1.3.7</span> <span class="todo TODO">TODO</span> cut/revise post-critical reading: sedgwick &amp; felski</h4>
-<div class="outline-text-4" id="text-1-3-7">
+<div id="outline-container-org80dde0d" class="outline-4">
+<h4 id="org80dde0d"><span class="section-number-4">2.5.7</span> <span class="todo TODO">TODO</span> cut/revise post-critical reading: sedgwick &amp; felski</h4>
+<div class="outline-text-4" id="text-2-5-7">
 <p>
 Just as we are limited by language, cannot approximate, we are also
 stuck within the bodies of our thinking: emotion is inescapable in
@@ -1619,8 +2113,8 @@ cannot be objective opens a window.
 </div>
 
 <ol class="org-ol">
-<li><a id="orgcfdb33b"></a>Felski on the illusion of emotional detachment:<br />
-<div class="outline-text-5" id="text-1-3-7-1">
+<li><a id="orgda48141"></a>Felski on the illusion of emotional detachment:<br />
+<div class="outline-text-5" id="text-2-5-7-1">
 <p>
 The reality is that we are stuck in these bodies of our thinking. Rita
 Felski describes how seemingly neutral and detatched critical stance
@@ -1659,8 +2153,8 @@ inquiry.
 </div>
 </li>
 
-<li><a id="org3fd4895"></a>Felski &amp; Sedgwick affective approaches<br />
-<div class="outline-text-5" id="text-1-3-7-2">
+<li><a id="org9245800"></a>Felski &amp; Sedgwick affective approaches<br />
+<div class="outline-text-5" id="text-2-5-7-2">
 <p>
 Critics like Rita Felski and Eve Sedgwick adopt an alternative
 approach toward reading that exposes knowledge as derived from
@@ -1750,8 +2244,8 @@ and engaging” (Felski 176).
 </div>
 </li>
 
-<li><a id="orgfaf75c6"></a>Sedgwick on generative shame<br />
-<div class="outline-text-5" id="text-1-3-7-3">
+<li><a id="org16f359b"></a>Sedgwick on generative shame<br />
+<div class="outline-text-5" id="text-2-5-7-3">
 <p>
 What if we read Henry James mobilizing shame as a creative resource?
   For many queer people, shame is a structuring force in their
@@ -1779,9 +2273,9 @@ protean susceptibility to new expressive grammars" (63).</li>
 </ol>
 </div>
 
-<div id="outline-container-org650ab09" class="outline-4">
-<h4 id="org650ab09"><span class="section-number-4">1.3.8</span> <span class="todo TODO">TODO</span> revise hesitation, critical distance is necessary: Lowe</h4>
-<div class="outline-text-4" id="text-1-3-8">
+<div id="outline-container-org2c15ef3" class="outline-4">
+<h4 id="org2c15ef3"><span class="section-number-4">2.5.8</span> <span class="todo TODO">TODO</span> revise hesitation, critical distance is necessary: Lowe</h4>
+<div class="outline-text-4" id="text-2-5-8">
 <p>
 -&gt; To avoid paranoid methods we develop a critical distance, we turn to
 the ways that "touch" can be distanced. 
@@ -1826,9 +2320,9 @@ subjects and plots and ends" (10).
 </p>
 </div>
 </div>
-<div id="outline-container-org46ad1f0" class="outline-4">
-<h4 id="org46ad1f0"><span class="section-number-4">1.3.9</span> <span class="todo TODO">TODO</span> refine <i>feeling backward</i> as touching at a distance</h4>
-<div class="outline-text-4" id="text-1-3-9">
+<div id="outline-container-orga0cbd0e" class="outline-4">
+<h4 id="orga0cbd0e"><span class="section-number-4">2.5.9</span> <span class="todo TODO">TODO</span> refine <i>feeling backward</i> as touching at a distance</h4>
+<div class="outline-text-4" id="text-2-5-9">
 <p>
 &#x2013;&gt; Love offers a model of "feeling backward" which is a way for critics
 to connect with queer subjects in a way that keeps objects out of the
@@ -1884,8 +2378,8 @@ social experience insistently internalized and corporeal” (108).
 
 
 <ol class="org-ol">
-<li><a id="org850c32d"></a><span class="todo TODO">TODO</span> organize queerness irrecoverable, but temptin g ID: Love<br />
-<div class="outline-text-5" id="text-1-3-9-1">
+<li><a id="org3266eb6"></a><span class="todo TODO">TODO</span> organize queerness irrecoverable, but temptin g ID: Love<br />
+<div class="outline-text-5" id="text-2-5-9-1">
 <p>
 The more hopeless and resistant queer subjects make for more tempting
 identifications. Love explains how these subjects remain beyond the
@@ -1933,8 +2427,8 @@ prevented by design.
 </div>
 </li>
 
-<li><a id="org187c19f"></a><span class="todo TODO">TODO</span> organize the untouchable Queer, Butler &amp; Cvetkovitch<br />
-<div class="outline-text-5" id="text-1-3-9-2">
+<li><a id="org1e0a439"></a><span class="todo TODO">TODO</span> organize the untouchable Queer, Butler &amp; Cvetkovitch<br />
+<div class="outline-text-5" id="text-2-5-9-2">
 <p>
 [here begin to write about Cvetkovitch on Stone Butch Blues, and/or
 Butler on touching?]
@@ -1946,22 +2440,31 @@ Butler on touching?]
 </div>
 
 
-<div id="outline-container-org4baf8b1" class="outline-3">
-<h3 id="org4baf8b1"><span class="section-number-3">1.4</span> III: solutions: abstraction, formalization, opacity</h3>
-<div class="outline-text-3" id="text-1-4">
+<div id="outline-container-orgc02a155" class="outline-3">
+<h3 id="orgc02a155"><span class="section-number-3">2.6</span> III: solutions: abstraction, formalization, opacity</h3>
+<div class="outline-text-3" id="text-2-6">
+<p>
+Computational methods reveal an aesthetic of formalization as an
+heuristic: just as text is transformed and manipulated into data, so
+queerness is formalized into narrative and figurative
+structures. Approaching queerness and computation as an aesthetic of
+formalization opens a space where the rigidity of computational
+methods and the fluidity of queer subjectivity intersect.
+</p>
 </div>
+
 <ol class="org-ol">
-<li><a id="org4744587"></a><span class="todo TODO">TODO</span> add Munoz's point on the ecstatic, rounding out the point<br />
-<div class="outline-text-5" id="text-1-4-0-1">
+<li><a id="org02994bd"></a><span class="todo TODO">TODO</span> add Munoz's point on the ecstatic, rounding out the point<br />
+<div class="outline-text-5" id="text-2-6-0-1">
 <p>
 from the previous section on queerness as being "not yet here" 
 </p>
 </div>
 </li>
 </ol>
-<div id="outline-container-orgb28860c" class="outline-4">
-<h4 id="orgb28860c"><span class="section-number-4">1.4.1</span> <span class="todo TODO">TODO</span> refine reparative reading is active</h4>
-<div class="outline-text-4" id="text-1-4-1">
+<div id="outline-container-org9a4d484" class="outline-4">
+<h4 id="org9a4d484"><span class="section-number-4">2.6.1</span> <span class="todo TODO">TODO</span> refine reparative reading is active</h4>
+<div class="outline-text-4" id="text-2-6-1">
 <p>
 We might explore, with Sedgwick, "forms of thought that would not be
 structured by the question of prohibition" (11). Sedgwick points that
@@ -1994,9 +2497,9 @@ embodiment entails.
 </p>
 </div>
 </div>
-<div id="outline-container-org7e8ad6e" class="outline-4">
-<h4 id="org7e8ad6e"><span class="section-number-4">1.4.2</span> <span class="todo TODO">TODO</span> cut Waves on movement</h4>
-<div class="outline-text-4" id="text-1-4-2">
+<div id="outline-container-orgf6588f1" class="outline-4">
+<h4 id="orgf6588f1"><span class="section-number-4">2.6.2</span> <span class="todo TODO">TODO</span> cut Waves on movement</h4>
+<div class="outline-text-4" id="text-2-6-2">
 <p>
 The narration works as a seduction by piquing the reader's interest in
 the story, propelling her through hyperlinks across the various nodes,
@@ -2163,9 +2666,9 @@ and opposition” (228).
 </div>
 </div>
 
-<div id="outline-container-orgcf3a4d0" class="outline-4">
-<h4 id="orgcf3a4d0"><span class="section-number-4">1.4.3</span> <span class="todo TODO">TODO</span> draft QPOC on opacity, recuperating absence</h4>
-<div class="outline-text-4" id="text-1-4-3">
+<div id="outline-container-org853fee6" class="outline-4">
+<h4 id="org853fee6"><span class="section-number-4">2.6.3</span> <span class="todo TODO">TODO</span> draft QPOC on opacity, recuperating absence</h4>
+<div class="outline-text-4" id="text-2-6-3">
 <p>
 "The critical challenge is to imagine a practice of archival reading
 that incites relationships between the seductions of recovery and the
@@ -2254,9 +2757,9 @@ return, but also no ultimate tragedy or decisive failure" (80).</li>
 </div>
 </div>
 
-<div id="outline-container-org734cc7b" class="outline-4">
-<h4 id="org734cc7b"><span class="section-number-4">1.4.4</span> <span class="todo TODO">TODO</span> add Confessions on opacity</h4>
-<div class="outline-text-4" id="text-1-4-4">
+<div id="outline-container-orge592791" class="outline-4">
+<h4 id="orge592791"><span class="section-number-4">2.6.4</span> <span class="todo TODO">TODO</span> add Confessions on opacity</h4>
+<div class="outline-text-4" id="text-2-6-4">
 <p>
 Missing pages &#x2014; the marbled page substitutes speculation for recovery which the corporation wants (to monetize the image of “abnormal” genitalia). But the narrator didn’t want to include it. The absence of the picture doesn’t point to a physical absence, but to the inability to articulate exactly what was there according to the structures of the time.
 </p>
@@ -2280,9 +2783,9 @@ don’t give language to things that are beyond it” (93). Things that are beyo
 </div>
 </div>
 
-<div id="outline-container-orge29a1ce" class="outline-4">
-<h4 id="orge29a1ce"><span class="section-number-4">1.4.5</span> <span class="todo TODO">TODO</span> revise invisibility is good, allows queers avoid being seen</h4>
-<div class="outline-text-4" id="text-1-4-5">
+<div id="outline-container-org36a11f5" class="outline-4">
+<h4 id="org36a11f5"><span class="section-number-4">2.6.5</span> <span class="todo TODO">TODO</span> revise invisibility is good, allows queers avoid being seen</h4>
+<div class="outline-text-4" id="text-2-6-5">
 <p>
 As disidentified, queer subjects remain outside of the confines of the
 visible. To gain visibility within the dominant system only reproduces
@@ -2318,9 +2821,9 @@ potential.
 </div>
 </div>
 
-<div id="outline-container-org9d89368" class="outline-4">
-<h4 id="org9d89368"><span class="section-number-4">1.4.6</span> <span class="todo TODO">TODO</span> draft Toward a Queer Form</h4>
-<div class="outline-text-4" id="text-1-4-6">
+<div id="outline-container-org287b09e" class="outline-4">
+<h4 id="org287b09e"><span class="section-number-4">2.6.6</span> <span class="todo TODO">TODO</span> draft Toward a Queer Form</h4>
+<div class="outline-text-4" id="text-2-6-6">
 <p>
 Writing the self is connected to form. Always. The form is
 multiple. The form makes subjectivity opaque, but in the act of
@@ -2366,12 +2869,12 @@ in that they abstract from the source
 </div>
 </div>
 
-<div id="outline-container-orgf0d9fac" class="outline-4">
-<h4 id="orgf0d9fac"><span class="section-number-4">1.4.7</span> <span class="todo TODO">TODO</span> draft Butler on movement/contact/touch</h4>
+<div id="outline-container-orgeec73de" class="outline-4">
+<h4 id="orgeec73de"><span class="section-number-4">2.6.7</span> <span class="todo TODO">TODO</span> draft Butler on movement/contact/touch</h4>
 </div>
-<div id="outline-container-org1cb6ce2" class="outline-4">
-<h4 id="org1cb6ce2"><span class="section-number-4">1.4.8</span> <span class="todo TODO">TODO</span> draft the dimensions of touch: anzaldua</h4>
-<div class="outline-text-4" id="text-1-4-8">
+<div id="outline-container-orgec2ecef" class="outline-4">
+<h4 id="orgec2ecef"><span class="section-number-4">2.6.8</span> <span class="todo TODO">TODO</span> draft the dimensions of touch: anzaldua</h4>
+<div class="outline-text-4" id="text-2-6-8">
 <p>
 &#x2013;&gt; the challenge is to regain touch without resolving it&#x2013;overcoming
 impulse of subj/obj divides. how do we touch without presuming full
@@ -2474,9 +2977,9 @@ reveals a subject/object divide.
 </div>
 </div>
 
-<div id="outline-container-orgd03bde8" class="outline-4">
-<h4 id="orgd03bde8"><span class="section-number-4">1.4.9</span> <span class="todo TODO">TODO</span> draft Frontera on vitality</h4>
-<div class="outline-text-4" id="text-1-4-9">
+<div id="outline-container-orgf2b1cb6" class="outline-4">
+<h4 id="orgf2b1cb6"><span class="section-number-4">2.6.9</span> <span class="todo TODO">TODO</span> draft Frontera on vitality</h4>
+<div class="outline-text-4" id="text-2-6-9">
 <p>
 the book as living and structured
 </p>
@@ -2521,13 +3024,13 @@ it is alive, infused with spirit. I talk to it; it talks to me. (66-67
 
 
 
-<div id="outline-container-org11dfeee" class="outline-3">
-<h3 id="org11dfeee"><span class="section-number-3">1.5</span> Vantanges/Opacity</h3>
-<div class="outline-text-3" id="text-1-5">
+<div id="outline-container-org560928c" class="outline-3">
+<h3 id="org560928c"><span class="section-number-3">2.7</span> Vantanges/Opacity</h3>
+<div class="outline-text-3" id="text-2-7">
 </div>
-<div id="outline-container-orgadcbcab" class="outline-4">
-<h4 id="orgadcbcab"><span class="section-number-4">1.5.1</span> Klein, Mandell, Caughie, Gaboury</h4>
-<div class="outline-text-4" id="text-1-5-1">
+<div id="outline-container-org2afb2c2" class="outline-4">
+<h4 id="org2afb2c2"><span class="section-number-4">2.7.1</span> Klein, Mandell, Caughie, Gaboury</h4>
+<div class="outline-text-4" id="text-2-7-1">
 <p>
 [Klein and D'Ignazio on the impossibility of neutral visualizations]
 And the illusion of reason as being devoid of emotion is not limited
@@ -2547,14 +3050,14 @@ of the viewer.
 </div>
 </div>
 
-<div id="outline-container-org3579360" class="outline-4">
-<h4 id="org3579360"><span class="section-number-4">1.5.2</span> Interweave with Saidiya Hartmann?</h4>
+<div id="outline-container-orgdddf555" class="outline-4">
+<h4 id="orgdddf555"><span class="section-number-4">2.7.2</span> Interweave with Saidiya Hartmann?</h4>
 </div>
-<div id="outline-container-org9070d07" class="outline-4">
-<h4 id="org9070d07"><span class="section-number-4">1.5.3</span> Against totalization</h4>
+<div id="outline-container-org3759fdb" class="outline-4">
+<h4 id="org3759fdb"><span class="section-number-4">2.7.3</span> Against totalization</h4>
 </div>
-<div id="outline-container-orgc6a0dc1" class="outline-4">
-<h4 id="orgc6a0dc1"><span class="section-number-4">1.5.4</span> The visible and the invisible, opting out</h4>
+<div id="outline-container-org76b1924" class="outline-4">
+<h4 id="org76b1924"><span class="section-number-4">2.7.4</span> The visible and the invisible, opting out</h4>
 </div>
 </div>
 
@@ -2562,13 +3065,13 @@ of the viewer.
 
 
 
-<div id="outline-container-orgb335dab" class="outline-3">
-<h3 id="orgb335dab"><span class="section-number-3">1.6</span> MISC</h3>
-<div class="outline-text-3" id="text-1-6">
+<div id="outline-container-orgc6ba622" class="outline-3">
+<h3 id="orgc6ba622"><span class="section-number-3">2.8</span> MISC</h3>
+<div class="outline-text-3" id="text-2-8">
 </div>
 <ol class="org-ol">
-<li><a id="org9416640"></a>homonormativity: add supreme court decision<br />
-<div class="outline-text-5" id="text-1-6-0-1">
+<li><a id="org1d242a1"></a>homonormativity: add supreme court decision<br />
+<div class="outline-text-5" id="text-2-8-0-1">
 <p>
 [Queerness is being wrenched within heteronormative agendas-&#x2014;IE the
 2020 surpreme court decision that protects queer desire bc it protects
@@ -2577,8 +3080,8 @@ straight desire].
 </div>
 </li>
 
-<li><a id="org160f3e2"></a>queerness as estrangment<br />
-<div class="outline-text-5" id="text-1-6-0-2">
+<li><a id="org6639c11"></a>queerness as estrangment<br />
+<div class="outline-text-5" id="text-2-8-0-2">
 <p>
 Arondekar, A., Cvetkovich, A., Hanhardt, CB, Kunzel, R., Nyong’O, T.,
 Rodríguez, JM, &amp; Stryker, S. (2015). Queering archives: A roundtable
@@ -2603,9 +3106,80 @@ estrangement queer" (216).
 </li>
 </ol>
 
-<div id="outline-container-org340b7fd" class="outline-4">
-<h4 id="org340b7fd"><span class="section-number-4">1.6.1</span> Altschuler and Weimar on reproducibility</h4>
-<div class="outline-text-4" id="text-1-6-1">
+<div id="outline-container-org197fc77" class="outline-4">
+<h4 id="org197fc77"><span class="section-number-4">2.8.1</span> Clement, Bode, recent applications of deformance</h4>
+<div class="outline-text-4" id="text-2-8-1">
+<p>
+More recently, textual scholars have taken McGann's influential ideas
+about Deformative Criticism and used them to study the ways that texts
+are transformed in the process of digitization. Katherine Bode, for
+example, engages McGann's ideas about deformance with theoretical
+physics in working with electronic text. Bode explains that attention
+to the "apparatus," or the instrument of analysis, allows her to
+trouble the traditional subject/object binary between researcher and
+text to examine "how&#x2026; we inscribe the boundaries we often presume to
+represent" ("Data Beyond Representation" par 11). Drawing from a
+theoretical physics understanding, where "an apparatus is a specific
+material configuration, including of physicists, wherein certain
+properties become determinate, while others are excluded," Bode
+applies the figure of the apparatus to literary databases (Bode "Data
+Beyond Representation, par. 24). Bode offers an example with her
+current project, <i>Reading at the Interface</i>, which explores the ways
+that Australian literature has been characterized in literary
+databases by various "paratexts," or "writings about literature"
+("Data Beyond Representation" par 11). Bode looks at how the process
+of data collection for these databases makes a distinction between the
+main text and the "paratext," which includes metadata like title,
+author, and publication information of the text. The project explores
+how paratexts across various platforms, including academic journals,
+newspapers, <i>Goodreads</i>, and <i>Librarything</i> have represented the
+boundary of "Australian Literature," literally creating the boundary
+of what we understand to be "text" and "paratext" in Australian
+literature. Bode explains that she's "not interested in representing
+discussion of 'Australian literature' on Goodreads so much as in
+materialising that platform in ways that cannot be separated from
+[the] categories of analysis" ("Data Beyond Representation"
+par. 19). This activity reveals, for Bode, how the researcher (via the
+"apparatus") intevenes with the object of analysis.
+</p>
+
+<p>
+Applying McGann's ideas about deformative criticism to sound studies,
+Tanya Clement explores how deformance enables embodied interactions
+with text. In a project on visualization, she uses the audio analysis
+tool "ProseVis" to visualize the prosodic elements of Gertrude Stein's
+poetry, which creates dynamic spaces for the reader to interact with
+the visualization. Using ProseVis, the reader can navigate through the
+visualizations and manipulate the metrics for analysis. Clement points
+out that just as a musical score "is read, but it is also meant to be
+played, to be spatialized in time and embodied by voices (or
+instruments) within a certain physical and hermeneutical context," the
+same can be true for quantitative visualizations of text: "One 'reads'
+a visualization, but to 'play' the visualisation is to engage the
+spatialized interpretation of that visualisation as an embodied reader
+in a situated context within a specific hermeneutical framework
+("Distant Listening" par. 10). From this project, Clement theorizes
+critical analysis as "play," where the critic "performs" the work just
+as musicians might interpret a musical score, by "creat[ing] another
+level of abstraction with which the interpreter engages" ("Distant
+Listening par. 7). According to Clement, the multiple levels of
+abstraction for containing the "work" of the text multiply the levels
+of engagement with that text.
+</p>
+
+<p>
+The unique affordance of digital environments, according to McGann,
+Bode and Clement, is that they allow for numerable interventions upon
+the textual object. The above authors approach computation as an
+opportunity to examine the material specificities of eletronic
+formats.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc030ec5" class="outline-4">
+<h4 id="orgc030ec5"><span class="section-number-4">2.8.2</span> Altschuler and Weimar on reproducibility</h4>
+<div class="outline-text-4" id="text-2-8-2">
 <p>
 &#x2013;&gt; reproducing something perfectly overlooks the ways that all
 digital objects are unique, differentiated. Theory of textual
@@ -2681,9 +3255,9 @@ total knowledge and understanding.
 </p>
 </div>
 </div>
-<div id="outline-container-orge4b48db" class="outline-4">
-<h4 id="orge4b48db"><span class="section-number-4">1.6.2</span> Defining queer, Amin on historicizing through affect</h4>
-<div class="outline-text-4" id="text-1-6-2">
+<div id="outline-container-orga3a8ff9" class="outline-4">
+<h4 id="orga3a8ff9"><span class="section-number-4">2.8.3</span> Defining queer, Amin on historicizing through affect</h4>
+<div class="outline-text-4" id="text-2-8-3">
 <p>
 queerness manifests as an affective relation between the
 subject and desired object. Kadji Amin defines queer as "fundamentally
@@ -2693,9 +3267,9 @@ the term queer" (173).
 </p>
 </div>
 </div>
-<div id="outline-container-org1306d95" class="outline-4">
-<h4 id="org1306d95"><span class="section-number-4">1.6.3</span> Reading touching: within our bodies</h4>
-<div class="outline-text-4" id="text-1-6-3">
+<div id="outline-container-orgfe13d70" class="outline-4">
+<h4 id="orgfe13d70"><span class="section-number-4">2.8.4</span> Reading touching: within our bodies</h4>
+<div class="outline-text-4" id="text-2-8-4">
 <p>
 This point bears repeating&#x2014;we are always stuck within the bodies of
 our thinking. As such, we might as well turn to ourselves, to explore
@@ -2714,9 +3288,9 @@ for statistics" (xxi).
 </div>
 </div>
 
-<div id="outline-container-org4ba44e7" class="outline-4">
-<h4 id="org4ba44e7"><span class="section-number-4">1.6.4</span> data reduction / queer assimilation</h4>
-<div class="outline-text-4" id="text-1-6-4">
+<div id="outline-container-org7b061e1" class="outline-4">
+<h4 id="org7b061e1"><span class="section-number-4">2.8.5</span> data reduction / queer assimilation</h4>
+<div class="outline-text-4" id="text-2-8-5">
 <p>
 For those that would argue that negative feelings are no longer
 relevant in today's world, Heather Love responds that the advent of
@@ -2748,9 +3322,9 @@ set about proving that it does not exist" (Love 3).
 </div>
 </div>
 
-<div id="outline-container-org59c4c7d" class="outline-4">
-<h4 id="org59c4c7d"><span class="section-number-4">1.6.5</span> Critique of affirmation: Cvetkovitch</h4>
-<div class="outline-text-4" id="text-1-6-5">
+<div id="outline-container-org46475be" class="outline-4">
+<h4 id="org46475be"><span class="section-number-4">2.8.6</span> Critique of affirmation: Cvetkovitch</h4>
+<div class="outline-text-4" id="text-2-8-6">
 <p>
 Attempts to affirm negative queer experience can be harmful. Ann
 Cvetkovitch's work on trauma studies provides an example of how this
@@ -2809,9 +3383,9 @@ abstraction. What does queerness look like, what can it do?
 </div>
 </div>
 
-<div id="outline-container-org17c3fd2" class="outline-4">
-<h4 id="org17c3fd2"><span class="section-number-4">1.6.6</span> Munoz's disidentification quotes</h4>
-<div class="outline-text-4" id="text-1-6-6">
+<div id="outline-container-org06afbd9" class="outline-4">
+<h4 id="org06afbd9"><span class="section-number-4">2.8.7</span> Munoz's disidentification quotes</h4>
+<div class="outline-text-4" id="text-2-8-7">
 <p>
 "We desire it but we desire it with a difference"
 (<i>Disidentifications</i> 15).
@@ -2842,9 +3416,9 @@ encoded roles that are available for such subjects"
 </div>
 </div>
 
-<div id="outline-container-orga504eb5" class="outline-4">
-<h4 id="orga504eb5"><span class="section-number-4">1.6.7</span> Misc Quotes</h4>
-<div class="outline-text-4" id="text-1-6-7">
+<div id="outline-container-org9461cac" class="outline-4">
+<h4 id="org9461cac"><span class="section-number-4">2.8.8</span> Misc Quotes</h4>
+<div class="outline-text-4" id="text-2-8-8">
 <p>
 "how might activating emotion – leveraging it, rather than resisting
 emotion in data visualization – help us learn, remember, and
@@ -2854,9 +3428,9 @@ chapter 2)
 </div>
 </div>
 
-<div id="outline-container-orgcdcee9d" class="outline-4">
-<h4 id="orgcdcee9d"><span class="section-number-4">1.6.8</span> <i>Voyant-Tools</i></h4>
-<div class="outline-text-4" id="text-1-6-8">
+<div id="outline-container-org037a682" class="outline-4">
+<h4 id="org037a682"><span class="section-number-4">2.8.9</span> <i>Voyant-Tools</i></h4>
+<div class="outline-text-4" id="text-2-8-9">
 <p>
 Jerome McGann "prosthetic extensions"
 Potential texts: Woolf's <i>Orlando</i>. 
@@ -2872,9 +3446,9 @@ touch and severing. Sarah Ahmed too.
 </div>
 </div>
 
-<div id="outline-container-org387efaf" class="outline-4">
-<h4 id="org387efaf"><span class="section-number-4">1.6.9</span> <i>These Waves of Girls</i></h4>
-<div class="outline-text-4" id="text-1-6-9">
+<div id="outline-container-org9c6b195" class="outline-4">
+<h4 id="org9c6b195"><span class="section-number-4">2.8.10</span> <i>These Waves of Girls</i></h4>
+<div class="outline-text-4" id="text-2-8-10">
 <p>
 Following narrative desire. The click of the mouse allows readers to
 move with the text, based on their own paths. 
@@ -2882,9 +3456,9 @@ move with the text, based on their own paths.
 </div>
 </div>
 
-<div id="outline-container-orgf74ccd3" class="outline-4">
-<h4 id="orgf74ccd3"><span class="section-number-4">1.6.10</span> what are some print texts that enact these principles of movement?</h4>
-<div class="outline-text-4" id="text-1-6-10">
+<div id="outline-container-org5eb042f" class="outline-4">
+<h4 id="org5eb042f"><span class="section-number-4">2.8.11</span> what are some print texts that enact these principles of movement?</h4>
+<div class="outline-text-4" id="text-2-8-11">
 <ul class="org-ul">
 <li>Alison Bechdel's "Are You My Mother": where every page is vibrating</li>
 </ul>
@@ -2894,9 +3468,9 @@ with reference.
 </div>
 </div>
 
-<div id="outline-container-orgf2328d6" class="outline-4">
-<h4 id="orgf2328d6"><span class="section-number-4">1.6.11</span> What, do you imagine that I would take so much trouble and so much</h4>
-<div class="outline-text-4" id="text-1-6-11">
+<div id="outline-container-orgda8262a" class="outline-4">
+<h4 id="orgda8262a"><span class="section-number-4">2.8.12</span> What, do you imagine that I would take so much trouble and so much</h4>
+<div class="outline-text-4" id="text-2-8-12">
 <p>
 pleasure in writing, do you think that I would keep so persistently to my task, if I were not preparing — with a rather shaky hand — a labyrinth into which I can venture, in which I can move my discourse, opening up underground passages, forcing it to go far from itself, finding overhangs that reduce and deform its itinerary, in which I can lose myself and appear at last to eyes that I will never have to meet again. I am no doubt not the only one who writes in order to have no face. Do not ask who I am and do not ask me to remain the same: leave it to our bureaucrats and our police to see that our papers are in order. At least spare us their morality when we write.’
 </p>
@@ -2906,9 +3480,9 @@ pleasure in writing, do you think that I would keep so persistently to my task, 
 </div>
 </div>
 
-<div id="outline-container-orge4e053d" class="outline-4">
-<h4 id="orge4e053d"><span class="section-number-4">1.6.12</span> Kadji Amin, Amber Jamilla Musser, and Roy Pérez explain that paranoid</h4>
-<div class="outline-text-4" id="text-1-6-12">
+<div id="outline-container-org2c2c9b3" class="outline-4">
+<h4 id="org2c2c9b3"><span class="section-number-4">2.8.13</span> Kadji Amin, Amber Jamilla Musser, and Roy Pérez explain that paranoid</h4>
+<div class="outline-text-4" id="text-2-8-13">
 <p>
 impulses "rely on the concept of immutable difference, on sharp
 boundaries, and on the possibility of exhaustively knowing the other"
@@ -2916,13 +3490,164 @@ boundaries, and on the possibility of exhaustively knowing the other"
 </p>
 </div>
 </div>
+
+<div id="outline-container-org9c4cdbb" class="outline-4">
+<h4 id="org9c4cdbb"><span class="section-number-4">2.8.14</span> The debates about TEI illustrates this tension between the</h4>
+<div class="outline-text-4" id="text-2-8-14">
+<p>
+“conservative” and the “creative” impulses in textual editing, and
+shows how an encoding method that is highly structured can be used to
+mark or explore moments of textual instability or ambiguity.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7d5d177" class="outline-4">
+<h4 id="org7d5d177"><span class="section-number-4">2.8.15</span> felski on affects beside suspicion</h4>
+<div class="outline-text-4" id="text-2-8-15">
+<p>
+Postcritical Reading…  “in this sense, is not just a cognitive
+activity but an embodied mode of attentiveness that involves us in
+acts of sensing, perceiving, feeling, registering, and engaging”
+(Felski 176). 
+</p>
+
+<p>
+Felski: At stake is our receptivity: “to allow ourselves to be marked,
+struck, impressed by what we read” (Felski 12). 
+</p>
+
+<p>
+"the reader-text connection becomes part of a network rather than a
+self-enclosed dyad— yet a connection that remains vital to literary
+studies, especially in the classroom. Reading, in this light, is a
+matter of attaching, collating, negotiating, assembling—of forging
+links between things that were previously unconnected. It is not a
+question of plumbing depths or tracing surfaces… Interpretation
+becomes a coproduction between actors that brings new things to light
+rather than an endless rumination on a text’s hidden meanings or
+representational failures” (Felski 174)
+</p>
+
+<p>
+Surface reading challenges that search for absence by compelling a
+reader to stay with what the text says and how it says it rather than
+moving ahead to probe how it reflects and refracts larger cultural
+patterns. This critique reifies aesthetic objects and suggests that
+literary critics should embrace the literary.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf084265" class="outline-4">
+<h4 id="orgf084265"><span class="section-number-4">2.8.16</span> mcpherson, benjamin on race and tech</h4>
+<div class="outline-text-4" id="text-2-8-16">
+<p>
+Major developments in technology also perpetuate racial
+assumptions. Moving from networking technologies to software
+development, Tara McPherson explores the parallels between the
+Operating Systems and race relations, to show how the development of
+computer software betrays hegemonic assumptions about whiteness and
+elisions of difference.<sup><a id="fnr.16.100" class="footref" href="#fn.16">16</a></sup> She focuses on the key moment of 1960s
+United States, when Operating Systems, which is the foundational
+software that supports a computer's programs and basic functioning,
+developed alongside civil rights discourses. Her research focuses on
+how "the organization of information and capital" in OS development
+resonates in the struggles for racial justice: "Many of these shifts
+were enacted in the name of liberalism, aimed at distancing the overt
+racism of the past even as they contained and cordoned off progressive
+radicalism" (30). McPherson deconstructs the UNIX operating system
+which includes a hierarchical file system, a command line interpreter
+(the Terminal on Mac or Command Prompt on Windows), and a variety of
+software programs that are designed to work in tandem. McPherson
+points out that UNIX-based Operating Systems (like Mac and Linux) are
+distinguished by the ways that they partition and simplify complex
+processes into discrete components, similar to the ways that identity
+politics cordones off parts of the (social and technological) system
+into distinct units. While this cordoning was productive for the
+promotion of civil rights, it also, according to McPherson, "curtailed
+and short-circuited more radical forms of political praxis, reducing
+struggle to fairly discrete parameters" (30).
+</p>
+
+<p>
+Crystallizing the intersection between Operating Systems and race
+relations, McPherson asserts that "Certain modes of racial visibility
+and knowing coincide or dovetail with specific ways of organizing
+data" (24). McPherson emphasizes the "rules" of UNIX philosophy, which
+lay out how UNIX's development prioritized the organization and
+simplification of data processing:
+</p>
+<blockquote>
+<p>
+Rule of Simplicity: Design for simplicity; add complexity only where
+you must. Rule of Parsimony: Write a big program only when it is clear
+by demonstration that nothing else will do. Rule of Transparency:
+Design for visibility to make inspection and debugging easier&#x2026; Rule
+of Representation: Fold knowledge into data so program logic can be
+stupid and robust. 26
+</p>
+</blockquote>
+<p>
+The rules of "Simplicity" and "Parsimony" ensure that programs will be
+composed of small, interlocking parts that can be easily updated and
+transported to newer versions. The rule of "Transparency" flattens
+nuance and ambiguity, making program components as legible as
+possible. The rule of "Representation," particularly the suggestion to
+"Fold knowledge into data" reduces the complexity of raw data, so that
+it can be easily input into multiple processes. According to
+McPherson, all of these rules work together to shore up the central
+design theory of "modularity,"<sup><a id="fnr.17" class="footref" href="#fn.17">17</a></sup> which stipulates that components
+are self-contained and interoperable, so they can be independently
+created, modified, and replaced without affecting the whole system.
+</p>
+
+<p>
+The role of control in creating the internet and the emphasis on data
+reduction in developing operating stystems leave their legacies on
+21st century digital technology, where race becomes collapsed into
+data. Echoing McPherson, Ruha Benjamin asserts that technology
+reproduces social inequities under the guise of objectivity and
+progressivism.<sup><a id="fnr.18" class="footref" href="#fn.18">18</a></sup> Turning to technology, Benjamin explores how
+innovations in Artificial Intelligence and algorithmic computing
+extend racist paradigms into ever new tools, particularly in data
+gathering and surveillance. The creators of these new technologies
+mark, track, and quantify blackness, for example, in databases for
+healthcare or financial services that associate "black names" with
+criminality (Benjamin 5). With each update, technology is continually
+promoted as efficient and progressive in a way that masks how it
+exploits data about its subjects. Benjamin explains, "we are told that
+how tech sees “difference” is a more objective reflection of reality
+than if a mere human produced the same results&#x2026; bias enters through
+the backdoor of design optimization in which the humans who create the
+algorithms are hidden from view" (5-6). As she points out, "the road
+to inequity is paved with technical fixes” (7). Like the creators of
+UNIX, the creators of such tools and algorithms operate under
+assumptions of white universality that inevitably marks blackness as
+"other."
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6d5eba5" class="outline-4">
+<h4 id="org6d5eba5"><span class="section-number-4">2.8.17</span> sedgwick on liberatory vs prohibition</h4>
+<div class="outline-text-4" id="text-2-8-17">
+<p>
+Sedgwick searches for "some ways of understanding human desire that might
+be quite to the side of prohibition and repression, that might hence
+be structured quite differently from the heroic, 'liberatory,'
+inescapably dualistic righteousness of hunting down and attacking
+prohibition/repression in all its chameleonic guises" (10).
+</p>
+</div>
+</div>
 </div>
 </div>
 
 
-<div id="outline-container-orgb84d3ed" class="outline-2">
-<h2 id="orgb84d3ed"><span class="section-number-2">2</span> commands</h2>
-<div class="outline-text-2" id="text-2">
+<div id="outline-container-orgfe6c2b7" class="outline-2">
+<h2 id="orgfe6c2b7"><span class="section-number-2">3</span> commands</h2>
+<div class="outline-text-2" id="text-3">
 <p>
 c-c c-x f =&gt; create a new footnote
 c-u c-c c-x f then select s =&gt; renumber footnotes
@@ -3066,12 +3791,20 @@ mestiza" [the mixed race].
 Rita Felski? and Eve Kosofsky Sedgwick.
 </p></div></div>
 
+<div class="footdef"><sup><a id="fn.17" class="footnum" href="#fnr.17">17</a></sup> <div class="footpara"><p class="footpara">
+DEFINITION NOT FOUND.
+</p></div></div>
+
+<div class="footdef"><sup><a id="fn.18" class="footnum" href="#fnr.18">18</a></sup> <div class="footpara"><p class="footpara">
+DEFINITION NOT FOUND.
+</p></div></div>
+
 
 </div>
 </div></div>
 <div id="postamble" class="status">
 <p class="author">Author: Filipa  Calado</p>
-<p class="date">Created: 2020-11-30 Mon 22:13</p>
+<p class="date">Created: 2023-06-30 Fri 08:50</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
