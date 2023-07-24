@@ -1,0 +1,1846 @@
+* three
+#+SEQ_TODO: TODO(t) WAITING(w) IN_PROGRESS(p) WAITING(w) FOLLOWUP(f) | CANCELLED(c) DONE(d)
+
+"Sex, Flesh, Skin: A Media Archaeology of Octavia Butler's /Dawn/ and
+Entropy8Zuper!'s /skinonskinonskin/"
+
+** chapter overview
+This paper juxtaposes two unlikely texts--an early hypertext work from
+1999, and a science fiction novel from 1987--to unpack the role of
+“media” across physiological and technological systems. The early
+hypertext work, /skinonskinonskin/, written collectively by the
+artist-couple known as Entropy8Zuper!, explores
+electronically-mediated desire through a series of digital love poems
+that combine hypertext, audio, and Flash media technology. The fiction
+novel, Dawn by Octavia Butler, poses a post-apocalyptic scenario where
+humans find themselves coerced into sex and procreation with
+extraterrestrial colonizers. In these couplings, sexual contact is
+routed through an alien intermediary who plugs directly into the human
+brain's pleasure centers. Though Butler’s novel and /skinonskinonskin/
+present vastly different narrative worlds and physical formats, I’m
+interested in how both texts trouble the boundary between materiality
+and abstraction, in one case technological, through computer hardware
+and software, and in another physiological, through nervous systems
+and brain chemistry.
+
+In Butler’s novel, I examine how human flesh--the traditional site for
+sexual contact between two partners--is bypassed for direct neural
+stimulation facilitated by an alien intermediary. By bypassing the
+flesh, this method of intercourse dissolves the distinction between
+self and other--the root of xenophobia--as well as sense and
+thought. Drawing from thinkers in Chicanx Studies and Black Feminist
+Studies, I argue that this method creates an ethics based on pleasure
+rather than choice or consent.
+
+Turning to /skinonskinonskin/, I trace the complicated stack of
+technologies, including web tools and Flash media, that facilitate the
+display and preservation of this work. Borrowing from Media
+Archaeology, I analyze how the work's various "screen effects" engages
+with its underlying software logics. My overall goal is to explore the
+material qualities of media--be they technical or physiological--for
+the ways they offers a kind of capacious mode for theorizing new,
+queer forms of communication and ethical relations.
+
+** sex
+*** section overview
+These sections examine human vs Oankali social structures to read the
+priortization of sensuality and feeling as a basis for more ethical
+relationships. While humans work within hierarchical social systems,
+the Oankali use thier physiological capacities to achieve
+collectivity. These physiological capacities, which includes creating
+direct, neural connections between separate brains, blend cognitive
+processes with physical ones, creating a collision of registers. This
+collision points to the role of sensuality, particularly the flesh, in
+mediating communication and facilitating ethical modes of relation. 
+
+*** fear
+In the novel /Dawn/, the first of the /Xenogenesis/ trilogy by Octavia
+Butler, the main character, Lilith Iyapo, is seduced by an alien. The
+alien, called "Nikanj," is an ooloi, or third- or neutral-gendered
+being. Nikanj coaxes Lilith to join it and her human partner, Joseph:
+"'Lie here with us,' it says, 'Why should you be down there by
+yourself?,'" an invitation which Lilith cannot resist:
+#+BEGIN_QUOTE
+She thought there could be nothing more seductive than an ooloi
+speaking in that particular tone, making that particular
+suggestion. She realized she had stood up without meaning to and taken
+a step toward the bed. She stopped, stared at the two of
+them. Joseph’s breathing now became a gentle snore and he seemed to
+sleep comfortably against Nikanj as she had awakened to find him
+sleeping comfortably against her many times. She did not pretend
+outwardly or to herself that she would resist Nikanj’s invitation—-or
+that she wanted to resist it. Nikanj could give her an intimacy with
+Joseph that was beyond ordinary human experience. And what it gave, it
+also experienced. 306
+#+END_QUOTE
+The erotic desire that Lilith experiences is intense enough to make
+her temporarily ignore that these aliens, called "Oankali," have
+descended upon earth with one goal: to coerce humans to reproduce with
+them and create a human-alien species. As ooloi, Nikanj has a special
+sexual organ that facilitates a neural connection between a male and
+female partner, in this case, between Lilith and Joseph. It makes this
+connection by inserting this organ, a "sensory hand," into each
+partner's spinal cord, located at the back of the neck. During the sex
+act, this organ stimulates each partner's pleasure centers in the
+brain and collects genetic information which the Oankali will
+eventually suse to engineer a human-alien embryo.
+
+Despite her eagerness to have sex with Nikanj, Lilith harbors a deep
+resistance against the Oankali's intention to procreate with
+humanity. Scenes like the one above, in which Lilith surrenders to her
+sexual desire, appear in stark contrast to her determination to
+escape, conveyed by her invocation to "Learn and run!" which she
+repeats up until the last page of the novel. Having barely survived a
+nuclear apocalypse only to be "rescued" by the aliens, Lilith, along
+with the surviving humans, is being held on the Oankali spaceship in
+preparation to do their part in the "gene trade"--that is, to
+re-populate the earth with a new human-Oankali species. The Oankali
+have given Lilith a special job to be a guide, what she calls a "Judas
+goat," to shepherd humans into accepting that humanity will change
+forever, that their children will look like "Medusa children" (Butler
+87).
+
+The conflict between various biological drives, such as sex drive
+versus the survival drive, speaks to a larger debate among the novel's
+critics about the primacy of biological impulses in determining human
+behavior. For, even when this sex act appears contained to the mind,
+it is always portrayed as something guided by impulses and tendencies
+of the body. Donna Haraway and Kitty Dunkley, for example, argue that
+the interspecies couplings challenge naturalizing assumptions about
+sex, race, and the human/animal divide. Haraway's influential analysis
+from /Primate Visions: Gender, Race, and Nature in the World of Modern
+Science/ (1989), reads this story "as if it were a report from the
+primate field in the allotopic space of earth after a nuclear
+holocaust" (376). She argues that the inter-species relations
+"facilitate revisionings" of "difference, reproduction, and survival"
+(Haraway 377). On the other hand, critics like Stephen Barnes, Nancy
+Jesser, and Erin Ackerman argue for a biological determinist
+reading. Stephen Barnes, who knew Butler personally, emphasizes the
+influence of biological research in her writing on human nature,
+sharing that Butler was fascinated by what she called "emergent
+properties," which begin from small impulses, like the tendency to
+categorize something as either similar or different, as the seeds of
+complex social behaviors and structures. Nancy Jesser emphasizes the
+determinist perspective on sex, arguing that "the plot relentlessly
+reinforces certain sociobiological notions of essential and 'natural'
+male and female through the concept of biological 'tendency'" (Jesser
+41-42).
+
+Critics from both sides of the debate agree on one point, however:
+that sexuality in the text reflects a firmly heterosexual paradigm.
+These views are due to the gendered structure of the sex act, which
+maintains a male/female coupling, despite the addition of an ooloi
+participant. Haraway, for example, asserts that, "Heterosexuality
+remains unquestioned, if more complexly mediated. The different social
+subjects, the different genders that could emerge from another
+embodiment of resistance to compulsory heterosexual reproductive
+politics, do not inhabit this /Dawn/" (380). According to this view
+Butler's deconstruction of species and sex falls short of affecting
+sexuality.
+
+This chapter argues that the heterosexual paradigm is indeed
+disrupted, and it is disrupted by a queer mode of relation which
+emerges in the tripartite sexual union enabled by the ooloi figure.
+In what follows, I will examine the connection created by this union,
+whose linkage of neural pathways between two bodies scrambles the
+distinctions between thinking and feeling, a clash of registers that
+blends the materiality of the flesh with the abstraction of cognitive
+processes.
+
+This chapter will explore how this clash of registers operates across
+two seemingly unrelated domains: Black Feminist Studies and Media
+Archaeology Studies. I will examine how each of these domains
+theorizes the intersection of physical embodiment with chemical,
+conceptual, and/or electrical signaling, reading for sensuality across
+medial environments. Finally, I will put these ideas into practice
+with a close reading of a work of electronic fiction,
+/skinonskinonskin/. My goal is to explore the material qualities of
+media--be they technical or physiological--for the ways they offer a
+kind of capacious mode for theorizing new, queer forms of
+communication and ethical relations.
+
+To begin this exploration, I first examine a moment of heightened
+sensuality from the story, a moment of extreme fear. This moment
+occurs when Lilith comes face-to-face with her captors for the first
+time. Jhadaya, a male Oankali, meets Lilith in her isolation room. She
+initially processes his alien body according to human anatomical terms:
+#+BEGIN_QUOTE
+The lights brightened as she had supposed they would, and what had
+seemed to be a tall, slender man was still humanoid, but it had no
+nose--no bulge, no nostrils--just flat, gray skin. It was gray all
+over--pale gray skin, darker gray hair on its head that grew down
+around its eyes and ears and at its throat. There was so much hair
+across the eyes that she wondered how the creature could see. The
+long, profuse ear hair seemed to grow out of the ears as well as
+around them. Above, it joined the eye hair, and below and behind, it
+joined the head hair. The island of throat hair seemed to move
+slightly, and it occurred to her that that might be where the creature
+breathed--a kind of natural tracheostomy.
+
+Lilith glanced at the humanoid body, wondering how humanlike it really
+was. "I don't mean any offense," she said, "but are you male or
+female?"
+
+"It's wrong to assume that I must be a sex you're familiar with," it
+said, "but as it happens, I'm male."
+
+Good. It could become 'he' again. Less awkward. 29
+#+END_QUOTE
+Although Jdhaya points out Lilith's mistake for assuming hisq gender,
+she nonetheless takes some comfort from being able to call him a "he."
+The gender designation, along with a catalogue of mammalian anatomical
+features "hair," "eyes," "ears," and "throat," reveals the impulse to
+categorize the unknown according to human terms. This small comfort,
+however, evaporates when the strangeness of the alien's appearance
+exceeds the categories available to her:
+#+BEGIN_QUOTE 
+She did not want to be any closer to him. She had not known what held
+her back before. Now she was certain it was his alienness, his
+difference, his literal unearthliness. She found herself still unable
+to take even one more step toward him.
+
+"Oh god," she whispered. And the hair--the whatever it
+was--moved. Some of it seemed to blow toward her as though in a wind,
+though there was no stirring of air in the room.
+
+She frowned, strained to see, to understand. Then, abruptly, she did
+understand. She backed away, scrambled around the bed and to the far
+wall. When she could go no farther, she stood against the wall,
+staring at him.
+
+Medusa. 30
+#+END_QUOTE 
+As Lilith attempts to place the alien into familiar categories, she
+undergoes a complex physio-cognitive process. First, she uses
+anatomical categories to perceive Jhadaya. Then, as his difference
+begins to register, she apprehends him on a pre-linguistic, embodied
+level, characterized by paralyzing aversion where she is "unable to
+take even one more step toward him" (29-30). Then, when Lilith
+examines his face more closely, the interval of immobilizing fear ends
+abruptly with her "understand[ing]." She expresses her aversion in
+figurative language, evocing the mythical figure "Medusa."
+
+The choice of "Medusa" here is significant. It demonstrates that
+Lilith subscribes the unknown in terms of something familiar to the
+human imaginary, ableit in the context of myth. Her physio-cognitive
+progression from instinctual body movement to intellection suggests a
+peculiar wasy that humanity handles the unknown. This can be
+attributed to a particular combination of human traits, which the
+Oankali call the "human contradiction." Later in this scene, Jhadaya
+describes these two traits:
+#+BEGIN_QUOTE
+"You are intelligent," he said. "That's the newer of the two
+characteristics, and the one you might have put to work to save
+yourselves. You are potentially one of the most intelligent species
+we've found, though your focus is different from ours. Still, you had
+a good start in the life sciences, and even in genetics."
+
+"What's the second characteristic?  
+
+"You are hierarchical. That's the older and more entrenched
+characteristic. We saw it in your closest animal relatives and in your
+most distant ones. It's a terrestrial characteristic. When human
+intelligence served it instead of guiding it, when human intelligence
+did not even acknowledge it as a problem, but took pride in it or did
+not notice it at all..." [...] "That was like ignoring cancer. I
+think your people did not realize what a dangerous thing they were
+doing."
+#+END_QUOTE
+According to Jhadaya, the tendency toward hierarchy, to create social
+groupings, even to colonize and oppress, descends from an ancient
+instinct that once served to sustain, protect, and organize early
+human tribes. But when the hierarchical instinct grows unchecked into
+the modern world, Jdhaya explains, it creates unjust divisions within
+society. 
+
+For Lilith, then, the tendency toward hierarchy first demands that she
+place this being on a scale of familiarity. She compares Jhadaya to
+what she already knows about other living beings, placing him into a
+binary gender system, for example. However, when the hierarchy fails
+to subsume his other qualities, like the strange, moving "hair"
+growing all over his body, her intelligence steps in to speculate with
+an analogy, "Medusa." Here, her mind makes the leap between what she
+sees and what she can imagine. The analogy to the Medusa indicates
+that this particular type of xenophobia is not just of otherness, but
+in the interplay between otherness and similarity. What scares Lilith
+is an apparent familiarity of this humanoid, this bipedal, two-limbed
+creature, which has an audible language and conscious intelligence is
+combined aspects that do not belong to any mammal. "Medusa" marks the
+moment when Lilith, who until then has been struggling to place a
+strange being within known phenomena, finally settles onto a familiar
+designation. Despite his alienness, at that point, Jhadaya becomes
+incorporated into an anthropocentric worldview--specifically, into a
+fearsome figure that represents monstrous and deadly femininity.
+
+Criticism on the novel does a good job of situating the tension
+between similarity and difference within intersectional
+feminism.[fn:2] Here, however, I am interested in this experience of
+difference and similarity-in-difference as a physiological response,
+and what it can reveal about ethical relations. Here, I draw from
+Chicana feminist theorists Cherrie Moraga and Gloria Anzaldúa who
+write about the expereince of xenophobia from a sensual
+dimension. Moraga, for example, argues that the fear of the other is
+heightened by a perceived similarity between the self and
+other. Speaking about social hierarchies of oppression, Moraga asserts
+that, "it is not really difference the oppressor fears so much as
+similarity" (32). However, at the same time that perceived similarity
+causes fear, it also offers an opportunity for connection. Moraga, for
+example, draws from her sexuality to relate to her mother, who
+experienced levels of poverty and colorism that Moraga, as an educated
+"guera," was able to avoid:
+#+begin_quote
+It wasn't until I acknowledged and confronted my own lesbianism in the
+flesh that my heartfelt identification with and empathy for my
+mother's oppression--due to being poor, uneducated, and Chicana--was
+realized. My lesbianism is the avenue through which I have learned the
+most about silence and oppression, and it continues to be the most
+tactile reminder to me that we are not free human beings. 28-29
+#+end_quote
+When difference is a source of "silence and oppression," as it has
+been for Moraga's sexuality, finding similarity requires a deeply
+sensual process. Here, Moraga's sexuality enables her to make a
+connection to other kinds of difference, specifically differences
+across skin tone and economic class. This confrontation occurs "in the
+flesh," meaning that difference is a felt, sensational phenomenon, a
+"tactile reminder" that bridges the gap between self and other.
+
+Anzaldúa, a Chicana lesbian like Moraga, explores a method for
+incorporating difference into identity. Anzaldúa grew up on the
+Texas-Mexico border, works to integrate her Aztec, Spanish, and
+Mexican backgrounds into a modern Chicana identity. Anzaldúa explains
+that surfacing this history and heritage will require "developing a
+tolerance for contradictions, a tolerance for ambiguity... learn[ing]
+to be an Indian [sic] in Mexican culture, to be a Mexican from an
+Anglo point of view" (Anzaldua 78-79). Anzaldúa resurrects latent
+aspects of the cultural psyche in the form of the fearsome Aztec
+goddess, Coatlicue. Like Medusa, Coatlicue is associated with snakes,
+her name translates from Nahuatl into "serpent skirt." As the "Earth
+Mother who conceives all celestial beings out of her cavernous womb,"
+Coatlicue embodies a unity of opposites, the dual forces of life and
+death, fertility and destruction (Anzaldua 46). Over time, however,
+Anzaldúa explains that this unity has been severed into "pure" and
+"impure" aspects. Influenced by a growing patriarchy, Aztec culture
+splits Coatlicue into the fertility earth goddess, "Tonantsi," the
+puta and into "Coatlalopeuh," the chaste (27). Then, with the arrival
+of the Spaniards, the figures are split again, this time into the
+Virgin of Guadalupe, the most revered figure of Mexican Cathololicism,
+with the negative aspects incorporated into the figures La LLorona and
+La Chingada.
+
+/Coatlicue/ incorporates the originary whole that Anzaldúa aims to
+bring into a modern imaginary: "Coatlicue- Cihuacoatl- Tlazolteotl-
+Tonantzin- Coatlalopeuh- Guadalupe--they are one" (50). The process by
+which Anzaldua accesses and integrates the scattered aspects of
+Coatlicue is called the "/Coatlicue/ state." Here, Anzaldua enters
+into a trance, a spiritual opening, to confront the pain, shame, and
+lonelienss of a severed identity. She explains that, "We need
+/Coatlicue/ to slow us up so that the psyche can assimilate previous
+experiences and process the changes" (Anzaldua 46). Anzaldua describes
+the visual confrontation with /Coatlicue/:
+#+begin_quote
+Seeing and being seen. Subject and object, I and she. The eye pins
+down the object of its gaze, scrutinizes it, judges it. A glance can
+freeze us in place; it can "possess" us. It can erect a barrier
+against the world. But in a glance also lies awareness,
+knowledge. These seemingly contradictory aspects--the act of being
+seen, held immobilized by a glance, and "seeing through" an
+experience--are symbolized by the underground aspects of /Coatlicue/,
+/Cihuacoatl/, /Tlazolteotl/ which cluster in what I call the
+/Coatlicue/ state. 42
+#+end_quote
+Here, vision is simultaneously a tool for capture, for being "pin[ned]
+down" or "immobilized," and a tool of enlightenment, in "awareness,
+knowledge." Anzaldua embraces the duality of this kind of vision, and
+in what seems to be its paradoxical effect, which is freedom in
+possession. Being the object of /Coatlicue/'s gaze both reliquishes
+agency and opens a connection, enabling an intimate relation to the
+other.
+
+*** pleasure
+Oankali, unlike humans, are attracted to difference. As Jhadaya
+explains to Lilith: "We acquire new life, seek it, investigate it,
+manipulate it, sort it, use it. We carry the drive to do this in a
+minuscule cell within a cell, a tiny organelle within every cell of
+our bodies" (84). This essential drive, which powers their "gene
+trade," is made possible by that which the humans find most disturbing
+about their captors--the tentacle-like organs that sprout from their
+bodies. These organs transmit all external sensory information such as
+sight, hearing, touch, smell, and taste, provide channels for the
+immediate sharing of thoughts and feelings in intra-Oankali
+communication, and faciliate sex. This sensory capacity puts them into
+direct contact with those who are different. As a result, the Oankali
+do not fear difference, rather, they crave it. This craving to absorb
+difference and incorporate it into new life forms is encoded in their
+genetic ancestry. Nikanj, the ooloi child who will eventually become
+Lilith's mate, explains to Lilith that "'Six divisions ago, on a
+white-sun water world, we lived in great shallow oceans'[...] 'We were
+many-bodied and spoke with body lights and color patterns among
+ourself and among ourselves" (123). From this ancestry, the current
+Oankali inheirited a drive for collectivity.
+
+This tendency for collective consciousness, distributed among the
+beings, singular and plural at once, "ourself and ourselves,"
+destabilize the an assumption underpinning free will, that of
+consent. When Nikanj is an adult, Joseph's genetic material to
+impregnate Lilith without her knowledge, much less her consent. It
+explains to Lilith that it only gives her what she truly wants, which
+is a child, "'You'll have a daughter,' it said. 'And you are ready to
+be her mother. You could never have said so. Just as Joseph could
+never have invited me into his bed'" (468-9). For the Oankali
+cultivating life is the principal factor for decision-making. 
+
+The sex scenes in particular portray a level of sensual pleasure and
+connection that makes it difficult to separate concious will from
+embodied desire. As Jayna Brown points out, "the pleasurable
+experience of sex with the Ooloi is so highly compelling it is
+sometimes likened to rape in the text" (105). Not only are humans
+seduced into sexual relations by the pheramones that arouse an
+overwhelming sexual desire, there is involuntary sterilization,
+complicity in human-on-human rape, and more seriously, Nikanj's rape
+of Joseph. Joshua Yu Burnett explains that while "the novel's
+treatment of the issue [of consent] is both provocative and
+troubling," "none of this is meant to suggest that the Oankali are
+vicious, brutal rapists" (110, 117). Because their sensory and
+communication capacities prevent the Oankali from deception, "they
+seem quite genuine in their insistance that human claims of
+non-consent belie a deeper, physio-psychological consent" (Burnett
+117). Justin Louis Mann's "pessimistic futurist" reading of the novel
+points the ways that subjugation and coercion partly revises the human
+contradiction.[fn:3] Mann explains that the sexual relationship
+between Lilith, Joseph, and Nikanj is crystalized in the image of
+Nikanj's "sensory arm" wrapped around Lilith's neck, which she
+describes as "an oddly comfortable noose" (Mann 62). Mann points out
+that this noose, while drawing from history of subjugation and death,
+also evokes comfort, a kind of complacency with the highly pleasurable
+sexual experiences which Lilith enjoys with Nikanj. According to Mann,
+this complacency replaces the oppression of the human contradiction
+with coersion into physical pleasure (Mann 62).
+
+When Nikanj presents himself to Lilith, one might expect a split
+between her sexual desire and her determination to rebel against the
+forced interbreeding. But instead, one instead encounters their
+conflation, where Lilith welcomes her body's immediate, unconscious
+response to Nikanj's invitation. The conflation between embodied
+instinct and free will suggests a more fundamental collapse between
+physical sensation and mental experience. During the sex act, Lilith
+experiences a torrent feelings that leads her to question the
+objective reality of her experience. When Nikanj "plugs" into her and
+Joseph, she,
+#+BEGIN_QUOTE 
+[I]mmediately recieved Joseph as a blanket of warmth and security, a
+compelling, steadying presence.
+
+She never knew whether she was receiving Nikanj's approximation of
+Joseph, a true transmission of what Joseph was feeling, some
+combination of truth and approximation, or just a pleasant fiction. 
+
+What was Joseph feeling from her?
+
+It seemed to her that she had always been with him. She had no
+sensation of shifting gears, no "time alone" to contrast with the
+present "time together." He had always been there, part of her,
+essential. 308-309
+#+END_QUOTE
+What Lilith first feels as a physical presence, a "blanket of warmth"
+she builds into cognitive interpretation. When she begins to question
+the objective truth of her experience, whether Joseph shares in the
+same sensations, her doubt soon fades to reassurance. Physical
+presence transforms into a mental certainty: "he had always been
+there, part of her, essential."
+
+Meanwhile, Nikanj, who is mediating the experience, becomes
+imperceptible to the two of them:
+#+BEGIN_QUOTE
+Nikanj focused on the intensity of their attraction, their union. It
+left Lilith no other sensation. It seemed, itself, to vanish. She
+sensed only Joseph, felt that he was aware only of her. 
+
+Now their delight in one another ignited and burned. They moved
+together, sustaining an impossible intensity, both of them tireless,
+perfectly matched, ablaze in sensation, lost in one another. 308-309
+#+END_QUOTE
+Their sex dissolves the sense of time, space, and the distance between
+Lilith and Joseph, who she felt "was aware only of her." In the midst
+of this intensity, the intermediary which makes this fusion possible
+fades, leaving Lilith and Jospeh "lost in own another." Afterward,
+when Lilith asks if the sex is simulated, Nikanj explains that
+although sensory experience is shared between herself and Joseph,
+"Intellectually, he made his interpretations and you made yours." To
+this, Lilith remarks that she "wouldn't call them intellectual"
+(310-311). That Lilith questions whether her mental experiences are
+true or not, at the same time that she indicates their sensual nature,
+suggests the deep imbrication of the sensual and cognitive registers
+during the sex act. The direct neural connection creates a channel
+through which embodied sensation and intellectual interpretation can
+traffic.
+
+In human-alien sex, thed fusion between minds surfaces a sensation of
+exactly that which their neurological connection bypasses--the
+flesh. And paradoxically, in human-to-human sex, the flesh which
+facilitates contact also functions as an obstacle, creating the
+potential for miscommunication and misunderstanding. While humans must
+navigate through the flesh to attain unity, the Oankali bypass it
+entirely by routing directly into the brain's pleasure centers,
+eliminating the space for physical discomfort and even repulsion. This
+immediate connection facilitated by the ooloi offers, as Nikanj
+explains, it "a oneness that your people strive for, dream of, but
+can't truly attain alone" (359). The pleasures that come from physical
+sensation, the feeling of which is heightened in sex, is what enables
+the Oankali, to crave, rather than fear, difference. 
+
+The importance of bodily effects and sensations speaks to one critical
+debate about the influence of the body, in particular, the influence
+of biology, on identity and behavior in the novel. [fn:6] While
+critics mostly disagree on whether Butler deconstructs or reinforces
+biological categories and essentialist notions of behavior, they do
+agree on the primacy of heterosexuality, with Haraway claiming that
+"Heterosexuality remains unquestioned, if more complexly mediated"
+(380). [fn:7] I would suggest, however, that the bypassing of flesh to
+simultaneously invigorate fleshy sensation requires a new
+understanding of sexuality, one that disrupts the traditional
+boundaries of subjectivity. Here, I draw from Jayna Brown's emphasis
+on the flesh and how it opens possibilities for reconceiving
+subjectivity. According to Brown, while the senses "individuate us,
+demarcate our boundaries," they also "mark the ways our bodies are
+open. The body, the self, is porous, receptive, impressionable" (Brown
+14). In the novel, this openness to feeling is achieved by re-routing
+around the flesh and its senses, the traditional channel for feeling,
+in a way that emphasizes that which it bypasses. The effect is to
+transform cognitive and conceptual phenomena into physical, sensual
+experiences.
+
+Here, separateness is crucial for enabling connection. While direct
+connection can momentarily dissolve the boundaries of the individual,
+a distance between self and other energizes sensation and
+understanding. For example, when Lilith asks Nikanj to share its
+feelings of grief after Joseph's untimely death: "It gave her... a new
+color. A totally alien, unique, nameless thing, half seen, half felt
+or... tasted. A blaze of something frightening, yet overwhelmingly,
+compelling" (Butler 429). Despite their direct neural connection, the
+description here derives its expressive power on the quality of
+unknowability, using formations of liminality, ("half seen, half
+felt," "alien," "a new color"). Within the context of identity
+politics, Chicana scholar Norma Alarcón warns against the dangers of
+what she calls "ontologiz[ing] difference."  The challenge is to
+achieve connection without totally subsuming the other into totalizing
+and therefore oppressive paradigms of subjectivity. She explains that,
+"The desire to translate as totalizing metphorical substitution
+without acknowledging the "identity-in-difference," so that one's own
+system of signification is not disrupted through a historical concept
+whose site of emergence is implicated in our own history, may be
+viewed as a desire to dominate, constrain, and contain" (133). Rather
+than subsume alienness into familiar structures of knowledge, like the
+way that Lilith subsumes Jhadaya's tentacles into the similitude of
+the terrifying Medusa, the neural connection sustains the difference
+in the other.
+a
+** flesh
+Could the flesh, which poses a problem for intra-human connection,
+also offer a solution to this problem? In what follows, I explore two
+how two very different fields--Black Feminist Studies and Media
+Archaeology--offer critical methods for thinking through
+materiality. Black Feminist Studies explores the concept of the flesh
+within the context of slavery, while Media Archaeology explores the
+materiality of electronic media and processing. Though vastly
+different in focus, both areas of inquiry share a similar investment
+in reading into surfaces to see how they offer new modes for thinking
+and resistance. Their theorizations of materiality, which index a
+liminal space where meaning is simultaneously ascribed and obscured,
+will become the ground for my analysis of the intersections of
+hardware and software in my next and final section, "Skin."
+
+*** Black Feminist Studies
+In Black Feminist Studies, critics like Hortense Spillers, C. Riley
+Snorton, and Amber J. Musser read racial and gendered processes, a
+"symbolic order" or "American grammar," in Hortense Spillers words,
+ascribed to Black bodies since the violences of trans-Atlantic slavery
+(68). In her influential essay, "Mama's Baby, Papa's Maybe: An
+American Grammar Book," Spillers describes the Black body as a stack
+of "attentuated meanings, made in excess over time, assigned by a
+particular historical order" (65). The "severing of the captive body
+from its motive will," creates a what Spillers calls a "stunning
+conntradiction (67). Here, the contradiction is between the body's
+reduction to materiality, "reduc[ing] to a thing, becoming being for
+the captor," and the simultaneous layering of signification,
+"becom[ing] the source of an irresistible, destructive sensuality"
+(67). First, there is a reduction of the body to its bare
+physicality--into flesh--a material substance for labor and
+exchange. At the same time, however, this reduction also opens a
+possiblity for signification, which aspects of sensuality,
+objectificaiton, otherness, and powerlessness can be layered onto the
+flesh.  Spillers, and thinkers in Black Feminist Studies who build
+from flesh as the "zero degree of social conceptualization," call this
+simultaneous reduction and accumulation of meaning "pornotroping"
+(Spillers 67). The next critical move is to take what has been a
+method of reduction, what has been a tool for appropriating the
+complexity of real world objects for the purpose of exploitation
+toffff instead seek out moments of obfuscation or forclosure which is
+in tension with objectification. From the reduction of the Black body
+to flesh, Black Feminist Studies reads a resistance that is not quite
+empowerment, but which is also not subordination, something slippery,
+shifting, which multiplies rather than resolves meaning.
+
+I begin with the concept of "foreclosure," which Musser explains,
+involves "hold[ing] violence and possibility in the same frame"
+(12). Pushing against trends in Afropessimism that take the pornotrope
+as a foreclosure of Black subjectivity, Musser explores how
+foreclosure, the denial of access or knowledge, offers possibilities
+for new modes of relation. Attention to the violence of the pornotrope
+brings to the surface relations that are in tension with the desire to
+dominate, "allow[ing] us to see the radical potential of excess
+without flattening the violence at its core" (Musser 9). For example,
+a brilliant surface can foreclose access to interiority in a way that
+creates multiple registers of interpretation. Musser demonstrates this
+"surface effect" in the painting /Origin of the Universe 1/ (2012) by
+artist Mickalene Thomas, whose depiction of a female vulva references
+French painter Gustave Courbet's /Origine du Monde/ (1866). In
+Thomas's piece, the Black and rhinestone-encrusted vulva creates a
+brilliant surface as a "formal strategy of producing opacity" (Musser
+48). By instrumentalizing the opacity of surface effects, this work
+multiplies the potentiality of readings. Here, the foreclosure of
+interiority works alongside a more pronounced subtext of
+objectification about the commodification of the black female
+body. Musser asserts that to the rhinestones function simultaneously
+on two registers: first, their flashiness "as a reminder of the long
+association between black people and the commodity" (50); and second,
+as a brilliance that evokes wetness, suggesting sexual pleasure. Both
+possibilities exist not only side-by-side, but are in tension:
+#+BEGIN_QUOTE
+Thinking the rhinestone as a trace or residue of Thomas’s wetness and
+excitement allows us to hold violence, excess, and possibility in the
+same frame. Even as the source is ambiguous, the idea that rhinestones
+might offer a record of pleasure—-pleasure that is firmly constituted
+in and of the flesh—-shows us a form of self-possession. This self is
+not outside of objectification, but its embellishment and insistence
+on the trace of excitement speaks to the centrality of pleasure in
+theorizations of self-love. 63
+#+END_QUOTE
+The significatory system that commodifies the black vulva exists
+alongside a production of pleasure. This surface whose opacity seems
+to insist upon itself facilitates a simultaneity of registers,
+enabling a movement, or a shift, between one and the other, like a
+shifting between frames. This brilliant surface enables one to
+apprehend this movement from one frame to another, from "violence", to
+"excess," and finally, to "possibility."
+
+Foreclosing access to interiority creates a state where meaning is
+fugitive, where bodies slip in and out of signification. The concept
+of fugitivity, or escape, is based on a condition of commodification
+where Black bodies have undergone a reduction to exchange value, a
+condition that C. Riley Snorton calls the "fungible." Snorton argues
+this fungibility of black flesh turns bodies into "malleable matter,"
+enabling a fugitivity from markers of sex and gender (20). He
+illustrates this effect with stories of fugutive slaves, such as of
+Harriet Jacobs, whose escape from slavery in 1842 is documented in
+/Incidents in the Life of a Slave Girl/ (1861). Snorton explains how
+the "blackening" of Jacobs's face with charcoal endows her with a
+level of "fungibility, thingness" to pass as a man, even deceiving
+those who knew her well (Snorton 71). As oppposed to traditional
+racial "passing" that assumes a degrees of whiteness, the increase of
+blackness further reduces flesh toward a "gender indefiniteness" that
+enables escape (56). By undergoing a reduction, black flesh enables an
+escape from signification that simultaneously opens significatory
+potential. 
+
+This fungibility creates an almost chaotic state in which the black
+body becomes suceptible to multiple mappings of meaning and can
+therefore slip in and out of signification. Snorton offers up an
+example of the daguerrotype, an early photographic technology that
+involves using chemicals on silver plates. Snorton explains that
+dagguerotype offers "a visual grammar for reading the imbrications of
+'race' and 'gender' under captivity" (Snorton 40). It does so by
+flipping expectations about surface and depth: here, rather than
+perpetuating the idea that depth exists below the surface, the surface
+becomes a ground for the layering of depth. Snorton describes the
+effect of this this flip as creating an "unmappability" of meaning: 
+#+BEGIN_QUOTE
+... the daguerreotype provides a series of lessons about power, and
+racial power in particular, as a form in which an image takes on
+myriad perspectives because of the interplay of light and dark, both
+in the composition of the shot and in the play of light on the
+display. That the image does not reside on the surface but floats in
+an unmappable elsewhere offers an allegory for race as a procedure
+that exceeds the logics of a bodily surface, occuring by way of flesh,
+a racial mattering that appears through puncture in the form of a
+wound or covered by skin and screened from view. 40
+#+END_QUOTE
+The physical material of the image, that is the silvered copper plate
+of the daguerreotype, at once solidifies its ground and indexes a
+liminal space, what Snorton describes as the "unmappable elsewhere."
+The image of the daguerrotype, which changes according to angle and
+lighting, evokes the condition of racialization as "a procedure that
+exceeds the logics of a bodily surface" while nonetheless adhering to
+that surface, "a racial mattering that appears through puncture."
+Snorton's curious use of the word "puncture" perhaps revises Roland
+Barthes's concept of the "punctum," suggesting instead a lack of
+localization or circumscription to a specific point.[fn:8] That the
+image resists fixity is crucial for undersanding the way that the
+physical registers interact with symbolic ones in the collision of
+flesh and racialization.
+
+With quite different political focus, thinkers in Media Archaeology
+offer deep readings of digital media and technological processes to
+tease out the role of materiality in as hardware and software stacks
+and how they produce seemingly immaterial surface forms. N. Katherine
+Hayles, for example, resists assumptions about digital immateriality,
+which has been in production since the emergence of computing
+technologies in the mid-20th century. Media Studies theorist Friedrich
+Kittler famously encapsulates this idea of matterless media:
+#+BEGIN_QUOTE
+The general digitization of channels and information erases the
+differences among individual media. Sound and image, voice and text
+are reduced to surface effects, known to consumers as interface. Sense
+and the senses turn into eyewash. Inside the computers themselves
+everything becomes a number: quantity without image, sound or
+voice. /Grammophone/ 1
+#+END_QUOTE 
+Working to unflatten the "surface effects," Hayles's research traces
+how "information lost its body," that is, how information processing,
+the calculation and manipulation of symbols, displaces the physical
+matter upon which it relies. Hayles disarticulates the binary of
+information/hardware which, she argues, extends liberal humanist
+ideology of mind/matter into the "posthuman," where a dominant,
+unmarked rationality is privileged over embodied experience and
+especially, embodied difference. Whereas the liberal humanist subject
+is characterized by classical mind/body divisions and hierarchies that
+posit embodiment as separate from and subordinate to intelligence, in
+which the rational mind possesses a body, the postuman is
+characterized by informational patterns that inhabit a physical
+vessel, such as a body or a machine. According to Hayles, this
+progression from possession to inhabitation suggests that the next
+move will be to transcend the material realm altogether, as
+consciousness can be uploaded to a virtual space where life itself is
+infinite. As Hayles explains, "Information, like humanity, cannot
+exist apart from embodiment that brings it into being as a material
+entity in the world; and embodiment is always instantiated, local, and
+specific" ("Virtual Bodies and Flickering Signifiers", 1993, 91).
+
+*** Media Archaeology Studies
+In what follows, I will draw some parallels between Black Feminist
+Studies and Media Archaeology. The first parallel has to do with the
+concept of displacement, which is related to that of foreclosure. As
+Matt Kirschenbaum explains, "Digital inscription is a form of
+displacement... remov[ing] digital objects from the channels of direct
+human intervention" (86). Kirschenbaum uses the term "forensic
+materiality" to refer to the most innaccessible level of computer
+hardware, of the hard drive. Here, data is encoded in markings of one
+of two (binary) marks on a magnetized surface, a north polarity
+signifying "1", or a south polarity signifying "0". Examining these
+binary digits, or "bits," through magnetic force microscopy,
+Kirschenbaum notes that each one is unique: "The bits themselves prove
+strikingly autographic, all of them similar but no two exactly alike,
+each displaying idiosyncrasies and imperfections--in much the same way
+that conventional letterforms, both typed and handwritten, assume
+their own individual personality under extreme magnification" (62)
+That electronic data, at its core, corresponds to physical markings
+shatters the illusion of digital immateriality, of a stream of code
+all the way down.
+
+To trace the transformations of these physical elements as they travel
+up the software stack, Hayles offers the concept of "flickering
+signifers." Here, she brings Jacques Lacan's "floating signifier," the
+idea that a word does have a stable referent, but "floats" above a
+text and attains its meaning through a play of difference against
+other words, to illustrate the interplay between the immateriality of
+the screen and the materiality of the computer hardware. Rather than
+destabilize meaning, the flickering signifier dissolves the illusion
+of immateriality by grounding it to physcial signals that move through
+the software stack:
+#+BEGIN_QUOTE
+As I write these words on my computer, I see the lights on the video
+screen, but for the computer the relevant signifiers are magnetic
+tracks on disks. Intervening between what I see and what the computer
+reads are the machine code that correlates alphanumeric symbols with
+binary digits, the compiler language that correlates these symbols
+with higher-level instructions determining how the symbols are to be
+manipulated, the processing program that mediates between these
+instructions and the commands I give the computer, and so forth. A
+signifier on one level becomes a signified on the next... "Virtual
+Bodies" 77
+#+END_QUOTE
+Hayles's description of this "flexible chain of markers" materializes
+the various levels of transformation that digitized inscription must
+undergo in order to reach the level of the screen (/Posthuman/
+31). First, physical traces on a magnetic surface are mapped into
+low-level machine languages which are illegible to human
+readers. Then, these patterns are translated into Assembly languages
+that pertain to the computer's Central Processing Unit (CPU), the main
+processor that executes instructions, arithmetic, and logic. Finally,
+as data moves up the stack, it abstracts into high level programming
+languages like Python and JavaScript and their effects on the screen,
+which humans interact with in the form of the Graphical User Interface
+(GUI). While apparently immaterial text and objects have a "tendency
+toward unexpected metamorphoses, attenuations, and dispersions," they
+are grounded in a physical reality (Hayles, "Virtual Bodies," 76).
+
+To challenge the "illusion of immaterial behavior," the illusion that
+objects on the screen appear, disappear, and move without a physical
+origin, Kirschenbaum offers the concept of "formal materiality"
+(11). While forensic materiality consists of physical inscriptions,
+such as magnetic traces on hard drives, formal materiality describes
+these traces as they are computed up the software stack, through
+levels of programming languages toward specific interface effects on
+the screen. It describes not only display and appearance, but also the
+way that these are deliberately produced to reinforce fluidity and
+ephemerality. Kirschenbaum explains that as data moves up the stack,
+it is continually refreshed to fix errors and idiosynracies that occur
+during transmission. As a result, formal materiality on the screen
+"exist[s] as the end product of long traditions and trajectories of
+engineering that werer deliberately undertaken to achieve and
+implement it (137). He likens this process of data normalization older
+technologies like the telegraph that use relay systems to reinforce
+signals over long stretches of transmission. As data moves through
+electronic processing, signal "reinvigoration," a kind of "allographic
+reproduction," refreshes and standardizes it through approximation
+rather than exact copying, so that materiality is a "manufactured"
+phenomenon (136).
+
+Although the screen functions as a buffer between the user and the
+digital inscription, there is in actuality an inverse relationship
+between digital abstraction and tactile manipulation. The higher that
+data climbs up the levels of abstraction, the more manipulable it
+becomes, a state which Kirschenbaum calls "digital volatility"
+(140). For example, by dragging and right clicking on items on the
+screen, users can move, duplicate, or delete large quantities of
+data. Kirschenbaum explains this "dynamic tension... between
+inscription and abstraction, digitality and volitality" makes formal
+materiality more susceptible to movement and change than physical
+inscription, which remains inaccessible. Perhaps unintuitively, moving
+away from inscription is a move toward something that users can handle
+and "touch," as anybody who has dragged a file from one folder to
+another can confirm.
+
+Another more subtle force operates in the translation between one
+coding language into another--that of torque. Kirschenbaum describes
+this force as a "procedural friction or perceived difference... as a
+user shifts from one set of software logics to another"
+(13). Typically in physics, objects rotate along their pivot point,
+where the distributional weight is zero. Torque, however, is
+characterized by a rotational movement, combining energy from two
+directions: first, from the external force acting upon the object, and
+second, from the relation between the point of contact on the object
+and its pivot point, or the point along the object where it can be
+balanced.[fn:4] Torque therefore measures a force that relies on
+distance between the point of contact the object's center. Applied to
+data, this term refers to the gap between one signficatory system and
+another, such as a machine-level programming language and its a more
+abstracted language, or the rendition of the same on the screen, as
+data travels up the software stack.
+
+Each stage of data transformation instantiates a formal materiality, a
+flickering signifier which simultaneously depends upon and obscures
+the levels of forensic materiality below. Energized by a sense of
+volatility in data and by torque between software registers, this
+chain of transformations culminates at the screen, where the end user
+experiences them as visual and haptic effects. These "screen effects"
+of digital media relate to "surface effects" of the flesh in Black
+Feminist Studies. Here, critics read methods of resistance, such as
+foreclosure and unmappability, from the reduction of the body into
+flesh. In foreclosing access to interiority, the reduction to surface
+opens the possibility of fugitivity, where meaning escapes into
+irresolvable or incongruent registers. In the next section, I will
+demonstrate in practice how the concepts of flickering signifiers,
+volatility, and torque engage with those of foreclosure, fugitivity,
+and unmappability to read the screen effects in a hypermedia literary
+work, /skinonskinonskin/.
+
+** skin
+*** revision TODOs
+**** DONE SKIN: impose new schema
+     CLOSED: [2023-06-26 Mon 13:46]
+There is a tension between control and connection playing through the
+work. This tension emerges in "surface effects," like haptics. 
+
+Reading the underlying code deepens the interpretion of surface
+effects. Of conceptual objects that elude our manual control. Moving
+from one register (conceptual/logical) to another register
+(sensual/tactile).
+
+***** air.html -> multiplicity of movement, intractible movement
+- surface effect: challenges tactile ability, objects moving toward
+  and against like magnets.
+- The way the object move on the screen is influenced by the coding
+  logics below the surface. if/else statement in code reflects duality
+  of movement (either toward or against) and of the objects (there are
+  two figures).
+  - a simple if/else directive. *Conditional statement is a reduction*
+    of choices, of nuance to an either/or. All movement is defined by
+    a very simple yes or no condition. *Something that is binary and
+    very controlled can enable all kinds of movement*. There is an
+    escape here, something fugitive, in the way that *their bodies
+    eludes the mouse*. They cannot be caught.
+-> Racialization: 
+   - But there is also a reduction here, the two bodies are reduced to
+     small images, where the differences between them are visible but
+     minor, in shape and color.
+
+***** control.html -> lagging movement, uncontrollable 
+- surface effect: user manually turns Harvey's head, gets bits of alt
+  text.
+- this piece is about control -- it plays with the control of the
+  female body in the haptics that are sensual but laggy. The haptics
+  indicate that full control is not possible, there is something
+  intractible about it. 
+- there are multiple registers here, from the surface effects to the
+  code. The underlying code contains the full message. The surface
+  only shows parts which are incoherent.
+- the lack of control results from what's happening at the level of
+  software. Torque. 
+- Racialization: intractible control. Most likely by Harvey. 
+
+***** breath.html -> limitations of medium as enabling constraint
+- foreclosure of the software and hardware stack can also reinforce
+  physicality of medium.
+  - Love notes deliberately hidden in the code, meant to be displaced
+    and to be discovered.
+- compare with dialogue between them in "WHISPERING WINDOWS", which is
+  limited to just text, but at two different levels (public and
+  private) and imbued with tone, intimacy, reassurance. 
+  - The limitations of the communication medium facilitate a
+    sensuality. The limitation reinforces sensuality of the language,
+    of the utterance and of the tone.
+
+***** words.html -> flash foreclosure
+- Flash media is totally inaccessible, made up of machine code that is
+    unreadable to human eyes.
+- we can engage with it only through abstraction, where objects are
+  separated into components, into shapes, sounds, and movements.
+- What I call a total foreclosure, because underneath is completely
+  incomprehensible, a bytestream. 
+
+***** reduction of the black body
+- One surface effect is to turn depth of real physical objects in the
+  world into surface. 
+- Love is expressed in surface forms, "pixellust" or "ASCIIlust"
+  creating a "home for us" "in the network".
+- reduction to surface flattens aspects that might be obstacles in the
+  real world. Geography, culture, race. 
+-> this is the unmappable surface, where the signifier floats free of
+  its referent in the physical world. We cannot locate with precision
+  the skin color, hair color, country, as expressed on the screen.
+
+**** DONE SKIN: conclusion
+     CLOSED: [2023-06-26 Mon 15:50]
+
+
+*** /skinonskinonskin/
+**** intro
+Now, I turn to /skinonskinonskin/ (1999), a work of "net art" created
+by Auriea Harvey and Michaël Samyn, under their collaborative artist's
+name /Entropy8Zuper!/. /skin/ documents the inception of their love
+affair, which began in an internet chat room and evolved into a
+digital correspondence, or "digital love letters"
+("/skinonskinonskin/" /Net Art Anthology/). These letters took the
+form of individual web pages, designed by Samyn and Harvey, containing
+notes, images, and interative elements using early web tools and
+animation software, much of which is now defunct or unsupported. The
+Rhizome.org /Net Art Anthology/, where the work is preserved with
+emulator software, describes it as a "complex portrait of an artistic
+and romantic relationship that shows that online intimacy is as deeply
+felt, embodied, and full of risk and reward as any other form"
+("/skinonskinonskin/").
+
+/skin/ takes part in a body electronic work called "Electronic
+Literature," which is now practically inaccessible with modern
+technology. Electronic Literature, which spans several subgenres, like
+hypertext fiction, network literature, interactive fiction, and
+generative text share a common interest in expressing and exploring
+digitality as an aesthetic. This work, like many in Electronic
+Literature, is inaccessible to modern web browsers. Though most of it
+is written in HTML (HyperText Markup Language), which continues to be
+the default language for the web, it is animated by depreciated
+versions of JavaScript code and now obsolete Flash software. Besides
+the outdated code, it also has an incompatibility with platform, the
+Netscape 4 browser, which could run on both MAC and PC systems
+(rendering pages on both Harvey's Mac and Samyn's PC) at the
+time. Netscape's decline in the late 1990s and early 2000s brought
+with it the depreciation of HTML and JavaScript elements that
+characterized its associated web authoring tools and practices.
+
+In what follows, I embark on a close reading of the work's "surface
+effects," that is, the appearance and interactivity of objects and
+words on the screen. I emphasize how these elements facilitate a
+haptic engagement, a sense of touch and movement through the user's
+mouse. Then, I turn to the underlying source code, the HTML,
+JavaScript, and Flash files, to examine how the coding layer, another
+level of formal materiality, might influence the reading of the work's
+surface effects. Here, I explore how programming concepts and
+structures might enhance the reading of visible and interactive
+elements on the screen. I find that the different registers of
+abstraction across surface effects and code suggest a tension
+throughout the work between control and communication.
+
+**** air.html
+First, I examine "air.html" page, which depicts an animation of two
+small figures floating in black space. The two figures, which
+represent the Samyn and Harvey, float in a horizontal, flying position
+over a field of a field of rotating green lines, which evoke a
+rolling, cyber-landcape. Each figure can be moved by the cursor as it
+pans across the screen, attracting them like magnets. While they slide
+effortlessly in all directions, coaxing precise movements from the
+figures requires precise mouse manipulations that challange the user's
+tactile ability. By using slow movements, the user can bring the
+individual bodies into contact, but they can never cross each other,
+or cross to the other's side of the screen. Samyn's body remains
+confined to the left, while Harvey's is to the right. [SEE GIF] The
+initial illusion of free floating, therefore, is deceiving.
+
+[include gif of air.html]
+
+This animation is defined in the source code of the page, in a series
+of functions written in JavaScript, the standard language for defining
+interactive elements on web pages. Below is an excerpt of one
+JavaScript function called ~flyMouse()~:
+
+#+BEGIN_SOURCE
+if ( mouseX < halfW )
+
+	{
+
+	var mFactor = 0.1;
+
+	var aFactor = 0.01;
+
+	}
+
+else
+
+	{
+
+	var mFactor = 0.01;
+
+	var aFactor = 0.1;
+
+	};
+
+...
+
+dMove('flyingmL','document.',mLeft + thisXDiff*mFactor,mTop + 
+thisYDiff*mFactor);
+
+...
+
+dMove('flyingaL','document.',aLeft + thisXDiff*aFactor,aTop + thisYDiff*aFactor);
+#+END_SOURCE
+The direction and speed of the bodies' movement hinges on the if/else
+statement above. An "if/else" statement, or conditional statement, is
+a core construct in programming, which exists across many programming
+languages. The conditional statement determines the "control flow," or
+the order of operations, in a block of code based on whether a
+specific condition is true or whether it is false. Underlying the
+if/else statement is the Boolean data type, which can be either ~True~
+or ~False~. Checking whether a condition is ~True~ or ~False~ enables
+programmers to write code that makes decisions, so to speak, to
+execute the relevant block of code that matches the condition. For
+example, an email inbox will display unread emails in bold formatting
+depending on whether or not that email has been opened by the
+user. Behind the scenes, an if/else statement checks if the email has
+been opened, and if it has, the email will render with regular
+formatting, and if it has not, it will render in bold formatting. In
+the if/else statement on "air.html," the movement of the bodies is
+conditional on their distance between the mouse and the original
+positioning of the bodies on either side of the screen. Depending on
+this distance, the magnetic force for each of the bodies is multiplied
+against a factor of .1 or .01. This results in a stronger movement
+from Samyn's body when the mouse is near Samyn's original position on
+the left side of the screen, and a stronger movement from Harvey's
+body when the mouse is on the right half of the screen, near Harvey's
+original position. The conditional statement is thus a reduction of
+possible choices to an either/or, where all movement depends on a
+simple yes or no condition.
+
+The binary nature of this conditional statement--it can be true or it
+can be false, and there are two resulting actions--reflects an
+animation that is, at its core, about a dual force. But this dual
+force, either attraction or repulsion from the mouse, enables movement
+across all directions of the screeen. The binary structure of the
+if/else statement, in which bodies move toward and against each other,
+thus faciliates a multiplicity of movement. In that movement, there is
+something intractible, something fugitive, about the way that the
+figures are drawn to but resist being controlled by the mouse. These
+figures, which have been reduced to two small pixelated images of
+Harvey and Samyn's naked bodies. Here, the movement by the hand and
+the oppsitional constraints which the user comes up against, engage
+the transformations that take place in the level of code.
+
+**** control.html
+If "air.html" plays with binary movement, another page,
+"control.html," plays with lag. The page consists of a monochrome
+green image of Harvey's head, which rolls from side to side in the
+direction of the user's cursor as it pans over the image. As the
+cursor moves, exposing Harvey's face at different angles, it also
+displays peices of "alt-text," short for "alternative text," triggers
+the displays descriptive text meant to stand in place of the image,
+for accessibility reasons and in the case that the image fails to
+load. The alt-text here contains words like "go" "believe" "ocean" and
+"mind," depending on the cursor's location over the image. The tactile
+qualities of this page, in which the user manually turns Havery's head
+from one side ot another with the cursor-as-hand, are further
+emphasized by the cursor itself, which appears as a pointing hand.
+
+[INSERT GIF]
+
+Looking into the source code, a couple of interesting things
+emerge. 
+
+#+BEGIN_SOURCE
+<AREA SHAPE=RECT ALT="i" HREF="#" COORDS="0,0,8,142"
+onMouseOver="strokeimage.src=stroke1.src ; window.status='i' ; return
+true">
+
+<AREA SHAPE=RECT ALT="believe" HREF="#" COORDS="8,0,15,142"
+onMouseOver="strokeimage.src=stroke2.src ;window.status='believe' ;
+return true">
+
+<AREA SHAPE=RECT ALT="in" HREF="#" COORDS="15,0,22,142"
+onMouseOver="strokeimage.src=stroke3.src ;window.status='in' ; return
+true">
+	
+<AREA SHAPE=RECT ALT="it" HREF="#" COORDS="22,0,30,142"
+onMouseOver="strokeimage.src=stroke4.src ;window.status='it' ; return
+true">
+	
+<AREA SHAPE=RECT ALT="you" HREF="#" COORDS="30,0,38,142"
+onMouseOver="strokeimage.src=stroke5.src ;window.status='you' ; return
+true">
+	
+<AREA SHAPE=RECT ALT="created" HREF="#" COORDS="38,0,46,142"
+onMouseOver="strokeimage.src=stroke6.src ;window.status='created' ;
+return true">
+	
+<AREA SHAPE=RECT ALT="it" HREF="#" COORDS="46,0,54,142"
+onMouseOver="strokeimage.src=stroke7.src ;window.status='it' ; return
+true">
+	
+<AREA SHAPE=RECT ALT="in" HREF="#" COORDS="54,0,63,142"
+onMouseOver="strokeimage.src=stroke8.src ;window.status='in' ; return
+true">
+	
+<AREA SHAPE=RECT ALT="my" HREF="#" COORDS="62,0,69,142"
+onMouseOver="strokeimage.src=stroke9.src ;window.status='my' ; return
+true">
+	
+<AREA SHAPE=RECT ALT="mind" HREF="#" COORDS="69,0,78,142"
+onMouseOver="strokeimage.src=stroke10.src ;window.status='mind' ;
+return true">
+	
+<AREA SHAPE=RECT ALT="my" HREF="#" COORDS="79,0,88,142"
+onMouseOver="strokeimage.src=stroke11.src ;window.status='my' ; return
+true">
+	
+<AREA SHAPE=RECT ALT="mind" HREF="#" COORDS="88,0,97,142"
+onMouseOver="strokeimage.src=stroke12.src ;window.status='mind' ;
+return true">
+	
+<AREA SHAPE=RECT ALT="cannot" HREF="#" COORDS="97,0,105,142"
+onMouseOver="strokeimage.src=stroke13.src ;window.status='cannot' ;
+return true">
+	
+<AREA SHAPE=RECT ALT="let" HREF="#" COORDS="105,0,113,142"
+onMouseOver="strokeimage.src=stroke14.src ;window.status='let' ;
+return true">
+	
+<AREA SHAPE=RECT ALT="it" HREF="#" COORDS="112,0,121,142"
+onMouseOver="strokeimage.src=stroke15.src ;window.status='it' ; return
+true">
+	
+<AREA SHAPE=RECT ALT="go" HREF="#" COORDS="121,0,131,142"
+onMouseOver="strokeimage.src=stroke16.src ;window.status='go' ; return
+true">
+	
+<AREA SHAPE=RECT ALT="the" HREF="#" COORDS="131,0,140,142"
+onMouseOver="strokeimage.src=stroke17.src ;window.status='the' ;
+return true">
+	
+
+<AREA SHAPE=RECT ALT="ocean" HREF="#" COORDS="140,0,149,142"
+onMouseOver="strokeimage.src=stroke18.src ;window.status='ocean' ;
+return true">
+	
+<AREA SHAPE=RECT ALT="the" HREF="#" COORDS="149,0,155,142"
+onMouseOver="strokeimage.src=stroke19.src ;window.status='the' ;
+return true">
+	
+<AREA SHAPE=RECT ALT="waves" HREF="#" COORDS="155,0,160,142"
+onMouseOver="strokeimage.src=stroke20.src ;window.status='waves' ;
+return true">
+	
+<AREA SHAPE=RECT ALT="its" HREF="#" COORDS="160,0,165,142"
+onMouseOver="strokeimage.src=stroke21.src ;window.status='its' ;
+return true">
+	
+<AREA SHAPE=RECT ALT="a" HREF="#" COORDS="165,0,174,142"
+onMouseOver="strokeimage.src=stroke22.src ;window.status='a' ; return
+true">
+	
+<AREA SHAPE=RECT ALT="vision" HREF="#" COORDS="174,0,181,142"
+onMouseOver="strokeimage.src=stroke23.src ;window.status='vision' ;
+return true">
+#+END_SOURCE
+
+The surface of the peice only reveals part of the full message. First,
+while most pages contain an author, title, and date, this one only
+contains a title, "you:controlMe." It seems that the page was created
+by Harvey addressing a message for Samyn to "control" her by moving
+her face back and forth across the image. Second, the source code
+reveals that the animation consists of 23 images, each of which is
+associated with a specific alt-text and coordinate. Here, the full
+message of the alt-text, which is hidden from the screen, appears in a
+list like formate: "i believe in it you created it in my mind my mind
+cannot let it go the ocean the waves its a vision." Each of these
+images and its associated message is tied to a specific coordinate on
+the screen's surface, which activates the relevant image and
+alt-text. Thus the effect of Harvey's head moving across the screen is
+in reality an image that has been activated by the mouse on a specific
+coordinate and has been super-imposed on the screen. Rather than
+represent a smooth movement from side to side, Harvey's head takes
+little jumps from one position to another. The effect is a slight lag,
+a series of fleeting pauses that intensify Harvey's direct gaze into
+the camera.
+
+When we examine the source code, we see that this peice is about
+control, specifically, with control over the female body. It deploys
+layers of foreclosure, where the source code contains the full message
+and workings of the animation, to create a haptic effect that is
+sensual but laggy. The haptics with the mouse indicate that full
+control of Harvey's head and full access to the message is not
+possible, there is something intractible about it. What's happening at
+the level of code influences this screen effect. 
+
+**** breath.html
+Below the overt narrative of surface effects, lies another narrative
+within the source code, where hidden messages mix natural language
+with computer language to make verbal exhortations of love. On one
+page, "breath.html," the surface effects consists of an animated male
+torso that swells slightly and emits a breathing sound when the mouse
+pans over it, accelerating with each swipe of the mouse. The effect is
+sensual, tactile, and auditory. In within the the HTML and JavaScript
+that defines the content and animations in the source code are words
+meant only for human eyes: a list of "whispers," romantic
+protestations like "i will love you forever" and "i want to breath
+you." Unlike "control.html," these messages do not manifest directly
+on the browser, but only appear in the pages's source code: 
+#+BEGIN_SOURCE
+whispers[0] = "breath me";
+
+whispers[1] = "i will love you forever";
+
+whispers[2] = "skin";
+
+whispers[3] = "skin on skin";
+
+whispers[4] = "skin on skin on skin";
+
+whispers[5] = "implode";
+
+whispers[6] = "soft";
+
+whispers[7] = "slow";
+
+whispers[8] = "can you feel me?";
+
+whispers[9] = "touch me";
+
+whispers[10] = "one more cigarette";
+
+whispers[11] = "i am so open";
+
+whispers[12] = "i want to feel you inside of me";
+
+whispers[13] = "smoke";
+
+whispers[14] = "i want to breathe you";
+
+whispers[15] = "we are smoke";
+
+whispers[16] = "yesss";
+
+whispers[17] = "deeper";
+
+whispers[18] = "i am disappearing";
+
+whispers[19] = "warm";
+#+END_SOURCE
+Musser describes foreclosure as an overflow of surface effects that
+precludes access below the surface. She describes the effect of
+foreclosure as encouraging alternative modes of relationality.  This
+peice not only demonstrates how computer screens inherently contain a
+level of foreclosure that masks inaccessible elements in the source
+code. It also suggests that displacement opens further channels for
+communication. Here, the works title, in the source code. It also
+suggests that displacement opens further channels for
+communication. Here, the work's title, "skin on skin on skin," is
+reserved for the curious user to come and find them in the source
+code.
+
+**** whispering windows
+The foreclosure of the surface can open up sensual possibilities for
+communication across electronic media. An early chatroom conversation
+between Samyn and Harvey, published on their website under the title
+"Whispering Windows," uses two modes for communication. Samyn, under
+the username /zuper/, writes under a private mode, while Harvey, under
+/womanonfire/, uses the public one. If there are others in the
+chatroom, they have been removed from the transcript. The chat
+records their frustrated attempts to connect video and sound:
+#+BEGIN_QUOTE
+womanonfire: the sound is a bit distorted with these things
+
+zuper: (private) yes
+
+womanonfire: if no one was around me here
+
+zuper: (private) the image is distorted too
+
+womanonfire: i would speak to you
+
+zuper: (private) but that's ok
+
+womanonfire: yes!
+
+womanonfire: these are all part of our relationship
+
+womanonfire: these limitations
+
+womanonfire: we must
+
+zuper: (private) 26 letters, no sound, no image
+
+womanonfire: learn new ways
+
+zuper: (private) make DHTMLove to me... http://entropy8zuper.org/
+#+END_QUOTE
+The limitations of the medium, the "26 letters" of the alphabet and
+their appearance on the screen, are the only material for "making
+love."  These limitations, however, work to emphasize a sense of
+intimacy between the conversants. /womanonfire/ tends to cut her
+syntax into pithy expressions like "these limitations" and "we must"
+that arrest her thought and restart it on the next line. /zuper/
+responds in "private" mode with gentle reassurances ("but that's
+okay") and encouragement that sustains and reinforces her thoughts
+("make DHTML love to me"), and read like a whisper. Reduced to digital
+character on a screen, the love affair expresses a strong sense of
+intimacy and mutuality. It is because of the limitations of the
+medium, that elements like tone and syntax are magnified and able to
+portray this level of closeness.
+
+**** words.html
+Some levels of displacement are so removed that they can only be
+engaged through abstraction. On example appears on "words.html." This
+page, created by Samyn on Valetine's Day, 1999, displays a beating
+heart overlaid with phrases that fly in various arcs from the
+center. The JavaScript code for this page does reveals the workings of
+the animation: first, the phrases, which will arc over and around the
+beating heart, are saved into a list format. Then, a series JavaScript
+functions accomplishes the following in turn: it selects words from
+their position on the list, then calculates their trajectory across
+the screen, then the time limit for their movement, and finally resets
+their position to restart the loop.[fn:5] Below is an excerpt of the
+source code (the function ~floatWord()~) that defines this animation:
+#+BEGIN_SOURCE
+function floatWord(thisNumber)
+
+{
+
+var randTime = (rand(15) + 5 )*1000;
+
+var thisRand = rand(4);
+
+if ( thisRand == 1 ) { 
+dMoveStraight('wordL'+thisNumber,'document.',-100-rand(100),rand(stageH),randTime,'wordVal'+thisNumber,'rePos(' +
+thisNumber + ');',''); }
+
+else if ( thisRand == 2 ) {
+dMoveStraight('wordL'+thisNumber,'document.',rand(stageW),-20-rand(100),randTime,'wordVal'+thisNumber,'',''); }
+
+else if ( thisRand == 3 ) {
+dMoveStraight('wordL'+thisNumber,'document.',stageW + rand(100),rand(stageH),randTime,'wordVal'+thisNumber,'rePos(' + thisNumber + ');',''); }
+
+else if ( thisRand == 4 ) {
+dMoveStraight('wordL'+thisNumber,'document.',rand(stageW),stageH + rand(100),randTime,'wordVal'+thisNumber,'',''); }
+
+if ( rand(4) == 1 ) { dShow('wordL'+thisNumber,'document.','visible'); };
+}; "words.html"
+#+END_SOURCE
+JavaScript, a notoriously complex language by today's standards, was
+relatively more convoluted in 1999. But even more inaccessible than
+the code animating the words is that animating the beating heart. The
+visual and sound effect of its beat is created with Flash, an
+animation authoring tool that was widely popular in the late 1990s and
+early 2000s. Flash gained popularity for its ability to deliver
+relatively advanced graphics (such as video and sound) at a time when
+media-rich content traveled slowly over the web. Over the last 10
+years, however, the development of newer, more efficient and secure
+animation technologies brought Flash into obsolescence. On December
+31st, 2020, the software was officially discontinued, though it had
+already been functionally replaced with updated versions of HTML and
+Javascript that could deliver what Flash offered in much more
+flexible, portable, and efficient ways. This termination, however,
+made a generation of internet games, net art, and electronic
+literature nearly completely inoperable. Today, the only way to view
+Flash content in something like its original context is through
+plugins or emulators, like the one hosted on /Rhizome.org/ that
+enables viewers to read /skin/ through a Netscape 4 window.
+
+[SEE IMAGE/GIF of BEATING HEART] 
+
+Leaving aside its obsolescence, Flash code is a highly inaccesible
+software. This is due to Flash code being a binary code format, unlike
+text-based code like HTML and JavaScript, which is human-readable and
+renders in the source code of web pages and in text-editor. If a Flash
+file is opened in a text editor, it would appear as an
+incomprehensible stream of obscure characters and symbols, some of
+which the text editor may recognize, and others which the editor would
+display as a question mark. For example, the below image displays a
+flash file (which usually have an ".swf" or ".fla" extention) that
+defines the sound animation of of the heatbeat:
+
+[IMAGE OF TEXT EDITOR OF OF HEARTBEAT.SWF]
+
+Because this code is unreadable to the human eye, it requires specific
+authoring software to work with it. A "Flash Decompiler" program, for
+this purpose, offers an interface for seeing the components of a Flash
+file without having to work with the machine code layer. In the below
+image of one such program, the file is separated into individual
+components like "sounds," "frames," and "scripts," visible on the left
+sidebar. The interface here abstracts the machine code so that humans
+can make sense of it. For example, one can make changes to the
+animation, such as distort the sound of the heartbeat which is
+contained within the "frames" component.
+
+[IMAGE OF FLASH DECOMPILER INTERFACE ON "HEARTBEAT.SWF"]
+
+The Flash elements throughout this work, which appear on many of its
+pages, illustrate the displacement inherent to electronic media. In
+order to work with Flash media, abstraction is necessary. Objects on
+the screen are separated into components, into shapes, sounds, and
+movements. But these components themselves are surface
+effects. Immediately beneath them is a bytestream, a torrent of
+symbols and characeters that cannot be read with human eyes. The
+object can be rendered in with the decompiler is only another kind of
+surface effect. This is an example of total foreclosure of formal
+materiality of the technological stack, a kind of foreclosure that
+points to physicality of the surface.
+
+**** reduction of the black body
+Another surface effect is to turn the depth of real physical objects
+in the real world into surface. This especially includes physical
+objects or realities that create communicative barriers. In another
+online chat, Samyn and Harvey revel in the intimacy that this mode of
+communication enablesw, even while struggling with the limitations of
+the audio and video and video connection:
+#+BEGIN_QUOTE
+womanonfire: i wonder wht your voice is like
+
+zuper: my voice?
+
+zuper: let's try
+
+zuper: it's weird to talk in a silent office at night
+
+womanonfire: yes
+
+womanonfire: i can just barely make you out
+
+womanonfire: how fitting
+
+womanonfire: it sounds so far away but you feel so close
+
+zuper: yes
+
+zuper: i am close
+
+zuper: i don't understand myself
+
+womanonfire: i will write you a very long letter tonight
+
+zuper: I'm falling in love with a 160x120 pixel video...
+
+zuper: Yes please write me a long letter
+
+womanonfire: it is dificult for me here right now
+
+zuper: why is it difficult?
+
+womanonfire: i was just about to write one about this
+
+womanonfire: because i love you
+
+zuper: ...
+
+womanonfire: seems so 
+
+womanonfire: strange
+
+womanonfire: maybe it is lust
+
+womanonfire: i cant tell anymore
+
+zuper: pixellust?
+
+womanonfire: right
+
+zuper: I my case only ASCIIlust...
+
+womanonfire: but i want to make a home for us
+
+womanonfire: in the network
+#+END_QUOTE
+The relationship between /womanonfire/ and /zuper/ is completely
+constrained by restrictions. That /womanonfire/ "can just barely
+make...out" /zuper/ is "fitting" because the physical barriers that
+separate their connection are considerable. Yet, /zuper/ responds that
+he feels "so close" despite his distance, a phenomenon which he
+"doesn't understand [himself]". Perhaps the reason can be traced to
+the surface effects of their communication, to the objects on the
+screen which enable a "pixellust." That they question whether the
+connection is really love, or if it's lust reinfoces a magnetic
+quality that this physically tenuous connection, which is full of
+network lags and failures, can enable. Later on in the conversation,
+the strength of their surface connection, which overcomes geography,
+seems to overcome additional obstacles like language difference and
+race:
+#+BEGIN_QUOTE
+zuper: (private) I realised today that I have never been in love with somebody who doesn't speak Dutch before.
+
+womanonfire -> zuper: i have never been in love with someone in another country before
+
+zuper: (private) I have never been in love with someone with green dreadlocks before
+
+zuper: (private) let alone black skin
+
+womanonfire -> zuper: yes i hope you wiwll like my skin
+
+zuper: (private) I already do.
+
+womanonfire -> zuper: :) http://entropy8zuper.org/ 
+#+END_QUOTE
+The question of race becomes one in a list of other attributes like
+hair color or speaking another language. Here, the reduction of their
+communication to letters on a screen flattens physical aspects that
+would otherwise be obstacles. This flattening of attributes like hair
+and skin color severs them from their location on the physical body,
+instead transposing them to words on a screen. Separated from the
+referent, they flicker atop the highest level of computational
+abstraction. Loosened from its physical manifestation, these
+attributes reside somewhere like Snorton's "unmappable elsewhere," a
+place that cannot be pinned down. This surface effect, that of
+reduction, creates a tenuous connection between the signifier and the
+signified. This tenuous connection, while buffeted by concerns about
+connectivity that plague the chat, is nonetheless made possible by
+network technologies.
+
+**** conclusion
+How does race operate on the same register as hair color and language?
+Like the bypassing of flesh in "Sex," the foreclosure of depth
+paradoxically creates a flattening effect that reinforces physicality
+of the uppermost layer, of the surface, the "skin." 
+
+Through vastly different methods, both /Dawn/ and /skin/ explore a
+kind of desire that bypasses the physical body with the effect of
+magnifying embodied sensation. In /Dawn/, the body proves to be an
+obstacle for communication, for the gap between bodies stokes a
+debilitating fear of the other that manifests as racialization. This
+obstacle is temporarily overcome in the neural connection that the
+Oankali facilitate between human partners. In /skin/, the physical
+body is also bypassed, but in this case, for a connection across
+geographic barriers. Bringing these two texts together enables me to
+think through materiality across various contexts, from the
+physiological, to the technological, and finally, to the social. The
+collapse of mind/body distinction in /Dawn/, and the way this collapse
+affects social relations, offers possibilities for reading materiality
+into seemingly immaterial media effects in /skin/. These readings, in
+turn, off an analogue for understanding how racialization operates
+through plays between matter and meaning.
+
+In the "Sex" section, I examine a sensuality that can only be achieved
+by bypassing the flesh. In the scrambling of sense and thought in the
+sex scenes, where participants cannot differentiate between physical
+sensation and mental experience, everything becomes a physical
+phenomenon. This paradox in which sensuality is made possible by the
+bypassing of flesh reveals a new ethics that prioritizes pleasure at
+the cost of consent.
+
+In the "Flesh" section, I explore how the reduction of body to flesh,
+a process that began during the violences and atrocities of the Middle
+Passage, creates an opportunity for rethinking the political potential
+of sensuality and the surface. Here, I examine how the concept of the
+Pornotrope creates a ground for new theorizations of meaning and
+materiality where exploitation and pleasure co-exist. The "surface
+effects" from this section include strategies like foreclosure,
+fugitivity, and unmappability--strategies in which the Black flesh,
+reduced to surface, is imbued with an intractible significatory
+potential.
+
+The theorization of surface effects then becomes a ground for
+understanding how physical registers interact with symbolic ones in
+the "Skin" section, where I analyze the net art work,
+/skinonskinonskin/ (1999). Here, I read surface aesthetics into
+multiple layers of formal materiality, such as the computer screen,
+but also in programming and machine language logics and structures. My
+readings find a tension between control and communication throughout
+the work, echoing the tension between pleasure and violence in the
+previous sections. The tactile qualities of the net art work, where
+the user can manipulate objects on the screen with her mouse, is
+complicated by laggy or intractible effects created by the parameters
+and structures of the underlying code. The displacement of certain
+elements like hidden messages reinforces the levels of formal
+materiality that operate throughout the stack with varying degress of
+accessibility. At times, total foreclosure precludes access to
+subordinate levels of abstraction, where formal materiality gives way
+to the forensic level of illegible characters and magnetic traces. In
+this state, objects are in tension with the signified, and the surface
+itself enables a kind of chaotic state, where everything becomes
+skin. This reduction enables racialized flesh to harness the chaos of
+significatory possibility. Here, digital objects, distillations of
+real world referents, become imbued with expressive potential.
+
+** unstructured fragments
+
+**** haptics
+Throughout this work, the user engages with HTML and JavaScript code
+via haptics on the browser. The source code endows digital "objects"
+with properties and methods so that they can become manipulable at the
+level of surface. These constructs, which are defined under the hood
+of the browser, enable sensual experiences for the user. 
+
+**** foreclosure / displacement
+The surface effects of the screen engage elements within the code,
+which are inaccessible to the general user, to surface additional
+layers of foreclosure.
+
+This screen surfaces a displacement inherent in all
+significatory systems but particularly in machine language systems,
+which rely on levels of abstraction in its software stack.
+
+**** obsolete elements
+Due to modernization, the browser languages HTML and JavaScript use
+now depreciated elements like ~<layers>~ and ~<area>~ to add
+animation. Additionally, since Flash technology, a compiled software
+that is not "human-readable", has been discontinued, it is very
+difficult to find solutions for editing and viewing Flash elements.
+
+**** Hayles on data traveling up the stack
+Hayles points out that, "Precisely because the relation between
+signifier and signified at each of these levels is arbitrary, it can
+be changed with a single global command" (Hayles, "Virtual Bodies"
+77).
+
+Flickering signifiers bring consideration of "transformations" into
+view. though I do think she is underestimating the "matter," "energy"
+which goes into it. 
+#+BEGIN_QUOTE
+When a text presents itself as a constantly refreshed image rather
+than durable inscription, transformations would occur that would be
+unthinkable if matter or energy, rather than informational patterns,
+formed the primary basis for the systemic exchanges. This textual
+fluidity, which humans learn in their bodies as they interact with the
+system, imply that signifiers flicker rather than float. 30
+#+END_QUOTE
+
+In this movement up the stack, data shifts
+between registers and becomes more tangible, a process that is belied
+by the fleeting and diaphanous forms that finally emerge on the
+computer screen.
+
+Due to this appearance, the flickering signifier perpetuates a liberal
+humanist ideology about the body/mind separation into the posthuman
+one of hardware/code. Just as the mind rules the fleshy body, so the
+/code/ represents a an insubstantial standard that drives computation.
+
+Thinking about the illusion of digital materiality on the screen,
+N. Katherine Hayles wonders, "Why do we talk and write incessantly
+about the 'text,' a term that obscures differences between
+technologies of production and implicitly promotes the work as an
+immaterial construct?" ("Flickering Connectivities" 2000,
+par. 57). 
+
+
+
+
+* Works
+Ackerman, Erin.
+
+Alarcón, Norma. "Conjugating Subjects in the Age of Multiculturalism"
+/Mapping Multiculturalism/. Avery F. Gordon and Christopher Newfield,
+editors. University of Minnesota Press. pp. 127-148.
+
+Barnes, Stephen.
+
+Barthes, Roland. /Camera Lucida/.
+
+Brown, Jayna. 
+
+Butler, Octavia. Dawn. Grand Central Publishing. 1987.
+
+Chun, Wendy. Control and Freedom: Power and Paranoia in the Age of
+Fiber Optics. 2006.
+
+Dunkley, Kitty. 
+
+Entropy8Zuper!. skinonskinonskin. Rhizome. https://anthology.rhizome.org/skinonskinonskin 
+
+Haraway, Donna. /Primate Visions/. 
+
+Hayles, N. Katherine. "Flickering connectivities in Shelley Jackson's
+Patchwork Girl: the Importance of Media-Specific Analysis," 2000.
+
+Hayles, N. Katherine. Writing Machines. MIT Press, 2002. p. 107.
+
+Jesser, Nancy. 
+
+Kirschenbaum, Matthew G. Mechanisms: New Media and the Forensic Imagination. MIT Press 
+2008.
+
+Mann, Justin Louis. 
+
+Moraga, Cherrie. "La Guera", from /Loving in the War Years: Lo que
+nunca paso' por sus labios/.
+
+Musser, Amber Jamilla. /Sensual Excess: Queer Femininity and Brown
+Jouissance/. NYU Press,
+2018. JSTOR, http://www.jstor.org/stable/j.ctvwrm5ws. 
+
+Musser, Amber Jamilla. "Surface-Becoming: Lyle Ashton Harris and Brown
+  Jouissance." /Women & Performance/, vol. 28,. no. 1. February 26, 2018
+  https://www.womenandperformance.org/bonus-articles-1/28-1-harris. 
+
+Ramirez, Catherine S.
+
+Sandoval, Chela. "U.S. Third World Feminism: The Theory and Method of
+Oppositional Consciousness in the Postmodern World."
+
+Schutte, Ofelia. “Cultural Alterity: Cross-Cultural Communication and
+Feminist Theory in North-South Contexts.” /Hypatia/, vol. 13, no. 2,
+1998, pp. 53–72.
+
+/skinonskinonskin/ (1999). Rhizome.org /Net Art Anthology/.
+https://anthology.rhizome.org/skinonskinonskin
+
+Snorton, C. Riley. Black on Both Sides: A Racial History of Trans Identity. University of 
+Minnesota Press, 2017. JSTOR, https://doi.org/10.5749/j.ctt1pwt7dz;
+
+Spillers, Hortense J. “Mama’s Baby, Papa’s Maybe: An American Grammar Book.” Diacritics, 
+vol. 17, no. 2, 1987, pp. 65–81. JSTOR, https://doi.org/10.2307/464747
+
+* Footnotes
+
+[fn:8] As opposed to the "studium," or subject, of a photograph, the
+"punctum" is a detail that "pierces" the viewer. See Barthes, /Camera
+Lucida/, 27.
+
+[fn:7] There is one exception to this view, from Patricia Meltzer, who argues
+that the trilogy, and its third installment specifically, presents a
+view of non-normative sexuality which can literally transform bodies
+at will. In this book, the human-Oankali constructs evolved the
+ability to manipulate organic matter within their own bodies, as
+shape-shifting beings who can adapt to their prospective partner's
+desires. Drawing from Judith Butler, Meltzer poses a body that is
+queer because it is constructed by desire:
+#+BEGIN_QUOTE
+"Butler's concepts here are positioned neither in a biological
+essentialism that insists on gender identity (woman) as derivated of a
+body's sex (female), nor in a social and/or psychological
+constructivism that udnerstands the body's materiality as dominated by
+(social) discourse. Instead, desire and sexuality are based in the
+body's need for others... the body follows desire. Meltzer 241
+#+END_QUOTE
+While other critics point out the disruptions to normativity, like in
+those in which the binary is destabilized, upended, where gender roles
+are reimagined, here Melzter draws out alternate visions for sex,
+gender, and desire altogether. Building from Butler's concept of
+performativity, Meltzer defines queerness as resisting the normative
+correlation of sex/gender/desire. The failure of easy alignment among
+these elements opens up the possibility of imagining how desire can
+construct new configurations of sexuality, that are "rooted in the
+body's amorphous craving for physical pleasure" (Melzter 236).
+
+I agree with Meltzer that the sex act is a queer one, but not because
+of a desire that literally transform bodies. Rather, the sex act is
+queer because of the way that it simultaneously bypasses and
+invigorates the flesh.
+
+[fn:6] As I have mentioned, one group of critics generally maintain
+that the novel destabilizes biological categories its associated
+assumptions about behavior, while a second argue that the novel
+reinforces biological determinist views. The first group emphasizes
+the novel's revision of biological determinist views, particularly
+when it comes to gender. "Gender," Haraway argues, "is not the
+transubstantiation of biological sexual difference," rather, it is
+"kind, syntax, relation, genre" (/Primate Visions/ 377). Critics who
+build Haraway's reading, like Catherine S.  Ramirez and Kitty Dunkley,
+explore how Butler deploys aspects of biological identity in a
+strategic way.  Ramirez explains that Butler strategically deploys
+essentialist identity categories, as a tool for "imagining and
+mobilizing new subjects and new communities" (395). Within the frame
+of humanism, Kitty Dunkley emphasizes Butler's revision the
+anthropocentric and patriarchial structures that necessitate essential
+notions of gender. An example is the men's fear of the sexual
+seduction and penetration by the ooloi, which "threatens to usurp the
+men’s position at the pinnacle of a gendered hierarchy" (Dunkley
+100). For both Ramirez and Dunkley, the biological "facts" of gender
+are deconstructed, rather than reinforced, in the novel. By constrast,
+Nancy Jesser centers the role of biological determinism within
+Butler's fiction. Jesser boldly asserts that "Genetics is the science
+of Butler's fiction. The translation of genotype to phenotype is the
+plot" (52). According to Jesser, the novel re-works genetic tendencies
+of behavior by deploying feminine traits, like maternal
+self-sacrifice, nurture, and relationality, to correct tendencies of
+dominance, possessiveness, and aggression typically displayed by the
+males (41-42). On this side of the debate, biology is a physical fact
+that determines behavior, but can also be re-worked or overcome
+through other tendencies.
+
+[fn:3] Mann argues that the novel evokes the concept of "pessimistic
+futurism," combining the cynicism of afro-pessimism, which associates
+blackness with ontological death and the impossibility of black
+subjectivity, and the optimism of afro-futurism, which speculates and
+potentializes liberatory black subjectivity and futurity.
+
+[fn:2] The criticism from the novel situates this interplay of
+similarity and difference within intersectional or "Women of Color"
+feminism, particularly in Chela Sandoval's theorization of
+"differential consciousness." Using terms that echo in her famous
+followup work, "The Cyborg Manifesto," Donna Haraway describes this
+text (and Butler's fiction in general) as being "about the monstrous
+fear and hope that the child will not, after all, be like the parent"
+(Haraway /Primate Visions/ 387). Catherine S. Ramirez builds from both
+Haraway and Chela Sandoval to explore the tension between essentialism
+and constructedness in the novel, which she calls an example of
+"cyborg feminism"--a feminism that explores a strategic tension
+between between "affinity and essence, and "plurality and specificity"
+(Ramirez 395). Ramirez argues that, by "critiqu[ing] fixed concepts of
+race, gender, sexuality and humanity, and, subsequently, 'fictions' of
+identity and community" this work displays a "strategic deployment of
+essence," that is, the claiming of a subject position for the purpose
+of resisting subjectification (Ramirez 375, 395).
+
+
+[fn:5] The first function, ~startMove()~, sets a series of timers that
+initiate and perpetuate the animation. The second function,
+~floatWords()~, loops through the list of words and phrases and passes
+individual selections from this list to the next function,
+~floatWord()~, which sets the trajectory and timing for their
+movement. Within this function, a call to ~rePos()~ repositions the
+word in a new location, to begin the cycle anew.
+
+[fn:4]  For example, one could balance a twelve-inch ruler by placing
+a finger under the sixth inch. By applying some force to the center of
+mass, the object would not pivot, but move in a linear direction,
+either up or down, or sideways, depending on the direction of the
+force. However, if external force was applied along either side of the
+center, say at the second inch, the object would pivot. Its direction
+would then be determined by its pivot point, whether that be its
+center of mass or the point where the object is affixed to another
+object, if the ruler were nailed to the wall, for example. In this
+case, the ruler would pivot around this point of attachment, and the
+force and direction of its pivot would be measured as "torque."
+
+[fn:1]  Hayles's influential text, /How We Became Posthuman: Virtual
+Bodies in Cybernetics, Literature, and Informatics/ (2000), lays out
+the "waves of cybernetic development," that is, the development of
+systems theory among prominant information and communication theorists
+like Norbert Wiener, John von Neumann, Claude Shannon, and Warren
+McCulloch (2).
+
+
+
