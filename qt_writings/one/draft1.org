@@ -1,45 +1,27 @@
 * one
 #+SEQ_TODO: TODO(t) WAITING(w) IN_PROGRESS(p) | CANCELLED(c) DONE(d)
 
-** chapter summary 
 
-"'A Melon, an Emerald, a Fox in the Snow': Quantifying Gender in
-Virginia Woolf's /Orlando: A Biography/"
+** /ABSTRACT/
 
-This chapter explores how text analysis, or "distant reading," might
-leverage computational processes to analyze literary material that
-expresses complex gender ontologies. It proposes a method for text
-analysis that engages Judith Butler's theory of Gender Performativity
-to study gender in Virginia Woolf's novel, /Orlando: A Biography/
-(1931).
-
-It begins by tracing how the adoption of quantitative methods to
-Literary Studies, creating what I call "the fantasy of falsifiable
-criticism," generally reproduces assumptions about gender binaries. I
-contrast this "falsifiable" approach with more experimental ones that
-use quantitative methods to deconstruct social categories like gender
-and race. Then, the middle portion of the chapter draws connections
-between computer programming and gender theory. First, it delves into
-python programming, focusing on the repetative processes for cleaning
-and regularizing text, as well as the transformation of words into
-numerical representations for quantitative processing, with the goal
-of bringing out the reductive and recursive quality of working with
-python code. It then moves to Judith Butler’s concept of gender
-performativity, which poses how gender expression might subvert
-traditional social structures through repeatedly acting out, or
-"performing," gender constraints in ways that deviate from the
+This chapter explores how the quantitative analysis of gender in text
+might leverage gender theory toward a new methodology. It explores an
+experimental approach that deconstructs gender binaries by drawing
+connections between computer programming and gender theory. First, it
+delves into the python programming language, focusing on the principle
+of iteration that drives cleaning and regularizing tasks, as well as
+the transformation of words into numerical representations for
+quantitative processing, with the goal of bringing out the iterative
+quality of working with python code. It then moves to Judith Butler’s
+concept of gender performativity, which posits how gender expression
+might subvert traditional social structures through repeatedly
+“performing” gender constraints in ways that deviate from the
 norm. Taking this shared quality of iteration between python and
-gender, I then propose a text analysis methodology for studying gender
-in /Orlando/. Here, I interweave distant and close readings of Woolf's
-text to illustrate how both text analysis and gender draw iteration as
-a logic and constraint for the production of meaning. The results of
-my text analysis reveal gender to be one dimension of a larger crisis
-of signification in the novel, which explores how language and gender
-are closely coordinated as tools for representing reality. I conclude
-by considering the limitations of this method, which poses gender as a
-discursive phenonmenon, and its place within a larger trajectory of
-Gender Studies since Butler's inaugural text.
-
+gender, it proposes a text analysis methodology that iterates through
+distant and close reading. It then concludes by considering the
+limitations of this method, which poses gender as a discursive
+phenomenon, and its place within a larger trajectory of Gender Studies
+since Butler's text inaugurating the field.
 ** intro
 
 The novel /Orlando: A Biography/ (1928), by Virginia Woolf, famously

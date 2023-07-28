@@ -1,0 +1,256 @@
+% Created 2023-07-25 Tue 12:50
+% Intended LaTeX compiler: pdflatex
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{grffile}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage{amssymb}
+\usepackage{capt-of}
+\usepackage{hyperref}
+\author{Filipa  Calado}
+\date{\today}
+\title{}
+\hypersetup{
+ pdfauthor={Filipa  Calado},
+ pdftitle={},
+ pdfkeywords={},
+ pdfsubject={},
+ pdfcreator={Emacs 26.2 (Org mode 9.1.9)}, 
+ pdflang={English}}
+\begin{document}
+
+\tableofcontents
+
+\section{conclusion}
+\label{sec:org47d4bce}
+
+\subsection{how to work with LLMs?}
+\label{sec:org6d4d1d3}
+\subsubsection{galatea 2.2}
+\label{sec:orge361898}
+\begin{itemize}
+\item form is random, and so is meaning, pattern matching
+\end{itemize}
+
+In the prescient 1995 novel \emph{Galatea 2.2}, by Richard Powers, a
+computer achieves artificial intelligence in much the same way that a
+chatbot does in 2023: by reading massive amounts of text. The novel's
+AI, which goes by the name of Helen, is trained by reading literature
+until she is proficient enough to pass a masters-level exam. For the
+exam's written portion--a poignant and perhaps angsty post-colonial
+critique of Caliban's speech from The Tempest--Helen directly
+addresses her human programmers: "You are the ones who can hear
+airs. Who can be frightened or encouraged. You can hold things and
+break them and fix them. I never felt at home here. This is an awful
+place to be dropped down halfway" (326).
+
+This question of AI sentience has been posed and answered repeatedly
+since humans first imagined intelligent machines half a century
+ago. One of these imaginations, Alan Turing's, finds the question of
+sentience to be problematic, because there is no general consensus for
+what constitutes thinking or feeling in the first place. Rather, he
+rephrases the question in his famous " Test" to one about
+performance—-to whether or not a computer can intellectually
+impersonate a human in order to trick another human. Turing neatly
+sidesteps not only the problem of intelligence, but that of
+consciousness, of defining consciousness which, he claims, only forces
+one into an exercise in solipsism.
+
+\subsubsection{current perspectives}
+\label{sec:orged7d6dc}
+Recently, however, the question about computer intelligence and
+sentience has resurfaced in discussions about LLMs (Large Language
+Models) and chatbots like ChatGPT. Most experts will answer that no,
+these bots cannot think or feel, or at least not yet. The ability to
+guess the next word in a sequence, rather than indicate an underlying
+consciousness, only reveals an advanced computer model that has
+consumed enough data to make accurate predictions about which word
+should follow another word. 
+
+Other experts, however, are reframing the way we think about this
+question. Literature and AI scholar Andrew Piper, for example, claims
+that "the relationship between language and thought is …  reversed in
+a language model." According to Piper, language may very well be the
+material from which concepts like agency and individuality are
+produced and constituted. He explains, "Usually we think an entity has
+wants and needs and then figures out methods to communicate them. A
+language model works the other way round. It has an extensive web of
+language and from that emerges a sense of wants and needs."
+
+Back in the novel Galatea 2.2, one of Helen's programmers, a computer
+scientist, explains to the other programmer, a fiction writer, how
+intelligence works:
+\begin{quote}
+We humans are winging it, improvising. Input pattern x sets off
+associative matrix y, which bears only the slightest relevance to the
+stimulus and its often worthless. Conscious intelligence is smoke and
+mirrors. Almost free-associative. Nobody really responds to anybody
+else, per se. We all spout our canned and thumbnailed scripts, with
+the barest minimum of polite segues. Granted, we are remarkably fast
+at index and retrieval. 86
+\end{quote}
+Anybody who has interacted with ChatGPT will know that there is a
+certain repetitiveness to its responses. In most cases, the bot's
+sentence structure will mirror that of the question. Is this exercise
+in mimicry the seed of consciousness? In the above dialogue, the
+fiction writer, quickly realizes a darker implication about—not
+computer—but human intelligence. He declares, "You're not elevating
+the machine, you’re debasing us" (86). To which the computer scientist
+smugly quips, "Have you read an undergraduate paper lately?"
+
+This seems self-evident to a literary scholar like my self, who has
+spent her career excavating meaning from expressive word forms. The
+idea has been made over and over by critical theorists--that language
+is the raw material for the creation of a subject. Basically, a
+subject does not express thoughts or feelings, but rather, patterns of
+thought and feelings are what bring a personality into
+being. Following this logic, a large-language model (LLM) might
+eventually accumulate something like a personality by spewing massive
+amounts of text.
+
+But other perspectives on AI “consciousness” exist. In Computational
+Linguistics, for example, the work of Emily Bender argues that so
+called "Artificial Intelligence" isn't intelligent at all, but just
+highly efficient at pattern matching. Bender has an intimate
+understanding of how computers process language, having spent her
+professional life studying languages and grammars with computational
+methods. The real danger of LLMs, which she has been repeating since
+her famous paper on "Stochastic Parrots,” is that they concentrate
+power, perpetuate systemic discrimination and oppression, and
+proliferate disinformation.
+
+According to Bender, is not that technology understands humans, but
+that humans misunderstand it. In an earlier paper, "Climbing Towards
+NLU," she and her co-author, Alexander Koller, explain that while LLMs
+may be adept at "learning" language patterns from processing large
+amounts of text data, they do not intuit intent. According to Bender
+and Koller, language meaning derives from a combination of expression
+and intent, a process summarized by the concise formula: M ⊆ E ×
+I. Bender maintains that intent is not contained within word forms,
+but is something external, which can only be deduced or imagined in
+the mind of the interlocutor. Becuase it is external, intent will
+alway remains inaccessible to computers, who are constrained to a
+training process that consists of passively processing text. Studies
+in language acquisition have already proved such this idea to be
+problematic, such as those that test language learning from watching
+TV.1 Humans must be active participants in order to construct meaning.
+
+For us, extrapolating intent is instinctual. We see meaning in
+everything. And as anybody who has taken a literature or history class
+knows, we especially see meaning in language. 
+
+\subsection{bias}
+\label{sec:org222aca0}
+\begin{itemize}
+\item who better than humanists to study bias?
+\item chiang's "understand," bias in language
+\end{itemize}
+
+That being said, I’m not convinced that we should ascribe a similar
+logic about humans and learning toward computers. Doing so overlooks
+other possibilities, particularly for studying the ways that LLMs
+perpetuate cultural bias.
+
+As any humanist scholar knows, are entire academic fields of study
+dedicated to different methods of critical analysis, such as
+psychoanalysis, to post-structuralism, to queer theory. Excavating
+meaning from the traces of history, from texts that might be severed
+from an explicit intention or known author, is something that
+humanists have been doing for centuries. Underwood suggests that LLMs
+might be used for comparative analysis, "not to mimic individual
+language understanding, but to represent specific cultural practices
+(like styles or expository templates) so they can be studied and
+creatively remixed."
+
+I would revise Underwood’s emphasis here: LLMs could offer
+opportunities for studying how language encodes and perpetuates bias,
+racism, and xenophobia in general. However, the powers who train and
+distribute the LLMs are not terribly interested in studying how
+language engages with bias, despite their statements to the
+contrary. Rather, they are interested in developing products that will
+be attractive to everyday people and businesses, such as the numerous
+tools already being developed from GPT-4 technology. The problem is
+that the race for monetize the tech uncritically reproduces biases
+from training set. Models built to ingest as much data as possible, as
+quickly as possible, will reproduce only the dominant view.
+
+That being said, if any group of people is equipped to deconstruct the
+ways that LLMs work to stifle minority experience, it is precisely
+people like Bender and Underwood, who have spent their careers
+studying how language creates and perpetuates power structures and
+social norms. It is the humanists, especially the ones in cultural and
+ethnic studies, who apply lenses from Queer, Black, Chicanx,
+Indigenous, and other minority perspectives as frameworks for
+analyzing cultural materials. If only a “pause” would divert support
+to the ones who are trained to do this necessary work.
+
+\subsection{interdisciplinarity}
+\label{sec:orgff5fc3b}
+\begin{itemize}
+\item to have a debate about the usefulness of LLMs, we need to blend the
+disciplines: math and language.
+\item finding alignment between formal systems: how does machine learning,
+as a formal system, work?
+\end{itemize}
+
+\subsection{language/knowledge alone does not move}
+\label{sec:org21089c9}
+\begin{itemize}
+\item sedgwick: what does knowledge do?
+\item space break: knowledge isn't enough, language cannot do
+\end{itemize}
+\subsubsection{space break}
+\label{sec:orgd955e70}
+
+The performative approach to language--the idea that language can
+produce meaning seems to hit its own limit at a specific point in the
+novel. At this point, the crisis of signification comes to a climax,
+when the biographer increasingly drops his pretension toward accuracy
+and boldly speculates:
+\begin{quote}
+‘Shel, my darling,’ she began again, ‘tell me…’ and so they talked two
+hours or more, perhaps about Cape Horn, perhaps not, and really it
+would profit little to write down what they said, for they knew each
+other so well that they could say anything, which is tantamount to
+saying nothing, or saying such stupid, prosy things as how to cook an
+omelette, or where to buy the best boots in London, things which have
+no lustre taken from their setting, yet are positively of amazing
+beauty within it. For it has come about, by the wise economy of
+nature, that our modern spirit can almost dispense with language; the
+commonest expressions do, since no expressions do; hence the most
+ordinary conversation is often the most poetic, and the most poetic is
+precisely that which cannot be written down. For which reasons we
+leave a great blank here, which must be taken to indicate that the
+space is filled to repletion. PAGE NUMBER
+\end{quote}
+The use of the space break, which is meant to signify everything that
+passes between Orlando and Shel and more (“it is filled to repletion”)
+functions by signifying nothing. According to critics like Katheryn
+N. Benzel, this moment creates literal space for the reader to fill in
+with her own interpretation of the scene. The text paradoxes, for the
+reader to resolve, such as “the most ordinary conversation is often
+the most poetic, and the most poetic is precisely that which cannot be
+written down.” As a formal device, the space break, in Smith’s words,
+“bemoan[s] the inadequacy of language” (Smith 68).
+
+Here the narrator is saying that language doesn't execute -- it does
+not enact. Its pithyness, just four words which begins with the
+conditional "since" and the enactive "do," evoke a kind of
+programmatic logic. And this programmatic logic hits its own
+limitation, it can mean, it can even produce meaning, but it cannot
+do. 
+
+\section{works}
+\label{sec:org3465039}
+Piper, Andrew \emph{\_akpiper}. "There is so much to say about the @nytimes
+ \#BingChat transcript. That so many people are drawing on literary /
+ film references to make sense of what is going on is telling." Feb
+ 16, 2023. \url{https://twitter.com/\_akpiper/status/1626239843905974274}
+\end{document}

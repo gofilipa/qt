@@ -545,8 +545,10 @@ Benjamin, Ruha. /Race After Technology: Abolitionist Tools for the New
 Jim Code/. Polity, 2019.
 
 Blas, Zach and micha cárdenas. Queer Technologies / TransCoder.
-2007-2012.  Butler, Judith. Bodies That Matter: on the Discursive
-Limits of Sex. Routledge. 1993.
+2007-2012.  
+
+Butler, Judith. Bodies That Matter: on the Discursive Limits of
+Sex. Routledge. 1993.
 
 Browne, Simone. /Dark Matters: On the Surveillance of Blackness/. Duke
 University Press, 2015.
@@ -608,8 +610,8 @@ History. 2007.
 McGann, Jerome, and Lisa Samuels. “Deformance and Interpretation,”
 Radiant Textuality: Literature after the World Wide Web. 2001.
 
-Muñoz, José Esteban. Cruising Utopia: The Then and There of Queer
-Futurity. NYU Press. 2009.
+Muñoz, José Esteban. /Cruising Utopia: The Then and There of Queer
+Futurity/. NYU Press. 2009.
 
 Muñoz José Esteban. /Disidentifications: Queers of Color and the
 Performance of Politics/. University of Minnesota Press, 1999.
@@ -641,11 +643,13 @@ Identity. University of Minnesota Press, 2017.
 
 So, Richard Jean and Edwin Roland. “Race and Distant Reading, PMLA
 Special Topic: Varieties of Digital Humanities. Vol. 35,
-No. 1. January 2020. pp. 59–73.  Spillers, Hortense J. “Mama’s Baby,
-Papa’s Maybe: An American Grammar Book.” Diacritics, vol. 17, no. 2,
-1987, pp. 65–81.
+No. 1. January 2020. pp. 59–73.  
+
+Spillers, Hortense J. “Mama’s Baby, Papa’s Maybe: An American Grammar
+Book.” Diacritics, vol. 17, no. 2, 1987, pp. 65–81.
 
 Wilde, Oscar. The Picture of Dorian Gray. 1890, 1891 & Manuscript.
+
 Woolf, Virginia. Orlando: A Biography. Hogarth Press. 1928.
 
 

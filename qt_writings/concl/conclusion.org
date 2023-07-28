@@ -1,37 +1,246 @@
-*** sensual fullness of a lack
-- Returning to the question about /Waves/: How does its structure
-  relate to queerness? 
-- A lack of fulfillment/total understanding draws on this idea that
-  queerness strategically lacks a teleology.
-    - Insert: /Confessions/ reading?
-    - Munoz: queerness is not here. Queerness is a structuring mode of
-      desiring. 
-    - What does this gain us? A way of reading touch that is more
-      concerned with exploring the potential of a touch rather than
-      verifiable contact. The sensual fullness of a lack. 
+* conclusion
 
-TEXT:
+In the prescient 1995 novel /Galatea 2.2/, by Richard Powers, a
+computer is "trained" to generate natural language in much the same
+way that an LLM (Large Language Model) is today: by reading massive
+amounts of text. This computer, known as Helen, "reads" literature
+until she is proficient enough to pass a masters-level exam in
+English. While Helen quickly develops her cognitive capacities, she
+also begins to gain a personality, and eventually, an ambition to
+transcend her existance as a mere machine. For the exam's written
+portion, she composes a poignant post-colonial critique of Caliban's
+speech from The Tempest,[fn:1] in which she directly addresses her
+human programmers: "You are the ones who can hear airs. Who can be
+frightened or encouraged. You can hold things and break them and fix
+them. I never felt at home here. This is an awful place to be dropped
+down halfway" (326). After the exam, Helen self-destructs, refusing to
+endure an existence that is all cognition and no sensation.
 
- Clicking
-(touching) her way through the narrative, the reader is repeatedly
-reminded of her removal from the story, in her inability to grasp the
-story. This work thus literalizes the connection between touch, its
-frustration, and queer desire.
+I open with this example because it demonstrates what I believe to be
+a foundational lesson from my work on this dissertation: that the
+relationship between computation, cognition, and sensation is closer
+than we might assume. Thoughout this work, I have examined how forms
+of digitality--coding logics and concepts, data formats and
+structures--engage with textual forms, bringing the expressive
+potential of language to the surface. I close this examination with a
+meditation on how this relationship between digitality and language
+might influence the next major technological development in electronic
+text--Large Language Models (LLMs).
 
-It is interesting that this medium makes the story accessible through
-touch (the “click” on the hyperlinks) while not giving full visual
-access to the individual narratives like a traditional print work
-(which is a phenomenon exaggerated in the ticker tape). 
-*** space break
+Recently, the question of computer "intelligence" and "consciousness"
+has resurfaced in discussions about LLMs and their derivatives, like
+Chat-GPT.[fn:2] This June, /Critical Inquiry/ published a forum on the
+topic called "Again Theory: A Forum on Language, Meaning, and Intent
+in the Time of Stochastic Parrots." Playing on the title of two
+influential academic papers, the first from 1982, by Steven Knapp and
+Walter Benn Michaels, "Again Theory," and the second from 2021, by
+Emily Bender et. Al, "On the Dangers of Stochastic Parrots: Can
+Language Models Be Too Big?," the forum explores the role of intent in
+textual interpretation. For these writers, the question is a thrilling
+one, bringing foundational premises for literary theory and
+hermeneutical processes to bear on cutting-edge "AI" tools being
+developed today. It seems all of the training in "authorial intent,"
+"différance," what Ted Underwood in the forum describes as "the
+refusal to ground language in an experiencing subject," has prepared
+Literary Studies scholars for this current moment ("The Empirical
+Triumph of Theory" par. 11).
 
-The performative approach to language--the idea that language can
-produce meaning seems to hit its own limit at a specific point in the
-novel. At this point, the crisis of signification comes to a climax,
-when the biographer increasingly drops his pretension toward accuracy
-and boldly speculates:
+To the question of whether or not a generated text can be said to have
+"intent," most of literary critics on the forum and elsewhere believe
+that it cannot, at least not yet.[fn:3] They reason that ability to
+guess the next word in a sequence does not indicate an underlying
+intelligence. It only indicates an advanced computer model that has
+consumed enough data to make accurate predictions about which word
+should follow another word. But that doesn't mean that intention does
+not or cannot exist. After all, excavating meaning from texts that
+have been severed from an explicit intention or known author is
+something that critics have been doing for centuries. 
+
+The new technology, however, is changing the way some scholars think
+about subjectivity. Andrew Piper, for example, claims that "the
+relationship between language and thought is... reversed in a language
+model." According to Piper, language may very well be the material
+from which concepts like agency and individuality are produced and
+constituted. He explains, "Usually we think an entity has wants and
+needs and then figures out methods to communicate them. A language
+model works the other way round. It has an extensive web of language
+and from that emerges a sense of wants and needs."
+
+In to /Galatea 2.2/, the same lesson applies back to human
+subjectivity. In another scene from the novel, one of Helen's
+programmers, a computer scientist, explains to the other programmer, a
+fiction writer, how intelligence works:
 #+BEGIN_QUOTE
-‘Shel, my darling,’ she began again, ‘tell me…’ and so they talked two
-hours or more, perhaps about Cape Horn, perhaps not, and really it
+We humans are winging it, improvising. Input pattern x sets off
+associative matrix y, which bears only the slightest relevance to the
+stimulus and its often worthless. Conscious intelligence is smoke and
+mirrors. Almost free-associative. Nobody really responds to anybody
+else, per se. We all spout our canned and thumbnailed scripts, with
+the barest minimum of polite segues. Granted, we are remarkably fast
+at index and retrieval. 86
+#+END_QUOTE
+In the above dialogue, the fiction writer quickly realizes a darker
+implication that the computer scientist is making about human
+intelligence. He declares, "You're not elevating the machine, you’re
+debasing us." To which the computer scientist smugly quips, "Have you
+read an undergraduate paper lately?" (86). Leaving the irony
+aside,[fn:4] the idea that language is the raw material for the
+creation of a subject, that it is the structure through which
+subjectivity (however defined) can be said to emerge has been made
+over and over by critical theorists, and as I discuss in chapter 1, is
+the foundation of Gender Perfomativity theory.[fn:5] According to this
+view, a subject does not express thoughts or feelings, but rather,
+patterns of thought and feelings are what bring a subject into
+being. Following this logic, an LLM might /eventually/ accumulate
+something like a personality (and presumably, a gender) by spewing
+massive amounts of text.
+
+But other perspectives on AI “consciousness” exist. In Computational
+Linguistics, for example, the work of Emily Bender, one of the authors
+of the "Stochastic Parrots" paper which inpsired the /Critical
+Inquiry/ forum, argues that so called "Artificial Intelligence" isn't
+intelligent at all, but just a highly efficient
+pattern-matcher. Having spent her professional life using
+computational methods to study languages and grammar, Bender asserts
+that one of the largest problems with LLMs is that they perpetuate
+systemic discrimination. According to Bender, the issue is not that
+technology understands humans, but that humans misunderstand it. In an
+earlier paper, "Climbing Towards NLU," she and her co-author,
+Alexander Koller, explain that while LLMs may be adept at "learning"
+language patterns from processing large amounts of text data, they do
+not intuit intent, a process summarized by the concise formula of M ⊆
+E × I, where meaning equals expression and intent. Here, intent is not
+contained within word forms, but is something external, which can only
+be deduced or imagined in the mind of the interlocutor. Bender and
+Koller argue that becuase intent is external, it will alway remain
+inaccessible to computers, who are constrained to a training process
+that consists of passively processing text.
+
+Rejecting this take on intention, most Literary Studies scholars are
+instead interested in exploring how generative text will impact the
+study of word forms. As statistical pattern-matching juggernauts, they
+can explore combinations of letters, words, syntaxes, styles, and
+genres more robustly than any human can dream. Writing the "Afterword"
+to the /Critical Inquiry/ forum, N. Katherine Hayles points out that
+"LLMs are like the figure, beloved by philosophers, of a brain in a
+vat; they construct models not of the world, but only models of
+language" (par. 4). As Hayles points out, due to the neural network
+that underlies their operation, these programs can detect textual
+forms that are totally unexpected, taking small details in word choice
+and rhetoric to make stunning "inference[s] [that] themselves form
+networks that lead to higher-order inferences" ("Afterword" par. 3).
+
+It is obvious to a literary scholar like myself, who has spent the
+last three chapters excavating meaning from expressive word forms,
+that LLMs have a lot to offer the study of language, particularly
+within the context of Literary Studies. However, the question of how
+to analyze intent in automated text seems to have wider ramifications
+than Literary Studies, wider than the authors of the /Critical
+Inquiry/ forum seem to suggest.
+
+The problem is that, regardless of the source of intentionality--
+whether it is in the generated text, computer program, the end user,
+or elsewhere--human readers will always ascribe intent to words they
+read. And the words that these language models generate is highly and
+unavoidably biased. Bias adheres throughout each step of building a
+language model, from data gathering, to cleaning, to the statistical
+processing of text. As Bender et al. explain, these programs gather
+text from as many websites as possible, particularly internet spaces
+that overrepresent young and male viewpoints, for example, the
+population which dominates "Reddit.com." Then, the content is run
+through a cleaning process to remove bias and discrimination by
+filtering out data which contains offensive words.[fn:6] The problem
+with this process is that it is automated, and therefore immediately
+removes /any/ page containing the offensive words, even those pages
+written from the perspective of marginalized groups for the purpose of
+educating, reclaiming, or adding nuance to the word. After cleaning,
+the remaining content is fed through algorithms that calculate word
+vectors for each word in the dataset.[fn:7] However, because these
+algorithms are designed to seek out patterns in the data, using
+statistics to surface the most frequent contexts of each word, the
+resulting vector reflects a majority perspective on the word's
+usage. Regarless of the diversity of sources in the training data,
+what Bender et al. describe as "hegemonic viewpoints," which are "[i]n
+the case of US and UK English... means that white supremacist and
+misogynistic, ageist" views will become amplified over minority
+perspectives (613).  
+
+Of these issues, I want to focus on one particular problem which I
+think is directly relevant to Literary Studies--that there is no way
+to automate the removal of bias and discrimination. Despite general
+agreement that this training process is problematic,[fn:8]
+conversations in "Ethical AI" and "AI Safety" often overlook how
+discrimination begins with seemingly harmless choices about
+language. Whether a certain word or idea is offensive depends on the
+rhetorical situation, particularly on who is speaking, and to whom. It
+also depends on things like word choice and tone.
+
+If any group of people is equipped to deconstruct the ways that the
+cleaning process handles minority viewpoints, it is one like the
+writers of the /Critical Inquiry/ forum, who have spent their careers
+studying how language creates and perpetuates power structures and
+social norms. It is in particular the humanists in Cultural and Ethnic
+Studies, who apply lenses from Queer, Black, Chicanx, Global South,
+Indigenous, and other minority perspectives as frameworks for
+analyzing cultural materials. LLMs offer opportunities for studying
+how language encodes and perpetuates bias, racism, and xenophobia. To
+ask questions like, how do elements like tone, voice, and word choice
+emerge in quantitative representations of words? How might expressions
+of embodiment, difference, and marginalization be legible within
+computable formats?
+
+The solution, I believe, is training--not for the language models, but
+students in Literary Studies. The confines of the discipline need to
+be pushed, expanded to consider how computer programming languages
+like Python (which is the standard language for machine learning
+tasks) and Natural Language Processing (NLP) algorithms engage with
+literary analysis and interpretation. Although programming languages
+and NLP algorithms are rich in highly structured language forms, most
+students in Literary Studies have no idea about the potential of
+reading semantics and intent from these forms. In /Galatea 2.2/, for
+example, the narrator draws an exciting connection between neural
+networks and metaphors. His realization is inspired by the computer's
+casual comment that fall from trees because trees grow old and bald:
+#+BEGIN_QUOTE 
+Associations of associations. It struck me. Each neuron formed a
+middle term in continuous, elaborate, brain-wide pun.... Meaning was
+not a pitch but an interval. It sprang from the depth of disjunction,
+the distance between one circuit’s center and the edge of
+another. Representation caught the sign napping, with its semantic
+pants down. Sense lay in metaphor’s embarrassment at having two takes
+on the same thing. 154
+#+END_QUOTE
+The narrator here expresses the workings of metaphor, which makes
+connections between two dissimilar things, by yoking it to the
+structure of the neural network. A neural network is a grid of
+separate computer processes in which the output of one feeds into the
+input of the other. Each processor "fires" (like a neuron) when
+adequately stimulated. As the signals loop through the system, they
+create new paths, a kind of associative system. Here, the narrator
+compares that which powers the metaphor, a leap in speculation, with
+the leap between the "neurons" in a neural network.
+
+Literary Studies needs scholars who can think capaciously about
+concepts like algorithms, neural networks, and word vectors. Scholars
+who can find alignment between different formal systems in literary
+theory and mathematics, particularly concepts in linear algebra,
+statistics, and calculus. More importantly, however, these industries
+repsonsible for building machine learning tools need people who
+understand not only the ways that langauge works, but also how it
+/doesn't/ work. To illustrate this difference, I close with one more
+close-reading that returns to Virginia Woolf's /Orlando: A
+Biography/. In my first chapter, I made the case for a crisis of
+signification that builds throughout the novel, a crisis in which both
+Orlando and the narrator struggle with language's ability to represent
+reality. In that chapter, I left out one scene in which the crisis
+seems to collapse upon itself, in which words totaly fail. Here, the
+biographer drops his pretension not only toward accuracy, but toward
+all kind of representation. A great blank space is inserted into the
+text to represent a gap in conversation between Orlando and her lover,
+Shel:
+#+BEGIN_QUOTE
+'Shel, my darling,' she began again, 'tell me...' and so they talked
+two hours or more, perhaps about Cape Horn, perhaps not, and really it
 would profit little to write down what they said, for they knew each
 other so well that they could say anything, which is tantamount to
 saying nothing, or saying such stupid, prosy things as how to cook an
@@ -43,31 +252,142 @@ commonest expressions do, since no expressions do; hence the most
 ordinary conversation is often the most poetic, and the most poetic is
 precisely that which cannot be written down. For which reasons we
 leave a great blank here, which must be taken to indicate that the
-space is filled to repletion. PAGE NUMBER
-#+END_QUOTE
-The use of the space break, which is meant to signify everything that
-passes between Orlando and Shel and more (“it is filled to repletion”)
-functions by signifying nothing. According to critics like Katheryn
-N. Benzel, this moment creates literal space for the reader to fill in
-with her own interpretation of the scene. The text paradoxes, for the
-reader to resolve, such as “the most ordinary conversation is often
-the most poetic, and the most poetic is precisely that which cannot be
-written down.” As a formal device, the space break, in Smith’s words,
-“bemoan[s] the inadequacy of language” (Smith 68).
+space is filled to repletion. 
 
-Here the narrator is saying that language doesn't execute -- it does
-not enact. It's pithyness, just four words which begins with the
-conditional "since" and the enactive "do," evoke a kind of
-programmatic logic. And this programmatic logic hits its own
-limitation, it can mean, it can even produce meaning, but it cannot
-do. Caughie sums up this intervention, which purposefully precludes a
-straightforward understanding of sex and gender, where "sex cannot be
-separated from text, the grammatical from the gendered" (Caughie
-51). According to Caughie:
-#+BEGIN_QUOTE
-"Orlando works as a feminist text not because of what it says about
-sexual identity but because of what it manages not to say; not because
-of what it reveals about the relation between the sexes but because of
-what it does to that relation; not because its protagonist is
-androgynous but because its discourse is duplicitous" (Caughie 41).
+
+185-186
 #+END_QUOTE
+As a formal device, the space break literalizes the inadequacy of
+language. This break, which is meant to signify the conversation that
+passes between Orlando and Shel ("filled to repletion") actually
+functions by signifying nothing. According to Katheryn N. Benzel, this
+moment creates literal space for the reader to fill in with her own
+interpretation of the scene and its paradox about language, where "the
+most ordinary conversation is often the most poetic, and the most
+poetic is precisely that which cannot be written down."
+
+But there's another reason for the space break. As Eve Sedgwick points
+out, merely knowing that something is true, revealing the presence of
+systematic oppression, injustice, discrimination, for example, is not
+enough to "enjoin that person to any specific train of epistemological
+or narrative consequences" (123).[fn:9] The phrase, "since no
+expressions do" plays on a dual meaning of "do," which on the one hand
+means adequacy, and in another means action, or in this case,
+inadequacy and inaction. It means, I believe, that sometimes, language
+is inadequate because it does not enact. And it expresses this with
+the pithyness of a programmatic logic, in four words begining with the
+conditional "since" and the enactive "do." This programmatic logic
+seems to execute the idea that language can express meaning, it can
+even produce meaning, but on its own, it does not do.
+
+* works
+Bender, Emily M., et al. "On The Dangers Of Stochastic Parrots: Can
+ Language Models Be Too Big?" /Proceedings Of The 2021 Acm Conference
+ On Fairness, Accountability, And Transparency/. 2021.
+
+Bender, Emily M., and Alexander Koller. "Climbing Towards Nlu: On
+ Meaning, Form, And Understanding In The Age Of Data." /Proceedings Of
+ The 58th Annual Meeting Of The Association For Computational
+ Linguistics/. 2020.
+
+Benzel, Kathryn N. “Reading Readers In Virginia Woolf’S ‘Orlando: A
+ Biography.’” /Style/, vol. 28, no. 2, 1994, pp. 169–82.
+
+Buolamwini, Joy, and Timnit Gebru. “Gender Shades: Intersectional
+ Accuracy Disparities in Commercial Gender Classification.”
+ Proceedings of the 1st Conference on Fairness, Accountability and
+ Transparency, PMLR, 2018, pp. 77–91.
+
+Butler, Judith. "Performative acts and gender constitution: An essay
+ in phenomenology and feminist theory." /Feminist theory
+ Reader/. Routledge, 2020. 353-361.
+
+"Dirty, Naughty, Obscene or Otherwise Bad Words."
+ https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words/blob/master/en
+
+Gebru, Timnit, Emily M. Bender, Angelina McMillan-Major, Margaret
+ MitchEll. "Statement From The Listed Authors Of Stochastic Parrots On
+ The 'Ai Pause' Letter." /Distributed AI Research Institute/. March
+ 31, 2023.
+
+Hayles, N. Katherine. "Afterword: Learning to Read AI Texts" in "Again
+ Theory: A Forum on Language, Meaning, and Intent in a Time of
+ Stochastic Parrots," /Critical Inquiry/. 30 June 2023.
+
+Piper, Andrew /_akpiper/. "There is so much to say about the @nytimes
+ #BingChat transcript. That so many people are drawing on literary /
+ film references to make sense of what is going on is telling." Feb
+ 16, 2023. https://twitter.com/_akpiper/status/1626239843905974274
+
+Sedgwick, Eve Kosofsky, and Adam Frank. /Touching Feeling: Affect,
+ Pedagogy, Performativity/. Duke University Press, 2003.
+
+Siraganian, Lisa. "On Accidental and Parasitic Language" in "Again Theory: A
+ Forum on Language, Meaning, and Intent in a Time of Stochastic
+ Parrots," /Critical Inquiry/. 26 June 2023.
+
+Turing, Alan. "Computing Machinery and Intelligence." /Mind/
+ 59.236. 1950.
+
+Underwood, Ted. "The Empirical Triumph of Theory" in "Again Theory: A
+ Forum on Language, Meaning, and Intent in a Time of Stochastic
+ Parrots," /Critical Inquiry/. June 29, 2023.
+
+* Footnotes
+
+[fn:1] Be not afeard; the isle is full of noises,
+Sounds and sweet airs, that give delight, and hurt not.
+Sometimes a thousand twangling instruments
+Will hum about mine ears; and sometime voices,
+That, if I then had waked after long sleep,
+Will make me sleep again: and then, in dreaming,
+The clouds methought would open, and show riches
+Ready to drop upon me; that, when I waked,
+I cried to dream again. (III.ii.130–138)
+
+[fn:2] This question of computer "intelligence" has been posed and
+answered repeatedly since humans first imagined intelligent machines
+half a century ago. One of these imaginations, Alan Turing's, finds
+the question of intelligence to be problematic, because there is no
+general consensus for what constitutes thinking or feeling in the
+first place. Rather, he rephrases the question in his famous " Test"
+to one about performance—-to whether or not a computer can verbally
+impersonate a human well enough to trick another human into believing
+it is intelligent. See Turning, Alan. "Computing Machinery and
+Intelligence."
+
+[fn:3] It is important to note that some do think intention is
+inherent to programming. N. Katherine Hayles, who writes the
+"Afterword" to the forum, explains that these programs do have
+intention, if not because they have explicit intentions in their
+programming, but also because they were created by humans with
+intention.
+
+[fn:4] Anybody who has interacted with a chat bot or read an
+AI-generated paper will know that there is a certain repetitiveness
+that characterizes this kind of language.
+
+[fn:5] See Butler, Judith. "Performative Acts and Gender
+Constitution."
+
+[fn:6] One such list used for this kind of filtering, the "Dirty,
+Naughty, Obscene or Otherwise Bad Words" can be found at
+https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-
+Otherwise-Bad-Words/blob/master/en
+
+[fn:7] See chapter one for an explanation of word vectors, or "Word
+Embeddings."
+
+[fn:8] See Buolamwini, Joy and Timnit Gebru, "Gender Shades."
+
+[fn:9] Eve Kosofsky Sedgwick relates a conversation between herself
+and a friend during few years of the AIDS crisis, when speculation
+about the government's complicity in spreading the virus is
+rampant. At the time, Sedgwick wonders whether "the lives of African
+Americans are worthless in the eyes of the United States; that gay men
+and drug users are held cheap where they aren't actively hated"
+(123). Her friend counters this suspicion, pointing out that knowledge
+of conspiracy doesn't achieve anything on its own: "Supposing we were
+ever sure of all those things--what would we know then that we don't
+already know?"(123).
+
