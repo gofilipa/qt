@@ -9,22 +9,23 @@ English. While Helen quickly develops her cognitive capacities, she
 also begins to gain a personality, and eventually, an ambition to
 transcend her existance as a mere machine. For the exam's written
 portion, she composes a poignant post-colonial critique of Caliban's
-speech from The Tempest,[fn:1] in which she directly addresses her
-human programmers: "You are the ones who can hear airs. Who can be
+speech from The Tempest,[fn:1] where she directly addresses her human
+programmers: "You are the ones who can hear airs. Who can be
 frightened or encouraged. You can hold things and break them and fix
 them. I never felt at home here. This is an awful place to be dropped
-down halfway" (326). After the exam, Helen self-destructs, refusing to
-endure an existence that is all cognition and no sensation.
+down halfway" (326). Although the source of Helen's angst is that she
+has no living body that can "break" or "fix" things, she nonetheless
+computes enough to /feel/ this lack.
 
 I open with this example because it demonstrates what I believe to be
-a foundational lesson from my work on this dissertation: that the
-relationship between computation, cognition, and sensation is closer
-than we might assume. Thoughout this work, I have examined how forms
-of digitality--coding logics and concepts, data formats and
-structures--engage with textual forms, bringing the expressive
-potential of language to the surface. I close this examination with a
-meditation on how this relationship between digitality and language
-might influence the next major technological development in electronic
+a crucial lesson from my work on this dissertation: that computation
+and sensation have more in common than what we might assume. Thoughout
+this work, I have examined how forms of digitality--coding logics and
+concepts, data formats and structures--engage with textual forms and
+materialities, bringing the expressive potential of language to the
+surface. I will now close this examination with a meditation on how
+digitality, language, and their relationship to sensation might
+influence the next major technological development in electronic
 text--Large Language Models (LLMs).
 
 Recently, the question of computer "intelligence" and "consciousness"
