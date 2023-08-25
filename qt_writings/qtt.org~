@@ -1,0 +1,155 @@
+* /Qtt: The Queer Text Toolkit/
+
+The “Queer Text Toolkit” (/Qtt/) is a software package offering a
+Queer Studies-inspired approach for the computational analysis of
+literature. The project consists of two applications, “Queer Distant
+Reading” and “Queer Text Encoding,” which build from open source
+software for quantitative text analysis and semantic text markup. As a
+practical application of my dissertation research, the toolkit reveals
+interpretive possibilities for reworking the limitations and
+constraints of text analysis and text encoding procedures. It does so
+by drawing from Queer Studies’s critique of heteronormative structures
+(which problematize the categories and concepts of gender, sex, and
+sexuality) as literary text is transformed and reduced into computable
+formats. Users here examine firsthand how digital formats, which
+collapse stylistic and formal expressions of gender, sex, and
+sexuality, might be redeployed toward creative exploration. Both
+applications, which are introductory in nature, are aimed at an
+audience of humanist scholars at the beginning of their technical
+training, and would be ideally used in classroom and
+collective-learning settings to lower the barrier of entry for using
+digital tools.
+
+** Queer Distant Reading
+The “Queer Distant Reading” application is a command-line application
+for text analysis inspired by Judith Butler’s theory of Gender
+Performativity. It brings the concept of "iterativity" from both
+gender and programming into alignment and toward the larger goal of
+destabilizing binary structures of gender. In Queer Studies, gender is
+famously theorized as a series of repeated acts, while computational
+analysis procedures rely on performing the same task to each word
+within a text, a process called "looping." This application surfaces
+this quality of repetition across both domains to pose a text analysis
+practice based on /iterating/ between close and distant reading.
+
+There are two aspects of Butler's theory of Gender Performativity that
+influenced the development of this text-analysis tool. First, that
+gender is active, consisting of a series of actions, like a habit:
+"Gender is the repeated stylization of the body, a set of repeated
+acts within a highly rigid, regulatory frame that congeal over time to
+produce the appearance of a substance, of a natural sort of being"
+(/Gender Trouble/ 33) Second, that these series of actions are
+productive, in two ways. They produce the subject, bringing her into
+being, rather than represent an expression of the subject or of a
+pre-existing subjectivity. Butler affirms that "There is no power that
+acts, but only a reiterated acting that is power in its persistence
+and instability" (Bodies xviii). In addition to subjects,
+performativity also produces reality, such as with language that
+creates reality, rather than referencing it. Butler explains that "the
+mimetic or representational status of language...  is not mimetic at
+all. On the contrary, it is productive, constitutive, one might even
+argue performative" (/Bodies/ 6). That language produces the reality
+that it seems to merely reference opens a possibility for
+re-signifying the meaning of certain terms. 
+
+This application creates text analysis workflows for exploring and
+"re-signifying" the meaning of terms such as "woman" and "man," in the
+text. It consists of a command line interface where users can search
+for similarity scores of certain words in the text, with an additional
+option to visualize the results in a network graph. To run the
+application, the user must first download the project from its github
+repository (linked above) to their computer. Then, using a
+command-line program such as /Terminal/ on Mac or /Powershell/ on
+Windows, users input a command that specifies the target word (such as
+"woman" or "man," which will be analyzed) and a source text (such as
+"orlando.txt"). Running this command will return a word vector, that
+is, a list of words that appear next to or nearby our search term
+along with their similarity score:  
+#+BEGIN_SOURCE
+% python qdr orlando.txt woman
+[('fling', 0.38121166825294495),
+ ('abase', 0.35150107741355896),
+ ('flower', 0.33490291237831116),
+ ('superior', 0.3274153470993042),
+ ('witticism', 0.3148716390132904),
+ ('fight', 0.313768208026886),
+ ('coal', 0.308252215385437),
+ ('impassable', 0.3044101893901825),
+ ('unenticed', 0.3026406466960907),
+ ('tavern', 0.3014964759349823)]
+#+END_SOURCE
+Word vectors, also known as "word embeddings," are essentially a list
+of words that are associated with the search term. The score that
+appears next to each word in the results represents a probability of
+how often that word appears nearby the search term.[fn:1] Besides
+searching for similar words, users can also see specific words in
+context. The results will list the search word within a "context
+window," that is, the words immediately preceding and immediately
+following the search term:
+#+BEGIN_SOURCE  
+and manly charm -- all qualities which the old woman loved the more the more they failed her . For 
+
+d up and dyed her cheeks scarlet . For the old woman loved him . And the Queen , who knew a man whe
+
+tumn , overladen with apples . The old bumboat woman , who was carrying her fruit to market on the 
+
+Embassy , a figure , which , whether boy 's or woman 's , for the loose tunic and trousers of the R
+
+en the boy , for alas , a boy it must be -- no woman could skate with such speed and vigour -- swep
+...
+#+END_SOURCE 
+The intention with these two features is that users will alternate
+between searching for word similarity and words in context as part of
+a text analysis practice. They may find, for example, a word in the
+similarity list that can be searched in context, and so on. See my
+first chapter ("'A Melon, An Emerald, a Fox in the Snow': Quantifying
+Gender in Virginia Woolf's /Orlando: A Biography/") for an example of
+this iterative practice.
+
+All of the code for this project builds from open source Python
+libraries such as Natural Language Toolkit (NLTK) and
+Word2vec. Written as a Python module, this application contains
+scripts for loading, cleaning and analyzin the text as well as a small
+test suite, selections of which are included in Appendix I. The full
+codebase is publically accessible under my GitHub username gofilipa,
+in the repository, "qdr," at the URL: https://github.com/gofilipa/qdr
+
+** Queer Text Encoding
+
+*** summary
+The “queer text encoding” tool offers an interactive and
+beginner-friendly Text Encoding Initiative (TEI) workflow for “marking
+up” homoerotic content in text. The website interface, which enables
+users to tag homoerotic elements, encourages them to think
+productively about the limitations of discrete labelling protocols and
+how this work engages with Queer of Color Critique on destabilizing
+hegemonic power structures. The current version of the “queer text
+encoding” tool consists of a JavaScript-based web application
+containing a pre-transcribed and encoded manuscript, a portion of
+Oscar Wilde’s The Picture of Dorian Gray, which Wilde edited to remove
+suggestions of homoeroticism. By panning over the deleted text, users
+can see the pre-set labels for the homoerotic content in this text,
+which falls into four general categories: “intimacy,” “beauty,”
+“passion,” and ‘fatality” (see appendix for an example of the tool’s
+current interface). The goal of this project is to expand the
+interactive component of the application to allow users to enter their
+own custom labels for the homerotic content. I will continue to modify
+the application, which is based on the ceTEIcean library that enables
+customized TEI web displays. Here, I will add “behaviors” to the
+ceTEIcean framework so users can create their own custom labels to
+homoerotic elements in the document and export their work. This work
+is currently being developed under my GitHub username gofilipa, in the
+repository, “dorian_encoded.”
+
+*** JavaScript changes
+*** CSS changes
+
+
+
+* Appendix I: QDR Code
+* Appendix II: QTE Code
+
+* Footnotes
+
+[fn:1] To learn more, check out this excellent explanation of word
+embeddings by Alammar, Jay.

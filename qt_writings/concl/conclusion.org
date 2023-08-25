@@ -279,60 +279,24 @@ is inadequate because it does not enact. And it expresses this with
 the pithyness of a programmatic logic, in four words begining with the
 conditional "since" and the enactive "do." This programmatic logic
 seems to execute the idea that language can express meaning, it can
-even produce meaning, but on its own, it does not do.
+even produce meaning, but on its own, it does not do.R
 
 * works
-Bender, Emily M., et al. "On The Dangers Of Stochastic Parrots: Can
- Language Models Be Too Big?" /Proceedings Of The 2021 Acm Conference
- On Fairness, Accountability, And Transparency/. 2021.
 
-Bender, Emily M., and Alexander Koller. "Climbing Towards Nlu: On
- Meaning, Form, And Understanding In The Age Of Data." /Proceedings Of
- The 58th Annual Meeting Of The Association For Computational
- Linguistics/. 2020.
 
-Benzel, Kathryn N. “Reading Readers In Virginia Woolf’S ‘Orlando: A
- Biography.’” /Style/, vol. 28, no. 2, 1994, pp. 169–82.
 
-Buolamwini, Joy, and Timnit Gebru. “Gender Shades: Intersectional
- Accuracy Disparities in Commercial Gender Classification.”
- Proceedings of the 1st Conference on Fairness, Accountability and
- Transparency, PMLR, 2018, pp. 77–91.
 
-Butler, Judith. "Performative acts and gender constitution: An essay
- in phenomenology and feminist theory." /Feminist theory
- Reader/. Routledge, 2020. 353-361.
 
-"Dirty, Naughty, Obscene or Otherwise Bad Words."
- https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words/blob/master/en
 
-Gebru, Timnit, Emily M. Bender, Angelina McMillan-Major, Margaret
- MitchEll. "Statement From The Listed Authors Of Stochastic Parrots On
- The 'Ai Pause' Letter." /Distributed AI Research Institute/. March
- 31, 2023.
 
-Hayles, N. Katherine. "Afterword: Learning to Read AI Texts" in "Again
- Theory: A Forum on Language, Meaning, and Intent in a Time of
- Stochastic Parrots," /Critical Inquiry/. 30 June 2023.
 
-Piper, Andrew /_akpiper/. "There is so much to say about the @nytimes
- #BingChat transcript. That so many people are drawing on literary /
- film references to make sense of what is going on is telling." Feb
- 16, 2023. https://twitter.com/_akpiper/status/1626239843905974274
 
-Sedgwick, Eve Kosofsky, and Adam Frank. /Touching Feeling: Affect,
- Pedagogy, Performativity/. Duke University Press, 2003.
 
-Siraganian, Lisa. "On Accidental and Parasitic Language" in "Again Theory: A
- Forum on Language, Meaning, and Intent in a Time of Stochastic
- Parrots," /Critical Inquiry/. 26 June 2023.
 
-Turing, Alan. "Computing Machinery and Intelligence." /Mind/
- 59.236. 1950.
 
-Underwood, Ted. "The Empirical Triumph of Theory" in "Again Theory: A
- Forum on Language, Meaning, and Intent in a Time of Stochastic
- Parrots," /Critical Inquiry/. June 29, 2023.
+
+
+
 
 * Footnotes
 
