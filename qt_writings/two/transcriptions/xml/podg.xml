@@ -1491,12 +1491,9 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                      cheek just brushed my cheek.
                      <add place="above">hair just touched my hand.</add>
                   </mod>
-                  The world becomes young to me when I hold his hand, as when I ask him the 
-                     <gap reason="illegible"></gap>
-                  yield
-                     <gap reason="illegible"></gap>
-                  their
-                     <gap reason="illegible"></gap>
+                  The world becomes young to me when I hold his hand,
+		  as when I ask him the centuries yield up all their
+		  secrets!
                </del>
             </quote>
          </p>
@@ -1516,7 +1513,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                       <gap reason="illegible"></gap> 
                       slave! It is worse that wicked, it is silly. I hate Dorian Gray."
                    </del>
-                   <add place="above">quite wonderful. I must see Dorian Gray.</add>
+                   <add place="above">quite wonderful. I must see Dorian Gray."</add>
                 </mod>
             </quote>
          </p>
