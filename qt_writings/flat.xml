@@ -641,44 +641,32 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
          </p>
          <p>
             <quote>
-               "And what is that?" he asked. 
-               
-                  
-               <del rend="strikethrough" strokes="1" implication="tension">
+               "And what is that?" he asked.             
+               <del rend="strikethrough" strokes="1" theme="intimacy">
                   in a low voice
-               </del>
-                  
-               
+               </del>              
             </quote>
          </p>
          <p>
             <quote>
                "I will tell you," said Hallward, and 
-               
-                  
                      <mod type="subst">
-                        <del rend="strikethrough" strokes="inconclusive" implication="fatality">
+                        <del rend="strikethrough" strokes="inconclusive" theme="fatality">
                            a look of pain
                         </del>
                         <add place="above">an expression of perplexity</add>
-                     </mod>
-                  
-               
+                     </mod>                
                came over his face. 
             </quote>
          </p>
          <p>
-            <quote>
-               
-                  
+            <quote>            
                      <mod type="subst">
-                        <del rend="strikethrough" strokes="1" implication="tension">
+                        <del rend="strikethrough" strokes="1" theme="intimacy">
                            "Don't if you would rather not"
                         </del>
                         <add place="above">"I am all expectation, Basil"</add>
-                     </mod>
-                  
-               
+                     </mod>               
                murmured his companion, looking at him. 
             </quote>
          </p>
