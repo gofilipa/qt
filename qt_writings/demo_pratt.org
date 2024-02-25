@@ -1,16 +1,4 @@
-* goals:
-- understanding of language models available to them and how to start
-  using them on their own.
-  - build toward skills for using them in programming, even if you
-    don't have a background
-- familiarity of underlying technical processes that power the tools,
-  like word vectors.
-- exposure to issues with training and producing LLMs, such as
-  particularly the perpetuation of bias and discrimination and
-  copyright issues.
-- hands-on experimentation with tools in Python programming language.
-
-* class
+* Introduction to AI for Generating Text
 #+REVEAL_ROOT: http://cdn.jsdelivr.net/reveal.js/2.5.0/
 
 # introduction to HF website, the tasks -> spaces path for navigating
@@ -27,7 +15,7 @@ This workshop is a gentle introduction to using advanced AI tools, for beginners
 We will work on a popular platform for machine learning, the
 HuggingFace🤗 platform, which offers tools uploaded by a community of
 AI developers. We will explore and play around with these tools, which
-range over various tasks and topics. 
+range over various tasks and topics.
 
 Then, we will shift to running these tools with coding, with the
 Python programming language on Google Colab.
@@ -38,33 +26,36 @@ How many people have some background with Python?
 
 :end:
 
-** Workshop goals:
-- understanding of language models available to them and how to start
+** goals:
+- understanding of language models available to you and how to start
   using them on their own.
+  - build toward skills for using them in programming, even if you
+    don't have a background
+  - how program code abstracts certain processes
 - familiarity of underlying technical processes that power the tools,
   like word vectors.
-- exposure to issues with training and producing LLMs, such as
-  particularly the perpetuation of bias and discrimination and
-  copyright issues.
-- critical reflection of methods for evaluating LLM performance.
-- hands-on experimentation with tools in Python programming language.
-- skills for importing and running models into your Python code.
+- exposure to ethical issues with training and producing LLMs, the
+  ways they perpetuate bias and discrimination.
+- all of that within the larger goal of seeing what you can do with
+  these AI tools on your own.
 
 ** introduction to LLMs
-# 20 min
+# 15 min
 # LLMs are prediction machines
 # 1 key development:
 # word embeddings, quantifying language
 
 :notes:
-Goal is to de-mystify how Large Language Models (a kind of AI
-software) work under the hood.
+Before starting, let's talk a bit about how they work.
 
-Also to get a sense of the types of models that exist. There's a large
-ecosystem of models, which can be overwhelming. 
+The goal is to de-mystify how Large Language Models (a kind of AI
+software) work under the hood. 
 
-All of this will help us in the next section, when we move to the HF
-website. 
+Will be helpful when we get to the next section, when we move to the
+HF website.
+
+And will help understand some of the ethical issues with the way these
+models are trained.
 :end:
 
 *** How does ChatGPT work?
@@ -77,20 +68,19 @@ words follow other words?
 - it learns by reading. Gains an understanding of language from
   processing massive amounts of text, deriving patterns.
 
-One key development in history of AI: 
-- quantifies the meanings of words; words in text become numerical
-  representations (word embeddings)
+Still, how does it know what certain words mean? How to use them in a
+sentence?
+
+How do we turn words into something that a computer can understand?
+
+It quantifies words. Language into numerical forms, representations. 
 :end:
 
 *** Word Embeddings / Word Vectors
 
-#+CAPTION: Image from "Word Embedding: Basics", by Hariom Gautam
-#+attr_html: :width 500px
-[[https://miro.medium.com/v2/resize:fit:1400/format:webp/1*sAJdxEsDjsPMioHyzlN3_A.png]]
-
 :NOTES:
-How do we turn words into something that a computer can understand?
-
+One key development in history of AI, 2013 paper. 
+  
 We use "word embeddings", "word vectors."
 - technically: representations of language in vector space, graphical
   space.
@@ -105,14 +95,20 @@ We use "word embeddings", "word vectors."
 | dog | .35 | .99 | .85 | .90 |
 
 
-Each word is expressed as a series of numbers. Each number a different dimension of the vector.
+Each word is expressed as a series of numbers. Each number a different
+dimension of the vector.
+
+We can plot "cat" and "dog" according to x and y axes, for example,
+"tiger" and "cute"
+- x is tiger
+- y is cute
+
+So while both dog and cat would be high on the cute axis, on the Y
+axis, only cat would be higher up on the X axis, the tiger
+axis. Because cats are like tigers, whereas dogs are not.
 
 Except we don't have just x, y, or z. We have hundreds, thousands of
 vectors.
-
-Show image from Medium.
-- More words here, along with their visualization in "vector space",
-  which is just a graph.
 
 Why do this to words? Why represent them as numbers?
 - So we can do math!
@@ -121,18 +117,18 @@ Why do this to words? Why represent them as numbers?
     similar meanings.
   - We can do cosine similarity, finding out what two vectors are
     similar to each other in shape/direction actually gives us a sense
-    of their semantic similarity. Opens up a world of algebra,
-    calculus, that we can do with language.
+    of their semantic similarity.
+  - Opens up a world of algebra, calculus, that we can do with
+    language.
 
 :END:
 
 *** king - man + woman = queen
-vector(”King”) - vector(”Man”) + vector(”Woman”) = vector("Queen")
 
 :notes:
 Famous formula:
 - King - Man + Woman = Queen
-  - we can do math using language! Or do language using math!?
+  - we can "do language" using math!
 - vector(”King”) - vector(”Man”) + vector(”Woman”) = vector("Queen")
 - Notice for a moment all the assumptions being made about gender
   here.
@@ -155,12 +151,14 @@ Why am I saying all this about word vectors?
   - these tools are not magic, they are not intuitive, possibly not
     even "intelligent", they can just do a lot of math.
 
+It's alright if this doesn't make sense. It's advanced ML. 
+
 See more:
 - [[https://arxiv.org/abs/1301.3781][Word2Vec paper]], 2013.
 - (and [[http://jalammar.github.io/illustrated-word2vec/][great explanation by Jay Alammar]])
 :end:
 ** Huggingface🤗 platform
-# 30 min
+# 10 min
 # how to navigate the models & datasets hubs
 # introduction to inference, licensing, and data
 # give some time to explore models and datasets
@@ -184,42 +182,16 @@ Start with the "models hub"
 
 Here contains AI models created by the community/ HF users.
 - a little overwhelming interface, I will explain it in a moment. 
-- models are trained or fine-tuned, can then published to the "hub".
 - navigation goes from left to right
-  - on left side, there's tasks, like text classification. Also
-    libraries, datasets, etc. Later we will choose one?
-    What is the *difference between training and fine-tuning*?
-     - training
-       - the creation of a "base" model. It requires lots, LOTS of data,
-	 gigabites of data, and compute power. It takes days, sometimes
-	 longer.
-     - fine-tuning:
-       - taking a base model, which has already been trained (like BERT)
-	 and training it further, with a much smaller dataset that is
-	 focused on a specific topic.
-       - customizing the model to work for a particular topic or kind of
-	 data. 
-	 - finBERT for sentiment analysis of financial data.
+  - on left side, there's tasks, like text classification.
   - on right side, there's models. We are going to narrow down the
     models.
 
-Filter results by "most downloaded", notice the difference:
-- "most downloaded":
-  - Wav2Vec - audio to vector, speech to text.
-  - RoBERTa - one of the many permutations of BERT, you'll see. First
-    model to put into practice the Transformer architecture.
-
-Filter results by "most liked", you'll see things that may appear
-familiar. 
-  - [[https://huggingface.co/runwayml/stable-diffusion-v1-5][Stable Diffusion]] - image generator model.
-  - models by Meta, aka Facebook.
-
-Scroll down, and look for a model called "gpt-neo". Or search for it.
+Search for "gpt-neo" in the text box.
   - [[https://huggingface.co/EleutherAI/gpt-neo-125m][gpt-neo-125m]]
     - a model developed by EleutherAI, a non-profit research lab.
     - part of a larger family of models named "gpt-neo" with the size
       at the end.
-      - search "gpt-neo" and you'll see the list. 
   - notice "*model size*". How big is it?
     - 125m parameters. That's how many inputs goes into
       inference. Includes things like word vectors, but also different
@@ -231,14 +203,18 @@ Scroll down, and look for a model called "gpt-neo". Or search for it.
       licenses.
       - the model is totally open to download and modify as you wish,
         even for commercial purposes.
-    - practice running inference here for a few mintues.
-      - anything that you notice about the results?
-	- it's repetitive.
-	  - the repetition problem is caused by the traits of our
-            language itself.
-	  - it generates words that have the highest likelihood. The
-            words that have this likelihood tend to be the same ones,
-            over and over again. 
+
+Practice running inference here for a mintue. Anything that you notice
+about the results?
+  - it's repetitive.
+    - the repetition problem is caused by the traits of our language
+      itself.
+    - it generates words that have the highest likelihood. The words
+      that have this likelihood tend to be the same ones, over and
+      over again.
+
+Let's look at one more model, to start a conversation about how these
+products are created and then disributed.
 
 Go back to most download, select [[https://huggingface.co/meta-llama/Llama-2-7b][Llama]],
 - by Meta, aka Facebook.
@@ -249,79 +225,58 @@ Go back to most download, select [[https://huggingface.co/meta-llama/Llama-2-7b]
     - "open source" vs open access models: not everything open access
       is open source!
     - not sharing the model’s training data or the code used to train
-      it unless you sign their agreement. 
+      it unless you sign their agreement.
+
+Just to be aware of some of the terminology, marketing terms, used to
+promote this technology, which is really misleading. 
 :end:
 
-*** "datasets hub"
+*** training process
 # 10 minutes
 
 :notes:
-Besides models, 🤗 offers Datasets.
-- these datasets are used to fine-tune (and also train and evaluate)
-  models.
-- "training data"
+It's important to consider how these models were created, and what's
+going into the training process.
 
-Before diving in, important to consider how these datasets were
-created. 
-- there are a lot of *ethical issues* with the ways that datasets for
-  training are generated.
-  - where the data comes from
-  - and how they are cleanded (or not cleaned).
+In addition to potential violations of copyright, issues with bias and
+discrimination.
+- The ways that training data is cleaned (or not cleaned).
 
 Where do we get most of the data used to train these models? 
-  - scraped from the internet, most of them.
-
-Search "bookcorpus"
-- click on [[https://huggingface.co/datasets/bookcorpus][bookcorpus]] to open the dataset page
-  - can see that it consists of sentences from books.
-  - can also see that it's been used to train some of the most
-    influential models out there. The Berts!
-- Unfortunately, this dataset violates copyright.
-  - scrapes all the free books from smashwords.com, even those that
-    have copyright licenses to not reproduce information.
-  - the authors obviously did not consent to their work being scraped.
-
-This points to a major issue being explored in the courts today, the
-issue of whether the training data violates copyright.
-- The makers of these models argue that the use of training data falls
-  under the "fair use" exception to copyright law.
-  - Something can be used if it is for educational purposes.
-
-Scraped from the internet also means bias
+- scraped from the internet, most of them.
   - contains all the worst parts of the internet, too. All of the
     discrimination and violence.
-  - you cannot automate the removal of bias and discrimination,
-    because it can be situational, nuanced.
-    - I might say something that is offensive, whereas if someone
-      else, from different background or in a different context says
-      the same thing, it's not offensive.
-   - attempts to automate this have failed:
-     - "List of Dirty Obscene..."
-  - there's a race to get these products out there, so people aren't
-    taking the time needed to adequately clean the data and make sure
-    it's safe. That's just a fact.
-    - RLHF - "reinforcement learning from human feedback"
 
-Go back to main datasets page, select [[https://huggingface.co/datasets/truthful_qa][TruthfulQA]]
-- this is a "benchmark" dataset, can also be used for training. 
-  - it's meant to measure how well models perform.
-  - in this case, to measure how truthful the output responses are to
-    certain prompts.
-- meant to measure "truth" of a model. If a model scores well on this
-  benchmark, they are considered truthful.
-  - these are the ways we are assessing our model's performance. 
+Crucially, you cannot automate the removal of bias and discrimination,
+because t can be situational, nuanced.
+- attempts to automate this have failed:
 
-Something to keep in mind! There's a lot of work to be done developing
-datasets, for fine-tuning and benchmarking. 
-:end:
+See "List of Dirty Obscene..."
+- used to filter out any web pages that contained these words. Just
+  remove the whole page.
+- but it didn't work. GPT-2 was still dirty and obscene. 
 
 *** think/pair/share activity
-Something about why it is so difficult to automate bias?
-(I will have given them clues to this throughout the first sections). 
-** inference with python on colab: abstraction & data:
+Why do you think this method didn't work. Think about it for 2
+minutes.
+- Position: I might say something that is offensive, whereas if
+  someone else, from different background or in a different context
+  says the same thing, it's not offensive.
+- Context: reclaiming the term, explaining why it's hurtful?
+
+There's a race to get these products out there, so people aren't
+taking the time needed to adequately clean the data and make sure it's
+safe. That's just a fact.
+-  RLHF - "reinforcement learning from human feedback"
+
+Something to keep in mind! There's a lot of work to be done in bias
+and discrimination
+:end:
+
+** inference with python on colab: inference & abstraction:
 # 20 min
-Now that you have a sense of how things work on the HF website, we are
-going to practice running inference on Google Colab.
+Now that you have a sense of how inference works on the HF website, we
+are going to practice running inference on Google Colab.
 
 Our goal is to create a text generator, using Python code, taking the
 following steps: 
@@ -329,17 +284,11 @@ following steps:
   model into the colab coding space.
 - Then we will write code to process an input text, and generate an
   output, a continuation.
-- Finally, we will import a dataset from the library and practice
-  running inference with it.
   
-We'll talk about some programming concepts along the way, like
-variables and data types. Accessing data from different types and
-structures. 
+We'll talk about some programming concepts along the way. 
 - how programming languages abstract data through variables, learning
   how to read these layers of abstraction.
-- how programming languages store data into structures, and how to
-  access or manipulate that data. 
-
+  
 *** google colab, REPL, variables:
 # 5 min
 https://colab.research.google.com/
@@ -406,25 +355,51 @@ use to process our prompt.
 Now we are going to "run inference."
 
 First, we will type up a prompt, and save it to a variable
-~prompt~. Then we will pass that prompt to the ~pipe~ variable that we
-created before, saving the output to a new variable, called ~output~. 
+~prompt~. Then we will pass that prompt to the ~pipe~ variable 
 
 #+begin_src python
   prompt = "Hello, my name is Filipa and"
 
-  # we want the length to be 50 characters at the most 
-  output = pipe(prompt, max_length = 50)
+  pipe(prompt)
 #+end_src
 
-Here we see the levels of abstraction at play. Saving the pipeline
-function to a new variable, then the prompt text to a variable, and
-passing that prompt into the pipe.
+Congratulations! We have just ran inference in Python.
 
-Now let's look at the response, and inspect the data structure
-contained within it, which is a ~list~.
+What if we want to take this to the next level. What if we want to
+save the output.
 
-~list~ is a collection of objects, or bits of information. So our
-output is saved as this collection type of object.
+How would we save the output?
+
+#+begin_src python
+
+response = pipe(prompt)
+
+#+end_src
+
+Running the same thing that we created before, saving the output to a
+new variable, called ~response~.
+
+Here we see the levels of abstraction at play.
+- saved the prompt text to a variable, and passing that prompt into the
+  pipe.
+- then saving the pipeline function to a new variable
+
+Why would you want to do this? Why would you want to save it?
+
+Abstraction is the foundation for all programs.
+
+It allows us to then /do things/ with our code. Maybe make a chatbot
+interface. Maybe make a personal assistant. We've saved the output, we
+can now use it to do other things.
+
+Basic concept of programing is creating running functions, saving the
+results, passing those results to new functions, and so on.
+
+These abstractions of processes are what makes software. 
+
+** IF TIME: data structures.
+
+Now let's examine more closely our response. 
 
 #+begin_src python
 
@@ -436,6 +411,9 @@ type(output)
 # list
 
 #+end_src
+What kind of data is this?
+- ~list~ is a collection of objects, or bits of information. So our
+  output is saved as this collection type of object.
 
 What if we wanted to extract just the output text, not the rest of the
 data, how would we go about it?

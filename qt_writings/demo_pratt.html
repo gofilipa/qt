@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2024-02-22 Thu 15:26 -->
+<!-- 2024-02-25 Sun 18:16 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>&lrm;</title>
@@ -200,65 +200,45 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents" role="doc-toc">
 <ul>
-<li><a href="#orgf7c267b">1. goals:</a></li>
-<li><a href="#org7c369b4">2. class</a>
+<li><a href="#org93b5cd4">1. Introduction to AI for Generating Text</a>
 <ul>
-<li><a href="#orgc7a7b83">2.1. Welcome!</a></li>
-<li><a href="#org1defeae">2.2. Workshop goals:</a></li>
-<li><a href="#org58ce24d">2.3. introduction to LLMs</a>
+<li><a href="#org9cbbf5a">1.1. Welcome!</a></li>
+<li><a href="#orge41b041">1.2. goals:</a></li>
+<li><a href="#org6ca2b0a">1.3. introduction to LLMs</a>
 <ul>
-<li><a href="#org6e2b4cc">2.3.1. How does ChatGPT work?</a></li>
-<li><a href="#org044b792">2.3.2. Word Embeddings / Word Vectors</a></li>
-<li><a href="#org78c0129">2.3.3. king - man + woman = queen</a></li>
+<li><a href="#org039acb9">1.3.1. How does ChatGPT work?</a></li>
+<li><a href="#orgb5f33c4">1.3.2. Word Embeddings / Word Vectors</a></li>
+<li><a href="#orgbabc13d">1.3.3. king - man + woman = queen</a></li>
 </ul>
 </li>
-<li><a href="#orgd090786">2.4. Huggingface🤗 platform</a>
+<li><a href="#org552e195">1.4. Huggingface🤗 platform</a>
 <ul>
-<li><a href="#org7e2730c">2.4.1. "models hub"</a></li>
-<li><a href="#org265c533">2.4.2. "datasets hub"</a></li>
-<li><a href="#orgf5d133c">2.4.3. think/pair/share activity</a></li>
+<li><a href="#org6c1fe77">1.4.1. "models hub"</a></li>
+<li><a href="#org05725c5">1.4.2. training process</a></li>
+<li><a href="#orgcb6a747">1.4.3. think/pair/share activity</a></li>
 </ul>
 </li>
-<li><a href="#org22e28df">2.5. inference with python on colab: abstraction &amp; data:</a>
+<li><a href="#orgcb0dbfe">1.5. inference with python on colab: inference &amp; abstraction:</a>
 <ul>
-<li><a href="#orgd4938e8">2.5.1. google colab, REPL, variables:</a></li>
-<li><a href="#org71cabc7">2.5.2. import the models</a></li>
-<li><a href="#orgc50d47f">2.5.3. run inference</a></li>
+<li><a href="#org5ee570a">1.5.1. google colab, REPL, variables:</a></li>
+<li><a href="#orgb2165fa">1.5.2. import the models</a></li>
+<li><a href="#org361a639">1.5.3. run inference</a></li>
 </ul>
 </li>
+<li><a href="#org5a68108">1.6. IF TIME: data structures.</a></li>
 </ul>
 </li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgf7c267b" class="outline-2">
-<h2 id="orgf7c267b"><span class="section-number-2">1.</span> goals:</h2>
+<div id="outline-container-org93b5cd4" class="outline-2">
+<h2 id="org93b5cd4"><span class="section-number-2">1.</span> Introduction to AI for Generating Text</h2>
 <div class="outline-text-2" id="text-1">
-<ul class="org-ul">
-<li>understanding of language models available to them and how to start
-using them on their own.
-<ul class="org-ul">
-<li>build toward skills for using them in programming, even if you
-don't have a background</li>
-</ul></li>
-<li>familiarity of underlying technical processes that power the tools,
-like word vectors.</li>
-<li>exposure to issues with training and producing LLMs, such as
-particularly the perpetuation of bias and discrimination and
-copyright issues.</li>
-<li>hands-on experimentation with tools in Python programming language.</li>
-</ul>
-</div>
 </div>
 
-<div id="outline-container-org7c369b4" class="outline-2">
-<h2 id="org7c369b4"><span class="section-number-2">2.</span> class</h2>
-<div class="outline-text-2" id="text-2">
-</div>
-
-<div id="outline-container-orgc7a7b83" class="outline-3">
-<h3 id="orgc7a7b83"><span class="section-number-3">2.1.</span> Welcome!</h3>
-<div class="outline-text-3" id="text-2-1">
+<div id="outline-container-org9cbbf5a" class="outline-3">
+<h3 id="org9cbbf5a"><span class="section-number-3">1.1.</span> Welcome!</h3>
+<div class="outline-text-3" id="text-1-1">
 <p>
 
 </p>
@@ -271,7 +251,7 @@ This workshop is a gentle introduction to using advanced AI tools, for beginners
 We will work on a popular platform for machine learning, the
 HuggingFace🤗 platform, which offers tools uploaded by a community of
 AI developers. We will explore and play around with these tools, which
-range over various tasks and topics. 
+range over various tasks and topics.
 </p>
 
 <p>
@@ -289,46 +269,53 @@ coded with Python before.</li>
 </div>
 </div>
 
-<div id="outline-container-org1defeae" class="outline-3">
-<h3 id="org1defeae"><span class="section-number-3">2.2.</span> Workshop goals:</h3>
-<div class="outline-text-3" id="text-2-2">
+<div id="outline-container-orge41b041" class="outline-3">
+<h3 id="orge41b041"><span class="section-number-3">1.2.</span> goals:</h3>
+<div class="outline-text-3" id="text-1-2">
 <ul class="org-ul">
-<li>understanding of language models available to them and how to start
-using them on their own.</li>
+<li>understanding of language models available to you and how to start
+using them on their own.
+<ul class="org-ul">
+<li>build toward skills for using them in programming, even if you
+don't have a background</li>
+<li>how program code abstracts certain processes</li>
+</ul></li>
 <li>familiarity of underlying technical processes that power the tools,
 like word vectors.</li>
-<li>exposure to issues with training and producing LLMs, such as
-particularly the perpetuation of bias and discrimination and
-copyright issues.</li>
-<li>critical reflection of methods for evaluating LLM performance.</li>
-<li>hands-on experimentation with tools in Python programming language.</li>
-<li>skills for importing and running models into your Python code.</li>
+<li>exposure to ethical issues with training and producing LLMs, the
+ways they perpetuate bias and discrimination.</li>
+<li>all of that within the larger goal of seeing what you can do with
+these AI tools on your own.</li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-org58ce24d" class="outline-3">
-<h3 id="org58ce24d"><span class="section-number-3">2.3.</span> introduction to LLMs</h3>
-<div class="outline-text-3" id="text-2-3">
+<div id="outline-container-org6ca2b0a" class="outline-3">
+<h3 id="org6ca2b0a"><span class="section-number-3">1.3.</span> introduction to LLMs</h3>
+<div class="outline-text-3" id="text-1-3">
 <p>
-Goal is to de-mystify how Large Language Models (a kind of AI
-software) work under the hood.
+Before starting, let's talk a bit about how they work.
 </p>
 
 <p>
-Also to get a sense of the types of models that exist. There's a large
-ecosystem of models, which can be overwhelming. 
+The goal is to de-mystify how Large Language Models (a kind of AI
+software) work under the hood. 
 </p>
 
 <p>
-All of this will help us in the next section, when we move to the HF
-website. 
+Will be helpful when we get to the next section, when we move to the
+HF website.
+</p>
+
+<p>
+And will help understand some of the ethical issues with the way these
+models are trained.
 </p>
 </div>
 
-<div id="outline-container-org6e2b4cc" class="outline-4">
-<h4 id="org6e2b4cc"><span class="section-number-4">2.3.1.</span> How does ChatGPT work?</h4>
-<div class="outline-text-4" id="text-2-3-1">
+<div id="outline-container-org039acb9" class="outline-4">
+<h4 id="org039acb9"><span class="section-number-4">1.3.1.</span> How does ChatGPT work?</h4>
+<div class="outline-text-4" id="text-1-3-1">
 <p>
 How does it know what to respond when someone asks it a question?
 </p>
@@ -344,27 +331,25 @@ processing massive amounts of text, deriving patterns.</li>
 </ul>
 
 <p>
-One key development in history of AI: 
+Still, how does it know what certain words mean? How to use them in a
+sentence?
 </p>
-<ul class="org-ul">
-<li>quantifies the meanings of words; words in text become numerical
-representations (word embeddings)</li>
-</ul>
-</div>
-</div>
-
-<div id="outline-container-org044b792" class="outline-4">
-<h4 id="org044b792"><span class="section-number-4">2.3.2.</span> Word Embeddings / Word Vectors</h4>
-<div class="outline-text-4" id="text-2-3-2">
-
-<div id="org4302511" class="figure">
-<p><img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*sAJdxEsDjsPMioHyzlN3_A.png" alt="1*sAJdxEsDjsPMioHyzlN3_A.png" width="500px" />
-</p>
-<p><span class="figure-number">Figure 1: </span>Image from "Word Embedding: Basics", by Hariom Gautam</p>
-</div>
 
 <p>
 How do we turn words into something that a computer can understand?
+</p>
+
+<p>
+It quantifies words. Language into numerical forms, representations. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb5f33c4" class="outline-4">
+<h4 id="orgb5f33c4"><span class="section-number-4">1.3.2.</span> Word Embeddings / Word Vectors</h4>
+<div class="outline-text-4" id="text-1-3-2">
+<p>
+One key development in history of AI, 2013 paper. 
 </p>
 
 <p>
@@ -423,21 +408,29 @@ word. How closely they are related.</li>
 
 
 <p>
-Each word is expressed as a series of numbers. Each number a different dimension of the vector.
+Each word is expressed as a series of numbers. Each number a different
+dimension of the vector.
+</p>
+
+<p>
+We can plot "cat" and "dog" according to x and y axes, for example,
+"tiger" and "cute"
+</p>
+<ul class="org-ul">
+<li>x is tiger</li>
+<li>y is cute</li>
+</ul>
+
+<p>
+So while both dog and cat would be high on the cute axis, on the Y
+axis, only cat would be higher up on the X axis, the tiger
+axis. Because cats are like tigers, whereas dogs are not.
 </p>
 
 <p>
 Except we don't have just x, y, or z. We have hundreds, thousands of
 vectors.
 </p>
-
-<p>
-Show image from Medium.
-</p>
-<ul class="org-ul">
-<li>More words here, along with their visualization in "vector space",
-which is just a graph.</li>
-</ul>
 
 <p>
 Why do this to words? Why represent them as numbers?
@@ -450,27 +443,24 @@ Why do this to words? Why represent them as numbers?
 similar meanings.</li>
 <li>We can do cosine similarity, finding out what two vectors are
 similar to each other in shape/direction actually gives us a sense
-of their semantic similarity. Opens up a world of algebra,
-calculus, that we can do with language.</li>
+of their semantic similarity.</li>
+<li>Opens up a world of algebra, calculus, that we can do with
+language.</li>
 </ul></li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-org78c0129" class="outline-4">
-<h4 id="org78c0129"><span class="section-number-4">2.3.3.</span> king - man + woman = queen</h4>
-<div class="outline-text-4" id="text-2-3-3">
-<p>
-vector(”King”) - vector(”Man”) + vector(”Woman”) = vector("Queen")
-</p>
-
+<div id="outline-container-orgbabc13d" class="outline-4">
+<h4 id="orgbabc13d"><span class="section-number-4">1.3.3.</span> king - man + woman = queen</h4>
+<div class="outline-text-4" id="text-1-3-3">
 <p>
 Famous formula:
 </p>
 <ul class="org-ul">
 <li>King - Man + Woman = Queen
 <ul class="org-ul">
-<li>we can do math using language! Or do language using math!?</li>
+<li>we can "do language" using math!</li>
 </ul></li>
 <li>vector(”King”) - vector(”Man”) + vector(”Woman”) = vector("Queen")</li>
 <li>Notice for a moment all the assumptions being made about gender
@@ -510,6 +500,10 @@ even "intelligent", they can just do a lot of math.</li>
 </ul>
 
 <p>
+It's alright if this doesn't make sense. It's advanced ML. 
+</p>
+
+<p>
 See more:
 </p>
 <ul class="org-ul">
@@ -519,9 +513,9 @@ See more:
 </div>
 </div>
 </div>
-<div id="outline-container-orgd090786" class="outline-3">
-<h3 id="orgd090786"><span class="section-number-3">2.4.</span> Huggingface🤗 platform</h3>
-<div class="outline-text-3" id="text-2-4">
+<div id="outline-container-org552e195" class="outline-3">
+<h3 id="org552e195"><span class="section-number-3">1.4.</span> Huggingface🤗 platform</h3>
+<div class="outline-text-3" id="text-1-4">
 <p>
 Now let's move to the platform we will be using, HuggingFace. 
 </p>
@@ -538,9 +532,9 @@ besides just code (datasets, papers, apps).</li>
 </ul>
 </div>
 
-<div id="outline-container-org7e2730c" class="outline-4">
-<h4 id="org7e2730c"><span class="section-number-4">2.4.1.</span> "models hub"</h4>
-<div class="outline-text-4" id="text-2-4-1">
+<div id="outline-container-org6c1fe77" class="outline-4">
+<h4 id="org6c1fe77"><span class="section-number-4">1.4.1.</span> "models hub"</h4>
+<div class="outline-text-4" id="text-1-4-1">
 <p>
 Start with the "models hub"
 </p>
@@ -550,69 +544,23 @@ Here contains AI models created by the community/ HF users.
 </p>
 <ul class="org-ul">
 <li>a little overwhelming interface, I will explain it in a moment.</li>
-<li>models are trained or fine-tuned, can then published to the "hub".</li>
 <li>navigation goes from left to right
 <ul class="org-ul">
-<li>on left side, there's tasks, like text classification. Also
-libraries, datasets, etc. Later we will choose one?
-What is the <b>difference between training and fine-tuning</b>?
-<ul class="org-ul">
-<li>training
-<ul class="org-ul">
-<li>the creation of a "base" model. It requires lots, LOTS of data,
-gigabites of data, and compute power. It takes days, sometimes
-longer.</li>
-</ul></li>
-<li>fine-tuning:
-<ul class="org-ul">
-<li>taking a base model, which has already been trained (like BERT)
-and training it further, with a much smaller dataset that is
-focused on a specific topic.</li>
-<li>customizing the model to work for a particular topic or kind of
-data. 
-<ul class="org-ul">
-<li>finBERT for sentiment analysis of financial data.</li>
-</ul></li>
-</ul></li>
-</ul></li>
+<li>on left side, there's tasks, like text classification.</li>
 <li>on right side, there's models. We are going to narrow down the
 models.</li>
 </ul></li>
 </ul>
 
 <p>
-Filter results by "most downloaded", notice the difference:
-</p>
-<ul class="org-ul">
-<li>"most downloaded":
-<ul class="org-ul">
-<li>Wav2Vec - audio to vector, speech to text.</li>
-<li>RoBERTa - one of the many permutations of BERT, you'll see. First
-model to put into practice the Transformer architecture.</li>
-</ul></li>
-</ul>
-
-<p>
-Filter results by "most liked", you'll see things that may appear
-familiar. 
-</p>
-<ul class="org-ul">
-<li><a href="https://huggingface.co/runwayml/stable-diffusion-v1-5">Stable Diffusion</a> - image generator model.</li>
-<li>models by Meta, aka Facebook.</li>
-</ul>
-
-<p>
-Scroll down, and look for a model called "gpt-neo". Or search for it.
+Search for "gpt-neo" in the text box.
 </p>
 <ul class="org-ul">
 <li><a href="https://huggingface.co/EleutherAI/gpt-neo-125m">gpt-neo-125m</a>
 <ul class="org-ul">
 <li>a model developed by EleutherAI, a non-profit research lab.</li>
 <li>part of a larger family of models named "gpt-neo" with the size
-at the end.
-<ul class="org-ul">
-<li>search "gpt-neo" and you'll see the list.</li>
-</ul></li>
+at the end.</li>
 </ul></li>
 <li>notice "<b>model size</b>". How big is it?
 <ul class="org-ul">
@@ -632,22 +580,28 @@ licenses.
 <li>the model is totally open to download and modify as you wish,
 even for commercial purposes.</li>
 </ul></li>
-<li>practice running inference here for a few mintues.
-<ul class="org-ul">
-<li>anything that you notice about the results?
+</ul></li>
+</ul>
+
+<p>
+Practice running inference here for a mintue. Anything that you notice
+about the results?
+</p>
 <ul class="org-ul">
 <li>it's repetitive.
 <ul class="org-ul">
-<li>the repetition problem is caused by the traits of our
-language itself.</li>
-<li>it generates words that have the highest likelihood. The
-words that have this likelihood tend to be the same ones,
-over and over again.</li>
-</ul></li>
-</ul></li>
-</ul></li>
+<li>the repetition problem is caused by the traits of our language
+itself.</li>
+<li>it generates words that have the highest likelihood. The words
+that have this likelihood tend to be the same ones, over and
+over again.</li>
 </ul></li>
 </ul>
+
+<p>
+Let's look at one more model, to start a conversation about how these
+products are created and then disributed.
+</p>
 
 <p>
 Go back to most download, select <a href="https://huggingface.co/meta-llama/Llama-2-7b">Llama</a>,
@@ -667,140 +621,101 @@ it unless you sign their agreement.</li>
 </ul></li>
 </ul></li>
 </ul>
+
+<p>
+Just to be aware of some of the terminology, marketing terms, used to
+promote this technology, which is really misleading. 
+</p>
 </div>
 </div>
 
-<div id="outline-container-org265c533" class="outline-4">
-<h4 id="org265c533"><span class="section-number-4">2.4.2.</span> "datasets hub"</h4>
-<div class="outline-text-4" id="text-2-4-2">
+<div id="outline-container-org05725c5" class="outline-4">
+<h4 id="org05725c5"><span class="section-number-4">1.4.2.</span> training process</h4>
+<div class="outline-text-4" id="text-1-4-2">
 <p>
-Besides models, 🤗 offers Datasets.
+:notes:
+It's important to consider how these models were created, and what's
+going into the training process.
 </p>
-<ul class="org-ul">
-<li>these datasets are used to fine-tune (and also train and evaluate)
-models.</li>
-<li>"training data"</li>
-</ul>
 
 <p>
-Before diving in, important to consider how these datasets were
-created. 
+In addition to potential violations of copyright, issues with bias and
+discrimination.
 </p>
 <ul class="org-ul">
-<li>there are a lot of <b>ethical issues</b> with the ways that datasets for
-training are generated.
-<ul class="org-ul">
-<li>where the data comes from</li>
-<li>and how they are cleanded (or not cleaned).</li>
-</ul></li>
+<li>The ways that training data is cleaned (or not cleaned).</li>
 </ul>
 
 <p>
 Where do we get most of the data used to train these models? 
 </p>
 <ul class="org-ul">
-<li>scraped from the internet, most of them.</li>
-</ul>
-
-<p>
-Search "bookcorpus"
-</p>
-<ul class="org-ul">
-<li>click on <a href="https://huggingface.co/datasets/bookcorpus">bookcorpus</a> to open the dataset page
-<ul class="org-ul">
-<li>can see that it consists of sentences from books.</li>
-<li>can also see that it's been used to train some of the most
-influential models out there. The Berts!</li>
-</ul></li>
-<li>Unfortunately, this dataset violates copyright.
-<ul class="org-ul">
-<li>scrapes all the free books from smashwords.com, even those that
-have copyright licenses to not reproduce information.</li>
-<li>the authors obviously did not consent to their work being scraped.</li>
-</ul></li>
-</ul>
-
-<p>
-This points to a major issue being explored in the courts today, the
-issue of whether the training data violates copyright.
-</p>
-<ul class="org-ul">
-<li>The makers of these models argue that the use of training data falls
-under the "fair use" exception to copyright law.
-<ul class="org-ul">
-<li>Something can be used if it is for educational purposes.</li>
-</ul></li>
-</ul>
-
-<p>
-Scraped from the internet also means bias
-</p>
+<li>scraped from the internet, most of them.
 <ul class="org-ul">
 <li>contains all the worst parts of the internet, too. All of the
 discrimination and violence.</li>
-<li><p>
-you cannot automate the removal of bias and discrimination,
-because it can be situational, nuanced.
+</ul></li>
+</ul>
+
+<p>
+Crucially, you cannot automate the removal of bias and discrimination,
+because t can be situational, nuanced.
 </p>
 <ul class="org-ul">
-<li>I might say something that is offensive, whereas if someone
-else, from different background or in a different context says
-the same thing, it's not offensive.</li>
+<li>attempts to automate this have failed:</li>
 </ul>
+
+<p>
+See "List of Dirty Obscene&#x2026;"
+</p>
 <ul class="org-ul">
-<li>attempts to automate this have failed:
+<li>used to filter out any web pages that contained these words. Just
+remove the whole page.</li>
+<li>but it didn't work. GPT-2 was still dirty and obscene.</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgcb6a747" class="outline-4">
+<h4 id="orgcb6a747"><span class="section-number-4">1.4.3.</span> think/pair/share activity</h4>
+<div class="outline-text-4" id="text-1-4-3">
+<p>
+Why do you think this method didn't work. Think about it for 2
+minutes.
+</p>
 <ul class="org-ul">
-<li>"List of Dirty Obscene&#x2026;"</li>
-</ul></li>
-</ul></li>
-<li>there's a race to get these products out there, so people aren't
-taking the time needed to adequately clean the data and make sure
-it's safe. That's just a fact.
+<li>Position: I might say something that is offensive, whereas if
+someone else, from different background or in a different context
+says the same thing, it's not offensive.</li>
+<li>Context: reclaiming the term, explaining why it's hurtful?</li>
+</ul>
+
+<p>
+There's a race to get these products out there, so people aren't
+taking the time needed to adequately clean the data and make sure it's
+safe. That's just a fact.
+</p>
 <ul class="org-ul">
 <li>RLHF - "reinforcement learning from human feedback"</li>
-</ul></li>
 </ul>
 
 <p>
-Go back to main datasets page, select <a href="https://huggingface.co/datasets/truthful_qa">TruthfulQA</a>
+Something to keep in mind! There's a lot of work to be done in bias
+and discrimination
 </p>
-<ul class="org-ul">
-<li>this is a "benchmark" dataset, can also be used for training. 
-<ul class="org-ul">
-<li>it's meant to measure how well models perform.</li>
-<li>in this case, to measure how truthful the output responses are to
-certain prompts.</li>
-</ul></li>
-<li>meant to measure "truth" of a model. If a model scores well on this
-benchmark, they are considered truthful.
-<ul class="org-ul">
-<li>these are the ways we are assessing our model's performance.</li>
-</ul></li>
-</ul>
-
 <p>
-Something to keep in mind! There's a lot of work to be done developing
-datasets, for fine-tuning and benchmarking. 
+:end:
 </p>
+</div>
 </div>
 </div>
 
-<div id="outline-container-orgf5d133c" class="outline-4">
-<h4 id="orgf5d133c"><span class="section-number-4">2.4.3.</span> think/pair/share activity</h4>
-<div class="outline-text-4" id="text-2-4-3">
+<div id="outline-container-orgcb0dbfe" class="outline-3">
+<h3 id="orgcb0dbfe"><span class="section-number-3">1.5.</span> inference with python on colab: inference &amp; abstraction:</h3>
+<div class="outline-text-3" id="text-1-5">
 <p>
-Something about why it is so difficult to automate bias?
-(I will have given them clues to this throughout the first sections). 
-</p>
-</div>
-</div>
-</div>
-<div id="outline-container-org22e28df" class="outline-3">
-<h3 id="org22e28df"><span class="section-number-3">2.5.</span> inference with python on colab: abstraction &amp; data:</h3>
-<div class="outline-text-3" id="text-2-5">
-<p>
-Now that you have a sense of how things work on the HF website, we are
-going to practice running inference on Google Colab.
+Now that you have a sense of how inference works on the HF website, we
+are going to practice running inference on Google Colab.
 </p>
 
 <p>
@@ -812,26 +727,20 @@ following steps:
 model into the colab coding space.</li>
 <li>Then we will write code to process an input text, and generate an
 output, a continuation.</li>
-<li>Finally, we will import a dataset from the library and practice
-running inference with it.</li>
 </ul>
 
 <p>
-We'll talk about some programming concepts along the way, like
-variables and data types. Accessing data from different types and
-structures. 
+We'll talk about some programming concepts along the way. 
 </p>
 <ul class="org-ul">
 <li>how programming languages abstract data through variables, learning
 how to read these layers of abstraction.</li>
-<li>how programming languages store data into structures, and how to
-access or manipulate that data.</li>
 </ul>
 </div>
 
-<div id="outline-container-orgd4938e8" class="outline-4">
-<h4 id="orgd4938e8"><span class="section-number-4">2.5.1.</span> google colab, REPL, variables:</h4>
-<div class="outline-text-4" id="text-2-5-1">
+<div id="outline-container-org5ee570a" class="outline-4">
+<h4 id="org5ee570a"><span class="section-number-4">1.5.1.</span> google colab, REPL, variables:</h4>
+<div class="outline-text-4" id="text-1-5-1">
 <p>
 <a href="https://colab.research.google.com/">https://colab.research.google.com/</a>
 </p>
@@ -878,9 +787,9 @@ x + y
 </div>
 </div>
 
-<div id="outline-container-org71cabc7" class="outline-4">
-<h4 id="org71cabc7"><span class="section-number-4">2.5.2.</span> import the models</h4>
-<div class="outline-text-4" id="text-2-5-2">
+<div id="outline-container-orgb2165fa" class="outline-4">
+<h4 id="orgb2165fa"><span class="section-number-4">1.5.2.</span> import the models</h4>
+<div class="outline-text-4" id="text-1-5-2">
 <p>
 on the toolbar, where it says RAM DISK, change the hardware accelator
 to GPU.
@@ -923,41 +832,90 @@ use to process our prompt.
 </div>
 </div>
 
-<div id="outline-container-orgc50d47f" class="outline-4">
-<h4 id="orgc50d47f"><span class="section-number-4">2.5.3.</span> run inference</h4>
-<div class="outline-text-4" id="text-2-5-3">
+<div id="outline-container-org361a639" class="outline-4">
+<h4 id="org361a639"><span class="section-number-4">1.5.3.</span> run inference</h4>
+<div class="outline-text-4" id="text-1-5-3">
 <p>
 Now we are going to "run inference."
 </p>
 
 <p>
 First, we will type up a prompt, and save it to a variable
-<code>prompt</code>. Then we will pass that prompt to the <code>pipe</code> variable that we
-created before, saving the output to a new variable, called <code>output</code>. 
+<code>prompt</code>. Then we will pass that prompt to the <code>pipe</code> variable 
 </p>
 
 <div class="org-src-container">
 <pre class="src src-python"><span style="color: #4eee94;">prompt</span> = <span style="color: #deb887;">"Hello, my name is Filipa and"</span>
 
-<span style="color: #7f7f7f;"># </span><span style="color: #7f7f7f;">we want the length to be 50 characters at the most </span>
-<span style="color: #4eee94;">output</span> = pipe(prompt, max_length = 50)
+pipe(prompt)
 </pre>
 </div>
 
 <p>
-Here we see the levels of abstraction at play. Saving the pipeline
-function to a new variable, then the prompt text to a variable, and
-passing that prompt into the pipe.
+Congratulations! We have just ran inference in Python.
 </p>
 
 <p>
-Now let's look at the response, and inspect the data structure
-contained within it, which is a <code>list</code>.
+What if we want to take this to the next level. What if we want to
+save the output.
 </p>
 
 <p>
-<code>list</code> is a collection of objects, or bits of information. So our
-output is saved as this collection type of object.
+How would we save the output?
+</p>
+
+<div class="org-src-container">
+<pre class="src src-python">
+<span style="color: #4eee94;">response</span> = pipe(prompt)
+
+</pre>
+</div>
+
+<p>
+Running the same thing that we created before, saving the output to a
+new variable, called <code>response</code>.
+</p>
+
+<p>
+Here we see the levels of abstraction at play.
+</p>
+<ul class="org-ul">
+<li>saved the prompt text to a variable, and passing that prompt into the
+pipe.</li>
+<li>then saving the pipeline function to a new variable</li>
+</ul>
+
+<p>
+Why would you want to do this? Why would you want to save it?
+</p>
+
+<p>
+Abstraction is the foundation for all programs.
+</p>
+
+<p>
+It allows us to then <i>do things</i> with our code. Maybe make a chatbot
+interface. Maybe make a personal assistant. We've saved the output, we
+can now use it to do other things.
+</p>
+
+<p>
+Basic concept of programing is creating running functions, saving the
+results, passing those results to new functions, and so on.
+</p>
+
+<p>
+These abstractions of processes are what makes software. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org5a68108" class="outline-3">
+<h3 id="org5a68108"><span class="section-number-3">1.6.</span> IF TIME: data structures.</h3>
+<div class="outline-text-3" id="text-1-6">
+<p>
+Now let's examine more closely our response. 
 </p>
 
 <div class="org-src-container">
@@ -971,6 +929,13 @@ output
 
 </pre>
 </div>
+<p>
+What kind of data is this?
+</p>
+<ul class="org-ul">
+<li><code>list</code> is a collection of objects, or bits of information. So our
+output is saved as this collection type of object.</li>
+</ul>
 
 <p>
 What if we wanted to extract just the output text, not the rest of the
@@ -1075,10 +1040,9 @@ output[0][<span style="color: #deb887;">'generated_text'</span>]
 </div>
 </div>
 </div>
-</div>
 <div id="postamble" class="status">
 <p class="author">Author: CaladoF</p>
-<p class="date">Created: 2024-02-22 Thu 15:26</p>
+<p class="date">Created: 2024-02-25 Sun 18:16</p>
 <p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
