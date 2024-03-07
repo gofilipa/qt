@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="generator" content="Pelican" />
+        <title>Reflections from GC-DRI</title>
+        <link rel="stylesheet" href="/theme/css/main.css" />
+        <meta name="description" content="The past few days we have been running our annual Digital Research Institute at the Graduate Center Digital Initiatives. I've taught three..." />
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="/">Queer Tools</a></h1>
+                <nav><ul>
+                    <li><a href="/pages/about.html">About</a></li>
+                    <li><a href="/category/failures.html">failures</a></li>
+                    <li><a href="/category/media-archaeology.html">media archaeology</a></li>
+                    <li><a href="/category/queerness.html">queerness</a></li>
+                    <li class="active"><a href="/category/text-analysis.html">text analysis</a></li>
+                    <li><a href="/category/text-encoding.html">text encoding</a></li>
+                </ul></nav>
+        </header><!-- /#banner -->
+<section id="content" class="body">
+  <article>
+    <header>
+      <h1 class="entry-title">
+        <a href="/reflections-from-gc-dri.html" rel="bookmark"
+           title="Permalink to Reflections from GC-DRI">Reflections from GC-DRI</a></h1>
+    </header>
+
+    <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2020-01-24T00:00:00-05:00">
+                Published: Fri 24 January 2020
+        </abbr>
+
+        <address class="vcard author">
+                By                         <a class="url fn" href="/author/filipa-calado.html">Filipa Calado</a>
+        </address>
+<p>In <a href="/category/text-analysis.html">text analysis</a>.</p>
+
+</footer><!-- /.post-info -->      <p>The past few days we have been running our annual <a href="https://gcdri.commons.gc.cuny.edu/">Digital Research
+Institute</a> at the Graduate Center
+Digital Initiatives. I've taught three sessions of python, and
+supported sessions on Text Analysis, as well as helping out in Command
+Line, Git/Github, and attended Mapping.</p>
+<p>What I've found, or realized once again, is how much my approach
+toward data and method informs my interest in DH. </p>
+<p>As I watched the Text Analysis workshop unfold, the most striking
+realization was the preconceptions and biases we bring into our
+inferences. We might make certain assumptions about analysis. For
+example, in Natural Language Toolkit's (NLTK) <code>similar()</code> method, we
+measure what words are similar to any other word. In the analysis
+below, we see what words are associated to "love" across two different
+texts, <em>Moby Dick</em> (text1) and <em>Sense And Sensibility</em> (text2).</p>
+<p><img alt="Finding words that are similar to &quot;love&quot; in *Moby Dick* and *Sense
+and Sensibility*" src="../images/love-similar.jpg"></p>
+<p>For Melville, love is associated with the strong natural forces,
+having to do with nature ("sea," "whale," "fear") and men, male bodies
+("head," "hand," "him," "me"). In Austen, the word love has
+associations with domestic life, family and specific people ("sister,"
+"mother," "elinor," "marianne"). Both Melville and Austen share "head"
+and "him," though Austen also has "heart" (while Melvill has "hand")
+and "her." In Austen, affect is associated with "affection," while
+Melville associates it with "fear."</p>
+<p>I wonder how our analysis might change when we know the text is
+written by a woman. What kinds of conclusions are we tempted to draw?
+Presumably, that love for Austen is associated with familial
+affection, and for Melville, with awe of nature and man, and that
+these differences indicate gender differences. To be overly reductive:
+women find love in the home, and men out in the world.</p>
+<p>But this desire to draw conclusions isn't the right approach, or at
+least it's not the most interesting to me. I am not doing text
+analysis to answer a question. I am doing it to arrive at the
+question, which is a way to keep the literary conversation going (see
+Stephen Ramsay, <em>Algorithmic Criticism</em>). During the session, Rafa
+said something that reinforced this idea, that "text analysis is just
+playing with lists."  That idea of play is the space I want to stay
+in.</p>
+<p>In the spirit of play, I'm thinking a lot about how we can try to
+queer or mess around with some of the reductions of "cleaning text."
+Obviously, the more and more you clean your data, that you simplify
+and regularize strings, the easier it is to see the relationships
+between them (Moretti: "where <em>distance</em> is a condition of
+<em>knowledge</em>"). Lemmatizing words, stemming them, removing stopwords
+and punctuation, are ways of reducing the complexity of data in order
+to make comparisons between them and draw conclusions. </p>
+<p>So I'm proposing that we take a closer look at some of the data that
+is often ignored in text analysis, which are "stopwords." Stopwords
+are text that are commonly used and thought to be semantically void,
+such as articles and prepositions. I compiled a list of stopwords from
+one of my favorite texts,
+<a href="http://gutenberg.net.au/ebooks02/0200331.txt"><em>Orlando: A Biography</em></a> by Virginia
+Woolf:</p>
+<p><code>['for', 'there', 'be', 'no', 'of', 'his', 'the', 'of', 'the',
+'did', 'to', 'it', 'was', 'in', 'the', 'of', 'at', 'the', 'of', 'a',
+'which', 'from', 'the', 'was', 'the', 'of', 'an', 'and', 'more', 'or',
+'the', 'of', 'for', 'the', 'and', 'a', 'or', 'of', 'the', 'on', 'a',
+'or', 'his', 'had', 'it', 'from', 'the', 'of', 'a', 'who', 'had',
+'up', 'under', 'the', 'in', 'the', 'of', 'and', 'now', 'it', 'in',
+'the', 'which', 'through', 'the', 'of', 'the', 'of', 'the', 'who',
+'had', 'him', 'had', 'in', 'of', 'and', 'and', 'by', 'and', 'they',
+'had', 'of', 'off', 'and', 'them', 'to', 'from', 'the', 'too', 'he',
+'he', 'was', 'only', 'and', 'too', 'to', 'with', 'them', 'in', 'or']</code> </p>
+<p>Anyone who is familiar with <em>Orlando</em> will notice the cadence of the
+first few sentences in these lines. I'm interested in how these words,
+often overlooked, can give us some insight into the movement of the
+text. Can prepositions help to suggest the energy or tone of a passage?
+How might they be compared to what William James describes in "Stream
+of Thought" as the the "moments of flight" between "images" or "resting places"
+(typically conveyed by nouns and adjectives)? I don't know if this
+line of thinking will lead anywhere, but it seems like an interesting
+project. </p>
+    </div><!-- /.entry-content -->
+
+  </article>
+</section>
+        <section id="extras" class="body">
+                <div class="blogroll">
+                        <h2>links</h2>
+                        <ul>
+                            <li><a href="https://getpelican.com/">Pelican</a></li>
+                            <li><a href="https://www.python.org/">Python.org</a></li>
+                            <li><a href="https://palletsprojects.com/p/jinja/">Jinja2</a></li>
+                            <li><a href="#">You can modify those links in your config file</a></li>
+                        </ul>
+                </div><!-- /.blogroll -->
+                <div class="social">
+                        <h2>social</h2>
+                        <ul>
+
+                            <li><a href="#">You can add links in your config file</a></li>
+                            <li><a href="#">Another social link</a></li>
+                        </ul>
+                </div><!-- /.social -->
+        </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="https://getpelican.com/">Pelican</a>, which takes great advantage of <a href="https://www.python.org/">Python</a>.
+                </address><!-- /#about -->
+
+                <p>The theme is by <a href="https://www.smashingmagazine.com/2009/08/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
+        </footer><!-- /#contentinfo -->
+
+</body>
+</html>
