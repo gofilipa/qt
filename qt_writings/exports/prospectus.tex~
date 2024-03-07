@@ -1,0 +1,323 @@
+% Created 2019-09-06 Fri 23:02
+% Intended LaTeX compiler: pdflatex
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{grffile}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage{amssymb}
+\usepackage{capt-of}
+\usepackage{hyperref}
+\author{Filipa  Calado}
+\date{\today}
+\title{}
+\hypersetup{
+ pdfauthor={Filipa  Calado},
+ pdftitle={},
+ pdfkeywords={},
+ pdfsubject={},
+ pdfcreator={Emacs 26.2 (Org mode 9.1.9)}, 
+ pdflang={English}}
+\begin{document}
+
+\tableofcontents
+
+\section{Prospectus\hfill{}\textsc{diss}}
+\label{sec:orgee3f4fc}
+
+\#+ Queer Tools
+
+\subsection{Problem Statement: Utility of DH Tools}
+\label{sec:orgdd4e67a}
+\subsubsection{Humanisitic vs. Scientific Inquiry}
+\label{sec:orgf50884d}
+
+There has been much debate about what digital tools can do for the
+humanities, and literary studies in particular.\footnote{One way to understand this debate is to place theorists who use
+digital tools in literary studies on a spectrum, based on their faith
+in the ability of methods such as computation, quantification,
+visualization, and encoding to pursue and answer questions about
+literature. These theorists take different stances on whether DH tools
+facilitate a more objective, or what Franco Moretti calls
+“falsifiable," method of criticism, where graphs and other
+visualizations might answer questions about literary history and form,
+or a more “speculative” mode, championed by Johanna Drucker, who
+purposefully skews graphical metrics in order to reflect the ambiguity
+and partiality of the data they represent. In between these two
+extremes, there are theorists like Andrew Piper and Ted Underwood, who
+temper the reductions and rhetoric of "distant reading" by
+incorporating close readings and explanations, or Catherine D'Ignazio
+and Lauren Klein, whose attempts to recover emotion and emobodiment
+are a direct indictment on data science as an exclusionary discipline.} Stephen Ramsay
+usefully figures this misunderstanding about what DH tools can do by
+opposing humanistic endeavor against scientific inquiry. Ramsay
+explains that because literary theorists approach observation as a
+phenomenal experience, it is antithetical to the motives and processes
+of scientific inquiry. Science aims to discover truth, while the
+humanities, and literary critics in particular, make readings, so that
+conversations about the literary inheritence might continue. When used
+responsibly, computers are “tools… that enable critical engagement,
+interpretation, conversation, and contemplation” (x). Drawing from
+Lisa Samuels' and Jerome McGann's concept of "deformance," Ramsay
+takes constraints of computation as an opportunity for reflection on
+the ways that critics change and transform the texts under their
+scrutiny. His ultimate concern is how these tools function within a
+larger rhetorical process: “The understanding promised us by the
+critical act arises not from a presentation of facts, but from the
+elaboration of a gestalt, and it rightfully includes the vague
+reference, the conjectured similitude, ironic twist, and the dramatic
+turn. In the spirit of inventio, the critic freely employs the
+rhetorical acts of conjecture---not so that a given matter can be
+settled, but in order that the matter might become richer, deeper, and
+ever more complicated” (16). Using the heightened objectivity made
+possible by the machine to do subjective work.
+
+\subsubsection{Falsifiable --> Reproducibility}
+\label{sec:org3de8c2a}
+
+The idea persists that computational methods ought to verify, correct,
+or establish facts about literature and literary history and
+forms. Recently, the conversation has been reignited by an article by
+Nan Z Da in \emph{Critical Inquiry} that asserts a "fundamental mismatch
+between the statistical tools that are used and the objects to which
+they are applied" (601). Because CLS borrows statistical modeling and
+tools from the sciences, Da argues, it has the burden to "show us" the
+truth. Da's deems Computational Literary Studies (CLS) ineffective
+when its methods fail to reproduce the results of her colleagues. Her
+emphasis on the "reproducible" ironically extends Moretti's call for a
+"falsifiable criticism." Da explains that "if we are employing tools
+whose express purpose is functional rather than metaphorical, then we
+must use them in accordance with their true functions" (620).
+
+Micki Kaufmann, *Quantifying Kissinger" Dissertation: "it strikes me
+that this is a poweful, non-linear example of the value of
+visualization as an ongoing process, rather than a one-time production
+process that results in a specific finding."p
+
+\subsection{Proposal}
+\label{sec:org61010e5}
+\subsubsection{Playing Around}
+\label{sec:org43ccc2f}
+
+This project interrogates this assumption that the results of using
+digital tools ought to be reproducible. Instead, it prosposes that we
+mess around with tools in ways that resist the impulses for fixity,
+correction, certainty, verification. Such a method values
+experimentation exploration and revels in the inconsistencies, errors,
+and idiosyncracies of close reading. It examines the ways that both
+human minds and computers are prone to making mistakes, and takes
+these ironies as points of inspiration for human-computer
+interactions. My goal with this project is to explore how digital
+methods and media can be used to engage queer subjectivity, embodiment
+and affects in 20th century life writing. I am looking specifically at
+digital methods that engage reading and interpretive processes, such
+as electronic editing practices and social reading tools. Here, I’m
+interested in using the “digital” to mine and/or imagine terrains of
+affect and cognition in queer texts. How do the logics and limitations
+of technology (fail to) reflect the complexities or queer subjectivity
+or gender identity? Is it possible to encode or decode queerness? The
+computer and body as cultural objects\ldots{} This examination draws me into
+studies of consciousness, where I look at cognitive and embodied
+perceptual processes and what they might reveal about the reading
+experience. I pose a variety of parallels between human and computer
+as starting points to speculate on how the affinities between man and
+machine might emerge in the interface between reader and text.
+
+\subsubsection{One Stake: Movement}
+\label{sec:orgff21826}
+
+Why do I find reproducability so dangerous? Because of apathy. Being motivated, being moved. This is a politics about movement, It follows both positive and negative movement, not just about despair but about hope.
+
+It is moved by images we cannot touch, places we cannot inhabit, persons we cannot identify. Heather Love and Kelly Caldwell are mobilized by it. Munoz focuses on the animating principle, this 'surplus' that anticipates an illumination, a utopian futurity. It can feel good to feed bad. It's not about necessarily getting up and doing something, but about attending to movement.
+One major stake is exploring what digital humanities has to gain from
+Queer Theory. 
+
+\subsubsection{Human Thought is not Reproducible, Computers are not Immaterial}
+\label{sec:org745dc08}
+
+(Pits-Taylor)
+
+Myths about computation that do not hold on the immaterial level. 
+
+Kirschenbaum's screen essentialism
+
+“Commonplace assumptions about …. Ephemerality, fungibility, and
+homogeneity. A forensic perspective furnishes us with two key concepts
+for an alternative approach to electronic textual studies: trace
+evidence and individualization. Ultimately, electronic data assumes
+visible and material form through processes of instrumentation that
+suggest phenomena we call virtual are in fact physical phenomena
+lacking the appropriate mediation to supplement wave-length optics”
+(19).
+
+\subsection{Field: Queer Machines:}
+\label{sec:orgbb0a7ae}
+
+One major stake is exploring what digital humanities has to gain from
+attention to embodied experience.  
+
+gain from Queer Theory and Congitive Studies
+
+What do we do with bad feelings?
+
+\subsection{Life Writing by Queer Authors}
+\label{sec:org49b7f4b}
+\subsubsection{Why life writing?}
+\label{sec:org2d85183}
+
+This investigation takes "life writing", which includes autobiography,
+memoir, journals, manuscripts, as well as fictionalized autobiography,
+biography and roman a clef, as its object of study. I use the term
+"life writing" loosely: the body of texts in my study do not adhere to
+any conventional criteria of genre, except that all of them either
+demonstrate a writing self or an experimental style that reflects the
+fragmentary and processural nature of subjecthood. My interest in life
+writing emerges from a concern with the ways that literary form shapes
+the coherence of queer identity and engages embodied affects in
+subjective experience. The focus on composition, particularly in the
+manuscripts and journals of Oscar Wilde and Virginia Woolf, explores
+how writing is an iterative practice that continually calls into
+question the delimitations of embodiment and subjectivity. Readings
+from what I call 21st century "memoiresque," including works by Alison
+Bechdel, Jordy Rosenberg, and Yiyun Li, function as present day
+examples of life writing that continues to pose fresh problems for
+understanding queer identity. A recurring theme in my analysis is the
+difficulty of categorizing and decoding or encoding queer identity,
+especially when affective responses to reading get in the way of
+interpreation. I am also wary of overanalyzing and delimiting queer
+subjecthood. Is it possible to mark queerness as legible so that it
+remains dynamic? How do postmoderns writers approach the differences
+bewteen fiction and memoir? Woolf's ficitonal biography, \emph{Orlando},
+acts as a fulcrum around which the false distinctions of fiction and
+nonfiction, writing and the self, revolve. I wonder if these generic
+boundaries are even useful.
+
+\subsection{First Chapter: Touching: Toward a Queer DH}
+\label{sec:org2a8e815}
+
+The first chapter, "Toward a Queer DH," proposes what Digital
+Humanities methodologies might learn from queer theory. It looks at
+specific reading practices by Eve Sedgwick and Heather Love, which
+question the proper relationship of the critic to the object of
+study. Sedgwick's ideas about "touching/feeling" and Love's notion of
+"touching but not touching" pose queer modes of relationality that do
+not presume full connections as prerequisite for analysis.\footnote{Both Love and Sedgewick search for critical methods outside the
+logic of exposure that guides much of "suspicious reading" from
+Foucault onward. Though Sedgwick focuses on reconceptualizing
+traditionally negative affects (like shame) into creative resources,
+and Love prefers to dwell in the painful past, giving irredeemable and
+inconsolable characters full reign over their own darkness, both
+critics look at touch as a new way of making connections.} This
+chapter engages these techniques with various critical methods, many
+from the Digital Humanities, such as distant, surface, and
+post-critical reading, and deformative, algorithmic, and speculative
+criticism. I pay particular attention to how digital formats and
+interfaces might harness queer critical methods, speculating on the
+intimate process of engaging with texts on a computer, where users can
+manipulate and transform texts in virtually infinite and unique
+ways. Examining two digital projects, a text analysis and
+visualization web application called \emph{Voyant-Tools}, and a hypertext
+novella by Caitlin Fischer, \emph{These Waves of Girls}, I reflect how the
+tools work alongside the reader’s intuition, in what Jerome McGann
+calls a “prosthetic extension of that demand for critical reflection,”
+by which the reader is able to feel her way through the text. In
+particular, I examine the haptic and exploratory methods might enliven
+the reading process by allowing the reader to play, experiment, and
+imagine new connections to the textual object.
+
+\subsection{Second Chapter: Editing: Encoding Identity}
+\label{sec:org89ea258}
+
+The second chapter poses two contrasting ideas---the instability of
+queer identity and subjecthood against the limitations and fixities of
+computational methods. How do the abstractions and structures of
+digital formats struggle or fail to mark the complexities of embodied
+experience? To answer this question, I first review the relation
+between queerness and loss, failure and negative affects. Then, I
+explore how TEI (the Text Encoding Initiative), an encoding standard
+or "markup language" for electronic editig, struggles to portray the
+complexity of the data it represents. Here, I demonstrate how TEI
+might be used to mark up the manuscript of Oscar Wilde's \emph{The Picture
+of Dorian Gray}, which was twice edited by Wilde in ways that
+minimized homoerotic content, among other changes. I question how TEI
+as a standard enables editors to mark up such revisions, given the
+hierarchical structure of XML (TEI's parent language) and the
+available relevant "tags" for marking up manuscripts. I bring my
+investigation into conversation with other critics and teachers who
+have found difficulty with their own deployments of TEI: Pamela
+Caughie, who's attempts to encode gender in Lili Elbe's memoir, \emph{Man
+Into Woman}, turn a question of about technical difficulty back to the
+difficulty of pinning down sexual identity: "Can ontologies ever
+capture the complex, multi-layered, dynamic nature of gender
+identities?” Throughout my conversation about \emph{Dorian Gray}, I bring
+up examples of 21st century queer memoirs who have experimented with
+alternative ways of figuring queer identity and subjecthood. This
+chapter ends by delving into the complex question of gender ontology
+and sexual identity, which are never fully legible despite our tools.
+
+\subsection{Third Chapter: Teaching: Social Annotation}
+\label{sec:orgd6cd8aa}
+
+The third chapter questions how digital tools might facilitate
+embodied interactions with text. To begin to answer this question, I
+examine biological processes of perception and analogies between man
+and machine. I take the figure of cyborg to explore
+biological-mechanical intersections, such as neurons and transistors,
+memory and RAM, in order to re-present the human as a creative
+machine, a thinking/feeling machine. This human-computer engagement,
+rather than reduce the differences between humans and machines, allows
+me to explore unexpected affinities that emerge in the interface
+between reader and text. Understanding how certain perceptual and
+computational processes work across biological and mechanical levels,
+I argue, will spark our thinking about how humans might interact with
+machines. I take up social annotation as a test case, examining a
+particular digital annotation tool that I've modified for purposes of
+engaging preverbal and nonverbal embodied and affective responses
+while reading. This examination ends with a close reading of Virginia
+Woolf and Djuna Barnes novels, to see both how their prose evokes some
+of the perceptual processes involved in reading and writing as well as
+how digital annotation practice helps readers to recognize these
+processes. How might formal strategies developed by modernist writers
+engage cognitive/affective/embodied processes?
+
+\subsection{Fourth Chapter/Epilogue: Temporalities: Feeling Backward / Feed Forward}
+\label{sec:org33db18b}
+
+Language, consciousness/perception, and media are all characterized by a displacement between what we see/experience and how it works/functions. The explanatory gap, forensic vs formal materiality, the instability of the signifier. This displacement creates a space for my speculations.
+
+Lesbian Herstory Archive \& Media Archaeology
+
+Hansen and Love:
+Emergent perceptual experiences combined with backward looking
+affects. 
+
+Isn't the fractured sign (Tenen) an opportunity for play?
+
+Media and Immediacy: 
+Does the pleasure of reading reside more in the collapsing of the interface between reader and text, or in the excavation of the textual conduit? By interface, I mean the invisible encoding or tagging that appends electronic text, as well as the codes that guide interpretation (Barthes)---do we deconstruct or do we pursue narrative desire/closure (Fisher)?
+
+\subsection{Our tools reflect us}
+\label{sec:org76fa9a7}
+
+\section{Works Cited}
+\label{sec:org1453fbb}
+
+Moretti, \textbf{signs} 
+Ramsay, \textbf{algorithmic} 
+Drucker, DHQ article 
+CatherineD'Ignazio and Lauren Klein \textbf{Data Feminism} 
+Andrew Piper, \textbf{Enumerations} 
+Ted Underwood, \textbf{Distant Horizons} 
+Nan Z Da, Critical Inquiry article 
+Lisa Samuels, Jerome McGann, "Deformance\ldots{}"  
+Micki Kaufmann, *Quantifying Kissinger"
+Sedgwick
+Love
+McGann, Radiant Textuality
+\end{document}

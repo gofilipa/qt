@@ -1,0 +1,388 @@
+* References
+Ackerman, Erin M. P. "Becoming and Belonging: The
+  Productivity of Pleasures and Desires in Octavia Butler's
+  Xenogenesis Trilogy." /Extrapolation/ (Pre-2012), vol. 49, no. 1,
+  2008, pp. 24-43,3.
+
+Alarcón, Norma. "Conjugating Subjects in the Age of Multiculturalism"
+ /Mapping Multiculturalism/. Avery F. Gordon and Christopher Newfield,
+ editors. University of Minnesota Press. pp. 127-148.
+
+Amin, Kadji, Musser, Amber J. and Pérez, Roy. "'Queer Form':
+ Aesthetics, Race, and the Violences of the Social."
+ /ASAP/Journal/. Vol. 2.2, May 2017. pp. 227--239.
+
+Anzaldúa Gloria. /Borderlands: The New Mestiza/La Frontera/. 3rd ed.,
+ Aunt Lute Books, 2007.
+
+Barnett, Fiona, Blas Zack, cárdenas, micha, Gaboury, Jacob, Johnson,
+ Jessica Marie and Rhee, Margaret. "QueerOS: A User's Manual."
+ eds. Matthew K. Gold and Lauren Klein. /Debates in the Digital
+ Humanities/, University of Minnesota Press.
+
+Barnes, Steven. "What Octavia E. Butler Feared Most about Human
+ Nature," /The Bloomsbury Handbook to Octavia Butler/. pp. 11-13.
+
+Barthes, Roland. /Camera Lucida: Reflections on
+ Photography/. Translated by Richard Howard, 1st American ed., Hill
+ and Wang, 1981.Barthes, Roland. 
+
+Bender, Emily M., et al. "On The Dangers Of Stochastic Parrots: Can
+ Language Models Be Too Big?" /Proceedings Of The 2021 Acm Conference
+ On Fairness, Accountability, And Transparency/. 2021.
+
+Bender, Emily M., and Alexander Koller. "Climbing Towards Nlu: On
+ Meaning, Form, And Understanding In The Age Of Data." /Proceedings Of
+ The 58th Annual Meeting Of The Association For Computational
+ Linguistics/. 2020.
+
+Benjamin, Ruha. /Race After Technology: Abolitionist Tools for the New
+ Jim Code/. Polity, 2019.
+
+Benzel, Kathryn N. “Reading Readers In Virginia Woolf’S ‘Orlando: A
+ Biography.’” /Style/, vol. 28, no. 2, 1994, pp. 169–82.
+
+Berman, Jessica. “Is The Trans In Transnational The Trans In
+ Transgender?"  /Modernism/modernity/, vol. 24 no. 2, 2017,
+ pp. 217-244. Project MUSE, doi:10.1353/mod.2017.0019
+
+Blas, Zack and cárdenas, micha. /transCoder: A Software Development
+ Kit/. 2007-2012. https://zachblas.info/works/queer-technologies/
+
+Boucher, Geoff. "The Politics of Performativity: A Critique Of Judith
+ Butler." /Parrhesia. 1.1 (2006): 112-141.
+
+Bowers, Fredson. /Textual & Literary Criticism/. Cambridge: Cambridge
+ University Press, 1959.
+
+Boyd, Jason A. "'The Texting Wilde Project': Thoughts on Tools for a
+ Computer-Assisted Exegisis of a Biographical Corpus." The Text
+ Encoding Initiative Conference and Members Meeting 2014. Evanston,
+ Illinois. October 22-24, 2014.
+
+Brown, Jayna. /Black Utopias: Speculative Life and the Music
+of Other Worlds/. Duke University Press, 2021.
+
+Browne, Simone. /Dark Matters: On the Surveillance of Blackness/. Duke
+ University Press, 2015.
+
+Buolamwini, Joy, and Timnit Gebru. “Gender Shades: Intersectional
+ Accuracy Disparities in Commercial Gender Classification.”
+ Proceedings of the 1st Conference on Fairness, Accountability and
+ Transparency, PMLR, 2018, pp. 77–91.
+
+Burnett, Joshua Yu. "Troubling Issues of Consent in /Dawn/,"
+ M. Japtok, J. R. Jenkins (eds.), /Human Contradictions in Octavia
+ E. Butler’s Work/, Springer. pp 107–119.
+
+Burns, Christy L.  “Re-Dressing Feminist Identities: Tensions between
+ Essential and Constructed Selves in Virginia Woolf's Orlando.”
+ /Twentieth Century Literature/, vol. 40, no. 3, 1994, pp. 342–364.
+
+Butler, Judith. /Bodies That Matter: On The Discursive Limits of
+ Sex/. Taylor & Francis, 2011.  
+
+Butler, Octavia. /Dawn/. Grand Central Publishing. 1987.
+
+Butler, Judith, /Gender Trouble/. Routledge, 2002.
+
+Butler, Judith. "Performative Acts And Gender Constitution: An Essay
+ In Phenomenology And Feminist Theory." /Feminist theory
+ Reader/. Routledge, 2020. 353-361.
+
+Calado, Filipa. 2022. “Encoding Queer Erasure in Oscar Wilde’s /The
+ Picture of Dorian Gray/”, /Open Library of Humanities/ 8(1).
+
+Caughie, Pamela. “Virginia Woolf’s Double Discourse.” /Discontented
+ Discourses: Feminism/textual
+ Intervention/psychoanalysis/. Ed. Marleen S. Barr & Richard
+ Feldstein. Urbana, IL: University of Illinois Press, 1989. 41–53.
+
+Caughie, Pamela L, Datskou, Emily and Parker, Rebecca. "'Storm Clouds
+ on the Horizon': Feminist Ontologies and the Problem of Gender."
+ /Feminist Modernist Studies/ 1.3, 2018. pp. 230-242.
+
+Channing, Jill.  "Magical Realism And Gender Variability In Orlando."
+ /Virginia Woolf Miscellany/, no. 67, 2005, p. 11+.
+
+"ContextIndex." NLTK Documentation. Accessed July
+ 4, 2022. https://www.nltk.org/_modules/nltk/text.html#ContextIndex
+
+"ContextIndex.similar_words." NLTK Documentation. Accessed July
+ 4, 2022. https://www.nltk.org/_modules/nltk/text.html#ContextIndex.similar_words
+
+de Gay, Jane. "Virginia Woolf's Feminist Historiography In Orlando."
+ /Critical Survey/, vol. 19, no. 1, 2007, p. 62+.
+
+"Dirty, Naughty, Obscene or Otherwise Bad Words." https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words/blob/master/en
+
+Drucker, Johanna. “Humanities Approaches to Graphical Display.” /DHQ:
+ Digital Humanities Quarterly/. Vol 5, No 1. 2011.
+
+Dunkley, Kitty. “Becoming Posthuman: The Sexualized, Racialized, and
+ Naturalized Others of Octavia E. Butler’s Lilith’s Brood," /The
+ Bloomsbury Handbook to Octavia Butler/. pp. 95-115.
+
+/Entropy8Zuper!/
+/skinonskinonskin/. Rhizome. https://anthology.rhizome.org/skinonskinonskin
+
+Flanders, Julia. "'Encoding Identity' in "Queer Encoding: Encoding
+ Diverse Identities" conference. The Digital Scholarship Center,
+ Temple University, April 28, 2017.
+
+Flanders, Julia. "What is the TEI?" /The Women Writers
+ Project/. 1999-2021.
+
+Foucault, Michel, and Robert Hurley. /The History of
+ Sexuality/. Vintage books ed., Vintage Books, 1988.
+
+Gaboury, Jacob. "'Becoming NULL': Queer Relations in the Excluded
+ Middle." /Women & Performance: a Journal of Feminist Theory/. 28.2,
+ 143-158. 2018.
+
+Gebru, Timnit, Emily M. Bender, Angelina McMillan-Major, Margaret
+ MitchEll. "Statement From The Listed Authors Of Stochastic Parrots On
+ The 'Ai Pause' Letter." /Distributed AI Research Institute/. March
+ 31, 2023.
+
+Goldberg, Jonathan and Menon, Madhavi. "Queering History." /PMLA/.
+ 120.5, 2005. pp. 1608-1617.
+
+Greg, Walter W. "The Rationale of Copy-Text." /Studies in
+ Bibliography/, 3, 1950-51. pp. 19-36.
+
+Halperin, David M "How to Do the History of Male Homosexuality." /GLQ:
+ A Journal of Lesbian and Gay Studies/. 6.1. 2000. pp. 87-123.
+
+Hayles, N. Katherine. "Afterword: Learning to Read AI Texts" in "Again
+ Theory: A Forum on Language, Meaning, and Intent in a Time of
+ Stochastic Parrots," /Critical Inquiry/. 30 June 2023.
+
+Haraway, Donna Jeanne. /Primate Visions: Gender, Race, and Nature in
+ the World of Modern Science/. Routledge, 1989.
+
+Hayles, Katherine. “Flickering Connectivities in Shelley Jackson's
+ Patchwork Girl: The Importance of Media-Specific Analysis.”
+ /Postmodern Culture/, vol. 10, no. 2, 2000.
+
+Hayles, N. Katherine. /How We Became Posthuman: Virtual Bodies in
+ Cybernetics, Literature, and Informatics/. University of Chicago
+ Press, 1999.
+
+Hovey, Jaime. “‘Kissing A Negress In The Dark’: Englishness As A
+ Masquerade In Woolf's Orlando.” /PMLA/, vol. 112, no. 3, 1997,
+ pp. 393–404. JSTOR, www.jstor.org/stable/462948.
+
+"if ( 1 + 1 == 1 ) { e8z = true; };" http://entropy8zuper.org/
+
+Irigaray, Luce. /This Sex Which Is Not One/. Cornell University Press,
+ 1985.
+
+Jesser, Nancy. "Blood, Genes and Gender in Octavia Butler's Kindred
+ and Dawn." /Extrapolation/ (Pre-2012), vol. 43, no. 1, 2002,
+ pp. 36-61.
+
+Jewell, A. /The Willa Cather Archive/. University of Nebraska,
+ Lincoln. 2004-2013.
+
+Johnson, Jessica Marie. /Wicked Flesh: Black women, Intimacy, and
+ Freedom in the Atlantic World/. University of Pennsylvania
+ Press, 2020.
+
+Keeling, Kara. "Queer OS." /Cinema Journal/, vol. 53 no. 2, 2014,
+ p. 152-157.
+
+Klein, Lauren F. “The Image of Absence: Archival Silence, Data
+ Visualization, and James Hemings.” /American Literature.. 85
+ (4), 2013. pp. 661–688.
+
+Kirschenbaum, Matthew G. /Mechanisms: New Media and the Forensic
+ Imagination/. MIT Press 2008.
+
+Kittler, Friedrich A. /Gramophone, Film, Typewriter/. Stanford
+ University Press, 1999.
+
+Landow, George. /Hypertext 3.0: Critical Theory and New Media in an
+ Era of Globalization/. The Johns Hopkins University Press. 2006.
+
+Lawler, Donald L. /An Inquiry into Oscar Wilde's Revisions of the
+ Picture of Dorian Gray/. /Garland Pub/, New York. 1988.
+
+Leckie, Barbara. "The Novel and Censorship in Late-Victorian England."
+ /The Oxford Handbook of the Victorian Novel/. Corby: Oxford
+ University Press. 2013.
+
+Liu, Fangzhou and Hannah Knowles. "Harassment, Assault Allegations
+ Against Moretti Span Three Campuses". /The Stanford
+ Daily/. 2017-11-16.
+
+Love, Heather. /Feeling Backward: Loss and the Politics of Queer
+ History/. Cambridge: Harvard University Press. 2009.
+
+Mandell, Laura. “Gender And Cultural Analytics: Finding Or Making
+ Stereotypes?” /Debates in Digital Humanities 2019/. Edited by Matthew
+ K. Gold and Lauren Klein. University of Minnesota Press, 2019.
+
+Mann, Justin Louis. "Pessimistic Futurism: Survival And Reproduction
+ In Octavia Butler’S Dawn." /Feminst Theory/, Volume 19, Issue 1.
+
+McCabe, Susan "To Be and to Have: The Rise of Queer Historicism."
+ /GLQ: A Journal of Lesbian and Gay Studies/. 11.1, 2005. pp. 119-134.
+
+McGann, Jerome. /Radiant Textuality: Literary Studies after the World
+ Wide Web./ Springer. 2001
+
+McKenzie, Donald F. /Bibliography and the Sociology of Texts/.
+ Cambridge: Cambridge University Press. 1986.
+
+McKerrow, Ronald B. /Prolegomena for the Oxford Shakespeare: A Study
+ in Editorial Method/. Oxford: Clarendon Press, 1939.
+
+McPherson, Tara, “U.S. Operating Systems at Mid-Century: The
+ Intertwining of Race and UNIX.” /Race after the Internet/, ed. Lisa
+ Nakamura and Peter A. Chow-White, 21–37. New York: Routledge, 2012.
+
+Meltzer, Patricia. /Alien Constructions: Science Fiction and Feminist
+ Thought/. Austin: U of Texas P, 2006.
+
+Mikolov, Tomas, et al. Efficient Estimation of Word Representations in
+ Vector Space. arXiv:1301.3781, arXiv, 6 Sept. 2013. arXiv.org,
+ https://doi.org/10.48550/arXiv.1301.3781.
+
+Moraga, Cherrie. /Loving in the War Years: Lo que nunca paso' por sus
+labios/. South End Press, 2000.
+
+Moretti, Franco. /Distant Reading/. Verso Books, 2013.
+
+Moretti, Franco. /Graphs, Maps, Trees: Abstract Models for a Literary
+ History/. Verso, 2005.
+
+Moretti, Franco. "The Soul And The Harpy." /Signs Taken For Wonders:
+ On the Sociology of Literary Forms/, trad. David Forgacs, New York,
+ Verso, 1983, pp. 1-41.
+
+Muñoz, José Esteban. /Cruising Utopia: The Then and There of Queer
+ Futurity/. NYU Press. 2009.
+
+Muñoz José Esteban. /Disidentifications: Queers of Color and the
+ Performance of Politics/. University of Minnesota Press, 1999.
+
+Musser, Amber Jamilla. /Sensual Excess: Queer Femininity and Brown
+ Jouissance/. NYU Press, 2018.
+
+Nelson, Alondra. "Future Texts." /Social Text/ 71, Vol. 20, No. 2,
+ Summer 2002.
+
+Piper, Andrew /_akpiper/. "There is so much to say about the @nytimes
+ #BingChat transcript. That so many people are drawing on literary /
+ film references to make sense of what is going on is telling." Feb
+ 16, 2023. https://twitter.com/_akpiper/status/1626239843905974274
+
+Pope, James. "The Significance of Navigation and Interactivity Design
+ for Readers' Responses to Interactive Narrative: Some Conclusions
+ from an Empirical Study of Readers' Responses." /Dichtung
+ Digital. Journal für Kunst und Kultur digitaler Medien/,
+ No. 39. 2009. pp. 1-22.
+
+Prosser, Jay. /Second Skins: The Body Narratives of
+ Transsexuality/. Columbia University Press, 1998.
+
+Ramirez, Catherine S. "Cyborg Feminism: The Science Fiction of Octavia
+ E. Butler and Gloria Anzaldua", Flanagan, Mary, and Booth, Austin,
+ eds. /Reload: Rethinking Women + Cyberculture/. Cambridge, Mass.: MIT
+ Press, 2002. p. 374-402.
+
+Ramsay, Stephen. /Reading Machines: Toward an Algorithmic
+ Criticism/. 2011.
+
+Ruberg, Bonnie et al. “Toward a Queer Digital Humanities.” /Bodies of
+ Information/, edited by Elizabeth Losh and Jacqueline Wernimont,
+ University of Minnesota Press, 2018, pp. 108–28.
+
+Ruddick, Nicolas. "'The Peculiar Quality of my Genius': Degeneration,
+ Decadence, and Dorian Gray in 1890-1891." /Oscar Wilde: The Man, His
+ Writings, and His World/. ed. Robert N Keane. New York: AMS
+ Press, 2003. pp.125-137.
+
+Sandoval, Chela. “U.S. Third World Feminism: The Theory and Method of
+ Oppositional Consciousness in the Postmodern World.” /Genders/
+ (Austin, Tex.), 10, 1991, S. 1-24, 1991.
+
+Schmidt, Ben. "A Computational Critique Of A Computational Critique Of
+ Computational Critique," /Ben Schmidt/, Dec
+ 5, 2019. https://benschmidt.org/post/critical_inquiry/2019-03-18-nan-da-critical-inquiry/
+
+Schutte, Ofelia. “Cultural Alterity: Cross-Cultural Communication and
+ Feminist Theory in North-South Contexts.” /Hypatia/, vol. 13, no. 2,
+ 1998, pp. 53–72.
+
+Sedgwick, Eve Kosofsky, and Adam Frank. /Touching Feeling: Affect,
+ Pedagogy, Performativity/. Duke University Press, 2003.
+
+Sinykin, Dan. "Distant Reading And Literary Knowledge."  /Post45/. May
+ 6, 2019. https://post45.org/2019/05/distant-reading-and-literary-knowledge/
+
+
+Siraganian, Lisa. "On Accidental and Parasitic Language" in "Again
+ Theory: A Forum on Language, Meaning, and Intent in a Time of
+ Stochastic Parrots," /Critical Inquiry/. 26 June 2023.
+
+Smith, Victoria L.  "'Ransacking The Language': Finding The Missing
+ Goods In Virginia Woolf's Orlando." /Journal of Modern Literature/,
+ vol. 29 no. 4, 2006, pp. 57-75.
+
+Snorton, C. Riley. /Black on Both Sides: A Racial History of Trans
+ Identity/. University of Minnesota Press, 2017.
+
+So, Richard Jean, and Edwin Roland. "Race And Distant Reading." /PMLA/
+ 135.1 (2020): 59-73.
+
+Spillers, Hortense J. “Mama’s Baby, Papa’s Maybe: An American Grammar
+ Book.” /Diacritics/, vol. 17, no. 2, 1987, pp. 65–81.
+
+Tanselle, Thomas. /A Rationale of Textual Criticism/. University of
+ Pennsylvania Press. 1989.
+
+Thain, Marion. "Perspective: Digitizing the Diary -- Experiments in
+ Queer Encoding." /Journal of Victorian
+ Culture/. 21.2, 2016. pp. 226-241.
+
+/The Shelley-Godwin Archive/. University of Maryland, College
+ Park. Maryland Institute for Technology in the Humanities (MITH).
+
+Tinsley, Omise'eke Natasha. "Black Atlantic, Queer Atlantic: Queer
+ Imaginings Of The Middle Passage," /GLQ: A Journal of Lesbian and Gay
+ Studies/. 14.2-3 (2008): 191-215.
+
+Traub, Valerie. "The New Unhistoricism in Queer Studies." /PMLA/. 128.1,
+  2013. pp. 21-39.
+
+Turing, Alan. "Computing Machinery and Intelligence." /Mind/
+ 59.236. 1950.
+
+Underwood, Ted. /Distant Horizons: Digital Evidence And Literary
+ Change/. University of Chicago Press, 2019.
+
+Underwood, Ted. "The Empirical Triumph of Theory" in "Again Theory: A
+ Forum on Language, Meaning, and Intent in a Time of Stochastic
+ Parrots," /Critical Inquiry/. June 29, 2023.
+
+Underwood, Ted. "Machine Learning And Human Perspective." /PMLA/ 135.1
+ (2020): 92-109.
+
+Wilde, Oscar. /The Picture of Dorian Gray: Original
+ Manuscript/. 1889–90. MS. Morgan Library & Museum, New York, NY.
+
+Wilde, Oscar, and Joseph Bristow. /The Complete Works of Oscar
+ Wilde/. Vol. 3. Oxford, Oxford University Press, 2000.
+
+Wilde, Oscar, and Michael Patrick Gillespie. /The Picture of Dorian
+ Gray: Authoritative Texts, Backgrounds, Reviews and Reactions,
+ Criticism/. 2nd ed. ed., New York, W.W. Norton, 2007.
+
+Wilde, Oscar, and Nicholas Frankel. /The Picture of Dorian Gray: An
+ Annotated, Uncensored Edition/. Cambridge, Mass., Belknap Press of
+ Harvard University Press, 2011.
+
+Woolf, Virginia and Mark Hussey. /Orlando: A Biography/. Mariner
+ Books, 2006.

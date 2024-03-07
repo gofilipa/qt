@@ -1,0 +1,1018 @@
+* Containment and Queerness
+** requirements
+~3-6K words total, 12 - 24 pages
+chicago, 2 images max, docx format
+** research
+*** QOCC
+**** DONE Johnson, Jessica Marie. /Wicked Flesh/ 
+     CLOSED: [2022-10-29 Sat 16:25]
+Johnson takes something very constraining--marriage and baptism
+records--and turns it into a mechanism for reading intimacy. 
+
+Johnson examines existing structures for modes of resistance that
+emerge from the logics of those structures. Johnson takes something
+very constraining, that is, the social structures available to African
+and African-descent women who lived during and sometimes operated
+within the slave-trading 18th century. She studies civil records of
+marriage and baptism for the ways they enable new productions of
+intimacy, which is a practice of freedom.
+
+Johnson’s project addresses the problem of data, which is the problem
+of the archive in the Atlantic World. Her methodology is to close-read
+the civil records to create a “promiscuous accounting of blackness not
+as bondage and subjection, but as future possibility” (10). The
+records, on their own, tell a story of bondage and subjection to
+power. Johnson’s job is to construct a narrative around these records,
+about the “ways black women sought out profane, pleasurable, and
+erotic entanglements as practices of freedom” (12). In “Markup
+Bodies,”another piece by this author, Johnson argues that data on its
+own re-enacts the commodification of black bodies---that black bodies
+are reduced to data points. In order to subvert the reduction of
+bodies to “data,” data has to be supplemented with “black digital
+practice,” which are the rich histories of black embodiment, the
+narrative that surrounds the data, which accompanies the database.
+
+How are the records themselves constituted and structured? Databases
+themselves are far from neutral (as Johnson undoubtedly would
+agree). They are constructed, structured data. I’m curious about the
+formal aspects of this database, in the decisions made not only in
+their creation but in their preservation. What if we think of these
+records as their own data format, and examine the structures /
+boundaries of that format?
+
+Is there something within this structure that allows us to read an
+emergent freedom?
+**** Johnson, Jessie Marie. "Markup Bodies"
+Questions "data" as neutral and stable, in slavery's archive. Rather,
+data replicates death and commodification. Proposes a "black digital
+practice" (Johnson "Markup Bodies" 58) to challenge the reproduction
+of black death and commodofication.
+
+Digital tools "mark up the bodies and requantify the lives of people
+of african descent" (Johnson "Markup Bodies" 59). 
+
+Digitizing is replicating. Commodifying. 
+
+The Atlantic Slave Trade Database example: the database alone is
+replicating traumas: "metrics in minutae niether lanced historical
+trauma nor bridged the gap between the past itself and the search for
+redress" (Johnson "Markup Bodies" 62).
+
+"transmutation of black flesh into integers and fractions" (Johnson
+"Markup Bodies" 65). 
+
+This data is "corrupted" and needs to be reworked. 
+
+Black digital practice as "screams in the archive" (Johnson "Markup
+Bodies" 71). To feel pain, center the unquantifiable. 
+
+**** TODO Nakamura et al. /Race After the Internet/
+**** Roderick A. Ferguson, "Queer of Color Critique"
+https://oxfordre.com/literature/view/10.1093/acrefore/9780190201098.001.0001/acrefore-9780190201098-e-33
+
+Queer of Color Critique is reactung against the collapsing of
+difference in identity politics--queer theory was creating identities
+for things in a way that incorporates/ignores intra-group
+differences. Intersectionality disrupts the pluralism of
+multiculturalism. 
+
+"To the extent that queer studies understood sexuality to be singularly
+constituted, the field betrayed its own investments in Eurocentric
+presumptions of uniformity"
+
+Building of Norma Alarcon, Kimberle Williams Crenshaw. Showing how
+QOCC appears in Munoz.
+
+"Queer of color critique began as a U.S.-based critical discourse
+responding to the circumstances of migration, neoliberal state and
+economic formations, and the developments of racial knowledges and
+subjectivities about sexual and gender minorities within the United
+States. As a convergence with and a departure from queer studies,
+queer of color critique signaled the ways in which the dominant
+literary, philosophical, and aesthetic engagements with queer
+sexuality distanced themselves from the study of race and from
+politico-economic concerns."
+
+"As an effort designed to address connections between race, sexuality,
+and political economy, queer of color critique had to begin by
+confronting a founding limitation of queer studies, a limitation that
+obscured the very connections that queer of color critique was
+interested in exposing. That limitation had to do with an initial
+ambivalence within queer studies about the connections that sexuality
+has to other modes of difference....This presumed equivalence and
+authenticity imply a liberal pluralism aimed at including racial and
+gender subjects into existing normative institutions and systems."
+
+"Consider, for instance, Norma Alarcón’s critique of the identity
+politics of Anglo-American feminism in her 1990 essay “The Theoretical
+Subjects of This Bridge Called My Back.” In that essay Alarcón
+considers the epistemological impact of women of color feminism, in
+general, and the 1981 anthology This Bridge Called My Back: Writings
+by Radical Women of Color. For Alarcón, the overall work of women of
+color feminists and the volume are significant not because they
+offered a “rainbow theory” or a discourse of authenticity. They were
+significant because they called into question the implicit subject of
+Anglo-American feminism. As Alarcón put it, “[The] most popular
+subject of Anglo-American feminism is an autonomous, self-making,
+self-determining subject who first proceeds according to the logic of
+identification with regard to the subject of consciousness, a notion
+usually viewed as the purview of man, but now claimed for women.”"
+
+"For Alarcón, This Bridge and women of color feminism analyzed the
+ways in which patriarchal and liberal notions of agency account for
+the ideological structure of Anglo-American feminism. In doing so,
+Alarcón produces a devastating critique of how Anglo-American feminism
+attempted to base feminist authenticity on a replication rather than a
+repudiation of heteropatriarchal agency."
+
+"Kimberlé Williams Crenshaw’s classic article “Mapping the Margins:
+Intersectionality, Identity Politics, and Violence against Women of
+Color” provided another example of how intersectional work was a
+critique of authenticity politics. For instance, in her discussion of
+identity politics, she argued, “The problem with identity politics is
+not that it fails to transcend differences, as some critics charge,
+but rather the opposite—that it frequently conflates or ignores
+intra-group differences.”11 Crenshaw offered intersectionality as a
+critique of the ways in which race and gender were politicized as
+consistent with ideologies of discreteness and authenticity. As she
+stated, “Feminist efforts to politicize experiences of women and
+antiracist efforts to politicize people of color have frequently
+proceeded as though the issues and experiences they each detail occur
+in mutually exclusive terrains.”12 In designating race and gender as
+categories that are constituted in relation to each other as well as
+other social differences, Crenshaw presented intersectionality as a
+means for disrupting discourses of authenticity and providing
+alternatives to those discourses."
+
+"Instead of arguing for the authenticity of categories of race and
+gender, women of color feminism and its intersectional strategies can
+be productively interpreted as attempts to show the limits of
+authenticity discourses and the ways that those discourses
+marginalized women of color. Contrary to the notion that modes of
+difference can be understood singularly, women of color feminists
+advanced arguments that posited those modes as necessarily constituted
+in relation to one another, for historical and political reasons."
+
+"Muñoz defines the hermeneutical properties of disidentification by
+arguing, “For the critic, disidentification is the hermeneutical
+performance of decoding mass, high, or any other cultural field from
+the perspective of a minority subject who is disempowered in such a
+representational hierarchy.”
+
+**** TODO Roderick A. Ferguson’s Aberration in Black: Toward a Queer of Critique
+"The book attempted to demonstrate the ways in which the discipline’s
+liberal regard for African Americans was precisely the mechanism for
+constructing African American culture as outside of the normative
+boundaries of the archetypal Western subject and the citizen-subject
+of the United States."
+
+**** DONE Kyla Wazana Tompkins, "Intersections of Race, Gender, and Sexuality: Queer of Color Critique"Kyla Wazana Tompkins, "Intersections of Race, Gender, and Sexuality: Queer of Color Critique"
+     CLOSED: [2022-10-29 Sat 16:25]
+https://d1wqtxts1xzle7.cloudfront.net/73757732/0b6ddb31eb5e591a549808f0f452a8d68c09-with-cover-page-v2.pdf?Expires=1646781190&Signature=OuVOtUFXdNpSWcIb0OzaWCTvKU60kmsBPodlB-76fzil6fIDRhROktvC6ItdoYsmz~UPnML8hqkysQapuoUahCh50umsSd~bfYSn4dLRqO-zUZFQTR7LMNE-yia~GE0o-6vQZWRSZRkrUWaONc-rdfud9xSL3FATOXDDt9QxIhneVPEIS~m5wR5Cf7KLY7uPGok9Qm9XuEcUA85amkfgufkVNvVgKwxyLnGa92URE3pMW29v53gN96SGEKoB8s-PFXi44AS12Vr39hB3rZy5bD25I~D0yzZWMczDwJRbv02u~fGNX15H4ZHOPYZy-OVeqSadyy1cRfH8SIhOdulRrw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
+
+**** TODO Blocket, Reginald. "Thinking with Queer of Color Critique: A
+Multidimensional Approach to Analyzing and Interpreting Data
+
+**** TODO Kim Gallon, "Making a Case for the Black Digital Humaniites"
+https://dhdebates.gc.cuny.edu/read/untitled/section/fa10e2e1-0c3d-4519-a958-d823aac989eb##ch04
+
+*** Contemporary Textual Scholarship
+**** Earhart, Amy E. "Models of Digital Documentation: The 19th-Century Concord Digital Archive," Documentary Editing: Journal of the Association for Documentary Editing, Volume 31: 2010 ISSN 0196-7134
+Drawing from Textual Scholarship (Jerome McGann and Ken Price) to
+apply to the way we think about race.  Following McGann in "Imagining
+what we don't know", she says "you must build the archive to learn
+what you need to know" (Earhart 40). What she has is not an archive, a
+repository, but a "search-and-display space for materials located on
+disparate servers" (40-41).
+
+**** DONE Earhart, Amy E. "Can Information Be Unfettered? Race and the New
+     CLOSED: [2022-10-20 Thu 16:39]
+Digital Humanities Canon" /Debates in the Digital Humanities 2016/.
+https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/cf0af04d-73e3-4738-98d9-74c1ae3534e5 
+
+Increased access to technology has not increased representation of
+marginalized subjects or texts. How to create inclusive structures for
+digitization projects. Earhart emphasizes accomodation of
+technological standards (like the TEI) and institutional affiliation
+(like DH centers and funding) to projects that are DIY. She also
+emphasizes "theoretical work to do in teh selection, editing, and
+technological manipulation of our materials" (316).
+
+What we need is messiness:
+- Cites Martha Nell Smith about DH practitioners fleeing cultural
+criticism, sheltering in the objectivity of the computer.
+- Earhart says that we have a structural problem, more than a problem
+of selection, in DH (314). 
+
+Begins by discussing the digital canon. Early excitement
+(technodeterminism) about access to material has not borne out the
+dissolution of hegemonic high (white) culture.
+
+DH as a field is slow to incorporate cultural criticism, ala Alan
+Liu (310). 
+
+See: 
+- Charles Chestnutt Archive
+- Schomburg Library for 19thC Black Women Writers
+- 19th Century Digital Concord Archive (Earhart's project)
+
+IN order for projects to actually succeed, they need affiliation and
+funding, as well as rigorous technical standards. For example, /NINES/
+with the TEI. (315).
+
+With her own project, the struggles with encoding multiple racial
+identities over a single person: "how to appropriately apply
+technological standards to shifting constructions of race" (316). 
+
+**** TODO Julia Flanders. “From Modeling to Interpretation.” Bits That
+Matter, https://juliaflanders.wordpress.com/. Accessed 18 Aug. 2021.
+**** TODO Michelle Schwartz and Constance Crompton. “Remaking History:
+Lesbian Feminist Historical Methods in the Digital Humanities.” Bodies
+of Information: Intersectional Feminism and Digital Humanities, edited
+by Elizabeth Losh and Jacqueline Wernimont, University of Minnesota
+Press, 2018,
+https://dhdebates.gc.cuny.edu/read/untitled-4e08b137-aec5-49a4-83c0-38258425f145/section/5c06c277-b9c1-4caf-a81c-a6c201e08a5a.
+
+**** TODO Gailey, Amanda. 2011. “Rethinking Digital
+Editing Practices to Better Address Non-Canonical Texts," /Documentary
+Editing: Journal of the Association for Documentary Editing/, Volume
+32: 2011 ISSN
+0196-7134. https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1011&context=docedit  
+
+**** TODO Smith, Martha Nell. “The Human Touch Software of the Highest
+Order: Revisiting Editing as Interpretation.” Textual Cultures,
+vol. 2, no. 1, 2007, pp. 1–15. JSTOR,
+http://www.jstor.org/stable/30227853.
+
+In 2005, at the STS meeting, "that a rigid set of orthodoxies, a
+"right" way of doing editorial business, need not inform our practices
+in order for them to be principled, rigorous, and reliably according
+to standard" (1).
+
+**** Piez, Wendell. "TEI in LMNL: Implications for Modeling." /Journal of
+the Text Encoding Initiative/. Isseue 8, December 2014 - December 2015
+Selected Papers from the 2013 TEI
+Conference. https://doi.org/10.4000/jtei.1337 
+**** TODO La Fontaine, Robin. “Representing Overlapping Hierarchy as
+Change in XML.” Presented at Balisage: The Markup Conference 2016,
+Washington, DC, August 2 - 5, 2016. In Proceedings of Balisage: The
+Markup Conference 2016. Balisage Series on Markup Technologies,
+vol. 17 (2016). https://balisage.net/Proceedings/vol17/html/LaFontaine01/BalisageVol17-LaFontaine01.html 
+**** Non-XML approaches for non-hierchical markup
+https://tei-c.org/release/doc/tei-p5-doc/en/html/NH.html#NHNX 
+
+**** TODO TEI 2019 conference papers
+https://gams.uni-graz.at/context:tei2019 
+**** TODO TEI 2022 conference program
+https://www.conftool.pro/tei2022/sessions.php 
+**** TODO /Scholarly Editing/ journal 
+https://scholarlyediting.org/ 
+*** TEI projects
+**** TODO Editing the Eartha M White Collection
+https://unfdhi.org/earthawhite/about-the-project 
+Editorial statement:
+https://unfdhi.org/ewproject/content/ew_index.xml#doubtsandconcerns
+**** The Life Histories Collection 
+https://www.pitjournal.unc.edu/comment/6 
+
+**** DONE Design, Development, and Documentation: Hacking TEI for Black
+     CLOSED: [2022-10-20 Thu 16:39]
+Digital Humanities, Jessica H. Lu and Caitlin Pollock.
+https://mith.umd.edu/digital-dialogues/dd-fall-2019-jessica-h-lu-caitlin-pollock/
+
+"Black DH Schema" project. TEI as a tool that can be critiqued and
+disrupted, that centers black people, lives, cultures, rather than
+relegates to the margins. Can there be a schema that supports and
+encourages black dh work, confirm and amplify black humanity rather
+than perpetuate power structures. 
+
+"Praxis over product", citing Catherine Knight Steele. 
+3 directions:
+- Using black history, culture and life to critique TEI standards.
+- Examining how TEI reinscribes reductive categories of humanity,
+  marking black people as objects.
+- How TEI can open an opportunity for recognition and support for
+  Black invention, creativity, play.
+
+Creating a statement of values about rejecting white supremacists
+hierarchies that normalize white modes of writing/scholarship.
+
+creating elements and attributes that:
+- cite black women
+- chosen names vs imposed names, unnamed. 
+- land acknowledgement - place name
+- tags for code-switching
+- tags for places beyond geographical point, "the corner," "kitchen
+  table", digital spaces.
+- tags that reflect complexity of black kinship and family, including
+  role names.
+
+**** DONE Elisa Beshero-Bondar, "Black DH and a Challenge in Document Data Modeling
+     CLOSED: [2022-10-21 Fri 12:37]
+Anna Julia Cooper's Responses to the Survey of Negro College
+Graduates"
+https://slides.com/elisabeshero-bondar/ajcsurvey-keydh 
+Also, on sex and gender in orlando:
+https://slides.com/elisabeshero-bondar/gendertei#/3/3/0 
+
+**** TODO [[https://chesnuttarchive.org/][Charles Chesnutt Archive]]
+
+From "Encoding Guidelines": "the current TEI guidelines do not offer
+standards for the encoding of printed page proofs with handwritten
+corrections" 
+
+Current TEI guidelines for project:
+https://docs.google.com/spreadsheets/d/e/2PACX-1vQfOJpBPdLRedtoRCahMXHVn3TSZgMALfIJhQLS-DjC25qjAz0L4x10ngNB5Ts7YLlj7XkkB5V_A5o4/pubhtml?gid=0&single=true 
+
+Specific guidelines for galley proofs: 
+https://chesnuttarchive.org/pdf/cwca_galley_proof_encoding_guidelines.pdf 
+
+**** [[https://libguides.nypl.org/african-american-women-writers-of-the-19th-Century][African American Women Writers of the 19th Century]]
+**** TODO Peter Still Digital Edition
+https://stillpapers.org/about
+
+
+* outline
+** intro / question
+How do editorial practices with TEI engage queerness? How might they
+approach queerness and schematization?
+- The answer has to do with examining TEI structure for the way it
+  perpetuates certain assumptions.
+- But not only to examine this structure, but also to offer methods
+  for subverting it.
+
+Tinseley's call to the material. 
+** textual scholarship & queer historiography
++ summary of my work on /Dorian Gray/
++ summary of productive vs restorative approaches. The question of
+  historical queerness mirrors that of editorial intent 
+
+** Form and politics
+- Jose Munoz
++ But my perspective has been insufficient, going from boundedness to
+  heirarhcy.
++ The document model is a governing structure that imposes power
+  dynamics.
++ Containment vs dominance.  
++ Dominance is totalizing, or bureaucratic.
+
+** Black Digital Practice
+- Jessica Marie Johnston's methods of narrativizing and nullifying. 
+
+** the future of editing
+
+
+* draft
+** intro
+This paper considers the potential alignment between a rigidly
+structured and constraining editorial format, the TEI, and a
+strategically nebulous collection of identities and politics expressed
+by the designation of queer. It proposes how textual editing practices
+with the TEI might engage modes of resistance against dominance
+structures as theorized by Queer of Color Critique. It illustrates how
+this field of study, which critiques Queer Studies’ capitulation to
+majoritarian and neoliberal politics, offers models for reworking the
+structuring forces within both the TEI markup language and textual
+editing practices more broadly.
+
+This project begins with a self-reflection on my work developing a
+custom schema to mark up the homoerotic content that Oscar Wilde
+edited out of his novel, The Picture of Dorian Gray (1890). I point
+out how, in my focus on creating a new schema to mark up the text's
+queer content, I overlook the mutually reinforcing nature of dominance
+structures across data formats and text encoding practices. Correcting
+that oversight, this paper draws from Queer of Color's /Critique/ on
+Queer Studies to energize a radical re-thinking of electronic data
+formats. Here, I draw from Black Feminist theorizing about the archive
+and slavery and their resistance against the invisible forces that
+determine historical inquiry and meaning-making. I close by
+highlighting examples of current projects that deploy collaborative
+and minimalist practices to challenge the structuring modes of textual
+editing and the TEI.
+
+** textual scholarship and queer historiography
+I begin with my own trajectory of thinking on the subject. Early in
+graduate school, I took a course on Textual Scholarship that seemed to
+ground the heady atmosphere of seminar discussion in the comforting,
+physical fact of the text--something that takes up space in the world,
+that I could literally touch. I then discovered that textual editing
+methodologies like the TEI, which rooted intellectual work in the
+minute labor of transcription and markup, brought me to think deeply
+and critically about formal aspects of text. It was at that time that
+I was introduced to Jerome McGann's /Radiant Textuality: Litery
+Studies After The Worldwide Web/ (2001), and his position that digital
+tools in literary scholarship ought to work as "prosthetic
+extension[s] of that demand for critical reflection" (McGann 2001,
+18). McGann's ideas solidifed something essentially creative about the
+critial process, which helped me to form my early conviction that
+literary analysis ought to build from considerations of textual form.
+
+I begin with my own trajectory of thinking on textual editing
+practices. Early in graduate school, I took a course on Textual
+Scholarship that grounded the heady atmosphere typical to seminar
+course discussions in the physical fact of the text–something that
+takes up space, which I could literally touch. I found that textual
+editing methodologies like the TEI, by rooting intellectual work in
+the minute labor of transcription and markup, encourages deep and
+critical thinking about formal aspects of text. It was at that time
+that I was introduced to Jerome McGann's position that digital tools
+for literary scholarship ought to work as "prosthetic extension[s] of
+that demand for critical reflection" (McGann 2001, 18). McGann's ideas
+helped to solidify my early conviction that critical analysis could
+build from hands-on exploration of textual form.
+
+With this in mind, I pursued genetic editing projects that would allow
+me to a text’s revision history. Here, I turned to Oscar Wilde's
+manuscript of The Picture of Dorian Gray (1890), a holograph draft
+that he revised heavily before sending it for publication in
+/Lippincott's Monthly Magazine/ on June 20, 1890 (Calado 2022).[fn:1]
+I focused on Wilde’s revisions—his suppressions—of homoerotic tensions
+and suggestions between the story's three main characters, Basil
+Hallward, Lord Henry Wotten, and the eponymous Dorian Gray. I marked
+up these revisions with custom, semantic tags offering four potential
+values: “intimacy,” “beauty,” “passion,” and “fatality.”  These tags
+indicate general patterns like the stifling of emotional tension,
+physical affection, expressions of beauty and passion, and of the
+obsessive and self-destructive effects of infatuation. In addition to
+marking up conceptual changes to the manuscript, I also noted physical
+elements, like the number of Wilde's pen strokes over each span of
+deleted text.
+
+I draw my encoding principles for this project from across the
+disparate fields of Textual Scholarship and Queer Historiography who,
+I argue, are having a similar debate about the historian's impulse
+toward recovery. Until the popularization of the digital editing
+methods in the 90s and early 2000s, Textual Scholarship tends to
+privilege the editor as a recoverer or preserver of text, with
+prominent editors like Ronald B. McKerrow promoting authorial
+intention as the dominant criterion for editorial decisions. [fn:2]
+Toward the end of the 20th century, this prioritization of authorial
+intention, which I call the “restorative approach,” begins to shift in
+the wake of new tools that multiply, rather than narrow, the potential
+forms that editorial work might take. Here, the work of Jerome McGann,
+drawing from Donald F. McKenzie's “sociology of text,” which
+challenges the idea a single text could ever represent an "ideal"
+version, explores how electronic environments open a space for
+representing textual variation unhindered by the limitations of the
+codex format. Opposed to the restorative aims of their predecessors,
+McKenzie and McGann's approach, which I call the “productive”
+approach, subscribes the text to new formal configurations that can
+stimulate analysis. To this debate in Textual Scholarship, I connect
+what I perceive to be an analogous debate within the field of Queer
+Historiography, which concerns the applicability of “queer” as a
+designation for identifying historical subjects. The “productive” side
+of debate argues that queerness in the past cannot be scrutinized in
+the present without subscribing it to a teleology that effectively
+normalizes its essential alterity. Heather Love, for example, proposes
+a critical method that, rather than attempt to pin down queerness,
+attends to the ways that it eludes knowability. By contrast, the
+“restorative” side maintains that queerness requires historical
+specificity in order to be legible, and that it ought to be traced as
+a historically situated phenomenon.[fn:3]
+
+Guided by this framework of queerness as strategically uncontainable,
+I set out to mark up information that I suspected would provoke the
+bounds of the tags themselves. My encoding work unearths, as I had
+expected it to, a resistance to the demand for fixity in the TEI
+schema. The boundedness of the TEI format, which encapsulates data
+within a structured set of tags, struggles against the porous
+perimeters of these queer themes in the text. My custom schema engaged
+the difficulty of this conceptual information with the physical
+register of Wilde's pen strokes across the pages, which sometimes
+fails to map with the themes. While some of the editorial decisions
+are straightforward, for example, that of “intimacy,” like when Basil
+“tak[es] hold of [Lord Henry's] hand” (Wilde 9), or when Dorian's
+“cheek just brushed [Basil's] cheek” (Wilde 20), others are more
+difficult. Sometimes, the revisions of intimacy have the attendant
+effect of mitigating the sense of fatality that surrounds Basil's
+attraction to Dorian. In one striking moment from the dialogue, for
+example, Basil struggles to impart to Lord Henry the effect of his
+passion for Dorian Gray. The original line in the manuscript reads:
+“Lord Henry hesitated for a moment. ‘And what is that?' he asked, in a
+low voice. ‘I will tell you,’ said Hallward, and a look of pain came
+over his face. ‘Don't if you would rather not,’ murmured his
+companion, looking at him" (9). In the revised version, Lord Henry
+“laugh[s]” rather than “hesistate[s],” he no longer speaks “in a low
+voice,” and his “look of pain” is neutralized into “an expression of
+perplexity.” These changes, which lighten a particularly tense display
+of “intimacy,” also work to obscure Basil's internal suffering,
+fitting within the category “fatality.” Marking up the number of pen
+strokes reinforces the TEI’s structural constraints: while the word
+“look” is struck too heavily to be counted, the word “pain” contains a
+single stroke. It is impossible to mark the number of strokes for each
+word without separating this single revision into two instances.
+
+** the TEI structure
+This formal experiment, however "productive" in its refusal against
+the restorative impulse, now seems insufficient. The more that I work
+with the TEI, the more I come to realize that the problem with its
+data model goes beyond the boundedness of its elements, and toward a
+dominating, top-down structure that it imposes on textual “data.” At
+the root of the TEI's rigidity is its hierarchical document model that
+propagates implicit power relations between elements in the document,
+where each element within the tree structure subscribes to its parent
+element and dominates its subordinate ones. Within this tree-like
+architecture, information is not only encapsulated or bound, it is
+delineated by the standards of each governing tag, its syntax, model,
+attributes, and contents.
+
+Within this data model, there is no easy solution for resisting
+dominance. Two examples, 15 years apart, serve to illustrate attempts
+to do so by researchers and scholars within the TEI community. The
+first occurs in 2008, when XML researcher Jeni Tennison writes about
+developing a new markup language that distinguishes dominance from
+containment. Tennison, who “want[s] to see if we can get away with not
+having hierarchy as a fundamental part of the information model,”
+explains that element overlap is essential for some forms of written
+language (Tennison 2008, "Essential Hierarchy"). For example, “the way
+in which the syntactic (sentence/phrase) structure overlaps with the
+prosodic (stanza/line) structure is one important way in which you can
+analyse a poem” (Tennison 2008, "Overlap, Containment, and
+Dominance"). Within a hierarchical data model, conflicts arise from
+the clashing of different encoding priorities across the structural
+and semantic readings of the document, where the layers of structure,
+meter, grammar, and semantics can propagate contentious claims on a
+single word or line of text. To resolve these conflicts, one might
+distinguish between dominance and containment. As Tennison explains,
+#+BEGIN_QUOTE 
+When you’re talking about overlapping structures, it’s useful to make
+the distinction between structures that /contain/ each other and
+structures that /dominate/ each other. Containment is a happenstance
+relationship between ranges while dominance is one that has a
+meaningful semantic. A page may happen to contain a stanza, but a poem
+domainates the stanzas that it contains. Tennison 2008, "Overlap,
+Containment, and Dominance"; emphasis original
+#+END_QUOTE
+As a solution that prioritizes containment while also suggesting
+dominance relationships, Tennison proposes a new (but now unsupported)
+markup language: "The Layered Markup and Annotation Language"
+(LMNL). It uses a series of ranges that describe start and stop points
+for an element, rather than nesting elements one inside the other. In
+the example below, the tags are left open to accommodate additional
+ranges:
+#+BEGIN_SOURCE
+[book [title [lang}en{lang]}Genesis{title]}
+[chapter}
+[section [title}The creation of the world.{title]}
+[para}
+[v}[s}[note}In the beginning of creation, when God made heaven and
+earth,{note [alt}In the beginning God created heaven and
+earth.{alt]]{v] [v}the earth was without form and void, with darkness
+over the face of the abyss, [note}and a mighty wind that swept{note [alt}and
+the spirit of God hovering{alt]] over the surface of the waters.{s]{v]
+[v}[s}God said, [quote}[s}Let there be a light{s]{quote], and there
+was light;{v] [v}and God saw that the light was good, and he separated
+the light from darkness.{s]{v] [v}[s}He called the light day, and the
+darkness night. So evening came, and morning came, the first
+day.{s]{v]
+{para]
+...{chapter]...{section]...{book] "The Layered Markup and Annotation
+Language (LMNL)" 
+#+END_SOURCE
+This language indicates dominance relationships through layering
+markers, rather than through a tree structure. Despite this feature,
+the document object model is considerably less readable than the TEI.
+
+The problem with TEI, and more deeply, with its parent structure, XML,
+is that dominance structures are totalizing. Attempts to curtail this
+dominance, as LMNL demonstrates, can result in redundancy and
+convolution. The TEI Guideline’s suggestions for handling dominance
+appear similarly complicated, especially in comparison to more
+traditional TEI markup. Module 16, on "Linking, Segmentation, and
+Alignment," describes various methods for encoding information that is
+not hierarchic or linear, including the use of pointers, blocks,
+segments, anchors, correspondence, alignment, synchronization,
+aggregation, alternation, sequestration, marginalization, among
+others. In Module 20, “Non-hierarchical Structures,” more suggestions
+include: “redundant encoding of information in multiple forms," and
+"the use of empty elements to delimit the boundaries of a non-nesting
+structure.” These solutions work by severing elements into components
+that maintain their own internal hierarchies which can be later
+recombined into the dominant hierarchy. When the totalizing nature of
+the TEI is diluted, the effect is to create a bureaucratization that
+disrupts its sense of unity.
+
+The issue of hierarchical dominance structures emerges again at the
+most recent annual TEI Conference and Members Meeting in 2022, where
+Elisa Beshero-Bondar and her team reflect on their work developing a
+~<gender>~ element for the TEI guidelines. Their project proposes a
+new ~<gender>~ element that is careful to weigh the expressive
+potential for representing gender against the possible risks of
+reifying normative cultural biases. As other projects seeking to
+encode plural or multiple gender ontologies have explained,[fn:4]
+gender identities may take manifold forms, some of which can be
+contained within a capacious enough set of tags and attributes, such
+as distinct ~<gender>~ and ~<sex>~ tags. Other gender identities,
+however, may not fit into distinct categories. In the latter case, the
+problem goes deeper than the name of the tag itself and runs up
+against the hierarchical structure of the TEI document
+model. Beshero-Bondar and her colleagues explain that,
+#+BEGIN_QUOTE
+Unexpectedly, we found ourselves confronting the Guidelines’
+prioritization of personhood in discussion of sex, likely stemming
+from the conflation of sex and gender in the current version of the
+Guidelines. In revising the technical specifications describing sex,
+we introduced the term “organism” to broaden the application of sex
+encoding. We leave it to our community to investigate the fluid
+concepts of gender and sex in their textual manifestations of
+personhood and biological life. Beshero-Bondar et al.
+#+END_QUOTE
+While their new proposed element, ~<gender>~, gives the team some
+capacity to represent gender as distinct from sex, the tagging
+structure nonetheless perpetuates a rule that "sex" serves some
+concept of personhood. The proposed solutions to this problem, which
+include exchanging <person> for the more capacious ~<organism>~ and
+~<entity>~, as recently proposed in the TEI documentation itself,
+keeps intact the notion that "sex" is something a person contains,
+that is, sex as something belonging to or expressed by a notion of
+personhood (martindholmes 2022).
+
+** Queer of Color Critique
+I now turn to Queer of Color Critique to explore models for working
+within and against systems of dominance. As Roderick A. Ferguson, who
+coined the field's name, affirms, “Queer of Color Critique decodes
+culture fields not from a position outside those fields, but from
+within them, as those fields account for the queer of color subject’s
+historicity” (Ferguson 2004, 4). The critique of this field responds
+to dominating trends within Queer Studies itself, whose centering of
+universal whiteness becomes more and more apparent in the wake of
+increasing mainstream acceptance. Resisting incorporation into
+heteronormative and neoliberal politics, Queer of Color Critique
+foregrounds the imbrication of sexuality and race. One prominent
+critic, José Esteban Muñoz, frames this intersectional approach as a
+rebuke of the “antirelational turn” in Queer Studies, perhaps
+exemplified most famously by Lee Edelman's No Future: Queer Theory and
+the Death Drive, and the field of Queer Negativity which it
+spawned. According to Muñoz, the antirelational frame of thinking
+exhibits a willful blindness toward difference, particularly toward
+racial difference:
+#+BEGIN_QUOTE
+[M]ost of the work with which I disagree under the provisional title
+of "antirelational thesis" moves to imagine an escape of denouncement
+of relationality as first and foremost a distancing of queernes from
+what some theorists seem to think of as the contamination of race,
+gender, or other particularities that taint the purity of sexuality as
+the singular trope of difference. In other words, antirelational
+approaches to queer theory are romances of the negative, wishful
+thinking, and investments in deferring various dreams of
+difference. Muñoz 2009, 11
+#+END_QUOTE
+Drawing racial and gender minority positions into conversation with
+sexuality, Muñoz argues, enables new forms of politically-potent
+collectivism. For example, Muñoz poses queerness as a future-bound
+phenomenon to energizes an intersectional politics that can resist
+conscription into majoritarian systems. He asserts that, “Queerness is
+not yet here. Queerness is an ideality… We may never touch queerness,
+but we can feel it in the warm illumination of a horizon imbued with
+potentiality” (1). Framing queerness as utopia enables two critical
+moves. The first is to glimpse queerness as a guiding structure that
+“renders potential blueprints of a world not quite here, a horizon of
+possibility, not a fixed schema” (Muñoz 2009, 97). The second is to
+foreclose attempts of incorporation into the mainstream, “staving off
+the ossifying effects of neoliberal ideology and the degredation of
+politics brought about by representations of queerness in popular
+culture” (Muñoz 2019, 22). By virtue of being “not yet here,” in other
+words, queer futurity can structure modes of resistance within systems
+of dominance.
+
+The strategy of centering minority subject positions within
+majoritarian dominance structures drives much of critical work on
+arguably one of the most precarious datasets in history—the archive of
+slavery. As Saidiya Hartman explains, this archive is constituted by
+recording practices that not only omit or obscure information,
+archive, but also employ a language that cannot approximate experience
+within a discourse that dictates silence (Hartman 2008, 2). Jessica
+Marie Johnson takes up this archive, a collection of documents written
+by slave-owning men, traders, and colonial officials. These sources
+“often contain incomplete information” which she must “bring together
+in careful and creative ways” (Johnson 2020, 5). Her readings of these
+documents, which include marriage and baptism records from the 17th
+century, for example, weave a complicated and nuanced picture of black
+womens’ negotiation of their own freedom practices within the
+circumscribed systems of the early Atlantic world. Here, Johnson
+resists the rigid constraints that bound her inquiry in two ways. The
+first way is by a strategy of narration, where Johnson pieces together
+fragments that, on their own, tell a story of bondage and subjection
+to power. Rather than reify this dominating narrative, Johnson relates
+the “ways black women sought out profane, pleasurable, and erotic
+entanglements as practices of freedom” (Johnson 2020, 12). For
+example, she frames each chapter with the story of different woman
+from the archive, constructing for the reader a vivid scene that
+foregrounds the woman’s character and accomplishments. One chapter
+begins with a dinner party by Seignora Catti, “a wealthy merchant in
+her own right,” who “had leveraged her status as the wife of a
+European against her commercial savvy… for her own benefit" (Johnson
+16). The notes reveal that the sources for Catti's biography stem from
+biographical writings featuring Jean Barbot, a commercial agent for a
+French slaving company based in Senegal. In Johnson's narrative,
+Barbot functions as a supporting character, a guest at Catti's dinner
+party who serves to distinguish her graciousness and work as a
+host. Johnson's method of bringing Catti into the foreground requires
+more than just assembling fragments from Barbot's biographies; it
+requires narrating from what Johnson describes at the end of her book
+as "a deeper well of women, communities, practices, strategies,
+failures, and terrors that shaped the meaning of freedom and a faith
+in the possibility of emancipation" (Johnson 2020, 231). These
+histories, which will never be known, influence stories like the one
+of Seignora Catti, "the part we are able to witness" (Johnson 2020,
+231).
+
+Nearly two decades after its emergence, Queer of Color Critique
+influences a number of cultural studies methods that foreground race,
+including Black Feminist Studies. Scholars in this field often work
+with one of the most precarious datasets in history--that of slavery's
+archive, which contains "archival violence" not only in the form of
+records that literally obscure information, but also in the language
+that cannot approximate experience, and in the discourse that dictates
+silence (Hartman 2008, 2). In her book, /Wicked Flesh: Black Women,
+Intimacy, and Freedom in the Atlantic World/, Johnson takes up a
+collection of documents written by slave-owning men, traders, and
+colonial officials to read narratives of resistance in black womens'
+lives. Her sources consist of official documents, marriage and baptism
+records from the 17th century, for example, that "often contain
+incomplete information" which she "bring[s] together in careful and
+creative ways" (Johnson 2020, 5). Her readings of these documents
+weave a complicated and nuanced picture of black womens's lives and
+how they negotiated their own freedom practices within the
+circumscribed system of white, male, slave-owning dominance in early
+Atlantic world. Here, Johnson demonstrates two critical methods that
+resist the rigid constraints that bound her inquiry. The first is a
+strategy of narration, where Johnson interweaves fragments that, on
+their own, tell a story of bondage and subjection to power. Rather
+than reify this dominating narrative, Johnson relates the “ways black
+women sought out profane, pleasurable, and erotic entanglements as
+practices of freedom” (Johnson 2020, 12). She frames each chapter with
+the story of different figure from the archive, constructing for the
+reader a vivid scene from the woman's life in a way that foregrounds
+her character and accomplishment. For example, a dinner party by
+Seignora Catti, "a wealthy merchant in her own right, had leveraged
+her status as the wife of a European against her commercial savvy and
+the opportunities and experience of living in the middle ground
+between the Atlantic Ocean to the west and the Wolof sovereigns in the
+east for her own benefit" (Johnson 16). The notes reveal that the
+sources for Catti's biography stem from biographical writings
+featuring Jean Barbot, a commercial agent for a French slaving company
+based in Senegal. In Johnson's narrative, Barbot functions as a
+supporting character, a guest at Catti's dinner party who serves to
+distinguish her graciousness and work as a host. Johnson's method of
+bringing Catti into the foreground requires more than just assembling
+fragments from Barbot's biographies; it requires narrating from what
+Johnson describes at the end of her book as "a deeper well of women,
+communities, practices, strategies, failures, and terrors that shaped
+the meaning of freedom and a faith in the possibility of emancipation"
+(Johnson 2020, 231). These histories, which will never be known,
+influence stories like the one of Seignora Catti, "the part we are
+able to witness" (Johnson 2020, 231).
+
+In addition to reading between the fragments in the record, Johnson
+resignifies its silences. Drawing from Hortense Spillers's theorizing
+on the effects of slavery on gender, Johnson's project “rejects
+discourses of black women as lascivious or wicked, and transmut[e]
+them into practices of defiance and pleasure for themselves” (Johnson
+2020, 10). This work emerges most provocatively in the way that
+Johnson handles information that is missing from the archive, for
+example, a census that ignores the presence of black women and girls
+living in the New Orleans area in the early 18th century. Reading
+these absences as “null values,”[fn:5] rather than absent values or zero
+values, Johnson reframes the absence of information to “resis[t]
+equating the missing or inapplicable information with black death”
+(Johnson 2020, 135). Asserting these null values allows Johnson to
+index where these women exceed the logics of colonial
+subjectification:
+#+BEGIN_QUOTE
+It is possible to see their absence as evidence of either their
+perceived nonexistence or lack of importance, or inferior
+data-collection practices. It is also possible, however, to hear in
+the register's silence the ecstatic shout of black freedom practices
+transgressing colonial desires, black people forming maps of kin
+between towns and countryside, black women loving each other into free
+states that could not be counted by census officials, much less
+managed by imperial entities or recorded on manuscript pages. Johnson
+2020, 143
+#+END_QUOTE
+The histories of what could have been, which do not fit into dominant
+systems of quantification, include the radical seeking of “joy and
+pleasure, g[iving] birth, mother[ing] spaces of care and celebration,
+and cultivat[ing] expressive and embodied aesthetic practices to heal
+from the everyday toil of their laboring lives” (Johnson 10). By
+virtue of not being counted, Johnson argues, these women show “where
+they exceed the bounds of colonial power” based on the quantification
+and commodification of black life. These null values allow Johnson to
+frame "blackness not as bondage… but as future possibility" (Johnson
+2020, 10).
+
+** The future of editing
+By way of conclusion, I will highlight two recent TEI projects that,
+like Johnson's work on slavery's archive, resist rigid structures of
+dominance. As Amy Earhart points out, editorial practices are bound by
+structures deeper than the TEI data format. The obstacles that prevent
+many text encoding projects from succeeding have to do with the
+absence of strong institutional support and funding. Therefore, in what
+follows, I look at how two projects take what Earhart describes as a
+“DIY approach” that defies the structural constraints of both the
+institution and the data format (Earhart 2010, 314).
+
+The first project, the /Editing the Eartha M.M. White Collection/,
+based at the University of Florida, is an electronic archive of
+personal correspondence and other documents related to Eartha
+M.M. White (1876–1974), the founder of the Clara White Mission and a
+leader of Jacksonville, Florida's African American
+community. Beginning in a classroom in 2016, this project continues to
+grow through the collaborative effort of students, faculty, staff at
+UNF, with recent efforts being made to expand into the Jacksonville
+community more broadly. To facilitate collaboration on the project,
+they share their TEI documents on GitHub, an online space for
+publishing digital work (used primarily for collaborating on open
+software), and offer detailed, step-by-step instructions for new
+editors to get started with text encoding. The introductory guide to
+the archive, aimed at all levels of experience, indicates that this
+project draws significantly from a non-specialist and community
+knowledge.
+
+The second project, /The Peter Still Papers/, based at Rutgers
+University, collects and publishes correspondence (1850-1875) relating
+to former slave Peter Still’s attempts to purchase freedom for his
+wife and children in Alabama, and includes letters by William Lloyd
+Garrison, Horace Greeley, and Harriet Beecher Stowe. This “Documentary
+Edition” makes selective use of tags based on the TEI-Lite model, with
+the goal of bringing out a particular narrative among the papers:
+#+BEGIN_QUOTE
+Our intention with the markup has been to produce a rough idea of the
+/aboutness/ of each letter, and not to count every reference to a
+person or a place. Consequently, the persName and placeName tags have
+been used selectively.... in the personography file, we have made an
+attempt to include only those people who were significant in Peter
+Still’s world, namely family, friends, and people who helped or
+hindered him in his mission. /The Peter Still Papers/ 2015-2022, "About"
+#+END_QUOTE
+Their minimalist tagging scheme reflects an inventive approach toward
+the structural limitations surrounding the creation of the archive:
+first, the scope of the documents themselves, none of which are
+written in Still’s hand, reflect what editors describe as “only one
+side of a conversation, punctuated by many gaps and omissions” (The
+Peter Still Papers 2015-2022, "About). Additionally, like the /Editing
+the Eartha M.M. White Collection/, this project draws from a range of
+skillsets, specifically from non-specialists in American history, as
+“no member of the project team is a historian by training, nor expert
+in the period in question” (The Peter Still Papers 2015-2022,
+“About”).
+
+Both archives work within limited structures–both institutional and
+informational–toward collaborative and community-oriented encoding
+approaches. They demonstrate that resistance is not just another
+formal experiment, where non-normative bodies challenge subscription
+into an oppressive mainstream. It is a political project that
+foregrounds that which cannot be incorporated into a mainstream
+identity.
+
+
+
+
+*** Quotes to add:
+
+creating elements and attributes that reflect black life (Jessica
+H. Lu and Caitlin Pollock).
+- "Black DH Schema" project. TEI as a tool that can be critiqued and
+disrupted, that centers black people, lives, cultures, rather than
+relegates to the margins. Can there be a schema that supports and
+encourages black dh work, confirm and amplify black humanity rather
+than perpetuate power structures.
+
+creating elements and attributes that:
+- cite black women
+- chosen names vs imposed names, unnamed. 
+- land acknowledgement - place name
+- tags for code-switching
+- tags for places beyond geographical point, "the corner," "kitchen
+  table", digital spaces.
+- tags that reflect complexity of black kinship and family, including
+  role names.
+
+DH as a field is slow to incorporate cultural criticism (Liu). 
+
+
+
+*** qualitative expansion
+Yet, TEI tags and attributes add /qualitative/ information to
+data. Markup can support a number of encoding approaches, including
+"conceptual," "declarative," "logical," "structural," and "semantic."
+Although it has a default set of tags and attributes, TEI has been
+praised for its customizability, which it inherits from its parent
+language, XML (eXtensible Markup Language). Individual encoding
+projects often create their own custom schemas that reflect the
+priority of each document. And, due to the collective nature of the
+TEI, which is developed and maintained by the TEI Consortium, the
+guidelines are continually updated to accomodate the needs of
+encoders.
+
+* Works
+E. Beshero-Bondar, et al. “Revising Sex and Gender in the TEI
+Guidelines.” TEI Conference and Members’ Meeting 2022, 2022,
+https://www.conftool.pro/tei2022/sessions.php.
+
+Calado, Filipa. 2022. “Encoding Queer Erasure in Oscar Wilde’s "The Picture of Dorian 
+Gray"”, Open Library of Humanities 8(1). doi: https://doi.org/10.16995/olh.6407q
+
+Caughie, P L, Datskou, E and Parker, R 2018 ‘Storm Clouds on the
+Horizon: Feminist Ontologies and the Problem of Gender.' Feminist
+Modernist Studies 1.3, 230–242. DOI: 10.1080/24692921.2018.1505819
+
+Derrida, Jacques, and Eric Prenowitz. “Archive Fever: A Freudian
+Impression.” Diacritics 25, no. 2 (1995):
+9–63. https://doi.org/10.2307/465144.
+
+Earhart, Amy E. "Models of Digital Documentation: The 19th-Century
+Concord Digital Archive," Documentary Editing: Journal of the
+Association for Documentary Editing, Volume 31: 2010 ISSN 0196-7134
+
+The Eartha M. White Collection. Dr. Clayton McCarl et al. University of North Florida.2016-
+2022. https://unfdhi.org/earthawhite/exhibits/show/step-by-step-instructions/getting-started
+
+Ferguson, Roderick A. "Queer of Color Critique." In Oxford Research
+Encyclopedia of Literature. 2018.
+
+Gaboury, Jacob. "Becoming NULL: Queer Relations in the Excluded
+Middle." Women & Performance: a Journal of Feminist
+Theory. 28:2, 2018. pp. 143-158.
+
+Goldberg, J and Menon, M 2005 ‘Queering History.' PMLA, 120.5,
+1608–1617. DOI: 10.1632/003081205X73443.
+
+Hartman, Saidiya. "Venus in two acts." Small Axe: A Caribbean Journal
+of Criticism 12, no.  2 (2008): 1-14.
+
+Johnson, Jessica Marie. Wicked Flesh: Black women, Intimacy, and
+Freedom in the Atlantic World. University of Pennsylvania Press, 2020.
+
+"The Layered Markup and Annotation Language (LMNL)."
+http://xml.coverpages.org/LMNL-Abstract.html
+
+Liu, Alan. "Where is Cultural Criticism in the Digital Humanities?"
+Debates in the Digital Humanities. ed. Matthew K. Gold. The University
+of Minnesota Press. 2012.
+
+Love, Heather. Feeling backward: Loss and the politics of queer
+history. Harvard University Press, 2009.
+
+martindholmes. 2022. "New <entity> and <listEntity> elements are
+	needed #2341." Github,
+	https://github.com/TEIC/TEI/issues/2341.
+
+Muñoz, José Esteban. Cruising Utopia: The Then and There of Queer
+Futurity. New York University Press, 2019.
+
+McGann, Jerome J. 2001. Radiant Textuality: Literature After the World
+Wide Web. New York: Palgrave. Print.
+
+The Peter Still Papers. Francesca Gianneti et al. Rutgers University
+Libraries. 2015-2022.  https://stillpapers.org/
+
+Tennison, Jeni. "Overlap, Containment, and Dominance." Jeni's
+Musings. Mon, 2008-12-06.
+http://www.jenitennison.com/2008/12/06/overlap-containment-and-dominance.html
+
+Tennison, Jeni. "Essential Hierarhcy." Jeni's Musings. 2008-12-09
+https://web.archive.org/web/20111230054946/http://www.jenitennison.com/blog/node/96
+
+Thain, M 2016 ‘Perspective: Digitizing the Diary – Experiments in
+Queer Encoding,' Journal of Victorian Culture, 21.2, 226–241. DOI:
+10.1080/13555502.2016.1156014
+
+Traub, V 2013 ‘The New Unhistoricism in Queer Studies.' PMLA, 128.1,
+21–39. DOI: 10.1632/pmla.2013.128.1.21
+
+Wilde, O 1889–90 MA 883. The Picture of Dorian Gray: Original
+Manuscript. Morgan Library & Museum, New York, NY.
+
+Wilde, O and Frankel, N 2011 The Picture of Dorian Gray: An Annotated,
+Uncensored Edition. Cambridge: Harvard University Press. DOI:
+10.4159/harvard.9780674068049
+
+
+* Footnotes
+
+[fn:1] See Wilde and Frankel, pp. 40--54, for a more complete
+accounting of the preparation of the typescript for publication.
+
+[fn:2] McKerrow's position was subsequently developed through the
+work of Walter W. Greg, who expanded the critic's purview beyond the
+single copy-text, and then to Fredson Bowers and Thomas Tanselle who
+proposed an eclectic editing practice that could distill authorial
+intention from multiple sources.
+
+[fn:3] For instance, Valerie Traub's argument that the term "queer"
+loses its descriptive value if applied ahistorically: "Queer's
+free-floating, endlessly mobile, and infinitely subversive capacities
+may be strengths--allowing queer to accomplish strategic maneuvers
+that no other concept does--but its principled imprecision implies
+analytic limitations" (Traub, 2013: 33)
+
+[fn:4] See Thain, "Perspective: Digitizing the Diary--Experiments in
+Queer Encoding" and Caughie et al, "Storm Clouds on the Horizon:
+Feminist Ontologies and the Problem of Gender".
+
+[fn:5] Johnson here draws from Jacob Gaboury's work on resisting
+compulsory identification in social media. See Gaboury,
+Jacob. "Becoming NULL: Queer Relations in the Excluded Middle." /Women
+& Performance: a Journal of Feminist Theory/. 28:2, 2018. pp. 143-158.
+

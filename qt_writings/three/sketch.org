@@ -1,0 +1,2142 @@
+* sketch
+** summary notes
+*** overview
+
+Title: Embodiment.. 
+
+Question: How does reading the "fleshiness" of digital media enable
+the analysis of literary/textual material?
+
+Fields: Black Feminist Studies (Snorton, Jayna Brown, Zakiyyah Iman
+Jackson, and Amber Musser), Media Archaeology/New Materialisms
+(Kirschenbaum).
+
+Object: Hyperfiction, particularly /skinonskinonskin/, Science Fiction /Dawn/. 
+
+Method: Close reading of /Dawn/, Media archaeological reading of
+/skinonskinonskin/. A methodology of studying digital media which
+attends to its physicality, what Kirschenbaum describes as the
+forensic and formal levels of materiality.
+
+** readings notes
+*** /skin/
+http://auriea.org/skinonskinonskin
+http://entropy8zuper.org/skinonskinonskin/
+
+**** TODO /skinonskinoxonreonskin/
+https://sites.rhizome.org/anthology/skinonskinonskin.html
+
+Collaborative name: Entropy8Zuper!
+
+25 letters total in JavaScript, HTML, and Flash. 
+
+Designed for the Nestcape 4 browser, so no longer viewable in that
+context except through an emulator.
+
+view-source:http://entropy8zuper.org/skinonskinonskin/rhizome/
+Entropy8zuper.org/skinonskinonskin/rhizome/images/
+Entropy8zuper.org/skinonskinonskin/rhizome/gr
+Entropy8zuper.org/skinonskinonskin/rhizome/movies
+
+***** Landing page: 
+- title carved into flesh. 
+
+Epigraph: "if ( 1 + 1 == 1 ) { e8z = true; };"
+- conditional statement, which is false. But what's it saying? That
+"if" is carrying a lot. It's a statement of possibility, saying 1 + 1
+might be equal to 1. That the two lovers might be able to combine. 
+
+***** DONE breath.html
+      CLOSED: [2022-12-04 Sun 11:19]
+By Samyn
+
+Image of white/blue torso with bright glowing point in center (heart?)
+on black background. When mouse pans over the image, the chest
+englarges slightly and the sound of breath emits. Can happen at fast
+speeds, though is a bit glitchy. 
+
+Code consists of an array of whispers, containing erotic professions
+and exhortations.
+
+#+BEGIN_SOURCE 
+<SCRIPT LANGUAGE="Javascript">
+
+<!--
+whispers = new Array();
+whispers[0] = "breath me";
+whispers[1] = "i will love you forever";
+whispers[2] = "skin";
+whispers[3] = "skin on skin";
+whispers[4] = "skin on skin on skin";
+whispers[5] = "implode";
+whispers[6] = "soft";
+whispers[7] = "slow";
+whispers[8] = "can you feel me?";
+whispers[9] = "touch me";
+whispers[10] = "one more cigarette";
+whispers[11] = "i am so open";
+whispers[12] = "i want to feel you inside of me";
+whispers[13] = "smoke";
+whispers[14] = "i want to breathe you";
+whispers[15] = "we are smoke";
+whispers[16] = "yesss";
+whispers[17] = "deeper";
+whispers[18] = "i am disappearing";
+whispers[19] = "warm";
+//-->
+	</SCRIPT>
+#+END_SOURCE
+
+***** smoke.html
+By Harvey
+
+HTML tables, like cells, animated to move up and down and across the
+page following the mouse. The movement flutters to evoke smoke. Words
+in read are contained at the bottom of each cell.
+
+See screenshot "smoke.png". Here you can apprehend all of the words at
+once. 
+
+The script parses out where table elements are defined/assigned,
+styled, and animated (JavaScript), and then where they are positioned
+(HTML).
+
+***** TODO close.html
+By Samyn
+
+The page here only makes sense if you glimpsed the code in the
+previous page, "smoke.html". At the center of the page is an image of
+the chest from the first vignette, "breath.html." The filenames for
+the images populating the tables overlay the image of the chest. At
+the bottom two corners are closed fists, which open when clicked to
+release an animation of butterflies that flutter over the chest. The
+butterflies will move again if the user pans over them, animated by a
+whoosing sound like the breathing in "breath.html," but they stay
+within the confines of the image. 
+
+The page signifies not only butterflies, but also the words associated
+with the filenames overlaid on the chest. These include "sensitive,"
+"smoke," "again," and any others in the user's memory. 
+
+Here, code names stand for words. It's surfacing the significatory
+system inherent in code, which appends and defines data. It's showing
+us the code name for the file rather than the contents of that file. 
+
+***** grid.html
+By Samyn
+
+A torso (masculine, different from the first) stuck in a grid, evoking
+Neuromancer's cyberspace.
+
+"cursor_mac_flip.gif"?
+
+***** TODO hands.html
+By Harvey
+
+You get here after opening the "hands" in "close." The image is of a
+black hand pressing on a white outline. Presumably, Harvey's hand
+against Samyn's, perhaps on a screen. The code has a message that
+confirms: ~<!-- we touch -->~, and confirms Harvey is the
+author. Hence the black hand. 
+***** horoscope.html
+Image of a horoscope exhorting the gemini to be receptive to "hav[ing]
+your mind stolen and your heart blown," with alt-text in the HTML
+source code (visible when panning over the image): "head to toe
+receptive".
+***** DONE air.html
+      CLOSED: [2022-12-03 Sat 19:58]
+view-source:http://entropy8zuper.org/skinonskinonskin/rhizome/air.html
+By Samyn
+
+Two bodies in flying position following the mouse as it pans over a
+field of rotating lines, evoking a cyberlandscape. The animations are
+like magnets moving toward the mouse when it moves, but the strength
+of attraction depends on the mouse's speed. So you can get them to
+almost touch with some difficulty. 
+
+The code is just layers of moving lines, with the images as gifs that
+are animated by "flyNow()" and "flyMouse" functions, which I do not
+understand.
+
+Learning the haptics of the animation. Deeply sensual. 
+
+#+BEGIN_SOURCE
+function flyMouse()
+{
+var mLeft = dMeasure('flyingmL','document.','left');
+var mTop = dMeasure('flyingmL','document.','top');
+var aLeft = dMeasure('flyingaL','document.','left');
+var aTop = dMeasure('flyingaL','document.','top');
+
+if ( mouseX < halfW )
+	{
+	var mFactor = 0.1;
+	var aFactor = 0.01;
+	}
+else
+	{
+	var mFactor = 0.01;
+	var aFactor = 0.1;
+	};
+
+thisXDiff = mouseX - (mLeft+halfmW);
+thisYDiff = mouseY - (mTop+halfmH);
+dMove('flyingmL','document.',mLeft + thisXDiff*mFactor,mTop + thisYDiff*mFactor);
+thisXDiff = mouseX - (aLeft+halfaW);
+thisYDiff = mouseY - (aTop+halfaH);
+dMove('flyingaL','document.',aLeft + thisXDiff*aFactor,aTop + thisYDiff*aFactor);
+moveGround();
+};
+#+END_SOURCE
+
+***** entropy8zuper.html & entropy8zuper2.html
+Close up of images so pixels are magnified. Words shown: "what's
+related" (from Samyn) and "Connection: Keep-Alive" (from Harvey). 
+
+***** untouched.html
+By Samyn
+
+We may have our second flash animation. A SWF file of Samyn shirtless,
+laying on his back, folding his arms over his body then turning on his
+side. A loop. Techno music repeats the same melody. 
+
+Cannot see the SWF file, but interesting filename, "whitem.sfw" -
+white Michael.
+
+***** come.html
+Bt Harvey, cannot open the source. 
+
+Tiles that animate when clicked. Word "come" at bottom of the tile,
+and Harvey (?) walking toward viewer, fading to white when she
+arrives. Samyn's (?) voice says "Yes." 
+
+***** freezing.html
+#+BEGIN_SOURCE
+<HTML>
+<HEAD><TITLE>freezing</TITLE>
+<!-- by Auriea Harvey for Michael Samyn -->
+<!-- 14 02 1999 -->
+</HEAD>
+<BODY bgcolor=000000>
+<MAP NAME="ImageMap65363">
+<AREA SHAPE="rect"
+ALT="Z" COORDS="510,598,516,608" HREF="http://www.entropy8zuper.org"  target="_blank" onMouseover="javascript:document.embeds['soundMovie'].GotoFrame(5);" onMouseout="javascript:document.embeds['soundMovie'].GotoFrame(10);">
+</AREA>
+</MAP>
+<IMG NAME="frozen" SRC="hair/frozen.jpg" border=0 WIDTH=593 HEIGHT=825
+USEMAP="#ImageMap65363">
+<EMBED SRC="./movies/cometome.swf" WIDTH=2 HEIGHT=2 PLAY="false"
+NAME="soundMovie" SWLIVECONNECT="true" BGCOLOR="#000000">
+</BODY>
+</HTML>
+#+END_SOURCE
+			   
+***** obsessed.html
+By Samyn
+
+Animation of a green spiral that moves against the cursor in a circular
+motion, its fulcrum on a green circle which, if clicked, opens a new
+page, "control.html". 
+
+Again, this is playing with haptics, the effect of opposing and
+attracting forces (like "air.html"). 
+
+***** control.html
+view-source:http://entropy8zuper.org/skinonskinonskin/rhizome/control.html
+No attribution. Title: "you:controlMe"
+
+Complicated to describe. It's a green tinted gif of Harvey's head that
+rolls with the mouse, like the cursor is physically moving her
+head. Can see more or less of her face this way. Alt text contains a
+message with words like "go" "believe" "ocean" "mind." Can only get
+the full sentence when reading the code. 
+
+Again, we are playing with haptics, so I think it's Samyn, though this
+is opposite of what we expect. The suggests the work is created from
+Harvey's perspective, saying "you control me," and Harvey presumably
+being the intended user. Or maybe Samyn is taking control by demanding
+that Harvey's image submit to the user's mouse. 
+
+How the code works: there are ~<AREA>~ html elements that are coded
+with coordinates, image links, and alt text when the mouse pans over
+them. The effect is to animate the image according to movement. 
+
+***** missing.html
+Large, glitchy, soundless video of Harvey writing "I miss you" on her
+arm and showing it to the camera. Cannot see the code, appears to be a
+flash file. 
+
+***** control2.html
+The same as the original control.html, but with Samyn's face looping
+through. 
+***** TODO words.html
+view-source:http://entropy8zuper.org/skinonskinonskin/rhizome/words.html
+By Samyn on valentines day, 1999.
+
+A beating heart, animated by words that move in various arcs from its
+center. 
+
+Line 98: "$we are disembodied arms and mouths "
+
+The JavaScript is very detailed in its animation. It sets loops
+through words, calculates their trajectory and timing, then resets
+their position and starts again.
+
+***** sunday.html
+by e8z on 21 February 1999
+
+Very calming. Flash video of views presumably of Belgium. 
+
+Along with "but.html," "travel.html" are flash videos. Not a lot of
+access here.
+
+***** unsaid.html
+No attribution or date
+
+Image of Mac desktop (Harvey's?) with draggable chat boxes filled with
+their conversation. Typical and intense avowals of enduring
+love. Inside each chat box is an unsent message in the composition
+area. Harvey is showing Samyn her unsent thoughts, in one case, a
+thought that was withheld over several of his messages, and then
+changed to another. 
+
+One of them contains the interesting phrase by womanonfire: "-i+o",
+which evokes a loop (i=0, i<n, i++) and I/O. 
+
+***** TODO hug.html
+By Harvey, very clearly with context clues. 
+
+Animation of swirling pieces to the background of upbeat funk music
+which collapse into a whole image of Harvey and Samyn hugging when
+clicked. Music also changes to a refrain, "This could have been
+something, this could have been really something." There's also a
+text that appears line by line, which begins hopeful but turns more
+and more apologetic and despondant. The breakup betweeh Harvey and her
+current partner. She doesn't know if she can leave him and she doesn't
+want to leave her whole life. But she loves Samyn and will do what she
+can. 
+
+Michael's response, "perfect.html," is a chatbox that says
+"bullshit. We would be the perfect couple. Maybe I just say that ..."
+
+**** DONE entropy8zuper.org 
+     CLOSED: [2022-11-30 Wed 16:44]
+http://entropy8zuper.org/
+Text only verision: http://entropy8zuper.org/text
+
+"Flash was murdered, net technologies moved on. Let us mourn! Let us
+CELEBRATE!"
+
+"It is deeply ironic that what survives of our interactive net
+artworks are texts and sounds written and recorded for an offline
+exhibition, and dead code on our server, but here we are."
+
+WHISPERING WINDOWS
+
+They must be using some kind of audio synthesizer.
+
+Racialization? When distributed over the net, the body becomes
+something that is partitioned, distributed in peices, like
+packet-switching. This happens with voice and with skin. 
+
+What's the effect? When things are coming across slowly, we can better
+/feel/ the components.
+
+#+BEGIN_QUOTE
+womanonfire: i wonder wht your voice is like
+zuper: my voice?
+zuper: let's try
+zuper: it's weird to talk in a silent office at night
+womanonfire: yes
+womanonfire: i can just barely make you out
+womanonfire: how fitting
+womanonfire: it sounds so far away but you feel so close
+zuper: yes
+zuper: i am close
+zuper: i don't understand myself
+womanonfire: i will write you a very long letter tonight
+zuper: I'm falling in love with a 160x120 pixel video...
+zuper: Yes please write me a long letter
+womanonfire: it is dificult for me here right now
+zuper: why is it difficult?
+womanonfire: i was just about to write one about this
+womanonfire: because i love you
+zuper: ...
+womanonfire: seems so 
+womanonfire: strange
+womanonfire: maybe it is lust
+womanonfire: i cant tell anymore
+zuper: pixellust?
+womanonfire: right
+zuper: I my case only ASCIIlust...
+womanonfire: but i want to make a home for us
+womanonfire: in the network
+zuper: Have you read Sterlings 'Holy Fire'?
+womanonfire: no
+zuper: They have places called 'Memory Palaces' on the net
+zuper: where they keep all their souvenirs and where people can meet
+womanonfire: i just heard you that time
+womanonfire: !
+zuper: in dutch!
+womanonfire: yes!
+zuper: (private) I realised today that I have never been in love with somebody who doesn't speak Dutch before.
+womanonfire -> zuper: i have never been in love with someone in another country before
+zuper: (private) I have never been in love with someone with green dreadlocks before
+zuper: (private) let alone black skin
+womanonfire -> zuper: yes i hope you wiwll like my skin
+zuper: (private) I already do.
+womanonfire -> zuper: :)
+#+END_QUOTE
+
+
+
+**** DONE "/skinonskinonskin/ 1999. /Net Art Anthology/, Rhizome
+     CLOSED: [2022-11-30 Wed 10:59]
+https://anthology.rhizome.org/skinonskinonskin 
+"digital love letters" (Rhizome, /Net Art Anthology/) that document a
+romance between net artists Auriea Harvey and Michaël Samyn, who met
+online in 1999.
+
+"In /skinonskinonskin/, artistic collaboration and love are shown to be
+closely related, two facets of the same fundamental question of how to
+relate to the other. The work is a complex portrait of an artistic and
+romantic relationship that shows that online intimacy is as deeply
+felt, embodied, and full of risk and reward as any other form"
+(Rhizome, /Net Art Anthology/)"
+
+Met on hell.com, members only space. Then Michael sent breath.html,
+where "Messages of love are hidden in the code" (Rhizome, /Net Art
+Anthology/). Proceeded to trade small works of net art on the server
+~hell.com/NO/SUCH/PLACE/EXISTS/seasideMOTEL/~. 
+
+"Putting the user in the role of recipient of their love letters, it
+allows one to feel a touch that runs through the wires, from a body
+that doesn’t end at its fingertips" (Rhizome, /Net Art Anthology/).
+
+**** DONE Rindon Johnson, "Re: skinonskinonskin" May 26, 2017
+     CLOSED: [2022-11-30 Wed 14:24]
+https://rhizome.org/editorial/2017/may/26/re-skinonskinonskin/
+
+"as much as they wanted to hear one another’s voices (and they did see
+glimpses of each other via slow glitchy webcam), they wanted more to
+feel a deeper connection with one another, touching one another
+through the cursor, hearing the other’s heart beat, listening to the
+other breathe" (Johnson).
+
+"Each image follows the same pattern, as if to imply “come to me,” or
+“I will come to you,” and upon arrival bliss, over and over."
+(Johnson).
+
+Why did they decide to sell this eventually? Out of some capitalistic
+impulse? 
+
+"Is love meant to be bought and sold? Having been in love myself, I
+know there is a great deal of labor involved. These life-altering
+loves take over your life, steal your time, masquerade as obsession,
+pick you up, knock you down, steal your mind, time. There are the
+tokens to be given and received; the fits of insecurity, infidelity,
+failure, excitement. It’s a lot of work to be in love. To make that
+life-altering preoccupation available to others to witness is another
+added form of work, and since this is a society revolving around
+capitalism, it would make sense for the creators of such a love to
+charge to view the ephemera from it."
+
+"Compulsively, as the now hyper-social, hyper-subjective, hyper-mobile
+web mandates, we share our thoughts, curate them, they’re meant to be
+scrolled through, not sat with, nor read over and over again."
+
+**** DONE Harvey, Aurelia and Michaël Samyn. "Wire­fire: A Complete
+     CLOSED: [2022-11-30 Wed 14:24]
+History of Love in the Wires (parts 17–24)."
+CyPosium 2012. https://www.cyposium.net/selected-presentations/harvey_samyn/#recording
+
+#+BEGIN_QUOTE 
+"He sent me this webpage
+as i moved my mouse, it mirrored the motion of my pointer.
+it breathed.
+i fell in love. he fell in love. 5
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+the content of skinonskinonskin was what it felt like to be in love, inside a
+computer screen.
+to be a human and the only means of touching was with a mouse
+pointer. 6
+#+END_QUOTE
+
+"We eventually let other people see skinonskinonskin. It was a story,
+we felt, worth telling. In a way this was the beginning of our
+autobiographical exhibitionism. Our love affair with performative
+romace" (8). 
+
+Speaking on their new work, an interactive game series called "Tale of
+Tales," where the user takes on a deer avatar in a forest to interact
+with other deer and elements of the forest without text. Harvey says,
+"One need not understand each other to communicate. In fact, keeping
+words away. Not being literal but rather allowing aesthetics and in
+the case of The Forest, body language, to be the communication" (29).
+
+In another game, /Bientôt l’été/: "As it turns out, the entire world
+your avatar lives in is artificial. The other player is real. But they
+are playing on another artificial world, far away from yours. When you
+close your eyes in the game, you get an impression of the computer
+systems that are running this simulation. In a way, /Bientôt l’été/ is
+a metaphor for playing videogames." (32).
+
+Discussion recording:
+https://www.cyposium.net/selected-presentations/discussion-block-1/ 
+
+**** DONE Harvey & Samyn chat, April 12 1999
+     CLOSED: [2022-11-30 Wed 14:24]
+http://entropy8zuper.org/underyourdesk/a+z/chat04-12-99.txt
+
+#+BEGIN_QUOTE
+Au-: i have to start packing tomorrow
+Au-: i have two weeks
+zuper8: :)
+zuper8: two weeks?
+zuper8: what are you angry about?
+Au-: just the arguing
+Au-: having to explain myself
+Au-: it has been far too emotional today
+zuper8: veerle was very angry too... she was actually bossing me around... so i got angry...
+Au- -> zuper8: 1.6fps
+Au- -> zuper8: :)
+Au- -> zuper8: almost realtime
+zuper8: but we both realise now that we need to take one step at the time and let time do its work
+zuper8: still it's sad
+zuper8: (private) almost
+Au-: yes time
+#+END_QUOTE
+
+
+The different levels of communication made possible by technology, but
+technology that is not seamless, is not totally engrossing. Only one
+of them can see the other. 
+
+#+BEGIN_QUOTE
+u- -> zuper8: so good to see you
+zuper8: (private) i wish i could say the same ;p
+Au- -> zuper8: i will fix it up for tomorrow
+zuper8: (private) that would be nice, but let's not cling too much to these digital meetings anymore, they are so frustrating
+zuper8: (private) now
+Au- -> zuper8: yes
+Au- -> zuper8: but sometimes
+zuper8: (private) i wish i could feel you
+zuper8: (private) hold you
+zuper8: (private) close
+Au-: actually i cant do this much anyway
+zuper8: (private) stroke your back
+Au-: ive got alot of work work
+zuper8: (private) smell your hair
+zuper8: (private) kiss your
+zuper8: (private) your
+Au- -> zuper8: o
+zuper8: (private) your
+Au- -> zuper8: oo
+Au- -> zuper8: oooo
+Au- -> zuper8: ooooooooooooooooooooooooo!
+zuper8: i've got a lot of work too
+zuper8: (private) mmmmmmmmmmmmmmmmmmmmmmm!
+Au- -> zuper8: touch
+Au- -> zuper8: 	right,,,,,,, frustrating
+zuper8: (private) shivers
+zuper8: tell me you're mine
+Au- -> zuper8: i'm yours
+Au- -> zuper8: forever 
+zuper8: (private) :) no hesitation
+zuper8: (private) forever
+zuper8: (private) :)
+Au-: we must be good to one another
+zuper8: (private) i love you 
+zuper8: we will be
+Au-: i love you
+#+END_QUOTE 
+
+**** DONE Original site (to see the code)
+     CLOSED: [2022-11-30 Wed 10:56]
+http://entropy8zuper.org/skinonskinonskin/onskin/skintro.html
+
+All the code does is to check for Flash, which is discontinued. So it
+cannot work.
+
+**** TODO auriea.org http://auriea.org/skinonskinonskin
+
+The internet browser that allowed them to communicate across
+platforms. 
+"Whispers to each other left in the source code." 
+#+BEGIN_QUOTE
+There will always be a special place in my heart for Netscape 4. In 1999 it was the only browser that was the same on a Mac and on Windows. I was on a Mac he was on Windows. One morning after a night when we met, online, in the wires. I open my mail to find a link to a page “breath.html”
+Do artists and designers still work somewhere in secret... come together in clandestine meetings on locked servers? Whispers to each other left in the source code?
+#+END_QUOTE
+
+*** dissertations
+**** TODO Bury, L. (2011). Exercises in criticism: The theory and practice
+of literary constraint 
+*** black feminisms and qocq
+**** Lorde, Audre. "Uses of the erotic: the erotic as power." Sister
+Outsider (1984), pp. 53-59.
+
+
+Need to reclaim the erotic as a source of power, empowerment through
+desire and joy. 
+
+The difference between the erotic and the pornographic: both have to
+do with pleasure, but the pornographic supresses feeling, pursuing
+only sensation.  “The erotic is a measure between the beginnings of
+our sense of self and the chaos of our strongest feelings. It is an
+internal sense of satisfaction to which, once we have experienced it,
+we know we can aspire” (54).  “erotic… is a question of how actually
+and fully we can feel in the doing” (54).
+
+Quantity vs quality: “There is a difference between painting a back
+fence and writing a poem, but only one of quantity. And there is, for
+me, no difference between writing a good poem and moving into sunlight
+against the body of a woman l love” (58).
+
+I wonder --- is she saying that the pornographic has to do with
+quantity -- of sensation without feeling, and that the erotic has to
+do with quality -- depth of feeling? This question of quantity over
+quality interests me because it relates to the digital, and digital
+aesthetics. To the question of digitization. There’s the claim by
+Kittler that the digital brings us to a new regime of aesthetics where
+media is just numbers, what Kittler calls “eyewash,” as opposed to
+analogue media like photography and phonography, which stores data as
+physical effects or traces. From the first page of Media, Film,
+Typewriter: The general digitization of channels and information
+erases the differences among individual media. Sound and image, voice
+and text are reduced to surface effects, known to consumers as
+interface. Sense and the senses turn into eyewash.. Inside the
+computers themselves everything becomes a number: quantity without
+image, sound or voice. 1 The claim that digital media lacks
+physicality has been countered by media/literary theorists like
+N. Katherine Hayles and Matt Kirschenbaum, who explore the very
+physical effects of digital media, in Kirschenbaum’s case, looking at
+how traces on a hard drive, for example, are as sensual and unique as
+any other physical objects, though they perpetuate an illusion of
+immateriality.
+
+The use of Lord’s “erotic,” emphasizing the role of chaos in creating
+intimacy or new modes of connection---something I had read, this word
+“chaos,” and didn’t know what to do with: “The erotic is a measure
+between the beginnings of our sense of self and the chaos of our
+strongest feelings. It is an internal sense of satisfaction to which,
+once we have experienced it, we know we can aspire” (54). This idea
+that chaos can be a bridge of connection. Reminds me of Brown, and
+also of Jackson, who talks about dissolving the boundaries of the self
+as a way of forming new ethical connections (we’ve seen this in
+Brown’s Black Utopias). This is very smart, and it’s in keeping with
+structures of thought from black lesbian feminists.
+
+**** DONE Snorton, C. Riley. Black on both sides: A racial history of trans
+     CLOSED: [2022-11-02 Wed 13:53]
+identity. U of Minnesota Press, 2017.
+
+Looking at the black flesh that has been used to denigrate as a tool
+of empowerment. White race and gender has been constructed out of the
+reduction of body to flesh. This flesh, which has undergone this
+reduction, can be a place of possibility, of fugitivity, of escape,
+for example, in the concept of the “transcapable”. This "pornotrope"
+suggests a state of chaos which can resist the fixity of
+gender.
+
+The book examines the "mechanics of invention," or the ways that black
+life has been defined by "state grammars" (xiv).
+
+Terms: "'Trans' is more about a movement with no clear origin and no
+point of arrival, and 'blackness' signifies upon an enveloping
+environment and condition of possibility" (2).
+
+Concepts that we have today of gender depend on the reduction of flesh
+to captive bodies: "Captive and divided flesh functions as malleable
+matter for mediating and remaking sex and gender as matters of human
+categorization and personal definition" (20). 
+- "Captive flesh expressed an ungendered position that defines race as
+  the sine qua non of sex" (34).
+- "On the one hand, white femininity is conferred in relation to an
+  unwillingness to view white female genitalia, that is, to look upon
+  white women as flesh. On the other hand, the unrelenting scopic
+  availability that defined blackness within the visual economy of
+  racial slavery becomes the necessary context for producing a field
+  of sex/gender knowledge" (33). 
+
+Methodology: "This black and trans historiographical project" relies
+on what has been omitted from the archive as "conditions of
+possibility" (11). "The archives under review here are all products of
+invention. What is necessary, then, are theoretical and historical
+trajectories that further imaginative capacities to construct more
+livable black and trans worlds" (14).  
+
+Method is to read into the details of the archival record:
+- The /smell/ indexes both racial/class hierarchy and resistance. "The
+  discourse of disgust registered Anarcha's stench with the conjoined
+  necropolitial and biopolitical logics of slavery and medicine, yet
+  the recurrent descriptors of Anarcha's body odor provides an opening
+  to imagine what modicums of protection might have been afforded by
+  smelling noxious to one's enslaver" (27). 
+- The /medical assistance/ by slaves opens speculation into "modes of
+  nourishment and care" they provided one another (29). 
+   - "the opacity in the archive on this matter [Betsey's procedure]
+     leaves room to imagine how Betsey might have somehow resisted the
+     performance of stoic bravery or willing subjectivity that she was
+     compelled to produce" (25).
+- The /daguerrotype/ "offers a visual grammar for reading the
+  imbrications of 'race' and 'gender' under captivity" (40). 
+    - "That the image does not reside on the surface but floats in an
+      unmappable elsewhere offers an allegory for race as a procedure
+      that exceeds the logics of a bodily surface, occuring by way of
+      flesh, a racial mattering that appears through puncture in the
+      form of a wound or covered by skin and screened from view"
+      (40). 
+    - For captive bodies, "flesh functioned as a disarticulation of
+      human form from its anatomical features" (18). 
+
+
+Evelyn Hammonds on Black Holes. We need a "different geometry" for
+examining what is inside the black hole (43). 
+
+
+***** to read in between the contradictions - at the intersection of
+race and gender. 
+
+He picks apart the contradictions that produce race and gender. The
+captive women Betsey, Lucy, and Anarcha and unnamed others enabled the
+development of gynecology as a field while being simultaneously
+disavowed as women. White femininity prevents the inspection of white
+female genitalia, it is constructed out of the "scopic availability"
+of black flesh (Snorton 33). Yet this genderless flesh is also a
+"capacitating structure" which enables "fungibility for fugitive
+movement" (Snorton 53). Additionally, while traditional racial
+"passing" assumes white passing, it is blackness which gives one the
+"gender indefiniteness" to enable "cross-gendered modes of escape"
+(Snorton 56). For example, Snorton discusses the "blackening" of
+Harriet Jacobs, the writer of /Incidents in the Life of a Slave Girl/
+(1861), as an escape strategy that s allowed her to obtain
+"fungibility, thingness" to avoid recognition (Snorton 71). 
+
+Answering to two arguments about the inevitability of Phillip DeVine's
+death in the Brandon Teena murders, the first that his race was
+irrelevant, and the second that it was a question of bad
+timing. Snorton explains how the former argument demonstrates how
+blackness as inconsequential becomes an excuse for violence, and the
+second that, as a disabled black man, "DeVine's figuration [is] always
+and already untimely, assigned to a conversation perpetually deferred"
+from trans issues (Snorton 181).
+
+methodology: inventing from the details of the archival record
+
+DeVine's story, for example, "requires nothing short of invention"
+(Snorton 183). 
+
+In light of the "Say their names" imperatives from BLM and BTLM,
+Snorton situates her project as part of an attempt to find new ways of
+figuring black death, enumerating and naming black death, "a demand
+for enw structures of naming that evince and evicerate the conditions
+that continually produce black and trans death" (Snorton 195). 
+
+Her method is to read into the details of the archival record....
+
+**** TODO Jackson, Zakiyyah Iman. /Becoming human: Matter and meaning
+in an antiblack world/. NYU Press, 2020.
+
+
+There seems to be this move in Black/AfAm Studies that’s drawing on
+newer ideas in Materialisms and the Philosophy of Science to overturn
+ideas from the Enlightenment.
+
+The ideas from contemporary science (plasticization, symbiosis) which
+she takes and applies to her critique of Enlightenment. Dismantles
+Enlightenment thought -- saying that blackness has not been “denied”
+or “evacuated” but rather reappropriated, plasticized to suit liberal
+humanist needs. What we think of as "Humanism" emerges from the
+appropriation of black being and knowing. Human–animal dichotomies
+inscribe, through their hierarchisation, violent orders.
+
+This is essential, necessary work, and makes me think of feminist
+scientists like Haraway (whom she cites) who began by critiquing
+patriarchal approaches to empirical science (like the idea that
+primate society is driven by competitions for dominance, rather than
+collective cooperation). Also makes me think of New Materialist ideas
+like Jane Bennett (whom she cites) who talk about consciousness being
+something not only contained within the human or other beings but also
+with objects. About the assemblage rather than the individual.
+
+The ideas from Butler, which Jackson brings up, are key here. Butler
+reimagines human subjectivity as not individual but collective,
+arising from symbiosis between a variety of bodies and species. In
+“Bloodchild,” Jacson reads “receptivity” rather than passivity. She
+also claims that Butler doesn’t idealize symbiosis, but instead looks
+at how conditions of unequal power can make it problematic.
+
+**** DONE Musser, Amber. /Sensual Excess/
+     CLOSED: [2022-11-02 Wed 13:52]
+Sexuality/desire cannot be severed from domination. The pornotrope
+(from Hotense Spillers): severing the body from social network,
+gender, etc. Makes the body just flesh. And also mysterious, and
+desirable.
+
+Excess is in the surface, a way of confounding subjectivity and
+subject coherence.
+
+Violence produces flesh. Violence produces an excess (like hunger in
+Holiday) which it cannot incorporate. 
+
+"In Origin of the Universe 1 Thomas places rhinestones where we might
+expect to see shadows. They appear in the creases of sheets, to mark the
+contours of flesh, to demarcate nipples, pubic hair, and labial folds. They
+disrupt the flat planes of color with their raised and sparkling presence.
+Instead of peeking inward, we are distracted by surface and ornamentation.
+Rhinestones offer Thomas a palette beyond oils; they provide a way
+to expand the surface of her paintings and to gesture toward epistemologies
+not captured by realism" (49).
+
+
+"surface as a formal strategy of producing opacity. This activation of
+a surface aesthetic serves as a rejection of the mandate of
+transparency, while also enabling alternate modes of apprehending
+pleasure and selfhood. There are several layers to thinking Thomas’s
+relation to surface. First, there is the question of size. Origin of
+the Universe 1 is a large painting (sixty by forty-eight inches),
+which invites the contemplation of surface as a spectacle. In this
+way, I understand spectacle to be operating in opposition to the
+pornographic or scientific gaze in that through its excess, it
+disrupts the possibility of contained knowledge.  Additionally, the
+nature of spectacle invites us into the specific realm of black
+hypervisuality through Thomas’s use of the rhinestone and the
+reflective dimensions of their shine. Instead of vagina as void, the
+rhinestones emphasize the ways that this vulva’s materiality lies at
+the center of two epistemologies of intimacy—friction and narcissism"
+(48).
+
+"Thinking the rhinestone as a trace or residue of Thomas’s wetness and
+excitement allows us to hold violence, excess, and possibility in the
+same frame. Even as the source is ambiguous, the idea that rhinestones
+might offer a record of pleasure—-pleasure that is firmly constituted
+in and of the flesh—-shows us a form of self-possession.  This self is
+not outside of objectification, but its embellishment and insistence
+on the trace of excitement speaks to the centrality of pleasure in
+theorizations of self-love." (63).
+
+**** TODO Brown, Jayna. Black Utopias: Speculative Life and the Music
+of Other Worlds. Duke University Press, 2021. JSTOR, https://doi.org/10.2307/j.ctv1dgmm37. Accessed 8 Jul. 2022.
+
+
+The freedom in this reduction recalls snorton’s transcapable.
+
+She creates a model for understanding the role of the flesh in
+reconceiving the subject, which allows us to rethink agency and
+consent. 
+
+quotes:
+
+**** Jennifer L. Morgan. /Reckoning with Slavery/. 
+
+From [[https://criticalinquiry.uchicago.edu/li_qipehreviews_reckoning_with_slavery/][review]]:
+
+ "Over the course of six chapters, Reckoning with Slavery models a way
+ of accounting for and filling in this archival silence, namely by
+ reading references to gender and kinship “as a type of irruption”
+ (p. 49). Attending to the canonical writings of the fifteenth-century
+ Portuguese chronicler Gomes Eannes de Zurara, for instance, Morgan
+ demonstrates how Zurara’s description of the grief of the enslaved
+ reveals the damage that market forces wreak on networks of
+ kinship. Similarly, in her analysis of a diagrammatic cross section
+ of the crowded hold of a slave ship, she notes movingly that the
+ easily missed image of an enslaved woman giving birth on board
+ signals the horrors of children being viewed as commodities. Such a
+ mode of reading reframes early colonial texts about slavery as
+ implicit critiques of it and, in doing so, offers a way of
+ interpreting narratives as counternarratives and a glimpse at the
+ radical forms historical reconstruction can take. No longer is
+ historical reconstruction merely about writing a more expansive
+ history including the previously excluded voices of women and
+ girls—itself a formidable task. It is also about rethinking the
+ foundations of this history in terms of their movements and roles.
+
+ What Reckoning with Slavery brings to literary-historical studies,
+ then, is an archival practice that is at once historicist and
+ reparative. On one hand, it is invested in interpreting a spotty
+ historical record ethically, and this is shown in the book by Morgan
+ as she brings together different archives to map a more accurate and
+ comprehensive global history. That it leans so productively on
+ Portuguese texts to chart a partial history of the slave trade in the
+ English Americas is but one example. On the other hand, however, the
+ book is also not bound by what is present in historical archives, and
+ this is where it shines. Many of the stories of enslaved women might
+ never be recovered, but Reckoning with Slavery shows how their
+ stories might still be told by reading their silences creatively. The
+ absence of women from the history of slave revolts, for instance,
+ might not necessarily mean that they failed to participate in these
+ uprisings or that they only participated in tiny, quotidian ways. It
+ might also mean that their deeds were erased because women were so
+ foundational to these uprisings that they inspired unease. Such a
+ creative methodology paves the way for new, provocative historical
+ narratives to be written."
+
+**** Dereck Scott, Extravagant Abjection: “Slavery, Rape, and the
+ Black Male Abject”
+
+Analyzing abjection - “Even in the abject there is something with
+which to work” (146).
+
+“Or is it possible that there is a self-seeking in the act (especially
+as the violating act becomes systematized, routinized), a subject
+questing after its own forms of relief and, in so doing, questing
+after the terms by which to know and to experience itself?” (162).
+
+Toni Morrison reworks tropes of male emasculation into male rape,
+while doing so both figures it as a possibility and surrounding it
+with silence: “to figure both the possibility of sexual exploitation
+of men and the silence surrounding this possibility” (132). It eludes
+our access for a few reasons.
+
+Representational strategy -- to shape a silence while breaking it… the
+emptiness left by a boom or a cry”
+
+Reminds me of William James’s idea about thought being continuous, a
+“stream”, illustrated by the word: “Thunder-breaking-upon-silence-and-contrasting-with-it…. the feeling
+of the thunder is also a feeling of the silence as just gone” (234).
+
+ Language can work with and against this idea. It works against this
+ idea by using discrete names for things, when everything is actually
+ part of an ecosystem of interconnection, a continuous sensorium. But
+ we can see this in syntactic structures, particularly in
+ conjunctions, prepositions, and inflections of voice. James talks
+ about how the stream of thought is continually moving from idea to
+ idea, and there are moments of “flight” between the ideas, the
+ “resting places.” In the moments of flight we can grasp the movement,
+ but not completely: “Our experiences actually match the shadings and
+ nuances of language, so we ‘ought to say a feeling of and, and a
+ feeling of if, a feeling of but, and a feeling of by, quite as
+ readily as we say a feeling of blue or a feeling of cold’ (The
+ Principles of Psychology 378).”  “Rapid premonitory perspective views
+ of schemes of thought not yet articulate” (245).  I’m thinking of
+ language as a representational strategy, as a way to represent what
+ is unrepresentable, à la Hartman. To tell an impossible story.
+
+We don’t normally easily imagine the male submission, even though it’s
+a repressed trauma--- “testeria”: the complicated relationship of
+control and desire.
+
+**** DONE Horton Stallings. 
+     CLOSED: [2022-11-02 Wed 13:53]
+*** media studies and archaeology
+**** Chun, Wendy Hui Kyong. Programmed visions: Software and
+memory. Mit Press, 2011.
+**** DONE Barad, Karen. /On Touching – The Inhuman That Therefore I Am
+     CLOSED: [2022-11-11 Fri 11:24]
+(v1.1)/. differences 1 December 2012; 23 (3): 206–223. doi:
+https://doi.org/10.1215/10407391-1892943
+
+Joins feminist science studies with feminist and postcolonial theories
+to explore how touch as a physical theoretical concept opens up an
+queer ethical dimension. Touch is not direct contact, but it is
+imbrication, involvement, with everything and especially with the
+stranger. 
+
+Purpose in part to "trouble the notion of touch as an innocent form of
+engagement... toubling its positioning in the history of philosophy as
+a mutually consenting act between individuals, free of culture,
+history, and politics" (Barad, footnote 2, p. 153). 
+
+To reframe physics as a study of touch /torques/ traditional
+physics. Measurement as a form of touching, for example.
+
+#+BEGIN_QUOTE 
+In an important sense, touch is the primary concern of physics. Its
+entire history can be understood as a struggle to articulate what
+touch entails. How do particles sense one another? Through direct
+contact, an ether, action-at-a-distance forces, fields, the exchange
+of virtual particles? What does the exchange of energy entail? How is
+a change in motion effected? What is pressure? What is temperature?
+How does the eye see? How do lenses work? What are the different kinds
+of forces that particles experience? How many kinds are there? What is
+the nature of measurement?8 Once you start looking at it this way, you
+get a dizzying feeling as things shift. This particular take on
+physics, and its history, entails a torquing, a perturbation from the
+usual storylines. 155
+#+END_QUOTE
+
+From a physics point of view, touch is "electromagnetic interaction"
+(155). Does not involve actual touching, contact between two things,
+but the repulsion, "electromagnetic repulsion," the force of repulsion
+between electrons at the perimeters of atoms, which are negatively
+charged, "cannot bear direct contact" (156). 
+ 
+This "quantum theory of touching...." that "repulsion is at the core
+of attraction... is radically queer" (156). 
+- Quantum physics is queer in that electrons touch themselves when
+  they're not supposed to. They release and reabsorb photons
+  arbitrarily. They do not act in ways we expect them to.
+- there are "an infinite set of possibilities involving every possible
+  kind of interaction with every possible kind of virtual particle it
+  can interact with" (158).
+- "Hence, self-touching is an encounter with the infinite alterity of
+  the self. Matter is an enfolding, an involution, it cannot help
+  touching itself, and in this self-touching it comes in contact with
+  the infinite alterity that it is." (158).
+- "all of matter, matter in its “essence” (of course, that is
+  precisely what is being troubled here), is a massive overlaying of
+  perversities: an infinity of infinities" (159).
+
+Physicists often work as if these infinities cancel each other
+out. What Barad calls a process of "renormalization": 
+#+BEGIN_QUOTE
+Renormalisation is the mathematical handling/taming of these
+infinities. That is, the infinities are “subtracted” from one another,
+yielding a finite answer.18 Mathematically speaking, this is a tour de
+force. Conceptually, it is a queer theorist’s delight. It shows that
+all of matter, matter in its “essence” (of course, that is precisely
+what is being troubled here), is a massive overlaying of perversities:
+an infinity of infinities. 159
+#+END_QUOTE
+
+Touch is touching the strange, the inhuman. It is a connection with
+everything:
+-  "All touching entails an infinite alterity, so that touching the
+  other is touching all others, including the “self,” and touching the
+  “self” entails touching the strangers within" (160).
+
+#+BEGIN_QUOTE 
+what would it mean to acknowledge that responsibility extends to the
+insensible as well as the sensible, and that we are always already
+opened up to the other from the “inside” as well as the “outside”? How
+might we come in contact with or least touch upon an ethics that is
+alive to the virtual? This would seem to require, at the very least,
+being in touch with the infinite in/determinacy at the heart of
+matter, the abundance of nothingness, the infinitude of the void and
+its in/determinate murmurings, the muted cries, and silence that
+speaks of the possibilities of justice-to-come.
+#+END_QUOTE
+
+The "inhuman... may be the very condition of possibility of feeling
+the suffering of the other, of literally being in touch with the
+other, of feeling the exchange of e-motion in the binding obligations
+of entanglements" (164). 
+
+**** DONE Blanchette, J.-F. (2011), A material history of
+     CLOSED: [2022-11-14 Mon 09:29]
+bits. J. Am. Soc. Inf. Sci., 62:
+1042-1057. https://doi.org/10.1002/asi.21542
+
+Like Kirschenbaum, works to demystify the "trope of immateriality"
+that governs theorizing around digital media (1044). 
+
+Bits are both logical and material and create real constraints on
+computing systems. There is a trade-off between two opposing forces:
+abstraction (modularity and layering) and computing efficiency. We
+create higher order structures (like programming languages) so that we
+can work better with them, but this higher order requires more
+computational power. Like python, which needs a compiler to run, as
+opppsed to C++ or Assembly.
+- "in abstracting from the noise that different materials bring to the
+  digital abstraction, from specific implementations of physical
+  resources, from their distribution in space, and from their sharing
+  among multiple users, such decoupling necessarily involve efficiency
+  trade-offs."  (1054).
+- "This is the classical dilemma of high-level programming languages:
+  the more a language’s constructs abstract away from the underlying
+  physical machine, the less efficient the resulting code tends to be"
+  (1046).
+
+cites Hayles on her study of how information lost its body. 
+
+cites Kirschenbaum (and figures in the field of descriptive
+bibliography) as one of the first to delve into the material history
+of computation: "The task then is to map how the particular material
+condition of electronic media makes possible or impossible new
+potentialities for reading" (1044).
+- Kirschenbaum has two things to say about "formal
+  materiality". First, the point on "how computers’ ability to
+  continually perform error-correction enables them to present digital
+  information as 'noiseless,'" the second "points to file formats and
+  the structuration they impose on digital data as powerful
+  constraints on mutability of bits—-for example, in the case of JPEG
+  images, different levels of compression result in images
+  perceptually indistinguishable, but from which some information has
+  been irretrievably lost" (1045).
+
+
+**** TODO Drucker, Johanna. "Performative Materiality and Theoretical
+Approaches to Interface." /DHQ: Digital Humanities Quarterly/. 2013,
+Vol. 7 Issue 1.
+
+**** TODO "Black Code" issue of /The Black Scholar/
+https://www.theblackscholar.org/now-available-black-code/
+**** TODO Montfort, Nick, and Ian Bogost. Racing the beam: The Atari
+video computer system. Mit Press, 2020.
+
+**** DONE Kirschenbaum, Matt /Mechansims/, 2008
+     CLOSED: [2022-11-14 Mon 09:29]
+**** Whitney Trettien. /Cut/Copy/Paste/ https://www.upress.umn.edu/book-division/books/cut-copy-paste. 
+**** Lori Emerson. /Reading Writing Interfaces/
+**** TODO Jussi Parikka. /What Is Media Archaeology?/
+**** Kara Keeling. /Queer Times, Black Futures/ NYU Press,
+https://nyupress.org/9780814748336/queer-times-black-futures.
+**** TODO Maher, /The Future was Here/
+**** TODO Hayles, Katherine. *How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics*, 2000.
+- When did information lose its body, and how is this tied to the
+  liberalization of the human subject?
+- Hayles is concerned that scientific discourses about technology
+  overlook the role of the body and embodiment in thinking. She wants
+  to bring back feeling. Thought needs a body.
+    - The Turing test, for example, indicates one place where humans
+      conceive of informaiton (or intelligence) as separate from
+      embodiment. The inclusion of gender in the test suggests that
+      the question is about represented, rather than enacted,
+      intelligence. The assumptions behind this test suggest that we
+      are already posthuman.
+    - The concept of the Posthuman extends assumptions from liberal
+      humanism: rationality is prioritized, the head controls the
+      body. A rational mind that possesses a body becomes intelligence
+      (information) that inhabits a body or container.
+- She examines the waves of cybernetic development, in particular the
+  Macy conferences where scientists and philosophers discussed
+  development of information and communication theory. Throughout
+  these waves of cybernetic development, from homeostasis (the body is
+  a regulating system), to reflexivity (the observer is part of the
+  system), and virtuality (information makes information, emergence),
+  Hayles finds that the body becomes more and more displaced.
+- Hayles's idea of flickering signifiers show how inscription and
+  materiality are further elided. What happens to words when we see
+  them as constantly refreshed and moveable on a screen? They attain
+  a fluidity and volatility that goes beyond the floating signifier,
+  beyond semiotics. This flickering wouldn't be possible if they were
+  in hard copy.
+
+**** TODO Hayles, N. Katherine. *Writing Machines*, 2002. PDF.
+- Remediation --- the idea that media is re-conceived or re-written
+  for electronic formats. The “recycling” of different media formats
+  through electronic media (Bolter and Grusin).
+- Technotexts are literary works that self-reflexively engage with
+  their own inscription practices. They explore how many levels of
+  text entwine with bodies, a distributed cognitive environment in
+  which reading takes place.
+- How mediation affects subjectivity, how the interaction between
+  physical and verbal forms construct meaning and therefore, the
+  user/reader.
+- In *House of Leaves*, the remediated narrator evacuates
+  consciousness as the source of production and replaces it with
+  mediated subjectivities. “Consciousness is no longer the relevant
+  frame but rather consciousness fused with technologies of
+  inscription” (116-117).
+
+**** TODO Hayles, Katherine N. *Cognitive Unconscious*, 2017. 
+- Hayles proposes a "planetary cognitive ecology" extends the focus of
+  ethical inquiry from humans to machines that operate with humans
+  within larger "cognitive assemblages." Distinguishes cognition by
+  interpretation or choice, rather than free will. This allows her to
+  include machines in discussions about ethics.
+- Cognition involves more than what we consciously recognize, and more
+  than the unconscious. It is "unthought", or thinking without
+  thinking, being in the eternal present and eluding the belated grasp
+  of consciousness.
+    - There are three layers to consciousness: higher consciousness
+      (abstraction), nonconscious cognition (interpretation and
+      choice), material processes (storms). Nonconscious cognition is
+      inaccessible to our awareness, like neuronal processing,
+      synthesizing sensory inputs so they appear consistent across
+      time and space, finding patterns in chaos, keeping our
+      consciousness from being overwhelmed.  --> there are N
+      Dimensions for reading a page.
+- Our cognition also operates with other technical systems to form
+  "cognitive assemblages"---human technical interactions that operate
+  collectively, in automated technical systems, for example. Often
+  consist of low level processors or sensors which are connected to
+  higher level processors that draw inferences or take actions /
+  decisions. Like the traffic control in LA.
+*** TODO Butler's /Dawn/ reading notes
+**** Dunkley, Kitty. “Becoming Posthuman: The Sexualized, Racialized,
+     andNaturalized Others of Octavia E. Butler’s Lilith’s Brood," The
+     Bloomsbury Handbook to Octavia Butler. pp. 95-115.
+
+Butler's posthumanism incorporates difference to imagine "diverse
+embodiments" (Dunkley 96).
+
+***** intevention on Posthumanism:
+
+/Dawn/'s posthumanism revises the anthropocentric and patriarchal
+hegemony of humanism. The key difference for this kind of posthumanism
+is a craving to integrate and accumulate difference, rather than
+define themselves against it.
+
+  "Lilith’s Brood prompts us to question how our relationships and sense
+  of kinship with the racialized, sexualized, and naturalized Other
+  might look, if, like the Oankali, we chose to 'embrace difference'
+  (Adulthood Rites 329); might we, as a result, now recognize the Other
+  within us?" (Dunkley 113-114).
+
+  "Humanism functions on the apotheosis of the anthropos and a belief in
+  its inherent worth, autonomy, rationality, and capabilities—-qualities
+  intended to affirm our status at the pinnacle of the Cartesian
+  hierarchy, above animals, machines, and the Other" (Dunkley 97).
+
+***** on Fear: 
+
+  "Oankali are ostensibly constructed so as to invert our Humanistic
+  egocentrism—-not only is difference not considered the source of fear
+  for the Oankali, but they are physiologically engineered to hunger for
+  it" (Dunkley 96).
+
+  "In fact, the ontological danger that the ooloi pose to the system of
+  Humanism is most acutely felt by the men, for whom the ooloi come to
+  represent rival figures... threaten to usurp the men’s position at the
+  pinnacle of a gendered hierarchy, usurpation that is especially
+  calamitous given the ooloi’s role as sexual penetrator—-an
+  ideologically loaded function, connoting uniquely masculine traits of
+  power, virility, and strength" (Dunkley 100).
+
+**** Barnes, Steven. "What Octavia E. Butler Feared Most about Human
+     Nature," The Bloomsbury Handbook to Octavia Butler. pp. 11-13.
+
+Butler's interest in human behavior as extension of animal behavior. 
+
+***** biological tendency toward hierarchy
+"she tended to ground her opinions of humanity in her biological
+research" (Barnes 11). 
+
+Butler said often that humans have an "emergent" property which
+creates tribalism: hierarchy and superiority (Barnes 11).
+**** Nanda, Aparajita. “POWER, POLITICS, AND DOMESTIC DESIRE IN
+     OCTAVIA BUTLER’S ‘LILITH’S BROOD.’” Callaloo, vol. 36, no. 3,
+     2013, pp. 773–88. JSTOR, http://www.jstor.org/stable/24264846.
+
+Butler deconstructs traditional binaries between oppressor/oppressed: 
+"embraces insidious forms of force, compulsion" in desire (Nanda,
+"Power" 773). 
+
+***** colonization with a difference / critiquing colonization
+What makes the Oankali interesting as colonizers is that they of the
+traits of colonizers without easily being branded as oppressive or
+British colonizers. What Butler achieves, then, is a situation in
+which the colonial narrative as such is critiqued as an
+administratively coercive, inegalitarian of "domestic trysts" (as
+opposed to "domestic bliss") even when its motives are genuine (Nanda,
+"Power" 774). )
+
+***** Lilith's choice
+"She gives into the seduction; she is the one who chooses to do so"
+(Nanda, "Power 780). 
+
+**** Nanda, Aparajita. "Teaching the 'Other' of Colonialism: The Mimic
+(Wo)Men of /Xenogenesis/." The Bloomsbury Handbook to Octavia
+Butler. pp. 117-131. 
+
+Reading Butler in the classroom through the lens of post-colonial
+studies. Said's other, Bhaba's hybrid. 
+
+***** conflict between self/other
+the /Xenogenesis/ trilogy is "a narrative replete with nuanced
+deconstructions of power structures" (118).
+
+"the triad of compulsion, attraction, and repulsion lock the Self and
+the Other in fascinatingly interlinked forms of desire" (118).
+
+**** Mann, Justin Louis. "Pessimistic futurism: Survival and
+reproduction in Octavia Butler’s Dawn" /Feminst Theory/ Volume 19,
+Issue 1. 
+
+Butler's "pessimistic futurism" combines hope for an equitable future
+with skepticism about a violent and unjust past: "couches the
+prospects of tomorow in the uncertainties conditioned by the past"
+(Mann 61). 
+
+***** pessimistic futurism straddles tension in black studies
+Draws on Saidiya Hartmann's critique of Black Studies: the tethering
+of blackness to death and slavery and the "paradoxical terms of
+imagining black subjectivity" (Mann 64), creating a tension that
+resolves as two opposing theories: afro-pessimism (refuses ontological
+possibility of blackness) and afrofuturism (radical world-making).
+
+"pessimistic futurism" mobilizes the historic markers of blackness to
+unsettle and destabilize the arrangements of power in the present and
+to try to think beyond those arrangements in the future" (Mann 66). 
+
+The "noose is resignifed... [s]ex with the Oankali is consequently
+presented as strange and dangerous, yet, like the noose, also oddly
+comfortable and immensely pleasurable" (Mann 67). 
+
+**** Belk, Nolan. “The Certainty of the Flesh: Octavia Butler’s
+Use of the Erotic in the Xenogenesis Trilogy.” Utopian Studies,
+vol. 19, no. 3, 2008, pp. 369–89. JSTOR,
+http://www.jstor.org/stable/20719917.
+
+Butler utilizes Lorde's "power of the erotic," the flesh or "body
+intelligence", to combat logic of hierarchy, "mind-based intelligence"
+(Belk 380).
+
+***** erotic flesh overcoming rational mind
+"For Butler, the locus of hope is in the power of the erotic, "the
+trust in the body s deep desires for propagation, love, and
+connection" (Belk 373). The erotic is the feeling of rightness, of
+desire, which "has been too long relegated to the realm of sexuality"
+(Belk 376). 
+
+"it is the truth of the flesh rather than the mind that matters in
+decision making" (Belk 374).
+
+**** Ramirez, Catherine S. "Cyborg Feminism: The Science Fiction of
+Octavia E. Butler and Gloria Anzaldua", Flanagan, Mary, and Booth,
+Austin, eds. Reload: Rethinking Women + Cyberculture. Cambridge,
+Mass.: MIT Press, 2002. p. 374-402.
+
+Butler and Anzaldua articulate the tension between essence and
+position (constructedness), central to women of color feminism, by
+using essence strategically. 
+
+***** cyborg feminism
+Draws from Haraway's cyborg: "'cyborg identity' reconceives identity
+(a static and fixed essense) as /position/ (within a particular
+history, narrative, ideology, and/or social system" (Ramirez 384).
+
+Identification through shared difference: 
+- Draws from Chela Sandoval's "US Third World Feminism", the idea of
+  "differential consciousness" -- "a /tactical subjectivity/ with the
+  capacity to recenter depending upon the kinds of oppression to be
+  confronted" (rpt. Sandoval 1991,14, italics in original; Ramirez
+  384).
+- For example, "the term "woman of color" forges links between women
+  from distant and disparate locations (both geographic and
+  socioeconomic) by positioning them—and recognizing that they have
+  been positioned—within particular histories of exclusion, oppression
+  and resistance" (Ramirez 384). 
+
+The body: "the body is simultaneously material and discursive. Our
+conceptions and experiences of it as material are always socially
+mediated" (Ramirez 387). 
+
+***** strategic essense
+Essence is something that is used strategically in order to claim
+validity and rights; rather than to denigrate. 
+
+"Butler and Anzaldua deploy essence by emphasizing a particular social
+or subject position (e.g., Butler always identifies the race,
+ethnicity, and gender of her characters and Anzaldua stresses
+"homosexuality" in delineating a global, queer community)."
+
+"The tension between affinity and essence, and between plurality and
+specificity in the work of Anzaldua and Butler, highlights a
+contradiction of woman-of-color subjectivity and feminism: The
+histories of racism, imperialism, patriarchy, and homophobia have
+rendered women of color abject, yet, via history, women of color must
+claim some sort of position in order transform themselves into
+(speaking) subjects (without replicat ing the regime [s] that silenced
+them)" (Ramirez 395-396)
+
+**** Hampton, Gregory Jerome. "Octavia E. Butler's Discourse on Colonialism
+and Identity in 'Bloodchild,' /Dawn/, and /Survivor/" The Bloomsbury
+Handbook to Octavia Butler. pp. 133-148.
+
+Colonization based on biological imperative has the effect of blurring
+the difference between colonizer and colonized.
+
+**** Jesser, Nancy. "Blood, Genes and Gender in Octavia Butler's
+Kindred and Dawn." Extrapolation (Pre-2012), vol. 43, no. 1, 2002,
+pp. 36-61. 
+
+Butler exhibits a "biological essentialism" when it comes to sex and
+sex traits which enhaces her feminist politics. 
+
+***** biolgoical essensialist sex
+Asks how Butler can be a femininist if she's drawing from
+essentialized notions of sex?: "what kind of feminism does a
+biologically informed notion make possible?" (Jesser 37).
+- "Genetics is the science of Butler's fiction. The translation of
+  genotype to phenotype is the plot" (Jesser 52).
+
+She de-constructs race, shows it as a construct, while reinforcing
+the genetic facts that underpin behaviorial tendencies and
+predispositions, like hierarchy, aggression (male) and relational,
+nurturing (female).  
+- #+BEGIN_QUOTE
+  "Difference matters in Butler, but racial difference matters
+  differently than sexual difference, which makes possible future
+  generations... it is fair to say that Butler is 'constructivist,' when
+  relating to racial identities; however, when relating to sex/gender
+  her female characters are often, biologically coded as female--that
+  is, devoted to self-sacrifice in the name of nurturing at one's own
+  expense and the urging of maternal instincts" (Jesser 38).
+  #+END_QUOTE 
+- The women and men reinforce sexual differences. (Jesser 42-43),
+  males being more hierarchical (Jesser 44).
+- "the plot relentlessly reinforces certain sociobiological notions of
+  essential and 'natural' male and female through the concept of
+  biological 'tendency'" (Jesser 41-42).
+
+This emphasis on biology is feminist, proposing female biological
+traits as those which will enable humanity to expand beyond its
+destructive tendencies, exemplified by the male aggression, dominance
+and possessiveness.  
+- Example with rape being "both natural and avoidable... human nature
+  proves flexible, but only with serious forms of social and
+  biological intervention" (Jesser 43).
+- "The way out is through a narrative of biological extra-individual
+  drives; the ability/need to see beyond individual survival to
+  survival of one's kin" (Jesser 40)
+- "a vision of bodies that are often bad for us. At least as far as
+  sex and sexuality go. Butler's bodies have a will of their own, and
+  it is to be found most often lodged in genetic "tendencies" if not
+  fixities" (Jesser 45). 
+- Women's "connections to their bodies are more than a form of
+  bondage... In place of the enslaved female body, Butler imagines a
+  powerful, emancipating intersubjective body in which the social
+  bosom and the maternal bosom are newly coherent" (Jesser 56). 
+
+**** Ackerman, Erin M. P. "Becoming and Belonging: The
+  Productivity of Pleasures and Desires in Octavia Butler's
+  Xenogenesis Trilogy." Extrapolation (Pre-2012), vol. 49, no. 1,
+  2008, pp. 24-43,3.
+
+"this paper traces how Butler explores a specifically erotic pleasure
+that is integral for such a shift in subjectivity to begin, in the
+process arguing that Butler's work explores not just a new communal
+ethics, but new individual pleasures as well" (Ackerman 25). 
+
+"While Lilith may love and desire her Oankali mates, she also is
+painfully aware of how that desire and love causes losses as well as
+gains. Desire is inextricably linked with and implicated in power,
+both for those desiring and those desired" (Ackerman 40). 
+
+"The Oankali in the narrative, with their ability to perceive and
+manipulate genes, certainly view human genetics as fundamentally and
+essentially flawed" (Ackerman 32). 
+
+
+"What the trilogy does not present as so surmountable, however, is a
+heteronormative standard" (Ackerman 39).
+
+"heterosexuality does read as the standard, or even, only erotic
+option available" (Ackerman 40).
+
+"Nancy Jesser's point that "the sexual biology in Butler's story is
+remarkably fixed" is an important one (3 7); even if the standard
+number is now three rather than two, the narrative never presents an
+erotic scene with an ooloi and two individuals of the same sex/gender"
+(Ackerman 40). 
+
+**** Patricia Meltzer, /Alien Constructions: Science Fiction and
+Feminist Thought/. Austin: U of Texas P, 2006. 
+
+pages 236, 238-241.
+
+Genderqueer reading of gender in Xenogenesis, based off the construct
+ooloi in the third book which shift bodies according to desires of
+their partner. Draws from Butler's concept of gender as performance,
+an act, which reenacts heteronormative assumptions. Butler creates a
+"queer essence" of identity based on desire (Meltzer 238). 
+
+There are distruptions to normativity, like in liberal feminism where
+the binary is destabilized, upended, where gender roles are
+reimagined. And then there are alternate visions for sex/gender/desire
+altogether. Queerness is resisting the normative correlation of
+sex/gender/desire, with an emphasis on identity, according to
+Butler. Butler says that there is not inner "self" of gender or any
+identity, that it is produced discursively. It is produced through
+performativity, which is melancholic in that a subject desires a
+gender which it can never inhabit. This failure is what opens up the
+possibility of imagining otherwise. That identification and desire can
+coexist, that desire can precede identification, is queer, according
+to Butler in "Imitation and Gender Insubordination", which is mirrored
+in the construct ooloi (Meltzer 237).
+
+"genderqueer" is not about neutrality or blending. It is about
+"placing masculine and feminine into contradictory relationships with
+each other" (Meltzer 227). It "poses a challenge to the gender binary
+without necessarily erasing sexual difference as the source of erotic
+pleasure" (Melzter 227).
+
+In /Imago/, Butler "explores the notion of the body as constructed by
+desire" (Meltzer 228). 
+
+"Butler's concepts here are positioned neither in a biological
+essentialism that insists on gender identity (woman) as derivated of a
+body's sex (female), nor in a social and/or psychological
+constructivism that udnerstands the body's materiality as dominated by
+(social) discourse. Instead, desire and sexuality are based in the
+body's need for others... the body follows desire" (Meltzer 241). 
+
+On sex: 
+- "the exchange is physical but mediated" (Melzter 236). 
+- "The lack of physical genitals as indicators of this sexual practice
+renders Oankali-human sex impossible to classify in terms of sexual
+identities. It is even impossible to separate the 'act' from 'fantasy'
+since partners never actually touch, yet they share intense sexual
+experiences through parallel stimulation of brains" (Melzter 236).
+- "Desire, then, is... rooted in the body's amorphous craving for
+physical pleasure" (Melzter 236).
+
+**** Burnett, Joshua Yu. "Troubling Issues of Consent in /Dawn/,"
+M. Japtok, J. R. Jenkins (eds.), /Human Contradictions in Octavia
+E. Butler’s Work/, https://doi.org/10.1007/978-3-030-46625-1_7
+
+Consent in the novel is hardly discussed; the Oankali compel desire in
+a way that troubles consent. Difference between pheromones released by
+humans (which is involuntary) verus releasing them as a deliberate
+act. (115-116). 
+- "Humans may release pheramones involuntarily; with Oankali, it is a
+  conscious, deliberate act" (Burnett 116).
+- Joseph was raped (Burnett 116). 
+
+Disturbed by the depiction, which he links to slavery:
+- On the episode with Paul Titus, the Oankali "strongly mirror slave
+  owners, pairing off their slaves without consent or consultation,
+  and not giving a second thought to their slaves' right to consent or
+  refuse" (Burnett 113).
+
+Says the point is to see need for consent. 
+- "We might read /Dawn/ as a parable for the need for affirmative
+  consent in sexual encounters, particularly ones which transcend
+  barriers or break taboos" (Burnett 118).
+
+**** Haraway, Donna. /Primate Visions/. 1989. 
+About primatology and where primates sit on the human-animal
+hierarchy. To what extent can we consider primates to have human
+status? On the "techno-bio-politics of difference" (Haraway
+376). Haraway reads /Dawn/ "as if it were a report from the primate
+field in the allotopic space of earth after a nuclear holocaust"
+(376). 
+
+"Gender is kind, syntax, relation, genre; gender is not the
+transubstantiation of biological sexual difference" (Haraway 377). 
+
+"Octavia Butler's speculative/science fiction is preoccupied with
+forced reproduction, unequal power, the ownership of self by another,
+the siblingship of humans with aliens, and the failure of siblingship
+within species" (Haraway 378). 
+
+Use of the word 'monster' to describe the aliens: 
+- "Her fiction, especially in Xenogenesis, is about the monstrous fear
+  and hope that the child will not, after all, be like the
+  parent. There is never just one parent. Monsters share more than the
+  word's root with the verb "to demonstrate"; monsters signify"
+  (Haraway 378).
+
+- "At the end of Dawn, Butler has Lilith—whose name recalls her
+  original unfaithful double, the repudiated wife of Adam—pregnant
+  with the child of five progenitors, who come from two species, at
+  least three genders, two sexes, and an indeterminate number of
+  races. Adam's rib would be poor starting material to mold this new
+  mother of humanity or her offspring" (Haraway 378). 
+
+While Butler disrupts social and sexual assumptions, the boundaries of
+species and sex, she does not disrupt heterosexuality or gender:
+- "Heterosexuality remains unquestioned, if more complexly
+  mediated. The different social subjects, the different genders that
+  could emerge from another embodiment of resistance to compulsory
+  heterosexual reproductive politics, do not inhabit this Dawn. In
+  this critical sense, Dawn fails in its promise to tell another
+  story, about another birth, a xenogenesis. Too much of the sacred
+  image of the same is left intact" (Haraway 380).
+
+** TODO revisions
+*** first half october 2022
+**** overview of alien and flesh sections:
+The "aliens" section examines human vs Oankali social structures to
+read the role of sensuality and feeling in their relationships and
+ethics. The Oankali offer a model of ethics based on feeling, rather
+than choice or consent. They achieve this model by bypassing the
+organ, the flesh, in favor of direct neural connection.
+
+It then turns to the flesh, to examine how it can be redeployed
+through the very reduction to materiality that causes problems.
+
+We begin by taking a deeper look at the human contradiction and
+racialization. 
+- Reconstructing the simile: Chicana theory of fear of similarity
+  enabled by the human contradiction.
+- Drive to put things in a hierarhcy, use intelligence to do so. 
+
+Oankali social structure bases social relations on pleasure; allows
+them to bypass barrier of fear. 
+- The bypassing of flesh bypasses consent, prioritizes pleasure
+- Crucially, it also scrambles traditional distinctions between
+  thought and feeling. Boundaries become permeable.
+
+How can black femininst studies help us to read the flesh, then?
+
+For humans, the flesh is a problem, a barrier to more pleasurable
+forms of social organization. Black feminists help us to see how the
+Flesh can be redeployed. 
+- The emphasis on the surface finds fugitivity, foreclosure.
+
+The aliens give us a social problem, fixed with a physiological
+solution. It involves bypassing the flesh. Once we are in this place,
+our distinctions between sense and thought dissolve. Consent becomes
+mutual feeling. 
+
+The black feminists give us a method of reading resistance into the
+flesh. 
+
+We then move this redeployment from the physiological to the
+technological. 
+
+**** outline aliens
+1. Dawn overview
+2. Human contradiction
+3. Fear of the unknown
+4. Fear of the known
+5. Sensuality in communication
+6. Oankali social collectivism
+7. Pleasure overrides choice
+8. The posthuman critique
+9. Scrambling sense and thought
+
+**** outline flesh
+1. The reduction of flesh
+2. fungibility -> fugitivity
+5. opacity -> foreclosure
+6. surface -> shifting registers
+
+*** FLESH may 2023
+In SEX section, the sex act with the Oankali demonstrates two things: 
+ 
+- first, that flesh is an obstacle for human communication/interaction
+  and society. It is something that humans cannot get past, and
+  creates all sorts of problems for how they relate and organize
+  themselves.
+- second, as Oankali sex demonstrates, the way of overcoming the
+  obstacle of flesh is by experiencing the cognitive/mental as
+  inextricable from the physical. This creates a relation, unity,
+  through feeling.
+
+Now, in FLESH section, we ask how this obstacle, the flesh, to human
+connection can also be a solution? 
+
+Black Feminist Studies: *Foreclosure, Opacity* (denial of access, of
+depth)
+
+  -> Media Archeology: relates to *Displacement* (via flickering
+  signifiers)
+
+  -> /skin/: appears in computer code, culminates in Flash code
+
+Black Feminist Studies: *Fugitivity* (perspective shift /
+escape/change through reduction)
+
+  -> Media Archaeology: relates to *Volatility*
+
+  -> /skin/: appears in haptics
+
+
+** brainstorms 
+*** Media Archaeology 
+
+**** Flesh enables re-formulation (queer form)
+Looking at racialization and the flesh reveals strategies of reading
+of the flesh rooted in its *materiality*. In possibilities contained
+within the reduction to the physical. It leads to a *re-formulation*
+for understanding the interaction between the material and the
+symbolic in media.
+
+**** Media Archaeology overview
+
+Kittler vs Kirschenbaum 
+- Media is undifferentiated, immaterial (Kittler) vs media is durable,
+  particular (Kirschenbaum). Kirschenbaum wants to unflatten the 0s
+  and 1s.
+- Kirschenbaum's registers: Forensic vs Formal levels.
+- Engaging with media always implies displacement. Oral history
+  quote. 
+- Hansen and perceptual extensibility. 
+- There is always a quality of inaccessibility, of remove, what we
+  might call opacity.
+- The torque of switching between. The shifting between different
+  layers, abstractions.
+- The vulnerability - being open to feeling/chaos that dissolves
+  boundaries (unsure how this relates to media). 
+
+*** the flesh
+**** methodology: flipping the reductions
+***** queer form
+Taking what has been reduced as a tool for strategic opacity. 
+
+When it comes to black bodies, the method of reduction has been
+pornotroping, or /reducing the body to flesh/ (see Spillers, Snorton,
+Musser). The reduction to flesh is what enables violence.
+
+When it comes to technology, what is the method of reduction? It a
+method of /abstracting the physical computational processes/,
+displacing the physical operations of the CPU, memory, and hard drives
+to screens (Kirschenbaum). So the flesh, unexpectedly, is /formal/
+(not physical) materiality, what we see on the screen. The
+computational processes have been reduced to these screen effects,
+which we perceive as being disconnected from a body, from the
+hardware. Flesh is a surface.
+
+**** positionality and politics
+How to theorize from black flesh but not instrumentalize it, not
+diminish the real violences and suffering of black people. What are
+ways of theorizing with blackness without perpetuating its
+exploitation?
+
+It's about a method of thinking at the intersection of two
+registers. The story of the black flesh helps us to understand how
+race was constructed for the purpose of oppression and
+hierarchization. This can be applied to technology, to allow us to
+rethink and relearn the way we use technology toward more equitable
+ends. The current discourse of technology tends toward neoliberal
+notions of productivity, monetization, privatization. Knowing the
+discourse and how it works to conceal itself. Knowing how to
+deconstruct and to build. To start over, like in /Dawn/.
+
+What women of color have been thinking and writing about for decades,
+is only just now reaching the attention of mainstream feminism. 
+
+To think of the surface effects of computation as a way of thinking
+about the physical realm. To bring the body back to the
+flesh. Considering the flesh as a formal phenomenon made from a
+physical reality. Being at the intersection of the digital and the
+analog, the intersection of two registers, will open up the kind of
+thinking we can do. This is the kind of thinking we will need to, in
+Anzaldua's words, "see from both sides at once". This is about
+capacious thinking.
+
+**** Black Feminist Thinking and New Materialisms
+Writers in Black Studies have been revising New Materialisms, reorient
+discussions on materiality away from white masculinist perspectives
+and celebrating a lineage of marginalized thinkers
+***** The Pornotrope
+
+The pornotrope suggests a state of chaos which can resist the fixity
+of gender.
+
+***** Pornotrope vs Pornographic: Snorton v. Lorde
+There seems to be a misalignment between the pornographic in Lorde and
+the pornotropic in Snorton/Musser. 
+
+- The pornographic (Lorde) supresses feeling, pursuing only sensation,
+  which opposes the erotic, which is "a measure between the beginnings
+  of our sense of self and the chaos of our strongest feelings" (54).
+
+- Flesh (Snorton) is supposed to be this thing which eludes capture,
+  but at the same time creates possibility. Snorton seems to suggest
+  that we can get at resistance through the reduction to flesh, in the
+  concept of the “transcapable”. That the pornotrope suggests a state
+  of chaos which can resist the fixity of gender.
+
+If the pornographic is just flesh, just pure sensation, we might build
+an erotics from it. The reduction to flesh might represent potential
+for depth of feeling. /Looking at the flesh for it’s erotic potential/
+rather than the pornographic which is imposed upon it.
+
+***** The Flesh and Subjectivity/Desire by Brown, Musser, Snorton
+According to Hortense Spillers, the black body, by the violences in
+the middle passage, has undergone a reduction to flesh.
+
+This reduction to flesh, for Snorton, Musser, (Brown, Jackson?), opens
+a space of possibility.  
+
+For Snorton, Black flesh, as a reduction, can be a place of
+possibility. An opportunity to read the details. 
+
+For Musser, flesh is produced by violence. Violence produces an excess
+(like hunger in Holiday) which it cannot incorporate. Sexuality/desire
+cannot be severed from domination. According to Musser, it seems that
+some kind of violence---the violence of marking the
+subject/object---is necessary in the experience of flesh and
+pleasure. “To think with the flesh and to inhabit the pornotrope is to
+hold violence and possibility in the same frame” (Musser 12).
+
+For Jackson, Blackness is plasticized at the service of violent
+hierarchies of domination, such as "dehumanization" of blackness.
+
+For Morgan and Johnson, looking at the structure of the thing to find
+possibilities for resistance, for freedom and intimacy in the archive.
+
+And additionally, that there is this contradiction (or paradox?)
+within desire, which is between possession and dissolution---desire is
+about a sovereign subject attempting to possess another, this is the
+drive or impulse of desire; but at the same time, at the height of
+desire, its ultimate goal, is about dissolution, about the melting
+away of the subject. What if we reconceptualize desire as the impulse
+to possess or dissolve, but without a subject?
+
+***** Embodied and extended cognition
+Folks from afam studies, like Jackson and Brown, are reconceptualizing
+the human to go beyond the confines of the body, into ecology,
+environment, via affective registers. 
+
+Flesh, for Musser, can represent a state of freedom of connection, at
+the same time that it is a sign of objectification: “Flesh… is free of
+the need for subjectivity. I contend that there is freedom in the
+flesh, in the moments when it is excluded from being marked, as it
+feels, and responds to, touch” (Brown 11).
+
+Connect to Hayles's work (?)
+
+***** Flesh and absence: what is formally not representable 
+
+There are two ideas: 
+- Flesh as a site of possibility (see above) - what the reduction
+  opens up.
+- Flesh as an indicator of what is not representable (Scott).
+
+Scott's /Extravagant Abjection/:
+
+To feel what is not there -- to shape a silence. To find form in
+apparent formlessness (with the help of James). 
+
+Potential connection to media archaeology: the way that the immaterial
+level (what we cannot see or touch) influences the formal level. How
+the immaterial enables a continuous sensorium, an ecosystem of
+interconnection. 
+
+*** formal materiality
+We need an attention to materiality that allows us to trace formal
+materiality up the stack and in surface effects. 
+- Hayles and Kirschenbaum enable us to deconstruct how what we think
+  is immaterial is actually embodied/inscripted. 
+- First, to understand, as Hayles explains, that "information loses
+  its body" and see how this perpetuates liberal humanist reductions
+  of the subject. Hayles frames this within a discussion of the
+  posthuman.
+- Second, to examine K's concept of formal formal materiality, where
+  abstraction engages manipulation and sensuality, the shifting of
+  registers. 
+- K's torque enables us to read sensuality into Hayles's concept of
+  flickering signifiers.
+
+**** Hayles
+Hayles on the feminist perspective of technological materiality,
+bringing the body into technology. 
+ 
+***** how information lost its body (/Posthuman/). 
+- information "losing its body" is tied to liberal humanist
+  ideology which imposes dominance systems for subjugating
+  embodied difference. 
+- throughout cybernetic development, the body becomes more and
+  more displaced. Liberal humanism (natural self) ->  Posthumanism
+  (cyborg/cybernetic). Rational mind possessing a body ->
+  intelligence in informational patterns, inhabiting a body. Free
+  will & agency -> cannot distinguish one will from another.
+
+A dialectic of information as "pattern/randomness" is taking over, or
+working in tandem with, "absence/presence" to dominate cultural views
+about informatics and technology. 
+
+"I believe that our best hope is to intervene constructively in this
+development is to put an interpretive spin on it that opens up the
+possibilities of seeing pattern and presence as complimentary rather
+than antagonistic. Information, like humaninity, cannot exist apart
+from embodiment that brings it into being as a material entity in the
+world; and embodiment is always instantiated, local, and specific"
+("Virtual Bodies and Flickering Signifiers", 1993, 91).
+
+***** flickering signifiers elide materiality 
+The privileging of pattern/randomness over presence/absence in
+contemporary sci fi and scientific conceptions of
+intelligence/information leads to a systematic *devaluation of
+materiality and embodiment* ("Virtual Bodies and Flickering
+Signifiers", 1993, 91). Information becomes a series of codes
+interspersed with randomness/mutations, rather than something that is
+present or absent.
+
+- Posthumanist conceptions extend poststructuralist ideas about
+  signification. 
+    - "Carrying the instabilities implicit in Lacanian floating
+      signifiers one step further, information technologies create
+      what I will call /flickering signifiers/, characterized by their
+      tendency toward unexpected metamorphoses, attenuations, and
+      dispersions" ("Virtual Bodies and Flickering Signifiers", 1993,
+      76).
+
+    - Derrida, announcing the advent of grammatology, focused on the
+      gap that separates speaking from writing; such a change
+      transforms the narrator from speaker to scribe, or more
+      precisely an absence toward which the inscriptions
+      point. Informatics pushes this transformation further. As
+      writing yields to flickering signifiers underwritten by binary
+      digits, the narrator becomes not so much a scribe as a cyborg
+      authorized to access the relevant codes" ("Virtual Bodies and
+      Flickering Signifiers", 1993, 87). 
+
+    - "When a text presents itself as a constantly refreshed image
+      rather than durable inscription, transformations would occur
+      that would be unthinkable if matter or energy, rather than
+      informational patterns, formed the primary basis for the
+      systemic exchanges. This textual fluidity, which humans learn in
+      their bodies as they interact with the system, imply that
+      signifiers flicker rather than float" (30). 
+
+    - "In informatics the signifier can no longer be understood as a
+      single marker, for example an ink mark on a page. Rather it
+      exists as a flexible chain of markers bound together by the
+      arbitrary relations specified by the relevant codes. As I write
+      these words on my computer, I see the lights on the video
+      screen, but for the computer the relevant signifiers are
+      magnetic tracks on disks. Intervening between what I see and
+      what the computer reads are the machine code that correlates
+      alphanumeric symbols with binary digits, the compiler language
+      that correlates these symbols with higher-level instructions
+      determining how the symbols are to be manipulated, the
+      processing program that mediates between these instructions and
+      the commands I give the computer, and so forth. A signifier on
+      one level becomes a signified on the next higher
+      level. Precisely because the relation between signifier and
+      signified at each of these levels is arbitrary, it can be
+      changed with a single global command" ("Virtual Bodies and
+      Flickering Signifiers", 1993, 77).
+
+    - "/Patchwork Girl/ demonstrates that despite such important
+      critical developments as deconstruction and Lacanian theory, we
+      continue to operate from assumptions that are grounded in print
+      technologies and that become problematic in the context of
+      digital media. Why do we talk and write incessantly about the
+      'text,' a term that obscures differences between technologies of
+      production and implicitly promotes the work as an immaterial
+      construct? Why do we continue to talk about the signifier as if
+      it were a flat mark with no internal structure, when the coding
+      chains of the digital computer operate in a completely different
+      fashion? Why do our discussions of reading and writing largely
+      focus on the author and reader, ignoring the cognitively
+      sophisticated actions of intelligent machines that are active
+      participants in the construction of meaning?" ("Flickering
+      connectivities in Shelley Jackson's Patchwork Girl: the
+      Importance of Media-Specific Analysis," 2000, par. 57)
+
+***** reading "technotexts" to resist immaterialization
+- "technotexts" - "literary works that self-reflexively engage with
+  their own inscription technologies and integrate semiotic elements
+  such as kineticism and navigational structures", "mobilizing
+  reflexive loops between its imaginative world and the material
+  apparatus embodying that creation as a fictional presence" (25).
+  How digital levels of texts entwine with bodies, creating
+  "distributed cognitive environment".
+- "the materiality of inscription thoroughly interpenetrates the
+  represented world" (Hayles /Writing/ 131).
+- REMEDIATED NARRATOR: "a literary invention foregrounding a
+  proliferation of inscription technologies that evacuate
+  consciousness as the source of production and recover in its place a
+  mediated subjectivity that cannot be conceived as an independent
+  entity (116-117)
+- MINDBODY: "When the simulated environment takes literary and
+  narrative form, potent possibilities arise for reflexive loops that
+  present the user with an imaginative fictional world while
+  simultaneously engaging her with a range of sensory inputs that
+  structure bodily interactions to reinforce, resist, or otherwise
+  interact with the cognitive creation of the imagined world. The
+  MINDBODY is engaged, not merely mind or body alone" (48).
+- ILLEGIBILITY: in /Lexia to Perplexia/, moves toward a creole devised
+  from the merging of English with programming code.
+    - illegibility "reminds us that the computer is also a writer, and
+      moreover a writer whose operations we cannot wholly grasp in all
+      their semiotic complexity. Illegibility is not simply a lack of
+      meaning, then, but a signifier of distributed cognitive
+      processes that construct reading as an active production of a
+      cybernetic circuit and not merely as an internal activity of the
+      human mind" (51).
+    - "the occluded display signifies a trajectory in which we become
+      part of a cybernetic circuit. Interpolated into the circuit, we
+      metamorphose from individual interiorized subjectivities to
+      actors exercising agency within the extended cognitive systems
+      that include non-human actors." (51)
+
+***** material cognition, interpretation & choice --> decision trees
+- Distinguishes cognition by interpretation or choice, rather than
+  free will. This allows her to include machines in discussions about
+  ethics.
+- Cognition involves more than what we consciously recognize, and more
+  than the unconscious. It is "unthought", or thinking without
+  thinking, being in the eternal present and eluding the belated grasp
+  of consciousness.
+    - There are three layers to consciousness: higher consciousness
+      (abstraction), nonconscious cognition (interpretation and
+      choice), material processes (storms). Nonconscious cognition is
+      inaccessible to our awareness, like neuronal processing,
+      synthesizing sensory inputs so they appear consistent across
+      time and space, finding patterns in chaos, keeping our
+      consciousness from being overwhelmed.  --> there are N
+      Dimensions for reading a page.
+- Hayles proposes a "planetary cognitive ecology" extends the focus of
+  ethical inquiry from humans to machines that operate with humans
+  within larger "cognitive assemblages." Human technical interactions
+  that operate collectively, in automated technical systems, for
+  example. Often consist of low level processors or sensors which are
+  connected to higher level processors that draw inferences or take
+  actions / decisions. Like the traffic control in LA.
+
+- how all systems contain unconscious thought
+    - Could Hayles's thinking about the levels of cognition offer us
+      an insight into thinking about the sexual interface in /Dawn/?
+      There are levels where we are conscious, and there are levels of
+      unconscious. Could these then be mapped to levels of materiality
+      in digital media?
+
+***** turing test (like performativity) presents gender as formal construction
+
+- "the enacted and represented bodies are brought into conjunction
+  through the technology that connects them. If you distinguish
+  correctly which is the man and which the woman, you in effect reunite
+  the enacted and the represented bodies into a single gender
+  identity. The very existence of the text, however, implies that you
+  might also make the wrong choice. Thus the test functions to create
+  the possibility of a disjunction between the enacted and represented
+  bodies, regardless of the choice you make. What the Turing test
+  "proves" is that the overlay between the enacted and represented
+  bodies is no longer a natural inevitability but a contingent
+  production, mediated by a technology that has become so entwined with
+  the production of identity that it can no longer meaningfully be
+  separated from the human subject" (/Posthuman/ xiii).
+- "the test puts you into a cybernetic circuit that splices your will,
+  desire, and perception into a distributed cognitive system in which
+  represented bodies are joined with enacted bodies through mutating
+  and flexible machine interfaces" (/Posthuman/ xiv).
+
+But the imitation game isn't about proving who or what can think. It's
+about proving that intelligence can be performed. Turing doesn't erase
+embodiment, he avoids it. He purposefully made the test to gauge
+performance, representation, because he admits that it's easier than
+establishing criteria for genuine intelligence. The "imitation game"
+is precisely about proving that performance can simulate the real
+thing, perhaps at some level, that performance /is/ the real
+thing. Which is what Butler argues with Gender Performativity, the
+inaugural moment of queer studies. 
+
+
+
+
+** BANK/ UNUSED
+*** resisting violence in the archive: Snorton, Hartman
+For his "black and trans historiographical project," Snorton
+demonstrates flesh as the physical and malleable material that enables
+the construction of social categories like race and gender. Similar to
+scholars of slavery's archive like Saidiya Hartman, Snorton's method
+takes the details of the archival record as "conditions of
+possibility" in his study, and reads for hints of resistance contained
+within the dominant narrative that suggest the ommitted, obscured, or
+elided experience of black subjects (Snorton 11). This methodology
+uses the critical imagination to read into what Hartman and others
+call "the violence of the archive," a violence not only in the form of
+evidence, that the records literally obscure or overlook information,
+but also in the tools of expression, in the language that cannot
+approximate experience, and in the discourse that dictates silence
+(2). Like "Critical fabulation," Snorton's reading of archival
+material draws narrative from the gaps and lacunae of the evidence,
+working to "expose and exploit the incommensurability between the
+experience of the enslaved and the fictions of history" (Hartman
+10). One example concerns a slave woman, Anarcha, whose severe case of
+Vaginal Fistula made her an object of medical experimentation. Because
+the record that hardly mentions her by name (when it does not misname
+her) is silent about her experience of what certainly were painful and
+prolonged surgeries without anesthetics, Snorton turns to seemingly
+minor details like smell and the presence of other enslaved women to
+"further imaginative capacities" for reading resistance
+(14). Anarcha's reportedly offensive smell, what Snorton calls the
+"discourse of disgust," for example, indexes both her subjection to
+social hierarchy and her resistance, for "the recurrent descriptors of
+Anarcha's body odor provides an opening to imagine what modicums of
+protection might have been afforded by smelling noxious to one's
+enslaver" (27). Additionally, the banal reality of servitude implies
+that other slave women such as Lucy and Betsey (among others who were
+unnamed), stood as medical assitants when necessary, which opens
+speculation into "modes of nourishment and care" they provided one
+another (Snorton 29); In one procedure on Betsey, for example, Snorton
+explains that "the opacity in the archive... leaves room to imagine
+how Betsey might have somehow resisted the performance of stoic
+bravery or willing subjectivity that she was compelled to produce"
+(25). 
+
+*** pleasure distributes agency
+Jayna Brown argues that feeling, the receptivity to feeling, can be a
+basis for a kind of subjectivity that moves beyond the individual
+subject: "to surrender to touch, to our sensations, is to loosen the
+bounds of individualism, to mingle with other flesh and with the
+elements" (11). 
+
+Basing subjectivity in the volition of the flesh dismantles one of the
+core tenets of liberal subjectivity, that of agency. The notion of
+choice becomes re-formulated to the sharing mutual feeling, of feeling
+in the flesh. This proposes a model of ethics based on receptivity and
+vulnerability, rather than agency.
+
+Although relationships based on pleasure admit less opportunity for
+exploitation, there are still hierarchical systems without the Oankali
+society. For example, the ooloi, the third-gender beings who have
+sensory arms that can manipulate genes, are in charge of the gene
+trade and act as a matchmakers among the males and females. They
+demonstrate that individuals within collective structures require some
+level of separateness and delegation in order to work cooperatively.
+
+*** bodies are bad for us
+Bodies are not positive
+ "a vision of bodies that are often bad for us. At least as far as
+  sex and sexuality go. Butler's bodies have a will of their own, and
+  it is to be found most often lodged in genetic "tendencies" if not
+  fixities" (Jesser 45). 
+
+*** -> the posthuman
+The elimination of flesh in sex reveals a 
+
+. This assumption perpetuates one 
+
+ A classic example of the posthuman
+imaginary appears William Gibson's /Neuromancer/ novel, which poses a
+a virtual "dataspace," known as a "matrix," where users can move and
+interact without the need of a physical body. According to Hayles,
+"abstract pattern can never fully capture the embodied actuality"
+(22). An "erasure of embodiment" assumes feelings and sensations that
+occur in the body can be experienced in a flesh-less environment
+(Hayles 4-5).
+
+This ethics based on feeling revises traditional humanist and
+poshumanist elisions of the body. As N. Katherine Hayles's work
+demonstrates, such elisions emerge from early conceptualizing of the
+*liberal humanist subject*, in which the rational mind /possesses/ a
+body, into the posthuman, where cognition and feeling are /collapsed/
+into informational patterns. Hayles explains that the dualism of
+mind/body and the attendent erasure of the body from cognitive
+processes enables further suppressions: "Only because the body is not
+identified with the self is it possible to claim for the liberal
+subject its notorious universality, a claim that depends on erasing
+markers of bodily difference, including sex, race, and ethnicity"
+(4-5). The model of sex in Butler's novel revises this esssential
+fiction spun in over the history of cybernetic development, mending
+the rift between body and mind.
+
+
+
+
+**** Dawn Quotes
+
+***** Colonialist intentions, Crossbreeding vs Trade:
+"'It is crossbreeding, then, no matter what you call it.' 'It's what I
+said it was. A trade. The ooloi will make changes in your reproductive
+cells before conception and they’ll control conception.'" (Butler
+87). 
+
+***** Irresitable sex drive
+#+BEGIN_QUOTE
+“Lie here with us,” it said, speaking alone. “Why should you be down
+there by yourself?”
+
+She thought there could be nothing more seductive than an ooloi
+speaking in that particular tone, making that particular
+suggestion. She realized she had stood up without meaning to and taken
+a step toward the bed. She stopped, stared at the two of
+them. Joseph’s breathing now became a gentle snore and he seemed to
+sleep comfortably against Nikanj as she had awakened to find him
+sleeping comfortably against her many times. She did not pretend
+outwardly or to herself that she would resist Nikanj’s invitation—or
+that she wanted to resist it.  Nikanj could give her an intimacy with
+Joseph that was beyond ordinary human experience. And what it gave, it
+also experienced. This was what had captured Paul Titus, she
+thought. This, not sorrow over his losses or fear of a primitive
+Earth.
+#+END_QUOTE
+
+
+
+*** TODO MOVE humans coupling off - social stratifications
+The tendency to self-organize appears early on, when the humans are
+being woken up from suspended animation in order to prepare and train
+for survival. For example, the pressure to couple brings a remnant of
+human society into the strange, alien spaceship which offers some form
+of social stability for the survivors. When one woman hesitates to
+choose a mate, another woman remonstrates: "What the hell is she
+saving herself for?... It's her duty to get together with
+someone. There aren't that many of us left" (335). Throughout the
+novel, the social stratifications intensify as the humans become more
+desperate in their resistance against the Oankali
+colonization. Growing more and more agitated in their captivity,
+certain men like Peter and Curt eventually attack Lilith and her
+followers, who they regard as responsible, with deadly force.

@@ -1,0 +1,192 @@
+* MITH 3/14-16/22
+** Browse Items
+https://archive.mith.umd.edu/vintage-computers/items/index.html
+
+** Hardware
+*** Macintosh IIci
+**** Overview
+1989-1993
+
+**** usage
+Monitor switch on the back, power switch on the keyboard. Monitor
+turns on but computer does not boot up. Turns out it was the power was
+not hooked up. When fixed, it booted.
+
+It runs Cyborg well, which is saved on the desktop. But it does not
+run the other games saved on the desktop: We Descend and Patchwork
+Girl. Nor does it load from their floppies. Patchwork Girl opens and
+closes, and We Descend is not recognized by the OS. The OS not
+recognize the Marble Springs floppy as well. With Patchwork Girl,
+could be in part because the software lisence only allows itself to be
+installed on one computer.
+
+
+*** Amiga 1000
+**** Overview
+1985-1996
+**** usage
+Difficult to use. Had to use two disks (Kickstart and Workbench) to
+get it going. Different programs are on different disks. Cannot figure
+out how to close some windows, but the idea of drawers is
+interesting. 
+
+Used TextCraft Plus for some word processing. Was interesting looking,
+not many features, but had measured margins. The text wrapping went
+off the screen before returning to the next line. Strange.
+
+Need to learn more about how the drawers/screens work and how to use
+multiple programs when you just have one drive. For example, when I
+put in TextCraft, it asked me for Workbench. 
+
+*** Macintosh SE
+**** Overview
+1987-1989
+Excellent video on the SE: https://www.youtube.com/watch?v=X1S2j3TF4bI
+
+**** usage
+Marble Springs v.1 is saved here.
+
+I read some of the text and added my own text to the Kenji file, about
+his wife who was secretly inspired by the lesbians in Marble Springs
+to go off and find her own lover, back in Japan, a princess by the
+name of Mononoke. 
+
+I also created some new Storyspace cards within a file called "moon to
+Deena". 
+
+*** Apple IIc
+**** Overview
+
+1983-1993
+
+There is no hard disk. 
+
+Pressing Control + Reset will launch Basic. ] is the prompt. 
+
+You type your programs into the command line. Programs are saved in
+RAM as "list", and you can save them later to the disk. 
+
+   ]List
+   ]10 let k=99
+   ]15 k = k + 1
+   ]20 print k
+
+Screen is Raster graphics, using a Cathode Ray Tube.  
+
+**** usage
+Monitor is unresposive. Hear computer whirring and clicking, it
+recognizes something is inside the drive, but no response. 
+**** Winston Gayler, The Apple II Circuit Description
+https://ia800803.us.archive.org/20/items/apple-ii-circuit-description/Image081317140426.merged.pdf
+
+**** Jim Sather, Understanding the Apple II
+https://ia903001.us.archive.org/31/items/understanding_the_apple_ii/understanding_the_apple_ii.pdf
+
+**** Apple II Reference Manual
+
+*** TRS-80 Model 100
+**** Overview
+
+*** Kaypro IV
+**** Overview
+**** Usage
+On startup, the texxt on the screen is a bit shakey. 
+
+Enter "dir" to see the commands. Do not think this worked, but it
+returned a list of what appears to be files on the disk ("Wordstar")
+which included my name.
+
+Typed in command "WS" to open wordstar, and "D" to open
+filename. Again, I see my file from so many years ago, and I edit
+it. I also edit the file MITH.
+
+I save and close the file. 
+
+
+
+** Electronic Lit
+"boxes of disks containing work from Larsen and many other
+e-literature authors" 
+
+*** Deena Larsen, Marble Springs
+ELMCIP Knowledge Base:
+https://elmcip.net/creative-work/marble-springs-10
+*** Deena Larsen, Hyperpoems and Hyperpossibilities
+*** Stephanie Strickland, True North
+*** George Landow, Dickens Web
+*** Diane Greco, Cyborg: Engineering the Body Electric
+https://directory.eliterature.org/individual-work/5002
+
+Authored using Storyspace.
+
+
+** Resources
+A toast to the flash generation:
+https://vimeo.com/channels/1666293
+
+Electronic Literature Vol. 2:
+https://scalar.usc.edu/works/rebooting-electronic-literature-volume-2/introduction?path=index
+
+Ted Nelson, Computer Lib / Dream Machines:
+http://worrydream.com/refs/Nelson-ComputerLibDreamMachines1975.pdf
+
+* VCF 4/16-17/22
+** Modern Solutions for the Apple II
+Good websites: 
+https://wwww.reactivemicro.com
+apple2.com
+https://www.bigmessowires.com/
+Facebook groups for Apple II and Macintosh
+
+Ian runs the CRT repair course, and he can fix any CRT. 
+
+
+Floppy Emu - to run software/"floppies" from SSD to apple and
+macintosh. Download disk images to play on the machines. 
+SD Disk II - another floppy emulator
+Ethernet - internet card; which allows you to plug in an ethernet
+cord. 
+
+
+** 6502 Assembly
+On an Apple II
+
+Control + reset (enter the basic prompt)
+Call -151 (enter 6502 Assembly)
+0400 L (list memory at this location)
+
+Write into memory, using hex code:
+0300:A9 C8
+0302:20 ED FD
+0305:A9 C9
+0307:20 ED FD
+030A:60
+
+0300 GO (runs, and should return "hi")
+
+F C6
+I C9
+L CC 
+I C9
+P D0
+A C1
+
+** Introductino to Apple II and Programming
+Apple II came out the same year as the Commodore PET (?) and TRS 80
+Tandy. The Apple ][e 1983-4, one of the most produced computers along
+with the commodore 64, but the Apple is unique in that it's
+extensible. 
+
+Can plug into any monitor with composite input. The yellow
+cable/port. 
+
+Apple IIe is better to learn about hardware, and the IIc is better to
+learn about software. A IIe with just the CPU is about 100 or less. 
+
+Encoding the bits to pixels is no longer linear, like with Atari or
+Commodore. This creates a lot of confusion and struggles with drawing
+graphics on the II. 
+
+Call -151 takes you to the disassembler (the "monitor"?) which allows
+you to look at the 6502 code. 
+

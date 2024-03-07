@@ -1,0 +1,88 @@
+My first chapter explores how gender has been characterized within
+discursive frame, in terms of performativity. In that chapter, I
+examined how coding structures (the for loop, for example) create
+iterative forms which can be reworked toward evoking iterativity in
+gender performativity. Here, I want to take a different approach. I
+want to examine how Hayles' reading of information as represented on
+the computer screen, which she frames as an evacuation of embodiment,
+might actually be reframed as a /distinctly material/ and /sensual/
+process. I want to consider the ways in which the language on the
+computer's screen is only the topmost in a layer of various software
+stacks that contain their own materialities.
+
+
+*** turing test
+
+Hayles inaugurates the story of "how information lost its body" with a
+Alan Turing's famous thought experiment, the "Turing Test." In a 1950
+paper, "Computing Machinery and Intelligence," Turing outlines
+criteria for evaluating whether or not machines can "think" in a way
+comparable to human thinking. The resulting Turing Test, or "imitation
+game," as it's also known, poses a strategically simplified definition
+for computer intelligence. The question is not whether a computer can
+intrinsically display intelligent or conscious thought which, Turing
+points out, is difficult enough to guage in a human. Rather, the
+question is whether a computer can adequately /impersonate/ a human to
+feign intelligence. Turing therefore sets up the test to include one
+human and two interlocutors, a human and a machine. The test consists
+of the first human typing questions to the two interlocuters whose
+answers will enable the human to guess which one is a human and which
+a machine. Because all communication occurs is routed through a
+keyboard and screen, the game relies on how well each interlocutor can
+respond in verbal form to questions posed by the first human.
+
+Hayles points out that this first step toward Artificial Intelligence
+crucially /sidesteps/ the role of the body in thinking. By
+distinguishing /embodied/ experience from verbal representation, the
+test poses a concept of intelligence which is detachable from its
+material instantiation. Hayles drives this point home with the
+comparison to gender that Turing makes prior to his explanation of the
+Turing Test, as a way of introducing the idea and structure of a
+guessing game based on verbal questioning and responses. Here, rather
+than intelligence, the person taking the test must guage which of the
+two interlocutors is male and which is female. By sequestering the
+body into another room, Hayle explains, the test effectively severs
+gender into two components: the embodied component, and the
+represented component. If the person taking the test guesses correctly
+which is the man and which the woman, then gender is reconsolidated
+into a single identity; However, as Hayles points out, "The very
+existence of the text...  implies that you might also make the wrong
+choice" (/Posthuman/ xiii). That gender can be represented
+/discursively/, as a formal or symbolic phenomenon, bifurcates gender
+into embodiment and representation. As Hayles explains, "the overlay
+between the enacted and represented bodies is no longer a natural
+inevitability but a contingent production, mediated by a technology
+that has become so entwined with the production of identity that it
+can no longer meaningfully be separated from the human subject"
+(/Posthuman/ xiii).
+
+In my view, the test's most interesting move isn't that it evacuates
+embodiment, but that it speculates the terms under which embodiment
+can be /performed/. Turing, who spends a significant portion of his
+argument clearing the ground for what he means by "thinking" in the
+context of computation, which is decidedly not thinking as humans
+experience it, explains that it is necessary to elide questions of
+embodiment and consciousness when it comes to assessing
+intelligence. The inclusion of typing purposefully evacuates
+body/feeling from the test, as Turing explains,
+#+BEGIN_QUOTE
+In order that tones of voice may not help the interrogator the answers
+should be written, or better still, typewritten. The ideal arrangement
+is to have a teleprinter communicating between the two
+rooms. Alternatively the question and answers can be repeated by an
+intermediary. The object of the game for the third player (B) is to
+help the interrogator. The best strategy for her is probably to give
+truthful answers. She can add such things as "I am the woman, don't
+listen to him!" to her answers, but it will avail nothing as the man
+can make similar remarks. 434
+#+END_QUOTE
+Turing is careful to construct the components of the test in a way
+that deliberately reflects an anthropocentric frame. The question, for
+Turing, is not whether a machine can "think," but whether a machine
+can act indistinguishably from the way a thinker acts. Avoiding the
+difficult philosophical problem of defining what it means "to think,"
+Turing can instead focus on how a formal system of symbol manipulation
+might generate a performance of intelligence. From this perspective,
+the Turing test deliberately offers up gender and cognition as a
+simulation. Another way of putting it is that cognition and gender
+become features of a certain type of formal performance.

@@ -1,0 +1,1049 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2024-02-25 Sun 18:16 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="author" content="CaladoF" />
+<meta name="generator" content="Org Mode" />
+<style>
+  #content { max-width: 60em; margin: auto; }
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #e6e6e6;
+    border-radius: 3px;
+    background-color: #f2f2f2;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    top: -8px;
+    right: 12px;
+    padding: 3px;
+    color: #555;
+    background-color: #f2f2f299;
+  }
+  pre.src:hover:before { display: inline; margin-top: 14px;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-authinfo::before { content: 'Authinfo'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { }
+</style>
+</head>
+<body>
+<div id="content" class="content">
+<div id="table-of-contents" role="doc-toc">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents" role="doc-toc">
+<ul>
+<li><a href="#org93b5cd4">1. Introduction to AI for Generating Text</a>
+<ul>
+<li><a href="#org9cbbf5a">1.1. Welcome!</a></li>
+<li><a href="#orge41b041">1.2. goals:</a></li>
+<li><a href="#org6ca2b0a">1.3. introduction to LLMs</a>
+<ul>
+<li><a href="#org039acb9">1.3.1. How does ChatGPT work?</a></li>
+<li><a href="#orgb5f33c4">1.3.2. Word Embeddings / Word Vectors</a></li>
+<li><a href="#orgbabc13d">1.3.3. king - man + woman = queen</a></li>
+</ul>
+</li>
+<li><a href="#org552e195">1.4. Huggingface🤗 platform</a>
+<ul>
+<li><a href="#org6c1fe77">1.4.1. "models hub"</a></li>
+<li><a href="#org05725c5">1.4.2. training process</a></li>
+<li><a href="#orgcb6a747">1.4.3. think/pair/share activity</a></li>
+</ul>
+</li>
+<li><a href="#orgcb0dbfe">1.5. inference with python on colab: inference &amp; abstraction:</a>
+<ul>
+<li><a href="#org5ee570a">1.5.1. google colab, REPL, variables:</a></li>
+<li><a href="#orgb2165fa">1.5.2. import the models</a></li>
+<li><a href="#org361a639">1.5.3. run inference</a></li>
+</ul>
+</li>
+<li><a href="#org5a68108">1.6. IF TIME: data structures.</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org93b5cd4" class="outline-2">
+<h2 id="org93b5cd4"><span class="section-number-2">1.</span> Introduction to AI for Generating Text</h2>
+<div class="outline-text-2" id="text-1">
+</div>
+
+<div id="outline-container-org9cbbf5a" class="outline-3">
+<h3 id="org9cbbf5a"><span class="section-number-3">1.1.</span> Welcome!</h3>
+<div class="outline-text-3" id="text-1-1">
+<p>
+
+</p>
+
+<p>
+This workshop is a gentle introduction to using advanced AI tools, for beginners.
+</p>
+
+<p>
+We will work on a popular platform for machine learning, the
+HuggingFace🤗 platform, which offers tools uploaded by a community of
+AI developers. We will explore and play around with these tools, which
+range over various tasks and topics.
+</p>
+
+<p>
+Then, we will shift to running these tools with coding, with the
+Python programming language on Google Colab.
+</p>
+
+<p>
+How many people have some background with Python?
+</p>
+<ul class="org-ul">
+<li>This workshop will be a gentle introduction to people who have never
+coded with Python before.</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orge41b041" class="outline-3">
+<h3 id="orge41b041"><span class="section-number-3">1.2.</span> goals:</h3>
+<div class="outline-text-3" id="text-1-2">
+<ul class="org-ul">
+<li>understanding of language models available to you and how to start
+using them on their own.
+<ul class="org-ul">
+<li>build toward skills for using them in programming, even if you
+don't have a background</li>
+<li>how program code abstracts certain processes</li>
+</ul></li>
+<li>familiarity of underlying technical processes that power the tools,
+like word vectors.</li>
+<li>exposure to ethical issues with training and producing LLMs, the
+ways they perpetuate bias and discrimination.</li>
+<li>all of that within the larger goal of seeing what you can do with
+these AI tools on your own.</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org6ca2b0a" class="outline-3">
+<h3 id="org6ca2b0a"><span class="section-number-3">1.3.</span> introduction to LLMs</h3>
+<div class="outline-text-3" id="text-1-3">
+<p>
+Before starting, let's talk a bit about how they work.
+</p>
+
+<p>
+The goal is to de-mystify how Large Language Models (a kind of AI
+software) work under the hood. 
+</p>
+
+<p>
+Will be helpful when we get to the next section, when we move to the
+HF website.
+</p>
+
+<p>
+And will help understand some of the ethical issues with the way these
+models are trained.
+</p>
+</div>
+
+<div id="outline-container-org039acb9" class="outline-4">
+<h4 id="org039acb9"><span class="section-number-4">1.3.1.</span> How does ChatGPT work?</h4>
+<div class="outline-text-4" id="text-1-3-1">
+<p>
+How does it know what to respond when someone asks it a question?
+</p>
+
+<p>
+More specifically, how does it know what language to generate, what
+words follow other words?
+</p>
+<ul class="org-ul">
+<li>by prediction.</li>
+<li>it learns by reading. Gains an understanding of language from
+processing massive amounts of text, deriving patterns.</li>
+</ul>
+
+<p>
+Still, how does it know what certain words mean? How to use them in a
+sentence?
+</p>
+
+<p>
+How do we turn words into something that a computer can understand?
+</p>
+
+<p>
+It quantifies words. Language into numerical forms, representations. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb5f33c4" class="outline-4">
+<h4 id="orgb5f33c4"><span class="section-number-4">1.3.2.</span> Word Embeddings / Word Vectors</h4>
+<div class="outline-text-4" id="text-1-3-2">
+<p>
+One key development in history of AI, 2013 paper. 
+</p>
+
+<p>
+We use "word embeddings", "word vectors."
+</p>
+<ul class="org-ul">
+<li>technically: representations of language in vector space, graphical
+space.</li>
+<li>Each word is represented by a series of numbers,
+with each of those numbers representing it's relationship to another
+word. How closely they are related.</li>
+<li>show vector for "cat" vs "dog":</li>
+</ul>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">word</th>
+<th scope="col" class="org-right">tiger</th>
+<th scope="col" class="org-right">cute</th>
+<th scope="col" class="org-right">bones</th>
+<th scope="col" class="org-right">wolf</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">cat</td>
+<td class="org-right">.90</td>
+<td class="org-right">.99</td>
+<td class="org-right">.40</td>
+<td class="org-right">.35</td>
+</tr>
+
+<tr>
+<td class="org-left">dog</td>
+<td class="org-right">.35</td>
+<td class="org-right">.99</td>
+<td class="org-right">.85</td>
+<td class="org-right">.90</td>
+</tr>
+</tbody>
+</table>
+
+
+<p>
+Each word is expressed as a series of numbers. Each number a different
+dimension of the vector.
+</p>
+
+<p>
+We can plot "cat" and "dog" according to x and y axes, for example,
+"tiger" and "cute"
+</p>
+<ul class="org-ul">
+<li>x is tiger</li>
+<li>y is cute</li>
+</ul>
+
+<p>
+So while both dog and cat would be high on the cute axis, on the Y
+axis, only cat would be higher up on the X axis, the tiger
+axis. Because cats are like tigers, whereas dogs are not.
+</p>
+
+<p>
+Except we don't have just x, y, or z. We have hundreds, thousands of
+vectors.
+</p>
+
+<p>
+Why do this to words? Why represent them as numbers?
+</p>
+<ul class="org-ul">
+<li>So we can do math!</li>
+<li>We can do linear algebra.
+<ul class="org-ul">
+<li>Cat and kitten are close to each other, that means they have
+similar meanings.</li>
+<li>We can do cosine similarity, finding out what two vectors are
+similar to each other in shape/direction actually gives us a sense
+of their semantic similarity.</li>
+<li>Opens up a world of algebra, calculus, that we can do with
+language.</li>
+</ul></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgbabc13d" class="outline-4">
+<h4 id="orgbabc13d"><span class="section-number-4">1.3.3.</span> king - man + woman = queen</h4>
+<div class="outline-text-4" id="text-1-3-3">
+<p>
+Famous formula:
+</p>
+<ul class="org-ul">
+<li>King - Man + Woman = Queen
+<ul class="org-ul">
+<li>we can "do language" using math!</li>
+</ul></li>
+<li>vector(”King”) - vector(”Man”) + vector(”Woman”) = vector("Queen")</li>
+<li>Notice for a moment all the assumptions being made about gender
+here.
+<ul class="org-ul">
+<li>That the difference between a king and a queen has to do with
+gender.</li>
+<li><p>
+What exactly is being calculated when we subtract "man" and add
+"woman"?
+</p>
+<ul class="org-ul">
+<li>Is it biological sex that's being substracted?</li>
+<li>Is it gender conventions, femininity and masculinity? Kings are
+embody a masculine ideal, and queens a feminine one?</li>
+<li>What qualities are being assumed to pertain to each gender and
+each</li>
+</ul>
+<p>
+role?
+</p></li>
+</ul></li>
+<li>Not a massive deal, but interesting, because this is the formula
+that introduced the power of word vectors to the world. So the
+assumptions it plays on must be deeply embedded across society.</li>
+</ul>
+
+<p>
+Why am I saying all this about word vectors? 
+</p>
+<ul class="org-ul">
+<li>to de-mystify the tool.
+<ul class="org-ul">
+<li>these tools are not magic, they are not intuitive, possibly not
+even "intelligent", they can just do a lot of math.</li>
+</ul></li>
+</ul>
+
+<p>
+It's alright if this doesn't make sense. It's advanced ML. 
+</p>
+
+<p>
+See more:
+</p>
+<ul class="org-ul">
+<li><a href="https://arxiv.org/abs/1301.3781">Word2Vec paper</a>, 2013.</li>
+<li>(and <a href="http://jalammar.github.io/illustrated-word2vec/">great explanation by Jay Alammar</a>)</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="outline-container-org552e195" class="outline-3">
+<h3 id="org552e195"><span class="section-number-3">1.4.</span> Huggingface🤗 platform</h3>
+<div class="outline-text-3" id="text-1-4">
+<p>
+Now let's move to the platform we will be using, HuggingFace. 
+</p>
+<ul class="org-ul">
+<li>HF is an AI research and development company based in Brooklyn, New
+York City.</li>
+<li>A platform for Machine Learning: compute &amp; collaborative spaces for
+AI models, datasets, and more.
+<ul class="org-ul">
+<li>like a github for ML, if github had additional "hubs" for things
+besides just code (datasets, papers, apps).</li>
+<li>also can run software directly on the website, "platform"</li>
+</ul></li>
+</ul>
+</div>
+
+<div id="outline-container-org6c1fe77" class="outline-4">
+<h4 id="org6c1fe77"><span class="section-number-4">1.4.1.</span> "models hub"</h4>
+<div class="outline-text-4" id="text-1-4-1">
+<p>
+Start with the "models hub"
+</p>
+
+<p>
+Here contains AI models created by the community/ HF users.
+</p>
+<ul class="org-ul">
+<li>a little overwhelming interface, I will explain it in a moment.</li>
+<li>navigation goes from left to right
+<ul class="org-ul">
+<li>on left side, there's tasks, like text classification.</li>
+<li>on right side, there's models. We are going to narrow down the
+models.</li>
+</ul></li>
+</ul>
+
+<p>
+Search for "gpt-neo" in the text box.
+</p>
+<ul class="org-ul">
+<li><a href="https://huggingface.co/EleutherAI/gpt-neo-125m">gpt-neo-125m</a>
+<ul class="org-ul">
+<li>a model developed by EleutherAI, a non-profit research lab.</li>
+<li>part of a larger family of models named "gpt-neo" with the size
+at the end.</li>
+</ul></li>
+<li>notice "<b>model size</b>". How big is it?
+<ul class="org-ul">
+<li>125m parameters. That's how many inputs goes into
+inference. Includes things like word vectors, but also different
+kinds of inputs.
+<ul class="org-ul">
+<li>size is an indication of complexity. The larger the size, the
+more likely that the model will preform well.</li>
+</ul></li>
+</ul></li>
+<li>notice the "<b>license</b>":
+<ul class="org-ul">
+<li>MIT license. Very permissive, part of the "Open Source"
+licenses.
+<ul class="org-ul">
+<li>the model is totally open to download and modify as you wish,
+even for commercial purposes.</li>
+</ul></li>
+</ul></li>
+</ul>
+
+<p>
+Practice running inference here for a mintue. Anything that you notice
+about the results?
+</p>
+<ul class="org-ul">
+<li>it's repetitive.
+<ul class="org-ul">
+<li>the repetition problem is caused by the traits of our language
+itself.</li>
+<li>it generates words that have the highest likelihood. The words
+that have this likelihood tend to be the same ones, over and
+over again.</li>
+</ul></li>
+</ul>
+
+<p>
+Let's look at one more model, to start a conversation about how these
+products are created and then disributed.
+</p>
+
+<p>
+Go back to most download, select <a href="https://huggingface.co/meta-llama/Llama-2-7b">Llama</a>,
+</p>
+<ul class="org-ul">
+<li>by Meta, aka Facebook.</li>
+<li>in terms of licensing, this is the most restrictive, by far.
+<ul class="org-ul">
+<li>Meta champions this model as "open source" but it is nothing like
+that. The license prevents you from making anything that can
+compete with them.
+<ul class="org-ul">
+<li>"open source" vs open access models: not everything open access
+is open source!</li>
+<li>not sharing the model’s training data or the code used to train
+it unless you sign their agreement.</li>
+</ul></li>
+</ul></li>
+</ul>
+
+<p>
+Just to be aware of some of the terminology, marketing terms, used to
+promote this technology, which is really misleading. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org05725c5" class="outline-4">
+<h4 id="org05725c5"><span class="section-number-4">1.4.2.</span> training process</h4>
+<div class="outline-text-4" id="text-1-4-2">
+<p>
+:notes:
+It's important to consider how these models were created, and what's
+going into the training process.
+</p>
+
+<p>
+In addition to potential violations of copyright, issues with bias and
+discrimination.
+</p>
+<ul class="org-ul">
+<li>The ways that training data is cleaned (or not cleaned).</li>
+</ul>
+
+<p>
+Where do we get most of the data used to train these models? 
+</p>
+<ul class="org-ul">
+<li>scraped from the internet, most of them.
+<ul class="org-ul">
+<li>contains all the worst parts of the internet, too. All of the
+discrimination and violence.</li>
+</ul></li>
+</ul>
+
+<p>
+Crucially, you cannot automate the removal of bias and discrimination,
+because t can be situational, nuanced.
+</p>
+<ul class="org-ul">
+<li>attempts to automate this have failed:</li>
+</ul>
+
+<p>
+See "List of Dirty Obscene&#x2026;"
+</p>
+<ul class="org-ul">
+<li>used to filter out any web pages that contained these words. Just
+remove the whole page.</li>
+<li>but it didn't work. GPT-2 was still dirty and obscene.</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgcb6a747" class="outline-4">
+<h4 id="orgcb6a747"><span class="section-number-4">1.4.3.</span> think/pair/share activity</h4>
+<div class="outline-text-4" id="text-1-4-3">
+<p>
+Why do you think this method didn't work. Think about it for 2
+minutes.
+</p>
+<ul class="org-ul">
+<li>Position: I might say something that is offensive, whereas if
+someone else, from different background or in a different context
+says the same thing, it's not offensive.</li>
+<li>Context: reclaiming the term, explaining why it's hurtful?</li>
+</ul>
+
+<p>
+There's a race to get these products out there, so people aren't
+taking the time needed to adequately clean the data and make sure it's
+safe. That's just a fact.
+</p>
+<ul class="org-ul">
+<li>RLHF - "reinforcement learning from human feedback"</li>
+</ul>
+
+<p>
+Something to keep in mind! There's a lot of work to be done in bias
+and discrimination
+</p>
+<p>
+:end:
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgcb0dbfe" class="outline-3">
+<h3 id="orgcb0dbfe"><span class="section-number-3">1.5.</span> inference with python on colab: inference &amp; abstraction:</h3>
+<div class="outline-text-3" id="text-1-5">
+<p>
+Now that you have a sense of how inference works on the HF website, we
+are going to practice running inference on Google Colab.
+</p>
+
+<p>
+Our goal is to create a text generator, using Python code, taking the
+following steps: 
+</p>
+<ul class="org-ul">
+<li>Will use the model, "<a href="https://huggingface.co/EleutherAI/gpt-neo-125m">gpt-neo-125m</a>", and write code that imports this
+model into the colab coding space.</li>
+<li>Then we will write code to process an input text, and generate an
+output, a continuation.</li>
+</ul>
+
+<p>
+We'll talk about some programming concepts along the way. 
+</p>
+<ul class="org-ul">
+<li>how programming languages abstract data through variables, learning
+how to read these layers of abstraction.</li>
+</ul>
+</div>
+
+<div id="outline-container-org5ee570a" class="outline-4">
+<h4 id="org5ee570a"><span class="section-number-4">1.5.1.</span> google colab, REPL, variables:</h4>
+<div class="outline-text-4" id="text-1-5-1">
+<p>
+<a href="https://colab.research.google.com/">https://colab.research.google.com/</a>
+</p>
+
+<p>
+A cloud computing platform, where you can run code directly in the
+browser.
+</p>
+
+<p>
+Python can be difficult to install and configure, it's system
+specific. Also distributions are large and take up space on your
+laptop. Cloud computing takes away these issues.
+</p>
+<ul class="org-ul">
+<li>one particular plus is the colab offers computing power that is
+strong enough to handle these models.</li>
+</ul>
+
+<p>
+Basic interface:
+</p>
+<ul class="org-ul">
+<li>cells to run the code, an "expression"</li>
+</ul>
+
+<div class="org-src-container">
+<pre class="src src-python">1 + 1
+<span style="color: #7f7f7f;"># </span><span style="color: #7f7f7f;">run code by pressing shift-return, or the play button. </span>
+
+<span style="color: #4eee94;">x</span> = 5
+
+<span style="color: #4eee94;">y</span> = 7
+
+x + y
+
+<span style="color: #7f7f7f;"># </span><span style="color: #7f7f7f;">all variables saved. </span>
+
+<span style="color: #7f7f7f;"># </span><span style="color: #7f7f7f;">"interactive mode" - evaluate the expression, print result, back to</span>
+<span style="color: #7f7f7f;"># </span><span style="color: #7f7f7f;">prompt for more expressions.</span>
+
+</pre>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgb2165fa" class="outline-4">
+<h4 id="orgb2165fa"><span class="section-number-4">1.5.2.</span> import the models</h4>
+<div class="outline-text-4" id="text-1-5-2">
+<p>
+on the toolbar, where it says RAM DISK, change the hardware accelator
+to GPU.
+</p>
+
+<p>
+Then go back to the models page.
+</p>
+
+<p>
+Search for gpt-neo, select 125m. On the top right, click on "Use in
+Transformers."
+</p>
+
+<p>
+Copy that code, and paste it to your google colab cell.
+</p>
+
+<div class="org-src-container">
+<pre class="src src-python"><span style="color: #7f7f7f;"># </span><span style="color: #7f7f7f;">Use a pipeline as a high-level helper</span>
+<span style="color: #00bfff;">from</span> transformers <span style="color: #00bfff;">import</span> pipeline
+
+<span style="color: #4eee94;">pipe</span> = pipeline(<span style="color: #deb887;">"text-generation"</span>, model=<span style="color: #deb887;">"EleutherAI/gpt-neo-125m"</span>)
+</pre>
+</div>
+
+<p>
+Here we have a function, called <code>pipeline()</code>, which takes parameters (a
+fancy word for input).
+</p>
+
+<p>
+The parameters specify the task and the model that we will be using.
+</p>
+
+<p>
+We save the function to a variable called <code>pipe</code>, which we will later
+use to process our prompt. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org361a639" class="outline-4">
+<h4 id="org361a639"><span class="section-number-4">1.5.3.</span> run inference</h4>
+<div class="outline-text-4" id="text-1-5-3">
+<p>
+Now we are going to "run inference."
+</p>
+
+<p>
+First, we will type up a prompt, and save it to a variable
+<code>prompt</code>. Then we will pass that prompt to the <code>pipe</code> variable 
+</p>
+
+<div class="org-src-container">
+<pre class="src src-python"><span style="color: #4eee94;">prompt</span> = <span style="color: #deb887;">"Hello, my name is Filipa and"</span>
+
+pipe(prompt)
+</pre>
+</div>
+
+<p>
+Congratulations! We have just ran inference in Python.
+</p>
+
+<p>
+What if we want to take this to the next level. What if we want to
+save the output.
+</p>
+
+<p>
+How would we save the output?
+</p>
+
+<div class="org-src-container">
+<pre class="src src-python">
+<span style="color: #4eee94;">response</span> = pipe(prompt)
+
+</pre>
+</div>
+
+<p>
+Running the same thing that we created before, saving the output to a
+new variable, called <code>response</code>.
+</p>
+
+<p>
+Here we see the levels of abstraction at play.
+</p>
+<ul class="org-ul">
+<li>saved the prompt text to a variable, and passing that prompt into the
+pipe.</li>
+<li>then saving the pipeline function to a new variable</li>
+</ul>
+
+<p>
+Why would you want to do this? Why would you want to save it?
+</p>
+
+<p>
+Abstraction is the foundation for all programs.
+</p>
+
+<p>
+It allows us to then <i>do things</i> with our code. Maybe make a chatbot
+interface. Maybe make a personal assistant. We've saved the output, we
+can now use it to do other things.
+</p>
+
+<p>
+Basic concept of programing is creating running functions, saving the
+results, passing those results to new functions, and so on.
+</p>
+
+<p>
+These abstractions of processes are what makes software. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org5a68108" class="outline-3">
+<h3 id="org5a68108"><span class="section-number-3">1.6.</span> IF TIME: data structures.</h3>
+<div class="outline-text-3" id="text-1-6">
+<p>
+Now let's examine more closely our response. 
+</p>
+
+<div class="org-src-container">
+<pre class="src src-python">
+output
+<span style="color: #7f7f7f;"># </span><span style="color: #7f7f7f;">[{'generated_text': "Hello, my name is Filipa and I'm a newbie in</span>
+<span style="color: #7f7f7f;"># </span><span style="color: #7f7f7f;">the world of web development."}]</span>
+
+<span style="color: #f08080;">type</span>(output)
+<span style="color: #7f7f7f;"># </span><span style="color: #7f7f7f;">list</span>
+
+</pre>
+</div>
+<p>
+What kind of data is this?
+</p>
+<ul class="org-ul">
+<li><code>list</code> is a collection of objects, or bits of information. So our
+output is saved as this collection type of object.</li>
+</ul>
+
+<p>
+What if we wanted to extract just the output text, not the rest of the
+data, how would we go about it?
+</p>
+
+<p>
+We are going to examine this list to see what else is contained
+inside. For that we will use "indexing."
+</p>
+
+<p>
+Indexing is picking out object by their position within another
+object, like a list (though it also works for strings). The first item
+is zero, the second item is 1, and so on.
+</p>
+
+<p>
+Does anybody know what we start with zero? (Because it is based on
+offsets. Think like a computer. The first item is the starting place,
+we don't have to move anywhere to access it. But the second item, we
+have to move one place to the right, so it's 1). 
+</p>
+
+<div class="org-src-container">
+<pre class="src src-python"><span style="color: #4eee94;">name</span> = Filipa
+name[0]
+<span style="color: #7f7f7f;"># </span><span style="color: #7f7f7f;">F</span>
+name[1]
+<span style="color: #7f7f7f;"># </span><span style="color: #7f7f7f;">i</span>
+
+output[0]
+<span style="color: #7f7f7f;"># </span><span style="color: #7f7f7f;">{'generated_text': "Hello, my name is Filipa and I'm a newbie in the</span>
+<span style="color: #7f7f7f;"># </span><span style="color: #7f7f7f;">world of web development."}</span>
+
+<span style="color: #f08080;">type</span>(output[0])
+<span style="color: #7f7f7f;"># </span><span style="color: #7f7f7f;">dict</span>
+
+</pre>
+</div>
+
+<p>
+Now we are getting closer, we got rid of the brackets. Inside this
+list, we actually have a new data type, called a <code>dict</code>. This stands
+for data structured into key:value pairs.
+</p>
+
+<p>
+Let's look at an example:
+</p>
+
+<div class="org-src-container">
+<pre class="src src-python">
+<span style="color: #7f7f7f;"># </span><span style="color: #7f7f7f;">key, value pairs</span>
+
+<span style="color: #4eee94;">filipa</span> = {
+    <span style="color: #deb887;">'first_name'</span>: <span style="color: #deb887;">'filipa'</span>
+    <span style="color: #deb887;">'last_name'</span>: <span style="color: #deb887;">'calado'</span>,
+    <span style="color: #deb887;">'job'</span>: <span style="color: #deb887;">'library'</span>,
+    <span style="color: #deb887;">'age'</span>: <span style="color: #deb887;">'34'</span>,
+    <span style="color: #deb887;">'degree'</span>: <span style="color: #deb887;">'literature'</span>
+}
+
+
+<span style="color: #f08080;">type</span>(filipa)
+<span style="color: #7f7f7f;"># </span><span style="color: #7f7f7f;">dict</span>
+
+</pre>
+</div>
+
+<p>
+To get items from a dict, you use a different method, accessing them
+by their keys.
+</p>
+
+<div class="org-src-container">
+<pre class="src src-python">filipa[<span style="color: #deb887;">'first_name'</span>]
+<span style="color: #7f7f7f;"># </span><span style="color: #7f7f7f;">filipa</span>
+
+filipa[<span style="color: #deb887;">'degree'</span>]
+<span style="color: #7f7f7f;"># </span><span style="color: #7f7f7f;">literature</span>
+
+</pre>
+</div>
+
+<p>
+So, we can combine what we know about list indexing and accessing
+items in a dict by keys to pull out just the response text
+</p>
+
+<div class="org-src-container">
+<pre class="src src-python">
+output[0][<span style="color: #deb887;">'generated_text'</span>]
+
+<span style="color: #7f7f7f;"># </span><span style="color: #7f7f7f;">then we can save it to a variable!</span>
+
+<span style="color: #4eee94;">text</span> = output[0][<span style="color: #deb887;">'generated_text'</span>]
+
+</pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: CaladoF</p>
+<p class="date">Created: 2024-02-25 Sun 18:16</p>
+<p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>

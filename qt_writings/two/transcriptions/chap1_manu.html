@@ -1,0 +1,1567 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2021-06-04 Fri 12:31 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Filipa  Calado" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2019 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<p>
+1
+</p>
+
+<p>
+The Picture of Dorian Gray
+</p>
+<hr />
+<hr />
+
+<p>
+ The studio was filled with the rich
+odour of roses, and when the light summer 
+wind stirred amidst the trees of the 
+garden there came through the open door
+the heavy scent of the lilac, or the
+more delicate perfume of the [<sup>pink</sup>] flowering
+thorn. 
+</p>
+
+<p>
+ From the corner of the divan of Persian
+saddle-boys on which he was lying, smoking,
+as [-was-his-custom-], [<sup>usual</sup>] innumerable cigarrettes,
+Lord Henry Wotton could just cath the 
+[-------&#x2013;&#x2014;] gleam of the honey-sweet and 
+hony-colored blossoms of the laburnum, that
+was hanging from the tremulous branches that
+seemed hardly able to bear th burden of
+a beauty so flame-like as theirs: and,
+now and then, the fantastic shadows of birds
+in flight flitted across the long tussore-silk
+curtains that were stretched in front of 
+the huge window, producing a kind of
+momentary Japanese effect, and making
+him think of those pallid jade-faced
+painters who, in an art that is 
+seemingly immobile, seek to convey the
+laws of swiftness and motion. The
+sudden murmur of the bees shouldering
+their way through the long unmown grass
+</p>
+
+<p>
+2
+</p>
+
+<p>
+or circling with monotonous insistance
+round the black-crocketed spines of 
+the early [<sup>June</sup>] holly-hocks, seemed to make
+the stillness more oppressive, [--&#x2013;&#x2014;]
+[---------------------------------&#x2013;&#x2014;]
+[---------------------------------&#x2013;&#x2014;]
+[-------&#x2013;&#x2014;] and the dim roar of
+London was like the bourdon note 
+of [<sup>a</sup> distant] organ. 
+</p>
+
+<p>
+ In the center of the room,
+[&#x2013;&#x2014;] [<sup>clamped</sup> to] an upright easel, [<sup>was</sup> standing] the
+full-length portrait of a young
+man of extraordinary personal 
+beauty, and in front of it, some
+little distance away, [&#x2013;&#x2014;] sat
+the [-painter-] [<sup>artist</sup> himself,] Basil hallward, whose
+sudden disappearance some years
+ago caused [<sup>at</sup> the time] such [<sup>public</sup>] excitement, and
+[---&#x2013;&#x2014;] [<sup>gave</sup> rise to] [<sup>so</sup> many][<sup>strange</sup>] conjectures.
+</p>
+
+<p>
+ As he looked at the gracious
+and comely form he had so 
+skillfully mirrored in his art, a 
+[--&#x2013;&#x2014;] smile of pleasure passed
+across his face, and seemed about 
+to linger there. But he suddenly 
+started up, and closing his eyes
+placed his fingers upon the lids,
+as though he sought to imprison
+within his brain some [-----&#x2013;&#x2014;]
+[---------------------------------&#x2013;&#x2014;]
+[&#x2014;] [<sup>curious</sup>] [&#x2013;&#x2014;] dream from which he
+feared he might awake.
+</p>
+
+<p>
+"It is your best work, Basil,
+</p>
+
+<p>
+3
+</p>
+
+<p>
+the best thing you have ever 
+done," said Lord Henry languidly.
+"You must certainly send it [<sup>next</sup> year] to 
+the Grosvenor. The Academy is too
+large, and too vulgar. The Grosvenor
+is the only place." 
+</p>
+
+<p>
+ "I don't think I will send it
+any where," he answered, tossing
+his head back in that odd
+way that used to make [-&#x2014;] [<sup>his</sup> friends] laught
+at him in Oxford. "No: I won't
+send it any where. And yet, you 
+are quite right about it. It is 
+my best work." 
+</p>
+
+<p>
+ Lord Henry elevated his eyebrows,
+and looked at him in amazement
+through the thin blue wreathes of
+smoke that curled [<sup>up</sup> in such fanciful whorls] [-&#x2014;]
+from his heavy opium-tainted 
+cigarette. "Not send it anywhere?
+My dear fellow, why? Have you 
+any reason? What odd chaps
+you painters are! You do any thing 
+in the world to gain a reputation.
+And soon as you have [-&#x2014;] [<sup>one</sup>], you seem
+to want to throw it away. It is
+silly of you, for there is only
+one thing in the world worse than
+being talked about, and that is 
+not being talked about. A portrait
+like this would set you far
+above all the young men in 
+England, and make the old men [<sup>quite</sup>]
+</p>
+
+<p>
+4
+</p>
+
+<p>
+jealous, if old men are [<sup>even</sup>] capable
+of any emotion." 
+</p>
+
+<p>
+ "I know you will laugh at me," 
+he replied, "but I really can't
+exhibit it. I have put too much 
+of myself into it."
+</p>
+
+<p>
+ Lord Henry stretched his long
+legs out on the divan, and shook 
+with laughter.
+</p>
+
+<p>
+ "Yes: I knew you would laugh,
+but it is quite true, all the 
+same."
+</p>
+
+<p>
+ "Too much of yourself in it!
+Upon my word, [<sup>Basil</sup>] I didn't know
+you were so vain, and I really
+can't see any resemblance between
+you with your rugged
+strong face, and your coal-black hair, 
+and this young Adonis, who 
+looks as if he was made of
+ivory and rose-leaves. Why, my 
+dear Basil, he is a narcissus!
+And you&#x2013;well of course you 
+have an intellectual expression,
+and all that. But Beauty,
+real Beauty, [-only begins-] [<sup>ends</sup>] where
+an intelleCtual expression begins.
+Intellect is in itself an
+exaggeration, and destroys the
+harmony of any face. The
+moment one [-&#x2014;] sits down to
+think, one becomes all nose, or
+all forehead, or something horrid. 
+</p>
+
+<p>
+5
+</p>
+
+<p>
+Look at the successful men in any
+[-&#x2014;] [<sup>of</sup> the] learned professions. How perfectly
+hideous they are! Except of 
+course in the Church. But then
+in the Church they don't think. A 
+Bishop keeps on saying at the
+age of eighty what he was told
+to say when he was a boy of
+eighteen, and consequently he [<sup>always</sup>] looks
+absolutely delightful. Your
+mysterious young friend, whose 
+name you have never told me
+but whose picture really fascinates
+me, never thinks. I feel quite 
+sure of that. He is a brainless,
+beautiful thing, who should be
+always here in winter when we
+have no flowers to look at, and 
+[<sup>always</sup> here] in summer when we want something 
+to chill our intelligences. Don't
+flatter yourself, Basil. You 
+are not in the least like him."
+</p>
+
+<p>
+ "You don't understand me, Harry.
+Of course I am not like him. 
+I know that perfectly well. Indeed
+I should be sorry to look like
+him. You shrug your shoulders?
+I am telling you the truth. There
+is a fatality about all physical
+as well as intellectual distinction, the
+sort of fatality that seems to
+dog [<sup>through</sup> history the faltering] [-&#x2014;] steps of Kings. It is
+better not to be different from one's
+</p>
+
+<p>
+6
+</p>
+
+<p>
+fellows. The ugly and the stupid 
+have the best of it in this world.
+They can sit quietly, and gape at the play. If they know nothing of
+victory, they are [<sup>at</sup> least spared] [-&#x2014;] the knowledge 
+of defeat. They live as we all 
+should live, undisturbed, indifferent,
+and without disquiet. They neither
+bring ruin upon ohers, nor ever
+receive it from alien hands. Your
+rank and wealth, Harry; my
+brains, such as they are, my
+fame, whatever it may be worth;
+Dorian Grey's [-beauty-] [<sup>good</sup> looks]; we will
+all suffer for what the Gods
+have given us, suffer terribly."
+</p>
+
+
+<p>
+ "Dorian Grey? Is that his 
+name?" said Lord Henry, walking 
+across the studio toward Basil
+Hallward.
+</p>
+
+<p>
+ "Yes: that is his name. I
+did'nt intend to tell [<sup>it</sup> to] you."
+</p>
+
+<p>
+"But why not?"
+</p>
+
+<p>
+ "Oh! I can't explain. [-&#x2014;] When 
+I like people immensely, I 
+[-cannot-] [<sup>never</sup>] tell their names to any one. 
+It seems like surrendering a part
+of them. You know how I love 
+secrecy. It is the only thing 
+that can make a modern life
+woderful, or mysterious to us.
+The commonest thing is delightful 
+if one only hides it. When I
+</p>
+
+<p>
+7
+</p>
+
+<p>
+[-dine out-] [<sup>leave</sup> town] I never tell my people
+where I am going. If I did, I
+would lose all my pleasure. It is 
+a silly habit, I daresay, but
+somehow it [-&#x2014;] seems to bring 
+a great deal of romance into 
+one's life. I suppose you think
+me awfully foolish about it?"
+</p>
+
+<p>
+ "Not at all," answered Lord
+Henry, laying his hand upon his 
+shoulder; "not at all, my dear
+Basil. You seem to forget that
+I am married, and the one charm
+of marriage is that it makes
+a life of deception absolutely
+necessary for both parties. I mnever
+know [-&#x2014;] [<sup>where</sup>] my wife is [-&#x2014;], and
+my wife never knows [-&#x2014;] [<sup>what</sup>] I 
+am [<sup>doing</sup>.] When we meet &#x2013; we do
+meet occasionally, when we dine,
+out[<sup>together</sup>], or go down to the Duke's &#x2013;
+we tell each other the most 
+absurd stories with the most
+serious faces. My wife is very
+good at it, much better in
+fact than I am. She never
+gets confused over her dates,
+and I always do. But when she
+does find me out, she never
+makes a row. I sometimes
+wish she did, but she merely
+laughts at me."
+</p>
+
+<p>
+"I hate the way you talk
+</p>
+
+<p>
+8
+</p>
+
+<p>
+about your married life, Harry,"
+said Basil Hallward, shaking his
+hand off, and strolling towards
+the door that led into the garden.
+"I believe that you are really a
+very good husband, but that you 
+are thoroughly ashamed of your
+own virtues. You are an extraordinary
+fellow. You neve say a moral
+thing, and you never do a
+wrong thing. Your cynicism is 
+simply a pose."
+</p>
+
+<p>
+  "Being natural is simply a
+pose, and the most irritating
+pose I know, [-said-] [<sup>cried</sup>] Lord Henry
+laughing, and the two young
+men went out into the garden
+together, and for a time they
+did not speak. [-to each other-]
+</p>
+
+<p>
+ After a long pause Lord
+Henry pulled out his watch. "I 
+am afriad I must be going
+Basil," he [-said-] [<sup>murmured</sup>]," and before I
+go I insist on you answering me a question I put to you
+[-&#x2014;] [<sup>half</sup> an hour] ago."
+</p>
+
+<p>
+"What is that?" asked Basil
+Hallward, keeping his eyes fixed
+on the ground.
+</p>
+
+<p>
+"You know quite well."
+</p>
+
+<p>
+"I do not, Harry."
+</p>
+
+<p>
+  "Well, I will tell you what
+it is."
+</p>
+
+<p>
+9 
+</p>
+
+<p>
+"Please don't."
+</p>
+
+<p>
+ "I must. I want you to 
+[<sup>explain</sup> to] [-tell-] me why you won't exhibit
+Dorian Gray's picture. I want
+the real reason."
+</p>
+
+<p>
+"I told you the real reason."
+</p>
+
+<p>
+ "No: you did not. You said it 
+was because there was too
+much of yourself it. Now, that
+is childish."
+</p>
+
+<p>
+ "Harry," said Basil Hallward, [-taking-]
+[-hold of his hand, and-] looking him 
+straight in the face, "Every portrait
+that is painted with [-passion-] [<sup>feeling</sup>] is 
+a portrait of the artist, not of 
+the sitter. The sitter is merely the
+accident, the occasion. It is not
+he who is revealed by the painter,
+it is rather the painter who [<sup>on</sup> the colours of the canvas]
+reveals himself. The reason why 
+I will not exhibit this picture,
+is that I am afraid that I
+have shown in it the secret of
+my own soul."
+</p>
+
+<p>
+ Lord Henry [-hesitated for a-] [<sup>laughed</sup>]
+[-moment-]. "And what is that?" he
+asked. [-in a low voice-].
+</p>
+
+<p>
+ "I will tell you," said Hallward,
+and an [-look-] [<sup>expression</sup>] of [-pain-] [<sup>perplexity</sup>] came over
+his face.
+</p>
+
+<p>
+"[-Don't if you would rather not-] [<sup>I</sup> am all expectation, Basil],"
+murmured his companion, looking at him. 
+</p>
+
+<p>
+"Oh! There is really very little to
+</p>
+
+<p>
+10
+</p>
+
+<p>
+tell you, Harry," answered the young 
+painter; "and I am afraid you will
+hardly understand it."
+</p>
+
+<p>
+ Lord Henry smiled, and leaning
+down plucked a ping-petalled daisy
+from the grass, and examined it. "I 
+am quite sure I shall understand
+[-you-] [<sup>it</sup>]," he replied, gazing intently at
+the little golden white-feathered
+disk. [-that has charmed all our-]
+[-poets from Chaucer to Tennyson-].
+</p>
+
+<p>
+ The wind shook some blossoms
+from the trees, and the heavy lilac
+blooms, with their clustering stars,
+moved to and fro in the languid 
+air. A [-bird-] [<sup>grasshopper</sup>] began to [-sing-] [<sup>chirrup</sup>] in
+[-a thicket-] [<sup>the</sup> grass], and a long thin
+dragon-fly floated [-past-] [<sup>by</sup>] on its
+brown gauze wings. Lord Henry felt
+as if he coul hear Basil
+Hallward's heart beating, and he
+[-heard his own breath, with a sense-] [<sup>wondered</sup>]
+[-almost of fear-] [<sup>what</sup> was coming.].
+</p>
+
+<p>
+ "Yes: there is very little
+to tell you," repeated Hallward [<sup>rather</sup> bitterly] "and
+I [-am afraid-] [<sup>daresay</sup>] you will be
+disappointed. Two months ago I 
+went to a crush at Lady Brandon's.
+You know we poor painters have to
+show ourselves in society from time
+to time, just to remind the public
+that we are not savages. With an
+evening coat and a white tie, [<sup>as</sup> you told me once] any
+</p>
+
+<p>
+11
+</p>
+
+<p>
+body, [<sup>even</sup> a stockbroker,] can gain a reputation for
+being civilized. Well, after I had 
+been in the room about ten minutes,
+talking to huge over-scented dowagers
+and tedious academicians, I suddenly
+[-felt-] [<sup>became</sup> conscious] that some one was looking at
+me. I turned half way round, and
+saw Dorian Gray for the first 
+time. When our eyes met, I felt 
+that I [-grew-] [<sup>was</sup> growing] pale. A curious [-&#x2014;] [<sup>feeling</sup>]
+of terror came over me. I knew 
+that I had [-&#x2013;&#x2014;] come [-across-] [<sup>face</sup> to face with]
+someone whose mere personality 
+was so fascinating that it would
+[-be- &#x2013;&#x2014;] [<sup>absorb</sup>] my [-life-] [<sup>nature</sup>], my soul, my 
+art itself." I did not want any
+[<sup>extreme</sup>] influence [-of that kind-] in my life.
+You know yourself, Harry, how 
+independant I have always been. My
+father destined me for the army. I 
+insisted on going to Oxford. Then he
+made me enter my name at the
+middle temple. Before I had
+eaten half a dozed dinners I gave
+up the Bar, and announced my
+intention of becoming a painter. I 
+have always been my own master;
+had at least always been so till
+I met Dorian Gray. Then &#x2013; but
+I [-&#x2014;] don't know how to explain
+it to you. Something seemed to tell
+me that I was on the verge of
+[-&#x2014;] a terible crisis in my
+</p>
+
+<p>
+12
+</p>
+
+<p>
+life. I had a strange feeling that
+[&#x2014;] [<sup>fate</sup>] had in store for me exquisite
+joys and exquisite sorrows. I knew
+that if I spoke to him, I would
+[-never leave him till either he or-] [<sup>become</sup> absolutely devoted to him, and that I ought]
+[-I were dead-] [<sup>not</sup> to speak to him.] I grew afraid, and
+turned to [-leave-] [<sup>quit</sup>] the room. It was
+not conscience [<sup>that</sup> made me do so,] it was cowardice. I
+[&#x2014;] take no credit to myself for
+trying to escape."
+</p>
+
+<p>
+ "Conscience and cowardice are
+really the same things, Basil. Conscience
+is the trade-name of the firm, that
+is all." 
+</p>
+
+<p>
+ "I [--&#x2013;&#x2014;] [<sup>don</sup>'t believe that, Harry] [^-&#x2014;]. However,
+whatever was my motive, and it
+may have been pride, for I used
+to be very proud, I certainly
+struggled to the door. There of
+course I stubled against Lady
+Brandon. "You are not going to 
+run away so soon, Mr. Hallward?"
+She screamed out. You know her 
+shrill horrid voice?"
+</p>
+
+<p>
+ "Yes: she is a peacock in every
+thing but beauty," said Lord Henry,
+pulling the daisy to bits with his
+long nervous fingers.
+</p>
+
+<p>
+ "I could not get rid of her. She
+brought me up to the Royalties, and
+people with Stars and Garters, and
+elderly ladies with gigantic tiaras [<sup>and</sup> hooked noses].
+She spoke of me as her dearest
+</p>
+
+<p>
+13
+</p>
+
+<p>
+friend. I had only met her once
+before, but she took it into her
+head to lionize me. I believe
+some picture of mine had made a
+great success at the time, at least
+had been chattered about in the
+penny newspapers, which is the
+nineteenth century [&#x2014;] [<sup>standard</sup>] of [fame] [<sup>immortality</sup>].
+Suddenly I found myself face to
+face with the young man whose
+[-beauty-] [<sup>personality</sup>] had so [<sup>strangely</sup>] stirred me. We were
+quite close, almost touching. Our
+eyes met, again. It was mad of
+me, but I asked Lady Brandon to 
+introduce me to him. Perhaps it
+was not so mad after all. It
+was simply inevitable. We would
+have spoken to each other without
+any introduction. I am sure of that.
+Dorian told me so afterwards."
+</p>
+
+<p>
+ "And how did Lady Brandon 
+describe this wonderful young
+[&#x2014;] [<sup>man</sup>?]? I know she gives in
+for giving a rapid precis of [<sup>all</sup>] her
+guests. I remember her bringing
+[-up to-] me up to a most truculent
+and red-faced old [-man] [<sup>gentleman</sup>] covered
+all over with orders and ribands,
+and hissing into my ear in a
+tragic whisper, which must have
+been perfectly audible to every
+body in the room, something like
+"Sir Humpty Dumpty &#x2013; you know &#x2013;
+</p>
+
+<p>
+14
+</p>
+
+<p>
+Afghan frontier &#x2013; Russian intelligence: very 
+successful man &#x2013; [-quite inconsolable-]
+[-wants to marry-] wife killed by an
+elephant &#x2013; quite inconsolable &#x2013; wants
+to marry a [<sup>beautiful</sup>] American widow [<sup>every</sup> body does now-a-days] &#x2013; hates
+Mr. Gladstone &#x2013; but very much interested
+in beetles &#x2013; ask him about the new
+[&#x2014;] military frontier. "[&#x2014;] I simply
+fled. I like to find out people for
+myself. But poor Lady Brandon treats  her
+guests, exactly as an auctioneer treats
+his goods. She either explains them [<sup>entirely</sup>] away
+or tells one everything about them [-that-]
+[-one does not-] [<sup>except</sup> what one] wants to know. But
+what did she say about Mr. Dorian
+Gray?"
+</p>
+
+<p>
+ "Oh, she murmered, 'charming boy &#x2013;
+going to be so ruch &#x2013; mother and I great 
+friends &#x2013; engaged to be married to the 
+same man &#x2013; I mean married on the
+same day &#x2013; how very silly of me! Quite
+forget what he does &#x2013; afriad he doesn't
+do anything &#x2013; oh, yes plays the piano &#x2013;
+or is it the violin, dear Mr. Gray?"
+We could niether of us help laughing, and
+we became friends at once."
+</p>
+
+<p>
+ "Laughter is not a bad beginning for
+for a friendship, and it is the best
+ending for one," said Lord Henry
+plucking another daisy.
+</p>
+
+<p>
+Hallward burried his face [&#x2014;]
+</p>
+
+<p>
+15
+</p>
+
+<p>
+in his hands." You don't understand
+what friendship is, Harry," he
+murmured," or what enmity is for
+that matter. You like every one,
+[-which is the same as &#x2013;&#x2014;] [<sup>that</sup> is to say]
+you are indifferent to every one."
+</p>
+
+<p>
+ "How horridly unjust of you," cried
+Lord Henry, tiling his hat ack,
+and looking up at the little
+clouds that were drifting across
+the hollowed turquoise of the [<sup>summer</sup>] sky,
+like ??? skeins of glossy
+white ???. "Yes" horribly unjust
+of you. I make a great
+different between people. I choose
+my friends for their good looks:
+my acquaintences for their
+characters: and my enemies for
+their brains. A man can't be too
+careful in the choice of his 
+enemies. I have not got one
+who is a fool. They are all
+men of some intellectual power,
+and consequently they all appreciate
+me. Is that very vain of me? I 
+think it is rather vain."
+</p>
+
+<p>
+ "I should think it was, Harry.
+But according to your category, I 
+must be merely an acquaintance."
+</p>
+
+<p>
+ "My dear old Basil, you are
+much more than an acquaintance&#x2026;
+</p>
+
+<p>
+ "And much less than a friend. A
+sort of brother, I suppose?
+</p>
+
+<p>
+16
+</p>
+
+<p>
+ "Oh! Brothers! I don't care for 
+brothers. My elder brother won't
+die, and my younger brothers
+[<sup>seem</sup>] never [<sup>to</sup>] do anything else."
+</p>
+
+<p>
+"Harry!"
+</p>
+
+<p>
+ "My dear fellow, I am not
+quite serious. But I can't
+help detesting my relations. I 
+suppose it comes from the fact
+that we can't stand other
+people having the same faults
+as ourselves. I quite sympathize
+with the rage of the [<sup>English</sup>] democracy
+[-to English-] against what they
+call the vices of the upper
+classes. They [<sup>feel</sup>] [-&#x2014; to think-]
+that drunkenness, [&#x2014;] stupidity,
+[<sup>and</sup> immorality] should be their own special
+property, and that if any one 
+of us makes an ass of
+himself [&#x2014;] [<sup>we</sup> are poaching on their
+preserves. When poor Southwark
+got into the Divorce Court, their
+[-rage-] [<sup>indignation</sup>] was quite magnificant. And
+yet I don't suppose that
+ten per cent of the lower orders
+live with their own wives."
+</p>
+
+<p>
+ "I don't agree with a single
+word that you have said, and,
+what is more, [<sup>Harry</sup>,] I don't believe
+you do either."
+</p>
+
+<p>
+ "Lord Henry [-pulled his little-]
+[-straw-colored mousatache, and-]
+stroked his pointed [-Henry &#x2014;] [+brown] beard, and
+</p>
+
+<p>
+17
+</p>
+
+<p>
+tapped the toe of his patent-leather
+boot with a [-thick-] [<sup>tasseled</sup>] malacca-cane.
+How English you are, Basil! If one
+puts forward an idea to a real 
+Englishman &#x2013; always a rash thing
+to do &#x2013; he never dreams of
+considering whether the idea is
+right or wrong. the only thing he
+considers of any important is
+whether one [-is sincere or putting-]
+[-it- &#x2014;] believes it oneself.
+Now the value of an idea has
+nothing whatsoever to do with the
+sincerity of the man who expresses 
+it. Indeed the probabilities are that 
+the more insincere the man is, the
+more purely intellectual will the 
+idea be, as [<sup>in</sup> that case] it will not be coloured
+by either his wants, his desires, or
+his prejudices. However, I don't 
+propose to discuss [&#x2014;] politics,
+sociology, or metaphysics with you.
+I like persons better than principle.
+Tell me more about Dorian Gray.
+How often do you see him?"
+</p>
+
+<p>
+ "Every day, Harry. I coudln't [&#x2014;] be
+[&#x2013;] [<sup>happy</sup>] if I didn't [&#x2013;]see him 
+every day. Of course, sometimes it 
+is only for a few minutes, But
+a few minutes with somebody
+one worships mean a great
+deal."
+</p>
+
+<p>
+"[&#x2014;] [<sup>But</sup>] you [<sup>don</sup>'t] really worship him?"
+</p>
+
+<p>
+18
+</p>
+
+<p>
+"I do."
+</p>
+
+<p>
+ "How extraordinary! I thought you 
+would never care for anything
+but your painting &#x2013; your art, I
+should say. Art souns better,
+doesn't it?"
+</p>
+
+<p>
+ "He is all my art to me now. I 
+sometimes think, Harry, that there
+are only two eras [<sup>of</sup> any importance] in the 
+history of [<sup>the</sup> world] [-earth-], [<sup>the</sup> first is] the difference of 
+a new medium [<sup>in</sup> art], and the second 
+is [<sup>the</sup>] difference of a new personality [<sup>for</sup> art also.]
+What the invention of oil-painting
+was to the Venetians, the [-beauty-] face
+of Antinous was to late Greek
+sculpture, and the [-beauty-] [<sup>face</sup>] of Dorian 
+Gray will some day be to me. 
+It is not merely that I paint
+from him, draw from him, model
+from him. Of course I have
+done all that. He has stood
+as Paris in dainty armour, and
+as Adonis with huntsman's cloak
+and polished boar-spear. Crowned 
+with heavy lotus-blossoms he 
+has sat on the prow of Adrian's
+barge lookinginto the green
+turbid Nile. He has leaned over 
+the still pool of some Greek
+woodland, and seen in the water's
+silent silver the wonder of his 
+own [-face-] [<sup>beauty</sup>]: But he is much more
+to me than that. I won't tell you
+</p>
+
+<p>
+19
+</p>
+
+<p>
+that I am dissatisfied with what I 
+have done of him, or that his
+beauty is such that art cannot
+expres it. There is nothing that 
+art cannot express, and I know 
+the work that I have done, since
+I met Dorian Gray, is [&#x2014;] good
+work, is the best work of my 
+life. But in some curious way &#x2013;
+I wonder will you understand 
+me &#x2013; his personality has suggested
+to me an entirely new manner
+in art, an entirely new mode of
+style. I see things differently, I
+think of them differently. I can now
+recreate life in a way that was
+hidden from me before. "A dream 
+of form in days of thought" &#x2013; who
+is it [-that-] [<sup>who</sup>] says that? &#x2013; I forget; &#x2013;
+but it is what Dorian Gray has
+been to me. The merely visible
+presence of this [-boy-] [<sup>lad</sup>], though
+[-twenty summer have shown him-] [<sup>he</sup> is -just- over twenty]
+[-roses less scarlet than his lips-]
+his merely visible presence, ah! I 
+wonder can you realize all that
+that means. Unconsciously he defines
+for me the lines of a fresh
+school, a school that is to have
+in itself all the passion of
+the [&#x2013;&#x2014;] [<sup>romanic</sup>] spirit, all the
+perfection of the spirit that is
+</p>
+
+<p>
+20
+</p>
+
+<p>
+Greek. The harmony of soul and 
+body &#x2013; how much that is! We in
+our madness have separated the two,
+and have invented as a realism that
+is bestial, an ideality that is
+void. Harry! Harry! if you only
+knew what Dorian Gray is [<sup>to</sup> me]! You
+remember that landscape of mine, for
+which Agnew offered me such [&#x2014;] a 
+[-&#x2014;] [<sup>huge</sup>] price, but whcih I would
+not part with? It is one of the
+best things I have ever done. And
+why is it so? Because, while I 
+was painting it, Dorian Gray sat 
+beside me, [-and as he leaned across-]
+[-to look at it, his cheek [<sup>-hair</sup>-] hair just-]
+[-brushed [<sup>-touched</sup> my] my cheek [<sup>-hand</sup>]. The world becomes-]
+[-young to me when I hold his hand,-]
+[-as when I ask him the -&#x2014;]
+[-yield &#x2014; their ----&#x2013;&#x2014;"]
+</p>
+
+<p>
+ "Basil, this is [&#x2013;&#x2014;] [<sup>quite</sup> wonderful. I]
+[<sup>must</sup> see Dorian Gray] [-not talk--&#x2013;&#x2014;with you-]
+[---------&#x2013;&#x2014;his power, you-]
+[-------&#x2013;&#x2014;to make yourself-]
+[-the--&#x2013;&#x2014;of&#x2014;slave! It is-]
+[-worse than wicked, it is silly. I-]
+[-hate Dorian Gray-]"
+</p>
+
+<p>
+ Hallward got up from the seat, 
+and walked up and down the 
+garden. [-A curious smile curled-]
+[-his lips. He seemed like a man-]
+[-in a dream-]. After some time he 
+came back. ‘You don’t understand
+</p>
+
+<p>
+21
+</p>
+
+<p>
+Harry&#x2026;" he said. "Dorian Gray is 
+merely to me a motive in art. He 
+is never more present in my work,
+then when no image of him is 
+there. He is simply a suggestion, as 
+I have said, of a new manner. I see 
+him in the curves of certain lines, in 
+the loveliness and subtleties of 
+certain colours. That is all."
+</p>
+
+<p>
+ "Then why won’t you exhibit his 
+[-picture-] [<sup>portrait</sup>]?"
+</p>
+
+<p>
+ "Because I have put into it [<sup>all</sup>] the 
+[<sup>extraordinary</sup>] romance of which, [<sup>of</sup> course,] I have never
+dared to speak to him. He knows 
+nothing about it, [<sup>he</sup> will never know anything about it] but the world 
+[-would-] [<sup>might</sup>] guess it, and [-where there is-]
+[-merely love, they would see something-]
+[-evil, where there is spectacular passion-]
+[, they would suggest something vile], I 
+will not bear my soul to their 
+shallow [<sup>prying</sup>] eyes. My heart shall 
+[-not be made their mockery-] [<sup>never</sup> be put under their microscope] . There 
+is too much of myself in [&#x2014;] [<sup>the</sup> thing,]
+Harry, too much of myself!"
+</p>
+
+<p>
+ "Poets are not so scrupulous as
+you are. They know how useful 
+passion is for publication. Now-a-days
+a broken heart will run to 
+many editions."
+</p>
+
+<p>
+ "I hate them for it. An artist
+should create beautiful things, but
+should put nothing of his own life
+into them. We live in an age which
+</p>
+
+<p>
+22
+</p>
+
+<p>
+men treat art as if it were meant
+to be an autobiography. We have
+lost the abstract sense of beauty. If
+I live I will show the world what
+it is, and for that lesson the world
+shall never see my portrait of Dorian
+Gray."
+</p>
+
+<p>
+ "I think you are wrong, Basil, but
+I won't argue with you. It is only
+the intellectually lost who ever
+argue. Tell me; is Dorian Gray very
+fond of you?"
+</p>
+
+<p>
+ Hallward considers for a few
+moments. "He likes me," he answered
+after a pause; "I know he likes me.
+Of course I flatter him dreadfully.
+I find a strange pleasure in saying
+things to him that I know I [-will-] [<sup>shall</sup>]
+be sorry for having said. I give
+myself away. [-I told him that-]
+[-beauty like his is genius, is higher-]
+[^&#x2014;] ][-than genius, as it needs no-]
+[-explanation, and is one of the great-]
+[-facts of the world, like sunlight-]
+[-or spring time, or-] [<sup>-what</sup> &#x2013;&#x2014;] [-the explanation in-]
+[-dark waters of that thin silver-]
+[-shell we call the moon.-] As a 
+rule, he is charming to me, and
+we walk home together, from the 
+club, arm in arm, or sit in the
+studio [-&#x2014; each other-] and talk
+of a thousand things. Now and then,
+[^&#x2014;] [-the -----------------&#x2013;&#x2014;]
+however, he is horribly thoughtless, and
+</p>
+
+<p>
+23
+</p>
+
+<p>
+seems to take a real delight in giving
+me pain. Then I feel, Harry, that
+I have given away my whole soul to someone
+[-seems to take a real delight in-]
+[-giving me pain. I can quite-]
+[-understand it. I can imagine-]
+[-myself doing it. But not to him,-]
+[-not to him. Once or twice we have-]
+[-been away together, then I have-] [<sup>had</sup>] [-him-]
+[-all to myself. I am horribly-]
+[-jealous of him, of course. I never-]
+[-let him talk to me of the-]
+[-people he knows. I like to isolate-]
+[-him from the rest of life, and to-]
+[-think that he absolutely belongs to-]
+[-me. He does not, I know. But it-]
+[-gives me pleasure to think that-]
+[-he does. Harry! I have given this-]
+[-boy-] [<sup>-young</sup> man-] [-my whole &#x2013;&#x2014;] [<sup>who</sup>] treats    &lt;------------&#x2013;&#x2014;
+it as if it were a flower to
+put in his coat, a bit of
+decoration to charm his vanity, an
+ornament for a summer's day."
+</p>
+
+<p>
+ "Days in summer, Basil, are apt
+[-wax long-] [<sup>to</sup> linger]. Perhaps you will tire
+ssooner than he will. It is a
+sbad thing to think of, but there 
+iis no doubt that genius lasts
+llonger than beauty. That accounts
+ffor the fact that [<sup>we</sup> all take such pains] [-we are all-]
+[[-horribly overeducated-] [<sup>to</sup> overeducate ourselves] in the wold
+sstruggle for existence, we want to
+hhave something that endures, and so
+wwe fill our minds with rubbish and
+ffacts, in the silly hope of keeping
+oour place. The thoroughly well-informed
+</p>
+
+<p>
+224
+</p>
+
+<p>
+mman &#x2013; that is [<sup>the</sup> modern ideal]. [-what we all try to-]
+[[-be-] And the mind of the thoroughly
+wwell-informed man is a dreadful
+tthing. It is like a bric-a-brac 
+sshop, all monsters and dust, and
+eevery thing priced above its proper
+vvalue. I think you will tire first,
+aall the same. Some day you will
+llook at him, and he will seem to
+yyou to be a little out of drawing,
+oor you won't like his tone of 
+ccolour, or something. You will bitterly
+rreproach him in your own heart,
+aand seriously think that he has behaved
+[[&#x2014;] [<sup>very</sup> badly to] you. The next time he 
+ccalls, you will be perfectly cold
+aand indifferent. It will be a
+ggreat pity, for it will alter you.
+Tthe worst of having a romance is
+that it makes one so unromantic.
+</p>
+
+<p>
+ "Harry, don't talk like that. [-I-]
+[-am not afriad of things, but I-]
+[-am afraid of words. I cannot-]
+[-understand how it is that no-]
+[-prophecy has ever been fulfilled. None-]
+[-has, I know. And yet it seems to-]
+[-me that to say a thing, is to-]
+[-bring it to pass. Whatever has found-]
+[-expression becomes true, and what-]
+[-has not found expression can never-]
+[-happen. As for genius lasting longer-] 
+[-than beauty &#x2013; it is only the-]
+[-transitory that stirs me. What is-]
+</p>
+
+<p>
+25
+</p>
+
+<p>
+[-permanent is monotonous, and-]
+[-produces no effect. Our senses-]
+[-become dulled by what is always-]
+[-with us-]. As long as I like, the
+personality of Dorian Gray will 
+dominate me. [-If it -&#x2013;&#x2014;]
+[-memory, threr will be a magic in-]
+[-it----&#x2013;&#x2014;dream it-]
+[-will be more real than reality-]
+You [-cannot-] [<sup>can</sup>'t] [&#x2013;&#x2014;] [<sup>feel</sup>] what I feel.
+You change too often."
+</p>
+
+<p>
+ "Ah! My dear Basil, that is 
+exactly why I can feel it. Those
+who are faithful know only the
+pleasures of love, it is the 
+faithless who know love's tragedie," and
+Lord Henry struck a light on
+a dainy silver case, and began 
+to smoke a cigarette with a 
+self-conscious and self-satisfied
+air, as if he had summed up
+life in a phrase. There was a
+rustle of chirriping sparrows in the
+ivy, and the blue cloud-shadows
+chased themselves across the grass
+like swallows. How pleasant it
+was in the garden! And how 
+delightful other people's emotions
+were! Much more delightful than
+their ideas, it seemed to him. One's 
+own soul, and the passions of 
+one's friends &#x2013; those were the 
+fascinating things in life. He thought
+</p>
+
+<p>
+26
+</p>
+
+<p>
+with pleasure of the tedious luncheon 
+that he had missed by staying so long
+with Basil Hallward. Had he gone
+to his aunt's, he would have been
+quite sure to have met Lord 
+Goodbody there, and the whole conversation
+would have been about the housing
+of the poor, and the necessity for model
+lodging-houses. It was charming to 
+have escaped all that! As he
+thought of his aunt, an idea 
+seemed to strike him. He turned to
+Hallward, and said "My dear
+fellow, I have just remembered."
+</p>
+
+<p>
+"Rememberd what, Harry?"
+</p>
+
+<p>
+ "Where I heard the name of Dorian
+Gray."
+</p>
+
+<p>
+ "Where [-I heard the name of-] was
+it?" Asked Hallward, with a
+slight frown.
+</p>
+
+<p>
+ "Don't look so angry, Basil. It
+was at my aunt's, Lady 
+Agatha's. She told me she had
+discovered a wonderful young
+man, who was going to help
+her in the East End, and that
+his name was Dorian Gray. I am
+bound to state that she never
+told me he was good-looking.
+Women have no appreciation of
+good looks. At least, good
+women have not. She saw that
+he was very earnets, and had
+</p>
+
+<p>
+27
+</p>
+
+<p>
+a beautiful nature. I at once
+pictured to myself a creature
+with spectacles and -no-] [<sup>lank</sup>] hair, horribly
+freckled, and [<sup>tramping</sup> about on] [-with-] huge feet. I
+wish I had known it was your
+friend."
+</p>
+
+<p>
+ "I am glad you didn't, 
+Harry."
+</p>
+
+<p>
+"Why?"
+</p>
+
+<p>
+"I don't want you to meet him."
+</p>
+
+<p>
+ "Mr. Dorian Gray is in the studio, Sir"
+said the butler coming into the 
+garden.
+</p>
+
+<p>
+ "you must introduce me now," [-said-] [<sup>cried</sup>]
+Lord Henry, laughing.
+</p>
+
+<p>
+ Basil Hallward turned to the
+[-servant-] [<sup>butler</sup>] who stood blinking in the
+sunlight. "Ask Mr. Gray to wait,
+Parker; I will be in in a few 
+moments." The man bowed, and 
+went up the walk.
+</p>
+
+<p>
+ Then he looked at Lord Henry.
+"Dorian Gray is my dearest friend,"
+he said. "He has a simple and
+a beautiful nature. Your aunt 
+was quite right in what she
+said of him. Don't spoil him
+for me. Don't ry to influence
+him. Your influence would be
+bad. The world is wide, and
+has many marvellous people in
+it. Don't take away from me the
+one person that makes life [-lovely-]
+</p>
+
+<p>
+27B
+</p>
+
+<p>
+absolutely lovely to me, and that
+gives me my art whatever wonder
+or charm it possesses. Mind, Harry,
+I trust you." He spoke very slowly,
+and the words seemed wrung out of 
+him as almost against his will.
+</p>
+
+<p>
+ "What nonsense you talk," said
+Lord Henry smiling, and, taking
+Hallward by the arm, he almost
+led him into the house.
+</p>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Filipa  Calado</p>
+<p class="date">Created: 2021-06-04 Fri 12:31</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>

@@ -1,0 +1,831 @@
+* Chapter One Sketch
+
+Revising the first draft. 
+
+** the fantasy of the falsifiable 
+Paranoid reading methods encourage a reproducible kind of criticism
+that doesn't teach us anything novel about gender. How do we get out
+of the cycle of reproducibility?
+
+*** intro - computing queerness
+The question: how do we deform a text to bring out new forms of
+gender?
+
+*** reading methods
+Paranoid reading is about expressing something something hidden. This
+reading style encourages reproducibility in criticism, turning 
+reading into a mechanical practice that searches for what is hidden
+rather than what is on the surface ofthe text.
+
+*** DR begins in the falsifiable, toward reproducibility
+Distant reading furthers this reproductive impulse in paranoid
+reading. The paranoia to analyze vast swaths of literary history. 
+
+Franco Moretti's scholarship has been invested in riding the critic of
+subjectivity, in creating a reproducible (to the point of automating)
+analysis. 
+
+Reproducibility is so paranoid that even those who disagree with
+quantification think of it as a benchmark (Da).
+
+*** Ramsay and Drucker's speculative methods
+There are critics doing speculative work--using computers as an
+opportunity for critical analysis (Ramsay) and using them to engage
+with data that is reduced or flattened (Drucker).
+
+*** orientation makes the difference: falsifiable v speculative
+The difference between the falsifiable and the speculative--the
+falsifiable creates a reproducible critique.
+
+*** reading for social categories SoRoland
+Reproducibility blocks out other relation to text, especially aspects
+that are slippery or marginalized, such as gender. There are attempts
+to use DR for this kind of social analysis. SoRoland uses machine
+learning to explore the constructedness of social
+categories--whiteness as a category depends on blackness. They also
+find material speculation in the form of an error, something
+unexpected that yields a new reading. They conclude that machine is an
+apt tool for studying race because it similarly uses highly
+constructed and reductive methodologies.
+
+*** Underwood: reproducing gender
+Underwood uses statistical modeling to study how words associated with
+gender change over time. The way that Underwood studies gender is by
+associating adjectives with male/female and then making
+predictions. Input leads to output. Underwood's method and approach
+reify the structure of gender as a binary. He approaches gender as
+something to be settled, reproduced and verified. 
+
+*** Mandell: deconstructing/multiplying gender
+Mandell criticizes the reduction of gender into the M/F binary, and
+instead explores new taxonomies of gender by seeing how "genre" cuts
+across gender and is part of its constitution. She is deconstructing
+gender by analyzing genre. She argues that computers are ideal
+for "breaking down the strength of the signal", and "computation
+enables complexity". There is a potential for animation of data.
+
+However, gender is actually more constrained than Mandell allows. It
+constitutes subjectivity, not "highly imitable." We ought to look to
+the ways that gender constitutes subjectivity.
+
+*** computation & gender mutually enlightening
+The computer enables complexity, but only under certain
+constraints. As it turns out, computation, like gender, is also
+constrained. Gender and computation can be mutually enlightening,
+seeing constraint in form. Like SoRoland says, computation is good for
+deconstructing, but we can also do this within a speculative mode,
+like Ramsay/Drucker, starting with the error, and moving out. 
+
+
+** deformance and preformance
+This section poses text analysis, where textual data is cleaned,
+structured, and normalized for computation, against the process of
+performativity. Here, I am looking at how these two phenomena--gender
+performance and text analysis--might coincide. I also review some DH
+practices that engage elements of performativity, to highlight some
+critical approaches that use this concept.
+
+if gender is a series of acts, of repetitions, so is the process of
+text analysis. 
+
+*** NLTK
+Look at the constrained nature of regularization -- briefly!
+
+*** constraints of computational lit crit
+McGann, Bode, Clement: how critics in English studies have approached
+the constraints of computation into their work --- by harnessing
+attention, abstraction, speculation.
+
+*** queer performance
+Now, look at gender as a constraint. In performative acts, the
+repudiated terms (like 'queer') is what has the power to disrupt
+existing significatory schemas. 
+
+*** example of performative citation: Irigaray
+Repetition displaces the logic of the signifying structure. 
+
+*** preserving the unintelligible
+the key to disrupting without doing violence (making
+representationalist claims) is to never try to keep the unintelligible
+outside, preserve it for continual resignification. 
+
+
+** queer distant reading
+An iterative method of distant reading attends to gender as an
+iterative practice. We find ever expanding ways that gender is
+characterized in /Orlando/. 
+
+*** bode and butler parallel on language productivity
+There is something fundamentally productive about language
+
+*** reproducibility reduces data
+Reproducibility reduces data into abstractable, "simple picture"
+forms which perpetuate themselves.
+
+*** shifting to the speculative
+But we might use deformance and performance to harness reduction
+toward speculative ends.
+
+*** orlando close reading - gender as enabling constraint
+For example, in Orlando, how does gender constrain other elements of
+the text? Not in a way that hides/makes elements latent, but explores
+what is on the surface? Close reading of gender in the novel finds
+that it is related to language and the significatory power of
+language. As Orlando settles into her gender, she is also able to find
+the ability to mean, and the narrator can use experimental strategies
+for telling the story.
+
+*** TODO Man and Woman in Orlando
+Qe are resignifying man and woman to mean differently in Orland by
+creating a model of their significations.
+
+*** TODO modeling gender distinctiveness
+make a model of the way that the genders distinguish themselves in the
+novel---imaginative elaborations of gender. 
+
+*** TODO iterating over the code resignifies it
+running the computation over and over again with new inputs is a way
+of resignifying. Like a game of telephone.
+
+*** TODO findings: new configurations of gender
+what do we find out about gender here? how does this change the way we
+approach this text?
+
+*** TODO the power of the imagination
+this process reveals the hidden "enabling structure" of the imagination
+
+*** TODO conclusion: performative citation queers distant reading
+insubordination through subservience, displacement through repetition
+
+
+** networkx visualization
+
+Using networkx to make a network graph of terms related to "woman" and
+"man" in Orlando. 
+
+The nodes are the terms, and the edges connect terms that have been
+computed as ~similar_words()~. 
+
+For the first level, create a list of words that are similar to
+woman. Then, create a nested list of words that are similar to the
+first level of similar words. Finally, add the nodes and edges for the
+first level of similar words.
+
+For the second level, create a dict which will take key:list of values
+relationships as node & edge pairs.
+- First, create a list of second level similar words, filtering out the
+  term 'woman' (and any duplicates?  maybe later). 
+- Second, create a dict that with the key 'woman' and a list of values
+  that are first level similar words. Then, create more keys of each
+  of the first level similar words. To those keys, add lists of words
+  computed to be similar to them.
+
+This worked. Now I'm going to 
+
+
+
+
+** reading notes
+
+*** orlando close reading & scholarship
+
+**** Benzel, Kathryn N. 
+"Reading readers in Virginia Woolf's Orlando: A Biography." Style,
+Summer 1994, p. 169+.
+
+Emphasizes the role of the reader in creating meaning in the
+text. Woolf writes in a way that creates multiple levels of meaning,
+inviting the reader's interpretation. 
+
+The space break exemplifies this--creating literal space--an absence
+of evidence--for the reader to speculate. An absence which the reader
+has to fill in. 
+
+**** Berman, Jessica. 
+“Is the Trans in Transnational the Trans in Transgender?"
+Modernism/modernity, vol. 24 no. 2, 2017, pp. 217-244. Project MUSE,
+doi:10.1353/mod.2017.0019
+
+The novel is a "trans text" (218) that interrogates the structures and
+boundaries of nationality by challenging the concept of embodied
+identity. "The transnational situation as also intrinsically
+transgender" (218). Shows us the ways that bodies are marked and
+categorized (221). 
+
+**** Burns, Christy L.
+“Re-Dressing Feminist Identities: Tensions between Essential and
+Constructed Selves in Virginia Woolf's Orlando.” Twentieth Century
+Literature, vol. 40, no. 3, 1994, pp. 342–364. JSTOR,
+www.jstor.org/stable/441560.
+
+The novel challenges "essentialized" concepts of femininity. Notions
+of stable identity and biography are parodied. 
+
+**** Caughie, Pamela. "Virginia Woolf's Double Discourse," 1989. 
+ 
+Orlando is feminist for the way it precludes or obsures or refuses any
+straightforward understanding of identity, sex, language. (41) 
+
+"This sexual and textual indeterminacy links language and identity. As
+the androgynous Orlando brings the question of sexual identity to the
+fore, the obtrustive narrator brings the textual language to the fore
+by intruding to discuss how own art" (42). 
+
+"Double discourse" - "what appears to be an opposition between
+positions is tolerated as difference without belligerance, as
+different options on a spectrum of possibilities, not a /choice/ of
+position but a /doubling/ of vision" (50). 
+
+"for sex cannot be separated from text, the grammatical from the
+gendered" (51). 
+**** Cervetti, "In the Breeches, Petticoats, and Pleasures of Orlando"
+(1996). 
+
+Take orlando out of the details of Woolf's life, not a biography or a
+love letter, but a feminist statement on gender, identity, and the
+body (165). 
+
+The criniline and its effect on her personality/behavior (the body):
+"clothing alters the physical body" (169). 
+
+**** Channing, Jill.
+"Magical realism and gender variability in Orlando." Virginia Woolf
+Miscellany, no. 67, 2005, p. 11+.
+
+Orlando's narrative disruptions of realism and challenges against
+normativity place its genre as magical realist. The sex change is the
+key "irreducible element" where "there is no explanation" (11-12). 
+
+**** de Gay, Jane. 
+"Virginia Woolf's feminist historiography in Orlando." Critical
+Survey, vol. 19, no. 1, 2007, p. 62+.
+
+Novel enacts a "feminist historiography" which rejects victorian
+patriarchal ideologies and metanarratives, instead making history
+"live in the present" ... "for Woolf, the imagination provided the
+only satisfactory medium for embracing the past" (71). 
+
+**** Hovey, Jaime. 
+“‘Kissing a Negress in the Dark’: Englishness as a Masquerade in
+Woolf's Orlando.” /PMLA/, vol. 112, no. 3, 1997, pp. 393–404. JSTOR,
+www.jstor.org/stable/462948.
+
+Examines racial and gendered strictures of nationalism from a
+privileged position of british white femininity.
+
+Orlando is "an ambivalent articulation of English nationalism," how
+that nationalism intersects with (and depents on) gender and race
+(394). "Orlando critiques whiteness and heterosexuality ambivalently
+and unevenly," using radialized and sexually transgresive subjects in
+a way that "allows the protagonist to pass as respectible and
+heterosexual" (398). Although Orlando challenges compulsory
+heterosexuality of national identity, she does so by appropriating
+otherness; uses femininity to hint at this playfully, taking advantage
+of white femininity.
+
+**** Knopp, Sherron E. 
+“‘If I Saw You Would You Kiss Me?": Sapphism and the Subversiveness of
+Virginia Woolf's Orlando.” /PMLA/, vol. 103, no. 1, 1988,
+pp. 24–34. JSTOR, www.jstor.org/stable/462459.
+
+Orlando is an extention of Woolf's love for Vita; representing Vita's
+life, her loves and choices. Not sexually explicit but still sexual;
+It is a coded love letter, but "the central relationship is between
+Orlando and the biographer" (29). 
+
+**** Micir, Melanie. 
+"The queer timing of Orlando: a biography." Virginia Woolf Miscellany,
+no. 82, 2012, p. 11+.
+
+Reading Orlando as a love letter diminishes the other feminist and
+queer readings, of queer time, the way that the novel disrupts
+reproductive futurism. Critiques understanding of time as naturalized,
+of the social scripts that govern timelines: "For Woolf, rupturing the
+generic conventions of biography is a means of unseating(?) the
+keystone of normativity, itself" ().
+
+**** Sadjadi and Hojabli, "Gender, Performance, and Agency in Woolf's
+/Orlando/," 2019.
+
+Gender performativity emerges in "repeated rituals" with clothing and
+social mores, "and the non-identity between sex and gender has been
+emphasized" (21). 
+
+**** Shaffer, Talia. "Posing Orlando," 1994.
+
+Orlando working through performativity. Reading the photos.
+
+"Orlando shows that the categories by which we locate ourselves are
+perpetual performances, proliferating self reproductions" (26).
+
+"The act of imitation [in the photos] does important ideological work,
+for it constructs the present as an endless performance of a past that
+it constructs as essentially empty of meaning" (26). Like Butler's
+"masquerade" in /Gender Trouble/.
+**** Smith, Victoria L. 
+""Ransacking the Language": Finding the Missing Goods in Virginia
+Woolf's Orlando."/.Journal of Modern Literature/, vol. 29 no. 4, 2006,
+pp. 57-75. Project MUSE, doi:10.1353/jml.2006.0050
+
+Orlando explores the limits of representation in narrative, reality,
+identity, gender. "The fantastic content in the novel is directly
+linked to the undecidability/impossibility of the form of the novel
+and of the protagonist" (58). 
+
+The novel "thematizes within the text how representation or, rather
+more particularly, how literary language finds itself at a loss"
+(68). "The text offers a recuperation of the object while bemoaning
+the inadequacy of language" (68). Thus, the Sasha episode, the
+description of nature, the indescribable love for Shel. 
+
+The "doubleness of language... laments inadequacies while effectively
+and fantastically achieving her ends" (69). 
+
+**** Rado, Lisa. "Would the Real Virginia Woolf Please Stand
+Up?" 1997. 
+
+"Woolf appropriated the figure of the androgyne to generate the create
+inspiration and artistic authority she felt she lacked" (150). One
+result is a repression of her body, the female body. Orlando is
+overlooked, not seen as serious, by scholarship (150-151).
+
+"Attempting to employ an androgynous movel of the imagination involves
+the painful and continuous repression of the body that ultimate
+indicator of sexual difference" (157-8). The trances, sasha, shel
+demonstrate this.
+
+**** Rongstad, "The Representation of Gender in Woolf's
+/Orlando/," 2012.
+
+Gender performance in clothing and costumes, shows gender is
+constructed (54). Personality is satble while gender shifts with
+clothing. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*** Critiques of Butler
+
+**** Geoff Boucher, "The Politics of Performativity":
+
+Butler locates the "potential for subversion" "in a disembodied
+intentionality that appears to stand outside of the
+culturally-scripted subject positions that the individual occupies"
+(115). 
+
+"Gender performances... are subjectless procedures of a discursive
+formation" (116). 
+
+"Who (or what) decides 'how to repeat'? On what basis is the ecision
+to subvert power made?" (119). 
+
+"free-floating intentionality" (119).
+
+In other writing on Althusser, however, Butler relies on a
+pre-discursive desire for recognition, a "primary narcissism" (121)
+which explains "where the intentionality that drives gender parody is
+located" (121). 
+
+**** Prosser, Jay. /Second Skins: The Body Narratives of
+Trannsexuality/, Columbia U Press, 1998. 
+
+Prosser's main argument is that queer theory, and gender
+performativity in particular, has relied on transgender
+identification in ways that elide the specificity of the trans body. 
+
+"The question of how to represent the narratives of
+transsexuality... to put into narrative its remarkable bodily
+trajectories" (4). 
+
+Goal is to read the materiality of transsexual body into narratives:
+"To bring into view the mateirality of the body" (12).  
+
+Critique of Butler and queer theory generally: Butler considers
+"transitions as discursive but not explored in the bodiliness of
+gendered crossings" (6). 
+
+Butler's work considers gender, not sex, crossings, sex is "what was
+beneath the favored terrain of performativity" (6). Transsexuality is
+about embodiment. 
+- "deliteralization of sex" - displaced from materiality to fantacized
+  surface.
+- on "Gender is Burning" in BTM: "According to Butler, transgressive
+crossings can simultaneously reinscribe symbolic norms" (45). There is
+a "metaphorization of the transsexual body" (55). If Venus got her sex
+change, she would cease to be subversive" (49). This is a "critical
+perversity" (49). 
+
+Queer studies has depended on the transgender, has relied on
+transgender desires (21).
+
+Critique of Sedgwick: Theorizing about homosexuality relies on
+cross-gendered identifications. In /Between Men/, normative sexuality
+depends on male identification, and the avowal of such, with women as
+objects of desire (22). 
+
+
+
+Criticism:
+
+"transsexuality's somatic transitions are spurred and enabled by the
+formal transitions of narrative... Sex change is a plot... [Prosser's
+book suggests transsexuality, with its extraordinary conjunctions of
+body and narrative, as an identity story that transitions across the
+body/language divide that currently stalls poststucturalist thought."
+
+From Judith Halberstam's review: 
+
+  Second Skins: The Body Narratives of Transsexuality. Jay Prosser
+  Trans Liberation: Beyond Pink or Blue. Leslie Feinberg FTM:
+  Female-to-Male Transsexuals in Society. Holly Devor Judith Halberstam
+  /Signs: Journal of Women in Culture and Society/ 2000 26:1, 313-317
+
+  "Jay Prosser delineates three major areas for discussion: first,
+  the (mis)representation of the transgender body within queer theory
+  as a privileged example of gender performativity" (313).
+
+   "In a discussion of poststructuralist treatments of the transsexual
+   body, Prosser vigorously contests the notion that the body is
+   simply an inscribed surface or a discursive effect; such a reading
+   of the body becomes particularly problematic for the transsexual
+   whose desire for a sex change suggests a return to the literal, the
+   real, the intractable flesh" (314).
+
+   "In a dense and complex chapter on the work of Judith Butler,
+   Prosser argues that her texts, central as they are to queer theory,
+   simultaneously invoke and repudiate the transsexual body as a
+   figure for gender crossing.  In Gender Trouble, Prosser argues, the
+   transgender figures of the drag queen and the butch lesbian "come
+   to appear the empirical subjects of gender performativity, their
+   crossing illustrating both the inessentiality of sex and the
+   nonoriginality of heterosexuality that was the book's thesis"
+   (26). And yet, when Butler shifts her gaze from the transgender
+   figure to the transsexual in /Bodies That Matter/, the transsexual
+   represents a limit to performativity. Prosser claims that, while
+   transgender and queer may be allied in Butler's work, transsexual
+   and queer are most certainly in opposition.  Prosser's reading of
+   Butler is crucial to the political stakes of his book.  In true
+   deconstructive fashion, he aims his critical attention at Butler's
+   mis- reading of a footnote in Freud about the relationship between
+   body and ego. When she misreads /ego/ as /body/, Prosser claims,
+   Butler dematerializes the body as a fantasy/fiction of the ego
+   while Freud wanted to make the body the materialization of the
+   psyche. This misreading sets up a series of priorities for queer
+   performativity that are all at odds with transsexuality.
+   Accordingly, Prosser understands queer theory to validate surface
+   over depth, gender over sex, fiction over the real, the visual over
+   the felt, the queer over the heterosexual. "In its representation
+   of sex as a figurative effect of straight gender's constative
+   performance," he claims, "/Gender Trouble/ cannot account for the
+   transsexual desire for sexed embodiment S I G N S Autumn 2000 1 315
+   /telos/" (33). I think Prosser's reading of Butler is compelling,
+   and it is partic- ularly persuasive when Prosser tackles the most
+   problematic chapter in /Bodies That Matter/, a close reading of the
+   limits of performativity in relation to the transsexual drag queens
+   in Jennie Livingston's film /Paris is Burning/." (314-315)
+  
+
+** BANK etc
+
+*** biographer's struggle with crisis of signification
+Interestingly, moments in the novel that convey this crisis in
+signification occur across two levels of the story, that is, within
+the central action of Orlando's life, and also within the narration
+itself, by the biographer who endeavors to relate Orlando's life to
+the reader. 
+
+
+
+*** toy boat and space break
+
+After Orlando's sex change, her issues with language begin to resolve,
+and language suddenly takes on significatory power. In one scene,
+Orlando watches a toy boat on a river in Hyde Park. When the boat
+disappears then re-emerges on the other side of the wavelet, Orlando
+suddenly realizes that language can take on extraordinary
+significatory power, in which a "toy boat" can mean "ecstasy":
+#+BEGIN_QUOTE
+'A toy boat, a toy boat, a toy boat,' she repeated, thus enforcing upon
+herself the fact that it is not articles by Nick Greene on John Donne nor
+eight-hour bills nor covenants nor factory acts that matter; it's
+something useless, sudden, violent; something that costs a life; red,
+blue, purple; a spirit; a splash; like those hyacinths (she was passing a
+fine bed of them); free from taint, dependence, soilure of humanity or
+care for one's kind; something rash, ridiculous, like my hyacinth,
+husband I mean, Bonthrop: that's what it is--a toy boat on the
+Serpentine, ecstasy--it's ecstasy that matters. 
+#+END_QUOTE
+In direct contrast to the earlier scene, where Orlando "despaired of
+being able to solve the problem of what poetry is and what truth is
+and fell into a deep dejection" (75), language now has the power to
+signify. This concentration of meaning, in which "a toy boat" and
+"ecstasy" are reduced to a common denominator of an ecstatic feeling,
+elevates the potential for language to express. The symmetry of these
+two episodes, which occur on opposite sides of the sex change, show
+how Orlando moves beyond a disappointment in the limitations of
+language for expression to a credibility in its power to mean.
+
+As Orlando resolves her struggle with language, so does the
+biographer. As the story progresses, the biographer increasingly drops
+his pretension toward accuracy and boldly speculates upon events of
+Orlando's life, for example, when Orlando first meets her lover Shel:
+#+BEGIN_QUOTE
+'Shel, my darling,' she began again, 'tell me...' and so they talked
+two hours or more, perhaps about Cape Horn, perhaps not, and really it
+would profit little to write down what they said, for they knew each
+other so well that they could say anything, which is tantamount to
+saying nothing, or saying such stupid, prosy things as how to cook an
+omelette, or where to buy the best boots in London, things which have
+no lustre taken from their setting, yet are positively of amazing
+beauty within it. For it has come about, by the wise economy of
+nature, that our modern spirit can almost dispense with language; the
+commonest expressions do, since no expressions do; hence the most
+ordinary conversation is often the most poetic, and the most poetic is
+precisely that which cannot be written down. For which reasons we
+leave a great blank here, which must be taken to indicate that the
+space is filled to repletion.
+#+END_QUOTE
+The use of the space break, which is meant to signify everything that
+passes between Orlando and Shel and more ("it is filled to repletion")
+functions by signifying nothing. According to critics like Katheryn
+N. Benzel, this moment creates literal space for the reader to fill in
+with her own interpretation of the scene. And Caughie points out, such
+a device works "not because of what it says about sexual identity but
+because of what it manages not to say," which reinfoces what she calls
+the "double discourse" of the novel (Caughie 41). The text creates
+oppositions, even paradoxes, which purposefully cannot be resolved,
+such as "the most ordinary conversation is often the most poetic, and
+the most poetic is precisely that which cannot be written down." As a
+formal device, the space break works to reinforce the capacity to
+signify through language, even while, to repeat Smith's words,
+"bemoaning the inadequacy of language" (Smith 68).
+
+
+
+*** Queer distant reading
+For this reason, I argue (and demonstrate below) how the study of
+gender in the text can be accomplished through a quantitative analysis
+of language. This quantitative analysis of language attends to gender
+as an /iterative/ practice, rather than a /reproducible/ one which as
+Underwood and Da demonstrate, reifies already existing conceptual
+structures that bind social categories like gender. Underwood readily
+admits that his work has "discovered stable 'structural positions'
+only because it explores gender, for the most part, as a binary
+opposition" (/Distant Horizons/ 140). This work, by contrast, turns to
+the iteration--which cuts across both text analysis methods with NLTK
+and Butler's theory of gender performativity--as the key for
+understanding how a repetitive practice (like that of performative
+citation) will reveal the expanding ways that gender is characterized
+in /Orlando/. By shifting the understanding of reproducibility to
+iteration, I apply the particular constraint of this tool, which is
+repetition, to interpret elements of gender and sexuality in the text.
+
+The idea of taking performativity into a methodology for digital
+scholarship is not new. In particular, Katherine Bode's critical
+approach, what she calls "performative materiality," draws from, not
+Bulter's ideas about gender, but feminist scientist Karen Barad's
+studies of quantum physics. This approach takes Barad's concept of
+"agential realism," that objects in the world do not precede their
+actions, but emerge through particular "intra-actions," and applies it
+to her quantitative analysis of literary databases (Barad 58). Bode
+brings Barad's "agential realism" from theoretical physics to explain
+the /productive/ qualites of using computational analysis to study
+literary databases. She approaches data as "effects of material-semiotic
+engagements," where "entities don’t pre-exist engagements but
+are generated in an ongoing or emergent way, by those intra-actions"
+("Data Beyond Represenation" par. 15, 2). For Bode, attention to
+performative materiality encourages scholars to focus on the material
+processes of using their tools, rather than attempt to secure a
+factual or objective status of data.
+
+Though they are dealing with vastly different objects of study, Bode
+and Butler both converge on their critique of reproducibility, or
+"representationalist" methods, and the proposal of a
+counter-methodology, which is "productive" through iteration. The
+productive approach, according to Bode, understands data "as part of
+the ongoing materialisation of literary texts, as emerging events
+always arising from an altering how the literary past as reconfigured"
+(Bode "Computational Modeling: From Data Representation to
+Performative Materiality"). Similarly, Butler distinguishes a
+representationalist approach toward language and materiality, in which
+language can refer to materiality as something that is prior, against
+the performative approach, by which language works through repetition
+to resignify meaning:
+#+BEGIN_QUOTE
+If the body signified as prior to signifiation is an effect of
+signification, then the mimetic or representational status of
+language, which claims that signs follow bodies as their necessary
+mirrors, is not mimetic at all. On the contrary, it is productive,
+constitutive, one might even argue performative, inasmuch as this
+signifying act delimits and contours the body that it then claims to
+find prior to any and all signifcation. Butler 6
+#+END_QUOTE
+This alignment between Bode and Butler centers on the productive power
+of iteration in resignifying meaning. There is something fundamentally
+productive about the process of iteration, which has nothing to do
+with representing or re-representing some real quality or object in
+the world, but with the way that iteration constitutes and
+re-constitutes meaning.
+
+In what follows, I use NLTK to analyze gender in /Orlando/. Drawing my
+methodology from Butler's concept of performative citation, I compute
+the words associated with "woman" and "man" within the text, with the
+end goal of visualizing theses various associations in a network
+graph, that is, a web of of "re-significations" of the words "woman"
+and "man."  See Appendix A for a copy of the program code.
+
+I begin the process by running the ~similar_words()~ method, which
+takes a word, such as "woman," and returns the top words that appear
+most similarly to that word in the text. The NLTK documentation
+explains that similarity is computed by processing the words that
+directly surround the given word, or its "context," and finding other
+words that have similar contexts.[fn:1] It then returns a list of the
+most frequent terms which have similar contexts to the given
+word. Below are the words associated with "woman" and "man,"
+respectively:
+
+#+BEGIN_QUOTE
+> similar_words("woman")
+'reached till friend word moment saw always could cried sailor wit
+scarcely petticoat go servant conclusion'
+
+> similar_words("man") 
+'hurry father window tongue carriage still even countrywoman indulged
+old fortune title ship writing fell become always love grown never'
+#+END_QUOTE
+	  
+Each time a text is processed in computation, it is submitted to a
+governing code. In this case of the ~similar_words()~ method, the code
+enforces whatever conditions are contained within the function loop.
+In the source code for the ~similar_words()~ method, there is an ~if
+loop~ that instructs the program to search if the words in the context
+also are associated with other words throughout the text.[fn:14] The
+output therefore is directly constrained to the conditions in the
+input.
+
+However, there are ways to resist this control. Alexander Galloway,
+who writes about the protocols, or control structures, which enable
+network connections, explains that "Protocol is synonymous with
+possibility" (Galloway 167). Galloway shows how protocols that drive
+the internet connectivity, such as DNS and ISP, are instituted through
+code, which must conform to a certain standard in order to
+successfully communicate. For Galloway, resistance is possible by
+manipulating the controlling structure by coopting its protocol. In
+this case, I take the constraint of iterativity, which is contained
+within the repetitive processes of the ~similar_words()~ method, and
+feed new data into its computation. For example, when I feed the
+output of the first computation to a new one, running
+~similar_words()~ method again, it results in an exapanded list of
+words that are associated with "woman" and "man." Below are the
+results of running ~similar_words()~ under these conditions, taking
+the output of the previous calculation for "woman" as new input:
+
+#+BEGIN_SOURCE
+'come friend scarcely make happiness could say wisdom used thing grown
+love shape dog wit saw always explain understood ran time prophet
+indeed word stood met laughing sailor none able mixture allied woman
+fly way year bird might known man toss sake thought reached cried
+leave till account first petticoat fool would roused encumbrance
+become window rust another madam london'
+#+END_SOURCE
+
+Below are the results for the same process, this time with the output
+of for ~similar_words("man")~ as new input: 
+
+#+BEGIN_SOURCE 
+'title come need fault carriage tongue fortune death hungry passion
+gloomy grown love written still must always saw exactly alone almost
+perhaps take word matter determined orlando beautiful hear hurry woman
+boy plump sens man soon little morning full strength whose two father
+monstrously without ever would roused kinsman admit become old window
+sink moment'
+#+END_SOURCE
+
+I may continue to run this ~similar_words()~ analysis, feeding the
+output as new input, to gain an ever expanding sense of words which
+are associated with each gender. However, to avoid what would
+inevitably result in more and more shared terms between the two
+genders, I slightly refine the the input before running the
+computation again. Here, I filter out any words that are shared
+between the categories of "woman" and "man". This filtering will allow
+me to get a better sense of gender distinction in the text. After
+filtering out shared words, and placing the unique associated words
+for "man" and for "woman" into a new list, I run ~similar_words()~
+again, with the following result for words associated "woman":
+
+#+BEGIN_SOURCE
+'among slipping launched child beneath shape new gently prophet indeed
+true knee denied fasten bird hot found finger person bred leave nail
+reflection character hid used month profit green since ran spoke omit
+standing prayer bald frequent good heard scramble try bethink burst
+ring street none may happiness wisdom let draw sawings top summer day
+upstairs went ribbon known catching case thought ask flung fool voyage
+observed minute able people come ala raising gave laughing looked
+third side allied fly might slept suddenly thousand going blackness
+groping rust sag london'
+#+END_SOURCE
+
+And the following result for "man":
+
+#+BEGIN_SOURCE
+'certain need fault wicket agitate hungry long passion talk circle
+ague whatever written turn said explain treachery husband beast
+remembered sleep longer pared filled tell princess deep beard tied
+beautiful hear put mixture profound fumbled inborn rout immovable
+plump awkwardness sens sofa whole mind morning imagine toss many made
+iron blush round set whose raised first part monstrously without
+needing taste story boyish admitted longed insisted looking glance
+pushing'
+#+END_SOURCE
+
+
+
+[[./orlando/second_level_woman.png]]
+[Visualization of gender distinctiveness in /Orlando/ using the python
+networkx module]
+
+The resulting image of gender distinctiveness in /Orlando/ shows how
+the central term, "woman," has expanded over two levels of
+similarity. Here, one can see that clusters form around certain words,
+like "go," "could," "moment," and "wit," for example. Femininity is
+associated at once with action, cognitive ability, and
+conditionality. From a traditionally feminine point of view, some of
+the terms appear fitting, such as "petticoat" and "friend," though
+others appear less so, such as "sailor." Overall, this visualization
+demonstrates an understanding of gender which is perhaps not
+altogether unexpected, but certainly challenges any coherent
+conception of "woman" in this novel. In doing so, it keeps gender
+ontology unresolved. As Pamela Caughie and her team work to visualize
+gender ontology the life narrative of Lili Elbe, one of the first
+persons to undergo gender affirmation surgery, they point out that
+some issues with ontology /should/ remain unresolved: "Confusion in
+gender and sexual terminologies... is part of the experienceof gender
+and sexuality in the modernist era, something to be realized and
+negotiated in readings of the narrative" (239). As Caughie and her
+team struggle to mark gender shifts throughout the text in a way that
+accords with the constraints of the archival methodology, they realize
+that the issue with categorizing gender doesn't need a
+solution. Rather, computational processes and models might be used to
+capture the taxonomic chaos of gender ontology.
+
+Although one may attempt to formalize such a method, my goal is not to
+build reproducible schemas and models for analyzing gender in
+novels. Rather, I look to harness opacity and unintelligibility as
+resources for resisting inclusion. As Butler affirms, "radical and
+inclusive representability is not precisely the goal" (/Bodies/
+25). Resisting the logic of phallogocentrism, the process of
+performative citation--of displacement through repetition--is meant to
+preserve that which is excluded or unintelligible as a resource for
+continual resignification, as "the point of departure for a set of
+historical reflections and futural imaginings" (Butler /Bodies/ 173).
+*** Klein's Image of Absence
+*** gio on voyant / nltk
+    I'm playing around with voyant tools on Giovanni's Room, and realizing
+that my movements are carefully guided by this impression from textual
+scholarship of deformance. At every step I am deforming the text,
+creating a new text, with new potentials for reading. 
+
+This deformance is an iterative process. 
+
+There's a dip in the word "don't" toward the end of the novel, in
+section 9. But when we get get the contexts into its own text
+submission, there's a rise in this same sector. What's going on? 
+
+Turns out, there's a little spike in "don't"s in the middle of chapter
+five, a spike that is surrounded with a dearth of don'ts. This
+explains why there's a dip in the graph on the general text, and an
+uptick in the graph that isolates don'ts from the general text.
+
+This activity calls for closer attention to the area of the spike, and
+its surroundings.
+
+What if we read only the sentences with the word "don't" in them?
+
+*** so this has been done before
+https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/bd5a43c1-bbfe-4c5c-8c0d-c3db1776eb99
+
+
+** more sources
+https://jitp.commons.gc.cuny.edu/numbering-ulysses-digital-humanities-reductivism-and-undergraduate-research/#ftn1
+https://jitp.commons.gc.cuny.edu/data-fail-teaching-data-literacy-with-african-diaspora-digital-humanities/
+
+* commands
+c-c c-x f => create a new footnote
+c-u c-c c-x f then select sort then renumber footnotes
+
+block quotes: #+BEGIN_QUOTE & #+END_QUOTE
+

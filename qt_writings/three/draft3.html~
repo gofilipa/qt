@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2023-06-07 Wed 10:49 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Filipa  Calado" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2019 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org06c8052">1. <i>skinonskinonskin</i></a>
+<ul>
+<li><a href="#org256d065">1.1. haptics -&gt; movement engages source code's "shifts" (torque)</a></li>
+<li><a href="#org2212b9d">1.2. foreclosure - &gt; language &amp; code</a></li>
+<li><a href="#orge74607b">1.3. flash foreclosure</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org06c8052" class="outline-2">
+<h2 id="org06c8052"><span class="section-number-2">1</span> <i>skinonskinonskin</i></h2>
+<div class="outline-text-2" id="text-1">
+<p>
+In what follows, I read the flickering signifiers, this "flexible
+chain of markers bound together by the arbitrary relations specified
+by the relevant codes" ("Virtual" 77). They are productions, they are
+manipulable, they are shifting.  
+</p>
+
+<p>
+<i>skinonskinonskin</i> is a work of "net art" created in collaboration
+between Auriea Harvey and Michael Samyn, who go by the name
+Entropy8Zuper!. <i>skin</i> documents the inception of their love affair,
+which began in an internet chat room in 1999, in the form of a digital
+correspondence of web pages, or "digital love letters".
+("<i>skinonskinonskin</i>" <i>Net Art Anthology</i>).
+</p>
+
+<p>
+By today's technological standards, the net artwork is inaccessible to
+modern browsers. The work consists of HTML (HyperText Markup Language)
+pages animated by now obsolete web browser code (HTML and JavaScript)
+and Flash software. Due to modernization, the browser languages HTML
+and JavaScript use now depreciated elements like <code>&lt;layers&gt;</code> and
+<code>&lt;area&gt;</code> to add animation. Additionally, since Flash technology, a
+compiled software that is not "human-readable", has been discontinued,
+it is very difficult to find solutions for editing and viewing Flash
+elements. Besides the difficulty with authoring languages, it was
+created to run on the Netscape 4 browser which offered, for the time,
+a platform agnostic solution that would render on both Harvey's Mac
+and Samyn's PC. <i>skin</i> takes part in a body electronic work called
+"Electronic Literature," which is now practically
+inaccessible. Electronic Literature, which spans several subgenres,
+like hypertext fiction, network literature, interactive fiction, and
+generative text share a common interest in exploring aesthetics that
+draw from the digitality of the medium.
+</p>
+
+<p>
+In what follows, I am going to discuss this work according to three
+key ideas from black feminist studies: [force], foreclosure, and
+fugitivity.
+</p>
+</div>
+
+<div id="outline-container-org256d065" class="outline-3">
+<h3 id="org256d065"><span class="section-number-3">1.1</span> haptics -&gt; movement engages source code's "shifts" (torque)</h3>
+<div class="outline-text-3" id="text-1-1">
+<p>
+The hypertext work plays with haptic engagement (the hand on the
+mouse) in ways that point to <i>shifts</i> that occur in the underlying
+program code. 
+</p>
+
+<p>
+-&gt; These shifts can be what? What is a "shift" &#x2013; a piece of code that
+executes?  
+</p>
+
+<p>
+-&gt; What is the significance of these shifts? That they are rooted in
+constraints, conditional statements, static images, to engage motion?
+</p>
+
+<p>
+The pages by Samyn, in particular, deploy animation techniques that
+engage the user's physical movement. One page, "air.html," challenges
+the user's tactile ability, requiring precise mouse manipulations in
+order to "move" elements across the page. On this page, the user
+controls two small bodies in horizontal, flying position, as they
+float over a field of a field of rotating lines, which evoke a
+rolling, cyber-landcape. The animations operate like magnets, always
+moving toward the mouse, but the strength of their attraction depends
+on the mouse's speed. By slowing down the speed, the individual bodies
+can touch, but they can never cross each other. Even with the most
+precise movements, Samyn's body remains on the left, while Harvey's is
+on the right. [SEE GIF] The illusion of freedom in floating,
+therefore, has constraints. 
+</p>
+
+<p>
+[include gif of air.html]
+</p>
+
+<p>
+The animation is defined in the JavaScript, in the page's source code.
+Observe the if/else statement for the JavaScript function,
+<code>flyMouse()</code>.
+</p>
+
+<div class="SOURCE">
+<p>
+if ( mouseX &lt; halfW )
+	{
+	var mFactor = 0.1;
+	var aFactor = 0.01;
+	}
+else
+	{
+	var mFactor = 0.01;
+	var aFactor = 0.1;
+	};
+&#x2026;
+dMove('flyingmL','document.',mLeft + thisXDiff*mFactor,mTop + thisYDiff*mFactor);
+&#x2026;
+dMove('flyingaL','document.',aLeft + thisXDiff*aFactor,aTop + thisYDiff*aFactor);
+moveGround();
+</p>
+
+</div>
+
+<p>
+Though the full workings of the source code remain fuzzy (at least to
+me), it is clear that the basics of the animation element relies on an
+if/else statement. Here, the movement of the bodies is conditional on
+their distance between the mouse and the original positioning of the
+bodies on either side of the screen. Depending on this distance, the
+magnetic force for each of the bodies is multiplied against a factor
+of .1 or .01. This results in a stronger movement from Samyn's body
+when the mouse is on the left side of the screen (Samyn's original
+position), and a stronger movement from Harvey's body when the mouse
+is on the right half of the screen. The binary nature of this
+conditional statement&#x2013;it can be true or it can be false, and will
+execute the associated code&#x2013;accords with an animation that is, at its
+core, about dual movement. Here, the movement by the hand and the
+oppsitional constraints which the user comes up against, engage the
+transformations that take place in the code, "under the hood" of the
+work, so to speak.
+</p>
+
+<p>
+Throughout this work, the user engages with HTML and JavaScript code
+via haptics on the browser. The source code endows digital "objects"
+with properties and methods so that they can become manipulable at the
+level of surface. These constructs, which are defined under the hood
+of the browser, enable sensual experiences for the user. 
+</p>
+
+<p>
+One example occurs on "obsessed.html," which contains a view of a
+concentric circles, in green, that move against the cursor in a
+circular motion. The motion of the circles, which are rooted in the
+ummoving center circle, and whose outer layers increase in mobility,
+recall a spring mechanism, flexible yet taut. If "air.html" play with
+magnetic forces, this plays with the opposite, with opposing
+foce. Moving the mouse across the screen pushes the circles away. If
+one, however, moves the mouse to the center of the circle, they settle
+back into a neutral position.
+</p>
+
+<p>
+The center circle, when clicked, leads to a new page, "control.html."
+While the source code for most pages include a title, author, and
+date, this page only contains a title, "you:controlMe." It consists of
+a monochrome green image of Harvey, whose head rolls from side to side
+in the direction of the user's cursor. The effect, which is reinforced
+by the cursor appearing as a pointing hand, as it does when something
+becomes "clickable," is that the user manually turns Havery's head
+from one side to the other by pressure of the
+cursor-as-hand. Additionally, when the user moves Harvey's head from
+side to side, they not only see more or less of her face, but also
+peices of "alt-text" with words like "go" "believe" "ocean" and
+"mind". The [SEE GIF].
+</p>
+
+<p>
+[INSERT GIF]
+</p>
+
+<p>
+There are two interesting things here. The first is the way the
+animation engages directly the sensuality of the human user. Not only
+does the cursor implicate hand movement, in that the user <i>moves</i>
+Harvey's face by passing the mouse over it, but the animation itself
+lends an aura of super-reality. Rather than represent a smooth
+movement from side to side, Harvey's head takes little jumps from one
+position to another. A look into the source code reveals that the
+animation consists of 23 images that loop according to the position of
+the user's mouse. The effect is a slight lag, a series of fleeting
+pauses that intensify Harvey's direct gaze into the camera.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2212b9d" class="outline-3">
+<h3 id="org2212b9d"><span class="section-number-3">1.2</span> foreclosure - &gt; language &amp; code</h3>
+<div class="outline-text-3" id="text-1-2">
+<p>
+Although the user has full access to Harvey's image, they have only
+partial access to the alt-text that appears when they pan over certain
+parts of the animation." Alt-text is one of several attributes tied to
+each of the 23 images used to animate the movement of Harvey's head,
+including coordinates for the mouse to activate the relevant image and
+conditional statements that define visibility. The code for a single
+image of the 23, for example, consists of the following: ~&lt;AREA
+SHAPE=RECT ALT="i" HREF="#" COORDS="0,0,8,142"
+onMouseOver="strokeimage.src=stroke1.src ; window.status='i' ; return
+true"&gt;~. Alt-text," short for "alternative text," triggers the
+displays descriptive text meant to stand in place of the image, for
+accessibility reasons and in the case that the image fails to
+load. Without knowledge of the precise location of each alt-text
+coordinate, accessing all of the alt-text embedded within the images
+requires a peak at the source code, which lists the alt-text for each
+of the 23 images one by one:
+</p>
+<div class="SOURCE">
+<p>
+&lt;AREA SHAPE=RECT ALT="i" ..&gt;
+&lt;AREA SHAPE=RECT ALT="believe" &#x2026;&gt;
+&lt;AREA SHAPE=RECT ALT="in" &#x2026;&gt;
+&lt;AREA SHAPE=RECT ALT="it" &#x2026;&gt;
+&lt;AREA SHAPE=RECT ALT="you" &#x2026;&gt;
+&lt;AREA SHAPE=RECT ALT="created" &#x2026;&gt;
+&lt;AREA SHAPE=RECT ALT="it" &#x2026;&gt;
+&lt;AREA SHAPE=RECT ALT="in" &#x2026;&gt;
+&lt;AREA SHAPE=RECT ALT="my" &#x2026;&gt;
+&lt;AREA SHAPE=RECT ALT="mind" &#x2026;&gt;
+&lt;AREA SHAPE=RECT ALT="my" &#x2026;&gt;
+&lt;AREA SHAPE=RECT ALT="mind" &#x2026;&gt;
+&lt;AREA SHAPE=RECT ALT="cannot" &#x2026;&gt;
+&lt;AREA SHAPE=RECT ALT="let" &#x2026;&gt;
+&lt;AREA SHAPE=RECT ALT="it" &#x2026;&gt;
+&lt;AREA SHAPE=RECT ALT="go" &#x2026;&gt;
+&lt;AREA SHAPE=RECT ALT="the" &#x2026;&gt;
+&lt;AREA SHAPE=RECT ALT="ocean" &#x2026;&gt;
+&lt;AREA SHAPE=RECT ALT="the" &#x2026;&gt;
+&lt;AREA SHAPE=RECT ALT="waves" &#x2026;&gt;
+&lt;AREA SHAPE=RECT ALT="its" &#x2026;&gt;&gt;
+&lt;AREA SHAPE=RECT ALT="a" &#x2026;&gt;
+&lt;AREA SHAPE=RECT ALT="vision" &#x2026;&gt;
+</p>
+
+</div>
+<p>
+While the user may experience a number of these phrases as they pan
+over the image, here the ordering creates a sense of coherence. When
+viewed in this way, from the top-down, the words string together into
+intelligible thoughts like "i believe in it," and "my mind cannot let
+it go." What appears on the surface of the work, then, is only a
+particle of the full description occuring below. 
+</p>
+
+<p>
+Below the overt narrative of surface effects, lies another narrative
+within the source code. Here, within the HTML and JavaScript that
+define the content, presentation, and animations on the page, lie
+secret messages meant for human eyes. While most of the work is visual
+and haptic in nature, these hidden messages combine natural language
+with code to make verbal exhortations of love. For example, on the
+first page, "breath.html," an array of romantic protestations are
+assigned to the value, "whispers." These "whispers," which include
+phrases like "i will love you forever," "i want to breath you," among
+others included below, do not manifest directly on the browser, which
+only shows a moving image of a bared chest accompanied by breathing
+sounds. Rather, the messages are hidden within the source code,
+waiting only for the curious and experienced user to come and find
+them.
+</p>
+<div class="SOURCE">
+<p>
+whispers = new Array();
+whispers[0] = "breath me";
+whispers[1] = "i will love you forever";
+whispers[2] = "skin";
+whispers[3] = "skin on skin";
+whispers[4] = "skin on skin on skin";
+whispers[5] = "implode";
+whispers[6] = "soft";
+whispers[7] = "slow";
+whispers[8] = "can you feel me?";
+whispers[9] = "touch me";
+whispers[10] = "one more cigarette";
+whispers[11] = "i am so open";
+whispers[12] = "i want to feel you inside of me";
+whispers[13] = "smoke";
+whispers[14] = "i want to breathe you";
+whispers[15] = "we are smoke";
+whispers[16] = "yesss";
+whispers[17] = "deeper";
+whispers[18] = "i am disappearing";
+whispers[19] = "warm";
+</p>
+
+</div>
+
+<p>
+Musser describes foreclosure as an overflow of surface effects that
+preclude understanding beyond them. Foreclosure is strategy of
+resistance against attempts at incorporation. Something is always
+withheld. Similarly, I want to suggest that computer code creates a
+level of foreclosure by making elements always partially
+inaccessible. The surface effects of the screen engage elements within
+the code, sometimes in code from other pages, which are inaccessible
+to the general user, to surface additional layers of foreclosure. For
+example, the page, "close.html," takes a series of filenames from
+"smoke.html" to overlay the image of the chest from "breath.html" (SEE
+IMAGE). Rather than take the content of the files directly, this new
+page takes the <i>filenames</i> of the words, such as "ccy<sub>01</sub><sub>Over.jpg</sub>."
+The move creates a double foreclosure: first, in the original image,
+which requires precise activation by the user's mouse; and second, in
+the filename, which gives no indication of the image's content and
+cannot be found (as far as I can tell) for further examination on the
+server. In other words, the filenames on the chest stand for images
+which the user cannot see directly. This effect surfaces a
+displacement inherent in all significatory systems but particularly in
+machine language systems, which rely on levels of abstraction in its
+software stack.
+</p>
+
+<p>
+[IMAGE OF CLOSE.HTML]
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge74607b" class="outline-3">
+<h3 id="orge74607b"><span class="section-number-3">1.3</span> flash foreclosure</h3>
+<div class="outline-text-3" id="text-1-3">
+<p>
+In "words.html,"
+view-source:<a href="http://entropy8zuper.org/skinonskinonskin/rhizome/words.html">http://entropy8zuper.org/skinonskinonskin/rhizome/words.html</a>
+By Samyn on valentines day, 1999.
+</p>
+
+<p>
+Samyn animates a beating heart, overlaid with words and phrases that
+move in various arcs from its center. [SEE IMAGE/GIF]
+</p>
+
+<p>
+The code for this page does various things: first, it defines the list
+of strings, or words/phrases, which will arc over and around the
+heart. Then, it includes a series of JavaScript functions that selects
+words, calculates their trajectory and timing, and resets their
+position to restart the loop.
+</p>
+<div class="SOURCE">
+<p>
+unction startMove()
+{
+floatWords(0,Math.round(words.length/4));
+setTimeout("floatWords(Math.round(words.length/4),Math.round(words.length/2));",5000);
+setTimeout("floatWords(Math.round(words.length/2),Math.round(words.length/4*3));",10000);
+setTimeout("floatWords(Math.round(words.length/4*3),Math.round(words.length));",15000);
+};
+</p>
+
+<p>
+function floatWords(startNumber,endNumber)
+{
+for ( i = startNumber ; i &lt; endNumber ; i++ ) { floatWord(i); };
+};
+</p>
+
+<p>
+function rePos(thisNumber)
+{
+dMove('wordL'+thisNumber,'document.',halfW-rand(50),halfH-rand(50));
+floatWord(thisNumber);
+};
+</p>
+
+<p>
+function floatWord(thisNumber)
+{
+var randTime = (rand(15) + 5 )*1000;
+var thisRand = rand(4);
+if ( thisRand <code>= 1 ) { dMoveStraight('wordL'+thisNumber,'document.',-100-rand(100),rand(stageH),randTime,'wordVal'+thisNumber,'rePos(' + thisNumber + ');',''); }
+else if ( thisRand =</code> 2 ) { dMoveStraight('wordL'+thisNumber,'document.',rand(stageW),-20-rand(100),randTime,'wordVal'+thisNumber,'',''); }
+else if ( thisRand <code>= 3 ) { dMoveStraight('wordL'+thisNumber,'document.',stageW + rand(100),rand(stageH),randTime,'wordVal'+thisNumber,'rePos(' + thisNumber + ');',''); }
+else if ( thisRand =</code> 4 ) { dMoveStraight('wordL'+thisNumber,'document.',rand(stageW),stageH + rand(100),randTime,'wordVal'+thisNumber,'',''); }
+if ( rand(4) == 1 ) { dShow('wordL'+thisNumber,'document.','visible'); };
+}; "words.html"
+</p>
+
+</div>
+<p>
+I'm going to give a brief overview of each function. The first
+function, <code>startMove()</code>, sets a series of timers that initiate and
+perpetuate the animation. The second function, <code>floadWords()</code>, loops
+through the list of words and phrases and passes individual selections
+from this list to the next function, <code>floatWord()</code>, which sets the
+trajectory and timing for their movement. Within this function, a call
+to <code>rePos()</code> repositions the word in a new location, to begin the
+cycle anew. 
+</p>
+
+<p>
+On line 98: "$we are disembodied arms and mouths "
+</p>
+
+<p>
+Let us look more closely into the flash animation, which contains its
+own foreclosures. Flash is a standalone application and web browser
+plugin for authoring and viewing animations. It began development in
+the mid-1990s and gained popularity for its ability to deliver
+relatively advanced graphics (such as video and sound, primarily) at a
+time when media-rich content traveled slowly over the web. However,
+with the development of newer, more efficient and secure animation
+technologies in the last 10 years, Flash began to fall out of
+popularity and was officially discontinued on December
+31st, 2020. Although the general internet user will not feel the
+difference, since newer technologies like HTML5 and Javascript have
+stepped up to deliver what Flash had initially offered in much more
+flexible, portable, and efficient ways, this development has cast a
+generation of internet games, net art, and electronic literature into
+obsolesence. Today, the only way to view Flash content is through
+plugins, emulators (like the one for <i>skin</i>), or "decompiler" programs
+(discussed below).
+</p>
+
+<p>
+The elements of foreclosure emerge most starkly with non-plain-text
+content like Flash files. This is due to Flash code, unlike
+plain-text, being a binary code format. If opened in a text editor,
+for example, Flash files (which usually have an ".swf" or ".fla"
+extention) would appear to be made of incomprehensible characters and
+symbols, some of which the text editor may recognize, and others which
+it would display as a question mark. For example, here is a plain text
+rendition of the file that contains the sound animation of of the
+heatbeat on "breath.html":
+</p>
+
+<p>
+[IMAGE OF TEXT EDITOR OF OF HEARTBEAT.SWF]
+</p>
+
+<p>
+Because binary code is unreadable to the human eye, it requires
+specific authoring software to work with it. A "Flash decompiler"
+program, for example, offers an interface for seeing the components of
+a Flash file without having to deal with the machine code layer. The
+file is separated into components. The above file, for example,
+contains components like "sounds," "frames," and "scripts." So the
+file becomes abstracted in a way that humans can make sense of
+it. Below is an image of the flash decompiler interface, with all of
+the components of the image on the left sidebar. Interestingly, when
+examining the frames, one can distort the sound of the heartbeat.
+</p>
+
+<p>
+[IMAGE OF FLASH DECOMPILER INTERFACE ON "HEARTBEAT.SWF"]
+</p>
+
+<p>
+What I want to emphasize here is that this code cannot be edited
+directly. 
+</p>
+
+<p>
+How does an emulator work? Does emulation add another layer of
+sensuality to the peice?]
+</p>
+
+<p>
+The final aspect of this text I want to discuss is reduction. The love
+affair is reduced to digital objects which can pass over the
+wires. The couple make this point in a chat between the two of them,
+discussing how constraints constitute the relationship:
+</p>
+<blockquote>
+<p>
+womanonfire: the sound is a bit distorted with these things
+zuper: (private) yes
+womanonfire: if no one was around me here
+zuper: (private) the image is distorted too
+womanonfire: i would speak to you
+zuper: (private) but that's ok
+womanonfire: yes!
+womanonfire: these are all part of our relationship
+womanonfire: these limitations
+womanonfire: we must
+zuper: (private) 26 letters, no sound, no image
+womanonfire: learn new ways
+zuper: (private) make DHTMLove to me&#x2026; <a href="http://entropy8zuper.org/">http://entropy8zuper.org/</a>
+</p>
+</blockquote>
+
+<p>
+The way that digital objects play with reductions of complexity here
+evokes what Snorton says about the reduction of black bodies to
+flesh. Such a reduction enables flesh to harness the chaos of
+significatory possibility. I want to argue that digital objects, as
+distillations of real world referents, are imbued with expressive
+potential.
+</p>
+
+<p>
+In what follows, I'm going to examine the ways that Harvey's (black)
+body has been reduced with this effect. The question of Harvey's race
+emerges in a chat between Harvey and Samyn, though it is buffeted by
+questions of physicality more generally. To get a sense of the
+conversation, I quote the chat at some length: 
+</p>
+<blockquote>
+<p>
+womanonfire: i wonder wht your voice is like
+zuper: my voice?
+zuper: let's try
+zuper: it's weird to talk in a silent office at night
+womanonfire: yes
+womanonfire: i can just barely make you out
+womanonfire: how fitting
+womanonfire: it sounds so far away but you feel so close
+zuper: yes
+zuper: i am close
+zuper: i don't understand myself
+womanonfire: i will write you a very long letter tonight
+zuper: I'm falling in love with a 160x120 pixel video&#x2026;
+zuper: Yes please write me a long letter
+womanonfire: it is dificult for me here right now
+zuper: why is it difficult?
+womanonfire: i was just about to write one about this
+womanonfire: because i love you
+zuper: &#x2026;
+womanonfire: seems so 
+womanonfire: strange
+womanonfire: maybe it is lust
+womanonfire: i cant tell anymore
+zuper: pixellust?
+womanonfire: right
+zuper: I my case only ASCIIlust&#x2026;
+womanonfire: but i want to make a home for us
+womanonfire: in the network
+zuper: Have you read Sterlings 'Holy Fire'?
+womanonfire: no
+zuper: They have places called 'Memory Palaces' on the net
+zuper: where they keep all their souvenirs and where people can meet
+womanonfire: i just heard you that time
+womanonfire: !
+zuper: in dutch!
+womanonfire: yes!
+zuper: (private) I realised today that I have never been in love with somebody who doesn't speak Dutch before.
+womanonfire -&gt; zuper: i have never been in love with someone in another country before
+zuper: (private) I have never been in love with someone with green dreadlocks before
+zuper: (private) let alone black skin
+womanonfire -&gt; zuper: yes i hope you wiwll like my skin
+zuper: (private) I already do.
+womanonfire -&gt; zuper: :) <a href="http://entropy8zuper.org/">http://entropy8zuper.org/</a> 
+</p>
+</blockquote>
+<p>
+The question of race becomes one in a list of other physical
+attributes, is equated to speaking a foreign language, is buffeted by
+concerns about connectivity and finally, transported and made possible
+by network technologies. 
+</p>
+
+<p>
+The reduction of her body to certain attributes, her black skin and
+green hair, for example, endows her physical being with expressive
+possiblity. The dark-skinned green-haired floating woman. Here, the
+less detail an element has, the more meaning the viewer can impose to
+the elements.
+</p>
+
+<p>
+We see this in the black hand which touches our screen. It is a simple
+shape, but it is expressive.
+</p>
+
+<p>
+l materiality hearkening back to black fem theory 
+Sensuality in their shifts and their surface effects, particularly in
+the way they foreclose <i>forensic</i> materiality, refuse depth. Here we
+draw from black feminist theorizing. 
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Filipa  Calado</p>
+<p class="date">Created: 2023-06-07 Wed 10:49</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>
