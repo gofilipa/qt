@@ -1,8 +1,6 @@
----
-layout: post
-title: Drafting the Intro
-categories: [dissertation, rosenberg, fisher, munoz]
---- 
+Title: Drafting the Intro
+Date: 202-06-25
+Category: queerness
 
 My past two posts have been clarifying the concept of "untouchable"
 and how it functions in relation to queerness. "Untouchable" denotes a

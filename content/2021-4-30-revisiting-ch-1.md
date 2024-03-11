@@ -1,6 +1,6 @@
 Title: Revisting Chapter One
-Date:" 2021-04-30
-Categories: text analysis
+Date: 2021-04-30
+Category: text analysis
 
 After letting the draft sit for a while, slightly traumatized by the
 hectic process of wrapping it up over the winter, I was pleasantly

@@ -18,7 +18,7 @@ DELETE_OUTPUT_DIRECTORY = True
 #GOOGLE_ANALYTICS = ""
 
 AUTHOR = 'Filipa Calado'
-SITENAME = 'Queer Tools'
+SITENAME = 'Queer Tools: notes toward a dissertation'
 SITEURL = 'https://gofilipa.github.io/qt'
 
 PATH = 'content'
@@ -35,7 +35,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Contact Me', 'mailto:caladof@newschool.edu'),
+LINKS = (('Contact me:', 'mailto:filipa@princeton.edu'),
          ('Personal Website', 'https:www.filipacalado.com'))
 
 # Social widget
@@ -53,5 +53,5 @@ DEFAULT_PAGINATION = 10
 ## Customizing the navbar
 
 DISPLAY_ARTICLES_ON_MENU = False
-DISPLAY_CATEGORIES_ON_MENU = False
-DISPLAY_PAGES_ON_MENU = True
+DISPLAY_CATEGORIES_ON_MENU = True
+DISPLAY_PAGES_ON_MENU = False

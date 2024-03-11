@@ -1,8 +1,6 @@
----
-layout: post
-title: Zooming out of Chapter One
-categories: [dissertation, org-mode, revision]
---- 
+Title: Zooming out of Chapter One
+Category: revision
+Date: 2020-07-24 
 
 About a week ago I converted my chapter document into a word
 doc. Until now, I've only been engaging with the draft on through the

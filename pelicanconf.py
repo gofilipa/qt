@@ -1,6 +1,6 @@
 AUTHOR = 'Filipa Calado'
-SITENAME = 'Queer Tools'
-SITEURL = ''
+SITENAME = 'Queer Tools: notes toward a dissertation'
+SITEURL = 'https://gofilipa.github.io/qt'
 
 PATH = 'content'
 
@@ -16,14 +16,12 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'https://getpelican.com/'),
-         ('Python.org', 'https://www.python.org/'),
-         ('Jinja2', 'https://palletsprojects.com/p/jinja/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('Contact me:', 'mailto:filipa@princeton.edu'),
+         ('Personal Website', 'https:www.filipacalado.com'))
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('Github', 'https://github.com/gofilipa/'),
+          ('Twitter', 'https://twitter.com/Caladoscope'))
 
 DEFAULT_PAGINATION = 10
 
