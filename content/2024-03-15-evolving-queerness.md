@@ -12,23 +12,7 @@ My interests:
 - critical methods where the critic is aware of their distance from
   the object of study, and at times turns that distance into a
   heuristic. This begins with an interest in different reading
-  methods, suspicious vs surface reading, for example. My being drawn
-  to Sedgwick's critique of paranoia that only delivers results which
-  are imaginable within current knowledge structures, on their
-  inability to create something new. The drive to establish or expose
-  props up the current system. We need ways of *speculating* and
-  *making*.
-
-My worries:
-- taking some questions about my work very personally, as resistance
-  or attacks. though this is a legitimate thing too.
-- insecurity about taking on projects that are too big, like with
-  hypothes.is
-- instrumentalizing black feminist studies. How to take the flesh in
-  black femininist studies as an analogue to media in media
-  archaeology without reducing the very violent and physical history
-  of the black flesh. How do I talk about the flesh, mobilize ideas
-  of the flesh, without feeling like I'm instrumentalizing it?
+  methods, suspicious vs surface reading, for example. My being drawn  of the flesh, without feeling like I'm instrumentalizing it?
 
 In a meeting in 2019, M asked me some quesitons to help me whittle
 down my motives.

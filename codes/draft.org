@@ -1,0 +1,73 @@
+* ahem
+** 3.27.2024
+I'm choosing this method and I'm going to do it slowly. I am choosing
+this method and I'm going to do it slowly. My legs are crossed and
+they will cramp. I will not write otherwise. I will not write in the
+old way, like someone is breathing down my neck. I will not write in
+the old way. I will by force if necessary lower my heartrate knowing
+that one cannot force relaxation. It is a method of letting go. The
+trick then is to note, to notice what I need to let go.
+
+* iteration
+Iteration is a way of understanding gender.[fn:1] Of it by how it
+operates. Gender is a series of acts that are repeated, /re-iterated/,
+to satisfy social expectations, what Judith Butler refers to as
+"Gender Performativity."[fn:2] Performativity takes iteration as its
+main mechanism.
+
+It is also a way of understanding the computational manipulation of
+text, also known as text analysis. The concept known as the "loop" in
+programming works by /iterating/ through a series of items, like a
+list of words in a novel, and doing something to each item. For
+example, we might count the number of times the word "woman" appears
+in a text like Virginia Woolf's /Orlando/.[fn:3]
+
+In what follows, I take this similarity between iteration in gender
+theory and in programming logics to propose a text analysis method for
+analyzing gender in novels. I will take Virginia Woolf's novel,
+/Orlando/ as my test case, showing how an /iterative/ text analysis
+methodology might disrupt essentialized understanding of gender. My
+reading of Woolf's novel bears out what much of the scholarship has
+already discovered. But it does so through a novel method that
+surfaces new possibilities for close reading. The methodological
+intervention here also pertains to current practices in computational
+text analysis, a field that can be referred to as Cultural
+Analytics. Mostly, my method resists the more positivistic tendendies
+and idealistic attitudes toward computational tools: this work is not
+interested in unearthing a new understanding of literary history,
+isolating a needle in the haystack, or exploring the permutation of an
+idea over time or text. Rather, it is interested how the process of
+using computational tools can be in itself generative. The results,
+and their purported accuracy, are irrelevant for my purpose.[fn:4]
+
+** TODO start with?
+
+** bank
+Iteration, Butler explains, is also a way of /undoing/ gender. It does
+so by upending its expectation. By acting in a way that is unexpected,
+that goes against the dictates of binary gender systems.
+
+* form
+
+* stack
+
+* intelligence
+
+* Footnotes
+
+[fn:4] I am combining Stephen Ramsay with a feminist critique. Maybe
+something to articulate more fully in the body or here in the note. 
+
+[fn:3] Put a description here of Orlando?
+
+[fn:2] The passive voice here is deliberate. Butler explains that
+subjectivity only emerges as a byproduct (an illusory one) of the
+compulsory process that is gender performativity. “A process of
+reiteration by which both ‘subjects’ and ‘acts’ come to appear at all”
+(Bodies xviii).
+
+[fn:1] Judith Butler, from /Bodies that Matter/: "Performativity is
+thus not a singular 'act,' for it is always a reiteration of a norm or
+set of norms, and to the extent that it acquires an act-like status in
+the present, it conceals or dissimulates the conventions of which it
+is a repetition" (12).  
