@@ -7,9 +7,9 @@ see how their scholarship speaks to others in the department.
 
 ** outline
 *** What is graduate work?
-- my own experience of this question:
-  - english department structures, the fields; the recalcitrance of
-    the executive committee
+- fear
+- english department structures knowledge:
+  - the fields of study
   - the academic paper; long-form written work as criticism.
 
 *** sedgwick's provocations:
@@ -21,14 +21,17 @@ see how their scholarship speaks to others in the department.
 
 *** my attempt
 - using AI to study transphobia in language
-  - how fear of ROGD is embedded in language
-- engaging machine learning with trans studies
-  - trans studies:
-    - vs queer studies
-    - difference in affective modes
+  - ROGD
+  - fear of transness as contagious, and fear itself being
+    contagious
+- how fear of ROGD is embedded in language
+  - engaging machine learning with trans studies
   - ml:
     - prediction -> appoximation
     - irony? generalization? passing? in language
+  - trans studies:
+    - vs queer studies
+    - difference in affective modes
 
 
 ** sketch
@@ -100,23 +103,21 @@ does knowledge /do/--the pursuit of it, the having and exposing of
 it" (124, /Touching Feeling/)
 #+end_quote
 
-What is the effect of knowledge?
+Exposure by itself doesn't motivate; because it plays on suspicions.
+- The "paranoid trust in exposure seemingly depends... on an infinite
+  reservoir of naivete" (141). We assume exposure will "surprise,
+  disturb, nevermind motivate" (141).
 
-The "paranoid trust in exposure seemingly depends... on an infinite
-reservoir of naivete" (141). We assume exposure will "surprise,
-disturb, nevermind motivate" (141).
-
-Sedgwick explains that "reparative motives" are dismissed because they
-are "about pleasure ('merely aesthetic') and amelioriative ('merely
-reformist')" (144).
-
-"Mere" - because pleasure is not as motivating. Is not as
-"intolerable" as exposure.
-
-Sedgwick offers instead:
-- "imaginative close reading" - "the devalued and near obsolescent
-  critical skill" (/Touching Feeling/ 145).
-- "local theories and nonce taxonomies" (/Touching Feeling/ 145).
+what does motivate? what does move?
+- pleasure
+  - Sedgwick explains that "reparative motives" are dismissed because
+    they are "about pleasure ('merely aesthetic') and amelioriative
+    ('merely reformist')" (144).
+- imagination
+  - Sedgwick offers instead:
+    - "imaginative close reading" - "the devalued and near obsolescent
+      critical skill" (/Touching Feeling/ 145).
+    - "local theories and nonce taxonomies" (/Touching Feeling/ 145).
 
 A reparative position for reading is
 - open to being surprised (whereas paranoia expects to be surprised)
@@ -339,106 +340,131 @@ certainly change *themselves.”*
 
 
 ** draft
-**** Thank you for having me here today.
-Since the beginning of my time here in the English department, I used
-to be afraid of this podium. When I saw people speaking up here, I
-could feel my own heart beating inside my body and my face flush. Even
-if nobody was speaking, or there was no event going on, sometimes just
-looking at the podium would make me feel panicky. That's because I had
-a terrible, almost debilitating fear of public speaking. This fear
-began when I first started graduate school, and it stayed with me for
-many years.
+**** Thank you for having me here today
+Thank you for having me here today. I am honored to have been asked to
+come and share my take on "graduate work". So I'm going to talk a
+little bit about how I approach this question, "What is graduate
+work?", which I think is a crucial one, especially for folks in
+English, especially at this moment in time, when so many people seem
+to be perhaps beyond the reach of (or even desire for) critical
+thinking, in the struggle against fascism masquerading as tolerance or
+common sense. (something which I'll elaborate on later).
 
-The cause of this fear is going to be the subject of this talk. It has
-to do with what is called impostor syndrome. Impostor syndrome, which
-many of you may also know through personal experience, is when a
-person feels that they aren't enough--not smart, hardworking, skilled,
-or otherwise--and that any success they have achieved is due to luck
-or coincidence rather than effort or talent. A person with impostor
-syndrome is afraid that their great secret--that they are not good
-enough--will be discovered. 
+The decisions that I made as a student about what kind of work I would
+do stemmed from a strange, kind of contradictory feeling--that I
+didn't really belong in an English department, but also that the
+English deparment is the only place where I can do my kind of work.
 
-I'm going to use this fear to think through the role of graduate work,
-within English deparments specifically, in perpetuating certain
-systems of knowledge. By unpacking the fear, I want to get at what I
-think is the central structural issue that's holding English
-departments back, from my perspective, from speaking to issues of our
-current moment, in the contemporary world outside these windowless
-walls. The stakes of graduate work have to do with how we engage with
-the current world.
+My work in the dissertation has not been what you'd consider
+traditional. While it consists of mainly a written component, which is
+three chapters totaling about 150 pages, it also contains digital
+components. That's because my topic, really, was not literature, it
+was software, digital tools. My main research question was how digital
+tools, specifically those that work with language, engage with the
+semantic and expressive qualities of language. I was interested in how
+digital tools collapse or reduce some of the complexities,
+ambiguities, and nuances of language. I used literature, and
+particularly queer literature, as a kind of test case that enabled me
+to experiment with various tools, like text analysis for example,
+manipulated and transformed language. In addition to writing, then, I
+ended up creating software applications that I coded myself, using
+programming skills that I taught myself deliberately as part of my
+graduate training. For my chapter on text analysis, for example, I
+created a simple application (which builds on existing applications)
+that allows users to analyze gender terms in novels like Virginia
+Woolf's /Orlando/.
 
-I decided to study English, perhaps like many of you, because I
-enjoyed reading and talking about what I read. Despite that, I never
-felt quite like I belonged in an English department.
+[screenshot of text analysis app? or no?]
 
-Maybe that's because my work is fundamentally interdisciplinary, and
-can be better categorized as "Digital Studies" or "Queer Studies,"
-rather than English. (I'll get into this later in the talk, but
-really, I'm only using literary language as a means or a kind of test
-case and skill set for talking about what happens to information when
-we engage with it in digital processes and formats.) The object of my
-study is not literary language. It's technological systems, formats,
-and processes. I use literary language as a tool for testing and
-trying technology.
+Coming back to this contradictory feeling: this feeling that my work
+doesn't belong in an English deparment, but that there's no other
+place for it: I'm going to elaborate on this feeling. And I'm going to
+explain how I used this feeling to create a kind of strategy for
+carving out my own path. Especially what I rejected, or let go, from
+English, and what I took with me as sustenance.
 
-I'm going to talk a little bit about how we organize English
-departments and how that organization creates and perpetuates systems
-of knowledge and prestige. These systems of knowledge and prestige, as
-many have argued before, create boundaries around the discipline that
-keep it from people who might want to change it, or who might want to
-do work within that would change the world. In other words, these are
-systems that facilitate impostor syndrome. Then I'm going to pose some
-ideas, or provocations, for organizing our work in ways that might
-encourage or embolden people to join and contribute their knowledge
-and life experience. I'm going to give an example of how I interpret
-these provocations into my own work, in the past and in the future. I
-hope that the example of my own journey into scholarship will prompt
-others to think about ways for integrating or aligning their work,
-especially if that work is not "traditional" English scholarship, in
-to open up what we call English Studies.
+**** thinking productively through fear
+I'll start with what I rejected from English, which ironically starts
+with my own feeling of rejection that I experienced, very early on in
+my studies. This feeling of rejection manifested as a feeling of fear,
+which also goes by impostor syndrome, a concept you're all probably
+very familiar with.
 
-**** english departments
-I'll begin with the English deparment. I remember, and maybe you do
-too, applying to this program and being confronted with the dropdown
-menu where you have to select your particular field within English. I
-struggled with this menu, because I couldn't fit my interests within a
-specific field and especially not within a particular period. All I
-knew is that I wanted to read queer literature and do something with
-digital tools. So I selected "Modernism" as my primary field and
-"Digital Humanities" (I believe!) as my secondary field.
+Thoughout graduate school, I have experienced an almost debilitating
+fear of public speaking. It came anytime that I was talking to a
+group, even in a group as small and intimate as a seminar. It was
+excessive, and wouldn't go away. There were years where I couldn't
+even look at the podium in the English department lounge without
+feeling panicky.
+
+I think fear, and negative feelings in general, can be re-deployed as
+tools for subverting repressive structures (which is a theme I will
+pick back up in this talk). But for now, I will say that this fear was
+useful because every time I tried to unpack it, to understand it, I
+came to the same reasoning: that my work, my process, doesn't look
+like the others; and that means that there's something wrong with me.
+
+Where did this idea, that I'm not good enough, come from? There are a
+lot of causes for this fear, that have to do with my own history with
+schooling, my identity, and many other factors. But one major cause is
+context, that is, the English department as a context for where I was
+doing the work that I was so afraid of sharing. 
+
+**** english departments - how are english departments prohibitive?
+English deparments do a good job instilling certain assumptions about
+how academic study should be organized and carried out, in ways that
+perpetuate systems of knowledge and prestige. These systems of
+knowledge and prestige, as many have argued before, create boundaries
+around the discipline that discourage change, or those who might want
+to change it. These are systems that facilitate impostor syndrome.
+
+I'll give a really small example that illustrates this issue, an
+example that points to a much larger problem with the way that English
+organizes itself. 
+
+I remember, and maybe you do too, applying to this program and being
+confronted with the dropdown menu where you have to select your
+particular field within English. I struggled with this menu, because I
+couldn't fit my interests within a specific field and especially not
+within a particular period. All I knew is that I wanted to read queer
+literature and do something with digital tools. So I selected
+"Modernism" as my primary field (because in my logic, Modernist
+writing has the most "queer" writing) and "Digital Humanities" (which
+is a label I accept more for reasons of visibility than because it
+actually describes my work) as my secondary field.
 
 At the time, I wasn't really thinking about how this small component
-of the application indicated assumptions about what English does, and
-the kind of knowledge it ought to produce. For example, the
-periodization that implies that the study of language forms has some
-inherent relationship to nation and culture, and a relationship that
-is in some sense uncontested, that is tied to a history and culture of
-a nation that, by these chronological partitions, is always
-progressive. (am I saying this clearly?). In other words, that
-historical time becomes an independant variable--something that is
-objective, so to speak--for the study of language. I'm not the first
-to say that this organization reproduces assumptions about prestige,
-that prestige determines quality, for example, and inclusion in the
-canon, of writers from a dominant cultural position.
+of the application indicated assumptions about that kind of knowledge
+that work in English ought to produce. For example, the periodization
+that implies that the study of language forms has some inherent
+relationship to nation and culture, and a relationship that is in some
+sense uncontested, that is tied to a history and culture of a nation
+that, by these chronological partitions, is always progressive. (am I
+saying this clearly?). In other words, that historical time becomes an
+independant variable--something that is objective, so to speak--for
+the study of language. I'm not the first to say that this organization
+reproduces assumptions about prestige, that prestige determines
+quality, for example, and inclusion in the canon, of writers from a
+dominant cultural position.
 
-[I remember being on the Executive Committee, here in the English
-Department, and witnessing the decision making process for the
-department. I was struck by the process, how slow progress seemed to
-be, and how easily it was to maintain the status quo. And there were
-professors on the committee who I had taken classes with, and regarded
-as being more radical. It surprised me, I'm not going to lie, I was
-shocked a few times what seemed to me tired and glacial gestures from
-the committee. Say something specifi?]
+When people ask me what kind of academic work I do, I say Digital
+Studies. And when they say, what the hell is that? I say: I take a
+critical approach toward digital tools for studying language.
 
-So what I have been saying isn't new: you've probably all thought
-about it and read about it before. But what I'm going to say is to
-make a proposal for one way of re-thinking the work we do in English,
-the way that we organize and conceptualize the work that we do
-here. With the larger goal not only of inclusion (because inclusion by
-itself does not achieve anything), but of re-orienting the research we
-do toward disrupting, rather than perpetuating, current systems and
-organizations of knowledge.
+So this is what I've rejected from English. Now I'm going to talk
+about what I took with me, which is methodology. I'm going to give an
+example with the work of Eve Kosofky Sedgwick, a famous Queer Studies
+scholar who actually taught in this department until she passed
+in 2009. I am going to turn to Segwick's work as way of embolden
+scholars to join and contribute their knowledge and life experience to
+their work. Then, I'm going to give an example of how I have tried to
+do this in my own work, in the past and in the future. I hope that the
+example of my own journey into scholarship will prompt others to think
+about ways for integrating or aligning their work, especially if that
+work is not "traditional" English scholarship, in to open up what we
+call English Studies.
 
+**** what does knowing do?
 So I am going to begin with a question, posed over twenty years ago by
 Eve Sedgwick, about criticism, and what it /does/.
 
@@ -466,33 +492,380 @@ it" (124, /Touching Feeling/)
 #+end_quote
 Here, Sedgwick unravels the assumptions behind truth: that truth, on
 its own, can motivate people to some kind of action. That if we learn
-that something is true, for example, that injustice exists in some
-area, that we will be moved to do something about it.
+that something is true, for example, that we will be moved to do
+something about it. Merely knowing that something is true, revealing
+the presence of systematic oppression, injustice, discrimination, for
+example, is not enough to “enjoin that person to any specific train of
+epistemological or narrative consequences” (123).
 
-The reality, Sedgwick explains, is that exposure by itself does not
-motivate, for the reason that paranoia is suspicious. 
+Exposure by itself does not motivate, because paranoia can never be
+surprised, it can only be satisfied, at least termporarily. Paranoia
+is by nature suspicious: it suspects that there must be something
+hiding under the surface. So when it finally "discovers" the secret,
+that "discovery" only affirms what it has known all along. That is the
+nature of paranoia, and it explains why paranoid reading practices,
+what Paul Ricoeur famously calls "hermeneutics of suspicion," do not
+typically motivate action.
 
+Paranoid reading practices abound in criticism, especially, as
+Sedgwick points out, in her criticism. For example, in one of her
+earlier books, /The Epistemology of the Closet/ (1990), she uses these
+methods to expose what she calls the unstable binaries of definitional
+categories like heterosexual and homosexual. Through readings of
+fiction, she exposes the dependence of a privileged heterosexual
+position upon the existence of a subordinated homosexual one. It is
+only through the creation of the category “homosexual” that the
+“heterosexual” appeared. Yet the heterosexual category depends on the
+oppression of the homosexual.
 
-exposure by itself doesn't motivate; because it plays on suspicions
+In a story by Henry James, "The Beast in the Closet," for example,
+Sedgwick argues that homosexuality is defined by a lack of
+heterosexual desire. In this story, the main character, John, divulges
+to a friend, Mary, that he has a secret, which he calls the "beast in
+the jungle": he feels that one day something terrible will happen to
+him. He lives many years of his life with this sense of foreboding
+dominating his decisions. At the end of the story, after Mary dies,
+John visits her grave and realizes that the terrible thing that
+happened to him is that, in his obsession with his fate, he missed out
+on the experience of loving her.
 
-what does motivate? what does move?
-- pleasure
-- imagination
-- hope
+Speaking of the beast, he says: "It had sprung as he didn't guess; it
+had sprung as she hopelessly turned from him... He had justified his
+fear and achieved his fate; he had failed, with the last exactitude,
+of all he was to fail of... This horror of waking—-this was
+knowledge".
 
-there are ways of knowing that glean sustenance from the things that
-are supposed to bring us down. 
+Sedgwick's reading argues that John's secret, the beast in the jungle,
+is defined by a lack: John desire is constituted not by what he
+wanted, but by an absence of an assumed desire for Mary--a
+heterosexual desire. This secret, according to Sedgwick, functions as
+a closet that hides away a homosexual secret. (And with this summary
+of Sedgwick's close-reading I am unforgivably condensing and
+simplifying many pages of her diving, thrilling analysis into the
+content of unspeakable desires with regard to homosexuality).
 
+In this example and others in Sedgwick's work, she exposes the
+inherent instability of binaries — Where one term is not symmetrical
+or simply subordinated to another, but rather, depends the other for
+its meaning through "simultaneous subsumption and exclusion"
+(10). Sedgwick explains that such binaries are “sites that are
+peculiarly densely charged with lasting potentials for powerful
+manipulation” (10).
 
+But, in her more recent work, Sedgwick explores other critical reading
+methods that go beyond what she calls "the logic of repression" (which
+she traces to Foucault) that guides much of suspicious reading. She
+proposes a mode of "reparative reading," which focuses on connection
+rather than exposure. Reparative reading "surrender[s] the knowing,
+anxious paranoid determination that no horror, however apparently
+unthinkable, shall ever come to the reader as new" (146). Rather, a
+reader allows herself to be taken by suprise. It's a kind of
+willingness to open up the ways that we read, what Sedgwick calls
+"imaginative close reading" - a "devalued and near obsolescent
+critical skill" (145).
 
+She turns back to Henry James, but rather than read for what is
+secret, unspeakable, or foreclosed in his writing, she elaborates on
+the affect of /shame/ as a mobilizing and creative power.
 
+What if, she asks, we take something that is typically taken as a
+negative, structuring force in queer identity, like the feeling of
+shame, and examine how it unlocks creativity and productivity? To pull
+other affects and images into relation? She demonstrates by reading
+metaphors that are made possible through shame. For example, she
+connects moments of "blushing" and "flushing" to a fantasy of the skin
+being entered or touched by a hand.
 
-**** close reading
-Despite our fields and specializations, what unites us in English
-departments is methodology, which is close reading. This is something
-that most of us relate to--in our research and in our teaching. But
-close reading is not part of the way that we organize English
-departments.
+#+begin_quote
+"Shame interests me politically, then, because it generates and
+legitimates the place of identity--the question of identity--at the
+origin of the impulse to the performative, but does so without giving
+that identity space the standing of an essence. It constitutes it as
+to-be-constituted, which is also to say, as already there for the
+(necessary, productive) misconstrual and
+misrecognition. Shame--living, as it does, on and in the muscles and
+capillaries of the face--seems to be uniquely contagious from one
+person to another. And the contagiousness of shame is only facilitated
+by its anamorohic, protean susceptibility to new expressive grammars"
+(63 /Touching Feeling/).
+#+end_quote
+
+For some queer people, shame is not good or bad, "it is simply the
+first, and remains a permanent, structuring fact of identity: one
+that, as James's example suggests, has its own, powerfully productive
+and powerfully social metamorphic possibilities" (64, /Touching
+Feeling/).
+
+I'm interested in this move that Sedgwick is making, of taking what is
+typically seen as a negative, oppressive concept, like shame, and
+reading how it opens up other modes of connection.
+
+I find this exciting because it is a kind of reading that allows us to
+take what has been a tool of oppression and turn it into a source for
+sustenance, in Sedgwick's words. She explains that reparative reading
+offers "the ways selves and communities succeed in extracting
+sustenance from the objects of a culture--even of a culture whose
+avowed desire has often been not to sustain them" (/Touching Feeling/
+151).
+
+So coming back to this initial question--what does knowledge /do/,
+what kind of action does it inspire. It seems that we might approach
+our knoweldge work, the work that we do as scholars and teachers of
+English, as a way of transforming what has historically been used for
+oppressive, repressive purposes toward relation, connection. 
+
+**** my work
+I'm going to now turn to some of my work, to exhibit how I am
+grappling with an affect that, like shame, is negative and
+contagious. That affect is fear.
+
+For this work, I've been interested in a particular kind of fear, of
+transphobia, and how it emerges in our current political
+moment. Specifically, I'm interested in how transphobia is being used
+as a galvanizing tool for the anti-trans movement that is sweeping
+this country.
+
+For example, I'm interested in the clinical phenomenon of "Rapid Onset
+Gender Dysphoria" (ROGD), which stipulates that trans-ness can be
+contagious among adolescents. The phenomenon was coined by Dr. Lisa
+Littman in her study of parents of transgender youth, published
+in 2018. In her study, Littman interviews over 250 parents of
+transgender children and concludes that what she calls "peer
+contagion" of gender dysphoria may be a contributing factor for
+adolescents who decide to transition. Almost immediately following its
+publication, Littman's study was criticized, including by the
+publisher, and its methodology and findings has been disavowed by
+every major medical association.
+
+Although ROGD is not recognized as a valid diagnosis, it has been used
+and is still used as fodder for anti-trans propaganda and
+discrimination. It has made its way into the public lexicon, appearing
+in books, shows, and most importantly for my project, legislative
+bills that are being written, debated, and passed across the US. This
+anti-trans legislation, which I'll elaborate on in a moment, limits
+trans peoples' access to basic healthcare, public facilities, legal
+recognition, and more.
+
+[anti-trans map]
+
+Here, you can see a map of where these bills are most concentrated
+across the country.
+
+I think it's important that we understand, today, the threat of gender
+transgression. I'm interested in examining the language outlawing
+gender transgression, and this particular transgression, of
+transitioning from one gender to another, or of opting out of binary
+systems of gender. Why is this particular kind of transgression so
+controversial, so contentious, among a large part of our population?
+Why is the fear of this transgression itself so /contagious/?
+
+So I'm interested in two kinds of contagion: in the fear of transness
+being contagious, and in how this fear /itself/ is contagious.
+
+To study these phenomena of fear and its contagiousness, I turn to AI
+tools. Here I apply the same analytical spirit from my dissertation,
+where I used close-reading strategies to analyze aspects of digital
+tools, like programming logics and data formats. In that project, I
+took a deep dive into the mechanisms of various digital tools, to
+understand how a tool, like text analysis for example, collapses or
+reduces the complexity, nuances, and ambiguity of language into
+computable formats. Every digital process that works on real world
+information, like language, has to make some kind of transformation to
+that information. In the example of text analysis, words in a text
+have to be regularized and standardized before you can process them
+with text analysis software. Because computational text analysis is,
+at its most fundamental level, based on counting words, you need to
+remove anything that can skew the counts, like semantically minor but
+frequent terms such as prepositions and articles, as well as
+idiosyncracies like capital letters and word inflections.
+
+This project traces the underlying transformations that occur in a
+popular AI tool known as a "large language model" or LLM, which powers
+chatbots like ChatGPT. My focus on this project, for the past several
+months, is understanding how these models are created, how they are
+"trained," so to speak, so I can trace how they /perpetuate/ biases
+from their training data.
+
+I'm going to give a quick overview of how this training process works,
+so we are all on the same page. Put succinctly, these tools examine
+data from the internet in order to glean patterns from which it can
+generate new content.
+
+The training process begins with a the model "reading" massive amounts
+of text from the internet. From examining this training data, word by
+word, it starts to compile numerical probabilities for which words
+tend to surround other words. It represents these probabilities with a
+number, with actually a very large list of numbers. You can think of
+these numbers, or scores, functioning like definitions, which
+represent the word's /meaning/ for the computer. To us, these scores
+look just like a long list of numbers, but to a computer, the scores
+represent a given word's /relationship to every other word in the
+entire dataset of words/. That's why, by the way, these models are so
+large, and why they take so long to train. It's because every single
+word is represented by a massive list of probabilities, probabilities
+for how that word relates to every other word in the language.
+
+A language model will then /generate/ content by doing math with the
+scores attached to each word in its database. It basically uses the
+scores to compute which words are most likely to follow a given
+prompt, taking context into account. The output, therefore, is a
+/prediction/. And the math that they use to make predictions is
+actually math that many of us have heard of before in math class:
+things like matrix multiplication and cosine similarity.
+
+Given how much the training data, and the specific configurations of
+words in the training data, affect the final model's output, I am very
+interested in using AI tools to study anti-trans bias, and
+particularly, the fear of contagion, of ROGD. 
+
+Right now, I am currently the middle of a data gathering, data
+cleaning, and model training process, to study how models perpetuate
+this fear from their training data onto their outputs. I am working
+with definitions of gender and related terms from “anti-trans”
+legislation, totaling several hundreds of bills from across the US.
+
+[SLIDES OF DEFS FROM BILLS]
+
+Here’s some examples of the language that I extracted so far from the
+legislation. I am focused on definitions of gender identity and
+related terms, like “biological sex” and “gender transition
+procedure,” which are underlined here.
+
+[SOME WORDS IN BLUE]
+
+Here, the text in blue indicates words and phrases that seem to
+suggest underlying assumptions about binary gender and gender
+transgression. I am fascinated with how these assumptions are being
+constructed in subtle ways, in seemingly harmless formulations. For
+example, I am interested in the word “regardless,” which appears in
+many of definitions, and is used to contrast an essentialized notion
+of binary gender against gender as expression. What does it mean to
+partition some aspect, like biology, when considering another, like
+gender presentation or identity?
+
+As I continue to build and clean my dataset (which is a long,
+technical process that involves web scraping to get the bills, then
+processing the bills to get the definitions, then making sure the
+output is formatted correctly), I've been dabbling with using them to
+train AI models.
+
+Leaving aside all the hype about AI, and whether or not it is
+“intelligent,” or moving toward what the industry calls “general
+intelligence,” AI tools like large language models are really good at
+one thing: generating content that is /plausible/. This is a
+fascinating phenomenon, because it makes them very good at guessing or
+improvising, but not at all good at being creative, at innovating. It
+cannot explain, for example, why a particular metaphor is
+powerful. Trust me, I’ve tried to ask it.
+
+A language model can only generate what it has already seen
+before. Even a phenomenon like “hallucination,” that a language model
+spews text that has no bearing in reality, is based on the tendency of
+models to reproduce what they've already seen. They hallucinate not
+because they are creative or random, but because they are designed
+from statistical processes to generate what is most plausible. And
+what is most plausible is based on what it has read before, with no
+basis in objective reality.
+
+This tendency toward plausibility creates an interesting perspective
+for me to think through the language outputs of the model. Here I draw
+form what Trans Studies scholars have theorizied about trans affective
+modes and how they are distinguished from so-called "queer"
+affects. In a roundtable called "Thinking with Trans Now" published in
+/Social Text/, trans studies scholar Eliza Steinbock contrasts trans
+and queer affects:
+#+begin_quote
+“trans analytics have (historically, though not
+universally) a different set of primary affects than queer
+theory. Both typically take pain as a reference point, but then their
+affective interest zags. Queer relishes the joy of subversion. Trans
+trades in quotidian boredom. Queer has a celebratory tone. Trans
+speaks in sober detail. Perhaps the style of trans studies has been
+for the most part realist, but this should not be mistaken for base
+materialism. Even speculative thinking requires enough detail to
+launch into new realms.”
+#+end_quote
+Other trans scholars like Marquis Bey and Andrea Long Chu have made
+similar points; with Bey making the point that queer's intervention
+can be described as "anti" or militant, while trans is "non" or based
+in refusal ("Thinking with Trans Now"); and Chu has remarked that
+trans studies, rather than resisting norms, "requires that we
+understand--as we never have before--what it means to be attached to a
+norm, by desire, by habit, by survival" ("After Trans Studies" 108).
+
+Taking this perspective about distinctly trans affective modes: What
+if we read the outputs of AI-generated text as a kind of
+approximation, a normalization, of the training data that was fed into
+it? What could we read from the outputs that might indicate traces of
+transphobia, of perspectives influenced by Rapid Onset Gender
+Dysphoria, for example? What might these outputs suggest about the
+allure, the threat, the “seduction,” as Trans Studies scholar Cassius
+Adair puts it, of gender transgression?
+
+While this might sound very impressive, I'll admit that, so far, my
+results are not very encouraging. Here's some excerpts of my language
+generated by my model, which I trained by feeding it examples of
+anti-trans legislation. I need to continue to add more training data
+and to tweak my parameters as I continue to iterate and train new
+models. (It's a learning process)
+
+#+begin_quote
+Being transgender means **an individual who is recognized as a
+transgender on the date of the transgender event and may involve
+social legal or physical changes.(20 transgender.--the term
+transgender means an individual who is recognized as a transgender on
+the date of the transgender event and may involve social legal or
+physical changes.(11 transgender.--the term transgender means an
+individual who is recognized as**... 
+#+end_quote
+
+#+begin_quote
+Gender affirmation is **a testosterone or other androgens given to
+biological females at doses which are profoundly larger or more potent
+than would normally occur naturally in healthy biological females and
+estrogen given to biological males at doses which are profoundly
+larger or more potent than would normally occur naturally in healthy
+biological males and estrogen given to biological males at doses which
+are profoundly larger or more potent than would normally occur
+naturally in health**...
+#+end_quote
+
+As you can see from the results, the models are showcasing the
+tendency toward plausibility, here in the tendency to repeat
+itself, which is a fascinating concept in machine learning text
+generation. If you want to play around with this model yourself, it's
+currently published on HuggingFace (a platform for sharing AI models)
+under my username, /gofilipa/.
+
+I will close now by coming back to this idea of fear, and particularly
+the fear of contagion, which drives some strains of
+transphobia. Cassius Adair offers a useful perspective for thinking
+through the threat of contagion when it comes to ROGD. Thinking
+through trans erotics, in particular t4t or "trans for trans"
+erotics. He asks, "Why shouldn't transness be transmissible or
+contagious? Why can't the erotic be a site of producing trans identity
+or practices?" He points out that, after all, cis people do it all the
+time: they use sexuality and sexual encounters as sites of identity
+formation. He continues, saying that
+#+begin_quote
+as opposed to the phobic concept of ROGD[...] in which actual children
+and their potential current crushes or projected future sexual desires
+operate as a site for adult anxiety about proper gendered development
+and sexual object choice, we see this t4t [...] as a space of play in
+which trans [...] people can re-operationalize gendering and
+sexualization practices"
+#+end_quote
+Here, I see Adair doing for contagion what Sedgwick does for shame:
+turning something that is traditionally seen as a negative into
+something that is generative, productive.
+
+It is the same kind of thing I hope to accomplish with this project,
+and something that I think is possible by using the tools that we gain
+in English departments--that is--by close reading, or what Sedgwick
+calls, "imaginative close reading."
+
+Thank you.
+
 
 
 
