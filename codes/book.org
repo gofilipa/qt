@@ -10,7 +10,7 @@ There is a constraint, such as the reductive flattening of text in
 text analysis. The hierarchical format of data structures. The opacity
 of the interface, the display layer. (generalization) 
 
-These constraints are embraced by majority culture.
+These constraints are embraced by heteronormative culture.
 
 Queer practice would, by contrast, seek these out and re-deploy them
 toward ends they were not built for.

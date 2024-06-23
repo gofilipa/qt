@@ -5,9 +5,9 @@ Category: revision
 So I have been thinking more and more about my dissertation, and what
 to do with it. At first, I really resisted the idea of publishing
 it. That genre of academic writing, which I mimed as a learning
-exercise, feels inauthentic to me in the end. When I look at those
+exercise, felts inauthentic to me in the end. When I look at those
 pages I see an attempt to fit a type of mold that doesn't reflect my
-energies or my intentions as a writer.
+energy or my intention as a writer.
 
 Something more authentic would be terse and mobile, moving from one
 idea to the next with a clear goal structuring the progress. It would
