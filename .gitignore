@@ -1,1 +1,4 @@
+/qt_writings/*.zip
+/qt_writings/three/img/*.mov
 venv/
+.DS_Store
