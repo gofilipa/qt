@@ -1,31 +1,59 @@
-* queer codes
+* queer code / decoded()
 
 ** sketch
 Queer approaches to the digital.
-
-Queer practice as a way of working within constraints to open up
-possibilites for alternativity, meaning, resistance.
+- Queer practice as a way of working within constraints to open up
+  possibilites for alternativity, meaning, resistance.
 
 There is a constraint, such as the reductive flattening of text in
 text analysis. The hierarchical format of data structures. The opacity
 of the interface, the display layer. (generalization) 
+- These constraints are embraced by majority culture.
+- Queer practice would, by contrast, seek these out and re-deploy them
+  toward ends they were not built for.
 
-These constraints are embraced by heteronormative culture.
+Each chapter is a tutorial that proffers a reading of a literary
+text as an anchor for the programmatic instruction.  
 
-Queer practice would, by contrast, seek these out and re-deploy them
-toward ends they were not built for.
+*** TODO Loops: performativity and iterativity
+- takes the iterativity of the loop to question how gender can be
+  subverted in text analysis.
 
-*** Performativity / text analysis
-*** Dis-identification / data formats
-*** Surface aesthetics / interface effects
-*** Seduction / artificial intelligence
-ROGD - rapid onset gender dysphoria. 
+outline:
+- Woolf's orlando begins with a scene of racialized violence, in which
+  gender is carefully constructed along with nationality and race.
+  - when analyzing this text, the subtleties of language are stripped
+    away.
+  - regularization/standardization is necessary for text analysis.
+  - this tutorial explores whether these processes of regularization
+    can be re-worked to bring back some of the subtleties surrounding
+    gender in this text. 
+- loop iterates over objects, item by item, doing something to each
+  item.
+- can transform text in this way.
+  - making all of the letters in a text uppercase, for example.
+  - hinting toward text cleaning? 
+- gender is similarly iterative. 
 
+*** Hierarchy: dis-identification and data formats
+- takes dominance structures in hierarchical data formats to explore
+  expressive structures in archival/knowledge work.
+
+*** Abstraction: flesh/embodiment and display
+- reads materiality across software stacks to explore how surface
+  effects (like opacity and torque) reinforce physical embodiment. 
+
+*** Vectorization and machine learning
+- explores the ways machine learning processes perpetuate and amplify
+  systemic biases with regard to gender.
+- trans studies and the desire to pass relates to processes of
+  vectorization/normalization within model training.   
+- Potential connection between these processes and the fear of
+  ROGD. Something about this discourse. 
+
+**** Seduction
 The idea that there is something seductive, that there is something
-irresistable about transition.
-
-I need to get a copy of that book. Perhaps to get a copy of many books
-with anti-trans ideology.
+irresistable about transition, ROGD.
 
 The seduction of ways of thinking. The lack of critical thinking. The
 lack of individual thinking. The ways that we are tied to our desires,
@@ -37,8 +65,7 @@ project their desire to find meaning onto the chatbot.
 
 Just like that, a transphobic will project their desire onto others,
 the fear of ROGD. The desire for transition becomes transformed into a
-fear that transness is contagioius. I won't say whether it is or it's
-not.
+fear that transness is contagioius. 
 
 The danger of artificial intlligence is that it makes more apparent
 our preconceptions, that we stick to. It is dangerous because it
@@ -46,7 +73,79 @@ amplifies, perpetuates our biases and preconceptions (in more than one
 way).
 
 By creating a human-like interface, we project our desires and our
-fears onto it. 
-
+fears onto it.
 
 ** draft
+
+*** loops
+A loop is a core concept in programming that enables processes to
+"loop" or "iterate" over pieces of data.
+
+#+begin_src python
+  for character in 'hello world!':
+      print(letter)
+#+end_src
+
+The first line of the loop, called a ~for loop~ in Python, specifies
+the data, in this case, the string ~hello world!~.
+
+  string: A ~string~ is a type of data that consists of alphanumeric
+  characters contained within quotes. It is, in other words, a string
+  of characters.
+
+The second line uses the ~print()~ function to display each letter in
+the string, one by one.
+
+  ~print()~: The purpose of the ~print()~ function is to display, or
+  "print" data. The name predates graphical displays to an from an
+  earlier time in computing when displaying data required literally
+  printing it out on paper. Potential connection to feminization of
+  printing? See https://en.wikipedia.org/wiki/Teleprinter
+
+This loop thus iterates over ~'hello world!'~ to print each of its
+letters.
+
+#+begin_src python
+h
+e
+l
+l
+o
+
+w
+o
+r
+l
+d
+!
+#+end_src
+
+Loops make transformations to text by operating on it one piece at a
+time. One may apply an action, like the ~uppercase()~ method, to a
+string. 
+
+[methods vs. functions: 
+
+#+begin_src python
+  for character in 'hello world!':
+      print(character.upper())
+#+end_src
+
+The ~upper()~ method 
+
+
+#+begin_src python
+  H
+  E
+  L
+  L
+  O
+
+  W
+  O
+  R
+  L
+  D
+  !
+#+end_src
+
